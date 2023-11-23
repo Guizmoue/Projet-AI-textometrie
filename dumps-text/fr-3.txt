@@ -1,0 +1,450 @@
+   [1]CAIRN.INFO : Matières à réflexion [2]CAIRN.INFO : Matières à
+   réflexion
+     * [3]search
+       ____________________ [4]search
+          + [5]Recherche avancée
+          + [6]help_outline Aide à la recherche
+     * [7]person_outline Connexion
+       Compte personnel Cairn.info
+       ____________________
+       ____________________
+       [X] Rester connecté
+       [8]Mot de passe oublié ?
+       Se connecter
+       Pas encore enregistré ?
+       [9]Créer un compte
+       Accès institution
+       Vous accédez à Cairn.info via
+       Université de Nanterre - Paris 10
+       [10]Voir les publications disponibles
+     * [11]language
+       You might also want to visit our [12]Cairn International Edition.
+       [13]SWITCH TO ENGLISH
+       Tal vez desee visitar también nuestros contenidos en español en
+       [14]Cairn Mundo.
+       [15]CAMBIAR A ESPAÑOL
+     * Toggle navigation menu
+
+     * [16]Revues
+     * [17]Ouvrages
+     * [18]Que sais-je ? / Repères
+     * [19]Magazines
+     * [20]Mon cairn.info
+
+   CAIRN.INFO : Matières à réflexion
+
+    1. [21]Accueil
+    2. [22]Revues
+    3. [23]Hermès, La Revue
+    4. [24]Numéro 2018/1 (n° 80)
+    5. « Le technolibéralisme nous...
+
+   [25][HERM_080.jpg?fallback=true]
+   2018/1
+     * « Le technolibéralisme nous conduit à un “avenir régressif” »
+     * [26]Suivre cet auteur [27]Éric Sadin
+     * Dans [28]Hermès, La Revue [29]2018/1 (n° 80), pages 255 à 258
+
+   [30]format_quote Citer ou exporter [31]Ajouter à une liste [32]Suivre
+   cette revue
+   [33]Précédent [34]Suivant
+
+     * [35]Article
+     * [36]Auteur
+     * [37]Sur un sujet proche
+     * [38]file_downloadTélécharger
+     * [39]Article
+          + [40]Article
+          + [41]Auteur
+          + [42]Sur un sujet proche
+          + [43]file_downloadTélécharger
+
+Article
+
+   [44]1Brigitte Chapelain : Qu’est-ce qui a changé pour vous en trente
+   ans dans les rapports entre sciences, techniques et société ?
+
+   [45]2Éric Sadin : La technique, en tant que champ relativement
+   autonome, a disparu. Il n’existe plus qu’un monde technoscientifique
+   inféodé aux instances économiques qui dictent les trajectoires à
+   emprunter. Aujourd’hui, il ne demeure plus que du technoéconomique. Il
+   s’agit là d’un fait majeur de notre temps. Historiquement, les
+   scientifiques, les ingénieurs, bénéficiaient d’une indépendance. Depuis
+   le début du xx^e siècle, l’industrie les a peu à peu intégrés en son
+   sein, soumettant leurs recherches à des objectifs définis par des
+   bureaux de tendances et les départements de marketing. Il est loin le
+   temps où le mathématicien Alexandre Grothendieck, par exemple, avait
+   appris avec indignation que l’Institut des hautes études scientifiques
+   (IHES), dont il contribuait à la renommée internationale, bénéficiait
+   de fonds provenant de l’OTAN via le ministère de la Défense nationale
+   français. Il s’était efforcé de faire annuler cette source de
+   financement, mais son initiative essuya un refus de la part de sa
+   hiérarchie, à la suite de quoi il démissionna de toutes ses fonctions
+   au sein de l’institution. Il avait alors fondé, avec d’autres, en 1970,
+   le groupe Survivre et vivre, qui publiait notamment une revue qui
+   témoignait d’une conscience admirable relativement à la responsabilité
+   des scientifiques et des ingénieurs, dont ferait bien de s’inspirer
+   cette corporation qui, selon moi, a dorénavant vendu son âme.
+
+   [46]3Brigitte Chapelain : À ce sujet, vous citez des exemples actuels.
+
+   [47]4Éric Sadin : Nous savons que l’intelligence artificielle (IA),
+   appelée, à terme, à interférer dans tous les secteurs de la société et
+   tous les pans de nos vies, constitue un enjeu majeur de notre temps.
+   Ceux qui travaillent à ses développements œuvrent au sein d’entreprises
+   qui dictent la nature des programmes de recherche. Voyez le cas de Yann
+   LeCun, un des meilleurs spécialistes français du machine learning, qui
+   a été enrôlé depuis quelques années par la firme Facebook pour diriger
+   l’unité de recherche française sur l’IA. Comment voulez-vous que cette
+   personne puisse manifester une quelconque distance critique ?
+   Aujourd’hui, ce sont les grandes entreprises qui définissent les
+   programmes et les chercheurs s’y soumettent. C’est la triste réalité.
+   C’est pour cette raison que je m’oppose au concept de pharmakon selon
+   lequel la technique serait à la fois remède et poison. C’était
+   peut-être le cas lorsque les artefacts contenaient des formes
+   d’ambivalence dans leurs usages, mais désormais les productions
+   techniques répondent, dans leur quasi-intégralité, à de strictes visées
+   utilitaristes, qui n’offrent aucune alternative dans leurs
+   utilisations. Dorénavant, le monde économique détermine la trajectoire
+   des développements techniques : il n’existe plus que du
+   technoéconomique.
+
+   [48]5Brigitte Chapelain : Quels autres facteurs y contribuent ?
+
+   [49]6Éric Sadin : Les techno-discours sont puissants et massifs, ils
+   forgent nos représentations. Ils circulent sans que suffisamment de
+   discours critiques ne les contredisent ou démontrent leur
+   inconséquence. Par exemple, à la fin des années 1990, s’est répandue
+   comme une traînée de poudre, de par le monde, l’idée que les réseaux
+   allaient nous conduire vers un âge radieux de l’émancipation. De
+   nouvelles structures relationnelles et communicationnelles se
+   constituaient, une infinité de corpus textuels, sonores et iconiques
+   devenaient subitement accessibles de partout.
+
+   [50]7Un lien de cause à effet a vite été établi entre surcroît
+   d’information, facilité de communiquer et possibilité pour les
+   individus de gagner en autonomie et pour les sociétés de construire,
+   grâce à l’apport de tous, des modèles plus éclairés et plus viables. On
+   le sait, les choses se sont passées tout autrement, voyant de façon
+   apparemment paradoxale l’émergence de formes de repli sur soi, et le
+   régime de l’expressivité – à l’œuvre de façon quasi névrotique sur les
+   réseaux sociaux – supplanter celui de la mise en œuvre de projets
+   communs, autrement nommée action politique. Tous ces discours étaient
+   abusifs, fondés sur des raccourcis conceptuels, et se sont imposés
+   comme des vérités de l’époque. En réalité, les réseaux, ont vite été
+   investis et capitalisés par le régime privé. Google a compris, parmi
+   les premiers, que les informations pouvaient constituer le cœur d’un
+   nouveau modèle économique, fondé sur leur traitement structuré et leur
+   exploitation commerciale à diverses fins.
+
+   [51]8Brigitte Chapelain : Et qui a conduit ensuite à l’émergence de ce
+   que vous nommez « l’âge de la mesure de la vie » ?
+
+   [52]9Éric Sadin : Aujourd’hui, ce qui fut nommé à juste titre, au
+   tournant du nouveau millénaire, « l’âge de l’accès », demeure mais se
+   voit agrégé par un autre mouvement, que je nomme « l’ère de la mesure
+   de la vie ». Car ce ne sont plus seulement les différents champs
+   symboliques (écrit, son, image) qui se trouvent réduits à des codes
+   numériques, mais plus largement le réel qui se trouve réduit à des
+   données. Ce phénomène, actuellement en émergence massive, est rendu
+   possible par la prolifération d’objets connectés et de capteurs,
+   appelés à terme à s’étendre à toutes les surfaces de nos quotidiens. Il
+   s’opère une traçabilité de nos gestes individuels et collectifs, gérée
+   par des systèmes d’intelligence artificielle conçus en vue de deux
+   objectifs majeurs : suggérer des offres de produits et produits
+   supposés adaptés à chaque profil, et instaurer une organisation
+   automatisée des affaires humaines tendue vers leur plus haute
+   optimisation. Ce n’est plus seulement l’attention des personnes qui
+   entend être captée, mais la vie, dans la perspective d’instaurer une
+   société toute entière fondée sur le feedback, la rétroaction, où chaque
+   fragment du réel se trouve collecté et traité en vue de lui faire
+   prendre le meilleur cours supposé, répondant généralement à des
+   intérêts privés ou à de seules visées utilitaristes.
+
+   [53]10Brigitte Chapelain : Vous affirmez qu’une puissante doxa entoure
+   les développements actuels de l’intelligence artificielle ?
+
+   [54]11Éric Sadin : La doxa techno-libérale est omniprésente ; il relève
+   d’une question de salut public d’analyser les enjeux de façon clinique
+   et désintéressée. Nous ne cessons de gloser sur les possibles
+   conséquences de l’intelligence artificielle, mais sans jamais chercher
+   à identifier sa cause et à l’appréhender au sein d’une vue d’ensemble.
+   Or, son origine peut être identifiée : c’est celle d’un changement de
+   statut des technologies numériques. Car elles se voient chargées d’une
+   fonction dont nous n’aurions, jusqu’à peu, jamais pensé les affecter.
+   Dorénavant, certains systèmes computationnels sont dotés, nous les
+   avons dotés, d’une troublante vocation : énoncer la vérité. Le
+   numérique s’érige comme une puissance alèthéique, destinée à révéler
+   l’alètheia, soit la vérité, dans le sens défini par la philosophie
+   grecque antique comme la manifestation de la réalité des phénomènes à
+   l’opposé des apparences. Il se dresse comme un organe habilité à
+   expertiser le réel de façon plus fiable que nous-mêmes autant qu’à nous
+   révéler des dimensions jusque-là masquées à notre conscience.
+
+   [55]12L’intelligence artificielle est appelée à imposer sa loi,
+   orientant du haut de son autorité les affaires humaines. Et ce, non pas
+   de façon homogène, mais s’exerçant à différents degrés pouvant aller
+   d’un niveau incitatif, à l’œuvre dans les assistants numériques
+   personnels conseillant un régime diététique par exemple, à un niveau
+   prescriptif, dans le cas de l’examen de l’octroi d’un emprunt bancaire,
+   jusqu’à atteindre à des niveaux coercitifs, emblématiques dans le champ
+   du travail, voyant des systèmes édicter à des personnes les gestes à
+   exécuter. Désormais, une technologie revêt un « pouvoir injonctif »
+   entraînant l’éradication progressive des principes juridico-politiques
+   qui nous fondent, le libre exercice de notre faculté de jugement et
+   d’action étant substitué par des protocoles destinés à infléchir chacun
+   de nos actes en vue de leur insuffler, presque de leur « souffler », la
+   bonne trajectoire à suivre.
+
+   [56]13Brigitte Chapelain : Dans votre dernier livre, vous dénoncez la
+   « silicolonisation du monde » qui favorise cette démission collective ?
+
+   [57]14Éric Sadin : La Silicon Valley incarne l’insolente réussite
+   industrielle de notre temps. Elle regorge de groupes qui dominent
+   l’industrie du numérique, les Apple, Google, Facebook, Uber, Netflix,
+   etc. et qui engrangent des chiffres d’affaires faisant rêver les
+   entrepreneurs du monde entier. Toutes les régions du globe cherchent
+   désormais à dupliquer son cœur actuel de métier, soit l’économie de la
+   donnée et des plateformes. Depuis peu, la Silicon Valley ne renvoie
+   plus seulement à un territoire, elle a généré un esprit en passe de
+   coloniser le monde, porté par de nombreux missionnaires : industriels,
+   universités, think tanks, et par une classe politique qui encourage
+   l’édification de valleys sur les cinq continents, sous la forme
+   d’« écosystèmes numériques » et d’« incubateurs de start-up ». La
+   silicolonisation, c’est la conviction que ce modèle représente
+   l’horizon indépassable de notre temps et qui, de surcroît, incarnerait
+   une forme lumineuse du capitalisme. Un capitalisme d’un nouveau genre,
+   paré de « vertus égalitaires » car offrant à tous – du « startupper
+   visionnaire » au « collaborateur créatif » ou à « l’auto-entrepreneur
+   autonome » – la possibilité de s’y raccorder et de s’y « épanouir ».
+   Mais ce qui n’est pas vu, c’est qu’au-delà d’un modèle économique,
+   c’est un modèle civilisationnel qui en train de s’instaurer à grande
+   vitesse, fondé sur la marchandisation intégrale de la vie et
+   l’organisation automatisée de secteurs toujours plus nombreux de la
+   société.
+
+   [58]15Brigitte Chapelain : Comment voyez-vous l’avenir ?
+
+   [59]16Éric Sadin : Les tenants de l’industrie du numérique se vantent
+   d’incarner l’avenir et d’œuvrer au bien de l’humanité grâce aux
+   « technologies de l’exponentiel » appelées à « cracker » toutes les
+   structures de la société dans un joyeux feu d’artifice disruptif
+   permanent. Dans les faits, ils nous conduisent vers un « avenir
+   régressif » défaisant en l’espace de moins d’une génération nombre
+   d’acquis issus de luttes menées durant des siècles, à la seule fin
+   d’assouvir leurs intérêts particuliers. C’est pourquoi, il me semble
+   que nous devons, à toutes les échelles de la société, citoyens,
+   syndicats, associations, défendre le bien commun et notre droit à
+   déterminer librement du cours de nos destins. Nous vivons un moment
+   critique. Car c’est maintenant et durant la troisième décennie du xxi^e
+   siècle que se jouera soit le développement irréfréné d’un
+   technolibéralisme entendant nous soumettre intégralement à ses
+   logiques, soit la sauvegarde des valeurs humanistes qui nous
+   constituent.
+
+Auteur
+
+   Éric Sadin
+   Éric Sadin est écrivain et philosophe. Son dernier ouvrage est La
+   silicolonisation du monde. L’irrésistible expansion du libéralisme
+   numérique (L’échappée, coll. « Pour en finir avec », 2016).
+   Cette publication est la plus récente de l'auteur sur Cairn.info.
+
+Sur un sujet proche
+
+          Mis en ligne sur Cairn.info le 25/05/2018
+          [60]https://doi.org/10.3917/herm.080.0255
+
+   [61]Précédent [62]Suivant
+
+   [63]Ajouter [64]Suivre
+
+   (BUTTON) clear
+
+Citer cet article [65]Français
+
+   ISO 690 FR [66]Copier SADIN Éric, « « Le technolibéralisme nous conduit
+   à un “avenir régressif” » », Hermès, La Revue, 2018/1 (n° 80), p.
+   255-258. DOI : 10.3917/herm.080.0255. URL :
+   https://www.cairn.info/revue-hermes-la-revue-2018-1-page-255.htm
+   MLA FR [67]Copier Sadin, Éric. « « Le technolibéralisme nous conduit à
+   un “avenir régressif” » », Hermès, La Revue, vol. 80, no. 1, 2018, pp.
+   255-258.
+   APA FR [68]Copier Sadin, É. (2018). « Le technolibéralisme nous conduit
+   à un “avenir régressif” ». Hermès, La Revue, 80, 255-258.
+   [69]https://doi.org/10.3917/herm.080.0255
+   DOI [70]Copier [71]https://doi.org/10.3917/herm.080.0255
+
+Exporter la citation
+
+   [72]file_downloadZotero (.ris) [73]file_downloadEndNote (.enw)
+   [74]open_in_new RefWorks
+
+   Pour citer cet article
+
+   Distribution électronique Cairn.info pour CNRS Éditions © CNRS
+   Éditions. Tous droits réservés pour tous pays. Il est interdit, sauf
+   accord préalable et écrit de l’éditeur, de reproduire (notamment par
+   photocopie) partiellement ou totalement le présent article, de le
+   stocker dans une banque de données ou de le communiquer au public sous
+   quelque forme et de quelque manière que ce soit.
+
+   (BUTTON) clear
+
+Mon Cairn.info
+
+   Aujourd’hui, Cairn diffuse plus de 400 000 articles de revues et en
+   ajoute 2 500 nouveaux tous les mois. Comment repérer l’essentiel ?
+   Comment ne rien laisser passer ?
+
+   CAIRN.INFO : Matières à réflexion CAIRN.INFO : Matières à réflexion
+   Avec le soutien du Avec leur soutien [75]CNL [76]CNRS
+     * [77]À propos
+     * [78]Éditeurs
+     * [79]Particuliers
+     * [80]Bibliothèques
+     * [81]Organisations
+
+     * [82]Abonnement Cairn Pro
+     * [83]Listes publiques
+     * [84]Dossiers
+     * [85]Rencontres
+     * [86]Contact
+
+     * [87]Cairn International (English)
+     * [88]Cairn Mundo (Español)
+     * [89]Cairn Sciences (Français)
+     * [90]Authentification hors campus
+     * [91]Accès via Université de Nanterre - Paris 10
+     * [92]Aide
+
+   © Cairn.info 2023 | [93]Conditions générales d’utilisation |
+   [94]Conditions générales de vente | [95]Politique de confidentialité
+
+   Cairn.info | Accès via Université de Nanterre - Paris 10
+
+   [96]keyboard_arrow_up
+
+   (BUTTON) clear
+
+Connexion fermée
+
+   Vous avez été déconnecté car votre compte est utilisé à partir d'un
+   autre appareil.
+
+   Chargement
+   Chargement en cours.
+   Veuillez patienter...
+
+   [about.php?cairn_guest=2023112317007307172480]
+
+   Attention, (BUTTON) clear l'identifiant saisi ne correspond pas à un
+   compte Cairn.info.
+
+   Attention, (BUTTON) clear le mot de passe saisi ne correspond pas au
+   compte Cairn.info.
+
+   Attention, (BUTTON) clear erreur à l'authentification.
+
+References
+
+   Visible links:
+   1. https://www.cairn.info/
+   2. https://www.cairn.info/
+   3. javascript:void(0);
+   4. javascript:void(0);
+   5. https://www.cairn.info/recherche_avancee.php?src1=Tx&word1=&operator1=&nparams=1
+   6. https://aide.cairn.info/article/113-comment-optimiser-mes-recherches-sur-cairn-info
+   7. javascript:void(0);
+   8. https://www.cairn.info/mdp_oublie.php
+   9. https://www.cairn.info/creer_compte.php
+  10. https://aide.cairn.info/article/108-quelles-sont-les-publications-disponibles-dans-l-abonnement-de-mon-institution
+  11. javascript:void(0);
+  12. https://www.cairn-int.info/
+  13. https://www.cairn-int.info/
+  14. https://www.cairn-mundo.info/
+  15. https://www.cairn-mundo.info/
+  16. https://www.cairn.info/Accueil_Revues.php
+  17. https://www.cairn.info/ouvrages.php
+  18. https://www.cairn.info/que-sais-je-et-reperes.php
+  19. https://www.cairn.info/magazines.php
+  20. https://www.cairn.info/mon_cairn.php
+  21. https://www.cairn.info/
+  22. https://www.cairn.info/Accueil_Revues.php
+  23. https://www.cairn.info/revue-hermes-la-revue.htm
+  24. https://www.cairn.info/revue-hermes-la-revue-2018-1.htm
+  25. https://www.cairn.info/revue-hermes-la-revue-2018-1.htm
+  26. https://www.cairn.info/connexion.php?from=suivre&type=publication-auteur-article&id=52740
+  27. https://www.cairn.info/publications-de-Éric-Sadin--52740.htm
+  28. https://www.cairn.info/revue-hermes-la-revue.htm
+  29. https://www.cairn.info/revue-hermes-la-revue-2018-1.htm
+  30. javascript:void(0);
+  31. https://www.cairn.info/connexion.php?from=ajoutBiblio&id=HERM_080_0255&type=biblio
+  32. https://www.cairn.info/connexion.php?from=suivre&type=nouveau-numero&id=HERM
+  33. https://www.cairn.info/revue-hermes-la-revue-2018-1-page-252.htm
+  34. https://www.cairn.info/revue-hermes-la-revue-2018-1-page-259.htm
+  35. https://www.cairn.info/revue-hermes-la-revue-2018-1-page-255.htm#article
+  36. https://www.cairn.info/revue-hermes-la-revue-2018-1-page-255.htm#auteur
+  37. https://www.cairn.info/revue-hermes-la-revue-2018-1-page-255.htm#sujetproche
+  38. javascript:void(0);
+  39. javascript:void(0);
+  40. https://www.cairn.info/revue-hermes-la-revue-2018-1-page-255.htm#article
+  41. https://www.cairn.info/revue-hermes-la-revue-2018-1-page-255.htm#auteur
+  42. https://www.cairn.info/revue-hermes-la-revue-2018-1-page-255.htm#sujetproche
+  43. javascript:void(0);
+  44. https://www.cairn.info/revue-hermes-la-revue-2018-1-page-255.htm#pa1
+  45. https://www.cairn.info/revue-hermes-la-revue-2018-1-page-255.htm#pa2
+  46. https://www.cairn.info/revue-hermes-la-revue-2018-1-page-255.htm#pa3
+  47. https://www.cairn.info/revue-hermes-la-revue-2018-1-page-255.htm#pa4
+  48. https://www.cairn.info/revue-hermes-la-revue-2018-1-page-255.htm#pa5
+  49. https://www.cairn.info/revue-hermes-la-revue-2018-1-page-255.htm#pa6
+  50. https://www.cairn.info/revue-hermes-la-revue-2018-1-page-255.htm#pa7
+  51. https://www.cairn.info/revue-hermes-la-revue-2018-1-page-255.htm#pa8
+  52. https://www.cairn.info/revue-hermes-la-revue-2018-1-page-255.htm#pa9
+  53. https://www.cairn.info/revue-hermes-la-revue-2018-1-page-255.htm#pa10
+  54. https://www.cairn.info/revue-hermes-la-revue-2018-1-page-255.htm#pa11
+  55. https://www.cairn.info/revue-hermes-la-revue-2018-1-page-255.htm#pa12
+  56. https://www.cairn.info/revue-hermes-la-revue-2018-1-page-255.htm#pa13
+  57. https://www.cairn.info/revue-hermes-la-revue-2018-1-page-255.htm#pa14
+  58. https://www.cairn.info/revue-hermes-la-revue-2018-1-page-255.htm#pa15
+  59. https://www.cairn.info/revue-hermes-la-revue-2018-1-page-255.htm#pa16
+  60. https://doi.org/10.3917/herm.080.0255
+  61. https://www.cairn.info/revue-hermes-la-revue-2018-1-page-252.htm
+  62. https://www.cairn.info/revue-hermes-la-revue-2018-1-page-259.htm
+  63. https://www.cairn.info/connexion.php?from=ajoutBiblio&id=HERM_080_0255&type=biblio
+  64. https://www.cairn.info/connexion.php?from=suivre&type=nouveau-numero&id=HERM
+  65. javascript:void(0);
+  66. javascript:void(0);
+  67. javascript:void(0);
+  68. javascript:void(0);
+  69. https://doi.org/10.3917/herm.080.0255
+  70. javascript:void(0);
+  71. https://doi.org/10.3917/herm.080.0255
+  72. https://www.cairn.info//Tools/exports/export-zotero.php?ID_ARTICLE=HERM_080_0255
+  73. https://www.cairn.info//Tools/exports/export-endnote.php?ID_ARTICLE=HERM_080_0255
+  74. http://www.refworks.com/express/ExpressImport.asp?vendor=Cairn&filter=Refworks Tagged Format&encoding=65001&url=https://www.cairn.info//Tools/exports/export-refworks.php?ID_ARTICLE=HERM_080_0255
+  75. http://www.centrenationaldulivre.fr/
+  76. http://www.cnrs.fr/
+  77. https://www.cairn.info/a-propos.php
+  78. https://www.cairn.info/services-aux-editeurs.php
+  79. https://www.cairn.info/services-aux-particuliers.php
+  80. https://www.cairn.info/services-aux-institutions.php
+  81. https://www.cairn.info/services-aux-organisations.php
+  82. https://www.cairn.info/pro
+  83. https://www.cairn.info/listes-publiques.php
+  84. https://www.cairn.info/dossiers.php
+  85. https://www.cairn.info/rencontres.php
+  86. https://www.cairn.info/contact.php
+  87. https://www.cairn-int.info/
+  88. https://www.cairn-mundo.info/
+  89. https://www.cairn-sciences.info/
+  90. https://www.cairn.info/acces_hors.php?redirectOnSuccess=opcTK4XBa3u2rAuXbsUC8w==_CFb3lTW6/qX4r8qM3ntVxOgfAOJojnD74TdACTmJr+kGwpsyNrguA5Pcexhqfpoi
+  91. https://aide.cairn.info/article/108-quelles-sont-les-publications-disponibles-dans-l-abonnement-de-mon-institution
+  92. https://aide.cairn.info/
+  93. https://www.cairn.info/conditions.php
+  94. https://www.cairn.info/conditions-generales-de-vente.php
+  95. https://www.cairn.info/vie-privee.php
+  96. javascript:void(0);
+
+   Hidden links:
+  98. javascript:void(0);

@@ -1,0 +1,1013 @@
+   #[1]alternate [2]alternate [3]InCyber » Feed [4]InCyber » Comments Feed
+
+   News and Cyber Community
+     * [5]Contributors
+     * [6]Talents
+     * [7]Nominees
+     * [8]Business
+     * [9]Opinion
+     * [10]Publications
+     * [11]Agenda
+     * [12]Videos
+
+   Themes
+     * [13]Operational security
+     * [14]Cyber risks
+     * [15]Digital transition
+     * [16]Cybercrime
+     * [17]Digital Sovereignty
+     * [18]Security and Stability in Cyberspace
+     * [19]Cyber industrial safety
+     * [20]Antifraud action
+     * [21]Digital identity & KYC
+
+   inCyber
+     * [22]Advertising and partnerships
+     * [23]About
+     * [24]Sitemap
+     * [25]Contact us
+     * [26]Data protection
+     * [27]Legal Notice and Terms
+
+     * [28]Advertising and partnerships
+     * [29]picto-mail Newsletter
+     * [30]picto-search Search
+     * [31]Français
+     * [32]English
+
+   Research ____________________ Search
+
+   https://incyber.org/wp-content/uploads/2021/07/FI_NA_23_Logotype_White_
+   EN.png
+
+   The leading
+   event on Digital security
+   and trust issues
+   [33]Read more
+
+   [34]InCyber
+     * [35]Operational security
+     * [36]Cyber risks
+     * [37]Digital transition
+     * [38]Cybercrime
+     * [39]Digital Sovereignty
+     * [40]Security and Stability in Cyberspace
+     * [41]Français
+     * [42]English
+
+     * [43]Advertising and partnerships
+     * [44]picto-mail Newsletter
+     * [45]picto-search Search
+     * [46]Français
+     * [47]English
+
+   Research ____________________ Search
+   [48]InCyber
+     * [49]Events
+     * [50]Business
+     * [51]Nominees
+     * [52]Talents
+     * [53]Opinion
+     * [54]Publications
+     * [55]Videos
+
+   [56]InCyber
+
+   [57]InCyber
+     * [58]Operational security
+     * [59]Cyber risks
+     * [60]Digital transition
+     * [61]Cybercrime
+     * [62]Digital Sovereignty
+     * [63]Security and Stability in Cyberspace
+     * [64]Français
+     * [65]English
+
+   News and Cyber Community
+     * [66]Contributors
+     * [67]Talents
+     * [68]Nominees
+     * [69]Business
+     * [70]Opinion
+     * [71]Publications
+     * [72]Agenda
+     * [73]Videos
+
+   Themes
+     * [74]Operational security
+     * [75]Cyber risks
+     * [76]Digital transition
+     * [77]Cybercrime
+     * [78]Digital Sovereignty
+     * [79]Security and Stability in Cyberspace
+     * [80]Cyber industrial safety
+     * [81]Antifraud action
+     * [82]Digital identity & KYC
+
+   inCyber
+     * [83]Advertising and partnerships
+     * [84]About
+     * [85]Sitemap
+     * [86]Contact us
+     * [87]Data protection
+     * [88]Legal Notice and Terms
+
+     * [89]Operational security
+     * [90]Cyber risks
+     * [91]Digital transition
+     * [92]Cybercrime
+     * [93]Digital Sovereignty
+     * [94]Security and Stability in Cyberspace
+     * [95]Cyber industrial safety
+     * [96]Antifraud action
+     * [97]Digital identity & KYC
+
+   Artificial intelligence: the world is waking up to the risks
+     * [98]Twitter
+     * [99]Facebook
+     * [100]LinkedIn
+     * [101]Email
+
+   2 min
+
+Artificial intelligence: the world is waking up to the risks
+
+   The past week was intense in the world of artificial intelligence (AI).
+   In the space of a few days, five documents were published by
+   prestigious institutions all examining the issue of AI and its risks to
+   humanity. Just a coincidence? Certainly not.
+   [102]Cyber risks - [103]Louis Nauges - November 16, 2023
+
+   All these documents refer to the risks linked to Artificial General
+   Intelligence (AGI), which is level 2 of AI. Today’s artificial
+   intelligence, including generative AI systems like ChatGPT, fall within
+   Artificial Narrow Intelligence (ANI), which is level 1. This artificial
+   intelligence can do a single activity as well as a human, perhaps even
+   better.
+
+   AGI and its level 3 successor, Artificial Super Intelligence (ASI), are
+   AIs that can accomplish all informational activities to a quality level
+   that equals or exceeds what humans can produce. Currently, the expert
+   consensus is that AGI could arrive between 2030 and 2040. Tomorrow,
+   basically.
+
+   These documents point to major risks for humanity, but are they right
+   to warn us of these dangers? The answer is clearly yes.  I urge you to
+   read all five documents, but if you were to read just one, it would be
+   the one by [104]this group of 30 experts.
+
+   This excerpt gives the general tone of the document: “AI advancement
+   could culminate in a large-scale loss of life and the biosphere, and
+   the marginalization or even extinction of humanity“. It “coolly”
+   suggests the extinction of mankind! The three ensuing documents each
+   mostly resemble each other. They are very general declarations of
+   intent full of goodwill but with little real impact.
+
+   They were published by the [105]United Nations, the [106]G7 as well as
+   the [107]Bletchley Summit, an international meeting organized by the
+   United Kingdom that was held on November 1 and 2, 2023.
+
+   No one will argue against the ideas expressed in the Bletchley
+   Declaration signed by 28 countries with widely divergent interests,
+   including the United States, China, India, Israel, Saudi Arabia and the
+   European Union.  “The recognition of the need to take account of human
+   rights protection, transparency and explicability, fairness,
+   accountability, regulation, security, appropriate human oversight,
+   ethics, bias mitigation, privacy and data protection.”
+
+   The fifth document is different – it is an executive order signed by
+   Joe Biden on October 30, 2023. In 60 pages, the US president lists a
+   hundred specific actions to be taken, and for each, the executive order
+   names the public authorities in charge of carrying them out.
+   Furthermore, the timetable is restrictive, with most of these actions
+   being given between 45 and 365 days to be completed. It is far from a
+   catalogue of good intentions: it demonstrates the United States’ clear
+   desire to do everything it can to maintain its global leadership of AI.
+
+Where is Europe in this concert of recommendations?
+
+   The European Commission has been working on AI since 2020. In June
+   2023, it published [108]a document, EU Legislation in Progress,
+   detailing work on a European Artificial Intelligence Act (AIA) to
+   follow the Digital Service Act and the Digital Market Act. The [109]AIA
+   must now be submitted to the Member States, who can make changes before
+   its final approval. No one knows how long this could take.
+
+   To summarize, can we imagine what the future might hold for
+   collaboration between humankind and AGI and ASI? If we are to believe
+   Rich Sutton, professor at the University of Alberta in Canada and a
+   recognized specialist in artificial intelligence, humanity must
+   inevitably prepare to hand over the reins to AI, as this illustration
+   from one of his [110]recent lectures shows.
+
+   My recommendation: the challenges posed by the rapid arrival of AGIs
+   and ASIs are among the questions that require quick reflection from
+   directors of all organizations, public and private.
+
+   Furthermore, the best AI specialists are often asked, “what is
+   humanity’s future in a world where AI performs better than humans?“.
+   The common answer? “I don’t know.” But that is no reason not to think
+   about it, all together, and very quickly.
+
+Do you want to be informed in real time?
+
+     * Name*
+       ____________________ First Name ____________________ Last Name
+     * E-mail*
+       ____________________
+     * RGPD*
+       [ ] I accept the [111]privacy policy*
+     * Sans titre
+          + [ ] I agree to receive FIC news
+
+   Subscribe
+
+   IFRAME: [112]gform_ajax_frame_7
+
+   [113]Back to home
+
+     * Cyber risks
+     * Cyber industrial safety
+     * Security and Stability in Cyberspace
+     * Cybercrime
+     * Operational security
+     * Antifraud action
+     * Digital identity & KYC
+     * Digital Sovereignty
+     * Digital transition
+
+   Cyber risks
+   [114]Artificial intelligence: the world is waking up to the risks
+   16 November 2023
+
+[115]Artificial intelligence: the world is waking up to the risks
+
+   By [116]Louis Nauges
+   The past week was intense in the world of artificial intelligence (AI).
+   In the space of a few days, five documents were published by
+   prestigious institutions all examining the issue of AI and its ...
+   [117]Google’s Play Store promotes secure apps
+   10 November 2023
+
+[118]Google’s Play Store promotes secure apps
+
+   Badge now certifies apps that pass cybersecurity test.
+   [119]How phishing scams utilize OSINT
+   09 November 2023
+
+[120]How phishing scams utilize OSINT
+
+   By [121]Zachary Amos
+   Open-source intelligence may be increasing the risks posed by phishing
+   scams. Many people aren’t aware of how much may be available about them
+   online, but scammers do, and they’re taking ...
+   [122]Cyberscore: is France really taking the digital threat seriously?
+   07 November 2023
+
+[123]Cyberscore: is France really taking the digital threat seriously?
+
+   By [124]Alexandre Lazarègue, avocat spécialisé en droit du numérique
+   The cyberscore, introduced by law on March 3, 2022, aims to do for
+   cybersecurity what the nutriscore did for food. However, with its
+   limited scope and modest requirements, it is not certain that it ...
+   [125]Ransomware: 40 countries make commitment to no longer pay ransoms
+   04 November 2023
+
+[126]Ransomware: 40 countries make commitment to no longer pay ransoms
+
+   Alliance led by United States and supported by European Union seeks to
+   dry up funding for cybercriminal groups.
+   [127]ANSSI warns about Russian group APT28
+   02 November 2023
+
+[128]ANSSI warns about Russian group APT28
+
+   Report details group’s numerous attacks against French organizations,
+   and explains how to protect oneself.
+   Cyber industrial safety
+   [129]State-affiliated groups are main cyber threat to industry
+   26 September 2023
+
+[130]State-affiliated groups are main cyber threat to industry
+
+   Energy sector accounts for 39% of cyber incidents in ICS/OT processes.
+   [131]Industrial cybersecurity: the need for IT/OT convergence
+   06 September 2023
+
+[132]Industrial cybersecurity: the need for IT/OT convergence
+
+   In an interview with Alliancy published on August 29, 2023,
+   Jean-François Siquet, OT product manager at Air Liquide, reviewed the
+   securing of OT processes required by digitalization. He recognizes ...
+   [133]Wallix raises €10.5 million
+   17 July 2023
+
+[134]Wallix raises €10.5 million
+
+   The French specialist in privileged access raised 5.5 million euros in
+   one night only.
+   [135]Despite improvements, OT cybersecurity remains a problem
+   04 July 2023
+
+[136]Despite improvements, OT cybersecurity remains a problem
+
+   Fortinet’s latest report shows that 75% of manufacturers have suffered
+   at least one intrusion in the last 12 months.
+   [137]Critical flaw in Siemens’ energy sector ICS
+   19 June 2023
+
+[138]Critical flaw in Siemens’ energy sector ICS
+
+   The vulnerability enables complete takeover of devices and may
+   undermine power grids
+   [139]Power grids: Mandiant warns about new malware CosmicEnergy
+   19 June 2023
+
+[140]Power grids: Mandiant warns about new malware CosmicEnergy
+
+   It is said to be the product of a Russian cybersecurity team, Red Team,
+   which develops malicious tools to stress test industrial computer
+   systems
+   Security and Stability in Cyberspace
+   [141]“We are at cyberwar!” Really?
+   31 October 2023
+
+[142]“We are at cyberwar!” Really?
+
+   By [143]Stanislas Tarnowski
+   What better than a war to mobilize everyone’s energy? Armis presents a
+   report on perceptions of cyber warfare and how companies and public
+   authorities are preparing to confront this threat. ...
+   [144]Will the Moon soon get Internet?
+   27 October 2023
+
+[145]Will the Moon soon get Internet?
+
+   By [146]Antoine Meunier
+   The new wave of lunar exploration programs that began with the Artemis
+   1 mission last year will be very different than the program of the
+   1960s. The missions that will take off in the coming years ...
+   [147]Why is there so much misinformation about the Israel-Hamas war on
+   X?
+   26 October 2023
+
+[148]Why is there so much misinformation about the Israel-Hamas war on X?
+
+   By [149]Fanny Tan
+   Since Hamas’s surprise attack against Israel on October 7, 2023, social
+   media has been inundated with false and misleading content, especially
+   X (formerly Twitter). How can we explain such a ...
+   [150]Mysterious Team Bangladesh hacktivists target France
+   08 October 2023
+
+[151]Mysterious Team Bangladesh hacktivists target France
+
+   DDoS attacks hit airports and university to protest French presence in
+   Niger and Senegal, but also ban on abaya dress in French schools.
+   [152]Cyberattack against International Court of Justice in The Hague
+   26 September 2023
+
+[153]Cyberattack against International Court of Justice in The Hague
+
+   ICJ provides no details on cyberattack and perpetrator but has been in
+   Russia’s cross-hairs for a long time.
+   [154]Ursula von der Leyen aims to establish “AI IPCC”
+   26 September 2023
+
+[155]Ursula von der Leyen aims to establish “AI IPCC”
+
+   EU Chief wants to bring together scientists, businesses and experts to
+   guarantee responsible AI growth on a world level.
+   Cybercrime
+   [156]Operation Triangulation reveals vulnerabilities at Apple
+   15 November 2023
+
+[157]Operation Triangulation reveals vulnerabilities at Apple
+
+   By [158]Fabrice Deblock
+   At its annual Security Analyst Summit (SAS) in late October 2023,
+   Kaspersky’s Global Research and Analysis Team (GReAT) revealed a number
+   of elements about Operation Triangulation, which ...
+   [159]Mysterious Team Bangladesh hacktivists target France
+   08 October 2023
+
+[160]Mysterious Team Bangladesh hacktivists target France
+
+   DDoS attacks hit airports and university to protest French presence in
+   Niger and Senegal, but also ban on abaya dress in French schools.
+   [161]Cybercrime considered major threat to German business
+   08 October 2023
+
+[162]Cybercrime considered major threat to German business
+
+   Bitkom estimates cyberattacks will cost German businesses over 200
+   Billion EUR in 2023.
+   [163]Kaspersky provides update on Cuba ransomware gang
+   08 October 2023
+
+[164]Kaspersky provides update on Cuba ransomware gang
+
+   Cybercriminal group develops new iteration of malware, able to avoid
+   newer antiviruses.
+   [165]Scattered Spider behind MGM cyberattack
+   08 October 2023
+
+[166]Scattered Spider behind MGM cyberattack
+
+   Casino and hotel giant’s slot machines unusable for half a day.
+   [167]ANSSI warns about FIN12 gang
+   08 October 2023
+
+[168]ANSSI warns about FIN12 gang
+
+   Group responsible for attack against hospital in city of Brest in March
+   2023 also behind a number of other attacks against French targets since
+   2020.
+   Operational security
+   [169]United States: Joe Biden signs first executive order on AI
+   02 November 2023
+
+[170]United States: Joe Biden signs first executive order on AI
+
+   Scope remains limited as Congress unable to pass bipartisan bill on
+   issue.
+   [171]Can generative AI help break attack chains?
+   19 October 2023
+
+[172]Can generative AI help break attack chains?
+
+   By [173]Fabrice Deblock
+   With cyberattacks on corporate supply chains on the rise, how can we
+   stop suppliers from being the weakest link in an organization’s
+   cybersecurity? What could generative AI bring to this ...
+   [174]HarfangLab raises 25 million euros
+   17 October 2023
+
+[175]HarfangLab raises 25 million euros
+
+   French startup wants to become European leader in cyber threat
+   detection and response (EDR) software.
+   [176]Yves Bernaert, new CEO of Atos Group
+   07 October 2023
+
+[177]Yves Bernaert, new CEO of Atos Group
+
+   Yves Bernaert leaves Accenture management to head Eviden, tech giant’s
+   cloud, cybersecurity, supercomputer, and quantum branch.
+   [178]Threat detection and AI: Cisco acquires Splunk
+   27 September 2023
+
+[179]Threat detection and AI: Cisco acquires Splunk
+
+   Cisco acquisition of data analysis solutions provider for 28 billion
+   dollars seeks to harness cybersecurity transformation brought on by AI
+   boom.
+   [180]Thirty-eight TB of internal Microsoft data left unprotected for
+   three years
+   25 September 2023
+
+[181]Thirty-eight TB of internal Microsoft data left unprotected for three
+years
+
+   Computer giant under fire for failing to protect sensitive data.
+   Antifraud action
+   [182]Europol takes down cyber-equipped betting fraud gang
+   21 September 2023
+
+[183]Europol takes down cyber-equipped betting fraud gang
+
+   On September 15, 2023, Europol revealed a sting carried out in March
+   2023 against a fraudulent sporting bets gang operating from Spain and
+   led by Romanian and Bulgarian nationals. The group stands ...
+   [184]Messenger to implement default end-to-end encryption
+   05 September 2023
+
+[185]Messenger to implement default end-to-end encryption
+
+   Long-awaited development in wake of illegal abortion controversy in
+   Nebraska Fraud prevention.
+   [186]50 million dollars in crypto stolen from Curve
+   04 August 2023
+
+[187]50 million dollars in crypto stolen from Curve
+
+   White hat hackers are said to be among the attackers of this
+   decentralized finance platform.
+   [188]ChatGPT already has two evil twins
+   01 August 2023
+
+[189]ChatGPT already has two evil twins
+
+   Named “FraudGPT” and “WormGPT”, two chatbots can write fraudulent
+   messages and simple malware.
+   [190]United States: OpenAI under FTC investigation
+   28 July 2023
+
+[191]United States: OpenAI under FTC investigation
+
+   The US Federal Trade Commission is investigating ChatGPT over claims of
+   misrepresentation.
+   [192]Olympic Games: ANSSI argues for “healthy paranoia”
+   13 July 2023
+
+[193]Olympic Games: ANSSI argues for “healthy paranoia”
+
+   Vincent Strubel, head of ANSSI, goes over security measures for Paris
+   2024 Games, as well as threats the event faces.
+   Digital identity & KYC
+   [194]Crypto theft linked to LastPass hack?
+   13 September 2023
+
+[195]Crypto theft linked to LastPass hack?
+
+   In late August 2023, cybersecurity researchers published an
+   investigation connecting 150 cryptocurrency thefts over the month of
+   December 2022, to the data leak suffered by LastPass in November 2022.
+   ...
+   [196]Finland experiments with digital passports
+   11 September 2023
+
+[197]Finland experiments with digital passports
+
+   On August 28, 2023, Finnish authorities launched a pilot project
+   allowing Finnish citizens to use a digital version of their passport.
+   The experiment, carried out in Helsinki airport in partnership ...
+   [198]European Digital Identity Wallet: text makes progress, but
+   disagreements persist
+   07 July 2023
+
+[199]European Digital Identity Wallet: text makes progress, but disagreements
+persist
+
+   The European Commission, the European Parliament, and the Council have
+   completed a round of negotiations on this key text for the EU’s digital
+   transformation.
+   [200]The Catholic Church in France gives priests digital IDs
+   19 June 2023
+
+[201]The Catholic Church in France gives priests digital IDs
+
+   It is now possible to verify if priests are authorized to say Mass or
+   hear confession, and thus make sure they are not accused of any sexual
+   crimes
+   [202]New fundraising round for Archipels, which welcomes shareholder IN
+   Group
+   19 June 2023
+
+[203]New fundraising round for Archipels, which welcomes shareholder IN Group
+
+   Publicly owned French company Archipels develops digital identity
+   platform based on blockchain
+   [204]DocuSign launches AI-assisted ID verification
+   16 May 2023
+
+[205]DocuSign launches AI-assisted ID verification
+
+   Named “ID Verification for EU Qualified”, compliant with European Union
+   and United Kingdom regulatory requirements, this solution also relies
+   on human approval
+   Digital Sovereignty
+   [206]TikTok: an application under surveillance
+   22 November 2023
+
+[207]TikTok: an application under surveillance
+
+   By [208]Fabrice Deblock
+   The Chinese social network is under scrutiny by the American and
+   European authorities, who want to know exactly how their citizens’ data
+   is being used. This comes at a time when geostrategic ...
+   [209]NIS2 on the horizon: companies need to get ready
+   08 November 2023
+
+[210]NIS2 on the horizon: companies need to get ready
+
+   By [211]Thomas Joos
+   The aim of this new European directive is to strengthen cybersecurity
+   in Europe. It is set to replace the NIS1 directive, whose requirements
+   are no longer up to the task of improving security, ...
+   [212]Digital Services Act implemented for “very large platforms”
+   08 October 2023
+
+[213]Digital Services Act implemented for “very large platforms”
+
+   Other services have until February 17, 2024, to comply.
+   [214]Transatlantic data: Data Privacy Framework already challenged
+   08 October 2023
+
+[215]Transatlantic data: Data Privacy Framework already challenged
+
+   French MP Philippe Latombe files suit with ECJ to cancel Privacy Shield
+   successor.
+   [216]Tunisia expands scope of national cybersecurity agency
+   08 October 2023
+
+[217]Tunisia expands scope of national cybersecurity agency
+
+   ANSI also becomes ANSC.
+   [218]Digital Market Act update
+   03 October 2023
+
+[219]Digital Market Act update
+
+   Definitive list of “gatekeepers” published on September 6, 2023.
+   Digital transition
+   [220]How AI is shaking up intellectual property
+   23 November 2023
+
+[221]How AI is shaking up intellectual property
+
+   By [222]Pascal Coillet-Matillon
+   On August 3, 2023, The New York Times changed the legal notice on its
+   website. The US daily now requires its written consent for an AI to use
+   its data for training. It’s a sign that generative ...
+   [223][InCyber Forum Montreal] Generative AI: reinventing copyright
+   22 November 2023
+
+[224][InCyber Forum Montreal] Generative AI: reinventing copyright
+
+   By [225]Marion Lefebvre
+   Widespread access to generative artificial intelligence is shaking up
+   how we work and create. However, the growing use of this technology has
+   quickly raised two considerable legal issues: how to ...
+   [226]“Ex Machina”: a film that explores the (intimate) relationships
+   between humans and machines…and much more
+   22 November 2023
+
+[227]“Ex Machina”: a film that explores the (intimate) relationships between
+humans and machines…and much more
+
+   By [228]Olivier Parent
+   This science fiction movie, directed by Alex Garland, is a “No Exit”
+   that examines the possibilities of human empathy toward an artificially
+   intelligent system. Moreover, it uses ...
+   [229]Corporate cryptocurrency cashflow: balancing flexibility and
+   security
+   20 November 2023
+
+[230]Corporate cryptocurrency cashflow: balancing flexibility and security
+
+   By [231]Agathe Laurent
+   The rise of cryptocurrencies is being felt in the business world.
+   Companies’ adoption of this technology raises specific issues of
+   governance and security. Here is a guide to the topic.
+   [232]Privacy governance better accounted for throughout the world
+   14 November 2023
+
+[233]Privacy governance better accounted for throughout the world
+
+   Yet heads of privacy in corporations still deem resources insufficient.
+   [234]OpenAI to fight AI’s “catastrophic risks”
+   10 November 2023
+
+[235]OpenAI to fight AI’s “catastrophic risks”
+
+   ChatGPT publisher forms team of experts to assess most serious threats
+   associated with advanced AI models.
+
+   InCyber
+     * [236]Linkedin
+     * [237]Twitter
+     * [238]Youtube
+
+   [239]PRIVACY POLICY TERMS AND CONDITIONS COPYRIGHT © 2022 BY FIC, INC.
+   ALL RIGHTS RESERVED.
+   News and Cyber Community
+     * [240]Events
+     * [241]Talents
+     * [242]Nominees
+     * [243]Business
+     * [244]Opinion
+     * [245]Publications
+     * [246]Videos
+
+   Themes
+     * [247]Operational security
+     * [248]Cyber risks
+     * [249]Digital transition
+     * [250]Cybercrime
+     * [251]Digital Sovereignty
+     * [252]Security and Stability in Cyberspace
+     * [253]Cyber industrial safety
+     * [254]Antifraud action
+     * [255]Digital identity & KYC
+
+     * [256]About
+     * [257]Sitemap
+     * [258]Contact us
+     * [259]Data protection
+     * [260]Legal Notice and Terms
+
+   Manage cookie consent
+   Pour offrir les meilleures expériences, nous utilisons des technologies
+   telles que les cookies pour stocker et/ou accéder aux informations des
+   appareils. Le fait de consentir à ces technologies nous permettra de
+   traiter des données telles que le comportement de navigation ou les ID
+   uniques sur ce site. Le fait de ne pas consentir ou de retirer son
+   consentement peut avoir un effet négatif sur certaines caractéristiques
+   et fonctions.
+   Fonctionnel [ ] Fonctionnel Always active
+   Le stockage ou l’accès technique est strictement nécessaire dans la
+   finalité d’intérêt légitime de permettre l’utilisation d’un service
+   spécifique explicitement demandé par l’abonné ou l’utilisateur, ou dans
+   le seul but d’effectuer la transmission d’une communication sur un
+   réseau de communications électroniques.
+   Préférences [ ] Préférences
+   Storage or technical access is necessary for the purpose of legitimate
+   interest to store preferences that are not requested by the subscriber
+   or user.
+   Statistiques [ ] Statistiques
+   Le stockage ou l’accès technique qui est utilisé exclusivement à des
+   fins statistiques. Le stockage ou l’accès technique qui est utilisé
+   exclusivement dans des finalités statistiques anonymes. En l’absence
+   d’une assignation à comparaître, d’une conformité volontaire de la part
+   de votre fournisseur d’accès à internet ou d’enregistrements
+   supplémentaires provenant d’une tierce partie, les informations
+   stockées ou extraites à cette seule fin ne peuvent généralement pas
+   être utilisées pour vous identifier.
+   Marketing [ ] Marketing
+   Le stockage ou l’accès technique est nécessaire pour créer des profils
+   d’utilisateurs afin d’envoyer des publicités, ou pour suivre
+   l’utilisateur sur un site web ou sur plusieurs sites web ayant des
+   finalités marketing similaires.
+   [261]Manage options [262]Manage services [263]Manage vendors [264]Read
+   more about these purposes
+   (BUTTON) Accept (BUTTON) Deny (BUTTON) Voir les préférences (BUTTON)
+   Enregistrer les préférences [265]Voir les préférences
+   [266]{title} [267]{title} [268]{title}
+
+   (BUTTON) Manage Consent
+
+   Send this to a friend
+   ____________________ ____________________ ____________________
+   (BUTTON) Send (BUTTON) Cancel
+
+References
+
+   1. https://incyber.org/intelligence-artificielle-monde-prend-conscience-risques/
+   2. https://incyber.org/en/artificial-intelligence-world-is-waking-up-risks/
+   3. https://incyber.org/en/feed/
+   4. https://incyber.org/en/comments/feed/
+   5. https://incyber.org/en/contributors/
+   6. https://incyber.org/en/formations-en/
+   7. https://incyber.org/en/appointments/
+   8. https://incyber.org/en/business-en/
+   9. https://incyber.org/en/opinions-en/
+  10. https://incyber.org/en/publications-en/
+  11. https://incyber.org/en/format/meeting/
+  12. https://www.youtube.com/channel/UCqAUmpTXbid8sLp6c--xeHg
+  13. https://incyber.org/en/theme/operational-security/
+  14. https://incyber.org/en/theme/cyber-risks/
+  15. https://incyber.org/en/theme/digital-transformation/
+  16. https://incyber.org/en/theme/cyber-crime/
+  17. https://incyber.org/en/theme/digital-sovereignty/
+  18. https://incyber.org/en/theme/security-and-stability-in-cyberspace/
+  19. https://incyber.org/en/theme/cyber-industrial-safety/
+  20. https://incyber.org/en/theme/anti-fraud-fight/
+  21. https://incyber.org/en/theme/digital-identity/
+  22. https://incyber.org/en/advertising-and-partnership/
+  23. https://incyber.org/en/about/
+  24. https://incyber.org/plan-du-site/
+  25. https://incyber.org/en/contact-us/
+  26. https://incyber.org/en/data-protection/
+  27. https://incyber.org/en/legal-notice-and-terms/
+  28. https://incyber.org/en/advertising-and-partnership/
+  29. https://incyber.org/en/newsletter/
+  30. https://incyber.org/en/artificial-intelligence-world-is-waking-up-risks/#search
+  31. https://incyber.org/intelligence-artificielle-monde-prend-conscience-risques/
+  32. https://incyber.org/en/artificial-intelligence-world-is-waking-up-risks/
+  33. https://america.forum-fic.com/en/homepage-en/
+  34. https://incyber.org/en/
+  35. https://incyber.org/en/theme/operational-security/
+  36. https://incyber.org/en/theme/cyber-risks/
+  37. https://incyber.org/en/theme/digital-transformation/
+  38. https://incyber.org/en/theme/cyber-crime/
+  39. https://incyber.org/en/theme/digital-sovereignty/
+  40. https://incyber.org/en/theme/security-and-stability-in-cyberspace/
+  41. https://incyber.org/intelligence-artificielle-monde-prend-conscience-risques/
+  42. https://incyber.org/en/artificial-intelligence-world-is-waking-up-risks/
+  43. https://incyber.org/en/advertising-and-partnership/
+  44. https://incyber.org/en/newsletter/
+  45. https://incyber.org/en/artificial-intelligence-world-is-waking-up-risks/#search
+  46. https://incyber.org/intelligence-artificielle-monde-prend-conscience-risques/
+  47. https://incyber.org/en/artificial-intelligence-world-is-waking-up-risks/
+  48. https://incyber.org/en/
+  49. https://incyber.org/en/agenda-en/
+  50. https://incyber.org/en/business-en/
+  51. https://incyber.org/en/appointments/
+  52. https://incyber.org/en/formations-en/
+  53. https://incyber.org/en/opinions-en/
+  54. https://incyber.org/en/publications-en/
+  55. https://www.youtube.com/channel/UCqAUmpTXbid8sLp6c--xeHg
+  56. https://incyber.org/en/
+  57. https://incyber.org/en/
+  58. https://incyber.org/en/theme/operational-security/
+  59. https://incyber.org/en/theme/cyber-risks/
+  60. https://incyber.org/en/theme/digital-transformation/
+  61. https://incyber.org/en/theme/cyber-crime/
+  62. https://incyber.org/en/theme/digital-sovereignty/
+  63. https://incyber.org/en/theme/security-and-stability-in-cyberspace/
+  64. https://incyber.org/intelligence-artificielle-monde-prend-conscience-risques/
+  65. https://incyber.org/en/artificial-intelligence-world-is-waking-up-risks/
+  66. https://incyber.org/en/contributors/
+  67. https://incyber.org/en/formations-en/
+  68. https://incyber.org/en/appointments/
+  69. https://incyber.org/en/business-en/
+  70. https://incyber.org/en/opinions-en/
+  71. https://incyber.org/en/publications-en/
+  72. https://incyber.org/en/format/meeting/
+  73. https://www.youtube.com/channel/UCqAUmpTXbid8sLp6c--xeHg
+  74. https://incyber.org/en/theme/operational-security/
+  75. https://incyber.org/en/theme/cyber-risks/
+  76. https://incyber.org/en/theme/digital-transformation/
+  77. https://incyber.org/en/theme/cyber-crime/
+  78. https://incyber.org/en/theme/digital-sovereignty/
+  79. https://incyber.org/en/theme/security-and-stability-in-cyberspace/
+  80. https://incyber.org/en/theme/cyber-industrial-safety/
+  81. https://incyber.org/en/theme/anti-fraud-fight/
+  82. https://incyber.org/en/theme/digital-identity/
+  83. https://incyber.org/en/advertising-and-partnership/
+  84. https://incyber.org/en/about/
+  85. https://incyber.org/plan-du-site/
+  86. https://incyber.org/en/contact-us/
+  87. https://incyber.org/en/data-protection/
+  88. https://incyber.org/en/legal-notice-and-terms/
+  89. https://incyber.org/en/theme/operational-security/
+  90. https://incyber.org/en/theme/cyber-risks/
+  91. https://incyber.org/en/theme/digital-transformation/
+  92. https://incyber.org/en/theme/cyber-crime/
+  93. https://incyber.org/en/theme/digital-sovereignty/
+  94. https://incyber.org/en/theme/security-and-stability-in-cyberspace/
+  95. https://incyber.org/en/theme/cyber-industrial-safety/
+  96. https://incyber.org/en/theme/anti-fraud-fight/
+  97. https://incyber.org/en/theme/digital-identity/
+  98. https://incyber.org/en/artificial-intelligence-world-is-waking-up-risks/
+  99. https://www.facebook.com/sharer/sharer.php?u=https://incyber.org/en/artificial-intelligence-world-is-waking-up-risks/&t=Artificial+intelligence:+the+world+is+waking+up+to+the+risks
+ 100. https://www.linkedin.com/shareArticle?mini=true&ro=true&trk=EasySocialShareButtons&title=Artificial+intelligence:+the+world+is+waking+up+to+the+risks&url=https://incyber.org/en/artificial-intelligence-world-is-waking-up-risks/
+ 101. https://incyber.org/en/artificial-intelligence-world-is-waking-up-risks/
+ 102. https://incyber.org/theme/cyber-risks
+ 103. https://incyber.org/contributeur/LNauges
+ 104. https://arxiv.org/pdf/2310.17688.pdf
+ 105. https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/30/fact-sheet-president-biden-issues-executive-order-on-safe-secure-and-trustworthy-artificial-intelligence/
+ 106. https://digital-strategy.ec.europa.eu/en/library/g7-leaders-statement-hiroshima-ai-process
+ 107. https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023
+ 108. https://epthinktank.eu/eu-legislation-in-progress/
+ 109. https://www.europarl.europa.eu/RegData/etudes/BRIE/2021/698792/EPRS_BRI(2021)698792_EN.pdf
+ 110. https://www.youtube.com/watch?v=NgHFMolXs3U&t=6s$
+ 111. https://incyber.fr/en/data-protection/
+ 112. about:blank
+ 113. https://incyber.org/
+ 114. https://incyber.org/en/artificial-intelligence-world-is-waking-up-risks/
+ 115. https://incyber.org/en/artificial-intelligence-world-is-waking-up-risks/
+ 116. https://incyber.org/en/contributeur/LNauges
+ 117. https://incyber.org/en/google-play-store-promotes-secure-apps/
+ 118. https://incyber.org/en/google-play-store-promotes-secure-apps/
+ 119. https://incyber.org/en/how-phishing-scams-utilize-osint/
+ 120. https://incyber.org/en/how-phishing-scams-utilize-osint/
+ 121. https://incyber.org/en/contributeur/ZAmos
+ 122. https://incyber.org/en/cyberscore-is-france-really-taking-digital-threat-seriously/
+ 123. https://incyber.org/en/cyberscore-is-france-really-taking-digital-threat-seriously/
+ 124. https://incyber.org/en/contributeur/ALazaregue
+ 125. https://incyber.org/en/ransomware-40-countries-make-commitment-no-longer-pay-ransoms/
+ 126. https://incyber.org/en/ransomware-40-countries-make-commitment-no-longer-pay-ransoms/
+ 127. https://incyber.org/en/anssi-warns-about-russian-group-apt28/
+ 128. https://incyber.org/en/anssi-warns-about-russian-group-apt28/
+ 129. https://incyber.org/en/state-affiliated-groups-are-main-cyber-threat-to-industry/
+ 130. https://incyber.org/en/state-affiliated-groups-are-main-cyber-threat-to-industry/
+ 131. https://incyber.org/en/industrial-cybersecurity-need-it-ot-convergence/
+ 132. https://incyber.org/en/industrial-cybersecurity-need-it-ot-convergence/
+ 133. https://incyber.org/en/wallix-raises-e10-5-million/
+ 134. https://incyber.org/en/wallix-raises-e10-5-million/
+ 135. https://incyber.org/en/despite-improvements-ot-cybersecurity-remains-problem/
+ 136. https://incyber.org/en/despite-improvements-ot-cybersecurity-remains-problem/
+ 137. https://incyber.org/en/critical-flaw-siemens-energy-sector-ics/
+ 138. https://incyber.org/en/critical-flaw-siemens-energy-sector-ics/
+ 139. https://incyber.org/en/power-grids-mandiant-warns-about-new-malware-cosmicenergy/
+ 140. https://incyber.org/en/power-grids-mandiant-warns-about-new-malware-cosmicenergy/
+ 141. https://incyber.org/en/we-are-at-cyberwar-really/
+ 142. https://incyber.org/en/we-are-at-cyberwar-really/
+ 143. https://incyber.org/en/contributeur/STarnowski
+ 144. https://incyber.org/en/will-the-moon-soon-get-internet/
+ 145. https://incyber.org/en/will-the-moon-soon-get-internet/
+ 146. https://incyber.org/en/contributeur/AMeunier
+ 147. https://incyber.org/en/why-is-there-so-much-misinformation-about-israel-hamas-war-x/
+ 148. https://incyber.org/en/why-is-there-so-much-misinformation-about-israel-hamas-war-x/
+ 149. https://incyber.org/en/contributeur/FTan
+ 150. https://incyber.org/en/mysterious-team-bangladesh-hacktivists-target-france/
+ 151. https://incyber.org/en/mysterious-team-bangladesh-hacktivists-target-france/
+ 152. https://incyber.org/en/cyberattack-against-international-court-justice-the-hague/
+ 153. https://incyber.org/en/cyberattack-against-international-court-justice-the-hague/
+ 154. https://incyber.org/en/ursula-von-der-leyen-aims-establish-ai-ipcc/
+ 155. https://incyber.org/en/ursula-von-der-leyen-aims-establish-ai-ipcc/
+ 156. https://incyber.org/en/operation-triangulation-reveals-vulnerabilities-apple/
+ 157. https://incyber.org/en/operation-triangulation-reveals-vulnerabilities-apple/
+ 158. https://incyber.org/en/contributeur/FDeblock
+ 159. https://incyber.org/en/mysterious-team-bangladesh-hacktivists-target-france/
+ 160. https://incyber.org/en/mysterious-team-bangladesh-hacktivists-target-france/
+ 161. https://incyber.org/en/cybercrime-considered-major-threat-german-business/
+ 162. https://incyber.org/en/cybercrime-considered-major-threat-german-business/
+ 163. https://incyber.org/en/kaspersky-provides-update-on-cuba-ransomware-gang/
+ 164. https://incyber.org/en/kaspersky-provides-update-on-cuba-ransomware-gang/
+ 165. https://incyber.org/en/scattered-spider-behind-mgm-cyberattack/
+ 166. https://incyber.org/en/scattered-spider-behind-mgm-cyberattack/
+ 167. https://incyber.org/en/anssi-warns-about-fin12-gang/
+ 168. https://incyber.org/en/anssi-warns-about-fin12-gang/
+ 169. https://incyber.org/en/united-states-joe-biden-signs-first-executive-order-on-ai/
+ 170. https://incyber.org/en/united-states-joe-biden-signs-first-executive-order-on-ai/
+ 171. https://incyber.org/en/can-generative-ai-help-break-attack-chains/
+ 172. https://incyber.org/en/can-generative-ai-help-break-attack-chains/
+ 173. https://incyber.org/en/contributeur/FDeblock
+ 174. https://incyber.org/en/harfanglab-raises-25-million-euros/
+ 175. https://incyber.org/en/harfanglab-raises-25-million-euros/
+ 176. https://incyber.org/en/yves-bernaert-new-ceo-atos-group/
+ 177. https://incyber.org/en/yves-bernaert-new-ceo-atos-group/
+ 178. https://incyber.org/en/threat-detection-ai-cisco-acquires-splunk/
+ 179. https://incyber.org/en/threat-detection-ai-cisco-acquires-splunk/
+ 180. https://incyber.org/en/thirty-eight-tb-internal-microsoft-data-left-unprotected-three-years/
+ 181. https://incyber.org/en/thirty-eight-tb-internal-microsoft-data-left-unprotected-three-years/
+ 182. https://incyber.org/en/europol-takes-down-cyber-equipped-betting-fraud-gang/
+ 183. https://incyber.org/en/europol-takes-down-cyber-equipped-betting-fraud-gang/
+ 184. https://incyber.org/en/messenger-to-implement-default-end-to-end-encryption/
+ 185. https://incyber.org/en/messenger-to-implement-default-end-to-end-encryption/
+ 186. https://incyber.org/en/50-million-dollars-in-crypto-stolen-from-curve/
+ 187. https://incyber.org/en/50-million-dollars-in-crypto-stolen-from-curve/
+ 188. https://incyber.org/en/chatgpt-already-has-two-evil-twins/
+ 189. https://incyber.org/en/chatgpt-already-has-two-evil-twins/
+ 190. https://incyber.org/en/united-states-openai-under-ftc-investigation/
+ 191. https://incyber.org/en/united-states-openai-under-ftc-investigation/
+ 192. https://incyber.org/en/olympic-games-anssi-argues-healthy-paranoia/
+ 193. https://incyber.org/en/olympic-games-anssi-argues-healthy-paranoia/
+ 194. https://incyber.org/en/crypto-theft-linked-to-lastpass-hack/
+ 195. https://incyber.org/en/crypto-theft-linked-to-lastpass-hack/
+ 196. https://incyber.org/en/finland-experiments-with-digital-passports/
+ 197. https://incyber.org/en/finland-experiments-with-digital-passports/
+ 198. https://incyber.org/en/european-digital-identity-wallet-text-makes-progress-but-disagreements-persist/
+ 199. https://incyber.org/en/european-digital-identity-wallet-text-makes-progress-but-disagreements-persist/
+ 200. https://incyber.org/en/the-catholic-church-in-france-gives-priests-digital-ids/
+ 201. https://incyber.org/en/the-catholic-church-in-france-gives-priests-digital-ids/
+ 202. https://incyber.org/en/new-fundraising-round-archipels-welcomes-shareholder-in-group/
+ 203. https://incyber.org/en/new-fundraising-round-archipels-welcomes-shareholder-in-group/
+ 204. https://incyber.org/en/docusign-launches-ai-assisted-id-verification/
+ 205. https://incyber.org/en/docusign-launches-ai-assisted-id-verification/
+ 206. https://incyber.org/en/tiktok-application-under-surveillance/
+ 207. https://incyber.org/en/tiktok-application-under-surveillance/
+ 208. https://incyber.org/en/contributeur/FDeblock
+ 209. https://incyber.org/en/nis2-on-horizon-companies-need-to-get-ready/
+ 210. https://incyber.org/en/nis2-on-horizon-companies-need-to-get-ready/
+ 211. https://incyber.org/en/contributeur/TJoos
+ 212. https://incyber.org/en/digital-services-act-implemented-very-large-platforms/
+ 213. https://incyber.org/en/digital-services-act-implemented-very-large-platforms/
+ 214. https://incyber.org/en/transatlantic-data-data-privacy-framework-already-challenged/
+ 215. https://incyber.org/en/transatlantic-data-data-privacy-framework-already-challenged/
+ 216. https://incyber.org/en/tunisia-expands-scope-national-cybersecurity-agency/
+ 217. https://incyber.org/en/tunisia-expands-scope-national-cybersecurity-agency/
+ 218. https://incyber.org/en/digital-market-act-update/
+ 219. https://incyber.org/en/digital-market-act-update/
+ 220. https://incyber.org/en/how-ai-is-shaking-up-intellectual-property/
+ 221. https://incyber.org/en/how-ai-is-shaking-up-intellectual-property/
+ 222. https://incyber.org/en/contributeur/PCoilletMatillon
+ 223. https://incyber.org/en/incyber-forum-montreal-generative-ai-reinventing-copyright/
+ 224. https://incyber.org/en/incyber-forum-montreal-generative-ai-reinventing-copyright/
+ 225. https://incyber.org/en/contributeur/MLefebvre
+ 226. https://incyber.org/en/ex-machina-film-that-explores-intimate-relationships-between-humans-machines-much-more/
+ 227. https://incyber.org/en/ex-machina-film-that-explores-intimate-relationships-between-humans-machines-much-more/
+ 228. https://incyber.org/en/contributeur/OParent
+ 229. https://incyber.org/en/corporate-cryptocurrency-cashflow-balancing-flexibility-and-security/
+ 230. https://incyber.org/en/corporate-cryptocurrency-cashflow-balancing-flexibility-and-security/
+ 231. https://incyber.org/en/contributeur/ALaurent
+ 232. https://incyber.org/en/privacy-governance-better-accounted-throughout-world/
+ 233. https://incyber.org/en/privacy-governance-better-accounted-throughout-world/
+ 234. https://incyber.org/en/openai-fight-ais-catastrophic-risks/
+ 235. https://incyber.org/en/openai-fight-ais-catastrophic-risks/
+ 236. https://www.linkedin.com/company/incybermedia/
+ 237. https://twitter.com/incybermedia
+ 238. https://www.youtube.com/channel/UCqAUmpTXbid8sLp6c--xeHg
+ 239. https://incyber.org/en/politique-de-confidentialite/
+ 240. https://incyber.org/en/format/meeting/
+ 241. https://incyber.org/en/formations-en/
+ 242. https://incyber.org/en/appointments/
+ 243. https://incyber.org/en/business-en/
+ 244. https://incyber.org/en/opinions-en/
+ 245. https://incyber.org/en/publications-en/
+ 246. https://www.youtube.com/channel/UCqAUmpTXbid8sLp6c--xeHg
+ 247. https://incyber.org/en/theme/operational-security/
+ 248. https://incyber.org/en/theme/cyber-risks/
+ 249. https://incyber.org/en/theme/digital-transformation/
+ 250. https://incyber.org/en/theme/cyber-crime/
+ 251. https://incyber.org/en/theme/digital-sovereignty/
+ 252. https://incyber.org/en/theme/security-and-stability-in-cyberspace/
+ 253. https://incyber.org/en/theme/cyber-industrial-safety/
+ 254. https://incyber.org/en/theme/anti-fraud-fight/
+ 255. https://incyber.org/en/theme/digital-identity/
+ 256. https://incyber.org/en/about/
+ 257. https://incyber.org/en/sitemap/
+ 258. https://incyber.org/en/contact-us/
+ 259. https://incyber.org/en/data-protection/
+ 260. https://incyber.org/en/legal-notice-and-terms/
+ 261. https://incyber.org/en/artificial-intelligence-world-is-waking-up-risks/
+ 262. https://incyber.org/en/artificial-intelligence-world-is-waking-up-risks/
+ 263. https://incyber.org/en/artificial-intelligence-world-is-waking-up-risks/
+ 264. https://cookiedatabase.org/tcf/purposes/
+ 265. https://incyber.org/en/artificial-intelligence-world-is-waking-up-risks/
+ 266. https://incyber.org/en/artificial-intelligence-world-is-waking-up-risks/
+ 267. https://incyber.org/en/artificial-intelligence-world-is-waking-up-risks/
+ 268. https://incyber.org/en/artificial-intelligence-world-is-waking-up-risks/

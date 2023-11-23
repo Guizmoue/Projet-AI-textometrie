@@ -1,0 +1,489 @@
+   [1]CAIRN.INFO : Matières à réflexion [2]CAIRN.INFO : Matières à
+   réflexion
+     * [3]search
+       ____________________ [4]search
+          + [5]Recherche avancée
+          + [6]help_outline Aide à la recherche
+     * [7]person_outline Connexion
+       Compte personnel Cairn.info
+       ____________________
+       ____________________
+       [X] Rester connecté
+       [8]Mot de passe oublié ?
+       Se connecter
+       Pas encore enregistré ?
+       [9]Créer un compte
+       Accès institution
+       Vous accédez à Cairn.info via
+       Université de Nanterre - Paris 10
+       [10]Voir les publications disponibles
+     * [11]language
+       You might also want to visit our [12]Cairn International Edition.
+       [13]SWITCH TO ENGLISH
+       Tal vez desee visitar también nuestros contenidos en español en
+       [14]Cairn Mundo.
+       [15]CAMBIAR A ESPAÑOL
+     * Toggle navigation menu
+
+     * [16]Revues
+     * [17]Ouvrages
+     * [18]Que sais-je ? / Repères
+     * [19]Magazines
+     * [20]Mon cairn.info
+
+   CAIRN.INFO : Matières à réflexion
+
+    1. [21]Accueil
+    2. [22]Revues
+    3. [23]Gestion
+    4. [24]Numéro 2017/1 (Vol. 42)
+    5. Intelligence artificielle : une...
+
+   [25][RIGES_421.jpg?fallback=true]
+   2017/1
+     * Intelligence artificielle : une mine d’or pour les entreprises
+     * [26]Suivre cet auteur [27]Laurent Charlin
+     * Dans [28]Gestion [29]2017/1 (Vol. 42), pages 76 à 79
+
+   [30]format_quote Citer ou exporter [31]Ajouter à une liste [32]Suivre
+   cette revue
+   [33]Précédent [34]Suivant
+
+     * [35]Article
+     * [36]Résumé
+     * [37]Plan
+     * [38]Auteur
+     * [39]Cité par
+     * [40]Sur un sujet proche
+     * [41]file_downloadTélécharger
+     * [42]Article
+          + [43]Article
+          + [44]Résumé
+          + [45]Plan
+          + [46]Auteur
+          + [47]Cité par
+          + [48]Sur un sujet proche
+          + [49]file_downloadTélécharger
+
+Article
+
+   figure im1
+   Certaines personnes estiment que les voitures sans conducteur seront au
+   point d’ici deux ans.
+   Ci-dessus : une vision imaginée par Volvo en 2015.
+   Photo : Volvo
+
+   [50]1Depuis le début de 2016, les progrès de l’intelligence
+   artificielle (IA) ont été décrits et analysés dans des publications
+   aussi variées que The Economist, Rolling Stone, Time et Fortune sous
+   des titres accrocheurs comme « La révolution de l’intelligence
+   artificielle » et « IA : la marche des machines ». Au-delà des
+   scénarios de science-fiction où les machines intelligentes se
+   retournent contre leurs créateurs, l’intelligence artificielle
+   progresse à grands pas et permet de concevoir et de réaliser des
+   systèmes de plus en plus impressionnants. Certaines personnes,
+   notamment Elon Musk, fondateur de Tesla et de SpaceX, estiment par
+   exemple que les voitures sans conducteur seront au point d’ici deux
+   ans.
+
+   [51]2Avant tout, l’intelligence artificielle est une discipline
+   scientifique qui combine l’informatique, les mathématiques,
+   l’ingénierie et la statistique. C’est un domaine de recherche auquel se
+   consacre une communauté universitaire depuis plus de 50 ans. Cette
+   science au goût du jour a vu ses performances croître de manière
+   prodigieuse en grande partie grâce au big data et à la puissance de
+   calcul des ordinateurs modernes.
+
+Des techniques d’apprentissage
+
+   [52]3Depuis une dizaine d’années, l’intelligence artificielle progresse
+   à pas de géant en grande partie grâce à l’apprentissage automatique
+   (machine learning) et plus particulièrement aux techniques
+   d’apprentissage profond (deep learning).
+
+   [53]4Les algorithmes d’apprentissage automatique « apprennent » en
+   extrayant des connaissances opérationnelles à partir de données (c’est
+   donc un apprentissage inductif). Par exemple, de tels algorithmes
+   peuvent extraire les préférences de clients d’une entreprise à partir
+   de leurs transactions antérieures. On utilise ensuite ces algorithmes
+   pour généraliser les résultats à de nouvelles situations similaires
+   (soit, dans l’exemple précédent, pour prédire les préférences futures
+   des mêmes clients). Par rapport à la statistique classique, qui
+   s’intéresse d’abord à la compréhension des données et notamment à leurs
+   relations causales – c’est-à-dire à démontrer ce qui cause quoi –,
+   l’apprentissage automatique se concentre sur la qualité des
+   prédictions, au détriment éventuel de l’interprétabilité des paramètres
+   estimés.
+
+   [54]5L’apprentissage profond est inspiré par la structure du cerveau
+   humain et, comme celui-ci, utilise des réseaux de neurones. Les
+   neurones sont organisés en plusieurs couches qui utilisent toute
+   l’information de la couche précédente, d’où la notion de profondeur.
+   Ces réseaux ne sont évidemment qu’un modèle très simplifié de notre
+   cerveau, mais ils ont la particularité de pouvoir utiliser leurs
+   couches pour représenter les connaissances acquises à différents degrés
+   d’abstraction. Par exemple, à partir de données transactionnelles, un
+   réseau de neurones peut représenter, avec ses premières couches, les
+   caractéristiques des articles que les clients aiment se procurer. Ces
+   caractéristiques sont combinées par les couches suivantes pour
+   représenter des groupes d’articles souvent achetés ensemble. Les
+   couches finales combinent ces groupes pour représenter le profil
+   d’acheteur de chaque client.
+
+   [55]6Les progrès en apprentissage profond ont permis d’améliorer la
+   performance des algorithmes d’apprentissage dans des tâches de
+   perception jugées particulièrement difficiles pour les ordinateurs. Par
+   « perception », on entend ce qui est relié aux cinq sens humains. Le
+   champ de la vision par ordinateur consiste à comprendre le monde qui
+   nous entoure à l’aide d’images et de vidéos, un peu comme l’appareil
+   visuel humain le permet. Les algorithmes d’apprentissage profond
+   surpassent maintenant les êtres humains dans certaines tâches de
+   reconnaissance d’objets. La reconnaissance de la parole constitue aussi
+   un terrain fertile : les meilleurs outils de reconnaissance récents
+   (par exemple ceux des téléphones intelligents) utilisent
+   l’apprentissage profond.
+   figure im2
+   figure im3
+   La reconnaissance de la parole constitue un terrain fertile : les
+   meilleurs outils de reconnaissance récents (par exemple ceux des
+   téléphones intelligents) utilisent l’apprentissage profond.
+   Photos : iStock – Panasonic – Nest
+   figure im4
+   La société Nest a conçu un thermostat intelligent qui s’autoprogramme
+   en fonction des habitudes de vie observées.
+   Photo : iStock – Panasonic – Nest
+   figure im5
+   L’utilisation expérimentale des robots de livraison autonomes Hospi de
+   Panasonic a débuté en février 2015. Équipés de capteurs, ces robots
+   sont programmés avec les données cartographiques de l’hôpital afin
+   d’éviter les obstacles tels que les patients en fauteuil roulant et
+   d’effectuer des livraisons dans le cadre d’une supervision minimale.
+   Photo : iStock – Panasonic – Nest
+
+La contribution du big data
+
+   [56]7Par définition, les algorithmes d’apprentissage automatique
+   dépendent en grande partie de la qualité et de la quantité de données
+   disponibles pour chaque tâche à réaliser (par exemple le nombre de
+   transactions par client et leur granularité, ou la taille d’une base de
+   données d’images). Plus les connaissances requises pour effectuer une
+   tâche sont vastes, plus la quantité de données requise l’est aussi. En
+   contrepartie, plus les données sont abondantes, plus il est possible
+   d’extraire des connaissances complexes menant à des algorithmes plus
+   précis et plus performants.
+
+   [57]8Parmi toutes les techniques d’apprentissage machine,
+   l’apprentissage profond est pour l’instant celle qui permet le mieux
+   d’extraire des connaissances complexes à partir de données
+   volumineuses. Le big data ainsi que la croissance des capacités de
+   calcul sont donc essentiels aux récentes percées en intelligence
+   artificielle.
+
+Les répercussions de l’IA en entreprise
+
+   [58]9Nombre de grandes entreprises dans le secteur technologique
+   profitent déjà des avancées récentes en IA. Le PDG de Google, Sundar
+   Pichai, promet d’ailleurs d’utiliser l’apprentissage automatique de
+   manière systématique dans toute sa gamme de produits. Grâce à des
+   acquisitions d’entreprises en démarrage et au recrutement ciblé, ces
+   grandes entreprises, notamment Google, Facebook, Amazon, Microsoft,
+   Twitter et Nuance, développent leur potentiel de recherche et de
+   conception d’algorithmes et de systèmes d’intelligence artificielle.
+   Toute personne qui interagit avec les technologies de ces sociétés
+   bénéficie donc déjà de certains des progrès attribuables à
+   l’intelligence artificielle. De plus, le transfert d’innovation en
+   production industrielle peut être rapide : il a suffi de deux ans pour
+   que les plus récents téléphones soient dotés des algorithmes de
+   reconnaissance de la parole.
+
+   [59]10Les algorithmes d’intelligence artificielle ne sont pas réservés
+   aux grandes entreprises. Un grand nombre de petites entreprises
+   proposent un produit phare basé sur l’intelligence artificielle. Ce
+   n’était pas le cas il y a encore quelques années, alors que l’IA était
+   souvent un outil secondaire utilisé pour améliorer un produit existant.
+
+   [60]11En général, la collecte et le stockage de données sont des tâches
+   à la portée d’entreprises de toute taille œuvrant dans des domaines
+   variés. Un certain nombre d’avancées récentes en intelligence
+   artificielle offrent la possibilité d’appliquer des algorithmes
+   existants à ces données volumineuses pour en extraire des informations
+   pertinentes. Il est aussi possible que des méthodes récentes améliorent
+   la performance d’algorithmes prédictifs d’une génération précédente.
+
+L’automatisation de la prise de décision
+
+   [61]12Les techniques d’intelligence artificielle nous permettent
+   d’automatiser l’extraction de connaissances à des fins prédictives.
+   Dans un deuxième temps, ces prédictions peuvent être utilisées pour
+   prendre de meilleures décisions. Par exemple, en fonction des
+   préférences prédites de clients, on peut déterminer la taille des
+   commandes pour chaque article disponible et l’offre personnalisée
+   destinée à chaque client. Il existe aussi des algorithmes qui
+   automatisent les prédictions et les décisions. Les voitures sans
+   conducteur sont un bon exemple de ce genre de système. Ce type
+   d’automatisation est de plus en plus étudié dans le monde
+   universitaire.
+
+   [62]13Bref, si le passé est garant de l’avenir, de multiples
+   applications industrielles devraient voir le jour sous peu.
+
+Montréal, plaque tournante de l’IA
+
+   Campus Montréal, qui regroupe l’Université de Montréal, Polytechnique
+   et HEC Montréal, ainsi que l’Université McGill sont au cœur des
+   découvertes actuelles en intelligence artificielle. Le professeur
+   Yoshua Bengio (voir article p. 68), du Département d’informatique et de
+   recherche opérationnelle de l’Université de Montréal, est un pionnier
+   dans ce domaine. En effet, il est un des trois chercheurs dont les
+   travaux ont constitué l’étincelle créatrice qui a mené à l’engouement
+   récent pour l’intelligence artificielle (les deux autres étant Yann
+   LeCun, professeur à l’université de New York et chercheur chez
+   Facebook, et Geoffrey Hinton, professeur à l’université de Toronto et
+   chercheur chez Google). Le gouvernement du Canada a d’ailleurs reconnu
+   le rôle primordial de Montréal dans ce domaine en accordant une
+   subvention de près de 100 millions de dollars à Campus Montréal. Cette
+   subvention, qui a été accompagnée d’une somme équivalente provenant de
+   partenaires industriels, est gérée par l’Institut de valorisation des
+   données (IVADO) de Campus Montréal, qui doit notamment contribuer à la
+   synergie entre les secteurs universitaire et industriel. Ces recherches
+   font aussi leur chemin vers la conception d’applications industrielles.
+   Un écosystème industriel montréalais en IA commence d’ailleurs à voir
+   le jour.
+   figure im6
+   Photo : iStock – Campus Montréal
+
+Résumé
+
+   Français
+
+   Les innovations rendues possibles grâce aux récents progrès de
+   l’intelligence artificielle sont vastes et pourraient avoir des
+   répercussions sociales et industrielles majeures. Qu’est-ce qui
+   distingue les techniques de l’intelligence artificielle moderne ?
+   Comment les entreprises pourraient-elles bénéficier de ces avancées ?
+
+Plan
+
+    1. [63]Des techniques d’apprentissage
+    2. [64]La contribution du big data
+    3. [65]Les répercussions de l’IA en entreprise
+    4. [66]L’automatisation de la prise de décision
+
+Auteur
+
+   Laurent Charlin
+   Laurent Charlin est professeur adjoint au Département de sciences de la
+   décision de HEC Montréal ainsi que membre de la chaire Data Science for
+   Real-Time Decision-Making de Campus Montréal et de l’Institut des
+   algorithmes d’apprentissage de Montréal.
+   Cette publication est la plus récente de l'auteur sur Cairn.info.
+
+Cité par
+
+   [loading.gif]
+
+Sur un sujet proche
+
+          Mis en ligne sur Cairn.info le 13/03/2017
+          [67]https://doi.org/10.3917/riges.421.0076
+
+   [68]Précédent [69]Suivant
+
+   [70]Ajouter [71]Suivre
+
+   (BUTTON) clear
+
+Citer cet article [72]Français
+
+   ISO 690 FR [73]Copier CHARLIN Laurent, « Intelligence artificielle :
+   une mine d’or pour les entreprises », Gestion, 2017/1 (Vol. 42), p.
+   76-79. DOI : 10.3917/riges.421.0076. URL :
+   https://www.cairn.info/revue-gestion-2017-1-page-76.htm
+   MLA FR [74]Copier Charlin, Laurent. « Intelligence artificielle : une
+   mine d’or pour les entreprises », Gestion, vol. 42, no. 1, 2017, pp.
+   76-79.
+   APA FR [75]Copier Charlin, L. (2017). Intelligence artificielle : une
+   mine d’or pour les entreprises. Gestion, 42, 76-79.
+   [76]https://doi.org/10.3917/riges.421.0076
+   DOI [77]Copier [78]https://doi.org/10.3917/riges.421.0076
+
+Exporter la citation
+
+   [79]file_downloadZotero (.ris) [80]file_downloadEndNote (.enw)
+   [81]open_in_new RefWorks
+
+   Pour citer cet article
+
+   Distribution électronique Cairn.info pour HEC Montréal © HEC Montréal.
+   Tous droits réservés pour tous pays. Il est interdit, sauf accord
+   préalable et écrit de l’éditeur, de reproduire (notamment par
+   photocopie) partiellement ou totalement le présent article, de le
+   stocker dans une banque de données ou de le communiquer au public sous
+   quelque forme et de quelque manière que ce soit.
+
+   (BUTTON) clear
+
+Mon Cairn.info
+
+   Aujourd’hui, Cairn diffuse plus de 400 000 articles de revues et en
+   ajoute 2 500 nouveaux tous les mois. Comment repérer l’essentiel ?
+   Comment ne rien laisser passer ?
+
+   CAIRN.INFO : Matières à réflexion CAIRN.INFO : Matières à réflexion
+   Avec le soutien du Avec leur soutien [82]CNL [83]CNRS
+     * [84]À propos
+     * [85]Éditeurs
+     * [86]Particuliers
+     * [87]Bibliothèques
+     * [88]Organisations
+
+     * [89]Abonnement Cairn Pro
+     * [90]Listes publiques
+     * [91]Dossiers
+     * [92]Rencontres
+     * [93]Contact
+
+     * [94]Cairn International (English)
+     * [95]Cairn Mundo (Español)
+     * [96]Cairn Sciences (Français)
+     * [97]Authentification hors campus
+     * [98]Accès via Université de Nanterre - Paris 10
+     * [99]Aide
+
+   © Cairn.info 2023 | [100]Conditions générales d’utilisation |
+   [101]Conditions générales de vente | [102]Politique de confidentialité
+
+   Cairn.info | Accès via Université de Nanterre - Paris 10
+
+   [103]keyboard_arrow_up
+
+   (BUTTON) clear
+
+Connexion fermée
+
+   Vous avez été déconnecté car votre compte est utilisé à partir d'un
+   autre appareil.
+
+   Chargement
+   Chargement en cours.
+   Veuillez patienter...
+
+   [about.php?cairn_guest=2023112317007307202905]
+
+   Attention, (BUTTON) clear l'identifiant saisi ne correspond pas à un
+   compte Cairn.info.
+
+   Attention, (BUTTON) clear le mot de passe saisi ne correspond pas au
+   compte Cairn.info.
+
+   Attention, (BUTTON) clear erreur à l'authentification.
+
+References
+
+   Visible links:
+   1. https://www.cairn.info/
+   2. https://www.cairn.info/
+   3. javascript:void(0);
+   4. javascript:void(0);
+   5. https://www.cairn.info/recherche_avancee.php?src1=Tx&word1=&operator1=&nparams=1
+   6. https://aide.cairn.info/article/113-comment-optimiser-mes-recherches-sur-cairn-info
+   7. javascript:void(0);
+   8. https://www.cairn.info/mdp_oublie.php
+   9. https://www.cairn.info/creer_compte.php
+  10. https://aide.cairn.info/article/108-quelles-sont-les-publications-disponibles-dans-l-abonnement-de-mon-institution
+  11. javascript:void(0);
+  12. https://www.cairn-int.info/
+  13. https://www.cairn-int.info/
+  14. https://www.cairn-mundo.info/
+  15. https://www.cairn-mundo.info/
+  16. https://www.cairn.info/Accueil_Revues.php
+  17. https://www.cairn.info/ouvrages.php
+  18. https://www.cairn.info/que-sais-je-et-reperes.php
+  19. https://www.cairn.info/magazines.php
+  20. https://www.cairn.info/mon_cairn.php
+  21. https://www.cairn.info/
+  22. https://www.cairn.info/Accueil_Revues.php
+  23. https://www.cairn.info/revue-gestion.htm
+  24. https://www.cairn.info/revue-gestion-2017-1.htm
+  25. https://www.cairn.info/revue-gestion-2017-1.htm
+  26. https://www.cairn.info/connexion.php?from=suivre&type=publication-auteur-article&id=666622
+  27. https://www.cairn.info/publications-de-Laurent-Charlin--666622.htm
+  28. https://www.cairn.info/revue-gestion.htm
+  29. https://www.cairn.info/revue-gestion-2017-1.htm
+  30. javascript:void(0);
+  31. https://www.cairn.info/connexion.php?from=ajoutBiblio&id=RIGES_421_0076&type=biblio
+  32. https://www.cairn.info/connexion.php?from=suivre&type=nouveau-numero&id=RIGES
+  33. https://www.cairn.info/revue-gestion-2017-1-page-72.htm
+  34. https://www.cairn.info/revue-gestion-2017-1-page-80.htm
+  35. https://www.cairn.info/revue-gestion-2017-1-page-76.htm#article
+  36. https://www.cairn.info/revue-gestion-2017-1-page-76.htm#resume
+  37. https://www.cairn.info/revue-gestion-2017-1-page-76.htm#plan
+  38. https://www.cairn.info/revue-gestion-2017-1-page-76.htm#auteur
+  39. https://www.cairn.info/revue-gestion-2017-1-page-76.htm#citepar
+  40. https://www.cairn.info/revue-gestion-2017-1-page-76.htm#sujetproche
+  41. javascript:void(0);
+  42. javascript:void(0);
+  43. https://www.cairn.info/revue-gestion-2017-1-page-76.htm#article
+  44. https://www.cairn.info/revue-gestion-2017-1-page-76.htm#resume
+  45. https://www.cairn.info/revue-gestion-2017-1-page-76.htm#plan
+  46. https://www.cairn.info/revue-gestion-2017-1-page-76.htm#auteur
+  47. https://www.cairn.info/revue-gestion-2017-1-page-76.htm#citepar
+  48. https://www.cairn.info/revue-gestion-2017-1-page-76.htm#sujetproche
+  49. javascript:void(0);
+  50. https://www.cairn.info/revue-gestion-2017-1-page-76.htm#pa1
+  51. https://www.cairn.info/revue-gestion-2017-1-page-76.htm#pa2
+  52. https://www.cairn.info/revue-gestion-2017-1-page-76.htm#pa3
+  53. https://www.cairn.info/revue-gestion-2017-1-page-76.htm#pa4
+  54. https://www.cairn.info/revue-gestion-2017-1-page-76.htm#pa5
+  55. https://www.cairn.info/revue-gestion-2017-1-page-76.htm#pa6
+  56. https://www.cairn.info/revue-gestion-2017-1-page-76.htm#pa7
+  57. https://www.cairn.info/revue-gestion-2017-1-page-76.htm#pa8
+  58. https://www.cairn.info/revue-gestion-2017-1-page-76.htm#pa9
+  59. https://www.cairn.info/revue-gestion-2017-1-page-76.htm#pa10
+  60. https://www.cairn.info/revue-gestion-2017-1-page-76.htm#pa11
+  61. https://www.cairn.info/revue-gestion-2017-1-page-76.htm#pa12
+  62. https://www.cairn.info/revue-gestion-2017-1-page-76.htm#pa13
+  63. https://www.cairn.info/revue-gestion-2017-1-page-76.htm#s1n2
+  64. https://www.cairn.info/revue-gestion-2017-1-page-76.htm#s1n3
+  65. https://www.cairn.info/revue-gestion-2017-1-page-76.htm#s1n4
+  66. https://www.cairn.info/revue-gestion-2017-1-page-76.htm#s1n5
+  67. https://doi.org/10.3917/riges.421.0076
+  68. https://www.cairn.info/revue-gestion-2017-1-page-72.htm
+  69. https://www.cairn.info/revue-gestion-2017-1-page-80.htm
+  70. https://www.cairn.info/connexion.php?from=ajoutBiblio&id=RIGES_421_0076&type=biblio
+  71. https://www.cairn.info/connexion.php?from=suivre&type=nouveau-numero&id=RIGES
+  72. javascript:void(0);
+  73. javascript:void(0);
+  74. javascript:void(0);
+  75. javascript:void(0);
+  76. https://doi.org/10.3917/riges.421.0076
+  77. javascript:void(0);
+  78. https://doi.org/10.3917/riges.421.0076
+  79. https://www.cairn.info//Tools/exports/export-zotero.php?ID_ARTICLE=RIGES_421_0076
+  80. https://www.cairn.info//Tools/exports/export-endnote.php?ID_ARTICLE=RIGES_421_0076
+  81. http://www.refworks.com/express/ExpressImport.asp?vendor=Cairn&filter=Refworks Tagged Format&encoding=65001&url=https://www.cairn.info//Tools/exports/export-refworks.php?ID_ARTICLE=RIGES_421_0076
+  82. http://www.centrenationaldulivre.fr/
+  83. http://www.cnrs.fr/
+  84. https://www.cairn.info/a-propos.php
+  85. https://www.cairn.info/services-aux-editeurs.php
+  86. https://www.cairn.info/services-aux-particuliers.php
+  87. https://www.cairn.info/services-aux-institutions.php
+  88. https://www.cairn.info/services-aux-organisations.php
+  89. https://www.cairn.info/pro
+  90. https://www.cairn.info/listes-publiques.php
+  91. https://www.cairn.info/dossiers.php
+  92. https://www.cairn.info/rencontres.php
+  93. https://www.cairn.info/contact.php
+  94. https://www.cairn-int.info/
+  95. https://www.cairn-mundo.info/
+  96. https://www.cairn-sciences.info/
+  97. https://www.cairn.info/acces_hors.php?redirectOnSuccess=+/MGyMzkvCGBiineoa3HHA==_AI4DTuygjnmoCPUpcwLz4pf1VDBC/Ui543JVVexNHDjfZy1+P92tjNRiGT79iS+n
+  98. https://aide.cairn.info/article/108-quelles-sont-les-publications-disponibles-dans-l-abonnement-de-mon-institution
+  99. https://aide.cairn.info/
+ 100. https://www.cairn.info/conditions.php
+ 101. https://www.cairn.info/conditions-generales-de-vente.php
+ 102. https://www.cairn.info/vie-privee.php
+ 103. javascript:void(0);
+
+   Hidden links:
+ 105. javascript:void(0);

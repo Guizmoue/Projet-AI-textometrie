@@ -1,0 +1,832 @@
+   #[1]RSS sobre Technology [2]alternate [3]alternate
+
+   _
+   _
+
+   _
+   _
+
+   Select:
+     * - - -
+     * [4]España
+     * [5]América
+          + [6]México
+          + [7]Colombia
+          + [8]Chile
+          + [9]Argentina
+     * [10]USA
+
+   (BUTTON)
+   [11]EL PAÍS
+   [12]Technology
+   [13]subscribe (BUTTON) HHOLA[14]LOG IN
+   [15]Technology
+   _
+
+   [16]Artificial intelligence
+
+Artificial intelligence guzzles billions of liters of water
+
+The growing thirst of data centers, which use water to cool their equipment,
+is beginning to cause tensions in the territories where they are located
+
+   Artificial intelligence Columns of steam emerge from Google’s hyper
+   data center in The Dalles, Oregon.
+   Manuel G. Pascual
+   [17]Manuel G. Pascual
+   [18]Nov 15, 2023 - 15:55 CET
+
+   The residents of The Dalles, a small town in Oregon, are living a
+   paradox. Although the place is at the foot of the mighty Columbia
+   River, its climate is practically desert-like: rainfall is scarce, and
+   two summers ago the temperature reached 118 degrees Fahrenheit. The
+   threat of water restrictions has been hanging over the town’s 15,000
+   inhabitants for some time now. This is why they were not happy to
+   learn, at the beginning of the year, that more than 25% of the total
+   consumption of that valuable resource is going to a Google data center,
+   which uses it to cool the thousands of computers that fill the
+   infrastructure. [19]According to local media outlet Oregon Live, the
+   facility has nearly tripled its water use in the last five years, and
+   the technology multinational plans to open two more data centers along
+   the Columbia River. Environmentalists have already warned that this
+   could affect the flora and fauna of the area, and even cause shortages
+   among farmers in The Dalles.
+
+   This is not an isolated case in the United States, a country that
+   concentrates approximately 30% of all the data centers in the world.
+   Arizona, Utah and South Carolina are well aware of the insatiable
+   thirst of this type of infrastructure. They are also familiar with it
+   [20]in the Netherlands, where Microsoft was involved in a scandal last
+   year when news broke out that one of its facilities consumed four times
+   more water than declared in a context of drought. Or [21]in Germany,
+   where Brandenburg authorities denied Google permission to build a data
+   center in the region, as a Tesla gigafactory was already consuming too
+   much water.
+
+   Things like streaming series, using online apps (those that are not
+   installed on your phone) or saving photos in the cloud are possible
+   thanks to a global infrastructure that consists of a large combination
+   of data centers and more than a million kilometers of wiring. The
+   growing complexity of the applications that are used every day demand
+   more and more computing power, which translates into legions of
+   computers running at maximum power day and night. Their energy
+   consumption already amounts to at least 2% of the world’s total. The
+   machines must be kept cool so they do not overheat: this can be done
+   with ventilation systems similar to those used in personal computers,
+   but cooling the processors with water is cheaper.
+
+   [22]The technological thirst is on the rise. Google’s water consumption
+   increased by 20% in 2022, according to figures provided by the company;
+   that of Microsoft, owner of 75% of OpenAI (the creators of ChatGPT),
+   increased by 34% in the same period. The water resources consumed in
+   the generation of electricity that powers the servers, or that of the
+   hardware manufacturing processes, are not taken into account here.
+   Amazon, which along with the previous two controls almost half the
+   hyper data centers in the world (those with more than 5,000 servers)
+   and whose subsidiary AWS leads the cloud computing market, chose not to
+   provide any data for this story.
+
+   The next most important company is Meta, the parent company of
+   Facebook, Instagram, WhatsApp and Messenger, which used 2.7% more in
+   2022. Meta plans to open a hyper data center in Talavera de la Reina,
+   Spain, which, as EL PAÍS reported, will consume more than 600 million
+   liters of drinking water annually. Company sources assure that the
+   project is still on track, advancing at the pace set by the relevant
+   regulations, although construction has not yet begun.
+
+   How can we explain this sudden boom in water consumption by technology
+   companies? Why is it lower for Meta or Apple than for Microsoft and
+   Google? On November 4, 2022, ChatGPT — the chatbot that kicked off the
+   race for generative artificial intelligence (AI) — was introduced to
+   the world. Google already had similar large language models, such as
+   LaMDA, in the experimental phase, but they were not available to the
+   public, as these models must be trained before they star working. This
+   requires legions of high-powered computers (GPUs) to process enormous
+   amounts of data day and night for weeks or even months to find patterns
+   in the texts that can then be used to articulate meaningful fragments.
+   In the case of GPT-4 (the most advanced version of ChatGPT to date),
+   that training took place in Des Moines, Iowa, something that the local
+   residents knew nothing about until a senior Microsoft official said in
+   a speech that it “was literally made next to cornfields west of Des
+   Moines,” according to Associated Press.
+
+   The additional [23]effort to develop large AI models may have
+   skyrocketed the water consumption of Google and Microsoft, the two
+   technology companies that have invested the most in this technology.
+   This is what researcher Shaolei Ren, associate professor of electrical
+   and computer engineering at the University of California, Riverside,
+   and specialist in AI sustainability, believes. “We cannot say it with
+   certainty if the companies don’t provide concrete data, but the
+   increase in 2022 was quite hefty compared to 2021, and we know that at
+   that time they invested very heavily in generative AI, as well as in
+   other AI-related services,” he explains via email. “AI has been
+   integrated into almost all of Microsoft and Google’s everyday products,
+   including their search engines.”
+
+   Companies do not share data on how much extra water and energy it costs
+   to train AI models compared to the usual consumption of data centers.
+   “What we do know, because the director of one of these infrastructures
+   confirmed it to me, is that the chips used in AI training consume much
+   more than those of common servers,” points out Ana Valdivia, professor
+   of artificial intelligence, government and policy at the Oxford
+   Internet Institute, whose most recent research focuses on assessing the
+   environmental impact of AI.
+
+   At the end of the year, Ren and three other colleagues will publish
+   research in which they offer an estimated figure of how much water it
+   costs to chat with ChatGPT. For every 5 to 50 prompts (questions or
+   instructions), ChatGPT consumes half a liter of water. The range of 5
+   to 50 has to do with the complexity of the prompts. The estimate
+   includes all the water used during the training of the model, which is
+   the moment of greatest consumption, and that used by the machine to
+   process the commands.
+
+   The affected companies offer other arguments. A Google spokeswoman says
+   that the large jump in water consumption in 2022 “corresponds to
+   business growth.” Microsoft’s response is almost verbatim.
+
+   Other large technology companies, such as Meta (2.7%) or Apple (8.5%),
+   have also had an increase in water consumption, but significantly
+   smaller than those of Microsoft and Google. Even though they are
+   business giants and their activity has grown, their commitment to AI is
+   not so big. Although this technology is present in their applications,
+   they do not have large models similar to ChatGPT (or Google’s Bard, or
+   Microsoft’s Copilot).
+
+How water is consumed
+
+   Data centers resemble industrial warehouses with multiple rooms. Each
+   of them contains rows of racks — vertical units that house IT equipment
+   — the height of a refrigerator. These rows are arranged in aisles, so
+   that operators can manipulate the circuits of each machine.
+
+   The servers emit heat, and the concentration of all that equipment in
+   one place heightens this effect. Many data centers use cooling towers
+   to prevent overheating, the same system used in other industries. It is
+   based on exposing a flow of water to a current of air in a heat
+   exchanger, so that the evaporation cools the circuits.
+   Cooling systems are one of the key elements in data center design. In
+   the image, the network of pipes that cools the servers in the data
+   center of The Dalles. Cooling systems are one of the key elements in
+   data center design. In the image, the network of pipes that cools the
+   servers in the data center of The Dalles.CONNIE ZHOU
+
+   This method is more energy efficient than electric coolers, but it
+   involves a significant amount of water evaporating (i.e. not returning
+   to the circuit). That is the water that appears as “consumed” in the
+   technology companies’ records, explains Ren’s study. Depending on the
+   outdoor wet-bulb temperature, a cooling tower typically consumes
+   between one and four liters of water (up to nine in the summer) for
+   every kWh of server power.
+
+   Approximately 20% of the water used in cooling systems (that which does
+   not evaporate) is discharged at the end of the cycle into wastewater
+   treatment plants. “This water contains large amounts of minerals and
+   salt, so it cannot be used for human consumption without being treated
+   first,” explains Ren.
+
+   The average consumption of a data center is difficult to determine.
+   Those in colder climates need less refrigeration; in the same way, the
+   demand for water is different in the hottest times of the year than in
+   the coldest ones. They do need, however, to use clean, treated water to
+   avoid blockages and the growth of bacteria in the pipes. When sea or
+   reclaimed water is used, it has to be purified before it is put into
+   the cooling systems. In the case of Google, almost 90% of its
+   consumption in the U.S. came from drinking sources, according to Ren.
+
+Location matters
+
+   Data centers used to be in cities, but the growing energy needs of
+   these infrastructures have pushed them out of the urban environment,
+   which is unable to fulfill them. “They also need a safe location, one
+   that has a stable supply of electricity and is not at risk of climate
+   catastrophe. For all these reasons, in the last two decades they have
+   gone to the outskirts,” explains Lorena Jaume-Palasí, founder of
+   [24]Algorithm Watch and [25]The Ethical Tech Society and science and
+   technology advisor to the European Parliament.
+
+   “Modern data centers are very extensive. They are usually located near
+   the desert or in agricultural areas, so they’re able to expand: it is
+   common for server modules to be set up and moved, according to needs,”
+   she says. [26]A study by Virginia Tech researchers estimates that
+   one-fifth of U.S. data centers consume water from basins with moderate
+   or high water stress, areas where solar or wind energy is usually
+   available.
+
+   Aurora Gómez, from the Tu nube seca mi río (Your cloud dries my river)
+   collective, which was born as a reaction to the mega center that Meta
+   will build in Talavera de la Reina (Spain), sees a pattern behind these
+   actions. “Companies usually look for unpopulated areas with high
+   unemployment rates for their data centers, so that there is little
+   social opposition,” she points out.
+
+A problem with no prospect of solution
+
+   The industry is clearly betting on integrating AI into more and more
+   products and services. Is there a way to train AI models without
+   consuming large amounts of water? Ren thinks not. “Electric dryers
+   could be used to cool the computers, but they use a lot of energy, so
+   the water consumption involved in generating electricity would greatly
+   increase. On paper it is possible not to use water in the process, but
+   I think it is very difficult,” concludes the academic.
+
+   That is what the companies argue, as they immerse themselves in their
+   plans to improve the efficiency of their systems. According to Meta
+   sources, the new data centers that the company plans to develop
+   especially for AI will use electric drying systems that do not require
+   water (other than that necessary to generate electricity).
+   [27]According to a recent study by Javier Farfan and Alena Lohrmann, in
+   which current consumption data and economic growth prospects are taken
+   into account, in 2030 Europe will need more than 820 million cubic
+   meters of water a year just so that people can use the internet.
+
+   Some voices are beginning to call for a decrease in the use of digital
+   tools. The underlying idea is the same as with transportation or meat
+   consumption: the only effective way to reverse the climate crisis is to
+   lower production and consumption levels. That is what degrowth theories
+   maintain.
+
+   Valdivia does not think that digital degrowth is the solution. “It
+   seems to me that holding people responsible for this consumption is the
+   wrong approach. Besides, data centers are much more useful and socially
+   necessary than, say, electric cars. There are alternatives to mobility:
+   you can leave the car and take the bus or the train. But there is no
+   alternative to data centers.”
+
+   Sign up for [28]our weekly newsletter to get more English-language news
+   coverage from EL PAÍS USA Edition
+
+More information
+
+   [29]ChatGPT
+
+[30]The dirty secret of artificial intelligence
+
+   [31]Manuel G. Pascual
+
+[32]ChatGPT requires half a liter of water to have a conversation: The blue
+tech conflict
+
+   [33]Lucía Velasco
+
+Archived In
+
+     * [34]Oregón
+     * [35]Meta
+     * [36]Google
+     * [37]Microsoft
+     * [38]Apple
+     * [39]ChatGPT
+     * [40]OpenAI
+
+   Adheres to[41] The Trust Project [42]More information
+   If you are interested in licensing this content, please contact[43]
+   ventacontenidos@prisamedia.com
+
+   _
+
+[44]newsletter
+
+   Sign up to EL PAÍS in English Edition bulletin
+
+[45]Most viewed
+
+    1. [46]Scientists paid large publishers over $1 billion in four years
+       to have their studies published with open access
+    2. [47]The return of ‘Sailor Moon’: How and why the warrior in
+       pigtails and a miniskirt who confronted the forces of evil has been
+       resurrected
+    3. [48]The mysterious death of Colombia’s celebrity hairstylist
+    4. [49]Chinese automaker BYD goes after Tesla’s throne with more than
+       300,000 electric cars sold in a month
+    5. [50]Who are the independents who have wrested control of OpenAI
+       from its founders?
+
+   Recomendaciones EL PAÍS
+     * (BUTTON) Cursos
+     * (BUTTON) Centros
+     * (BUTTON) Francés online
+     * (BUTTON) Inglés online
+     * (BUTTON) Italiano online
+     * (BUTTON) Alemán online
+     * (BUTTON) Crucigramas & Juegos
+
+   (BUTTON)
+   [51]Cursos
+   [52]cursos
+   [53]Maestría en línea en Inteligencia Artificial
+   [54]Maestría en línea en Inteligencia Artificial
+   [55]cursos
+   [56]Maestría en línea en Dirección de Empresas
+   [57]Maestría en línea en Dirección de Empresas
+   [58]cursos
+   [59]Maestría a distancia en Project Management
+   [60]Maestría a distancia en Project Management
+   [61]cursos
+   [62]Maestría en línea en Marketing Digital
+   [63]Maestría en línea en Marketing Digital
+   [64]Centros
+   [65]cursosonline
+   [66]Maestría en línea en Business Intelligence
+   [67]Maestría en línea en Business Intelligence
+   [68]cursosonline
+   [69]Maestría en línea en Comercio Internacional
+   [70]Maestría en línea en Comercio Internacional
+   [71]cursosonline
+   [72]Maestría a distancia en Dirección de Recursos Humanos
+   [73]Maestría a distancia en Dirección de Recursos Humanos
+   [74]cursosonline
+   [75]Programa en línea en Project Finance Internacional
+   [76]Programa en línea en Project Finance Internacional
+   [77]Francés online
+   [78]cursosingles
+   [79]Mejora tu francés con 15 minutos al día
+   [80]Mejora tu francés con 15 minutos al día
+   [81]cursosingles
+   [82]Disfruta de nuestras lecciones personalizadas, breves y divertidas.
+   [83]Disfruta de nuestras lecciones personalizadas, breves y divertidas.
+   [84]cursosingles
+   [85]Obtendrá un diploma con estadísticas de nivel, progresión y
+   participación.
+   [86]Obtendrá un diploma con estadísticas de nivel, progresión y
+   participación.
+   [87]cursosingles
+   [88]21 días de prueba gratuita de nuestro curso de francés ‘online’
+   [89]21 días de prueba gratuita de nuestro curso de francés ‘online’
+   [90]Inglés online
+   [91]cursosingles
+   [92]Mejore su inglés con EL PAÍS con 15 minutos al día
+   [93]Mejore su inglés con EL PAÍS con 15 minutos al día
+   [94]cursosingles
+   [95]Disfrute de nuestras lecciones personalizadas, breves y divertidas
+   [96]Disfrute de nuestras lecciones personalizadas, breves y divertidas
+   [97]cursosingles
+   [98]Evalúe su nivel y obtenga un certificado
+   [99]Evalúe su nivel y obtenga un certificado
+   [100]cursosingles
+   [101]Pruebe 21 días gratis y sin compromiso
+   [102]Pruebe 21 días gratis y sin compromiso
+   [103]Italiano online
+   [104]cursosingles
+   [105]Mejore su italiano con EL PAÍS con 15 minutos al día
+   [106]Mejore su italiano con EL PAÍS con 15 minutos al día
+   [107]cursosingles
+   [108]Disfrute de nuestras lecciones personalizadas, breves y divertidas
+   [109]Disfrute de nuestras lecciones personalizadas, breves y divertidas
+   [110]cursosingles
+   [111]Evalúe su nivel y obtenga un certificado
+   [112]Evalúe su nivel y obtenga un certificado
+   [113]cursosingles
+   [114]Pruebe 21 días gratis y sin compromiso
+   [115]Pruebe 21 días gratis y sin compromiso
+   [116]Alemán online
+   [117]cursosingles
+   [118]Las mejores oportunidades hablan alemán. Nuevo curso 'online'
+   [119]Las mejores oportunidades hablan alemán. Nuevo curso 'online'
+   [120]cursosingles
+   [121]Disfrute de nuestras lecciones personalizadas, breves y divertidas
+   [122]Disfrute de nuestras lecciones personalizadas, breves y divertidas
+   [123]cursosingles
+   [124]Evalúe su nivel y obtenga un certificado
+   [125]Evalúe su nivel y obtenga un certificado
+   [126]cursosingles
+   [127]Pruebe 21 días gratis y sin compromiso
+   [128]Pruebe 21 días gratis y sin compromiso
+   [129]Crucigramas & Juegos
+   [130]juegos
+   [131]Crucigramas minis
+   [132]Crucigramas minis
+   [133]juegos
+   [134]Crucigramas Tarkus
+   [135]Crucigramas Tarkus
+   [136]juegos
+   [137]Sudokus mini
+   [138]Sudokus mini
+   [139]juegos
+   [140]Sopas de letras
+   [141]Sopas de letras
+
+   Recomendaciones EL PAÍS
+     * (BUTTON) Cursos
+     * (BUTTON) Centros
+     * (BUTTON) Italiano online
+     * (BUTTON) Francés online
+     * (BUTTON) Alemán online
+     * (BUTTON) Crucigramas & Juegos
+
+   (BUTTON)
+   [142]Cursos
+   [143]cursos
+   [144]Maestría en Energías Renovables. Clases 100% en línea
+   [145]Maestría en Energías Renovables. Clases 100% en línea
+   [146]cursos
+   [147]Maestría en Finanzas. Clases virtuales con servicio de consultas
+   [148]Maestría en Finanzas. Clases virtuales con servicio de consultas
+   [149]cursos
+   [150]Maestría en Derecho Penal y Procesal Penal. Metodología en línea
+   [151]Maestría en Derecho Penal y Procesal Penal. Metodología en línea
+   [152]cursos
+   [153]Maestría en Marketing y Dirección Comercial. Clases 100% en línea
+   [154]Maestría en Marketing y Dirección Comercial. Clases 100% en línea
+   [155]Centros
+   [156]cursosonline
+   [157]Maestría Oficial en Dirección de Empresas. Metodología en línea
+   [158]Maestría Oficial en Dirección de Empresas. Metodología en línea
+   [159]cursosonline
+   [160]Maestría en Educación Especial. Clases virtuales con servicio de
+   consultas
+   [161]Maestría en Educación Especial. Clases virtuales con servicio de
+   consultas
+   [162]cursosonline
+   [163]Especialidad en Género y Justicia. Clases 100% en línea
+   [164]Especialidad en Género y Justicia. Clases 100% en línea
+   [165]cursosonline
+   [166]Descubra un completo Directorio de Centros de Formación
+   [167]Descubra un completo Directorio de Centros de Formación
+   [168]Italiano online
+   [169]cursosingles
+   [170]Mejore su italiano con solo 15 minutos al día
+   [171]Mejore su italiano con solo 15 minutos al día
+   [172]cursosingles
+   [173]Disfrute de nuestras lecciones personalizadas, breves y
+   divertidas.
+   [174]Disfrute de nuestras lecciones personalizadas, breves y
+   divertidas.
+   [175]cursosingles
+   [176]Obtendrá un diploma con estadísticas de nivel, progresión y
+   participación.
+   [177]Obtendrá un diploma con estadísticas de nivel, progresión y
+   participación.
+   [178]cursosingles
+   [179]21 días de prueba gratuita. ¡Empiece ya!
+   [180]21 días de prueba gratuita. ¡Empiece ya!
+   [181]Francés online
+   [182]cursosingles
+   [183]Mejore su francés con solo 15 minutos al día
+   [184]Mejore su francés con solo 15 minutos al día
+   [185]cursosingles
+   [186]Disfrute de nuestras lecciones personalizadas, breves y
+   divertidas.
+   [187]Disfrute de nuestras lecciones personalizadas, breves y
+   divertidas.
+   [188]cursosingles
+   [189]Obtendrá un diploma con estadísticas de nivel, progresión y
+   participación.
+   [190]Obtendrá un diploma con estadísticas de nivel, progresión y
+   participación.
+   [191]cursosingles
+   [192]21 días de prueba gratuita. ¡Empiece ya!
+   [193]21 días de prueba gratuita. ¡Empiece ya!
+   [194]Alemán online
+   [195]cursosingles
+   [196]Las mejores oportunidades hablan alemán. Nuevo curso 'online'
+   [197]Las mejores oportunidades hablan alemán. Nuevo curso 'online'
+   [198]cursosingles
+   [199]Disfrute de nuestras lecciones personalizadas, breves y
+   divertidas.
+   [200]Disfrute de nuestras lecciones personalizadas, breves y
+   divertidas.
+   [201]cursosingles
+   [202]Obtendrá un diploma con estadísticas de nivel, progresión y
+   participación.
+   [203]Obtendrá un diploma con estadísticas de nivel, progresión y
+   participación.
+   [204]cursosingles
+   [205]21 días de prueba gratuita. ¡Empiece ya!
+   [206]21 días de prueba gratuita. ¡Empiece ya!
+   [207]Crucigramas & Juegos
+   [208]juegos
+   [209]¡Disfruta con nuestros Crucigramas para expertos!
+   [210]¡Disfruta con nuestros Crucigramas para expertos!
+   [211]juegos
+   [212]Resuelve los últimos Crucigramas de Mambrino
+   [213]Resuelve los últimos Crucigramas de Mambrino
+   [214]juegos
+   [215]Juega a nuestros Sudoku para Expertos y mejora día a día tu nivel
+   [216]Juega a nuestros Sudoku para Expertos y mejora día a día tu nivel
+   [217]juegos
+   [218]Juega a las nuevas Sopas de letras clásicas y temáticas de EL PAÍS
+   [219]Juega a las nuevas Sopas de letras clásicas y temáticas de EL PAÍS
+   _
+   _
+
+Inicia sesión o regístrate gratis para continuar leyendo en incógnito
+
+   [220]Regístrate gratis[221]Inicia sesión
+
+   Suscríbete y lee sin límites
+   [222]Ver opciones de suscripción
+   (BUTTON)
+   HOLA
+   [223]Subscribe for € 1
+     * [224]My activity
+     * [225]My Subscription
+     * [226]My personal data
+     * [227]My newsletters
+     * [228]Rights and de-registration
+     * [229]Events and experiences
+
+   [230]logout
+   (BUTTON)
+   change contrast: (BUTTON)
+   Buscar ____________________ (BUTTON)
+   Select:
+     * - - -
+     * [231]España
+     * [232]América
+          + [233]México
+          + [234]Colombia
+          + [235]Chile
+          + [236]Argentina
+     * [237]USA
+
+   If you want to follow all the latest news without any limits, subscribe
+   to EL PAÍS for just €1 the first month
+   [238]SUBSCRIBE NOW
+
+     * [239]International
+     * [240]U.S.
+     * [241]Economy And Business
+     * [242]Science
+     * [243]Health
+     * [244]Technology
+     * [245]Climate
+     * [246]People
+     * [247]Lifestyle
+     * [248]Opinion
+     * [249]Culture
+     * [250]Sports
+     * [251]EPS
+     * [252]Latest News
+
+   [253]
+   Newsletter
+   Follow on:
+
+References
+
+   Visible links:
+   1. https://feeds.elpais.com/mrss-s/list/ep/site/english.elpais.com/section/technology
+   2. https://english.elpais.com/technology/2023-11-15/artificial-intelligence-guzzles-billions-of-liters-of-water.html
+   3. https://elpais.com/tecnologia/2023-11-14/la-inteligencia-artificial-se-bebe-miles-de-millones-de-litros-de-agua.html
+   4. https://elpais.com/
+   5. https://elpais.com/america/
+   6. https://elpais.com/mexico/
+   7. https://elpais.com/america-colombia/
+   8. https://elpais.com/chile/
+   9. https://elpais.com/argentina/
+  10. https://english.elpais.com/
+  11. https://english.elpais.com/
+  12. https://english.elpais.com/technology/
+  13. https://elpais.com/suscripciones/#/campaign?prod=SUSDIG&o=boton_cab&backURL=https://english.elpais.com/technology/2023-11-15/artificial-intelligence-guzzles-billions-of-liters-of-water.html
+  14. https://english.elpais.com/subscriptions/#/sign-in?prod=REGEN&o=CABEP&backURL=https://english.elpais.com/technology/2023-11-15/artificial-intelligence-guzzles-billions-of-liters-of-water.html
+  15. https://english.elpais.com/technology/
+  16. https://english.elpais.com/technology/
+  17. https://english.elpais.com/author/manuel-gonzalez-pascual/#?rel=author_top
+  18. https://english.elpais.com/archive/2023-11-15/
+  19. https://www.oregonlive.com/silicon-forest/2022/12/googles-water-use-is-soaring-in-the-dalles-records-show-with-two-more-data-centers-to-come.html
+  20. https://www.techzine.eu/news/infrastructure/85915/microsoft-data-center-guzzles-scarce-water-supply-amidst-heatwave/
+  21. https://teslamag.de/news/rbb-wasser-deutsche-tesla-fabrik-rationiert-google-woanders-suchen-43677
+  22. https://english.elpais.com/science-tech/2023-06-29/chatgpt-requires-half-a-liter-of-water-to-have-a-conversation-the-blue-tech-conflict.html
+  23. https://english.elpais.com/science-tech/2023-03-23/the-dirty-secret-of-artificial-intelligence.html
+  24. https://algorithmwatch.org/en/
+  25. https://www.ethicaltech-society.org/
+  26. https://iopscience.iop.org/article/10.1088/1748-9326/abfba1
+  27. https://www.sciencedirect.com/science/article/pii/S019689042300571X
+  28. https://plus.elpais.com/newsletters/lnp/1/333/?lang=en
+  29. https://english.elpais.com/science-tech/2023-03-23/the-dirty-secret-of-artificial-intelligence.html#?rel=mas
+  30. https://english.elpais.com/science-tech/2023-03-23/the-dirty-secret-of-artificial-intelligence.html#?rel=mas
+  31. https://english.elpais.com/author/manuel-gonzalez-pascual/
+  32. https://english.elpais.com/science-tech/2023-06-29/chatgpt-requires-half-a-liter-of-water-to-have-a-conversation-the-blue-tech-conflict.html#?rel=mas
+  33. https://english.elpais.com/author/lucia-velasco-jones/
+  34. https://english.elpais.com/news/oregon/#?rel=arch
+  35. https://english.elpais.com/news/meta-platforms/#?rel=arch
+  36. https://english.elpais.com/news/google/#?rel=arch
+  37. https://english.elpais.com/news/microsoft/#?rel=arch
+  38. https://english.elpais.com/news/apple-computer/#?rel=arch
+  39. https://english.elpais.com/news/chatgpt/#?rel=arch
+  40. https://english.elpais.com/news/openai/#?rel=arch
+  41. https://elpais.com/estaticos/que-es-the-trust-project/
+  42. https://elpais.com/estaticos/code-of-ethics/
+  43. mailto:ventacontenidos@prisamedia.com
+  44. https://plus.elpais.com/newsletters/lnp/1/333/#?prm=not_newsletters_english
+  45. https://elpais.com/lomasvisto/
+  46. https://english.elpais.com/science-tech/2023-11-21/scientists-paid-large-publishers-over-1-billion-in-four-years-to-have-their-studies-published-with-open-access.html#?rel=lom
+  47. https://english.elpais.com/culture/2023-11-20/the-return-of-sailor-moon-how-and-why-the-warrior-in-pigtails-and-a-miniskirt-who-confronted-the-forces-of-evil-has-been-resurrected.html#?rel=lom
+  48. https://english.elpais.com/usa/2022-01-18/the-mysterious-death-of-colombias-celebrity-hairstylist.html#?rel=lom
+  49. https://english.elpais.com/economy-and-business/2023-11-21/chinese-automaker-byd-goes-after-teslas-throne-with-more-than-300000-electric-cars-sold-in-a-month.html#?rel=lom
+  50. https://english.elpais.com/economy-and-business/2023-11-21/who-are-the-independents-who-have-wrested-control-of-openai-from-its-founders.html#?rel=lom
+  51. https://www.emagister.com.mx/landing/main/?pfichas=11117&utm_source=elpais_america&utm_medium=cpl&utm_content=logo_widget_america&utm_campaign=logo_widget_america
+  52. https://www.emagister.com/cursolanding?idBusqueda=3595570&sid=3&pfichas=18276&utm_source=elpais_america&utm_medium=cpl&utm_content=widget_america_home_cursos_1&utm_campaign=inteligencia_artificial_imf
+  53. https://www.emagister.com/cursolanding?idBusqueda=3595570&sid=3&pfichas=18276&utm_source=elpais_america&utm_medium=cpl&utm_content=widget_america_home_cursos_1&utm_campaign=inteligencia_artificial_imf
+  54. https://www.emagister.com/cursolanding?idBusqueda=3595570&sid=3&pfichas=18276&utm_source=elpais_america&utm_medium=cpl&utm_content=widget_america_home_cursos_1&utm_campaign=inteligencia_artificial_imf
+  55. https://www.emagister.com/cursolanding?idBusqueda=3328728&sid=3&pfichas=18275&utm_source=elpais_america&utm_medium=cpl&utm_content=widget_america_home_cursos_2&utm_campaign=direccion_empresas_imf
+  56. https://www.emagister.com/cursolanding?idBusqueda=3328728&sid=3&pfichas=18275&utm_source=elpais_america&utm_medium=cpl&utm_content=widget_america_home_cursos_2&utm_campaign=direccion_empresas_imf
+  57. https://www.emagister.com/cursolanding?idBusqueda=3328728&sid=3&pfichas=18275&utm_source=elpais_america&utm_medium=cpl&utm_content=widget_america_home_cursos_2&utm_campaign=direccion_empresas_imf
+  58. https://www.emagister.com/cursolanding?idBusqueda=3605467&sid=27&pfichas=15570&utm_source=elpais_america&utm_medium=cpl&utm_content=widget_america_home_cursos_3&utm_campaign=project_management_obs
+  59. https://www.emagister.com/cursolanding?idBusqueda=3605467&sid=27&pfichas=15570&utm_source=elpais_america&utm_medium=cpl&utm_content=widget_america_home_cursos_3&utm_campaign=project_management_obs
+  60. https://www.emagister.com/cursolanding?idBusqueda=3605467&sid=27&pfichas=15570&utm_source=elpais_america&utm_medium=cpl&utm_content=widget_america_home_cursos_3&utm_campaign=project_management_obs
+  61. https://www.emagister.com/cursolanding?idBusqueda=3613633&sid=3&pfichas=15571&utm_source=elpais_america&utm_medium=cpl&utm_content=widget_america_home_cursos_4&utm_campaign=marketing_eude
+  62. https://www.emagister.com/cursolanding?idBusqueda=3613633&sid=3&pfichas=15571&utm_source=elpais_america&utm_medium=cpl&utm_content=widget_america_home_cursos_4&utm_campaign=marketing_eude
+  63. https://www.emagister.com/cursolanding?idBusqueda=3613633&sid=3&pfichas=15571&utm_source=elpais_america&utm_medium=cpl&utm_content=widget_america_home_cursos_4&utm_campaign=marketing_eude
+  64. https://www.emagister.com.mx/landing/main/?pfichas=11117&utm_source=elpais_america&utm_medium=cpl&utm_content=logo_widget_america&utm_campaign=logo_widget_america
+  65. https://www.emagister.com/cursolanding?idBusqueda=2738296&sid=3&pfichas=18277&utm_source=elpais_america&utm_medium=cpl&utm_content=widget_america_home_centros_1&utm_campaign=business_intelligence_obs
+  66. https://www.emagister.com/cursolanding?idBusqueda=2738296&sid=3&pfichas=18277&utm_source=elpais_america&utm_medium=cpl&utm_content=widget_america_home_centros_1&utm_campaign=business_intelligence_obs
+  67. https://www.emagister.com/cursolanding?idBusqueda=2738296&sid=3&pfichas=18277&utm_source=elpais_america&utm_medium=cpl&utm_content=widget_america_home_centros_1&utm_campaign=business_intelligence_obs
+  68. https://www.emagister.com/cursolanding?idBusqueda=2956200&sid=3&pfichas=18278&utm_source=elpais_america&utm_medium=cpl&utm_content=widget_america_home_centros_2&utm_campaign=comercio_internacional_eude
+  69. https://www.emagister.com/cursolanding?idBusqueda=2956200&sid=3&pfichas=18278&utm_source=elpais_america&utm_medium=cpl&utm_content=widget_america_home_centros_2&utm_campaign=comercio_internacional_eude
+  70. https://www.emagister.com/cursolanding?idBusqueda=2956200&sid=3&pfichas=18278&utm_source=elpais_america&utm_medium=cpl&utm_content=widget_america_home_centros_2&utm_campaign=comercio_internacional_eude
+  71. https://www.emagister.com/cursolanding?idBusqueda=3605672&sid=3&pfichas=15572&utm_source=elpais_america&utm_medium=cpl&utm_content=widget_america_home_centros_3&utm_campaign=rrhh_imf
+  72. https://www.emagister.com/cursolanding?idBusqueda=3605672&sid=3&pfichas=15572&utm_source=elpais_america&utm_medium=cpl&utm_content=widget_america_home_centros_3&utm_campaign=rrhh_imf
+  73. https://www.emagister.com/cursolanding?idBusqueda=3605672&sid=3&pfichas=15572&utm_source=elpais_america&utm_medium=cpl&utm_content=widget_america_home_centros_3&utm_campaign=rrhh_imf
+  74. https://www.emagister.com/cursolanding?idBusqueda=3300882&sid=3&pfichas=15573&utm_source=elpais_america&utm_medium=cpl&utm_content=widget_america_home_centros_4&utm_campaign=project_finance_ols
+  75. https://www.emagister.com/cursolanding?idBusqueda=3300882&sid=3&pfichas=15573&utm_source=elpais_america&utm_medium=cpl&utm_content=widget_america_home_centros_4&utm_campaign=project_finance_ols
+  76. https://www.emagister.com/cursolanding?idBusqueda=3300882&sid=3&pfichas=15573&utm_source=elpais_america&utm_medium=cpl&utm_content=widget_america_home_centros_4&utm_campaign=project_finance_ols
+  77. https://idiomas.elpais.com/es-us/frantastique?rfextension=email21diaswidgetamerica
+  78. https://idiomas.elpais.com/es-us/frantastique?rfextension=email21diaswidgetamerica
+  79. https://idiomas.elpais.com/es-us/frantastique?rfextension=email21diaswidgetamerica
+  80. https://idiomas.elpais.com/es-us/frantastique?rfextension=email21diaswidgetamerica
+  81. https://idiomas.elpais.com/es-us/frantastique?rfextension=email21diaswidgetamerica
+  82. https://idiomas.elpais.com/es-us/frantastique?rfextension=email21diaswidgetamerica
+  83. https://idiomas.elpais.com/es-us/frantastique?rfextension=email21diaswidgetamerica
+  84. https://idiomas.elpais.com/es-us/frantastique?rfextension=email21diaswidgetamerica
+  85. https://idiomas.elpais.com/es-us/frantastique?rfextension=email21diaswidgetamerica
+  86. https://idiomas.elpais.com/es-us/frantastique?rfextension=email21diaswidgetamerica
+  87. https://idiomas.elpais.com/es-us/frantastique?rfextension=email21diaswidgetamerica
+  88. https://idiomas.elpais.com/es-us/frantastique?rfextension=email21diaswidgetamerica
+  89. https://idiomas.elpais.com/es-us/frantastique?rfextension=email21diaswidgetamerica
+  90. https://idiomas.elpais.com/es-us/gymglish?rfextension=email21diaswidgetamerica
+  91. https://idiomas.elpais.com/es-us/gymglish?rfextension=email21diaswidgetamerica
+  92. https://idiomas.elpais.com/es-us/gymglish?rfextension=email21diaswidgetamerica
+  93. https://idiomas.elpais.com/es-us/gymglish?rfextension=email21diaswidgetamerica
+  94. https://idiomas.elpais.com/es-us/gymglish?rfextension=email21diaswidgetamerica
+  95. https://idiomas.elpais.com/es-us/gymglish?rfextension=email21diaswidgetamerica
+  96. https://idiomas.elpais.com/es-us/gymglish?rfextension=email21diaswidgetamerica
+  97. https://idiomas.elpais.com/es-us/gymglish?rfextension=email21diaswidgetamerica
+  98. https://idiomas.elpais.com/es-us/gymglish?rfextension=email21diaswidgetamerica
+  99. https://idiomas.elpais.com/es-us/gymglish?rfextension=email21diaswidgetamerica
+ 100. https://idiomas.elpais.com/es-us/gymglish?rfextension=email21diaswidgetamerica
+ 101. https://idiomas.elpais.com/es-us/gymglish?rfextension=email21diaswidgetamerica
+ 102. https://idiomas.elpais.com/es-us/gymglish?rfextension=email21diaswidgetamerica
+ 103. https://idiomas.elpais.com/es-us/saga-baldoria?rfextension=email21diaswidgetamerica
+ 104. https://idiomas.elpais.com/es-us/saga-baldoria?rfextension=email21diaswidgetamerica
+ 105. https://idiomas.elpais.com/es-us/saga-baldoria?rfextension=email21diaswidgetamerica
+ 106. https://idiomas.elpais.com/es-us/saga-baldoria?rfextension=email21diaswidgetamerica
+ 107. https://idiomas.elpais.com/es-us/saga-baldoria?rfextension=email21diaswidgetamerica
+ 108. https://idiomas.elpais.com/es-us/saga-baldoria?rfextension=email21diaswidgetamerica
+ 109. https://idiomas.elpais.com/es-us/saga-baldoria?rfextension=email21diaswidgetamerica
+ 110. https://idiomas.elpais.com/es-us/saga-baldoria?rfextension=email21diaswidgetamerica
+ 111. https://idiomas.elpais.com/es-us/saga-baldoria?rfextension=email21diaswidgetamerica
+ 112. https://idiomas.elpais.com/es-us/saga-baldoria?rfextension=email21diaswidgetamerica
+ 113. https://idiomas.elpais.com/es-us/saga-baldoria?rfextension=email21diaswidgetamerica
+ 114. https://idiomas.elpais.com/es-us/saga-baldoria?rfextension=email21diaswidgetamerica
+ 115. https://idiomas.elpais.com/es-us/saga-baldoria?rfextension=email21diaswidgetamerica
+ 116. https://idiomas.elpais.com/es-us/wunderbla?rfextension=widgetAmerica21dias
+ 117. https://idiomas.elpais.com/es-us/wunderbla?rfextension=widgetAmerica21dias
+ 118. https://idiomas.elpais.com/es-us/wunderbla?rfextension=widgetAmerica21dias
+ 119. https://idiomas.elpais.com/es-us/wunderbla?rfextension=widgetAmerica21dias
+ 120. https://idiomas.elpais.com/es-us/wunderbla?rfextension=email21diaswidgetamerica
+ 121. https://idiomas.elpais.com/es-us/wunderbla?rfextension=email21diaswidgetamerica
+ 122. https://idiomas.elpais.com/es-us/wunderbla?rfextension=email21diaswidgetamerica
+ 123. https://idiomas.elpais.com/es-us/wunderbla?rfextension=widgetAmerica21dias
+ 124. https://idiomas.elpais.com/es-us/wunderbla?rfextension=widgetAmerica21dias
+ 125. https://idiomas.elpais.com/es-us/wunderbla?rfextension=widgetAmerica21dias
+ 126. https://idiomas.elpais.com/es-us/wunderbla?rfextension=widgetAmerica21dias
+ 127. https://idiomas.elpais.com/es-us/wunderbla?rfextension=widgetAmerica21dias
+ 128. https://idiomas.elpais.com/es-us/wunderbla?rfextension=widgetAmerica21dias
+ 129. https://elpais.com/juegos/#?int=juegos_logowidgetamerica
+ 130. https://elpais.com/juegos/crucigramas/mini/#?int=juegos_widgetamerica
+ 131. https://elpais.com/juegos/crucigramas/mini/#?int=juegos_widgetamerica
+ 132. https://elpais.com/juegos/crucigramas/mini/#?int=juegos_widgetamerica
+ 133. https://elpais.com/juegos/crucigramas/tarkus/#?int=juegos_widgetamerica
+ 134. https://elpais.com/juegos/crucigramas/tarkus/#?int=juegos_widgetamerica
+ 135. https://elpais.com/juegos/crucigramas/tarkus/#?int=juegos_widgetamerica
+ 136. https://elpais.com/juegos/sudokus/mini/#?int=juegos_widgetamerica
+ 137. https://elpais.com/juegos/sudokus/mini/#?int=juegos_widgetamerica
+ 138. https://elpais.com/juegos/sudokus/mini/#?int=juegos_widgetamerica
+ 139. https://elpais.com/juegos/sopas-de-letras/#?int=juegos_widgetamerica
+ 140. https://elpais.com/juegos/sopas-de-letras/#?int=juegos_widgetamerica
+ 141. https://elpais.com/juegos/sopas-de-letras/#?int=juegos_widgetamerica
+ 142. https://cursoselpais.mx/?sid=48&pfichas=28392&utm_source=elpais&utm_medium=cpl&utm_content=Cursos_ElPaís_México_Directorio&utm_campaign=logo_widget_elpais_mexico
+ 143. https://www.emagister.com.mx/cursolanding?idBusqueda=831538&sid=3&pfichas=27361&utm_source=elpais_mexico&utm_medium=cpl&utm_content=widget_mexico_home_cursos_1&utm_campaign=energias_renovables_imf
+ 144. https://www.emagister.com.mx/cursolanding?idBusqueda=831538&sid=3&pfichas=27361&utm_source=elpais_mexico&utm_medium=cpl&utm_content=widget_mexico_home_cursos_1&utm_campaign=energias_renovables_imf
+ 145. https://www.emagister.com.mx/cursolanding?idBusqueda=831538&sid=3&pfichas=27361&utm_source=elpais_mexico&utm_medium=cpl&utm_content=widget_mexico_home_cursos_1&utm_campaign=energias_renovables_imf
+ 146. https://www.emagister.com.mx/cursolanding?idBusqueda=853643&sid=3&pfichas=27362&utm_source=elpais_mexico&utm_medium=cpl&utm_content=widget_mexico_home_cursos_2&utm_campaign=finanzas_ieu
+ 147. https://www.emagister.com.mx/cursolanding?idBusqueda=853643&sid=3&pfichas=27362&utm_source=elpais_mexico&utm_medium=cpl&utm_content=widget_mexico_home_cursos_2&utm_campaign=finanzas_ieu
+ 148. https://www.emagister.com.mx/cursolanding?idBusqueda=853643&sid=3&pfichas=27362&utm_source=elpais_mexico&utm_medium=cpl&utm_content=widget_mexico_home_cursos_2&utm_campaign=finanzas_ieu
+ 149. https://www.emagister.com.mx/cursolanding?idBusqueda=2550856&sid=3&pfichas=27362&utm_source=elpais_mexico&utm_medium=cpl&utm_content=widget_mexico_home_cursos_3&utm_campaign=derecho_magno_americana
+ 150. https://www.emagister.com.mx/cursolanding?idBusqueda=2550856&sid=3&pfichas=27362&utm_source=elpais_mexico&utm_medium=cpl&utm_content=widget_mexico_home_cursos_3&utm_campaign=derecho_magno_americana
+ 151. https://www.emagister.com.mx/cursolanding?idBusqueda=2550856&sid=3&pfichas=27362&utm_source=elpais_mexico&utm_medium=cpl&utm_content=widget_mexico_home_cursos_3&utm_campaign=derecho_magno_americana
+ 152. https://www.emagister.com.mx/cursolanding?idBusqueda=831543?sid=3&pfichas=27364&utm_source=elpais_mexico&utm_medium=cpl&utm_content=widget_mexico_home_cursos_4&utm_campaign=marketing_comercial_imf
+ 153. https://www.emagister.com.mx/cursolanding?idBusqueda=831543?sid=3&pfichas=27364&utm_source=elpais_mexico&utm_medium=cpl&utm_content=widget_mexico_home_cursos_4&utm_campaign=marketing_comercial_imf
+ 154. https://www.emagister.com.mx/cursolanding?idBusqueda=831543?sid=3&pfichas=27364&utm_source=elpais_mexico&utm_medium=cpl&utm_content=widget_mexico_home_cursos_4&utm_campaign=marketing_comercial_imf
+ 155. https://cursoselpais.mx/?sid=48&pfichas=28392&utm_source=elpais&utm_medium=cpl&utm_content=Cursos_ElPaís_México_Directorio&utm_campaign=logo_widget_elpais_mexico
+ 156. https://www.emagister.com.mx/cursolanding?idBusqueda=2481768&sid=3&pfichas=27365&utm_source=elpais_mexico&utm_medium=cpl&utm_content=widget_mexico_home_centros_1&utm_campaign=direccion_empresas_imf
+ 157. https://www.emagister.com.mx/cursolanding?idBusqueda=2481768&sid=3&pfichas=27365&utm_source=elpais_mexico&utm_medium=cpl&utm_content=widget_mexico_home_centros_1&utm_campaign=direccion_empresas_imf
+ 158. https://www.emagister.com.mx/cursolanding?idBusqueda=2481768&sid=3&pfichas=27365&utm_source=elpais_mexico&utm_medium=cpl&utm_content=widget_mexico_home_centros_1&utm_campaign=direccion_empresas_imf
+ 159. https://www.emagister.com.mx/cursolanding?idBusqueda=2521642&sid=3&pfichas=27366&utm_source=elpais_mexico&utm_medium=cpl&utm_content=widget_mexico_home_centros_2&utm_campaign=educacion_ieu
+ 160. https://www.emagister.com.mx/cursolanding?idBusqueda=2521642&sid=3&pfichas=27366&utm_source=elpais_mexico&utm_medium=cpl&utm_content=widget_mexico_home_centros_2&utm_campaign=educacion_ieu
+ 161. https://www.emagister.com.mx/cursolanding?idBusqueda=2521642&sid=3&pfichas=27366&utm_source=elpais_mexico&utm_medium=cpl&utm_content=widget_mexico_home_centros_2&utm_campaign=educacion_ieu
+ 162. https://www.emagister.com.mx/cursolanding?idBusqueda=2550853&sid=3&pfichas=27367&utm_source=elpais_mexico&utm_medium=cpl&utm_content=widget_mexico_home_centros_3&utm_campaign=genero_justicia_magno_americana
+ 163. https://www.emagister.com.mx/cursolanding?idBusqueda=2550853&sid=3&pfichas=27367&utm_source=elpais_mexico&utm_medium=cpl&utm_content=widget_mexico_home_centros_3&utm_campaign=genero_justicia_magno_americana
+ 164. https://www.emagister.com.mx/cursolanding?idBusqueda=2550853&sid=3&pfichas=27367&utm_source=elpais_mexico&utm_medium=cpl&utm_content=widget_mexico_home_centros_3&utm_campaign=genero_justicia_magno_americana
+ 165. https://cursoselpais.mx/
+ 166. https://cursoselpais.mx/
+ 167. https://cursoselpais.mx/
+ 168. https://idiomas.elpais.com/es-mx/saga-baldoria?rfextension=widgetmexico
+ 169. https://idiomas.elpais.com/es-mx/saga-baldoria?rfextension=email21diaswidgetmexico1
+ 170. https://idiomas.elpais.com/es-mx/saga-baldoria?rfextension=email21diaswidgetmexico1
+ 171. https://idiomas.elpais.com/es-mx/saga-baldoria?rfextension=email21diaswidgetmexico1
+ 172. https://idiomas.elpais.com/es-mx/saga-baldoria?rfextension=email21diaswidgetmexico2
+ 173. https://idiomas.elpais.com/es-mx/saga-baldoria?rfextension=email21diaswidgetmexico2
+ 174. https://idiomas.elpais.com/es-mx/saga-baldoria?rfextension=email21diaswidgetmexico2
+ 175. https://idiomas.elpais.com/es-mx/saga-baldoria?rfextension=widgetmexico
+ 176. https://idiomas.elpais.com/es-mx/saga-baldoria?rfextension=widgetmexico
+ 177. https://idiomas.elpais.com/es-mx/saga-baldoria?rfextension=widgetmexico
+ 178. https://idiomas.elpais.com/es-mx/saga-baldoria?rfextension=widgetmexico
+ 179. https://idiomas.elpais.com/es-mx/saga-baldoria?rfextension=widgetmexico
+ 180. https://idiomas.elpais.com/es-mx/saga-baldoria?rfextension=widgetmexico
+ 181. https://idiomas.elpais.com/es-mx/frantastique?rfextension=widgetmexico
+ 182. https://idiomas.elpais.com/es-mx/frantastique?rfextension=email21diaswidgetmexico1
+ 183. https://idiomas.elpais.com/es-mx/frantastique?rfextension=email21diaswidgetmexico1
+ 184. https://idiomas.elpais.com/es-mx/frantastique?rfextension=email21diaswidgetmexico1
+ 185. https://idiomas.elpais.com/es-mx/frantastique?rfextension=email21diaswidgetmexico2
+ 186. https://idiomas.elpais.com/es-mx/frantastique?rfextension=email21diaswidgetmexico2
+ 187. https://idiomas.elpais.com/es-mx/frantastique?rfextension=email21diaswidgetmexico2
+ 188. https://idiomas.elpais.com/es-mx/frantastique?rfextension=widgetmexico
+ 189. https://idiomas.elpais.com/es-mx/frantastique?rfextension=widgetmexico
+ 190. https://idiomas.elpais.com/es-mx/frantastique?rfextension=widgetmexico
+ 191. https://idiomas.elpais.com/es-mx/frantastique?rfextension=widgetmexico
+ 192. https://idiomas.elpais.com/es-mx/frantastique?rfextension=widgetmexico
+ 193. https://idiomas.elpais.com/es-mx/frantastique?rfextension=widgetmexico
+ 194. https://idiomas.elpais.com/es-mx/wunderbla?rfextension=widgetmexico
+ 195. https://idiomas.elpais.com/es-mx/wunderbla?rfextension=email21diaswidgetmexico1
+ 196. https://idiomas.elpais.com/es-mx/wunderbla?rfextension=email21diaswidgetmexico1
+ 197. https://idiomas.elpais.com/es-mx/wunderbla?rfextension=email21diaswidgetmexico1
+ 198. https://idiomas.elpais.com/es-mx/wunderbla?rfextension=email21diaswidgetmexico2
+ 199. https://idiomas.elpais.com/es-mx/wunderbla?rfextension=email21diaswidgetmexico2
+ 200. https://idiomas.elpais.com/es-mx/wunderbla?rfextension=email21diaswidgetmexico2
+ 201. https://idiomas.elpais.com/es-mx/wunderbla?rfextension=widgetmexico
+ 202. https://idiomas.elpais.com/es-mx/wunderbla?rfextension=widgetmexico
+ 203. https://idiomas.elpais.com/es-mx/wunderbla?rfextension=widgetmexico
+ 204. https://idiomas.elpais.com/es-mx/wunderbla?rfextension=widgetmexico
+ 205. https://idiomas.elpais.com/es-mx/wunderbla?rfextension=widgetmexico
+ 206. https://idiomas.elpais.com/es-mx/wunderbla?rfextension=widgetmexico
+ 207. https://elpais.com/juegos/#?int=juegos_logowidgetmexico
+ 208. https://elpais.com/juegos/crucigramas/experto/#?int=juegos_widgetmexico
+ 209. https://elpais.com/juegos/crucigramas/experto/#?int=juegos_widgetmexico
+ 210. https://elpais.com/juegos/crucigramas/experto/#?int=juegos_widgetmexico
+ 211. https://elpais.com/juegos/crucigramas/mambrino/#?int=juegos_widgetmexico
+ 212. https://elpais.com/juegos/crucigramas/mambrino/#?int=juegos_widgetmexico
+ 213. https://elpais.com/juegos/crucigramas/mambrino/#?int=juegos_widgetmexico
+ 214. https://elpais.com/juegos/sudokus/experto/#?int=juegos_widgetmexico
+ 215. https://elpais.com/juegos/sudokus/experto/#?int=juegos_widgetmexico
+ 216. https://elpais.com/juegos/sudokus/experto/#?int=juegos_widgetmexico
+ 217. https://elpais.com/juegos/sopas-de-letras/#?int=juegos_widgetmexico
+ 218. https://elpais.com/juegos/sopas-de-letras/#?int=juegos_widgetmexico
+ 219. https://elpais.com/juegos/sopas-de-letras/#?int=juegos_widgetmexico
+ 220. https://elpais.com/subscriptions/#/register?prm=popup_incognito_registro_ep.com&prod=REGINCOG&o=incognito
+ 221. https://elpais.com/subscriptions/#/sign-in?prm=popup_incognito_login_ep.com&prod=REGINCOG&o=incognito
+ 222. https://elpais.com/suscripciones/#/campaign?prm=suscrip_popup_incognito_ep.com&prod=SUSDIG&o=incognito
+ 223. https://elpais.com/suscripciones/#/campaign?prod=SUSDIGCRART&o=login_ep&backURL=https://english.elpais.com/technology/2023-11-15/artificial-intelligence-guzzles-billions-of-liters-of-water.html
+ 224. https://plus.elpais.com/perfil/actividad/?lang=en?rel=areausuario
+ 225. https://english.elpais.com/subscriptions/#/manage?rel=areausuario
+ 226. https://english.elpais.com/subscriptions/#/profile?rel=areausuario
+ 227. https://plus.elpais.com/perfil/newsletters/?lang=en?rel=areausuario
+ 228. https://plus.elpais.com/perfil/baja/?lang=en?rel=areausuario
+ 229. https://elpais.com/suscripciones/elpaismas.html?rel=areausuario
+ 230. https://english.elpais.com/subscriptions/#/sign-out?backURL=https://english.elpais.com/technology/2023-11-15/artificial-intelligence-guzzles-billions-of-liters-of-water.html
+ 231. https://elpais.com/
+ 232. https://elpais.com/america/
+ 233. https://elpais.com/mexico/
+ 234. https://elpais.com/america-colombia/
+ 235. https://elpais.com/chile/
+ 236. https://elpais.com/argentina/
+ 237. https://english.elpais.com/
+ 238. https://elpais.com/suscripciones/#/campaign?prod=SUSDIG&o=boton_cab&backURL=https://english.elpais.com/technology/2023-11-15/artificial-intelligence-guzzles-billions-of-liters-of-water.html
+ 239. https://english.elpais.com/international/
+ 240. https://english.elpais.com/usa/
+ 241. https://english.elpais.com/economy-and-business/
+ 242. https://english.elpais.com/science-tech/
+ 243. https://english.elpais.com/health/
+ 244. https://english.elpais.com/technology/
+ 245. https://english.elpais.com/climate/
+ 246. https://english.elpais.com/people/
+ 247. https://english.elpais.com/lifestyle/
+ 248. https://english.elpais.com/opinion/
+ 249. https://english.elpais.com/culture/
+ 250. https://english.elpais.com/sports/
+ 251. https://english.elpais.com/eps/
+ 252. https://english.elpais.com/latest-news/
+ 253. https://plus.elpais.com/newsletters/#?lang=en&prm=nwl_ham_ep
+
+   Hidden links:
+ 255. whatsapp://send/?text=Artificial%20intelligence%20guzzles%20billions%20of%20liters%20of%20water%20%20%0D%0A%0D%0Ahttps%3A%2F%2Fenglish.elpais.com%2Ftechnology%2F2023-11-15%2Fartificial-intelligence-guzzles-billions-of-liters-of-water.html%3Fssm=whatsapp_CC
+ 256. https://www.facebook.com/dialog/share?display=popup&app_id=94039431626&href=https%3A%2F%2Fenglish.elpais.com%2Ftechnology%2F2023-11-15%2Fartificial-intelligence-guzzles-billions-of-liters-of-water.html%3Fssm=FB_CC&quote=Artificial%20intelligence%20guzzles%20billions%20of%20liters%20of%20water%20%20
+ 257. https://twitter.com/intent/tweet?url=https%3A%2F%2Fenglish.elpais.com%2Ftechnology%2F2023-11-15%2Fartificial-intelligence-guzzles-billions-of-liters-of-water.html%3Fssm=TW_CC&text=Artificial%20intelligence%20guzzles%20billions%20of%20liters%20of%20water%20%20&via=elpaisinenglish&lang=en
+ 258. https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fenglish.elpais.com%2Ftechnology%2F2023-11-15%2Fartificial-intelligence-guzzles-billions-of-liters-of-water.html%3Fssm=LK_CC
+ 259. https://english.elpais.com/technology/2023-11-15/artificial-intelligence-guzzles-billions-of-liters-of-water.html#?prm=copy_link
+ 260. https://www.facebook.com/elpaisinenglish
+ 261. https://twitter.com/elpaisinenglish
+ 262. https://www.youtube.com/user/elpaiscom
+ 263. https://www.instagram.com/el_pais/
