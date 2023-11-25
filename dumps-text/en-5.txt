@@ -265,7 +265,7 @@ Top 10 Benefits of Artificial Intelligence (AI)
 
    By [247]10xDS Team
    [248]August 30, 2020
-   9.92k
+   9.98k
 
    Artificial Intelligence (AI) has been around for quite some time now.
    From quick suggestions on search engines and auto-focus in smartphones
@@ -450,7 +450,7 @@ SEO in 2024
      *
 
 [279]Visual Vigilance: Top 5 Computer Vision Trends in Navigating
-Cybersecurity’s Future
+Cybersecurity's Future
        [280]October 19, 2023
 
 Digital Transformation: Procure to Pay [eBook]
@@ -468,7 +468,7 @@ Digital Transformation: Procure to Pay [eBook]
    traditional consulting converges with digital technologies and
    innovative solutions. We are committed towards partnering with clients
    to help them realize their most important goals by harnessing a blend
-   of automation, analytics, AI and all that’s “New” in the emerging
+   of automation, analytics, AI and all that's "New" in the emerging
    exponential technologies.
 
    OUR SERVICES
@@ -533,7 +533,7 @@ Digital Transformation: Procure to Pay [eBook]
      * [306]Privacy Policy
      * [307]Sitemap
 
-   Copyright © 2021 Exponential Digital Solutions. Developed by
+   Copyright � 2021 Exponential Digital Solutions. Developed by
    [308]Imajine
 
    Manage Cookie Consent
@@ -573,8 +573,8 @@ References
 
    Visible links:
    1. https://10xds.com/wp-json/wp/v2/posts/14353
-   2. https://10xds.com/wp-json/oembed/1.0/embed?url=https://10xds.com/blog/benefits-of-artificial-intelligence-ai/
-   3. https://10xds.com/wp-json/oembed/1.0/embed?url=https://10xds.com/blog/benefits-of-artificial-intelligence-ai/&format=xml
+   2. https://10xds.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2F10xds.com%2Fblog%2Fbenefits-of-artificial-intelligence-ai%2F
+   3. https://10xds.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2F10xds.com%2Fblog%2Fbenefits-of-artificial-intelligence-ai%2F&format=xml
    4. https://10xds.com/about-us/
    5. https://10xds.com/careers/
    6. https://10xds.com/

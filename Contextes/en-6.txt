@@ -1,0 +1,189 @@
+   (BUTTON)
+
+Artificial Intelligence
+
+   sunil kumar
+--
+   Share
+
+Artificial Intelligence
+AI
+Artificial Intelligence
+
+   He said, `Every aspect of learning or any other feature of intelligence
+--
+   now reserved for humans, and improve themselves.'
+
+Artificial Intelligence
+Artificial intelligence
+   involves a program doing something that we would normally think would
+   rely on the intelligence of a human.
+
+Artificial intelligence
+   can revolutionize any professional sector. Let's see some of them
+
+--
+   The phrase "human error" was born because humans make mistakes from
+   time to time. Computers, however, do not make these mistakes if they
+Artificial intelligence
+   are taken from the previously gathered information applying a certain
+   set of algorithms. So errors are reduced and the chance of reaching
+   accuracy with a greater degree of precision is a possibility.
+
+AI
+   of human error.
+
+   2) Takes risks instead of Humans:
+
+Artificial intelligence
+AI
+   which in turn can do the risky things for us. Let it be going to mars,
+   defuse a bomb, explore the deepest parts of oceans, mining for coal and
+--
+
+   Example: Have you heard about the Chernobyl nuclear power plant
+AI
+   can help us to minimize the effect of radiation by controlling the fire
+   in early stages, as any human went close to the core was dead in a
+--
+   helicopters from a mere distance.
+
+AI
+   hazardous.
+
+--
+   themselves and get ready for a new day of work and they even have
+   weekly offed to stay intact with their work-life and personal life. But
+AI
+   don't even get bored, unlike humans.
+
+   Example: Educational Institutes and Helpline centers are getting many
+AI
+
+   4) Helping in Repetitive Jobs:
+--
+   In our day-to-day work, we will be performing many repetitive works
+   like sending a thanking mail, verifying certain documents for errors
+artificial intelligence
+   automate these mundane tasks and can even remove "boring" tasks for
+   humans and free them up to be increasingly creative.
+
+   Example: In banks, we often see many verifications of documents to get
+AI
+   Cognitive Automation the owner can speed up the process of verifying
+   the documents by which both the customers and the owner will be
+--
+
+   Example: We all know that organizations have a customer support team
+AI
+   the organizations can set up a Voice bot or Chatbot which can help
+   customers with all their queries. We can see many organizations already
+--
+   6) Faster Decisions:
+
+AI
+   decisions faster than a human and carry out actions quicker. While
+   taking a decision human will analyze many factors both emotionally and
+AI
+   delivers the results in a faster way.
+
+   Example: We all have played Chess games in Windows. It is nearly
+AI
+   game. It will take the best possible step in a very short time
+   according to the algorithms used behind it.
+--
+   8) New Inventions:
+
+AI
+   humans solve the majority of complex problems.
+
+   Example: Recently doctors can predict breast cancer in the woman at
+AI
+
+   As every bright side has a darker version in it. Artificial
+--
+   1) High Costs of Creation:
+
+AI
+   updated with time to meet the latest requirements. Machines need
+   repairing and maintenance which need plenty of costs. It' s creation
+--
+   2) Making Humans Lazy:
+
+AI
+   of the work. Humans tend to get addicted to these inventions which can
+   cause a problem to future generations.
+--
+   3) Unemployment:
+
+AI
+   with robots,human interference is becoming less which will cause a
+   major problem in the employment standards. Every organization is
+AI
+   which can do similar work with more efficiency.
+
+--
+   SUMMARY:
+
+Artificial Intelligence
+   Every new invention or breakthrough will have both, but we as humans
+   need to take care of that and use the positive sides of the invention
+Artificial intelligence
+   advantages. The key for humans will ensure the "rise of the robots"
+   doesn't get out of hand. Some people also say that Artificial
+   intelligence can destroy human civilization if it goes into the wrong
+AI
+   can destroy or enslave humanity.
+Artificial Intelligence
+   Machine Learning
+   Data Science
+--
+   [42]
+
+Artificial Intelligence
+
+How I Deployed a Machine Learning Model for the First Time
+--
+   52
+
+AI
+   Paul Rose
+   [48]
+--
+   Paul Rose
+
+AI
+
+And it's perfect for beginners
+--
+  40. https://medium.com/@sreyan806/history-of-deep-learning-c176e2d3cddf?source=read_next_recirc-----182a5ef6588c----1---------------------1f081334_4eb6_4f6e_94b4_a853b454b88e-------
+  41. https://medium.com/@luuisotorres?source=read_next_recirc-----182a5ef6588c----0---------------------1f081334_4eb6_4f6e_94b4_a853b454b88e-------
+ai
+ai
+ai
+  45. https://medium.com/@viratpatel75?source=read_next_recirc-----182a5ef6588c----1---------------------1f081334_4eb6_4f6e_94b4_a853b454b88e-------
+  46. https://medium.com/@viratpatel75/i-applied-to-230-data-science-jobs-during-last-2-months-and-this-is-what-ive-found-29ebdea4504?source=read_next_recirc-----182a5ef6588c----1---------------------1f081334_4eb6_4f6e_94b4_a853b454b88e-------
+  47. https://medium.com/@viratpatel75/i-applied-to-230-data-science-jobs-during-last-2-months-and-this-is-what-ive-found-29ebdea4504?responsesOpen=true&sortBy=REVERSE_CHRON&source=read_next_recirc-----182a5ef6588c----1---------------------1f081334_4eb6_4f6e_94b4_a853b454b88e-------
+  48. https://medium.com/@iampaulrose?source=read_next_recirc-----182a5ef6588c----2---------------------1f081334_4eb6_4f6e_94b4_a853b454b88e-------
+ai
+ai
+  51. https://entreprenal.com/?source=read_next_recirc-----182a5ef6588c----3---------------------1f081334_4eb6_4f6e_94b4_a853b454b88e-------
+  52. https://entreprenal.com/the-chatgpt-hype-is-over-now-watch-how-google-will-kill-chatgpt-426d5e3f7d05?source=read_next_recirc-----182a5ef6588c----3---------------------1f081334_4eb6_4f6e_94b4_a853b454b88e-------
+--
+ 115. https://medium.com/@AMGAS14/list/natural-language-processing-0a856388a93a?source=read_next_recirc-----182a5ef6588c--------------------------------
+ 116. https://medium.com/@m.wasalski/list/chatgpt-3742c7a4727d?source=read_next_recirc-----182a5ef6588c--------------------------------
+ai
+ 118. https://medium.com/@luuisotorres?source=read_next_recirc-----182a5ef6588c----0---------------------1f081334_4eb6_4f6e_94b4_a853b454b88e-------
+ai
+ 120. https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fai-in-plain-english%2Fb82b9ea831e0&operation=register&redirect=https%3A%2F%2Fai.plainenglish.io%2Fhow-i-deployed-a-machine-learning-model-for-the-first-time-b82b9ea831e0&user=Lu%C3%ADs+Fernando+Torres&userId=87c7c20f624d&source=-----b82b9ea831e0----0-----------------clap_footer----1f081334_4eb6_4f6e_94b4_a853b454b88e-------
+ 121. https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fb82b9ea831e0&operation=register&redirect=https%3A%2F%2Fai.plainenglish.io%2Fhow-i-deployed-a-machine-learning-model-for-the-first-time-b82b9ea831e0&source=-----182a5ef6588c----0-----------------bookmark_preview----1f081334_4eb6_4f6e_94b4_a853b454b88e-------
+--
+ 125. https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fp%2F29ebdea4504&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40viratpatel75%2Fi-applied-to-230-data-science-jobs-during-last-2-months-and-this-is-what-ive-found-29ebdea4504&user=Virat+Patel&userId=2d90e0a11d4&source=-----29ebdea4504----1-----------------clap_footer----1f081334_4eb6_4f6e_94b4_a853b454b88e-------
+ 126. https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F29ebdea4504&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40viratpatel75%2Fi-applied-to-230-data-science-jobs-during-last-2-months-and-this-is-what-ive-found-29ebdea4504&source=-----182a5ef6588c----1-----------------bookmark_preview----1f081334_4eb6_4f6e_94b4_a853b454b88e-------
+ai
+ 128. https://medium.com/@iampaulrose?source=read_next_recirc-----182a5ef6588c----2---------------------1f081334_4eb6_4f6e_94b4_a853b454b88e-------
+ai
+ai
+ai
+ 132. https://entreprenal.com/the-chatgpt-hype-is-over-now-watch-how-google-will-kill-chatgpt-426d5e3f7d05?source=read_next_recirc-----182a5ef6588c----3---------------------1f081334_4eb6_4f6e_94b4_a853b454b88e-------
+ 133. https://entreprenal.com/?source=read_next_recirc-----182a5ef6588c----3---------------------1f081334_4eb6_4f6e_94b4_a853b454b88e-------

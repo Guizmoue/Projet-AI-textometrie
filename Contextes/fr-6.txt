@@ -1,0 +1,132 @@
+    3. [23]Systèmes d'information & management
+    4. [24]Numéro 2023/1 (Volume 28)
+Intelligence artificielle
+
+   [25][SIM_231.jpg?fallback=true]
+   2023/1
+Intelligence artificielle
+       d'information : menace ou opportunité ?
+     * [26]Suivre cet auteur [27]François de Corbière, [28]Suivre cet
+--
+
+   [47]1 Ces derniers mois ont vu l'apparition et l'adoption massive au
+intelligence artificielle
+   générative. Lancé le 30 novembre 2022 par Open AI, ChatGPT (un agent
+intelligence artificielle
+   croissance fulgurante : dès le 5 décembre 2022,ce prototype avait
+   atteint un million d'utilisateurs ; deux mois après son lancement,
+--
+   (Dwivedi et al., 2023). Alors que la créativité, le jugement,
+   l'intuition, les émotions ont toujours distingué les êtres humains de
+IA
+   raisonner, d'apprendre, d'imaginer, rivalisant parfois avec l'humain
+   dans des domaines qui semblaient jusque-là hors d'atteinte (comme l'art
+--
+
+   [48]2 S'il est encore difficile de comprendre exactement quels seront
+IA
+   rupture, et aura des conséquences sur le monde du travail, les
+   organisations, la recherche, alors qu'elle s'intègre très rapidement
+--
+   dans le domaine de la recherche en management, nous nous sommes prêtés
+   à un exercice particulier : interroger directement ChatGPT sur le rôle
+IA
+
+Encadré 1 : Proposition de ChatGPT d'un éditorial sur le rôle de
+intelligence artificielle
+
+intelligence artificielle
+IA
+   plus importante dans de nombreux domaines, y compris le management. Les
+IA
+   vastes, tels que la capacité à traiter de grandes quantités de données
+   et à identifier des modèles qui seraient difficiles ou impossibles à
+--
+   décision stratégique et la conception des modèles d'affaires (Liang,
+   Wu, & Shih, 2018 ; Teece, 2018).
+IA
+   dans la recherche en management. Par exemple, Wu et Shaffer (2021)
+   soulignent que la qualité des résultats dépend fortement de la qualité
+   des données utilisées. De plus, les implications éthiques de
+IA
+   biais algorithmique doivent être soigneusement examinées (Mithas et
+   al., 2019).
+--
+   les problématiques soulevée sur le rôle de l'IA dans la recherche en
+   management. De plus, au-delà des problématiques plus générales de
+IA
+   champ disciplinaire de lui-même : comportements des consommateurs,
+   analyse concurrentielle, prise de décision ou encore modèle d'affaires.
+--
+   Je ne retrouve pas toutes les références proposées dans Google Scholar.
+   Comment les as-tu trouvées ?
+ai
+ai
+   préalables en matière de recherche sur l'IA et le management pour
+   identifier quelques-uns des principaux journaux scientifiques dans ce
+   domaine, tels que MIS Quarterly, Information Systems Research et JAIS.
+ai
+   sites web des journaux scientifiques pour trouver des articles
+   pertinents sur le rôle de l'IA dans la recherche en management.
+--
+   Journal of Information Management, et Wiley Online Library pour Journal
+   of the Association for Information Systems.
+ai
+   je suis reconnaissant de pouvoir clarifier ces références pour vous.
+   Pour Benbya et Belbaly il y a forcément une erreur, car sur le site de
+--
+   Pour trouver des articles dans des revues scientifiques, j'utilise
+   souvent des bases de données telles que Google Scholar, Web of Science
+ai
+ai
+   la source réelle de l'article. Je vais être plus vigilant à l'avenir
+   pour éviter de telles erreurs.
+--
+   Ces articles couvrent différents aspects de l'utilisation de l'IA dans
+   la recherche en management, notamment les implications pour l'avenir de
+IA
+IA
+   et les risques et récompenses de l'utilisation de l'IA en management.
+   Je ne trouve pas non plus l'article « An artificial intelligence
+--
+   Business Research, Journal of Strategic Information Systems, et autres.
+   Ces revues ont une bonne réputation dans le domaine de la recherche en
+IA
+
+   [58]11 Pour conclure, ChatGPT est un outil intéressant pour aborder un
+--
+
+     * [63]En ligneBenbya, H., Pachidi, S., & Jarvenpaa, S. L. (2021).
+Artificial intelligence
+       information systems research. Journal of Association for
+       Information Systems, 22(2), 281-303.
+     * Berente, N., Gu, B., Recker, J., & Santhanam, R. (2021). Managing
+artificial intelligence
+     * [64]En ligneCollins, C., Dennehy, D., Conboy, K., & Mikalef, P.
+Artificial intelligence
+       systematic literature review and research agenda. International
+       Journal of Information Management, 60, 102383.
+--
+       Jeyaraj, A., Kar, A. K., ... & Wright, R. (2023). "So what if
+       ChatGPT wrote it?" Multidisciplinary perspectives on opportunities,
+AI
+       research, practice and policy. International Journal of Information
+       Management, 71, 102642.
+--
+       Management & Data Science.
+     * [66]En ligneHaefner, N., Wincent, J., Parida, V., & Gassmann, O.
+Artificial intelligence
+       review, framework, and research agenda. Technological Forecasting
+       and Social Change, 162, 120392.
+--
+       capabilities. Long Range Planning, 51(1), 40-49.
+     * Vrontis D., Christofi M., Pereira V., Tarba S., Makrides A., &
+Artificial intelligence
+       technologies and human resource management: a systematic review.
+       The International Journal of Human Resource Management 33(6):
+--
+   2023, pp. 3-9.
+   APA FR [78]Copier de Corbière, F., Elie-Dit-Cosaque, C. &
+Intelligence artificielle
+   recherche en management des systèmes d'information : menace ou
+   opportunité ?. Systèmes d'information & management, 28, 3-9.

@@ -1,0 +1,204 @@
+     * [97]Digital identity & KYC
+
+Artificial intelligence
+     * [98]Twitter
+     * [99]Facebook
+--
+   2 min
+
+Artificial intelligence
+
+artificial intelligence
+AI
+   In the space of a few days, five documents were published by
+AI
+   humanity. Just a coincidence? Certainly not.
+   [102]Cyber risks - [103]Louis Nauges - November 16, 2023
+
+   All these documents refer to the risks linked to Artificial General
+AI
+AI
+   Artificial Narrow Intelligence (ANI), which is level 1. This artificial
+   intelligence can do a single activity as well as a human, perhaps even
+--
+   the one by [104]this group of 30 experts.
+
+AI
+   could culminate in a large-scale loss of life and the biosphere, and
+   the marginalization or even extinction of humanity". It "coolly"
+--
+   being given between 45 and 365 days to be completed. It is far from a
+   catalogue of good intentions: it demonstrates the United States' clear
+AI
+
+Where is Europe in this concert of recommendations?
+
+AI
+   2023, it published [108]a document, EU Legislation in Progress,
+Artificial Intelligence
+   follow the Digital Service Act and the Digital Market Act. The [109]AIA
+   must now be submitted to the Member States, who can make changes before
+--
+   collaboration between humankind and AGI and ASI? If we are to believe
+   Rich Sutton, professor at the University of Alberta in Canada and a
+artificial intelligence
+AI
+   from one of his [110]recent lectures shows.
+
+--
+   directors of all organizations, public and private.
+
+AI
+AI
+   The common answer? "I don't know." But that is no reason not to think
+   about it, all together, and very quickly.
+--
+
+   Cyber risks
+Artificial intelligence
+   16 November 2023
+
+Artificial intelligence
+
+   By [116]Louis Nauges
+artificial intelligence
+AI
+   In the space of a few days, five documents were published by
+AI
+   [117]Google's Play Store promotes secure apps
+   10 November 2023
+--
+   ICJ provides no details on cyberattack and perpetrator but has been in
+   Russia's cross-hairs for a long time.
+AI
+   26 September 2023
+
+AI
+
+   EU Chief wants to bring together scientists, businesses and experts to
+AI
+   Cybercrime
+   [156]Operation Triangulation reveals vulnerabilities at Apple
+--
+   2020.
+   Operational security
+AI
+   02 November 2023
+
+AI
+
+   Scope remains limited as Congress unable to pass bipartisan bill on
+   issue.
+AI
+   19 October 2023
+
+AI
+
+   By [173]Fabrice Deblock
+   With cyberattacks on corporate supply chains on the rise, how can we
+   stop suppliers from being the weakest link in an organization's
+AI
+   [174]HarfangLab raises 25 million euros
+   17 October 2023
+--
+   Yves Bernaert leaves Accenture management to head Eviden, tech giant's
+   cloud, cybersecurity, supercomputer, and quantum branch.
+AI
+   27 September 2023
+
+AI
+
+   Cisco acquisition of data analysis solutions provider for 28 billion
+AI
+   boom.
+   [180]Thirty-eight TB of internal Microsoft data left unprotected for
+--
+   Publicly owned French company Archipels develops digital identity
+   platform based on blockchain
+AI
+   16 May 2023
+
+AI
+
+   Named "ID Verification for EU Qualified", compliant with European Union
+--
+   Definitive list of "gatekeepers" published on September 6, 2023.
+   Digital transition
+AI
+   23 November 2023
+
+AI
+
+   By [222]Pascal Coillet-Matillon
+   On August 3, 2023, The New York Times changed the legal notice on its
+AI
+   its data for training. It's a sign that generative ...
+AI
+   22 November 2023
+
+AI
+
+   By [225]Marion Lefebvre
+artificial intelligence
+   how we work and create. However, the growing use of this technology has
+   quickly raised two considerable legal issues: how to ...
+--
+
+   Yet heads of privacy in corporations still deem resources insufficient.
+AI
+   10 November 2023
+
+AI
+
+   ChatGPT publisher forms team of experts to assess most serious threats
+AI
+
+   InCyber
+--
+ 104. https://arxiv.org/pdf/2310.17688.pdf
+ 105. https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/30/fact-sheet-president-biden-issues-executive-order-on-safe-secure-and-trustworthy-artificial-intelligence/
+ai
+ai
+ai
+ 108. https://epthinktank.eu/eu-legislation-in-progress/
+ 109. https://www.europarl.europa.eu/RegData/etudes/BRIE/2021/698792/EPRS_BRI(2021)698792_EN.pdf
+--
+ 152. https://incyber.org/en/cyberattack-against-international-court-justice-the-hague/
+ 153. https://incyber.org/en/cyberattack-against-international-court-justice-the-hague/
+ai
+ai
+ 156. https://incyber.org/en/operation-triangulation-reveals-vulnerabilities-apple/
+ 157. https://incyber.org/en/operation-triangulation-reveals-vulnerabilities-apple/
+--
+ 167. https://incyber.org/en/anssi-warns-about-fin12-gang/
+ 168. https://incyber.org/en/anssi-warns-about-fin12-gang/
+ai
+ai
+ai
+ai
+ 173. https://incyber.org/en/contributeur/FDeblock
+ 174. https://incyber.org/en/harfanglab-raises-25-million-euros/
+--
+ 176. https://incyber.org/en/yves-bernaert-new-ceo-atos-group/
+ 177. https://incyber.org/en/yves-bernaert-new-ceo-atos-group/
+ai
+ai
+ 180. https://incyber.org/en/thirty-eight-tb-internal-microsoft-data-left-unprotected-three-years/
+ 181. https://incyber.org/en/thirty-eight-tb-internal-microsoft-data-left-unprotected-three-years/
+--
+ 202. https://incyber.org/en/new-fundraising-round-archipels-welcomes-shareholder-in-group/
+ 203. https://incyber.org/en/new-fundraising-round-archipels-welcomes-shareholder-in-group/
+ai
+ai
+ 206. https://incyber.org/en/tiktok-application-under-surveillance/
+ 207. https://incyber.org/en/tiktok-application-under-surveillance/
+--
+ 218. https://incyber.org/en/digital-market-act-update/
+ 219. https://incyber.org/en/digital-market-act-update/
+ai
+ai
+ 222. https://incyber.org/en/contributeur/PCoilletMatillon
+ai
+ai
+ 225. https://incyber.org/en/contributeur/MLefebvre
+ 226. https://incyber.org/en/ex-machina-film-that-explores-intimate-relationships-between-humans-machines-much-more/

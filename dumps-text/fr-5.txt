@@ -1,284 +1,283 @@
-   [1]CAIRN.INFO : MatiÃ¨res Ã  rÃ©flexion [2]CAIRN.INFO : MatiÃ¨res Ã 
-   rÃ©flexion
+   [1]CAIRN.INFO : Matières à réflexion [2]CAIRN.INFO : Matières à
+   réflexion
      * [3]search
        ____________________ [4]search
-          + [5]Recherche avancÃ©e
-          + [6]help_outline Aide Ã  la recherche
+          + [5]Recherche avancée
+          + [6]help_outline Aide à la recherche
      * [7]person_outline Connexion
        Compte personnel Cairn.info
        ____________________
        ____________________
-       [X] Rester connectÃ©
-       [8]Mot de passe oubliÃ© ?
+       [X] Rester connecté
+       [8]Mot de passe oublié ?
        Se connecter
-       Pas encore enregistrÃ© ?
-       [9]CrÃ©er un compte
-       AccÃ¨s institution
-       Vous accÃ©dez Ã  Cairn.info via
-       UniversitÃ© de Nanterre - Paris 10
-       [10]Voir les publications disponibles
+       Pas encore enregistré ?
+       [9]Créer un compte
+       Accès institution
+       Vous n'êtes actuellement pas connecté(e) en institution.
+       [10]Authentifiez-vous
      * [11]language
        You might also want to visit our [12]Cairn International Edition.
        [13]SWITCH TO ENGLISH
-       Tal vez desee visitar tambiÃ©n nuestros contenidos en espaÃ±ol en
+       Tal vez desee visitar también nuestros contenidos en español en
        [14]Cairn Mundo.
-       [15]CAMBIAR A ESPAÃ‘OL
+       [15]CAMBIAR A ESPAÑOL
      * Toggle navigation menu
 
      * [16]Revues
      * [17]Ouvrages
-     * [18]Que sais-je ? / RepÃ¨res
+     * [18]Que sais-je ? / Repères
      * [19]Magazines
      * [20]Mon cairn.info
 
-   CAIRN.INFO : MatiÃ¨res Ã  rÃ©flexion
+   CAIRN.INFO : Matières à réflexion
 
     1. [21]Accueil
     2. [22]Revues
     3. [23]Gestion
-    4. [24]NumÃ©ro 2017/1 (Vol. 42)
+    4. [24]Numéro 2017/1 (Vol. 42)
     5. Intelligence artificielle : une...
 
    [25][RIGES_421.jpg?fallback=true]
    2017/1
-     * Intelligence artificielle : une mine dâ€™or pour les entreprises
+     * Intelligence artificielle : une mine d'or pour les entreprises
      * [26]Suivre cet auteur [27]Laurent Charlin
-     * Dans [28]Gestion [29]2017/1 (Vol. 42), pages 76 Ã  79
+     * Dans [28]Gestion [29]2017/1 (Vol. 42), pages 76 à 79
 
-   [30]format_quote Citer ou exporter [31]Ajouter Ã  une liste [32]Suivre
+   [30]format_quote Citer ou exporter [31]Ajouter à une liste [32]Suivre
    cette revue
-   [33]PrÃ©cÃ©dent [34]Suivant
+   [33]Précédent [34]Suivant
 
      * [35]Article
-     * [36]RÃ©sumÃ©
+     * [36]Résumé
      * [37]Plan
      * [38]Auteur
-     * [39]CitÃ© par
+     * [39]Cité par
      * [40]Sur un sujet proche
-     * [41]file_downloadTÃ©lÃ©charger
+     * [41]file_downloadTélécharger
      * [42]Article
           + [43]Article
-          + [44]RÃ©sumÃ©
+          + [44]Résumé
           + [45]Plan
           + [46]Auteur
-          + [47]CitÃ© par
+          + [47]Cité par
           + [48]Sur un sujet proche
-          + [49]file_downloadTÃ©lÃ©charger
+          + [49]file_downloadTélécharger
 
 Article
 
    figure im1
    Certaines personnes estiment que les voitures sans conducteur seront au
-   point dâ€™ici deux ans.
-   Ci-dessus : une vision imaginÃ©e par Volvo en 2015.
+   point d'ici deux ans.
+   Ci-dessus : une vision imaginée par Volvo en 2015.
    Photo : Volvo
 
-   [50]1Depuis le dÃ©but de 2016, les progrÃ¨s de lâ€™intelligence
-   artificielle (IA) ont Ã©tÃ© dÃ©crits et analysÃ©s dans des publications
-   aussi variÃ©es que The Economist, Rolling Stone, Time et Fortune sous
-   des titres accrocheurs comme Â« La rÃ©volution de lâ€™intelligence
-   artificielle Â» et Â« IA : la marche des machines Â». Au-delÃ  des
-   scÃ©narios de science-fiction oÃ¹ les machines intelligentes se
-   retournent contre leurs crÃ©ateurs, lâ€™intelligence artificielle
-   progresse Ã  grands pas et permet de concevoir et de rÃ©aliser des
-   systÃ¨mes de plus en plus impressionnants. Certaines personnes,
+   [50]1Depuis le début de 2016, les progrès de l'intelligence
+   artificielle (IA) ont été décrits et analysés dans des publications
+   aussi variées que The Economist, Rolling Stone, Time et Fortune sous
+   des titres accrocheurs comme « La révolution de l'intelligence
+   artificielle » et « IA : la marche des machines ». Au-delà des
+   scénarios de science-fiction où les machines intelligentes se
+   retournent contre leurs créateurs, l'intelligence artificielle
+   progresse à grands pas et permet de concevoir et de réaliser des
+   systèmes de plus en plus impressionnants. Certaines personnes,
    notamment Elon Musk, fondateur de Tesla et de SpaceX, estiment par
-   exemple que les voitures sans conducteur seront au point dâ€™ici deux
+   exemple que les voitures sans conducteur seront au point d'ici deux
    ans.
 
-   [51]2Avant tout, lâ€™intelligence artificielle est une discipline
-   scientifique qui combine lâ€™informatique, les mathÃ©matiques,
-   lâ€™ingÃ©nierie et la statistique. Câ€™est un domaine de recherche auquel se
-   consacre une communautÃ© universitaire depuis plus de 50 ans. Cette
-   science au goÃ»t du jour a vu ses performances croÃ®tre de maniÃ¨re
-   prodigieuse en grande partie grÃ¢ce au big data et Ã  la puissance de
+   [51]2Avant tout, l'intelligence artificielle est une discipline
+   scientifique qui combine l'informatique, les mathématiques,
+   l'ingénierie et la statistique. C'est un domaine de recherche auquel se
+   consacre une communauté universitaire depuis plus de 50 ans. Cette
+   science au goût du jour a vu ses performances croître de manière
+   prodigieuse en grande partie grâce au big data et à la puissance de
    calcul des ordinateurs modernes.
 
-Des techniques dâ€™apprentissage
+Des techniques d'apprentissage
 
-   [52]3Depuis une dizaine dâ€™annÃ©es, lâ€™intelligence artificielle progresse
-   Ã  pas de gÃ©ant en grande partie grÃ¢ce Ã  lâ€™apprentissage automatique
-   (machine learning) et plus particuliÃ¨rement aux techniques
-   dâ€™apprentissage profond (deep learning).
+   [52]3Depuis une dizaine d'années, l'intelligence artificielle progresse
+   à pas de géant en grande partie grâce à l'apprentissage automatique
+   (machine learning) et plus particulièrement aux techniques
+   d'apprentissage profond (deep learning).
 
-   [53]4Les algorithmes dâ€™apprentissage automatique Â« apprennent Â» en
-   extrayant des connaissances opÃ©rationnelles Ã  partir de donnÃ©es (câ€™est
+   [53]4Les algorithmes d'apprentissage automatique « apprennent » en
+   extrayant des connaissances opérationnelles à partir de données (c'est
    donc un apprentissage inductif). Par exemple, de tels algorithmes
-   peuvent extraire les prÃ©fÃ©rences de clients dâ€™une entreprise Ã  partir
-   de leurs transactions antÃ©rieures. On utilise ensuite ces algorithmes
-   pour gÃ©nÃ©raliser les rÃ©sultats Ã  de nouvelles situations similaires
-   (soit, dans lâ€™exemple prÃ©cÃ©dent, pour prÃ©dire les prÃ©fÃ©rences futures
-   des mÃªmes clients). Par rapport Ã  la statistique classique, qui
-   sâ€™intÃ©resse dâ€™abord Ã  la comprÃ©hension des donnÃ©es et notamment Ã  leurs
-   relations causales â€“ câ€™est-Ã -dire Ã  dÃ©montrer ce qui cause quoi â€“,
-   lâ€™apprentissage automatique se concentre sur la qualitÃ© des
-   prÃ©dictions, au dÃ©triment Ã©ventuel de lâ€™interprÃ©tabilitÃ© des paramÃ¨tres
-   estimÃ©s.
+   peuvent extraire les préférences de clients d'une entreprise à partir
+   de leurs transactions antérieures. On utilise ensuite ces algorithmes
+   pour généraliser les résultats à de nouvelles situations similaires
+   (soit, dans l'exemple précédent, pour prédire les préférences futures
+   des mêmes clients). Par rapport à la statistique classique, qui
+   s'intéresse d'abord à la compréhension des données et notamment à leurs
+   relations causales - c'est-à-dire à démontrer ce qui cause quoi -,
+   l'apprentissage automatique se concentre sur la qualité des
+   prédictions, au détriment éventuel de l'interprétabilité des paramètres
+   estimés.
 
-   [54]5Lâ€™apprentissage profond est inspirÃ© par la structure du cerveau
-   humain et, comme celui-ci, utilise des rÃ©seaux de neurones. Les
-   neurones sont organisÃ©s en plusieurs couches qui utilisent toute
-   lâ€™information de la couche prÃ©cÃ©dente, dâ€™oÃ¹ la notion de profondeur.
-   Ces rÃ©seaux ne sont Ã©videmment quâ€™un modÃ¨le trÃ¨s simplifiÃ© de notre
-   cerveau, mais ils ont la particularitÃ© de pouvoir utiliser leurs
-   couches pour reprÃ©senter les connaissances acquises Ã  diffÃ©rents degrÃ©s
-   dâ€™abstraction. Par exemple, Ã  partir de donnÃ©es transactionnelles, un
-   rÃ©seau de neurones peut reprÃ©senter, avec ses premiÃ¨res couches, les
-   caractÃ©ristiques des articles que les clients aiment se procurer. Ces
-   caractÃ©ristiques sont combinÃ©es par les couches suivantes pour
-   reprÃ©senter des groupes dâ€™articles souvent achetÃ©s ensemble. Les
-   couches finales combinent ces groupes pour reprÃ©senter le profil
-   dâ€™acheteur de chaque client.
+   [54]5L'apprentissage profond est inspiré par la structure du cerveau
+   humain et, comme celui-ci, utilise des réseaux de neurones. Les
+   neurones sont organisés en plusieurs couches qui utilisent toute
+   l'information de la couche précédente, d'où la notion de profondeur.
+   Ces réseaux ne sont évidemment qu'un modèle très simplifié de notre
+   cerveau, mais ils ont la particularité de pouvoir utiliser leurs
+   couches pour représenter les connaissances acquises à différents degrés
+   d'abstraction. Par exemple, à partir de données transactionnelles, un
+   réseau de neurones peut représenter, avec ses premières couches, les
+   caractéristiques des articles que les clients aiment se procurer. Ces
+   caractéristiques sont combinées par les couches suivantes pour
+   représenter des groupes d'articles souvent achetés ensemble. Les
+   couches finales combinent ces groupes pour représenter le profil
+   d'acheteur de chaque client.
 
-   [55]6Les progrÃ¨s en apprentissage profond ont permis dâ€™amÃ©liorer la
-   performance des algorithmes dâ€™apprentissage dans des tÃ¢ches de
-   perception jugÃ©es particuliÃ¨rement difficiles pour les ordinateurs. Par
-   Â« perception Â», on entend ce qui est reliÃ© aux cinq sens humains. Le
-   champ de la vision par ordinateur consiste Ã  comprendre le monde qui
-   nous entoure Ã  lâ€™aide dâ€™images et de vidÃ©os, un peu comme lâ€™appareil
-   visuel humain le permet. Les algorithmes dâ€™apprentissage profond
-   surpassent maintenant les Ãªtres humains dans certaines tÃ¢ches de
-   reconnaissance dâ€™objets. La reconnaissance de la parole constitue aussi
-   un terrain fertile : les meilleurs outils de reconnaissance rÃ©cents
-   (par exemple ceux des tÃ©lÃ©phones intelligents) utilisent
-   lâ€™apprentissage profond.
+   [55]6Les progrès en apprentissage profond ont permis d'améliorer la
+   performance des algorithmes d'apprentissage dans des tâches de
+   perception jugées particulièrement difficiles pour les ordinateurs. Par
+   « perception », on entend ce qui est relié aux cinq sens humains. Le
+   champ de la vision par ordinateur consiste à comprendre le monde qui
+   nous entoure à l'aide d'images et de vidéos, un peu comme l'appareil
+   visuel humain le permet. Les algorithmes d'apprentissage profond
+   surpassent maintenant les êtres humains dans certaines tâches de
+   reconnaissance d'objets. La reconnaissance de la parole constitue aussi
+   un terrain fertile : les meilleurs outils de reconnaissance récents
+   (par exemple ceux des téléphones intelligents) utilisent
+   l'apprentissage profond.
    figure im2
    figure im3
    La reconnaissance de la parole constitue un terrain fertile : les
-   meilleurs outils de reconnaissance rÃ©cents (par exemple ceux des
-   tÃ©lÃ©phones intelligents) utilisent lâ€™apprentissage profond.
-   Photos : iStock â€“ Panasonic â€“ Nest
+   meilleurs outils de reconnaissance récents (par exemple ceux des
+   téléphones intelligents) utilisent l'apprentissage profond.
+   Photos : iStock - Panasonic - Nest
    figure im4
-   La sociÃ©tÃ© Nest a conÃ§u un thermostat intelligent qui sâ€™autoprogramme
-   en fonction des habitudes de vie observÃ©es.
-   Photo : iStock â€“ Panasonic â€“ Nest
+   La société Nest a conçu un thermostat intelligent qui s'autoprogramme
+   en fonction des habitudes de vie observées.
+   Photo : iStock - Panasonic - Nest
    figure im5
-   Lâ€™utilisation expÃ©rimentale des robots de livraison autonomes Hospi de
-   Panasonic a dÃ©butÃ© en fÃ©vrier 2015. Ã‰quipÃ©s de capteurs, ces robots
-   sont programmÃ©s avec les donnÃ©es cartographiques de lâ€™hÃ´pital afin
-   dâ€™Ã©viter les obstacles tels que les patients en fauteuil roulant et
-   dâ€™effectuer des livraisons dans le cadre dâ€™une supervision minimale.
-   Photo : iStock â€“ Panasonic â€“ Nest
+   L'utilisation expérimentale des robots de livraison autonomes Hospi de
+   Panasonic a débuté en février 2015. Équipés de capteurs, ces robots
+   sont programmés avec les données cartographiques de l'hôpital afin
+   d'éviter les obstacles tels que les patients en fauteuil roulant et
+   d'effectuer des livraisons dans le cadre d'une supervision minimale.
+   Photo : iStock - Panasonic - Nest
 
 La contribution du big data
 
-   [56]7Par dÃ©finition, les algorithmes dâ€™apprentissage automatique
-   dÃ©pendent en grande partie de la qualitÃ© et de la quantitÃ© de donnÃ©es
-   disponibles pour chaque tÃ¢che Ã  rÃ©aliser (par exemple le nombre de
-   transactions par client et leur granularitÃ©, ou la taille dâ€™une base de
-   donnÃ©es dâ€™images). Plus les connaissances requises pour effectuer une
-   tÃ¢che sont vastes, plus la quantitÃ© de donnÃ©es requise lâ€™est aussi. En
-   contrepartie, plus les donnÃ©es sont abondantes, plus il est possible
-   dâ€™extraire des connaissances complexes menant Ã  des algorithmes plus
-   prÃ©cis et plus performants.
+   [56]7Par définition, les algorithmes d'apprentissage automatique
+   dépendent en grande partie de la qualité et de la quantité de données
+   disponibles pour chaque tâche à réaliser (par exemple le nombre de
+   transactions par client et leur granularité, ou la taille d'une base de
+   données d'images). Plus les connaissances requises pour effectuer une
+   tâche sont vastes, plus la quantité de données requise l'est aussi. En
+   contrepartie, plus les données sont abondantes, plus il est possible
+   d'extraire des connaissances complexes menant à des algorithmes plus
+   précis et plus performants.
 
-   [57]8Parmi toutes les techniques dâ€™apprentissage machine,
-   lâ€™apprentissage profond est pour lâ€™instant celle qui permet le mieux
-   dâ€™extraire des connaissances complexes Ã  partir de donnÃ©es
-   volumineuses. Le big data ainsi que la croissance des capacitÃ©s de
-   calcul sont donc essentiels aux rÃ©centes percÃ©es en intelligence
+   [57]8Parmi toutes les techniques d'apprentissage machine,
+   l'apprentissage profond est pour l'instant celle qui permet le mieux
+   d'extraire des connaissances complexes à partir de données
+   volumineuses. Le big data ainsi que la croissance des capacités de
+   calcul sont donc essentiels aux récentes percées en intelligence
    artificielle.
 
-Les rÃ©percussions de lâ€™IA en entreprise
+Les répercussions de l'IA en entreprise
 
    [58]9Nombre de grandes entreprises dans le secteur technologique
-   profitent dÃ©jÃ  des avancÃ©es rÃ©centes en IA. Le PDG de Google, Sundar
-   Pichai, promet dâ€™ailleurs dâ€™utiliser lâ€™apprentissage automatique de
-   maniÃ¨re systÃ©matique dans toute sa gamme de produits. GrÃ¢ce Ã  des
-   acquisitions dâ€™entreprises en dÃ©marrage et au recrutement ciblÃ©, ces
+   profitent déjà des avancées récentes en IA. Le PDG de Google, Sundar
+   Pichai, promet d'ailleurs d'utiliser l'apprentissage automatique de
+   manière systématique dans toute sa gamme de produits. Grâce à des
+   acquisitions d'entreprises en démarrage et au recrutement ciblé, ces
    grandes entreprises, notamment Google, Facebook, Amazon, Microsoft,
-   Twitter et Nuance, dÃ©veloppent leur potentiel de recherche et de
-   conception dâ€™algorithmes et de systÃ¨mes dâ€™intelligence artificielle.
-   Toute personne qui interagit avec les technologies de ces sociÃ©tÃ©s
-   bÃ©nÃ©ficie donc dÃ©jÃ  de certains des progrÃ¨s attribuables Ã 
-   lâ€™intelligence artificielle. De plus, le transfert dâ€™innovation en
-   production industrielle peut Ãªtre rapide : il a suffi de deux ans pour
-   que les plus rÃ©cents tÃ©lÃ©phones soient dotÃ©s des algorithmes de
+   Twitter et Nuance, développent leur potentiel de recherche et de
+   conception d'algorithmes et de systèmes d'intelligence artificielle.
+   Toute personne qui interagit avec les technologies de ces sociétés
+   bénéficie donc déjà de certains des progrès attribuables à
+   l'intelligence artificielle. De plus, le transfert d'innovation en
+   production industrielle peut être rapide : il a suffi de deux ans pour
+   que les plus récents téléphones soient dotés des algorithmes de
    reconnaissance de la parole.
 
-   [59]10Les algorithmes dâ€™intelligence artificielle ne sont pas rÃ©servÃ©s
+   [59]10Les algorithmes d'intelligence artificielle ne sont pas réservés
    aux grandes entreprises. Un grand nombre de petites entreprises
-   proposent un produit phare basÃ© sur lâ€™intelligence artificielle. Ce
-   nâ€™Ã©tait pas le cas il y a encore quelques annÃ©es, alors que lâ€™IA Ã©tait
-   souvent un outil secondaire utilisÃ© pour amÃ©liorer un produit existant.
+   proposent un produit phare basé sur l'intelligence artificielle. Ce
+   n'était pas le cas il y a encore quelques années, alors que l'IA était
+   souvent un outil secondaire utilisé pour améliorer un produit existant.
 
-   [60]11En gÃ©nÃ©ral, la collecte et le stockage de donnÃ©es sont des tÃ¢ches
-   Ã  la portÃ©e dâ€™entreprises de toute taille Å“uvrant dans des domaines
-   variÃ©s. Un certain nombre dâ€™avancÃ©es rÃ©centes en intelligence
-   artificielle offrent la possibilitÃ© dâ€™appliquer des algorithmes
-   existants Ã  ces donnÃ©es volumineuses pour en extraire des informations
-   pertinentes. Il est aussi possible que des mÃ©thodes rÃ©centes amÃ©liorent
-   la performance dâ€™algorithmes prÃ©dictifs dâ€™une gÃ©nÃ©ration prÃ©cÃ©dente.
+   [60]11En général, la collecte et le stockage de données sont des tâches
+   à la portée d'entreprises de toute taille oeuvrant dans des domaines
+   variés. Un certain nombre d'avancées récentes en intelligence
+   artificielle offrent la possibilité d'appliquer des algorithmes
+   existants à ces données volumineuses pour en extraire des informations
+   pertinentes. Il est aussi possible que des méthodes récentes améliorent
+   la performance d'algorithmes prédictifs d'une génération précédente.
 
-Lâ€™automatisation de la prise de dÃ©cision
+L'automatisation de la prise de décision
 
-   [61]12Les techniques dâ€™intelligence artificielle nous permettent
-   dâ€™automatiser lâ€™extraction de connaissances Ã  des fins prÃ©dictives.
-   Dans un deuxiÃ¨me temps, ces prÃ©dictions peuvent Ãªtre utilisÃ©es pour
-   prendre de meilleures dÃ©cisions. Par exemple, en fonction des
-   prÃ©fÃ©rences prÃ©dites de clients, on peut dÃ©terminer la taille des
-   commandes pour chaque article disponible et lâ€™offre personnalisÃ©e
-   destinÃ©e Ã  chaque client. Il existe aussi des algorithmes qui
-   automatisent les prÃ©dictions et les dÃ©cisions. Les voitures sans
-   conducteur sont un bon exemple de ce genre de systÃ¨me. Ce type
-   dâ€™automatisation est de plus en plus Ã©tudiÃ© dans le monde
+   [61]12Les techniques d'intelligence artificielle nous permettent
+   d'automatiser l'extraction de connaissances à des fins prédictives.
+   Dans un deuxième temps, ces prédictions peuvent être utilisées pour
+   prendre de meilleures décisions. Par exemple, en fonction des
+   préférences prédites de clients, on peut déterminer la taille des
+   commandes pour chaque article disponible et l'offre personnalisée
+   destinée à chaque client. Il existe aussi des algorithmes qui
+   automatisent les prédictions et les décisions. Les voitures sans
+   conducteur sont un bon exemple de ce genre de système. Ce type
+   d'automatisation est de plus en plus étudié dans le monde
    universitaire.
 
-   [62]13Bref, si le passÃ© est garant de lâ€™avenir, de multiples
+   [62]13Bref, si le passé est garant de l'avenir, de multiples
    applications industrielles devraient voir le jour sous peu.
 
-MontrÃ©al, plaque tournante de lâ€™IA
+Montréal, plaque tournante de l'IA
 
-   Campus MontrÃ©al, qui regroupe lâ€™UniversitÃ© de MontrÃ©al, Polytechnique
-   et HEC MontrÃ©al, ainsi que lâ€™UniversitÃ© McGill sont au cÅ“ur des
-   dÃ©couvertes actuelles en intelligence artificielle. Le professeur
-   Yoshua Bengio (voir article p. 68), du DÃ©partement dâ€™informatique et de
-   recherche opÃ©rationnelle de lâ€™UniversitÃ© de MontrÃ©al, est un pionnier
+   Campus Montréal, qui regroupe l'Université de Montréal, Polytechnique
+   et HEC Montréal, ainsi que l'Université McGill sont au coeur des
+   découvertes actuelles en intelligence artificielle. Le professeur
+   Yoshua Bengio (voir article p. 68), du Département d'informatique et de
+   recherche opérationnelle de l'Université de Montréal, est un pionnier
    dans ce domaine. En effet, il est un des trois chercheurs dont les
-   travaux ont constituÃ© lâ€™Ã©tincelle crÃ©atrice qui a menÃ© Ã  lâ€™engouement
-   rÃ©cent pour lâ€™intelligence artificielle (les deux autres Ã©tant Yann
-   LeCun, professeur Ã  lâ€™universitÃ© de New York et chercheur chez
-   Facebook, et Geoffrey Hinton, professeur Ã  lâ€™universitÃ© de Toronto et
-   chercheur chez Google). Le gouvernement du Canada a dâ€™ailleurs reconnu
-   le rÃ´le primordial de MontrÃ©al dans ce domaine en accordant une
-   subvention de prÃ¨s de 100 millions de dollars Ã  Campus MontrÃ©al. Cette
-   subvention, qui a Ã©tÃ© accompagnÃ©e dâ€™une somme Ã©quivalente provenant de
-   partenaires industriels, est gÃ©rÃ©e par lâ€™Institut de valorisation des
-   donnÃ©es (IVADO) de Campus MontrÃ©al, qui doit notamment contribuer Ã  la
+   travaux ont constitué l'étincelle créatrice qui a mené à l'engouement
+   récent pour l'intelligence artificielle (les deux autres étant Yann
+   LeCun, professeur à l'université de New York et chercheur chez
+   Facebook, et Geoffrey Hinton, professeur à l'université de Toronto et
+   chercheur chez Google). Le gouvernement du Canada a d'ailleurs reconnu
+   le rôle primordial de Montréal dans ce domaine en accordant une
+   subvention de près de 100 millions de dollars à Campus Montréal. Cette
+   subvention, qui a été accompagnée d'une somme équivalente provenant de
+   partenaires industriels, est gérée par l'Institut de valorisation des
+   données (IVADO) de Campus Montréal, qui doit notamment contribuer à la
    synergie entre les secteurs universitaire et industriel. Ces recherches
-   font aussi leur chemin vers la conception dâ€™applications industrielles.
-   Un Ã©cosystÃ¨me industriel montrÃ©alais en IA commence dâ€™ailleurs Ã  voir
+   font aussi leur chemin vers la conception d'applications industrielles.
+   Un écosystème industriel montréalais en IA commence d'ailleurs à voir
    le jour.
    figure im6
-   Photo : iStock â€“ Campus MontrÃ©al
+   Photo : iStock - Campus Montréal
 
-RÃ©sumÃ©
+Résumé
 
-   FranÃ§ais
+   Français
 
-   Les innovations rendues possibles grÃ¢ce aux rÃ©cents progrÃ¨s de
-   lâ€™intelligence artificielle sont vastes et pourraient avoir des
-   rÃ©percussions sociales et industrielles majeures. Quâ€™est-ce qui
-   distingue les techniques de lâ€™intelligence artificielle moderne ?
-   Comment les entreprises pourraient-elles bÃ©nÃ©ficier de ces avancÃ©es ?
+   Les innovations rendues possibles grâce aux récents progrès de
+   l'intelligence artificielle sont vastes et pourraient avoir des
+   répercussions sociales et industrielles majeures. Qu'est-ce qui
+   distingue les techniques de l'intelligence artificielle moderne ?
+   Comment les entreprises pourraient-elles bénéficier de ces avancées ?
 
 Plan
 
-    1. [63]Des techniques dâ€™apprentissage
+    1. [63]Des techniques d'apprentissage
     2. [64]La contribution du big data
-    3. [65]Les rÃ©percussions de lâ€™IA en entreprise
-    4. [66]Lâ€™automatisation de la prise de dÃ©cision
+    3. [65]Les répercussions de l'IA en entreprise
+    4. [66]L'automatisation de la prise de décision
 
 Auteur
 
    Laurent Charlin
-   Laurent Charlin est professeur adjoint au DÃ©partement de sciences de la
-   dÃ©cision de HEC MontrÃ©al ainsi que membre de la chaire Data Science for
-   Real-Time Decision-Making de Campus MontrÃ©al et de lâ€™Institut des
-   algorithmes dâ€™apprentissage de MontrÃ©al.
-   Cette publication est la plus rÃ©cente de l'auteur sur Cairn.info.
+   Laurent Charlin est professeur adjoint au Département de sciences de la
+   décision de HEC Montréal ainsi que membre de la chaire Data Science for
+   Real-Time Decision-Making de Campus Montréal et de l'Institut des
+   algorithmes d'apprentissage de Montréal.
+   Cette publication est la plus récente de l'auteur sur Cairn.info.
 
-CitÃ© par
+Cité par
 
    [loading.gif]
 
@@ -287,23 +286,23 @@ Sur un sujet proche
           Mis en ligne sur Cairn.info le 13/03/2017
           [67]https://doi.org/10.3917/riges.421.0076
 
-   [68]PrÃ©cÃ©dent [69]Suivant
+   [68]Précédent [69]Suivant
 
    [70]Ajouter [71]Suivre
 
    (BUTTON) clear
 
-Citer cet article [72]FranÃ§ais
+Citer cet article [72]Français
 
-   ISO 690 FR [73]Copier CHARLIN Laurent, Â« Intelligence artificielle :
-   une mine dâ€™or pour les entreprises Â», Gestion, 2017/1 (Vol. 42), p.
+   ISO 690 FR [73]Copier CHARLIN Laurent, « Intelligence artificielle :
+   une mine d'or pour les entreprises », Gestion, 2017/1 (Vol. 42), p.
    76-79. DOI : 10.3917/riges.421.0076. URL :
    https://www.cairn.info/revue-gestion-2017-1-page-76.htm
-   MLA FR [74]Copier Charlin, Laurent. Â« Intelligence artificielle : une
-   mine dâ€™or pour les entreprises Â», Gestion, vol. 42, no. 1, 2017, pp.
+   MLA FR [74]Copier Charlin, Laurent. « Intelligence artificielle : une
+   mine d'or pour les entreprises », Gestion, vol. 42, no. 1, 2017, pp.
    76-79.
    APA FR [75]Copier Charlin, L. (2017). Intelligence artificielle : une
-   mine dâ€™or pour les entreprises. Gestion, 42, 76-79.
+   mine d'or pour les entreprises. Gestion, 42, 76-79.
    [76]https://doi.org/10.3917/riges.421.0076
    DOI [77]Copier [78]https://doi.org/10.3917/riges.421.0076
 
@@ -314,27 +313,27 @@ Exporter la citation
 
    Pour citer cet article
 
-   Distribution Ã©lectronique Cairn.info pour HEC MontrÃ©al Â© HEC MontrÃ©al.
-   Tous droits rÃ©servÃ©s pour tous pays. Il est interdit, sauf accord
-   prÃ©alable et Ã©crit de lâ€™Ã©diteur, de reproduire (notamment par
-   photocopie) partiellement ou totalement le prÃ©sent article, de le
-   stocker dans une banque de donnÃ©es ou de le communiquer au public sous
-   quelque forme et de quelque maniÃ¨re que ce soit.
+   Distribution électronique Cairn.info pour HEC Montréal © HEC Montréal.
+   Tous droits réservés pour tous pays. Il est interdit, sauf accord
+   préalable et écrit de l'éditeur, de reproduire (notamment par
+   photocopie) partiellement ou totalement le présent article, de le
+   stocker dans une banque de données ou de le communiquer au public sous
+   quelque forme et de quelque manière que ce soit.
 
    (BUTTON) clear
 
 Mon Cairn.info
 
-   Aujourdâ€™hui, Cairn diffuse plus de 400 000 articles de revues et en
-   ajoute 2 500 nouveaux tous les mois. Comment repÃ©rer lâ€™essentiel ?
+   Aujourd'hui, Cairn diffuse plus de 400 000 articles de revues et en
+   ajoute 2 500 nouveaux tous les mois. Comment repérer l'essentiel ?
    Comment ne rien laisser passer ?
 
-   CAIRN.INFO : MatiÃ¨res Ã  rÃ©flexion CAIRN.INFO : MatiÃ¨res Ã  rÃ©flexion
+   CAIRN.INFO : Matières à réflexion CAIRN.INFO : Matières à réflexion
    Avec le soutien du Avec leur soutien [82]CNL [83]CNRS
-     * [84]Ã€ propos
-     * [85]Ã‰diteurs
+     * [84]À propos
+     * [85]Éditeurs
      * [86]Particuliers
-     * [87]BibliothÃ¨ques
+     * [87]Bibliothèques
      * [88]Organisations
 
      * [89]Abonnement Cairn Pro
@@ -344,53 +343,52 @@ Mon Cairn.info
      * [93]Contact
 
      * [94]Cairn International (English)
-     * [95]Cairn Mundo (EspaÃ±ol)
-     * [96]Cairn Sciences (FranÃ§ais)
+     * [95]Cairn Mundo (Español)
+     * [96]Cairn Sciences (Français)
      * [97]Authentification hors campus
-     * [98]AccÃ¨s via UniversitÃ© de Nanterre - Paris 10
-     * [99]Aide
+     * [98]Aide
 
-   Â© Cairn.info 2023 | [100]Conditions gÃ©nÃ©rales dâ€™utilisation |
-   [101]Conditions gÃ©nÃ©rales de vente | [102]Politique de confidentialitÃ©
+   © Cairn.info 2023 | [99]Conditions générales d'utilisation |
+   [100]Conditions générales de vente | [101]Politique de confidentialité
 
-   Cairn.info | AccÃ¨s via UniversitÃ© de Nanterre - Paris 10
+   Cairn.info
 
-   [103]keyboard_arrow_up
+   [102]keyboard_arrow_up
 
    (BUTTON) clear
 
-Connexion fermÃ©e
+Connexion fermée
 
-   Vous avez Ã©tÃ© dÃ©connectÃ© car votre compte est utilisÃ© Ã  partir d'un
+   Vous avez été déconnecté car votre compte est utilisé à partir d'un
    autre appareil.
 
    Chargement
    Chargement en cours.
    Veuillez patienter...
 
-   [about.php?cairn_guest=2023112317007307202905]
+   [about.php?cairn_guest=2023112517009295855525]
 
-   Attention, (BUTTON) clear l'identifiant saisi ne correspond pas Ã  un
+   Attention, (BUTTON) clear l'identifiant saisi ne correspond pas à un
    compte Cairn.info.
 
    Attention, (BUTTON) clear le mot de passe saisi ne correspond pas au
    compte Cairn.info.
 
-   Attention, (BUTTON) clear erreur Ã  l'authentification.
+   Attention, (BUTTON) clear erreur à l'authentification.
 
 References
 
    Visible links:
    1. https://www.cairn.info/
-   2. https://www.cairn.info/
+   2. https://www.cairn.info/./
    3. javascript:void(0);
    4. javascript:void(0);
-   5. https://www.cairn.info/recherche_avancee.php?src1=Tx&word1=&operator1=&nparams=1
+   5. https://www.cairn.info/./recherche_avancee.php?src1=Tx&word1=&operator1=&nparams=1
    6. https://aide.cairn.info/article/113-comment-optimiser-mes-recherches-sur-cairn-info
    7. javascript:void(0);
-   8. https://www.cairn.info/mdp_oublie.php
-   9. https://www.cairn.info/creer_compte.php
-  10. https://aide.cairn.info/article/108-quelles-sont-les-publications-disponibles-dans-l-abonnement-de-mon-institution
+   8. https://www.cairn.info/./mdp_oublie.php
+   9. https://www.cairn.info/./creer_compte.php
+  10. https://www.cairn.info/./acces_hors.php?redirectOnSuccess=2mxS6X%2F%2Bj98SmzCKsHP8kA%3D%3D_t66RiRxrY1efA0FHaI1k1qM0DCXwtaNIR1U4BRyGBMMvpSAfrH8KipoSsMeOm6ZR
   11. javascript:void(0);
   12. https://www.cairn-int.info/
   13. https://www.cairn-int.info/
@@ -401,18 +399,18 @@ References
   18. https://www.cairn.info/que-sais-je-et-reperes.php
   19. https://www.cairn.info/magazines.php
   20. https://www.cairn.info/mon_cairn.php
-  21. https://www.cairn.info/
-  22. https://www.cairn.info/Accueil_Revues.php
-  23. https://www.cairn.info/revue-gestion.htm
-  24. https://www.cairn.info/revue-gestion-2017-1.htm
-  25. https://www.cairn.info/revue-gestion-2017-1.htm
-  26. https://www.cairn.info/connexion.php?from=suivre&type=publication-auteur-article&id=666622
-  27. https://www.cairn.info/publications-de-Laurent-Charlin--666622.htm
+  21. https://www.cairn.info/./
+  22. https://www.cairn.info/./Accueil_Revues.php
+  23. https://www.cairn.info/./revue-gestion.htm
+  24. https://www.cairn.info/./revue-gestion-2017-1.htm
+  25. https://www.cairn.info/./revue-gestion-2017-1.htm
+  26. https://www.cairn.info/./connexion.php?from=suivre&type=publication-auteur-article&id=666622
+  27. https://www.cairn.info/./publications-de-Laurent-Charlin--666622.htm
   28. https://www.cairn.info/revue-gestion.htm
   29. https://www.cairn.info/revue-gestion-2017-1.htm
   30. javascript:void(0);
-  31. https://www.cairn.info/connexion.php?from=ajoutBiblio&id=RIGES_421_0076&type=biblio
-  32. https://www.cairn.info/connexion.php?from=suivre&type=nouveau-numero&id=RIGES
+  31. https://www.cairn.info/./connexion.php?from=ajoutBiblio&id=RIGES_421_0076&type=biblio
+  32. https://www.cairn.info/./connexion.php?from=suivre&type=nouveau-numero&id=RIGES
   33. https://www.cairn.info/revue-gestion-2017-1-page-72.htm
   34. https://www.cairn.info/revue-gestion-2017-1-page-80.htm
   35. https://www.cairn.info/revue-gestion-2017-1-page-76.htm#article
@@ -450,8 +448,8 @@ References
   67. https://doi.org/10.3917/riges.421.0076
   68. https://www.cairn.info/revue-gestion-2017-1-page-72.htm
   69. https://www.cairn.info/revue-gestion-2017-1-page-80.htm
-  70. https://www.cairn.info/connexion.php?from=ajoutBiblio&id=RIGES_421_0076&type=biblio
-  71. https://www.cairn.info/connexion.php?from=suivre&type=nouveau-numero&id=RIGES
+  70. https://www.cairn.info/./connexion.php?from=ajoutBiblio&id=RIGES_421_0076&type=biblio
+  71. https://www.cairn.info/./connexion.php?from=suivre&type=nouveau-numero&id=RIGES
   72. javascript:void(0);
   73. javascript:void(0);
   74. javascript:void(0);
@@ -461,29 +459,28 @@ References
   78. https://doi.org/10.3917/riges.421.0076
   79. https://www.cairn.info//Tools/exports/export-zotero.php?ID_ARTICLE=RIGES_421_0076
   80. https://www.cairn.info//Tools/exports/export-endnote.php?ID_ARTICLE=RIGES_421_0076
-  81. http://www.refworks.com/express/ExpressImport.asp?vendor=Cairn&filter=Refworks Tagged Format&encoding=65001&url=https://www.cairn.info//Tools/exports/export-refworks.php?ID_ARTICLE=RIGES_421_0076
+  81. http://www.refworks.com/express/ExpressImport.asp?vendor=Cairn&filter=Refworks%20Tagged%20Format&encoding=65001&url=https://www.cairn.info//Tools/exports/export-refworks.php?ID_ARTICLE=RIGES_421_0076
   82. http://www.centrenationaldulivre.fr/
   83. http://www.cnrs.fr/
-  84. https://www.cairn.info/a-propos.php
-  85. https://www.cairn.info/services-aux-editeurs.php
-  86. https://www.cairn.info/services-aux-particuliers.php
-  87. https://www.cairn.info/services-aux-institutions.php
-  88. https://www.cairn.info/services-aux-organisations.php
-  89. https://www.cairn.info/pro
-  90. https://www.cairn.info/listes-publiques.php
-  91. https://www.cairn.info/dossiers.php
-  92. https://www.cairn.info/rencontres.php
-  93. https://www.cairn.info/contact.php
+  84. https://www.cairn.info/./a-propos.php
+  85. https://www.cairn.info/./services-aux-editeurs.php
+  86. https://www.cairn.info/./services-aux-particuliers.php
+  87. https://www.cairn.info/./services-aux-institutions.php
+  88. https://www.cairn.info/./services-aux-organisations.php
+  89. https://www.cairn.info/./pro
+  90. https://www.cairn.info/./listes-publiques.php
+  91. https://www.cairn.info/./dossiers.php
+  92. https://www.cairn.info/./rencontres.php
+  93. https://www.cairn.info/./contact.php
   94. https://www.cairn-int.info/
   95. https://www.cairn-mundo.info/
   96. https://www.cairn-sciences.info/
-  97. https://www.cairn.info/acces_hors.php?redirectOnSuccess=+/MGyMzkvCGBiineoa3HHA==_AI4DTuygjnmoCPUpcwLz4pf1VDBC/Ui543JVVexNHDjfZy1+P92tjNRiGT79iS+n
-  98. https://aide.cairn.info/article/108-quelles-sont-les-publications-disponibles-dans-l-abonnement-de-mon-institution
-  99. https://aide.cairn.info/
- 100. https://www.cairn.info/conditions.php
- 101. https://www.cairn.info/conditions-generales-de-vente.php
- 102. https://www.cairn.info/vie-privee.php
- 103. javascript:void(0);
+  97. https://www.cairn.info/./acces_hors.php?redirectOnSuccess=2mxS6X%2F%2Bj98SmzCKsHP8kA%3D%3D_t66RiRxrY1efA0FHaI1k1qM0DCXwtaNIR1U4BRyGBMMvpSAfrH8KipoSsMeOm6ZR
+  98. https://aide.cairn.info/
+  99. https://www.cairn.info/./conditions.php
+ 100. https://www.cairn.info/./conditions-generales-de-vente.php
+ 101. https://www.cairn.info/./vie-privee.php
+ 102. javascript:void(0);
 
    Hidden links:
- 105. javascript:void(0);
+ 104. javascript:void(0);

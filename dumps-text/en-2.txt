@@ -1,4 +1,4 @@
-   #[1]alternate [2]alternate [3]InCyber » Feed [4]InCyber » Comments Feed
+   #[1]alternate [2]alternate [3]InCyber � Feed [4]InCyber � Comments Feed
 
    News and Cyber Community
      * [5]Contributors
@@ -32,7 +32,7 @@
      * [28]Advertising and partnerships
      * [29]picto-mail Newsletter
      * [30]picto-search Search
-     * [31]Français
+     * [31]Fran�ais
      * [32]English
 
    Research ____________________ Search
@@ -52,13 +52,13 @@
      * [38]Cybercrime
      * [39]Digital Sovereignty
      * [40]Security and Stability in Cyberspace
-     * [41]Français
+     * [41]Fran�ais
      * [42]English
 
      * [43]Advertising and partnerships
      * [44]picto-mail Newsletter
      * [45]picto-search Search
-     * [46]Français
+     * [46]Fran�ais
      * [47]English
 
    Research ____________________ Search
@@ -80,7 +80,7 @@
      * [61]Cybercrime
      * [62]Digital Sovereignty
      * [63]Security and Stability in Cyberspace
-     * [64]Français
+     * [64]Fran�ais
      * [65]English
 
    News and Cyber Community
@@ -139,7 +139,7 @@ Artificial intelligence: the world is waking up to the risks
    [102]Cyber risks - [103]Louis Nauges - November 16, 2023
 
    All these documents refer to the risks linked to Artificial General
-   Intelligence (AGI), which is level 2 of AI. Today’s artificial
+   Intelligence (AGI), which is level 2 of AI. Today's artificial
    intelligence, including generative AI systems like ChatGPT, fall within
    Artificial Narrow Intelligence (ANI), which is level 1. This artificial
    intelligence can do a single activity as well as a human, perhaps even
@@ -156,9 +156,9 @@ Artificial intelligence: the world is waking up to the risks
    read all five documents, but if you were to read just one, it would be
    the one by [104]this group of 30 experts.
 
-   This excerpt gives the general tone of the document: “AI advancement
+   This excerpt gives the general tone of the document: "AI advancement
    could culminate in a large-scale loss of life and the biosphere, and
-   the marginalization or even extinction of humanity“. It “coolly”
+   the marginalization or even extinction of humanity". It "coolly"
    suggests the extinction of mankind! The three ensuing documents each
    mostly resemble each other. They are very general declarations of
    intent full of goodwill but with little real impact.
@@ -170,18 +170,18 @@ Artificial intelligence: the world is waking up to the risks
    No one will argue against the ideas expressed in the Bletchley
    Declaration signed by 28 countries with widely divergent interests,
    including the United States, China, India, Israel, Saudi Arabia and the
-   European Union.  “The recognition of the need to take account of human
+   European Union.  "The recognition of the need to take account of human
    rights protection, transparency and explicability, fairness,
    accountability, regulation, security, appropriate human oversight,
-   ethics, bias mitigation, privacy and data protection.”
+   ethics, bias mitigation, privacy and data protection."
 
-   The fifth document is different – it is an executive order signed by
+   The fifth document is different - it is an executive order signed by
    Joe Biden on October 30, 2023. In 60 pages, the US president lists a
    hundred specific actions to be taken, and for each, the executive order
    names the public authorities in charge of carrying them out.
    Furthermore, the timetable is restrictive, with most of these actions
    being given between 45 and 365 days to be completed. It is far from a
-   catalogue of good intentions: it demonstrates the United States’ clear
+   catalogue of good intentions: it demonstrates the United States' clear
    desire to do everything it can to maintain its global leadership of AI.
 
 Where is Europe in this concert of recommendations?
@@ -204,9 +204,9 @@ Where is Europe in this concert of recommendations?
    and ASIs are among the questions that require quick reflection from
    directors of all organizations, public and private.
 
-   Furthermore, the best AI specialists are often asked, “what is
-   humanity’s future in a world where AI performs better than humans?“.
-   The common answer? “I don’t know.” But that is no reason not to think
+   Furthermore, the best AI specialists are often asked, "what is
+   humanity's future in a world where AI performs better than humans?".
+   The common answer? "I don't know." But that is no reason not to think
    about it, all together, and very quickly.
 
 Do you want to be informed in real time?
@@ -246,10 +246,10 @@ Do you want to be informed in real time?
    The past week was intense in the world of artificial intelligence (AI).
    In the space of a few days, five documents were published by
    prestigious institutions all examining the issue of AI and its ...
-   [117]Google’s Play Store promotes secure apps
+   [117]Google's Play Store promotes secure apps
    10 November 2023
 
-[118]Google’s Play Store promotes secure apps
+[118]Google's Play Store promotes secure apps
 
    Badge now certifies apps that pass cybersecurity test.
    [119]How phishing scams utilize OSINT
@@ -259,14 +259,14 @@ Do you want to be informed in real time?
 
    By [121]Zachary Amos
    Open-source intelligence may be increasing the risks posed by phishing
-   scams. Many people aren’t aware of how much may be available about them
-   online, but scammers do, and they’re taking ...
+   scams. Many people aren't aware of how much may be available about them
+   online, but scammers do, and they're taking ...
    [122]Cyberscore: is France really taking the digital threat seriously?
    07 November 2023
 
 [123]Cyberscore: is France really taking the digital threat seriously?
 
-   By [124]Alexandre Lazarègue, avocat spécialisé en droit du numérique
+   By [124]Alexandre Lazar�gue, avocat sp�cialis� en droit du num�rique
    The cyberscore, introduced by law on March 3, 2022, aims to do for
    cybersecurity what the nutriscore did for food. However, with its
    limited scope and modest requirements, it is not certain that it ...
@@ -282,7 +282,7 @@ Do you want to be informed in real time?
 
 [128]ANSSI warns about Russian group APT28
 
-   Report details group’s numerous attacks against French organizations,
+   Report details group's numerous attacks against French organizations,
    and explains how to protect oneself.
    Cyber industrial safety
    [129]State-affiliated groups are main cyber threat to industry
@@ -297,12 +297,12 @@ Do you want to be informed in real time?
 [132]Industrial cybersecurity: the need for IT/OT convergence
 
    In an interview with Alliancy published on August 29, 2023,
-   Jean-François Siquet, OT product manager at Air Liquide, reviewed the
+   Jean-Fran�ois Siquet, OT product manager at Air Liquide, reviewed the
    securing of OT processes required by digitalization. He recognizes ...
-   [133]Wallix raises €10.5 million
+   [133]Wallix raises EUR10.5 million
    17 July 2023
 
-[134]Wallix raises €10.5 million
+[134]Wallix raises EUR10.5 million
 
    The French specialist in privileged access raised 5.5 million euros in
    one night only.
@@ -311,12 +311,12 @@ Do you want to be informed in real time?
 
 [136]Despite improvements, OT cybersecurity remains a problem
 
-   Fortinet’s latest report shows that 75% of manufacturers have suffered
+   Fortinet's latest report shows that 75% of manufacturers have suffered
    at least one intrusion in the last 12 months.
-   [137]Critical flaw in Siemens’ energy sector ICS
+   [137]Critical flaw in Siemens' energy sector ICS
    19 June 2023
 
-[138]Critical flaw in Siemens’ energy sector ICS
+[138]Critical flaw in Siemens' energy sector ICS
 
    The vulnerability enables complete takeover of devices and may
    undermine power grids
@@ -329,13 +329,13 @@ Do you want to be informed in real time?
    which develops malicious tools to stress test industrial computer
    systems
    Security and Stability in Cyberspace
-   [141]“We are at cyberwar!” Really?
+   [141]"We are at cyberwar!" Really?
    31 October 2023
 
-[142]“We are at cyberwar!” Really?
+[142]"We are at cyberwar!" Really?
 
    By [143]Stanislas Tarnowski
-   What better than a war to mobilize everyone’s energy? Armis presents a
+   What better than a war to mobilize everyone's energy? Armis presents a
    report on perceptions of cyber warfare and how companies and public
    authorities are preparing to confront this threat. ...
    [144]Will the Moon soon get Internet?
@@ -354,7 +354,7 @@ Do you want to be informed in real time?
 [148]Why is there so much misinformation about the Israel-Hamas war on X?
 
    By [149]Fanny Tan
-   Since Hamas’s surprise attack against Israel on October 7, 2023, social
+   Since Hamas's surprise attack against Israel on October 7, 2023, social
    media has been inundated with false and misleading content, especially
    X (formerly Twitter). How can we explain such a ...
    [150]Mysterious Team Bangladesh hacktivists target France
@@ -370,11 +370,11 @@ Do you want to be informed in real time?
 [153]Cyberattack against International Court of Justice in The Hague
 
    ICJ provides no details on cyberattack and perpetrator but has been in
-   Russia’s cross-hairs for a long time.
-   [154]Ursula von der Leyen aims to establish “AI IPCC”
+   Russia's cross-hairs for a long time.
+   [154]Ursula von der Leyen aims to establish "AI IPCC"
    26 September 2023
 
-[155]Ursula von der Leyen aims to establish “AI IPCC”
+[155]Ursula von der Leyen aims to establish "AI IPCC"
 
    EU Chief wants to bring together scientists, businesses and experts to
    guarantee responsible AI growth on a world level.
@@ -386,7 +386,7 @@ Do you want to be informed in real time?
 
    By [158]Fabrice Deblock
    At its annual Security Analyst Summit (SAS) in late October 2023,
-   Kaspersky’s Global Research and Analysis Team (GReAT) revealed a number
+   Kaspersky's Global Research and Analysis Team (GReAT) revealed a number
    of elements about Operation Triangulation, which ...
    [159]Mysterious Team Bangladesh hacktivists target France
    08 October 2023
@@ -414,7 +414,7 @@ Do you want to be informed in real time?
 
 [166]Scattered Spider behind MGM cyberattack
 
-   Casino and hotel giant’s slot machines unusable for half a day.
+   Casino and hotel giant's slot machines unusable for half a day.
    [167]ANSSI warns about FIN12 gang
    08 October 2023
 
@@ -438,7 +438,7 @@ Do you want to be informed in real time?
 
    By [173]Fabrice Deblock
    With cyberattacks on corporate supply chains on the rise, how can we
-   stop suppliers from being the weakest link in an organization’s
+   stop suppliers from being the weakest link in an organization's
    cybersecurity? What could generative AI bring to this ...
    [174]HarfangLab raises 25 million euros
    17 October 2023
@@ -452,7 +452,7 @@ Do you want to be informed in real time?
 
 [177]Yves Bernaert, new CEO of Atos Group
 
-   Yves Bernaert leaves Accenture management to head Eviden, tech giant’s
+   Yves Bernaert leaves Accenture management to head Eviden, tech giant's
    cloud, cybersecurity, supercomputer, and quantum branch.
    [178]Threat detection and AI: Cisco acquires Splunk
    27 September 2023
@@ -498,7 +498,7 @@ years
 
 [189]ChatGPT already has two evil twins
 
-   Named “FraudGPT” and “WormGPT”, two chatbots can write fraudulent
+   Named "FraudGPT" and "WormGPT", two chatbots can write fraudulent
    messages and simple malware.
    [190]United States: OpenAI under FTC investigation
    28 July 2023
@@ -507,10 +507,10 @@ years
 
    The US Federal Trade Commission is investigating ChatGPT over claims of
    misrepresentation.
-   [192]Olympic Games: ANSSI argues for “healthy paranoia”
+   [192]Olympic Games: ANSSI argues for "healthy paranoia"
    13 July 2023
 
-[193]Olympic Games: ANSSI argues for “healthy paranoia”
+[193]Olympic Games: ANSSI argues for "healthy paranoia"
 
    Vincent Strubel, head of ANSSI, goes over security measures for Paris
    2024 Games, as well as threats the event faces.
@@ -540,7 +540,7 @@ years
 persist
 
    The European Commission, the European Parliament, and the Council have
-   completed a round of negotiations on this key text for the EU’s digital
+   completed a round of negotiations on this key text for the EU's digital
    transformation.
    [200]The Catholic Church in France gives priests digital IDs
    19 June 2023
@@ -563,7 +563,7 @@ persist
 
 [205]DocuSign launches AI-assisted ID verification
 
-   Named “ID Verification for EU Qualified”, compliant with European Union
+   Named "ID Verification for EU Qualified", compliant with European Union
    and United Kingdom regulatory requirements, this solution also relies
    on human approval
    Digital Sovereignty
@@ -574,7 +574,7 @@ persist
 
    By [208]Fabrice Deblock
    The Chinese social network is under scrutiny by the American and
-   European authorities, who want to know exactly how their citizens’ data
+   European authorities, who want to know exactly how their citizens' data
    is being used. This comes at a time when geostrategic ...
    [209]NIS2 on the horizon: companies need to get ready
    08 November 2023
@@ -585,10 +585,10 @@ persist
    The aim of this new European directive is to strengthen cybersecurity
    in Europe. It is set to replace the NIS1 directive, whose requirements
    are no longer up to the task of improving security, ...
-   [212]Digital Services Act implemented for “very large platforms”
+   [212]Digital Services Act implemented for "very large platforms"
    08 October 2023
 
-[213]Digital Services Act implemented for “very large platforms”
+[213]Digital Services Act implemented for "very large platforms"
 
    Other services have until February 17, 2024, to comply.
    [214]Transatlantic data: Data Privacy Framework already challenged
@@ -609,7 +609,7 @@ persist
 
 [219]Digital Market Act update
 
-   Definitive list of “gatekeepers” published on September 6, 2023.
+   Definitive list of "gatekeepers" published on September 6, 2023.
    Digital transition
    [220]How AI is shaking up intellectual property
    23 November 2023
@@ -619,7 +619,7 @@ persist
    By [222]Pascal Coillet-Matillon
    On August 3, 2023, The New York Times changed the legal notice on its
    website. The US daily now requires its written consent for an AI to use
-   its data for training. It’s a sign that generative ...
+   its data for training. It's a sign that generative ...
    [223][InCyber Forum Montreal] Generative AI: reinventing copyright
    22 November 2023
 
@@ -629,15 +629,15 @@ persist
    Widespread access to generative artificial intelligence is shaking up
    how we work and create. However, the growing use of this technology has
    quickly raised two considerable legal issues: how to ...
-   [226]“Ex Machina”: a film that explores the (intimate) relationships
-   between humans and machines…and much more
+   [226]"Ex Machina": a film that explores the (intimate) relationships
+   between humans and machines...and much more
    22 November 2023
 
-[227]“Ex Machina”: a film that explores the (intimate) relationships between
-humans and machines…and much more
+[227]"Ex Machina": a film that explores the (intimate) relationships between
+humans and machines...and much more
 
    By [228]Olivier Parent
-   This science fiction movie, directed by Alex Garland, is a “No Exit”
+   This science fiction movie, directed by Alex Garland, is a "No Exit"
    that examines the possibilities of human empathy toward an artificially
    intelligent system. Moreover, it uses ...
    [229]Corporate cryptocurrency cashflow: balancing flexibility and
@@ -648,7 +648,7 @@ humans and machines…and much more
 
    By [231]Agathe Laurent
    The rise of cryptocurrencies is being felt in the business world.
-   Companies’ adoption of this technology raises specific issues of
+   Companies' adoption of this technology raises specific issues of
    governance and security. Here is a guide to the topic.
    [232]Privacy governance better accounted for throughout the world
    14 November 2023
@@ -656,10 +656,10 @@ humans and machines…and much more
 [233]Privacy governance better accounted for throughout the world
 
    Yet heads of privacy in corporations still deem resources insufficient.
-   [234]OpenAI to fight AI’s “catastrophic risks”
+   [234]OpenAI to fight AI's "catastrophic risks"
    10 November 2023
 
-[235]OpenAI to fight AI’s “catastrophic risks”
+[235]OpenAI to fight AI's "catastrophic risks"
 
    ChatGPT publisher forms team of experts to assess most serious threats
    associated with advanced AI models.
@@ -669,7 +669,7 @@ humans and machines…and much more
      * [237]Twitter
      * [238]Youtube
 
-   [239]PRIVACY POLICY TERMS AND CONDITIONS COPYRIGHT © 2022 BY FIC, INC.
+   [239]PRIVACY POLICY TERMS AND CONDITIONS COPYRIGHT � 2022 BY FIC, INC.
    ALL RIGHTS RESERVED.
    News and Cyber Community
      * [240]Events
@@ -698,41 +698,41 @@ humans and machines…and much more
      * [260]Legal Notice and Terms
 
    Manage cookie consent
-   Pour offrir les meilleures expériences, nous utilisons des technologies
-   telles que les cookies pour stocker et/ou accéder aux informations des
-   appareils. Le fait de consentir à ces technologies nous permettra de
-   traiter des données telles que le comportement de navigation ou les ID
+   Pour offrir les meilleures exp�riences, nous utilisons des technologies
+   telles que les cookies pour stocker et/ou acc�der aux informations des
+   appareils. Le fait de consentir � ces technologies nous permettra de
+   traiter des donn�es telles que le comportement de navigation ou les ID
    uniques sur ce site. Le fait de ne pas consentir ou de retirer son
-   consentement peut avoir un effet négatif sur certaines caractéristiques
+   consentement peut avoir un effet n�gatif sur certaines caract�ristiques
    et fonctions.
    Fonctionnel [ ] Fonctionnel Always active
-   Le stockage ou l’accès technique est strictement nécessaire dans la
-   finalité d’intérêt légitime de permettre l’utilisation d’un service
-   spécifique explicitement demandé par l’abonné ou l’utilisateur, ou dans
-   le seul but d’effectuer la transmission d’une communication sur un
-   réseau de communications électroniques.
-   Préférences [ ] Préférences
+   Le stockage ou l'acc�s technique est strictement n�cessaire dans la
+   finalit� d'int�r�t l�gitime de permettre l'utilisation d'un service
+   sp�cifique explicitement demand� par l'abonn� ou l'utilisateur, ou dans
+   le seul but d'effectuer la transmission d'une communication sur un
+   r�seau de communications �lectroniques.
+   Pr�f�rences [ ] Pr�f�rences
    Storage or technical access is necessary for the purpose of legitimate
    interest to store preferences that are not requested by the subscriber
    or user.
    Statistiques [ ] Statistiques
-   Le stockage ou l’accès technique qui est utilisé exclusivement à des
-   fins statistiques. Le stockage ou l’accès technique qui est utilisé
-   exclusivement dans des finalités statistiques anonymes. En l’absence
-   d’une assignation à comparaître, d’une conformité volontaire de la part
-   de votre fournisseur d’accès à internet ou d’enregistrements
-   supplémentaires provenant d’une tierce partie, les informations
-   stockées ou extraites à cette seule fin ne peuvent généralement pas
-   être utilisées pour vous identifier.
+   Le stockage ou l'acc�s technique qui est utilis� exclusivement � des
+   fins statistiques. Le stockage ou l'acc�s technique qui est utilis�
+   exclusivement dans des finalit�s statistiques anonymes. En l'absence
+   d'une assignation � compara�tre, d'une conformit� volontaire de la part
+   de votre fournisseur d'acc�s � internet ou d'enregistrements
+   suppl�mentaires provenant d'une tierce partie, les informations
+   stock�es ou extraites � cette seule fin ne peuvent g�n�ralement pas
+   �tre utilis�es pour vous identifier.
    Marketing [ ] Marketing
-   Le stockage ou l’accès technique est nécessaire pour créer des profils
-   d’utilisateurs afin d’envoyer des publicités, ou pour suivre
-   l’utilisateur sur un site web ou sur plusieurs sites web ayant des
-   finalités marketing similaires.
+   Le stockage ou l'acc�s technique est n�cessaire pour cr�er des profils
+   d'utilisateurs afin d'envoyer des publicit�s, ou pour suivre
+   l'utilisateur sur un site web ou sur plusieurs sites web ayant des
+   finalit�s marketing similaires.
    [261]Manage options [262]Manage services [263]Manage vendors [264]Read
    more about these purposes
-   (BUTTON) Accept (BUTTON) Deny (BUTTON) Voir les préférences (BUTTON)
-   Enregistrer les préférences [265]Voir les préférences
+   (BUTTON) Accept (BUTTON) Deny (BUTTON) Voir les pr�f�rences (BUTTON)
+   Enregistrer les pr�f�rences [265]Voir les pr�f�rences
    [266]{title} [267]{title} [268]{title}
 
    (BUTTON) Manage Consent
@@ -841,8 +841,8 @@ References
   96. https://incyber.org/en/theme/anti-fraud-fight/
   97. https://incyber.org/en/theme/digital-identity/
   98. https://incyber.org/en/artificial-intelligence-world-is-waking-up-risks/
-  99. https://www.facebook.com/sharer/sharer.php?u=https://incyber.org/en/artificial-intelligence-world-is-waking-up-risks/&t=Artificial+intelligence:+the+world+is+waking+up+to+the+risks
- 100. https://www.linkedin.com/shareArticle?mini=true&ro=true&trk=EasySocialShareButtons&title=Artificial+intelligence:+the+world+is+waking+up+to+the+risks&url=https://incyber.org/en/artificial-intelligence-world-is-waking-up-risks/
+  99. https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fincyber.org%2Fen%2Fartificial-intelligence-world-is-waking-up-risks%2F&t=Artificial+intelligence%3A+the+world+is+waking+up+to+the+risks
+ 100. https://www.linkedin.com/shareArticle?mini=true&ro=true&trk=EasySocialShareButtons&title=Artificial+intelligence%3A+the+world+is+waking+up+to+the+risks&url=https%3A%2F%2Fincyber.org%2Fen%2Fartificial-intelligence-world-is-waking-up-risks%2F
  101. https://incyber.org/en/artificial-intelligence-world-is-waking-up-risks/
  102. https://incyber.org/theme/cyber-risks
  103. https://incyber.org/contributeur/LNauges

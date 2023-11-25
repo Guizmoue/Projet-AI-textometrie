@@ -1,264 +1,263 @@
-   [1]CAIRN.INFO : MatiÃ¨res Ã  rÃ©flexion [2]CAIRN.INFO : MatiÃ¨res Ã 
-   rÃ©flexion
+   [1]CAIRN.INFO : Matières à réflexion [2]CAIRN.INFO : Matières à
+   réflexion
      * [3]search
        ____________________ [4]search
-          + [5]Recherche avancÃ©e
-          + [6]help_outline Aide Ã  la recherche
+          + [5]Recherche avancée
+          + [6]help_outline Aide à la recherche
      * [7]person_outline Connexion
        Compte personnel Cairn.info
        ____________________
        ____________________
-       [X] Rester connectÃ©
-       [8]Mot de passe oubliÃ© ?
+       [X] Rester connecté
+       [8]Mot de passe oublié ?
        Se connecter
-       Pas encore enregistrÃ© ?
-       [9]CrÃ©er un compte
-       AccÃ¨s institution
-       Vous accÃ©dez Ã  Cairn.info via
-       UniversitÃ© de Nanterre - Paris 10
-       [10]Voir les publications disponibles
+       Pas encore enregistré ?
+       [9]Créer un compte
+       Accès institution
+       Vous n'êtes actuellement pas connecté(e) en institution.
+       [10]Authentifiez-vous
      * [11]language
        You might also want to visit our [12]Cairn International Edition.
        [13]SWITCH TO ENGLISH
-       Tal vez desee visitar tambiÃ©n nuestros contenidos en espaÃ±ol en
+       Tal vez desee visitar también nuestros contenidos en español en
        [14]Cairn Mundo.
-       [15]CAMBIAR A ESPAÃ‘OL
+       [15]CAMBIAR A ESPAÑOL
      * Toggle navigation menu
 
      * [16]Revues
      * [17]Ouvrages
-     * [18]Que sais-je ? / RepÃ¨res
+     * [18]Que sais-je ? / Repères
      * [19]Magazines
      * [20]Mon cairn.info
 
-   CAIRN.INFO : MatiÃ¨res Ã  rÃ©flexion
+   CAIRN.INFO : Matières à réflexion
 
     1. [21]Accueil
     2. [22]Revues
-    3. [23]Revue franÃ§aise de gestion
-    4. [24]NumÃ©ro 2023/5 (NÂ° 312)
-    5. Ce que ChatGPT fait Ã  lâ€™enseignement,...
+    3. [23]Revue française de gestion
+    4. [24]Numéro 2023/5 (N° 312)
+    5. Ce que ChatGPT fait à l'enseignement,...
 
    [25][RFG_312.jpg?fallback=true]
    2023/5
-     * Ce que ChatGPT fait Ã  lâ€™enseignement, Ã  la recherche et aux
+     * Ce que ChatGPT fait à l'enseignement, à la recherche et aux
        organisations
      * [26]Suivre cet auteur [27]Mbaye Fall Diallo
-     * Dans [28]Revue franÃ§aise de gestion [29]2023/5 (NÂ° 312), pages 9 Ã 
+     * Dans [28]Revue française de gestion [29]2023/5 (N° 312), pages 9 à
        14
 
-   [30]format_quote Citer ou exporter [31]Ajouter Ã  une liste [32]Suivre
+   [30]format_quote Citer ou exporter [31]Ajouter à une liste [32]Suivre
    cette revue
    [33]Suivant
 
      * [34]Article
      * [35]Bibliographie
      * [36]Auteur
-     * [37]file_downloadTÃ©lÃ©charger
+     * [37]file_downloadTélécharger
      * [38]Article
           + [39]Article
           + [40]Bibliographie
           + [41]Auteur
-          + [42]file_downloadTÃ©lÃ©charger
+          + [42]file_downloadTélécharger
 
 Article
 
-   [43]1 Le buzz mÃ©diatique rÃ©cent autour de lâ€™intelligence artificielle
-   (IA) gÃ©nÃ©rative comme ChatGPT (robot conversationnel dâ€™OpenAI) ou ses
+   [43]1 Le buzz médiatique récent autour de l'intelligence artificielle
+   (IA) générative comme ChatGPT (robot conversationnel d'OpenAI) ou ses
    concurrents (ex. Bard de Google) illustre parfaitement les enjeux
-   associÃ©s Ã  lâ€™IA dans lâ€™enseignement, la recherche et les organisations.
-   Lâ€™usage des machines intelligentes constitue un dÃ©fi Ã©conomique (en
-   termes de flexibilitÃ©, de simplification ou dâ€™ergonomie) et un dÃ©fi
-   sociÃ©tal (en termes de sÃ©curitÃ© et de transparence) (Dimitropoulos et
-   al., 2021). Ces objets intelligents gÃ©nÃ¨rent des fantasmes, des peurs,
-   des controverses, accentuÃ©s notamment quand AlphaGo (IA dÃ©veloppÃ©e par
-   Google) a battu le champion Lee Seedol au jeu de go en mars 2016 Ã 
-   SÃ©oul. Ayant fait preuve dâ€™une grande crÃ©ativitÃ© et dâ€™une prÃ©cision de
-   lecture et dâ€™Ã©valuation du jeu, AlphaGo a surpris les meilleurs
-   professionnels et les a obligÃ©s Ã  repenser certaines de leurs idÃ©es sur
+   associés à l'IA dans l'enseignement, la recherche et les organisations.
+   L'usage des machines intelligentes constitue un défi économique (en
+   termes de flexibilité, de simplification ou d'ergonomie) et un défi
+   sociétal (en termes de sécurité et de transparence) (Dimitropoulos et
+   al., 2021). Ces objets intelligents génèrent des fantasmes, des peurs,
+   des controverses, accentués notamment quand AlphaGo (IA développée par
+   Google) a battu le champion Lee Seedol au jeu de go en mars 2016 à
+   Séoul. Ayant fait preuve d'une grande créativité et d'une précision de
+   lecture et d'évaluation du jeu, AlphaGo a surpris les meilleurs
+   professionnels et les a obligés à repenser certaines de leurs idées sur
    le go.
 
-   [44]2 De nombreuses thÃ©ories en gestion comme la thÃ©orie de
-   lâ€™acceptation de la technologie (Davis, 1989), les interactions
-   homme-machine (Card et al., 1983) ou encore la dualitÃ© des technologies
-   (Orlikowski et Robey, 1991) constituent des cadres dâ€™analyse pertinents
-   de lâ€™IA en gÃ©nÃ©ral. Lâ€™interaction homme-machine est par exemple
-   analysÃ©e sous lâ€™angle de lâ€™anthropomorphisation (reprÃ©sentation ou
-   conception dâ€™un Ãªtre non humain ou une chose, ici lâ€™IA, sous la forme
-   ou avec les traits dâ€™un Ãªtre humain). Selon la thÃ©orie dite de la
-   Â« vallÃ©e de lâ€™inquiÃ©tante Ã©trangetÃ© Â» (uncanny valley, Mori, 1970),
-   lâ€™individu apprÃ©cie les caractÃ©ristiques humaines dâ€™une IA (ex. robot)
-   jusquâ€™Ã  un seuil Ã  partir duquel cette apparence humaine crÃ©e un
-   malaise et un sentiment dâ€™inconfort et donc un rejet de lâ€™outil.
+   [44]2 De nombreuses théories en gestion comme la théorie de
+   l'acceptation de la technologie (Davis, 1989), les interactions
+   homme-machine (Card et al., 1983) ou encore la dualité des technologies
+   (Orlikowski et Robey, 1991) constituent des cadres d'analyse pertinents
+   de l'IA en général. L'interaction homme-machine est par exemple
+   analysée sous l'angle de l'anthropomorphisation (représentation ou
+   conception d'un être non humain ou une chose, ici l'IA, sous la forme
+   ou avec les traits d'un être humain). Selon la théorie dite de la
+   « vallée de l'inquiétante étrangeté » (uncanny valley, Mori, 1970),
+   l'individu apprécie les caractéristiques humaines d'une IA (ex. robot)
+   jusqu'à un seuil à partir duquel cette apparence humaine crée un
+   malaise et un sentiment d'inconfort et donc un rejet de l'outil.
 
-   [45]3 Lâ€™IA gÃ©nÃ©rative ne dÃ©roge pas Ã  cette rÃ¨gle. Elle dÃ©signe un type
-   dâ€™intelligence artificielle capable de crÃ©er du contenu (ex. le mÃ©moire
-   dâ€™un Ã©tudiant, un article de presse, un film) et de proposer des idÃ©es,
-   sous de multiples formats (ex. textes, images, vidÃ©os, musique, etc.).
-   Elle est alimentÃ©e par des modÃ¨les de machine learning, de trÃ¨s grands
-   modÃ¨les prÃ©-entraÃ®nÃ©s sur de vastes quantitÃ©s de donnÃ©es (Peres et al.,
-   2023). Si les premiÃ¨res versions de ChatGPT ne permettaient pas de
-   faire des miracles, sa version 4 apporte des rÃ©sultats de bien
-   meilleure qualitÃ©, mais en mÃªme temps gÃ©nÃ¨re des rÃ©sistances et dÃ©bats.
-   Ainsi, Ã  la suite du lancement de la derniÃ¨re version de ChatGPT, une
-   centaine dâ€™experts dont Elon Musk a appelÃ© Ã  une pause dans le
-   dÃ©veloppement de lâ€™IA, en Ã©voquant des menaces sur lâ€™emploi, la
-   crÃ©dibilitÃ© de lâ€™information, voire le contrÃ´le de notre civilisation.
-   Tout cela pourrait certes Ãªtre une campagne savamment orchestrÃ©e pour
-   se donner bonne conscience et faire du buzz, mais un temps de rÃ©flexion
-   sur lâ€™IA gÃ©nÃ©rative est bien nÃ©cessaire pour dÃ©terminer comment mieux
-   encadrer son usage. Dans la recherche, lâ€™IA gÃ©nÃ©rative comme ChatGPT
-   fait le travail que le chercheur est censÃ© faire en utilisant des
-   donnÃ©es massives, et peut par exemple faire une revue de la littÃ©rature
-   en un temps record. Explainpaper permet de tÃ©lÃ©charger un article, de
-   mettre en Ã©vidence une partie confuse du texte et dâ€™en obtenir un
-   synopsis plus clair. Jenni aide Ã  discerner si un article passe Ã  cÃ´tÃ©
+   [45]3 L'IA générative ne déroge pas à cette règle. Elle désigne un type
+   d'intelligence artificielle capable de créer du contenu (ex. le mémoire
+   d'un étudiant, un article de presse, un film) et de proposer des idées,
+   sous de multiples formats (ex. textes, images, vidéos, musique, etc.).
+   Elle est alimentée par des modèles de machine learning, de très grands
+   modèles pré-entraînés sur de vastes quantités de données (Peres et al.,
+   2023). Si les premières versions de ChatGPT ne permettaient pas de
+   faire des miracles, sa version 4 apporte des résultats de bien
+   meilleure qualité, mais en même temps génère des résistances et débats.
+   Ainsi, à la suite du lancement de la dernière version de ChatGPT, une
+   centaine d'experts dont Elon Musk a appelé à une pause dans le
+   développement de l'IA, en évoquant des menaces sur l'emploi, la
+   crédibilité de l'information, voire le contrôle de notre civilisation.
+   Tout cela pourrait certes être une campagne savamment orchestrée pour
+   se donner bonne conscience et faire du buzz, mais un temps de réflexion
+   sur l'IA générative est bien nécessaire pour déterminer comment mieux
+   encadrer son usage. Dans la recherche, l'IA générative comme ChatGPT
+   fait le travail que le chercheur est censé faire en utilisant des
+   données massives, et peut par exemple faire une revue de la littérature
+   en un temps record. Explainpaper permet de télécharger un article, de
+   mettre en évidence une partie confuse du texte et d'en obtenir un
+   synopsis plus clair. Jenni aide à discerner si un article passe à côté
    de recherches existantes pertinentes. Avec Quivr, le chercheur peut
-   tÃ©lÃ©charger un article et poser des questions telles que : Quelles sont
-   les lacunes de cette Ã©tude ? Lâ€™IA gÃ©nÃ©rative permet ainsi de gagner un
-   temps inestimable pour des chercheurs souvent impliquÃ©s dans de
-   nombreux projets de recherche, activitÃ©s pÃ©dagogiques et
+   télécharger un article et poser des questions telles que : Quelles sont
+   les lacunes de cette étude ? L'IA générative permet ainsi de gagner un
+   temps inestimable pour des chercheurs souvent impliqués dans de
+   nombreux projets de recherche, activités pédagogiques et
    administratives. Se pose cependant avec un outil comme ChatGPT la
-   question du plagiat incontrÃ´lÃ© (authenticitÃ© des sources). En effet,
-   contrairement Ã  ce quâ€™on pourrait penser ChatGPT nâ€™est pas intelligent,
-   il nâ€™est pas dotÃ© de crÃ©ativitÃ© ni dâ€™esprit analytique. Il ne rÃ©flÃ©chit
-   donc pas et ne rÃ©dige pas de maniÃ¨re authentique. Il nâ€™est quâ€™un outil
-   capable de rassembler en un temps record des donnÃ©es ciblÃ©es et dâ€™en
-   faire une synthÃ¨se selon la frÃ©quence de leur apparition sur le web. Il
-   sâ€™appuie sur lâ€™opinion la plus rÃ©pandue (mainstream) et passe Ã  cÃ´tÃ©
+   question du plagiat incontrôlé (authenticité des sources). En effet,
+   contrairement à ce qu'on pourrait penser ChatGPT n'est pas intelligent,
+   il n'est pas doté de créativité ni d'esprit analytique. Il ne réfléchit
+   donc pas et ne rédige pas de manière authentique. Il n'est qu'un outil
+   capable de rassembler en un temps record des données ciblées et d'en
+   faire une synthèse selon la fréquence de leur apparition sur le web. Il
+   s'appuie sur l'opinion la plus répandue (mainstream) et passe à côté
    des nuances, des opinions minoritaires et des controverses
-   scientifiques. Le manque de recul qui en dÃ©coule est problÃ©matique pour
-   la recherche qui sâ€™appuie sur le principe de la contradiction. Câ€™est
-   tout le contraire dâ€™une logique scientifique rigoureuse basÃ©e sur des
-   preuves (falsifiabilitÃ©), la reproductibilitÃ© (des rÃ©sultats), la
-   fiabilitÃ© (sources ou outils de mesure) et la validitÃ© (rÃ©sultats
+   scientifiques. Le manque de recul qui en découle est problématique pour
+   la recherche qui s'appuie sur le principe de la contradiction. C'est
+   tout le contraire d'une logique scientifique rigoureuse basée sur des
+   preuves (falsifiabilité), la reproductibilité (des résultats), la
+   fiabilité (sources ou outils de mesure) et la validité (résultats
    obtenus).
 
-   [46]4 Dans lâ€™enseignement, ChatGPT (version 4) peut rÃ©diger sur demande
-   une dissertation, traiter un sujet dâ€™exposÃ©, Ã©crire un mÃ©moire, etc.
-   Câ€™est donc le principe mÃªme de lâ€™Ã©valuation et du contrÃ´le de la
-   connaissance qui est largement remis en cause. Lâ€™usage de ChatGPT
-   renvoie Ã©galement Ã  la thÃ©matique du remplacement de lâ€™enseignant par
-   une IA car ChatGPT est un mentor, un pÃ©dagogue qui apporte des rÃ©ponses
-   en un temps record sur une infinitÃ© de sujets aux Ã©tudiants. Dans ce
-   cadre, il pourrait Ãªtre tentant pour de nombreux enseignants
-   dâ€™interdire Ã  leurs Ã©tudiants lâ€™usage dâ€™un outil comme ChatGPT.
+   [46]4 Dans l'enseignement, ChatGPT (version 4) peut rédiger sur demande
+   une dissertation, traiter un sujet d'exposé, écrire un mémoire, etc.
+   C'est donc le principe même de l'évaluation et du contrôle de la
+   connaissance qui est largement remis en cause. L'usage de ChatGPT
+   renvoie également à la thématique du remplacement de l'enseignant par
+   une IA car ChatGPT est un mentor, un pédagogue qui apporte des réponses
+   en un temps record sur une infinité de sujets aux étudiants. Dans ce
+   cadre, il pourrait être tentant pour de nombreux enseignants
+   d'interdire à leurs étudiants l'usage d'un outil comme ChatGPT.
 
-   [47]5 Lâ€™usage de ChapGPT dans les organisations pose enfin de nombreux
-   problÃ¨mes dans diffÃ©rents secteurs comme lâ€™industrie du film, du
-   cinÃ©ma, les mÃ©dias, etc. Dâ€™une part, comme toute IA, lâ€™impact de cet
-   outil sur les emplois actuels est non nÃ©gligeable et non mesurable Ã 
-   court terme. Depuis un moment, les acteurs et scÃ©naristes amÃ©ricains
-   font grÃ¨ve pour demander de meilleures conditions de salaires et de
-   travail, mais Ã©galement un encadrement de lâ€™usage de lâ€™IA (considÃ©rÃ©e
-   comme une Â« menace existentielle Â» pour tout le secteur). En effet,
-   depuis la rÃ©alisation du film de science-fiction Â« SALT Â» (2022)
-   intÃ©gralement par lâ€™IA, la menace nâ€™a jamais Ã©tÃ© aussi sÃ©rieuse dans
-   lâ€™industrie du cinÃ©ma. Dâ€™autant que lâ€™entrepreneur-rÃ©alisateur allemand
-   du film (Fabian Stelzer) nâ€™a pas suivi de formation artistique... En
-   France, lâ€™entreprise Onclusive (spÃ©cialisÃ©e dans la veille mÃ©diatique
-   et les relations publiques) a rÃ©cemment annoncÃ© la suppression
+   [47]5 L'usage de ChapGPT dans les organisations pose enfin de nombreux
+   problèmes dans différents secteurs comme l'industrie du film, du
+   cinéma, les médias, etc. D'une part, comme toute IA, l'impact de cet
+   outil sur les emplois actuels est non négligeable et non mesurable à
+   court terme. Depuis un moment, les acteurs et scénaristes américains
+   font grève pour demander de meilleures conditions de salaires et de
+   travail, mais également un encadrement de l'usage de l'IA (considérée
+   comme une « menace existentielle » pour tout le secteur). En effet,
+   depuis la réalisation du film de science-fiction « SALT » (2022)
+   intégralement par l'IA, la menace n'a jamais été aussi sérieuse dans
+   l'industrie du cinéma. D'autant que l'entrepreneur-réalisateur allemand
+   du film (Fabian Stelzer) n'a pas suivi de formation artistique... En
+   France, l'entreprise Onclusive (spécialisée dans la veille médiatique
+   et les relations publiques) a récemment annoncé la suppression
    de 217 postes, sur 383. En effet, dans quelques mois, la plupart de
-   leurs tÃ¢ches seront rÃ©alisÃ©es par une IA. Dâ€™autre part, lâ€™IA gÃ©nÃ©rative
-   type ChatGPT pose un problÃ¨me juridique de fond qui concerne les droits
-   dâ€™auteur (propriÃ©tÃ© intellectuelle). Puisquâ€™il nâ€™est pas possible de
-   connaÃ®tre les sources utilisÃ©es par cet outil, comment attribuer les
-   droits dâ€™auteur aux Å“uvres ainsi crÃ©Ã©es Ã  partir dâ€™autres ? Câ€™est donc
-   tout le modÃ¨le de lâ€™industrie culturelle (film, cinÃ©ma, ouvrages, etc.)
-   qui est aujourdâ€™hui Ã©branlÃ©.
+   leurs tâches seront réalisées par une IA. D'autre part, l'IA générative
+   type ChatGPT pose un problème juridique de fond qui concerne les droits
+   d'auteur (propriété intellectuelle). Puisqu'il n'est pas possible de
+   connaître les sources utilisées par cet outil, comment attribuer les
+   droits d'auteur aux oeuvres ainsi créées à partir d'autres ? C'est donc
+   tout le modèle de l'industrie culturelle (film, cinéma, ouvrages, etc.)
+   qui est aujourd'hui ébranlé.
 
-   [48]6 MalgrÃ© toutes les menaces que ChatGPT fait peser sur
-   lâ€™enseignement, la recherche et les organisations, il semble difficile,
-   voire impossible, dâ€™interdire son usage. Lâ€™interdiction nâ€™a jamais Ã©tÃ©
-   une solution efficace ou rÃ©aliste dans lâ€™enseignement et la recherche.
-   Elle nâ€™est pas non plus favorable Ã  lâ€™esprit dâ€™innovation et de
-   crÃ©ativitÃ© attendu dans le monde de lâ€™entreprise. Face Ã  une
-   technologie Ã©mergente, les peurs et les rÃ©sistances au changement ont
-   toujours existÃ©. La rÃ©action salutaire rÃ©side, Ã  notre sens, dans
-   lâ€™adaptation et lâ€™accompagnement pour un usage raisonnÃ© et raisonnable
-   de toute IA comme ChatGPT. Cela est dâ€™autant plus vrai que ChatGPT
-   comporte des atouts objectifs dans lâ€™aide Ã  la dÃ©cision. Keiper (2023)
+   [48]6 Malgré toutes les menaces que ChatGPT fait peser sur
+   l'enseignement, la recherche et les organisations, il semble difficile,
+   voire impossible, d'interdire son usage. L'interdiction n'a jamais été
+   une solution efficace ou réaliste dans l'enseignement et la recherche.
+   Elle n'est pas non plus favorable à l'esprit d'innovation et de
+   créativité attendu dans le monde de l'entreprise. Face à une
+   technologie émergente, les peurs et les résistances au changement ont
+   toujours existé. La réaction salutaire réside, à notre sens, dans
+   l'adaptation et l'accompagnement pour un usage raisonné et raisonnable
+   de toute IA comme ChatGPT. Cela est d'autant plus vrai que ChatGPT
+   comporte des atouts objectifs dans l'aide à la décision. Keiper (2023)
    montre par exemple que ChatGPT est un outil pertinent et efficace
-   dâ€™aide Ã  la gestion de projet pÃ©dagogique dans une facultÃ© de
-   management de sport. En effet, il peut assister les Ã©quipes dans
-   certaines tÃ¢ches comme la rÃ©daction dâ€™un email de prÃ©sentation dâ€™un
-   Ã©vÃ¨nement pÃ©dagogique (ex. module dâ€™apprentissage expÃ©rientiel),
-   lâ€™Ã©laboration dâ€™un formulaire Google, la crÃ©ation dâ€™un projet de
-   dÃ©pliant Ã©lectronique, etc.
+   d'aide à la gestion de projet pédagogique dans une faculté de
+   management de sport. En effet, il peut assister les équipes dans
+   certaines tâches comme la rédaction d'un email de présentation d'un
+   évènement pédagogique (ex. module d'apprentissage expérientiel),
+   l'élaboration d'un formulaire Google, la création d'un projet de
+   dépliant électronique, etc.
 
-   [49]7 Plusieurs pistes et perspectives dâ€™usage peuvent Ãªtre proposÃ©es
-   pour une utilisation intelligente de ChatGPT. Dans lâ€™enseignement, il
-   convient de revoir les modalitÃ©s pÃ©dagogiques dâ€™Ã©valuation des
-   apprenants. Ainsi, lâ€™examen sur table reste une solution efficace pour
-   contrÃ´ler les connaissances. Les modalitÃ©s dâ€™Ã©valuation des dossiers et
-   autres travaux (mÃ©moires, thÃ¨ses) doivent Ã©galement Ãªtre revues
-   (soutenance ou Ã©change direct plus systÃ©matique, rÃ©vision des grilles
+   [49]7 Plusieurs pistes et perspectives d'usage peuvent être proposées
+   pour une utilisation intelligente de ChatGPT. Dans l'enseignement, il
+   convient de revoir les modalités pédagogiques d'évaluation des
+   apprenants. Ainsi, l'examen sur table reste une solution efficace pour
+   contrôler les connaissances. Les modalités d'évaluation des dossiers et
+   autres travaux (mémoires, thèses) doivent également être revues
+   (soutenance ou échange direct plus systématique, révision des grilles
    de notation, validation sans note des dossiers en groupe, etc.).
-   Ã‰valuer davantage lâ€™esprit critique, le savoir-faire et le
-   savoir-penser plutÃ´t que des connaissances brutes sera nÃ©cessaire dans
-   un contexte ChatGPT. Former les Ã©quipes (enseignants, personnel
-   administratif) et les Ã©tudiants Ã  lâ€™usage correct de lâ€™IA gÃ©nÃ©rative
-   est Ã©galement souhaitable pour montrer ses forces et faiblesses, ce
-   quâ€™elle permet de faire et ses limites. Pour les enseignants, ces
-   outils intelligents peuvent aider Ã  lâ€™organisation de jeux de rÃ´les, la
-   crÃ©ation de quiz ou les traductions. Il convient de souligner que cela
-   fait de nombreuses annÃ©es que les pratiques pÃ©dagogiques sont
-   bousculÃ©es par des outils comme wikipedia, internet, les traducteurs
-   automatiques, etc. Lâ€™arrivÃ©e de ChatGPT est donc une suite assez
-   logique dans le cadre dâ€™une chronologie certainement non encore
+   Évaluer davantage l'esprit critique, le savoir-faire et le
+   savoir-penser plutôt que des connaissances brutes sera nécessaire dans
+   un contexte ChatGPT. Former les équipes (enseignants, personnel
+   administratif) et les étudiants à l'usage correct de l'IA générative
+   est également souhaitable pour montrer ses forces et faiblesses, ce
+   qu'elle permet de faire et ses limites. Pour les enseignants, ces
+   outils intelligents peuvent aider à l'organisation de jeux de rôles, la
+   création de quiz ou les traductions. Il convient de souligner que cela
+   fait de nombreuses années que les pratiques pédagogiques sont
+   bousculées par des outils comme wikipedia, internet, les traducteurs
+   automatiques, etc. L'arrivée de ChatGPT est donc une suite assez
+   logique dans le cadre d'une chronologie certainement non encore
    aboutie. En effet, Mostapha Suleyman, co-fondateur de Google DeepMing
-   et actuel PDG dâ€™Inflection AI, Ã©voque dÃ©jÃ  lâ€™IA interactive Ã 
-   venirâ€¯[50][1]. Il sâ€™agit dâ€™une forme dâ€™IA plus dynamique capable
-   dâ€™imaginer des actions toute seule si on lui accorde la permission.
+   et actuel PDG d'Inflection AI, évoque déjà l'IA interactive à
+   venir[50][1]. Il s'agit d'une forme d'IA plus dynamique capable
+   d'imaginer des actions toute seule si on lui accorde la permission.
 
-   [51]8 Dans le domaine de la recherche, lâ€™IA (type ChatGPT) peut
-   faciliter une premiÃ¨re approche bibliographique sur un sujet dâ€™Ã©tude
-   donnÃ©. Elle ne doit en aucun cas se substituer Ã  la lecture
-   approfondie, la rÃ©flexion, lâ€™analyse des controverses, etc. Elle ne
-   doit pas non plus Ãªtre un outil de base pour la sÃ©lection ou le rejet
-   des articles soumis dans les revues acadÃ©miques. Alors que ChatGPT peut
-   facilement produire des revues systÃ©matiques de littÃ©rature,
-   lâ€™enjeu â€“ comme le dÃ©fend la RFG en ayant lancÃ© un dossier spÃ©cial sur
-   le sujet qui paraÃ®tra lâ€™an prochainâ€¯[52][2] â€“ est ainsi pour les
-   chercheurs de produire des synthÃ¨ses narratives, et plus crÃ©atives, de
-   la littÃ©rature. Il appartient Ã©galement aux chercheurs dâ€™apporter plus
-   de diversitÃ© dans leur style de rÃ©daction, quâ€™une IA comme ChatGPT aura
-   plus de mal Ã  copier et reproduire. La standardisation normalisation de
-   la production scientifique, une rÃ©alitÃ© dans de nombreuses disciplines,
-   est donc lâ€™ennemi de la recherche dans un contexte dâ€™usage croissant
-   dâ€™outils comme ChatGPT. ParallÃ¨lement, il est nÃ©cessaire dâ€™accroÃ®tre le
-   contrÃ´le des processus dâ€™Ã©valuation des articles de recherche afin
-   dâ€™Ã©viter que des articles rÃ©digÃ©s avec ChatGPT soient publiÃ©s tels
-   quels, mauvais usage qui est dÃ©sormais frÃ©quent y compris dans des
-   revues diffusÃ©es par de grands Ã©diteursâ€¯[53][3]. Proposer des guides
-   dâ€™utilisation de ces outils par les chercheurs et favoriser la
-   transparence sont des enjeux actuels dans cette mÃªme logique.
+   [51]8 Dans le domaine de la recherche, l'IA (type ChatGPT) peut
+   faciliter une première approche bibliographique sur un sujet d'étude
+   donné. Elle ne doit en aucun cas se substituer à la lecture
+   approfondie, la réflexion, l'analyse des controverses, etc. Elle ne
+   doit pas non plus être un outil de base pour la sélection ou le rejet
+   des articles soumis dans les revues académiques. Alors que ChatGPT peut
+   facilement produire des revues systématiques de littérature,
+   l'enjeu - comme le défend la RFG en ayant lancé un dossier spécial sur
+   le sujet qui paraîtra l'an prochain[52][2] - est ainsi pour les
+   chercheurs de produire des synthèses narratives, et plus créatives, de
+   la littérature. Il appartient également aux chercheurs d'apporter plus
+   de diversité dans leur style de rédaction, qu'une IA comme ChatGPT aura
+   plus de mal à copier et reproduire. La standardisation normalisation de
+   la production scientifique, une réalité dans de nombreuses disciplines,
+   est donc l'ennemi de la recherche dans un contexte d'usage croissant
+   d'outils comme ChatGPT. Parallèlement, il est nécessaire d'accroître le
+   contrôle des processus d'évaluation des articles de recherche afin
+   d'éviter que des articles rédigés avec ChatGPT soient publiés tels
+   quels, mauvais usage qui est désormais fréquent y compris dans des
+   revues diffusées par de grands éditeurs[53][3]. Proposer des guides
+   d'utilisation de ces outils par les chercheurs et favoriser la
+   transparence sont des enjeux actuels dans cette même logique.
 
-   [54]9 Dans les organisations, il nous paraÃ®t essentiel dâ€™avoir une
-   discussion sur lâ€™appropriation des outils dâ€™IA comme ChatGPT, en tenant
-   compte des spÃ©cificitÃ©s sectorielles, avant dâ€™envisager les solutions Ã 
-   mettre en place. Comme dans lâ€™enseignement et la recherche, le scÃ©nario
-   gagnant est celui dâ€™un usage de ChatGPT comme outil dâ€™aide Ã  la
-   dÃ©cision (par exemple dans un projet pour lister des possibilitÃ©s qui
-   seront ensuite affinÃ©es par les Ã©quipes humaines). Il est important que
-   les utilisateurs de ces outils puissent assurer lâ€™authenticitÃ© des
-   sources pour le respect des droits dâ€™auteur et des modalitÃ©s de
-   compensation (par exemple dans le cinÃ©ma). Lâ€™usage dâ€™IA type ChatGPT
-   pourrait Ã©galement Ãªtre mis principalement au service de la
-   responsabilitÃ© sociale de lâ€™entreprise (comment rÃ©duire son empreinte
-   carbone ? Comment mieux accompagner les salariÃ©s en situation de
-   vulnÃ©rabilitÃ© ou de handicap ?â€¦). Il convient Ã©galement dans le
-   contexte du dÃ©rÃ¨glement climatique dâ€™avoir en tÃªte le coÃ»t
-   environnemental du fonctionnement de lâ€™IA, et de se demander si tous
+   [54]9 Dans les organisations, il nous paraît essentiel d'avoir une
+   discussion sur l'appropriation des outils d'IA comme ChatGPT, en tenant
+   compte des spécificités sectorielles, avant d'envisager les solutions à
+   mettre en place. Comme dans l'enseignement et la recherche, le scénario
+   gagnant est celui d'un usage de ChatGPT comme outil d'aide à la
+   décision (par exemple dans un projet pour lister des possibilités qui
+   seront ensuite affinées par les équipes humaines). Il est important que
+   les utilisateurs de ces outils puissent assurer l'authenticité des
+   sources pour le respect des droits d'auteur et des modalités de
+   compensation (par exemple dans le cinéma). L'usage d'IA type ChatGPT
+   pourrait également être mis principalement au service de la
+   responsabilité sociale de l'entreprise (comment réduire son empreinte
+   carbone ? Comment mieux accompagner les salariés en situation de
+   vulnérabilité ou de handicap ?...). Il convient également dans le
+   contexte du dérèglement climatique d'avoir en tête le coût
+   environnemental du fonctionnement de l'IA, et de se demander si tous
    les usages qui en sont faits sont bien utiles.
 
-   [55]10 Pour conclure, nous dirons que lâ€™Ã©thique (Stahl et Eke, 2024) et
-   lâ€™humain doivent Ãªtre au centre de toute IA. ChatGPT crÃ©e de nouvelles
-   opportunitÃ©s, mais pose aussi de nouveaux dÃ©fis quâ€™il est encore
-   impossible de prÃ©voir ou de cerner totalement. Dans lâ€™enseignement et
+   [55]10 Pour conclure, nous dirons que l'éthique (Stahl et Eke, 2024) et
+   l'humain doivent être au centre de toute IA. ChatGPT crée de nouvelles
+   opportunités, mais pose aussi de nouveaux défis qu'il est encore
+   impossible de prévoir ou de cerner totalement. Dans l'enseignement et
    la recherche comme dans les organisations, il convient de mettre en
    place des garde-fous pour un usage raisonnable, transparent et
-   intelligent de lâ€™IA gÃ©nÃ©rative.
+   intelligent de l'IA générative.
 
 Notes
 
@@ -268,8 +267,8 @@ Notes
        ctive-107777/?fbclid=IwAR3GhmnBJ3Jxl02obgr2ZuYqC6i0AEka7Sq5K0rYh5f0
        Zyxx9MZaQCHWL9E
      * [58][2]
-       La RFG a lancÃ© un appel Ã  contributions pour un dossier spÃ©cial
-       Â« Lâ€™IA dans les organisations Â» actant du besoin de recherches sur
+       La RFG a lancé un appel à contributions pour un dossier spécial
+       « L'IA dans les organisations » actant du besoin de recherches sur
        le sujet.
      * [59][3]
        [60]https://www.radiofrance.fr/franceculture/podcasts/avec-sciences
@@ -280,35 +279,35 @@ Bibliographie
 
      * Card S.K., Moran T.P. et Newell A. (1983). The Psychology of
        Human-Computer Interaction, Erlbaum, Hillsdale.
-     * Davis F.D. (1989). â€œPerceived usefulness, perceived ease of use,
-       and user acceptance of information technologyâ€, MIS Quarterly, vol.
-       13, nÂ° 3, p. 319-340.
+     * Davis F.D. (1989). "Perceived usefulness, perceived ease of use,
+       and user acceptance of information technology", MIS Quarterly, vol.
+       13, n° 3, p. 319-340.
      * Dimitropoulos K., Daras P., Manitsaris S., Fol Leymarie F. et
-       Calinon S. (2021). â€œArtificial intelligence and human movement in
-       industries and creationâ€, Frontiers in Robotics and AI, vol. 8,
-       nÂ° 712, p. 521.
-     * Keiper M.C. (2023). â€œChatGPT in practice : Increasing event
-       planning efficiency through artificial intelligenceâ€, Journal of
-       Hospitality, Leisure, Sport & Tourism Education, vol. 33, nÂ° 100,
+       Calinon S. (2021). "Artificial intelligence and human movement in
+       industries and creation", Frontiers in Robotics and AI, vol. 8,
+       n° 712, p. 521.
+     * Keiper M.C. (2023). "ChatGPT in practice : Increasing event
+       planning efficiency through artificial intelligence", Journal of
+       Hospitality, Leisure, Sport & Tourism Education, vol. 33, n° 100,
        p. 454.
-     * Mori M. (1970). â€œThe uncanny valleyâ€, Energy, vol. 7, nÂ° 4,
+     * Mori M. (1970). "The uncanny valley", Energy, vol. 7, n° 4,
        p. 33-35.
-     * Orlikowski W.J. et Robey D. (1991). â€œInformation technology and the
-       structuring of organizationsâ€, Information Systems Research, vol.
-       2, nÂ° 2, p. 143-169.
-     * Peres R., Schreier M., Schweidel D. et Sorescu A. (2023). â€œOn
+     * Orlikowski W.J. et Robey D. (1991). "Information technology and the
+       structuring of organizations", Information Systems Research, vol.
+       2, n° 2, p. 143-169.
+     * Peres R., Schreier M., Schweidel D. et Sorescu A. (2023). "On
        ChatGPT and beyond : How generative artificial intelligence may
-       affect research, teaching, and practiceâ€, International Journal of
-       Research in Marketing, vol. 40, nÂ° 2, p. 269-275.
-     * Stahl B.C. et Eke D. (2024, Ã  paraÃ®tre). â€œThe ethics of ChatGPT.
-       Exploring the ethical issues of an emerging technologyâ€,
-       International Journal of Information Management, vol. 74, nÂ° 102,
+       affect research, teaching, and practice", International Journal of
+       Research in Marketing, vol. 40, n° 2, p. 269-275.
+     * Stahl B.C. et Eke D. (2024, à paraître). "The ethics of ChatGPT.
+       Exploring the ethical issues of an emerging technology",
+       International Journal of Information Management, vol. 74, n° 102,
        p. 700.
 
 Auteur
 
    Mbaye Fall Diallo
-   Cette publication est la plus rÃ©cente de l'auteur sur Cairn.info.
+   Cette publication est la plus récente de l'auteur sur Cairn.info.
 
           Mis en ligne sur Cairn.info le 18/10/2023
           [61]https://doi.org/10.3166/rfg.312.09-14
@@ -319,19 +318,19 @@ Auteur
 
    (BUTTON) clear
 
-Citer cet article [65]FranÃ§ais[66]English
+Citer cet article [65]Français[66]English
 
-   ISO 690 FR [67]Copier DIALLO Mbaye Fall, Â« Ce que ChatGPT fait Ã 
-   lâ€™enseignement, Ã  la recherche et aux organisations Â», Revue franÃ§aise
-   de gestion, 2023/5 (NÂ° 312), p. 9-14. DOI : 10.3166/rfg.312.09-14. URL
+   ISO 690 FR [67]Copier DIALLO Mbaye Fall, « Ce que ChatGPT fait à
+   l'enseignement, à la recherche et aux organisations », Revue française
+   de gestion, 2023/5 (N° 312), p. 9-14. DOI : 10.3166/rfg.312.09-14. URL
    : https://www.cairn.info/revue-francaise-de-gestion-2023-5-page-9.htm
    ISO 690 EN [68]Copier
-   MLA FR [69]Copier Diallo, Mbaye Fall. Â« Ce que ChatGPT fait Ã 
-   lâ€™enseignement, Ã  la recherche et aux organisations Â», Revue franÃ§aise
+   MLA FR [69]Copier Diallo, Mbaye Fall. « Ce que ChatGPT fait à
+   l'enseignement, à la recherche et aux organisations », Revue française
    de gestion, vol. 312, no. 5, 2023, pp. 9-14.
    MLA EN [70]Copier
-   APA FR [71]Copier Diallo, M. (2023). Ce que ChatGPT fait Ã 
-   lâ€™enseignement, Ã  la recherche et aux organisations. Revue franÃ§aise de
+   APA FR [71]Copier Diallo, M. (2023). Ce que ChatGPT fait à
+   l'enseignement, à la recherche et aux organisations. Revue française de
    gestion, 312, 9-14. [72]https://doi.org/10.3166/rfg.312.09-14
    APA EN [73]Copier
    DOI [74]Copier [75]https://doi.org/10.3166/rfg.312.09-14
@@ -345,27 +344,27 @@ Exporter la citation
 
    Pour citer cet article
 
-   Distribution Ã©lectronique Cairn.info pour Lavoisier Â© Lavoisier. Tous
-   droits rÃ©servÃ©s pour tous pays. Il est interdit, sauf accord prÃ©alable
-   et Ã©crit de lâ€™Ã©diteur, de reproduire (notamment par photocopie)
-   partiellement ou totalement le prÃ©sent article, de le stocker dans une
-   banque de donnÃ©es ou de le communiquer au public sous quelque forme et
-   de quelque maniÃ¨re que ce soit.
+   Distribution électronique Cairn.info pour Lavoisier © Lavoisier. Tous
+   droits réservés pour tous pays. Il est interdit, sauf accord préalable
+   et écrit de l'éditeur, de reproduire (notamment par photocopie)
+   partiellement ou totalement le présent article, de le stocker dans une
+   banque de données ou de le communiquer au public sous quelque forme et
+   de quelque manière que ce soit.
 
    (BUTTON) clear
 
 Mon Cairn.info
 
-   Aujourdâ€™hui, Cairn diffuse plus de 400 000 articles de revues et en
-   ajoute 2 500 nouveaux tous les mois. Comment repÃ©rer lâ€™essentiel ?
+   Aujourd'hui, Cairn diffuse plus de 400 000 articles de revues et en
+   ajoute 2 500 nouveaux tous les mois. Comment repérer l'essentiel ?
    Comment ne rien laisser passer ?
 
-   CAIRN.INFO : MatiÃ¨res Ã  rÃ©flexion CAIRN.INFO : MatiÃ¨res Ã  rÃ©flexion
+   CAIRN.INFO : Matières à réflexion CAIRN.INFO : Matières à réflexion
    Avec le soutien du Avec leur soutien [82]CNL [83]CNRS
-     * [84]Ã€ propos
-     * [85]Ã‰diteurs
+     * [84]À propos
+     * [85]Éditeurs
      * [86]Particuliers
-     * [87]BibliothÃ¨ques
+     * [87]Bibliothèques
      * [88]Organisations
 
      * [89]Abonnement Cairn Pro
@@ -375,53 +374,52 @@ Mon Cairn.info
      * [93]Contact
 
      * [94]Cairn International (English)
-     * [95]Cairn Mundo (EspaÃ±ol)
-     * [96]Cairn Sciences (FranÃ§ais)
+     * [95]Cairn Mundo (Español)
+     * [96]Cairn Sciences (Français)
      * [97]Authentification hors campus
-     * [98]AccÃ¨s via UniversitÃ© de Nanterre - Paris 10
-     * [99]Aide
+     * [98]Aide
 
-   Â© Cairn.info 2023 | [100]Conditions gÃ©nÃ©rales dâ€™utilisation |
-   [101]Conditions gÃ©nÃ©rales de vente | [102]Politique de confidentialitÃ©
+   © Cairn.info 2023 | [99]Conditions générales d'utilisation |
+   [100]Conditions générales de vente | [101]Politique de confidentialité
 
-   Cairn.info | AccÃ¨s via UniversitÃ© de Nanterre - Paris 10
+   Cairn.info
 
-   [103]keyboard_arrow_up
+   [102]keyboard_arrow_up
 
    (BUTTON) clear
 
-Connexion fermÃ©e
+Connexion fermée
 
-   Vous avez Ã©tÃ© dÃ©connectÃ© car votre compte est utilisÃ© Ã  partir d'un
+   Vous avez été déconnecté car votre compte est utilisé à partir d'un
    autre appareil.
 
    Chargement
    Chargement en cours.
    Veuillez patienter...
 
-   [about.php?cairn_guest=2023112317007307193706]
+   [about.php?cairn_guest=2023112517009295848203]
 
-   Attention, (BUTTON) clear l'identifiant saisi ne correspond pas Ã  un
+   Attention, (BUTTON) clear l'identifiant saisi ne correspond pas à un
    compte Cairn.info.
 
    Attention, (BUTTON) clear le mot de passe saisi ne correspond pas au
    compte Cairn.info.
 
-   Attention, (BUTTON) clear erreur Ã  l'authentification.
+   Attention, (BUTTON) clear erreur à l'authentification.
 
 References
 
    Visible links:
    1. https://www.cairn.info/
-   2. https://www.cairn.info/
+   2. https://www.cairn.info/./
    3. javascript:void(0);
    4. javascript:void(0);
-   5. https://www.cairn.info/recherche_avancee.php?src1=Tx&word1=&operator1=&nparams=1
+   5. https://www.cairn.info/./recherche_avancee.php?src1=Tx&word1=&operator1=&nparams=1
    6. https://aide.cairn.info/article/113-comment-optimiser-mes-recherches-sur-cairn-info
    7. javascript:void(0);
-   8. https://www.cairn.info/mdp_oublie.php
-   9. https://www.cairn.info/creer_compte.php
-  10. https://aide.cairn.info/article/108-quelles-sont-les-publications-disponibles-dans-l-abonnement-de-mon-institution
+   8. https://www.cairn.info/./mdp_oublie.php
+   9. https://www.cairn.info/./creer_compte.php
+  10. https://www.cairn.info/./acces_hors.php?redirectOnSuccess=c%2F1gEcSbVvpZDBXkgHCIow%3D%3D_1OAeG9DDI9AAtM%2BdFgm%2FjeEc7mDGAFtu6UCwcY52JK7MRKAXE%2B9J1%2FtVOvUyhkJgqZ6Z3Nj%2Bs7Z2LD4mejuVYw%3D%3D
   11. javascript:void(0);
   12. https://www.cairn-int.info/
   13. https://www.cairn-int.info/
@@ -432,18 +430,18 @@ References
   18. https://www.cairn.info/que-sais-je-et-reperes.php
   19. https://www.cairn.info/magazines.php
   20. https://www.cairn.info/mon_cairn.php
-  21. https://www.cairn.info/
-  22. https://www.cairn.info/Accueil_Revues.php
-  23. https://www.cairn.info/revue-francaise-de-gestion.htm
-  24. https://www.cairn.info/revue-francaise-de-gestion-2023-5.htm
-  25. https://www.cairn.info/revue-francaise-de-gestion-2023-5.htm
-  26. https://www.cairn.info/connexion.php?from=suivre&type=publication-auteur-article&id=83024
-  27. https://www.cairn.info/publications-de-Mbaye-Fall-Diallo--83024.htm
+  21. https://www.cairn.info/./
+  22. https://www.cairn.info/./Accueil_Revues.php
+  23. https://www.cairn.info/./revue-francaise-de-gestion.htm
+  24. https://www.cairn.info/./revue-francaise-de-gestion-2023-5.htm
+  25. https://www.cairn.info/./revue-francaise-de-gestion-2023-5.htm
+  26. https://www.cairn.info/./connexion.php?from=suivre&type=publication-auteur-article&id=83024
+  27. https://www.cairn.info/./publications-de-Mbaye-Fall-Diallo--83024.htm
   28. https://www.cairn.info/revue-francaise-de-gestion.htm
   29. https://www.cairn.info/revue-francaise-de-gestion-2023-5.htm
   30. javascript:void(0);
-  31. https://www.cairn.info/connexion.php?from=ajoutBiblio&id=RFG_312_0007&type=biblio
-  32. https://www.cairn.info/connexion.php?from=suivre&type=nouveau-numero&id=RFG
+  31. https://www.cairn.info/./connexion.php?from=ajoutBiblio&id=RFG_312_0007&type=biblio
+  32. https://www.cairn.info/./connexion.php?from=suivre&type=nouveau-numero&id=RFG
   33. https://www.cairn.info/revue-francaise-de-gestion-2023-5-page-15.htm
   34. https://www.cairn.info/revue-francaise-de-gestion-2023-5-page-9.htm#article
   35. https://www.cairn.info/revue-francaise-de-gestion-2023-5-page-9.htm#bibliographie
@@ -474,8 +472,8 @@ References
   60. https://www.radiofrance.fr/franceculture/podcasts/avec-sciences/chatgpt-de-mauvais-usages-debusques-dans-des-articles-scientifiques-7411380
   61. https://doi.org/10.3166/rfg.312.09-14
   62. https://www.cairn.info/revue-francaise-de-gestion-2023-5-page-15.htm
-  63. https://www.cairn.info/connexion.php?from=ajoutBiblio&id=RFG_312_0007&type=biblio
-  64. https://www.cairn.info/connexion.php?from=suivre&type=nouveau-numero&id=RFG
+  63. https://www.cairn.info/./connexion.php?from=ajoutBiblio&id=RFG_312_0007&type=biblio
+  64. https://www.cairn.info/./connexion.php?from=suivre&type=nouveau-numero&id=RFG
   65. javascript:void(0);
   66. javascript:void(0);
   67. javascript:void(0);
@@ -489,32 +487,31 @@ References
   75. https://doi.org/10.3166/rfg.312.09-14
   76. https://www.cairn.info//Tools/exports/export-zotero.php?ID_ARTICLE=RFG_312_0007
   77. https://www.cairn.info//Tools/exports/export-endnote.php?ID_ARTICLE=RFG_312_0007
-  78. http://www.refworks.com/express/ExpressImport.asp?vendor=Cairn&filter=Refworks Tagged Format&encoding=65001&url=https://www.cairn.info//Tools/exports/export-refworks.php?ID_ARTICLE=RFG_312_0007
+  78. http://www.refworks.com/express/ExpressImport.asp?vendor=Cairn&filter=Refworks%20Tagged%20Format&encoding=65001&url=https://www.cairn.info//Tools/exports/export-refworks.php?ID_ARTICLE=RFG_312_0007
   79. https://www.cairn-int.info//Tools/exports/export-zotero.php?ID_ARTICLE=&cairnint
   80. https://www.cairn-int.info//Tools/exports/export-endnote.php?ID_ARTICLE=&cairnint
-  81. http://www.refworks.com/express/ExpressImport.asp?vendor=Cairn&filter=Refworks Tagged Format&encoding=65001&url=https://www.cairn-int.info//Tools/exports/export-refworks.php?ID_ARTICLE=&cairnint
+  81. http://www.refworks.com/express/ExpressImport.asp?vendor=Cairn&filter=Refworks%20Tagged%20Format&encoding=65001&url=https://www.cairn-int.info//Tools/exports/export-refworks.php?ID_ARTICLE=&cairnint
   82. http://www.centrenationaldulivre.fr/
   83. http://www.cnrs.fr/
-  84. https://www.cairn.info/a-propos.php
-  85. https://www.cairn.info/services-aux-editeurs.php
-  86. https://www.cairn.info/services-aux-particuliers.php
-  87. https://www.cairn.info/services-aux-institutions.php
-  88. https://www.cairn.info/services-aux-organisations.php
-  89. https://www.cairn.info/pro
-  90. https://www.cairn.info/listes-publiques.php
-  91. https://www.cairn.info/dossiers.php
-  92. https://www.cairn.info/rencontres.php
-  93. https://www.cairn.info/contact.php
+  84. https://www.cairn.info/./a-propos.php
+  85. https://www.cairn.info/./services-aux-editeurs.php
+  86. https://www.cairn.info/./services-aux-particuliers.php
+  87. https://www.cairn.info/./services-aux-institutions.php
+  88. https://www.cairn.info/./services-aux-organisations.php
+  89. https://www.cairn.info/./pro
+  90. https://www.cairn.info/./listes-publiques.php
+  91. https://www.cairn.info/./dossiers.php
+  92. https://www.cairn.info/./rencontres.php
+  93. https://www.cairn.info/./contact.php
   94. https://www.cairn-int.info/
   95. https://www.cairn-mundo.info/
   96. https://www.cairn-sciences.info/
-  97. https://www.cairn.info/acces_hors.php?redirectOnSuccess=jtraQ8yKFCmnSbXYzmDQ5A==_96r47Xl7J0rY3PA9+8OsxjfGEyR2Fv92u1wf2Q6qatrrainnrx2EOs0i38+7MlWrkpNNjRvMBbk7faQ6K3Y5Mw==
-  98. https://aide.cairn.info/article/108-quelles-sont-les-publications-disponibles-dans-l-abonnement-de-mon-institution
-  99. https://aide.cairn.info/
- 100. https://www.cairn.info/conditions.php
- 101. https://www.cairn.info/conditions-generales-de-vente.php
- 102. https://www.cairn.info/vie-privee.php
- 103. javascript:void(0);
+  97. https://www.cairn.info/./acces_hors.php?redirectOnSuccess=c%2F1gEcSbVvpZDBXkgHCIow%3D%3D_1OAeG9DDI9AAtM%2BdFgm%2FjeEc7mDGAFtu6UCwcY52JK7MRKAXE%2B9J1%2FtVOvUyhkJgqZ6Z3Nj%2Bs7Z2LD4mejuVYw%3D%3D
+  98. https://aide.cairn.info/
+  99. https://www.cairn.info/./conditions.php
+ 100. https://www.cairn.info/./conditions-generales-de-vente.php
+ 101. https://www.cairn.info/./vie-privee.php
+ 102. javascript:void(0);
 
    Hidden links:
- 105. javascript:void(0);
+ 104. javascript:void(0);

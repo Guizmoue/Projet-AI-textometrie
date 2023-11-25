@@ -8,16 +8,16 @@
 
    Select:
      * - - -
-     * [4]Espa√±a
-     * [5]Am√©rica
-          + [6]M√©xico
+     * [4]EspaÒa
+     * [5]AmÈrica
+          + [6]MÈxico
           + [7]Colombia
           + [8]Chile
           + [9]Argentina
      * [10]USA
 
    (BUTTON)
-   [11]EL PA√çS
+   [11]EL PAÕS
    [12]Technology
    [13]subscribe (BUTTON) HHOLA[14]LOG IN
    [15]Technology
@@ -30,7 +30,7 @@ Artificial intelligence guzzles billions of liters of water
 The growing thirst of data centers, which use water to cool their equipment,
 is beginning to cause tensions in the territories where they are located
 
-   Artificial intelligence Columns of steam emerge from Google‚Äôs hyper
+   Artificial intelligence Columns of steam emerge from Google's hyper
    data center in The Dalles, Oregon.
    Manuel G. Pascual
    [17]Manuel G. Pascual
@@ -40,7 +40,7 @@ is beginning to cause tensions in the territories where they are located
    paradox. Although the place is at the foot of the mighty Columbia
    River, its climate is practically desert-like: rainfall is scarce, and
    two summers ago the temperature reached 118 degrees Fahrenheit. The
-   threat of water restrictions has been hanging over the town‚Äôs 15,000
+   threat of water restrictions has been hanging over the town's 15,000
    inhabitants for some time now. This is why they were not happy to
    learn, at the beginning of the year, that more than 25% of the total
    consumption of that valuable resource is going to a Google data center,
@@ -70,12 +70,12 @@ is beginning to cause tensions in the territories where they are located
    growing complexity of the applications that are used every day demand
    more and more computing power, which translates into legions of
    computers running at maximum power day and night. Their energy
-   consumption already amounts to at least 2% of the world‚Äôs total. The
+   consumption already amounts to at least 2% of the world's total. The
    machines must be kept cool so they do not overheat: this can be done
    with ventilation systems similar to those used in personal computers,
    but cooling the processors with water is cheaper.
 
-   [22]The technological thirst is on the rise. Google‚Äôs water consumption
+   [22]The technological thirst is on the rise. Google's water consumption
    increased by 20% in 2022, according to figures provided by the company;
    that of Microsoft, owner of 75% of OpenAI (the creators of ChatGPT),
    increased by 34% in the same period. The water resources consumed in
@@ -89,15 +89,15 @@ is beginning to cause tensions in the territories where they are located
    The next most important company is Meta, the parent company of
    Facebook, Instagram, WhatsApp and Messenger, which used 2.7% more in
    2022. Meta plans to open a hyper data center in Talavera de la Reina,
-   Spain, which, as EL PA√çS reported, will consume more than 600 million
+   Spain, which, as EL PAÕS reported, will consume more than 600 million
    liters of drinking water annually. Company sources assure that the
    project is still on track, advancing at the pace set by the relevant
    regulations, although construction has not yet begun.
 
    How can we explain this sudden boom in water consumption by technology
    companies? Why is it lower for Meta or Apple than for Microsoft and
-   Google? On November 4, 2022, ChatGPT ‚Äî the chatbot that kicked off the
-   race for generative artificial intelligence (AI) ‚Äî was introduced to
+   Google? On November 4, 2022, ChatGPT -- the chatbot that kicked off the
+   race for generative artificial intelligence (AI) -- was introduced to
    the world. Google already had similar large language models, such as
    LaMDA, in the experimental phase, but they were not available to the
    public, as these models must be trained before they star working. This
@@ -107,27 +107,27 @@ is beginning to cause tensions in the territories where they are located
    In the case of GPT-4 (the most advanced version of ChatGPT to date),
    that training took place in Des Moines, Iowa, something that the local
    residents knew nothing about until a senior Microsoft official said in
-   a speech that it ‚Äúwas literally made next to cornfields west of Des
-   Moines,‚Äù according to Associated Press.
+   a speech that it "was literally made next to cornfields west of Des
+   Moines," according to Associated Press.
 
    The additional [23]effort to develop large AI models may have
    skyrocketed the water consumption of Google and Microsoft, the two
    technology companies that have invested the most in this technology.
    This is what researcher Shaolei Ren, associate professor of electrical
    and computer engineering at the University of California, Riverside,
-   and specialist in AI sustainability, believes. ‚ÄúWe cannot say it with
-   certainty if the companies don‚Äôt provide concrete data, but the
+   and specialist in AI sustainability, believes. "We cannot say it with
+   certainty if the companies don't provide concrete data, but the
    increase in 2022 was quite hefty compared to 2021, and we know that at
    that time they invested very heavily in generative AI, as well as in
-   other AI-related services,‚Äù he explains via email. ‚ÄúAI has been
-   integrated into almost all of Microsoft and Google‚Äôs everyday products,
-   including their search engines.‚Äù
+   other AI-related services," he explains via email. "AI has been
+   integrated into almost all of Microsoft and Google's everyday products,
+   including their search engines."
 
    Companies do not share data on how much extra water and energy it costs
    to train AI models compared to the usual consumption of data centers.
-   ‚ÄúWhat we do know, because the director of one of these infrastructures
+   "What we do know, because the director of one of these infrastructures
    confirmed it to me, is that the chips used in AI training consume much
-   more than those of common servers,‚Äù points out Ana Valdivia, professor
+   more than those of common servers," points out Ana Valdivia, professor
    of artificial intelligence, government and policy at the Oxford
    Internet Institute, whose most recent research focuses on assessing the
    environmental impact of AI.
@@ -142,23 +142,23 @@ is beginning to cause tensions in the territories where they are located
    process the commands.
 
    The affected companies offer other arguments. A Google spokeswoman says
-   that the large jump in water consumption in 2022 ‚Äúcorresponds to
-   business growth.‚Äù Microsoft‚Äôs response is almost verbatim.
+   that the large jump in water consumption in 2022 "corresponds to
+   business growth." Microsoft's response is almost verbatim.
 
    Other large technology companies, such as Meta (2.7%) or Apple (8.5%),
    have also had an increase in water consumption, but significantly
    smaller than those of Microsoft and Google. Even though they are
    business giants and their activity has grown, their commitment to AI is
    not so big. Although this technology is present in their applications,
-   they do not have large models similar to ChatGPT (or Google‚Äôs Bard, or
-   Microsoft‚Äôs Copilot).
+   they do not have large models similar to ChatGPT (or Google's Bard, or
+   Microsoft's Copilot).
 
 How water is consumed
 
    Data centers resemble industrial warehouses with multiple rooms. Each
-   of them contains rows of racks ‚Äî vertical units that house IT equipment
-   ‚Äî the height of a refrigerator. These rows are arranged in aisles, so
-   that operators can manipulate the circuits of each machine.
+   of them contains rows of racks -- vertical units that house IT
+   equipment -- the height of a refrigerator. These rows are arranged in
+   aisles, so that operators can manipulate the circuits of each machine.
 
    The servers emit heat, and the concentration of all that equipment in
    one place heightens this effect. Many data centers use cooling towers
@@ -173,17 +173,17 @@ How water is consumed
 
    This method is more energy efficient than electric coolers, but it
    involves a significant amount of water evaporating (i.e. not returning
-   to the circuit). That is the water that appears as ‚Äúconsumed‚Äù in the
-   technology companies‚Äô records, explains Ren‚Äôs study. Depending on the
+   to the circuit). That is the water that appears as "consumed" in the
+   technology companies' records, explains Ren's study. Depending on the
    outdoor wet-bulb temperature, a cooling tower typically consumes
    between one and four liters of water (up to nine in the summer) for
    every kWh of server power.
 
    Approximately 20% of the water used in cooling systems (that which does
    not evaporate) is discharged at the end of the cycle into wastewater
-   treatment plants. ‚ÄúThis water contains large amounts of minerals and
+   treatment plants. "This water contains large amounts of minerals and
    salt, so it cannot be used for human consumption without being treated
-   first,‚Äù explains Ren.
+   first," explains Ren.
 
    The average consumption of a data center is difficult to determine.
    Those in colder climates need less refrigeration; in the same way, the
@@ -198,37 +198,37 @@ Location matters
 
    Data centers used to be in cities, but the growing energy needs of
    these infrastructures have pushed them out of the urban environment,
-   which is unable to fulfill them. ‚ÄúThey also need a safe location, one
+   which is unable to fulfill them. "They also need a safe location, one
    that has a stable supply of electricity and is not at risk of climate
    catastrophe. For all these reasons, in the last two decades they have
-   gone to the outskirts,‚Äù explains Lorena Jaume-Palas√≠, founder of
+   gone to the outskirts," explains Lorena Jaume-PalasÌ, founder of
    [24]Algorithm Watch and [25]The Ethical Tech Society and science and
    technology advisor to the European Parliament.
 
-   ‚ÄúModern data centers are very extensive. They are usually located near
-   the desert or in agricultural areas, so they‚Äôre able to expand: it is
-   common for server modules to be set up and moved, according to needs,‚Äù
+   "Modern data centers are very extensive. They are usually located near
+   the desert or in agricultural areas, so they're able to expand: it is
+   common for server modules to be set up and moved, according to needs,"
    she says. [26]A study by Virginia Tech researchers estimates that
    one-fifth of U.S. data centers consume water from basins with moderate
    or high water stress, areas where solar or wind energy is usually
    available.
 
-   Aurora G√≥mez, from the Tu nube seca mi r√≠o (Your cloud dries my river)
+   Aurora GÛmez, from the Tu nube seca mi rÌo (Your cloud dries my river)
    collective, which was born as a reaction to the mega center that Meta
    will build in Talavera de la Reina (Spain), sees a pattern behind these
-   actions. ‚ÄúCompanies usually look for unpopulated areas with high
+   actions. "Companies usually look for unpopulated areas with high
    unemployment rates for their data centers, so that there is little
-   social opposition,‚Äù she points out.
+   social opposition," she points out.
 
 A problem with no prospect of solution
 
    The industry is clearly betting on integrating AI into more and more
    products and services. Is there a way to train AI models without
-   consuming large amounts of water? Ren thinks not. ‚ÄúElectric dryers
+   consuming large amounts of water? Ren thinks not. "Electric dryers
    could be used to cool the computers, but they use a lot of energy, so
    the water consumption involved in generating electricity would greatly
    increase. On paper it is possible not to use water in the process, but
-   I think it is very difficult,‚Äù concludes the academic.
+   I think it is very difficult," concludes the academic.
 
    That is what the companies argue, as they immerse themselves in their
    plans to improve the efficiency of their systems. According to Meta
@@ -246,15 +246,15 @@ A problem with no prospect of solution
    lower production and consumption levels. That is what degrowth theories
    maintain.
 
-   Valdivia does not think that digital degrowth is the solution. ‚ÄúIt
+   Valdivia does not think that digital degrowth is the solution. "It
    seems to me that holding people responsible for this consumption is the
    wrong approach. Besides, data centers are much more useful and socially
    necessary than, say, electric cars. There are alternatives to mobility:
    you can leave the car and take the bus or the train. But there is no
-   alternative to data centers.‚Äù
+   alternative to data centers."
 
    Sign up for [28]our weekly newsletter to get more English-language news
-   coverage from EL PA√çS USA Edition
+   coverage from EL PAÕS USA Edition
 
 More information
 
@@ -267,11 +267,11 @@ More information
 [32]ChatGPT requires half a liter of water to have a conversation: The blue
 tech conflict
 
-   [33]Luc√≠a Velasco
+   [33]LucÌa Velasco
 
 Archived In
 
-     * [34]Oreg√≥n
+     * [34]OregÛn
      * [35]Meta
      * [36]Google
      * [37]Microsoft
@@ -287,111 +287,110 @@ Archived In
 
 [44]newsletter
 
-   Sign up to EL PA√çS in English Edition bulletin
+   Sign up to EL PAÕS in English Edition bulletin
 
 [45]Most viewed
 
     1. [46]Scientists paid large publishers over $1 billion in four years
        to have their studies published with open access
-    2. [47]The return of ‚ÄòSailor Moon‚Äô: How and why the warrior in
-       pigtails and a miniskirt who confronted the forces of evil has been
-       resurrected
-    3. [48]The mysterious death of Colombia‚Äôs celebrity hairstylist
-    4. [49]Chinese automaker BYD goes after Tesla‚Äôs throne with more than
-       300,000 electric cars sold in a month
-    5. [50]Who are the independents who have wrested control of OpenAI
-       from its founders?
+    2. [47]Black Friday 2023: When does it start and everything you need
+       to know
+    3. [48]The mysterious death of Colombia's celebrity hairstylist
+    4. [49]Zhongzhi, one of China's major shadow banks, declares itself
+       `severely insolvent'
+    5. [50]Dollarizing the economy: What does it mean and which countries
+       have implemented Javier Milei's proposal?
 
-   Recomendaciones EL PA√çS
+   Recomendaciones EL PAÕS
      * (BUTTON) Cursos
      * (BUTTON) Centros
-     * (BUTTON) Franc√©s online
-     * (BUTTON) Ingl√©s online
+     * (BUTTON) FrancÈs online
+     * (BUTTON) InglÈs online
      * (BUTTON) Italiano online
-     * (BUTTON) Alem√°n online
+     * (BUTTON) Alem·n online
      * (BUTTON) Crucigramas & Juegos
 
    (BUTTON)
    [51]Cursos
    [52]cursos
-   [53]Maestr√≠a en l√≠nea en Inteligencia Artificial
-   [54]Maestr√≠a en l√≠nea en Inteligencia Artificial
+   [53]MaestrÌa en lÌnea en Inteligencia Artificial
+   [54]MaestrÌa en lÌnea en Inteligencia Artificial
    [55]cursos
-   [56]Maestr√≠a en l√≠nea en Direcci√≥n de Empresas
-   [57]Maestr√≠a en l√≠nea en Direcci√≥n de Empresas
+   [56]MaestrÌa en lÌnea en DirecciÛn de Empresas
+   [57]MaestrÌa en lÌnea en DirecciÛn de Empresas
    [58]cursos
-   [59]Maestr√≠a a distancia en Project Management
-   [60]Maestr√≠a a distancia en Project Management
+   [59]MaestrÌa a distancia en Project Management
+   [60]MaestrÌa a distancia en Project Management
    [61]cursos
-   [62]Maestr√≠a en l√≠nea en Marketing Digital
-   [63]Maestr√≠a en l√≠nea en Marketing Digital
+   [62]MaestrÌa en lÌnea en Marketing Digital
+   [63]MaestrÌa en lÌnea en Marketing Digital
    [64]Centros
    [65]cursosonline
-   [66]Maestr√≠a en l√≠nea en Business Intelligence
-   [67]Maestr√≠a en l√≠nea en Business Intelligence
+   [66]MaestrÌa en lÌnea en Business Intelligence
+   [67]MaestrÌa en lÌnea en Business Intelligence
    [68]cursosonline
-   [69]Maestr√≠a en l√≠nea en Comercio Internacional
-   [70]Maestr√≠a en l√≠nea en Comercio Internacional
+   [69]MaestrÌa en lÌnea en Comercio Internacional
+   [70]MaestrÌa en lÌnea en Comercio Internacional
    [71]cursosonline
-   [72]Maestr√≠a a distancia en Direcci√≥n de Recursos Humanos
-   [73]Maestr√≠a a distancia en Direcci√≥n de Recursos Humanos
+   [72]MaestrÌa a distancia en DirecciÛn de Recursos Humanos
+   [73]MaestrÌa a distancia en DirecciÛn de Recursos Humanos
    [74]cursosonline
-   [75]Programa en l√≠nea en Project Finance Internacional
-   [76]Programa en l√≠nea en Project Finance Internacional
-   [77]Franc√©s online
+   [75]Programa en lÌnea en Project Finance Internacional
+   [76]Programa en lÌnea en Project Finance Internacional
+   [77]FrancÈs online
    [78]cursosingles
-   [79]Mejora tu franc√©s con 15 minutos al d√≠a
-   [80]Mejora tu franc√©s con 15 minutos al d√≠a
+   [79]Mejora tu francÈs con 15 minutos al dÌa
+   [80]Mejora tu francÈs con 15 minutos al dÌa
    [81]cursosingles
    [82]Disfruta de nuestras lecciones personalizadas, breves y divertidas.
    [83]Disfruta de nuestras lecciones personalizadas, breves y divertidas.
    [84]cursosingles
-   [85]Obtendr√° un diploma con estad√≠sticas de nivel, progresi√≥n y
-   participaci√≥n.
-   [86]Obtendr√° un diploma con estad√≠sticas de nivel, progresi√≥n y
-   participaci√≥n.
+   [85]Obtendr· un diploma con estadÌsticas de nivel, progresiÛn y
+   participaciÛn.
+   [86]Obtendr· un diploma con estadÌsticas de nivel, progresiÛn y
+   participaciÛn.
    [87]cursosingles
-   [88]21 d√≠as de prueba gratuita de nuestro curso de franc√©s ‚Äòonline‚Äô
-   [89]21 d√≠as de prueba gratuita de nuestro curso de franc√©s ‚Äòonline‚Äô
-   [90]Ingl√©s online
+   [88]21 dÌas de prueba gratuita de nuestro curso de francÈs `online'
+   [89]21 dÌas de prueba gratuita de nuestro curso de francÈs `online'
+   [90]InglÈs online
    [91]cursosingles
-   [92]Mejore su ingl√©s con EL PA√çS con 15 minutos al d√≠a
-   [93]Mejore su ingl√©s con EL PA√çS con 15 minutos al d√≠a
+   [92]Mejore su inglÈs con EL PAÕS con 15 minutos al dÌa
+   [93]Mejore su inglÈs con EL PAÕS con 15 minutos al dÌa
    [94]cursosingles
    [95]Disfrute de nuestras lecciones personalizadas, breves y divertidas
    [96]Disfrute de nuestras lecciones personalizadas, breves y divertidas
    [97]cursosingles
-   [98]Eval√∫e su nivel y obtenga un certificado
-   [99]Eval√∫e su nivel y obtenga un certificado
+   [98]Eval˙e su nivel y obtenga un certificado
+   [99]Eval˙e su nivel y obtenga un certificado
    [100]cursosingles
-   [101]Pruebe 21 d√≠as gratis y sin compromiso
-   [102]Pruebe 21 d√≠as gratis y sin compromiso
+   [101]Pruebe 21 dÌas gratis y sin compromiso
+   [102]Pruebe 21 dÌas gratis y sin compromiso
    [103]Italiano online
    [104]cursosingles
-   [105]Mejore su italiano con EL PA√çS con 15 minutos al d√≠a
-   [106]Mejore su italiano con EL PA√çS con 15 minutos al d√≠a
+   [105]Mejore su italiano con EL PAÕS con 15 minutos al dÌa
+   [106]Mejore su italiano con EL PAÕS con 15 minutos al dÌa
    [107]cursosingles
    [108]Disfrute de nuestras lecciones personalizadas, breves y divertidas
    [109]Disfrute de nuestras lecciones personalizadas, breves y divertidas
    [110]cursosingles
-   [111]Eval√∫e su nivel y obtenga un certificado
-   [112]Eval√∫e su nivel y obtenga un certificado
+   [111]Eval˙e su nivel y obtenga un certificado
+   [112]Eval˙e su nivel y obtenga un certificado
    [113]cursosingles
-   [114]Pruebe 21 d√≠as gratis y sin compromiso
-   [115]Pruebe 21 d√≠as gratis y sin compromiso
-   [116]Alem√°n online
+   [114]Pruebe 21 dÌas gratis y sin compromiso
+   [115]Pruebe 21 dÌas gratis y sin compromiso
+   [116]Alem·n online
    [117]cursosingles
-   [118]Las mejores oportunidades hablan alem√°n. Nuevo curso 'online'
-   [119]Las mejores oportunidades hablan alem√°n. Nuevo curso 'online'
+   [118]Las mejores oportunidades hablan alem·n. Nuevo curso 'online'
+   [119]Las mejores oportunidades hablan alem·n. Nuevo curso 'online'
    [120]cursosingles
    [121]Disfrute de nuestras lecciones personalizadas, breves y divertidas
    [122]Disfrute de nuestras lecciones personalizadas, breves y divertidas
    [123]cursosingles
-   [124]Eval√∫e su nivel y obtenga un certificado
-   [125]Eval√∫e su nivel y obtenga un certificado
+   [124]Eval˙e su nivel y obtenga un certificado
+   [125]Eval˙e su nivel y obtenga un certificado
    [126]cursosingles
-   [127]Pruebe 21 d√≠as gratis y sin compromiso
-   [128]Pruebe 21 d√≠as gratis y sin compromiso
+   [127]Pruebe 21 dÌas gratis y sin compromiso
+   [128]Pruebe 21 dÌas gratis y sin compromiso
    [129]Crucigramas & Juegos
    [130]juegos
    [131]Crucigramas minis
@@ -406,119 +405,119 @@ Archived In
    [140]Sopas de letras
    [141]Sopas de letras
 
-   Recomendaciones EL PA√çS
+   Recomendaciones EL PAÕS
      * (BUTTON) Cursos
      * (BUTTON) Centros
      * (BUTTON) Italiano online
-     * (BUTTON) Franc√©s online
-     * (BUTTON) Alem√°n online
+     * (BUTTON) FrancÈs online
+     * (BUTTON) Alem·n online
      * (BUTTON) Crucigramas & Juegos
 
    (BUTTON)
    [142]Cursos
    [143]cursos
-   [144]Maestr√≠a en Energ√≠as Renovables. Clases 100% en l√≠nea
-   [145]Maestr√≠a en Energ√≠as Renovables. Clases 100% en l√≠nea
+   [144]MaestrÌa en EnergÌas Renovables. Clases 100% en lÌnea
+   [145]MaestrÌa en EnergÌas Renovables. Clases 100% en lÌnea
    [146]cursos
-   [147]Maestr√≠a en Finanzas. Clases virtuales con servicio de consultas
-   [148]Maestr√≠a en Finanzas. Clases virtuales con servicio de consultas
+   [147]MaestrÌa en Finanzas. Clases virtuales con servicio de consultas
+   [148]MaestrÌa en Finanzas. Clases virtuales con servicio de consultas
    [149]cursos
-   [150]Maestr√≠a en Derecho Penal y Procesal Penal. Metodolog√≠a en l√≠nea
-   [151]Maestr√≠a en Derecho Penal y Procesal Penal. Metodolog√≠a en l√≠nea
+   [150]MaestrÌa en Derecho Penal y Procesal Penal. MetodologÌa en lÌnea
+   [151]MaestrÌa en Derecho Penal y Procesal Penal. MetodologÌa en lÌnea
    [152]cursos
-   [153]Maestr√≠a en Marketing y Direcci√≥n Comercial. Clases 100% en l√≠nea
-   [154]Maestr√≠a en Marketing y Direcci√≥n Comercial. Clases 100% en l√≠nea
+   [153]MaestrÌa en Marketing y DirecciÛn Comercial. Clases 100% en lÌnea
+   [154]MaestrÌa en Marketing y DirecciÛn Comercial. Clases 100% en lÌnea
    [155]Centros
    [156]cursosonline
-   [157]Maestr√≠a Oficial en Direcci√≥n de Empresas. Metodolog√≠a en l√≠nea
-   [158]Maestr√≠a Oficial en Direcci√≥n de Empresas. Metodolog√≠a en l√≠nea
+   [157]MaestrÌa Oficial en DirecciÛn de Empresas. MetodologÌa en lÌnea
+   [158]MaestrÌa Oficial en DirecciÛn de Empresas. MetodologÌa en lÌnea
    [159]cursosonline
-   [160]Maestr√≠a en Educaci√≥n Especial. Clases virtuales con servicio de
+   [160]MaestrÌa en EducaciÛn Especial. Clases virtuales con servicio de
    consultas
-   [161]Maestr√≠a en Educaci√≥n Especial. Clases virtuales con servicio de
+   [161]MaestrÌa en EducaciÛn Especial. Clases virtuales con servicio de
    consultas
    [162]cursosonline
-   [163]Especialidad en G√©nero y Justicia. Clases 100% en l√≠nea
-   [164]Especialidad en G√©nero y Justicia. Clases 100% en l√≠nea
+   [163]Especialidad en GÈnero y Justicia. Clases 100% en lÌnea
+   [164]Especialidad en GÈnero y Justicia. Clases 100% en lÌnea
    [165]cursosonline
-   [166]Descubra un completo Directorio de Centros de Formaci√≥n
-   [167]Descubra un completo Directorio de Centros de Formaci√≥n
+   [166]Descubra un completo Directorio de Centros de FormaciÛn
+   [167]Descubra un completo Directorio de Centros de FormaciÛn
    [168]Italiano online
    [169]cursosingles
-   [170]Mejore su italiano con solo 15 minutos al d√≠a
-   [171]Mejore su italiano con solo 15 minutos al d√≠a
+   [170]Mejore su italiano con solo 15 minutos al dÌa
+   [171]Mejore su italiano con solo 15 minutos al dÌa
    [172]cursosingles
    [173]Disfrute de nuestras lecciones personalizadas, breves y
    divertidas.
    [174]Disfrute de nuestras lecciones personalizadas, breves y
    divertidas.
    [175]cursosingles
-   [176]Obtendr√° un diploma con estad√≠sticas de nivel, progresi√≥n y
-   participaci√≥n.
-   [177]Obtendr√° un diploma con estad√≠sticas de nivel, progresi√≥n y
-   participaci√≥n.
+   [176]Obtendr· un diploma con estadÌsticas de nivel, progresiÛn y
+   participaciÛn.
+   [177]Obtendr· un diploma con estadÌsticas de nivel, progresiÛn y
+   participaciÛn.
    [178]cursosingles
-   [179]21 d√≠as de prueba gratuita. ¬°Empiece ya!
-   [180]21 d√≠as de prueba gratuita. ¬°Empiece ya!
-   [181]Franc√©s online
+   [179]21 dÌas de prueba gratuita. °Empiece ya!
+   [180]21 dÌas de prueba gratuita. °Empiece ya!
+   [181]FrancÈs online
    [182]cursosingles
-   [183]Mejore su franc√©s con solo 15 minutos al d√≠a
-   [184]Mejore su franc√©s con solo 15 minutos al d√≠a
+   [183]Mejore su francÈs con solo 15 minutos al dÌa
+   [184]Mejore su francÈs con solo 15 minutos al dÌa
    [185]cursosingles
    [186]Disfrute de nuestras lecciones personalizadas, breves y
    divertidas.
    [187]Disfrute de nuestras lecciones personalizadas, breves y
    divertidas.
    [188]cursosingles
-   [189]Obtendr√° un diploma con estad√≠sticas de nivel, progresi√≥n y
-   participaci√≥n.
-   [190]Obtendr√° un diploma con estad√≠sticas de nivel, progresi√≥n y
-   participaci√≥n.
+   [189]Obtendr· un diploma con estadÌsticas de nivel, progresiÛn y
+   participaciÛn.
+   [190]Obtendr· un diploma con estadÌsticas de nivel, progresiÛn y
+   participaciÛn.
    [191]cursosingles
-   [192]21 d√≠as de prueba gratuita. ¬°Empiece ya!
-   [193]21 d√≠as de prueba gratuita. ¬°Empiece ya!
-   [194]Alem√°n online
+   [192]21 dÌas de prueba gratuita. °Empiece ya!
+   [193]21 dÌas de prueba gratuita. °Empiece ya!
+   [194]Alem·n online
    [195]cursosingles
-   [196]Las mejores oportunidades hablan alem√°n. Nuevo curso 'online'
-   [197]Las mejores oportunidades hablan alem√°n. Nuevo curso 'online'
+   [196]Las mejores oportunidades hablan alem·n. Nuevo curso 'online'
+   [197]Las mejores oportunidades hablan alem·n. Nuevo curso 'online'
    [198]cursosingles
    [199]Disfrute de nuestras lecciones personalizadas, breves y
    divertidas.
    [200]Disfrute de nuestras lecciones personalizadas, breves y
    divertidas.
    [201]cursosingles
-   [202]Obtendr√° un diploma con estad√≠sticas de nivel, progresi√≥n y
-   participaci√≥n.
-   [203]Obtendr√° un diploma con estad√≠sticas de nivel, progresi√≥n y
-   participaci√≥n.
+   [202]Obtendr· un diploma con estadÌsticas de nivel, progresiÛn y
+   participaciÛn.
+   [203]Obtendr· un diploma con estadÌsticas de nivel, progresiÛn y
+   participaciÛn.
    [204]cursosingles
-   [205]21 d√≠as de prueba gratuita. ¬°Empiece ya!
-   [206]21 d√≠as de prueba gratuita. ¬°Empiece ya!
+   [205]21 dÌas de prueba gratuita. °Empiece ya!
+   [206]21 dÌas de prueba gratuita. °Empiece ya!
    [207]Crucigramas & Juegos
    [208]juegos
-   [209]¬°Disfruta con nuestros Crucigramas para expertos!
-   [210]¬°Disfruta con nuestros Crucigramas para expertos!
+   [209]°Disfruta con nuestros Crucigramas para expertos!
+   [210]°Disfruta con nuestros Crucigramas para expertos!
    [211]juegos
-   [212]Resuelve los √∫ltimos Crucigramas de Mambrino
-   [213]Resuelve los √∫ltimos Crucigramas de Mambrino
+   [212]Resuelve los ˙ltimos Crucigramas de Mambrino
+   [213]Resuelve los ˙ltimos Crucigramas de Mambrino
    [214]juegos
-   [215]Juega a nuestros Sudoku para Expertos y mejora d√≠a a d√≠a tu nivel
-   [216]Juega a nuestros Sudoku para Expertos y mejora d√≠a a d√≠a tu nivel
+   [215]Juega a nuestros Sudoku para Expertos y mejora dÌa a dÌa tu nivel
+   [216]Juega a nuestros Sudoku para Expertos y mejora dÌa a dÌa tu nivel
    [217]juegos
-   [218]Juega a las nuevas Sopas de letras cl√°sicas y tem√°ticas de EL PA√çS
-   [219]Juega a las nuevas Sopas de letras cl√°sicas y tem√°ticas de EL PA√çS
+   [218]Juega a las nuevas Sopas de letras cl·sicas y tem·ticas de EL PAÕS
+   [219]Juega a las nuevas Sopas de letras cl·sicas y tem·ticas de EL PAÕS
    _
    _
 
-Inicia sesi√≥n o reg√≠strate gratis para continuar leyendo en inc√≥gnito
+Inicia sesiÛn o regÌstrate gratis para continuar leyendo en incÛgnito
 
-   [220]Reg√≠strate gratis[221]Inicia sesi√≥n
+   [220]RegÌstrate gratis[221]Inicia sesiÛn
 
-   Suscr√≠bete y lee sin l√≠mites
-   [222]Ver opciones de suscripci√≥n
+   SuscrÌbete y lee sin lÌmites
+   [222]Ver opciones de suscripciÛn
    (BUTTON)
    HOLA
-   [223]Subscribe for ‚Ç¨ 1
+   [223]Subscribe for EUR 1
      * [224]My activity
      * [225]My Subscription
      * [226]My personal data
@@ -532,16 +531,16 @@ Inicia sesi√≥n o reg√≠strate gratis para continuar leyendo en inc√≥gnito
    Buscar ____________________ (BUTTON)
    Select:
      * - - -
-     * [231]Espa√±a
-     * [232]Am√©rica
-          + [233]M√©xico
+     * [231]EspaÒa
+     * [232]AmÈrica
+          + [233]MÈxico
           + [234]Colombia
           + [235]Chile
           + [236]Argentina
      * [237]USA
 
    If you want to follow all the latest news without any limits, subscribe
-   to EL PA√çS for just ‚Ç¨1 the first month
+   to EL PAÕS for just EUR1 the first month
    [238]SUBSCRIBE NOW
 
      * [239]International
@@ -559,7 +558,6 @@ Inicia sesi√≥n o reg√≠strate gratis para continuar leyendo en inc√≥gnito
      * [251]EPS
      * [252]Latest News
 
-   [253]
    Newsletter
    Follow on:
 
@@ -578,8 +576,8 @@ References
   10. https://english.elpais.com/
   11. https://english.elpais.com/
   12. https://english.elpais.com/technology/
-  13. https://elpais.com/suscripciones/#/campaign?prod=SUSDIG&o=boton_cab&backURL=https://english.elpais.com/technology/2023-11-15/artificial-intelligence-guzzles-billions-of-liters-of-water.html
-  14. https://english.elpais.com/subscriptions/#/sign-in?prod=REGEN&o=CABEP&backURL=https://english.elpais.com/technology/2023-11-15/artificial-intelligence-guzzles-billions-of-liters-of-water.html
+  13. https://elpais.com/suscripciones/#/campaign?prod=SUSDIG&o=boton_cab&backURL=https%3A%2F%2Fenglish.elpais.com%2Ftechnology%2F2023-11-15%2Fartificial-intelligence-guzzles-billions-of-liters-of-water.html
+  14. https://english.elpais.com/subscriptions/#/sign-in?prod=REGEN&o=CABEP&backURL=https%3A%2F%2Fenglish.elpais.com%2Ftechnology%2F2023-11-15%2Fartificial-intelligence-guzzles-billions-of-liters-of-water.html
   15. https://english.elpais.com/technology/
   16. https://english.elpais.com/technology/
   17. https://english.elpais.com/author/manuel-gonzalez-pascual/#?rel=author_top
@@ -612,10 +610,10 @@ References
   44. https://plus.elpais.com/newsletters/lnp/1/333/#?prm=not_newsletters_english
   45. https://elpais.com/lomasvisto/
   46. https://english.elpais.com/science-tech/2023-11-21/scientists-paid-large-publishers-over-1-billion-in-four-years-to-have-their-studies-published-with-open-access.html#?rel=lom
-  47. https://english.elpais.com/culture/2023-11-20/the-return-of-sailor-moon-how-and-why-the-warrior-in-pigtails-and-a-miniskirt-who-confronted-the-forces-of-evil-has-been-resurrected.html#?rel=lom
+  47. https://english.elpais.com/economy-and-business/2023-11-23/black-friday-2023-when-does-it-start-and-everything-you-need-to-know.html#?rel=lom
   48. https://english.elpais.com/usa/2022-01-18/the-mysterious-death-of-colombias-celebrity-hairstylist.html#?rel=lom
-  49. https://english.elpais.com/economy-and-business/2023-11-21/chinese-automaker-byd-goes-after-teslas-throne-with-more-than-300000-electric-cars-sold-in-a-month.html#?rel=lom
-  50. https://english.elpais.com/economy-and-business/2023-11-21/who-are-the-independents-who-have-wrested-control-of-openai-from-its-founders.html#?rel=lom
+  49. https://english.elpais.com/economy-and-business/2023-11-24/zhongzhi-one-of-chinas-major-shadow-banks-declares-itself-severely-insolvent.html#?rel=lom
+  50. https://english.elpais.com/economy-and-business/2023-11-24/dollarizing-the-economy-what-does-it-mean-and-which-countries-have-implemented-javier-mileis-proposal.html#?rel=lom
   51. https://www.emagister.com.mx/landing/main/?pfichas=11117&utm_source=elpais_america&utm_medium=cpl&utm_content=logo_widget_america&utm_campaign=logo_widget_america
   52. https://www.emagister.com/cursolanding?idBusqueda=3595570&sid=3&pfichas=18276&utm_source=elpais_america&utm_medium=cpl&utm_content=widget_america_home_cursos_1&utm_campaign=inteligencia_artificial_imf
   53. https://www.emagister.com/cursolanding?idBusqueda=3595570&sid=3&pfichas=18276&utm_source=elpais_america&utm_medium=cpl&utm_content=widget_america_home_cursos_1&utm_campaign=inteligencia_artificial_imf
@@ -707,7 +705,7 @@ References
  139. https://elpais.com/juegos/sopas-de-letras/#?int=juegos_widgetamerica
  140. https://elpais.com/juegos/sopas-de-letras/#?int=juegos_widgetamerica
  141. https://elpais.com/juegos/sopas-de-letras/#?int=juegos_widgetamerica
- 142. https://cursoselpais.mx/?sid=48&pfichas=28392&utm_source=elpais&utm_medium=cpl&utm_content=Cursos_ElPa√≠s_M√©xico_Directorio&utm_campaign=logo_widget_elpais_mexico
+ 142. https://cursoselpais.mx/?sid=48&pfichas=28392&utm_source=elpais&utm_medium=cpl&utm_content=Cursos_ElPa%C3%ADs_M%C3%A9xico_Directorio&utm_campaign=logo_widget_elpais_mexico
  143. https://www.emagister.com.mx/cursolanding?idBusqueda=831538&sid=3&pfichas=27361&utm_source=elpais_mexico&utm_medium=cpl&utm_content=widget_mexico_home_cursos_1&utm_campaign=energias_renovables_imf
  144. https://www.emagister.com.mx/cursolanding?idBusqueda=831538&sid=3&pfichas=27361&utm_source=elpais_mexico&utm_medium=cpl&utm_content=widget_mexico_home_cursos_1&utm_campaign=energias_renovables_imf
  145. https://www.emagister.com.mx/cursolanding?idBusqueda=831538&sid=3&pfichas=27361&utm_source=elpais_mexico&utm_medium=cpl&utm_content=widget_mexico_home_cursos_1&utm_campaign=energias_renovables_imf
@@ -720,7 +718,7 @@ References
  152. https://www.emagister.com.mx/cursolanding?idBusqueda=831543?sid=3&pfichas=27364&utm_source=elpais_mexico&utm_medium=cpl&utm_content=widget_mexico_home_cursos_4&utm_campaign=marketing_comercial_imf
  153. https://www.emagister.com.mx/cursolanding?idBusqueda=831543?sid=3&pfichas=27364&utm_source=elpais_mexico&utm_medium=cpl&utm_content=widget_mexico_home_cursos_4&utm_campaign=marketing_comercial_imf
  154. https://www.emagister.com.mx/cursolanding?idBusqueda=831543?sid=3&pfichas=27364&utm_source=elpais_mexico&utm_medium=cpl&utm_content=widget_mexico_home_cursos_4&utm_campaign=marketing_comercial_imf
- 155. https://cursoselpais.mx/?sid=48&pfichas=28392&utm_source=elpais&utm_medium=cpl&utm_content=Cursos_ElPa√≠s_M√©xico_Directorio&utm_campaign=logo_widget_elpais_mexico
+ 155. https://cursoselpais.mx/?sid=48&pfichas=28392&utm_source=elpais&utm_medium=cpl&utm_content=Cursos_ElPa%C3%ADs_M%C3%A9xico_Directorio&utm_campaign=logo_widget_elpais_mexico
  156. https://www.emagister.com.mx/cursolanding?idBusqueda=2481768&sid=3&pfichas=27365&utm_source=elpais_mexico&utm_medium=cpl&utm_content=widget_mexico_home_centros_1&utm_campaign=direccion_empresas_imf
  157. https://www.emagister.com.mx/cursolanding?idBusqueda=2481768&sid=3&pfichas=27365&utm_source=elpais_mexico&utm_medium=cpl&utm_content=widget_mexico_home_centros_1&utm_campaign=direccion_empresas_imf
  158. https://www.emagister.com.mx/cursolanding?idBusqueda=2481768&sid=3&pfichas=27365&utm_source=elpais_mexico&utm_medium=cpl&utm_content=widget_mexico_home_centros_1&utm_campaign=direccion_empresas_imf
@@ -788,14 +786,14 @@ References
  220. https://elpais.com/subscriptions/#/register?prm=popup_incognito_registro_ep.com&prod=REGINCOG&o=incognito
  221. https://elpais.com/subscriptions/#/sign-in?prm=popup_incognito_login_ep.com&prod=REGINCOG&o=incognito
  222. https://elpais.com/suscripciones/#/campaign?prm=suscrip_popup_incognito_ep.com&prod=SUSDIG&o=incognito
- 223. https://elpais.com/suscripciones/#/campaign?prod=SUSDIGCRART&o=login_ep&backURL=https://english.elpais.com/technology/2023-11-15/artificial-intelligence-guzzles-billions-of-liters-of-water.html
+ 223. https://elpais.com/suscripciones/#/campaign?prod=SUSDIGCRART&o=login_ep&backURL=https%3A%2F%2Fenglish.elpais.com%2Ftechnology%2F2023-11-15%2Fartificial-intelligence-guzzles-billions-of-liters-of-water.html
  224. https://plus.elpais.com/perfil/actividad/?lang=en?rel=areausuario
  225. https://english.elpais.com/subscriptions/#/manage?rel=areausuario
  226. https://english.elpais.com/subscriptions/#/profile?rel=areausuario
  227. https://plus.elpais.com/perfil/newsletters/?lang=en?rel=areausuario
  228. https://plus.elpais.com/perfil/baja/?lang=en?rel=areausuario
  229. https://elpais.com/suscripciones/elpaismas.html?rel=areausuario
- 230. https://english.elpais.com/subscriptions/#/sign-out?backURL=https://english.elpais.com/technology/2023-11-15/artificial-intelligence-guzzles-billions-of-liters-of-water.html
+ 230. https://english.elpais.com/subscriptions/#/sign-out?backURL=https%3A%2F%2Fenglish.elpais.com%2Ftechnology%2F2023-11-15%2Fartificial-intelligence-guzzles-billions-of-liters-of-water.html
  231. https://elpais.com/
  232. https://elpais.com/america/
  233. https://elpais.com/mexico/
@@ -803,7 +801,7 @@ References
  235. https://elpais.com/chile/
  236. https://elpais.com/argentina/
  237. https://english.elpais.com/
- 238. https://elpais.com/suscripciones/#/campaign?prod=SUSDIG&o=boton_cab&backURL=https://english.elpais.com/technology/2023-11-15/artificial-intelligence-guzzles-billions-of-liters-of-water.html
+ 238. https://elpais.com/suscripciones/#/campaign?prod=SUSDIG&o=boton_cab&backURL=https%3A%2F%2Fenglish.elpais.com%2Ftechnology%2F2023-11-15%2Fartificial-intelligence-guzzles-billions-of-liters-of-water.html
  239. https://english.elpais.com/international/
  240. https://english.elpais.com/usa/
  241. https://english.elpais.com/economy-and-business/
@@ -818,14 +816,14 @@ References
  250. https://english.elpais.com/sports/
  251. https://english.elpais.com/eps/
  252. https://english.elpais.com/latest-news/
- 253. https://plus.elpais.com/newsletters/#?lang=en&prm=nwl_ham_ep
 
    Hidden links:
- 255. whatsapp://send/?text=Artificial%20intelligence%20guzzles%20billions%20of%20liters%20of%20water%20%20%0D%0A%0D%0Ahttps%3A%2F%2Fenglish.elpais.com%2Ftechnology%2F2023-11-15%2Fartificial-intelligence-guzzles-billions-of-liters-of-water.html%3Fssm=whatsapp_CC
- 256. https://www.facebook.com/dialog/share?display=popup&app_id=94039431626&href=https%3A%2F%2Fenglish.elpais.com%2Ftechnology%2F2023-11-15%2Fartificial-intelligence-guzzles-billions-of-liters-of-water.html%3Fssm=FB_CC&quote=Artificial%20intelligence%20guzzles%20billions%20of%20liters%20of%20water%20%20
- 257. https://twitter.com/intent/tweet?url=https%3A%2F%2Fenglish.elpais.com%2Ftechnology%2F2023-11-15%2Fartificial-intelligence-guzzles-billions-of-liters-of-water.html%3Fssm=TW_CC&text=Artificial%20intelligence%20guzzles%20billions%20of%20liters%20of%20water%20%20&via=elpaisinenglish&lang=en
- 258. https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fenglish.elpais.com%2Ftechnology%2F2023-11-15%2Fartificial-intelligence-guzzles-billions-of-liters-of-water.html%3Fssm=LK_CC
- 259. https://english.elpais.com/technology/2023-11-15/artificial-intelligence-guzzles-billions-of-liters-of-water.html#?prm=copy_link
+ 254. whatsapp://send/?text=Artificial%20intelligence%20guzzles%20billions%20of%20liters%20of%20water%20%20%0D%0A%0D%0Ahttps%3A%2F%2Fenglish.elpais.com%2Ftechnology%2F2023-11-15%2Fartificial-intelligence-guzzles-billions-of-liters-of-water.html%3Fssm=whatsapp_CC
+ 255. https://www.facebook.com/dialog/share?display=popup&app_id=94039431626&href=https%3A%2F%2Fenglish.elpais.com%2Ftechnology%2F2023-11-15%2Fartificial-intelligence-guzzles-billions-of-liters-of-water.html%3Fssm=FB_CC&quote=Artificial%20intelligence%20guzzles%20billions%20of%20liters%20of%20water%20%20
+ 256. https://twitter.com/intent/tweet?url=https%3A%2F%2Fenglish.elpais.com%2Ftechnology%2F2023-11-15%2Fartificial-intelligence-guzzles-billions-of-liters-of-water.html%3Fssm=TW_CC&text=Artificial%20intelligence%20guzzles%20billions%20of%20liters%20of%20water%20%20&via=elpaisinenglish&lang=en
+ 257. https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fenglish.elpais.com%2Ftechnology%2F2023-11-15%2Fartificial-intelligence-guzzles-billions-of-liters-of-water.html%3Fssm=LK_CC
+ 258. https://english.elpais.com/technology/2023-11-15/artificial-intelligence-guzzles-billions-of-liters-of-water.html#?prm=copy_link
+ 259. https://plus.elpais.com/newsletters/#?lang=en&prm=nwl_ham_ep
  260. https://www.facebook.com/elpaisinenglish
  261. https://twitter.com/elpaisinenglish
  262. https://www.youtube.com/user/elpaiscom
