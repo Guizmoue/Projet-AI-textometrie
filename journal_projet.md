@@ -19,18 +19,22 @@ Cette commande permet, avec lynx auquel on ajoute l'option -dump, de récupérer
 
 ### Compter les occurrences du mot étudié
 
-
+Le comptage des occurrences du mot étudié se font avec l'expression régulière et la commande "wc".
+grep prend -w, -i et -E comme option pour repérer les mots entiers avec l'ignorance de la casse. Les mots mis en recherche sont "IA, intelligence artificielle" pour le français et "AI, artificial intelligence" pour l'anglais.
+Une fois que les occurrences sont retrouvés grâce à "grep", on passe à l'étape suivante pour les compter.
+Comme on veut uniquement le nombre des occurrences, on utilise l'option "-w" de la commande "wc".
+Voici la commande complète :
+compte=$(grep -w -i -E "(IA|intelligence artificielle|AI|artificial intelligence)" "../dumps-text/${lang}-${lineno}.txt" | wc -w)
 
 ### Contexte
 
+Concernant le contexte, le but est de repérer les N lignes d'avant et d'après du mot clé. Pour cela, on peut se servir de l'option "-C NUM" de la commande "grep". Si on veut les 2 lignes qui entourent le mot en recherche, la commande sera : 
+Contextes=$(grep -w -i -E -o -C 2 "(IA|intelligence artificielle|AI|artificial intelligence)" "../dumps-text/${lang}-${lineno}.txt" > "../Contextes/${lang}-${lineno}.txt")
 
+Quelques commentaires à mettre en place : 
+l'utilisation de l'option "-o" permet de montrer seulement les résultats qu'on trouve dans la sortie standard. Ensuite, on les dirige vers les fichiers nommés par le nom de la langue et par l'indice de liens.
 
 ### Difficultés
 
 Nous avons rencontré des difficultés pour le traitement des pages en chinois.
-
-
-
-
-
-
+On n'a pas réussi à récupérer les données depuis les sites en chinois parce que certains sont énormément écrits en JavaScripts et certains montrent un refus à cause de la location de notre serveur. De ce fait, on est actuellement bloqués devant les sites en chinois à défaut de solution.
