@@ -38,3 +38,29 @@ l'utilisation de l'option "-o" permet de montrer seulement les résultats qu'on 
 
 Nous avons rencontré des difficultés pour le traitement des pages en chinois.
 On n'a pas réussi à récupérer les données depuis les sites en chinois parce que certains sont énormément écrits en JavaScripts et certains montrent un refus à cause de la location de notre serveur. De ce fait, on est actuellement bloqués devant les sites en chinois à défaut de solution.
+
+
+
+## Semaine 10
+
+### Plan
+
+Lors de cette semaine, nous avons terminé notre concordancier et ajouté les liens à nos tableaux html. Nous avons également écrit un nouveau script permettant de générer une base analysable par itrameur.
+
+### Fichier base iTrameur
+
+Nous avons commencé par intégrer la struture pseudo-XML à notre script, en y incluant les balises langue, page, et texte.
+
+### Travail sur les dumps textuels et les contextes
+
+Nous avons ensuite intégré 2 arguments à notre script : un dossier (dumps-text ou Contextes) et la langue (dans notre cas, fr, en, ou cn).
+Avec une boucle, on parcourt tous les fichiers dumps-text ou Contextes dans la langue indiquée en argument, et on récupère leur contenu que l'on stocke dans la balise text. On effectue aussi des substitutions pour les caractères "&", "<" et ">" pour éviter les problèmes d'interprétation.
+
+### Travail sur iTrameur
+
+...
+
+### Utiliser des scripts directement
+
+...
+
