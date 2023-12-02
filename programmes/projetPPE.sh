@@ -39,7 +39,7 @@ do
     then
 
         # création du dump text
-        lynx -dump -nolist $URL > "../dumps-text/${lang}-${lineno}.txt"
+        lynx -dump -nolist -assume_charset=utf-8 --display_charset=utf-8 $URL > "../dumps-text/${lang}-${lineno}.txt"
 
         TEXTFILE="../dumps-text/${lang}-${lineno}.txt"
         compte=$(grep -P -i -o $motif "../dumps-text/${lang}-${lineno}.txt" | wc -l)
