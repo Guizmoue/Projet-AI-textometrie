@@ -19,7 +19,7 @@ lineno=1
 lang=$(basename $URLS .txt)
 html_file="../tableaux/$lang.html"
 #motif="intelligence\sartificielle"
-motif="(\bIA\b|intelligence\sartificielle|\bAI\b|artificial\sintelligence)"
+motif="(\bIA\b|intelligence\sartificielle|\bAI\b|artificial\sintelligence|人工智能|人工智慧)"
 
 
 echo "<html><head></head><body>" > $html_file
