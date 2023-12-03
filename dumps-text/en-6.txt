@@ -1,16 +1,16 @@
-   #[1]Medium [2]alternate
+   #Medium alternate
 
-   [3]Open in app
+   Open in app
 
-   [4]Sign up
+   Sign up
 
-   [5]Sign in
+   Sign in
    ____________________
    Write
 
-   [6]Sign up
+   Sign up
 
-   [7]Sign in
+   Sign in
    (BUTTON)
 
 Advantages and Disadvantages of Artificial Intelligence
@@ -18,24 +18,23 @@ Advantages and Disadvantages of Artificial Intelligence
    sunil kumar
    Towards Data Science
 
-   [8]sunil kumar
-   �
+   sunil kumar
+   ·
 
-   [9]Follow
+   Follow
    Published in
-   [10]
 
    Towards Data Science
-   �
+   ·
    5 min read
-   �
+   ·
    Nov 25, 2019
 
    --
    (BUTTON)
 
    9
-   [11](BUTTON)
+   (BUTTON)
    (BUTTON)
 
    Listen
@@ -47,11 +46,11 @@ Advantages and Disadvantages of Artificial Intelligence
    to simulate human reasoning in AI systems. John McCarthy invented the
    term Artificial Intelligence in the year 1950.
 
-   He said, `Every aspect of learning or any other feature of intelligence
+   He said, ‘Every aspect of learning or any other feature of intelligence
    can in principle be so precisely described that a machine can be made
    to simulate it. An attempt will be made to find how to make machines
    use language, form abstractions, and concepts, solve kinds of problems
-   now reserved for humans, and improve themselves.'
+   now reserved for humans, and improve themselves.’
 
    Artificial Intelligence is the ability of a computer program to learn
    and think. Everything can be considered Artificial intelligence if it
@@ -59,11 +58,11 @@ Advantages and Disadvantages of Artificial Intelligence
    rely on the intelligence of a human.
 
    The advantages of Artificial intelligence applications are enormous and
-   can revolutionize any professional sector. Let's see some of them
+   can revolutionize any professional sector. Let’s see some of them
 
    1) Reduction in Human Error:
 
-   The phrase "human error" was born because humans make mistakes from
+   The phrase “human error” was born because humans make mistakes from
    time to time. Computers, however, do not make these mistakes if they
    are programmed properly. With Artificial intelligence, the decisions
    are taken from the previously gathered information applying a certain
@@ -94,12 +93,12 @@ Advantages and Disadvantages of Artificial Intelligence
 
    3) Available 24x7:
 
-   An Average human will work for 4-6 hours a day excluding the breaks.
+   An Average human will work for 4–6 hours a day excluding the breaks.
    Humans are built in such a way to get some time out for refreshing
    themselves and get ready for a new day of work and they even have
    weekly offed to stay intact with their work-life and personal life. But
    using AI we can make machines work 24x7 without any breaks and they
-   don't even get bored, unlike humans.
+   don’t even get bored, unlike humans.
 
    Example: Educational Institutes and Helpline centers are getting many
    queries and issues which can be handled effectively using AI.
@@ -109,7 +108,7 @@ Advantages and Disadvantages of Artificial Intelligence
    In our day-to-day work, we will be performing many repetitive works
    like sending a thanking mail, verifying certain documents for errors
    and many more things. Using artificial intelligence we can productively
-   automate these mundane tasks and can even remove "boring" tasks for
+   automate these mundane tasks and can even remove “boring” tasks for
    humans and free them up to be increasingly creative.
 
    Example: In banks, we often see many verifications of documents to get
@@ -124,8 +123,8 @@ Advantages and Disadvantages of Artificial Intelligence
    interact with users which saves the need for human resources. The
    digital assistants also used in many websites to provide things that
    users want. We can chat with them about what we are looking for. Some
-   chatbots are designed in such a way that it's become hard to determine
-   that we're chatting with a chatbot or a human being.
+   chatbots are designed in such a way that it’s become hard to determine
+   that we’re chatting with a chatbot or a human being.
 
    Example: We all know that organizations have a customer support team
    that needs to clarify the doubts and queries of the customers. Using AI
@@ -148,15 +147,15 @@ Advantages and Disadvantages of Artificial Intelligence
 
    7) Daily Applications:
 
-   Daily applications such as Apple's Siri, Window's Cortana, Google's OK
+   Daily applications such as Apple’s Siri, Window’s Cortana, Google’s OK
    Google are frequently used in our daily routine whether it is for
    searching a location, taking a selfie, making a phone call, replying to
    a mail and many more.
 
    Example: Around 20 years ago, when we are planning to go somewhere we
    used to ask a person who already went there for the directions. But now
-   all we have to do is say "OK Google where is Visakhapatnam". It will
-   show you Visakhapatnam's location on google map and the best path
+   all we have to do is say “OK Google where is Visakhapatnam”. It will
+   show you Visakhapatnam’s location on google map and the best path
    between you and Visakhapatnam.
 
    8) New Inventions:
@@ -168,13 +167,13 @@ Advantages and Disadvantages of Artificial Intelligence
    earlier stages using advanced AI-based technologies.
 
    As every bright side has a darker version in it. Artificial
-   Intelligence also has some disadvantages. Let's see some of them
+   Intelligence also has some disadvantages. Let’s see some of them
 
    1) High Costs of Creation:
 
    As AI is updating every day the hardware and software need to get
    updated with time to meet the latest requirements. Machines need
-   repairing and maintenance which need plenty of costs. It' s creation
+   repairing and maintenance which need plenty of costs. It’ s creation
    requires huge costs as they are very complex machines.
 
    2) Making Humans Lazy:
@@ -210,8 +209,8 @@ Advantages and Disadvantages of Artificial Intelligence
    Every new invention or breakthrough will have both, but we as humans
    need to take care of that and use the positive sides of the invention
    to create a better world. Artificial intelligence has massive potential
-   advantages. The key for humans will ensure the "rise of the robots"
-   doesn't get out of hand. Some people also say that Artificial
+   advantages. The key for humans will ensure the “rise of the robots”
+   doesn’t get out of hand. Some people also say that Artificial
    intelligence can destroy human civilization if it goes into the wrong
    hands. But still, none of the AI applications made at that scale that
    can destroy or enslave humanity.
@@ -227,120 +226,104 @@ Advantages and Disadvantages of Artificial Intelligence
    (BUTTON)
 
    9
-   [12](BUTTON)
+   (BUTTON)
    (BUTTON)
    sunil kumar
    Towards Data Science
-   [13]Follow
-   [14](BUTTON)
-   [15]
+   Follow
+   (BUTTON)
 
 Written by sunil kumar
 
-   [16]151 Followers
-   �Writer for
-   [17]
+   151 Followers
+   ·Writer for
 
    Towards Data Science
 
    Business minded machine learning engineer with proven ability to find
    hidden gems from different types of data.
-   [18]Follow
-   [19](BUTTON)
+   Follow
+   (BUTTON)
 
 More from sunil kumar and Towards Data Science
 
    Format function in Python
    sunil kumar
-   [20]
 
    sunil kumar
 
    in
-   [21]
 
    Towards Data Science
 
 Format function in Python
 
-Python's str.format() technique of the string category permits you to try and
-do variable substitutions and data formatting. This enables...
+Python’s str.format() technique of the string category permits you to try and
+do variable substitutions and data formatting. This enables…
 
-   [22]
    (BUTTON)
-   �5 min read�May 6, 2020
+   ·5 min read·May 6, 2020
 
    --
 
-   TimeGPT: The First Foundation Model for Time Series Forecasting
-   Marco Peixeiro
-   [23]
+   Exposing the Power of the Kalman Filter
+   Jimmy Weaver
 
-   Marco Peixeiro
+   Jimmy Weaver
 
    in
-   [24]
 
    Towards Data Science
 
-TimeGPT: The First Foundation Model for Time Series Forecasting
+Exposing the Power of the Kalman Filter
 
-Explore the first generative pre-trained forecasting model and apply it in a
-project with Python
+As a data scientist we are occasionally faced with situations where we need
+to model a trend to predict future values. Whilst there is a…
 
-   [25]
-   (BUTTON)
-   �12 min read�Oct 24
+   17 min read·Nov 7
 
    --
-   [26]
 
-   24
+   11
 
-   How to Convert Any Text Into a Graph of Concepts
-   Rahul Nayak
-   [27]
+   The New Best Python Package for Visualising Network Graphs
+   Benjamin Lee
 
-   Rahul Nayak
+   Benjamin Lee
 
    in
-   [28]
 
    Towards Data Science
 
-How to Convert Any Text Into a Graph of Concepts
+The New Best Python Package for Visualising Network Graphs
 
-A method to convert any text corpus into a Knowledge Graph using Mistral 7B.
+A guide on who should use it, when to use it, how to use it, and why I was
+wrong before…
 
-   [29]
-   12 min read�Nov 10
+   (BUTTON)
+   ·10 min read·6 days ago
 
    --
-   [30]
 
-   33
+   9
 
-   Exploratory Data Analysis ...topic that is neglected in data Science
+   Exploratory Data Analysis …topic that is neglected in data Science
    Projects
    sunil kumar
-   [31]
 
    sunil kumar
 
    in
-   [32]
 
    Towards Data Science
 
-Exploratory Data Analysis ...topic that is neglected in data Science Projects
+Exploratory Data Analysis …topic that is neglected in data Science Projects
 
 Exploratory Data Analysis
 
-   [33]
-   8 min read�Nov 22, 2019
+   8 min read·Nov 22, 2019
 
    --
-   [34]
 
    1
    See all from sunil kumar
@@ -348,314 +331,139 @@ Exploratory Data Analysis
 
 Recommended from Medium
 
-   How to Convert Any Text Into a Graph of Concepts
-   Rahul Nayak
-   [35]
+   I Found A Very Profitable AI Side Hustle
+   Paul Rose
 
-   Rahul Nayak
+   Paul Rose
 
-   in
-   [36]
+I Found A Very Profitable AI Side Hustle
 
-   Towards Data Science
+And it’s perfect for beginners
 
-How to Convert Any Text Into a Graph of Concepts
-
-A method to convert any text corpus into a Knowledge Graph using Mistral 7B.
-
-   [37]
-   12 min read�Nov 10
+   6 min read·Oct 18
 
    --
-   [38]
 
-   33
+   207
 
-   History of Deep Learning
-   Shreyanshu Sundaray
-   [39]
+   The ChatGPT Hype Is Over — Now Watch How Google Will Kill ChatGPT.
+   AL Anany
 
-   Shreyanshu Sundaray
+   AL Anany
 
-History of Deep Learning
+The ChatGPT Hype Is Over — Now Watch How Google Will Kill ChatGPT.
 
-Hello everyone! In this post we will discuss about the basic history of Deep
-Learning. Let's start.....
+It never happens instantly. The business game is longer than you know.
 
-   [40]
-   3 min read�Jul 16
+   (BUTTON)
+   ·6 min read·Sep 1
 
    --
+
+   603
 
 Lists
 
 Predictive Modeling w/ Python
 
-   20 stories�629 saves
+   20 stories·649 saves
    Principal Component Analysis for ML
    Time Series Analysis
    deep learning cheatsheet for beginner
 
 Practical Guides to Machine Learning
 
-   10 stories�715 saves
+   10 stories·729 saves
 
 Natural Language Processing
 
-   893 stories�416 saves
+   917 stories·431 saves
 
 ChatGPT
 
-   22 stories�278 saves
+   22 stories·286 saves
 
-   How I Deployed a Machine Learning Model for the First Time
-   Lu�s Fernando Torres
-   [41]
+   The Potential Risks and Benefits of Artificial General Intelligence
+   (AGI)
+   TheTechPencil
 
-   Lu�s Fernando Torres
+   TheTechPencil
 
    in
-   [42]
 
-   Artificial Intelligence in Plain English
+   𝐀𝐈 𝐦𝐨𝐧𝐤𝐬.𝐢𝐨
 
-How I Deployed a Machine Learning Model for the First Time
+The Potential Risks and Benefits of Artificial General Intelligence (AGI)
 
-Going beyond Jupyter Notebooks
+Navigating the Future of AGI: A Balanced Approach to Harnessing Power and
+Mitigating Risks
 
-   [43]
-   13 min read�Jul 19
-
-   --
-   [44]
-
-   11
-
-   I applied to 230 Data science jobs during last 2 months and this is
-   what I've found.
-   Virat Patel
-   [45]
-
-   Virat Patel
-
-I applied to 230 Data science jobs during last 2 months and this is what I've
-found.
-
-A little bit about myself: I have been working as a Data Analyst for a little
-over 2 years. Additionally, for the past year, I have been...
-
-   [46]
    (BUTTON)
-   �3 min read�Aug 11
+   ·4 min read·Jun 21
 
    --
-   [47]
 
-   52
+   Welcome To Hell, OpenAI
+   Colin Fraser
 
-   I Found A Very Profitable AI Side Hustle
-   Paul Rose
-   [48]
+   Colin Fraser
 
-   Paul Rose
+Welcome To Hell, OpenAI
 
-I Found A Very Profitable AI Side Hustle
+Nilay Patel wrote a clairvoyant piece in The Verge shortly after Elon Musk
+bought Twitter called Welcome to hell, Elon, welcoming Elon Musk…
 
-And it's perfect for beginners
-
-   [49]
-   6 min read�Oct 18
+   10 min read·Feb 2
 
    --
-   [50]
 
-   186
+   21
 
-   The ChatGPT Hype Is Over -- Now Watch How Google Will Kill ChatGPT.
-   AL Anany
-   [51]
+   NASA Just Shut Down Quantum Computer After Something Insane Happened!
+   The Pareto Investor
 
-   AL Anany
+   The Pareto Investor
 
-The ChatGPT Hype Is Over -- Now Watch How Google Will Kill ChatGPT.
+NASA Just Shut Down Quantum Computer After Something Insane Happened!
 
-It never happens instantly. The business game is longer than you know.
+Houston, We Have a Problem!
 
-   [52]
    (BUTTON)
-   �6 min read�Sep 1
+   ·3 min read·Nov 9
 
    --
-   [53]
 
-   589
+   146
+
+   Regression algorithms
+   Arun Kumar Pandey (Ph.D., Astrophysics)
+
+   Arun Kumar Pandey (Ph.D., Astrophysics)
+
+Regression algorithms
+
+Regression algorithms are a type of machine learning algorithm used to
+predict numerical values based on input data. Regression algorithms…
+
+   5 min read·Jun 22
+
+   --
    See more recommendations
-   [54]
 
    Help
-   [55]
 
    Status
-   [56]
 
    About
-   [57]
 
    Careers
-   [58]
 
    Blog
-   [59]
 
    Privacy
-   [60]
 
    Terms
-   [61]
 
    Text to speech
-   [62]
 
    Teams
-
-References
-
-   Visible links:
-   1. https://towardsdatascience.com/osd.xml
-   2. android-app://com.medium.reader/https/medium.com/p/182a5ef6588c
-   3. https://rsci.app.link/?%24canonical_url=https%3A%2F%2Fmedium.com%2Fp%2F182a5ef6588c&%7Efeature=LoOpenInAppButton&%7Echannel=ShowPostUnderCollection&source=---two_column_layout_nav----------------------------------
-   4. https://medium.com/m/signin?operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fadvantages-and-disadvantages-of-artificial-intelligence-182a5ef6588c&source=post_page---two_column_layout_nav-----------------------global_nav-----------
-   5. https://medium.com/m/signin?operation=login&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fadvantages-and-disadvantages-of-artificial-intelligence-182a5ef6588c&source=post_page---two_column_layout_nav-----------------------global_nav-----------
-   6. https://medium.com/m/signin?operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fadvantages-and-disadvantages-of-artificial-intelligence-182a5ef6588c&source=post_page---two_column_layout_nav-----------------------global_nav-----------
-   7. https://medium.com/m/signin?operation=login&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fadvantages-and-disadvantages-of-artificial-intelligence-182a5ef6588c&source=post_page---two_column_layout_nav-----------------------global_nav-----------
-   8. https://sunilkumar9633.medium.com/?source=post_page-----182a5ef6588c--------------------------------
-   9. https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fuser%2F7bb671b86a0f&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fadvantages-and-disadvantages-of-artificial-intelligence-182a5ef6588c&user=sunil+kumar&userId=7bb671b86a0f&source=post_page-7bb671b86a0f----182a5ef6588c---------------------post_header-----------
-  10. https://towardsdatascience.com/?source=post_page-----182a5ef6588c--------------------------------
-  11. https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F182a5ef6588c&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fadvantages-and-disadvantages-of-artificial-intelligence-182a5ef6588c&source=-----182a5ef6588c---------------------bookmark_footer-----------
-  12. https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F182a5ef6588c&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fadvantages-and-disadvantages-of-artificial-intelligence-182a5ef6588c&source=--------------------------bookmark_footer-----------
-  13. https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fuser%2F7bb671b86a0f&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fadvantages-and-disadvantages-of-artificial-intelligence-182a5ef6588c&user=sunil+kumar&userId=7bb671b86a0f&source=post_page-7bb671b86a0f----182a5ef6588c---------------------follow_profile-----------
-  14. https://medium.com/m/signin?actionUrl=%2F_%2Fapi%2Fsubscriptions%2Fnewsletters%2Ff2352110e4a9&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fadvantages-and-disadvantages-of-artificial-intelligence-182a5ef6588c&newsletterV3=7bb671b86a0f&newsletterV3Id=f2352110e4a9&user=sunil+kumar&userId=7bb671b86a0f&source=-----182a5ef6588c---------------------subscribe_user-----------
-  15. https://sunilkumar9633.medium.com/?source=post_page-----182a5ef6588c--------------------------------
-  16. https://sunilkumar9633.medium.com/followers?source=post_page-----182a5ef6588c--------------------------------
-  17. https://towardsdatascience.com/?source=post_page-----182a5ef6588c--------------------------------
-  18. https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fuser%2F7bb671b86a0f&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fadvantages-and-disadvantages-of-artificial-intelligence-182a5ef6588c&user=sunil+kumar&userId=7bb671b86a0f&source=post_page-7bb671b86a0f----182a5ef6588c---------------------follow_profile-----------
-  19. https://medium.com/m/signin?actionUrl=%2F_%2Fapi%2Fsubscriptions%2Fnewsletters%2Ff2352110e4a9&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fadvantages-and-disadvantages-of-artificial-intelligence-182a5ef6588c&newsletterV3=7bb671b86a0f&newsletterV3Id=f2352110e4a9&user=sunil+kumar&userId=7bb671b86a0f&source=-----182a5ef6588c---------------------subscribe_user-----------
-  20. https://sunilkumar9633.medium.com/?source=author_recirc-----182a5ef6588c----0---------------------57c9abb2_4dca_4551_af0b_7894a5345c59-------
-  21. https://towardsdatascience.com/?source=author_recirc-----182a5ef6588c----0---------------------57c9abb2_4dca_4551_af0b_7894a5345c59-------
-  22. https://towardsdatascience.com/format-function-in-python-98ed34e0a70e?source=author_recirc-----182a5ef6588c----0---------------------57c9abb2_4dca_4551_af0b_7894a5345c59-------
-  23. https://medium.com/@marcopeixeiro?source=author_recirc-----182a5ef6588c----1---------------------57c9abb2_4dca_4551_af0b_7894a5345c59-------
-  24. https://towardsdatascience.com/?source=author_recirc-----182a5ef6588c----1---------------------57c9abb2_4dca_4551_af0b_7894a5345c59-------
-  25. https://towardsdatascience.com/timegpt-the-first-foundation-model-for-time-series-forecasting-bf0a75e63b3a?source=author_recirc-----182a5ef6588c----1---------------------57c9abb2_4dca_4551_af0b_7894a5345c59-------
-  26. https://towardsdatascience.com/timegpt-the-first-foundation-model-for-time-series-forecasting-bf0a75e63b3a?responsesOpen=true&sortBy=REVERSE_CHRON&source=author_recirc-----182a5ef6588c----1---------------------57c9abb2_4dca_4551_af0b_7894a5345c59-------
-  27. https://medium.com/@rahul.nyk?source=author_recirc-----182a5ef6588c----2---------------------57c9abb2_4dca_4551_af0b_7894a5345c59-------
-  28. https://towardsdatascience.com/?source=author_recirc-----182a5ef6588c----2---------------------57c9abb2_4dca_4551_af0b_7894a5345c59-------
-  29. https://towardsdatascience.com/how-to-convert-any-text-into-a-graph-of-concepts-110844f22a1a?source=author_recirc-----182a5ef6588c----2---------------------57c9abb2_4dca_4551_af0b_7894a5345c59-------
-  30. https://towardsdatascience.com/how-to-convert-any-text-into-a-graph-of-concepts-110844f22a1a?responsesOpen=true&sortBy=REVERSE_CHRON&source=author_recirc-----182a5ef6588c----2---------------------57c9abb2_4dca_4551_af0b_7894a5345c59-------
-  31. https://sunilkumar9633.medium.com/?source=author_recirc-----182a5ef6588c----3---------------------57c9abb2_4dca_4551_af0b_7894a5345c59-------
-  32. https://towardsdatascience.com/?source=author_recirc-----182a5ef6588c----3---------------------57c9abb2_4dca_4551_af0b_7894a5345c59-------
-  33. https://towardsdatascience.com/exploratory-data-analysis-topic-that-is-neglected-in-data-science-projects-9962ae078a56?source=author_recirc-----182a5ef6588c----3---------------------57c9abb2_4dca_4551_af0b_7894a5345c59-------
-  34. https://towardsdatascience.com/exploratory-data-analysis-topic-that-is-neglected-in-data-science-projects-9962ae078a56?responsesOpen=true&sortBy=REVERSE_CHRON&source=author_recirc-----182a5ef6588c----3---------------------57c9abb2_4dca_4551_af0b_7894a5345c59-------
-  35. https://medium.com/@rahul.nyk?source=read_next_recirc-----182a5ef6588c----0---------------------1f081334_4eb6_4f6e_94b4_a853b454b88e-------
-  36. https://towardsdatascience.com/?source=read_next_recirc-----182a5ef6588c----0---------------------1f081334_4eb6_4f6e_94b4_a853b454b88e-------
-  37. https://towardsdatascience.com/how-to-convert-any-text-into-a-graph-of-concepts-110844f22a1a?source=read_next_recirc-----182a5ef6588c----0---------------------1f081334_4eb6_4f6e_94b4_a853b454b88e-------
-  38. https://towardsdatascience.com/how-to-convert-any-text-into-a-graph-of-concepts-110844f22a1a?responsesOpen=true&sortBy=REVERSE_CHRON&source=read_next_recirc-----182a5ef6588c----0---------------------1f081334_4eb6_4f6e_94b4_a853b454b88e-------
-  39. https://medium.com/@sreyan806?source=read_next_recirc-----182a5ef6588c----1---------------------1f081334_4eb6_4f6e_94b4_a853b454b88e-------
-  40. https://medium.com/@sreyan806/history-of-deep-learning-c176e2d3cddf?source=read_next_recirc-----182a5ef6588c----1---------------------1f081334_4eb6_4f6e_94b4_a853b454b88e-------
-  41. https://medium.com/@luuisotorres?source=read_next_recirc-----182a5ef6588c----0---------------------1f081334_4eb6_4f6e_94b4_a853b454b88e-------
-  42. https://ai.plainenglish.io/?source=read_next_recirc-----182a5ef6588c----0---------------------1f081334_4eb6_4f6e_94b4_a853b454b88e-------
-  43. https://ai.plainenglish.io/how-i-deployed-a-machine-learning-model-for-the-first-time-b82b9ea831e0?source=read_next_recirc-----182a5ef6588c----0---------------------1f081334_4eb6_4f6e_94b4_a853b454b88e-------
-  44. https://ai.plainenglish.io/how-i-deployed-a-machine-learning-model-for-the-first-time-b82b9ea831e0?responsesOpen=true&sortBy=REVERSE_CHRON&source=read_next_recirc-----182a5ef6588c----0---------------------1f081334_4eb6_4f6e_94b4_a853b454b88e-------
-  45. https://medium.com/@viratpatel75?source=read_next_recirc-----182a5ef6588c----1---------------------1f081334_4eb6_4f6e_94b4_a853b454b88e-------
-  46. https://medium.com/@viratpatel75/i-applied-to-230-data-science-jobs-during-last-2-months-and-this-is-what-ive-found-29ebdea4504?source=read_next_recirc-----182a5ef6588c----1---------------------1f081334_4eb6_4f6e_94b4_a853b454b88e-------
-  47. https://medium.com/@viratpatel75/i-applied-to-230-data-science-jobs-during-last-2-months-and-this-is-what-ive-found-29ebdea4504?responsesOpen=true&sortBy=REVERSE_CHRON&source=read_next_recirc-----182a5ef6588c----1---------------------1f081334_4eb6_4f6e_94b4_a853b454b88e-------
-  48. https://medium.com/@iampaulrose?source=read_next_recirc-----182a5ef6588c----2---------------------1f081334_4eb6_4f6e_94b4_a853b454b88e-------
-  49. https://medium.com/@iampaulrose/i-found-a-very-profitable-ai-side-hustle-d347804b1784?source=read_next_recirc-----182a5ef6588c----2---------------------1f081334_4eb6_4f6e_94b4_a853b454b88e-------
-  50. https://medium.com/@iampaulrose/i-found-a-very-profitable-ai-side-hustle-d347804b1784?responsesOpen=true&sortBy=REVERSE_CHRON&source=read_next_recirc-----182a5ef6588c----2---------------------1f081334_4eb6_4f6e_94b4_a853b454b88e-------
-  51. https://entreprenal.com/?source=read_next_recirc-----182a5ef6588c----3---------------------1f081334_4eb6_4f6e_94b4_a853b454b88e-------
-  52. https://entreprenal.com/the-chatgpt-hype-is-over-now-watch-how-google-will-kill-chatgpt-426d5e3f7d05?source=read_next_recirc-----182a5ef6588c----3---------------------1f081334_4eb6_4f6e_94b4_a853b454b88e-------
-  53. https://entreprenal.com/the-chatgpt-hype-is-over-now-watch-how-google-will-kill-chatgpt-426d5e3f7d05?responsesOpen=true&sortBy=REVERSE_CHRON&source=read_next_recirc-----182a5ef6588c----3---------------------1f081334_4eb6_4f6e_94b4_a853b454b88e-------
-  54. https://help.medium.com/hc/en-us?source=post_page-----182a5ef6588c--------------------------------
-  55. https://medium.statuspage.io/?source=post_page-----182a5ef6588c--------------------------------
-  56. https://medium.com/about?autoplay=1&source=post_page-----182a5ef6588c--------------------------------
-  57. https://medium.com/jobs-at-medium/work-at-medium-959d1a85284e?source=post_page-----182a5ef6588c--------------------------------
-  58. https://blog.medium.com/?source=post_page-----182a5ef6588c--------------------------------
-  59. https://policy.medium.com/medium-privacy-policy-f03bf92035c9?source=post_page-----182a5ef6588c--------------------------------
-  60. https://policy.medium.com/medium-terms-of-service-9db0094a1e0f?source=post_page-----182a5ef6588c--------------------------------
-  61. https://speechify.com/medium?source=post_page-----182a5ef6588c--------------------------------
-  62. https://medium.com/business?source=post_page-----182a5ef6588c--------------------------------
-
-   Hidden links:
-  64. https://medium.com/?source=---two_column_layout_nav----------------------------------
-  65. https://medium.com/m/signin?operation=register&redirect=https%3A%2F%2Fmedium.com%2Fnew-story&source=---two_column_layout_nav-----------------------new_post_topnav-----------
-  66. https://medium.com/search?source=---two_column_layout_nav----------------------------------
-  67. https://sunilkumar9633.medium.com/?source=post_page-----182a5ef6588c--------------------------------
-  68. https://towardsdatascience.com/?source=post_page-----182a5ef6588c--------------------------------
-  69. https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Ftowards-data-science%2F182a5ef6588c&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fadvantages-and-disadvantages-of-artificial-intelligence-182a5ef6588c&user=sunil+kumar&userId=7bb671b86a0f&source=-----182a5ef6588c---------------------clap_footer-----------
-  70. https://medium.com/tag/artificial-intelligence?source=post_page-----182a5ef6588c---------------artificial_intelligence-----------------
-  71. https://medium.com/tag/machine-learning?source=post_page-----182a5ef6588c---------------machine_learning-----------------
-  72. https://medium.com/tag/data-science?source=post_page-----182a5ef6588c---------------data_science-----------------
-  73. https://medium.com/tag/deep-learning?source=post_page-----182a5ef6588c---------------deep_learning-----------------
-  74. https://medium.com/tag/python?source=post_page-----182a5ef6588c---------------python-----------------
-  75. https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Ftowards-data-science%2F182a5ef6588c&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fadvantages-and-disadvantages-of-artificial-intelligence-182a5ef6588c&user=sunil+kumar&userId=7bb671b86a0f&source=-----182a5ef6588c---------------------clap_footer-----------
-  76. https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Ftowards-data-science%2F182a5ef6588c&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fadvantages-and-disadvantages-of-artificial-intelligence-182a5ef6588c&user=sunil+kumar&userId=7bb671b86a0f&source=-----182a5ef6588c---------------------clap_footer-----------
-  77. https://sunilkumar9633.medium.com/?source=post_page-----182a5ef6588c--------------------------------
-  78. https://towardsdatascience.com/?source=post_page-----182a5ef6588c--------------------------------
-  79. https://towardsdatascience.com/format-function-in-python-98ed34e0a70e?source=author_recirc-----182a5ef6588c----0---------------------57c9abb2_4dca_4551_af0b_7894a5345c59-------
-  80. https://sunilkumar9633.medium.com/?source=author_recirc-----182a5ef6588c----0---------------------57c9abb2_4dca_4551_af0b_7894a5345c59-------
-  81. https://towardsdatascience.com/format-function-in-python-98ed34e0a70e?source=author_recirc-----182a5ef6588c----0---------------------57c9abb2_4dca_4551_af0b_7894a5345c59-------
-  82. https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Ftowards-data-science%2F98ed34e0a70e&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fformat-function-in-python-98ed34e0a70e&user=sunil+kumar&userId=7bb671b86a0f&source=-----98ed34e0a70e----0-----------------clap_footer----57c9abb2_4dca_4551_af0b_7894a5345c59-------
-  83. https://towardsdatascience.com/format-function-in-python-98ed34e0a70e?responsesOpen=true&sortBy=REVERSE_CHRON&source=author_recirc-----182a5ef6588c----0---------------------57c9abb2_4dca_4551_af0b_7894a5345c59-------
-  84. https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F98ed34e0a70e&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fformat-function-in-python-98ed34e0a70e&source=-----182a5ef6588c----0-----------------bookmark_preview----57c9abb2_4dca_4551_af0b_7894a5345c59-------
-  85. https://towardsdatascience.com/timegpt-the-first-foundation-model-for-time-series-forecasting-bf0a75e63b3a?source=author_recirc-----182a5ef6588c----1---------------------57c9abb2_4dca_4551_af0b_7894a5345c59-------
-  86. https://medium.com/@marcopeixeiro?source=author_recirc-----182a5ef6588c----1---------------------57c9abb2_4dca_4551_af0b_7894a5345c59-------
-  87. https://towardsdatascience.com/timegpt-the-first-foundation-model-for-time-series-forecasting-bf0a75e63b3a?source=author_recirc-----182a5ef6588c----1---------------------57c9abb2_4dca_4551_af0b_7894a5345c59-------
-  88. https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Ftowards-data-science%2Fbf0a75e63b3a&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Ftimegpt-the-first-foundation-model-for-time-series-forecasting-bf0a75e63b3a&user=Marco+Peixeiro&userId=741c1c8fcfbd&source=-----bf0a75e63b3a----1-----------------clap_footer----57c9abb2_4dca_4551_af0b_7894a5345c59-------
-  89. https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fbf0a75e63b3a&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Ftimegpt-the-first-foundation-model-for-time-series-forecasting-bf0a75e63b3a&source=-----182a5ef6588c----1-----------------bookmark_preview----57c9abb2_4dca_4551_af0b_7894a5345c59-------
-  90. https://towardsdatascience.com/how-to-convert-any-text-into-a-graph-of-concepts-110844f22a1a?source=author_recirc-----182a5ef6588c----2---------------------57c9abb2_4dca_4551_af0b_7894a5345c59-------
-  91. https://medium.com/@rahul.nyk?source=author_recirc-----182a5ef6588c----2---------------------57c9abb2_4dca_4551_af0b_7894a5345c59-------
-  92. https://towardsdatascience.com/how-to-convert-any-text-into-a-graph-of-concepts-110844f22a1a?source=author_recirc-----182a5ef6588c----2---------------------57c9abb2_4dca_4551_af0b_7894a5345c59-------
-  93. https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Ftowards-data-science%2F110844f22a1a&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fhow-to-convert-any-text-into-a-graph-of-concepts-110844f22a1a&user=Rahul+Nayak&userId=473e87f4b733&source=-----110844f22a1a----2-----------------clap_footer----57c9abb2_4dca_4551_af0b_7894a5345c59-------
-  94. https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F110844f22a1a&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fhow-to-convert-any-text-into-a-graph-of-concepts-110844f22a1a&source=-----182a5ef6588c----2-----------------bookmark_preview----57c9abb2_4dca_4551_af0b_7894a5345c59-------
-  95. https://towardsdatascience.com/exploratory-data-analysis-topic-that-is-neglected-in-data-science-projects-9962ae078a56?source=author_recirc-----182a5ef6588c----3---------------------57c9abb2_4dca_4551_af0b_7894a5345c59-------
-  96. https://sunilkumar9633.medium.com/?source=author_recirc-----182a5ef6588c----3---------------------57c9abb2_4dca_4551_af0b_7894a5345c59-------
-  97. https://towardsdatascience.com/exploratory-data-analysis-topic-that-is-neglected-in-data-science-projects-9962ae078a56?source=author_recirc-----182a5ef6588c----3---------------------57c9abb2_4dca_4551_af0b_7894a5345c59-------
-  98. https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Ftowards-data-science%2F9962ae078a56&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fexploratory-data-analysis-topic-that-is-neglected-in-data-science-projects-9962ae078a56&user=sunil+kumar&userId=7bb671b86a0f&source=-----9962ae078a56----3-----------------clap_footer----57c9abb2_4dca_4551_af0b_7894a5345c59-------
-  99. https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F9962ae078a56&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fexploratory-data-analysis-topic-that-is-neglected-in-data-science-projects-9962ae078a56&source=-----182a5ef6588c----3-----------------bookmark_preview----57c9abb2_4dca_4551_af0b_7894a5345c59-------
- 100. https://sunilkumar9633.medium.com/?source=post_page-----182a5ef6588c--------------------------------
- 101. https://towardsdatascience.com/?source=post_page-----182a5ef6588c--------------------------------
- 102. https://towardsdatascience.com/how-to-convert-any-text-into-a-graph-of-concepts-110844f22a1a?source=read_next_recirc-----182a5ef6588c----0---------------------1f081334_4eb6_4f6e_94b4_a853b454b88e-------
- 103. https://medium.com/@rahul.nyk?source=read_next_recirc-----182a5ef6588c----0---------------------1f081334_4eb6_4f6e_94b4_a853b454b88e-------
- 104. https://towardsdatascience.com/how-to-convert-any-text-into-a-graph-of-concepts-110844f22a1a?source=read_next_recirc-----182a5ef6588c----0---------------------1f081334_4eb6_4f6e_94b4_a853b454b88e-------
- 105. https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Ftowards-data-science%2F110844f22a1a&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fhow-to-convert-any-text-into-a-graph-of-concepts-110844f22a1a&user=Rahul+Nayak&userId=473e87f4b733&source=-----110844f22a1a----0-----------------clap_footer----1f081334_4eb6_4f6e_94b4_a853b454b88e-------
- 106. https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F110844f22a1a&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2Fhow-to-convert-any-text-into-a-graph-of-concepts-110844f22a1a&source=-----182a5ef6588c----0-----------------bookmark_preview----1f081334_4eb6_4f6e_94b4_a853b454b88e-------
- 107. https://medium.com/@sreyan806/history-of-deep-learning-c176e2d3cddf?source=read_next_recirc-----182a5ef6588c----1---------------------1f081334_4eb6_4f6e_94b4_a853b454b88e-------
- 108. https://medium.com/@sreyan806?source=read_next_recirc-----182a5ef6588c----1---------------------1f081334_4eb6_4f6e_94b4_a853b454b88e-------
- 109. https://medium.com/@sreyan806/history-of-deep-learning-c176e2d3cddf?source=read_next_recirc-----182a5ef6588c----1---------------------1f081334_4eb6_4f6e_94b4_a853b454b88e-------
- 110. https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fp%2Fc176e2d3cddf&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40sreyan806%2Fhistory-of-deep-learning-c176e2d3cddf&user=Shreyanshu+Sundaray&userId=417c000d5ae4&source=-----c176e2d3cddf----1-----------------clap_footer----1f081334_4eb6_4f6e_94b4_a853b454b88e-------
- 111. https://medium.com/@sreyan806/history-of-deep-learning-c176e2d3cddf?responsesOpen=true&sortBy=REVERSE_CHRON&source=read_next_recirc-----182a5ef6588c----1---------------------1f081334_4eb6_4f6e_94b4_a853b454b88e-------
- 112. https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fc176e2d3cddf&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40sreyan806%2Fhistory-of-deep-learning-c176e2d3cddf&source=-----182a5ef6588c----1-----------------bookmark_preview----1f081334_4eb6_4f6e_94b4_a853b454b88e-------
- 113. https://medium.com/@ben.putney/list/predictive-modeling-w-python-e3668ea008e1?source=read_next_recirc-----182a5ef6588c--------------------------------
- 114. https://destingong.medium.com/list/practical-guides-to-machine-learning-a877c2a39884?source=read_next_recirc-----182a5ef6588c--------------------------------
- 115. https://medium.com/@AMGAS14/list/natural-language-processing-0a856388a93a?source=read_next_recirc-----182a5ef6588c--------------------------------
- 116. https://medium.com/@m.wasalski/list/chatgpt-3742c7a4727d?source=read_next_recirc-----182a5ef6588c--------------------------------
- 117. https://ai.plainenglish.io/how-i-deployed-a-machine-learning-model-for-the-first-time-b82b9ea831e0?source=read_next_recirc-----182a5ef6588c----0---------------------1f081334_4eb6_4f6e_94b4_a853b454b88e-------
- 118. https://medium.com/@luuisotorres?source=read_next_recirc-----182a5ef6588c----0---------------------1f081334_4eb6_4f6e_94b4_a853b454b88e-------
- 119. https://ai.plainenglish.io/how-i-deployed-a-machine-learning-model-for-the-first-time-b82b9ea831e0?source=read_next_recirc-----182a5ef6588c----0---------------------1f081334_4eb6_4f6e_94b4_a853b454b88e-------
- 120. https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fai-in-plain-english%2Fb82b9ea831e0&operation=register&redirect=https%3A%2F%2Fai.plainenglish.io%2Fhow-i-deployed-a-machine-learning-model-for-the-first-time-b82b9ea831e0&user=Lu%C3%ADs+Fernando+Torres&userId=87c7c20f624d&source=-----b82b9ea831e0----0-----------------clap_footer----1f081334_4eb6_4f6e_94b4_a853b454b88e-------
- 121. https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fb82b9ea831e0&operation=register&redirect=https%3A%2F%2Fai.plainenglish.io%2Fhow-i-deployed-a-machine-learning-model-for-the-first-time-b82b9ea831e0&source=-----182a5ef6588c----0-----------------bookmark_preview----1f081334_4eb6_4f6e_94b4_a853b454b88e-------
- 122. https://medium.com/@viratpatel75/i-applied-to-230-data-science-jobs-during-last-2-months-and-this-is-what-ive-found-29ebdea4504?source=read_next_recirc-----182a5ef6588c----1---------------------1f081334_4eb6_4f6e_94b4_a853b454b88e-------
- 123. https://medium.com/@viratpatel75?source=read_next_recirc-----182a5ef6588c----1---------------------1f081334_4eb6_4f6e_94b4_a853b454b88e-------
- 124. https://medium.com/@viratpatel75/i-applied-to-230-data-science-jobs-during-last-2-months-and-this-is-what-ive-found-29ebdea4504?source=read_next_recirc-----182a5ef6588c----1---------------------1f081334_4eb6_4f6e_94b4_a853b454b88e-------
- 125. https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fp%2F29ebdea4504&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40viratpatel75%2Fi-applied-to-230-data-science-jobs-during-last-2-months-and-this-is-what-ive-found-29ebdea4504&user=Virat+Patel&userId=2d90e0a11d4&source=-----29ebdea4504----1-----------------clap_footer----1f081334_4eb6_4f6e_94b4_a853b454b88e-------
- 126. https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F29ebdea4504&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40viratpatel75%2Fi-applied-to-230-data-science-jobs-during-last-2-months-and-this-is-what-ive-found-29ebdea4504&source=-----182a5ef6588c----1-----------------bookmark_preview----1f081334_4eb6_4f6e_94b4_a853b454b88e-------
- 127. https://medium.com/@iampaulrose/i-found-a-very-profitable-ai-side-hustle-d347804b1784?source=read_next_recirc-----182a5ef6588c----2---------------------1f081334_4eb6_4f6e_94b4_a853b454b88e-------
- 128. https://medium.com/@iampaulrose?source=read_next_recirc-----182a5ef6588c----2---------------------1f081334_4eb6_4f6e_94b4_a853b454b88e-------
- 129. https://medium.com/@iampaulrose/i-found-a-very-profitable-ai-side-hustle-d347804b1784?source=read_next_recirc-----182a5ef6588c----2---------------------1f081334_4eb6_4f6e_94b4_a853b454b88e-------
- 130. https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fp%2Fd347804b1784&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40iampaulrose%2Fi-found-a-very-profitable-ai-side-hustle-d347804b1784&user=Paul+Rose&userId=8c8e5b7182ef&source=-----d347804b1784----2-----------------clap_footer----1f081334_4eb6_4f6e_94b4_a853b454b88e-------
- 131. https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fd347804b1784&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40iampaulrose%2Fi-found-a-very-profitable-ai-side-hustle-d347804b1784&source=-----182a5ef6588c----2-----------------bookmark_preview----1f081334_4eb6_4f6e_94b4_a853b454b88e-------
- 132. https://entreprenal.com/the-chatgpt-hype-is-over-now-watch-how-google-will-kill-chatgpt-426d5e3f7d05?source=read_next_recirc-----182a5ef6588c----3---------------------1f081334_4eb6_4f6e_94b4_a853b454b88e-------
- 133. https://entreprenal.com/?source=read_next_recirc-----182a5ef6588c----3---------------------1f081334_4eb6_4f6e_94b4_a853b454b88e-------
- 134. https://entreprenal.com/the-chatgpt-hype-is-over-now-watch-how-google-will-kill-chatgpt-426d5e3f7d05?source=read_next_recirc-----182a5ef6588c----3---------------------1f081334_4eb6_4f6e_94b4_a853b454b88e-------
- 135. https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fp%2F426d5e3f7d05&operation=register&redirect=https%3A%2F%2Fentreprenal.com%2Fthe-chatgpt-hype-is-over-now-watch-how-google-will-kill-chatgpt-426d5e3f7d05&user=AL+Anany&userId=4a25c00139e6&source=-----426d5e3f7d05----3-----------------clap_footer----1f081334_4eb6_4f6e_94b4_a853b454b88e-------
- 136. https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F426d5e3f7d05&operation=register&redirect=https%3A%2F%2Fentreprenal.com%2Fthe-chatgpt-hype-is-over-now-watch-how-google-will-kill-chatgpt-426d5e3f7d05&source=-----182a5ef6588c----3-----------------bookmark_preview----1f081334_4eb6_4f6e_94b4_a853b454b88e-------
- 137. https://medium.com/?source=post_page-----182a5ef6588c--------------------------------

@@ -1,0 +1,290 @@
+   #alternate alternate National » Feed National » MoneyWatch Feed
+
+     * Gaza Truce
+     * Henry Kissinger
+     * Military Aircraft Crash
+     * Shane MacGowan
+     * CBS News Live
+     * Managing Your Money
+     * Newsletters
+
+     * News
+          +
+               o US
+               o World
+               o Politics
+               o Entertainment
+               o HealthWatch
+               o MoneyWatch
+               o CBS Village
+               o Technology
+               o Science
+               o Crime
+               o Sports
+               o Essentials
+          +
+               o
+                    # 3 killed in Jerusalem after Israel and Hamas agree
+                      to extend Gaza truce
+                    # Henry Kissinger, influential and controversial
+                      diplomat, dies at age 100
+                    # Rep. George Santos remains defiant as House to vote
+                      on expulsion this week
+                    # EPA proposes rule to replace lead water pipes in
+                      U.S. within 10 years
+                    # Shane MacGowan, longtime front-man of The Pogues,
+                      dies at 65
+                    # Japan asks U.S. to ground Ospreys amid search for
+                      crew in deadly crash
+                    # Candy company uses cocoa harvested by child labor:
+                      CBS News investigation
+                    # Victim of "Scorecard Killer" identified as Iowa teen
+                      49 years after murder
+                    # 84-year-old man charged with wife's murder,
+                      allegedly over vet bills
+     *
+     * Shows
+          + cbs-mornings CBS Mornings
+          + evening-news CBS Evening News
+          + 60-minutes 60 Minutes
+          + cbs-mornings-saturday CBS Saturday Morning
+          + face-the-nation Face the Nation
+          + sunday-morning Sunday Morning
+          + 48-hours 48 Hours
+          + cbs-reports CBS Reports
+          + cbs-news-mornings CBS News Mornings
+          + america-decides America Decides
+          + prime-time-with-john-dickerson Prime Time with John Dickerson
+          + cbs-weekender CBS News Weekender
+          + the-takeout The Takeout
+          + uplift The Uplift
+          + eye-on-america Eye On America
+          + the-dish The Dish
+          + here-comes-the-sun Here Comes the Sun
+          + person-to-person Person To Person
+     * Live
+          + [flyout-live-cbsnews@1x.png] CBS News Live
+          + [flyout-live-baltimore@1x.png] CBS News Baltimore
+          + [flyout-live-sanfrancisco@1x.png] CBS News Bay Area
+          + [flyout-live-boston@1x.png] CBS News Boston
+          + [flyout-live-chicago@1x.png] CBS News Chicago
+          + [flyout-live-colorado@1x.png] CBS News Colorado
+          + [flyout-live-detroit@1x.png] CBS News Detroit
+          + [flyout-live-losangeles@1x.png] CBS News Los Angeles
+          + [flyout-live-miami@1x.png] CBS News Miami
+          + [flyout-live-minnesota@1x.png] CBS News Minnesota
+          + [flyout-live-newyork@1x.png] CBS News New York
+          + [flyout-live-philadelphia@1x.png] CBS News Philadelphia
+          + [flyout-live-pittsburgh@1x.png] CBS News Pittsburgh
+          + [flyout-live-sacramento@1x.png] CBS News Sacramento
+          + [flyout-live-texas@1x.png] CBS News Texas
+          + [flyout-live-cbs-sports-hq@1x.png] CBS Sports HQ
+          + [flyout-live-inside-edition@1x.png] Inside Edition 24/7
+          + [flyout-live-mixible@1x.png] Mixible
+     * Local
+          + Baltimore
+          + Bay Area
+          + Boston
+          + Chicago
+          + Colorado
+          + Detroit
+          + Los Angeles
+          + Miami
+          + Minnesota
+          + New York
+          + Philadelphia
+          + Pittsburgh
+          + Sacramento
+          + Texas
+     * More
+          +
+               o Latest
+               o Video
+               o Photos
+               o Podcasts
+               o In Depth
+               o Local
+               o A Moment With…
+               o Innovators & Disruptors
+          +
+               o Log In
+               o Newsletters
+               o Mobile
+               o RSS
+               o CBS Store
+               o Paramount+
+               o Join Our Talent Community
+               o Davos 2023
+     * Search
+     * Search
+
+   Watch CBS News
+   (BUTTON)
+
+   MoneyWatch
+
+Sports Illustrated owner denies using AI and fake writers to produce articles
+
+   moneywatch
+
+   By Elizabeth Napolitano
+
+   Updated on: November 28, 2023 / 5:47 PM EST / MoneyWatch
+     *
+     *
+     *
+
+   Sports Illustrated AI accusations (BUTTON)
+
+   Sports Illustrated accused of passing AI articles off as human-created
+   content 06:53
+
+   The corporate owner of Sports Illustrated is denying a report that the
+   famed publication produced articles written by artificial intelligence
+   under fake author bylines, while noting that it has withdrawn the
+   stories pending an investigation.
+
+   Futurism reported Monday that Sport Illustrated had used AI to generate
+   articles, as well as headshots and biographical information for
+   fictitious writers. The technology publication also said that
+   information about the purported authors "disappeared from Sports
+   Illustrated's site without explanation" after Futurism approached The
+   Arena Group, a New York-based media company whose other publishing
+   brands include Men's Journal, Parade and TheStreet.com.
+
+   The Arena Group said in a statement posted on social media on Tuesday
+   that the company's "initial investigation" found that Futurism's report
+   "is not accurate." The articles highlighted by Futurism were produced
+   by human writers for AdVon Commerce, which The Arena Group said
+   formerly had a licensing deal with Sports Illustrated to write product
+   reviews and other e-commerce content.
+
+   "AdVon has assured us that all of the articles in question were written
+   and edited by humans," a spokesperson for The Arena Group said in its
+   statement. "However, we have learned that AdVon had writers use a pen
+   or pseudo name in certain articles to protect author privacy — actions
+   we strongly condemn."
+
+   Sports Illustrated is removing the articles produced by AdVon while The
+   Arena Group continues its investigation, the media company said. Sports
+   Illustrated has also ended its partnership with AdVon, according to The
+   Arena Group, which didn't respond to CBS MoneyWatch's request for
+   comment. Stephen Cannella, co-editor-in-chief of Sports Illustrated,
+   did not respond to an inquiry sent to his LinkedIn account.
+
+   Futurism said Tuesday that it stands by its report.
+
+   "Arena's response is just so bizarre, as everybody's been pointing out
+   online," the publication said in a statement to CBS MoneyWatch. "The
+   idea that people writing product reviews for volleyballs would need to
+   protect their identities with pseudonyms is obviously absurd. And as
+   for AdVon telling Sports Illustrated that all its articles are written
+   by humans? Its employees disagree, and we've got a new story coming out
+   about that soon."
+
+Need for guardrails
+
+   Although The Arena Group denies using AI to produce stories for Sports
+   Illustrated, the controversy underscores the question of how the media
+   industry and other content producers should address the "lack of robust
+   ethical guardrails" on using the technology, Benjamin Lange, an AI
+   ethicist and research group lead at the Ludwig Maximilians University
+   of Munich  told CBS MoneyWatch.
+
+   "Journalistic ethics requires adherence to basic principles of honesty,
+   trust, accuracy and objectivity," he said.
+
+   Several publishers and other companies have had to retract articles
+   this year that were produced by AI. In January, for example, CNET
+   published corrections for a number of AI-generated stories after
+   critics noted they were rife with errors. In August, Microsoft in
+   August pulled a computer-generated travel guide from its website after
+   readers pointed out that it recommended tourists in Ottawa, Canada,
+   visit a local food bank.
+
+   Shares of The Arena Group, which is listed on Nasdaq, plunged more than
+   22% on Tuesday to $2.09 following Futurism's report. The company,
+   formerly known as TheMaven, rebranded itself in 2021 and is led by Ross
+   Levinsohn, who previously served as CEO of Sports Illustrated. Earlier
+   this month, The Arena Group announced that it had merged with Bridge
+   Media Networks, which produces news, sports and other content.
+
+Trending News
+
+   ev-charging-sign.jpg
+   EVs are less reliable than conventional vehicles, Consumer Reports says
+   IOS Update For IPhones
+   How to turn off iPhone's iOS 17 NameDrop feature
+   Leather wallet with dollar bills in male hands on a blurred nature
+   background.
+   Here's how much more you need to spend to maintain your living standard
+   gettyimages-1736291256.jpg
+   Will CD rates go higher in 2024?
+   COMBO-EU-US-DISINFORMATION-ISRAEL-PALESTINIAN-CONFLICT
+   Elon Musk says advertiser boycott at X could "kill the company"
+   In:
+     * Sports Illustrated
+     * AI
+
+   Elizabeth Napolitano
+   elizabeth-napolitano-cbsmoneywatch.jpg
+
+   Elizabeth Napolitano is a freelance reporter at CBS MoneyWatch, where
+   she covers business and technology news. She also writes for CoinDesk.
+   Before joining CBS, she interned at NBC News' BizTech Unit and worked
+   on the Associated Press' web scraping team.
+
+   First published on November 28, 2023 / 3:32 PM EST
+
+   © 2023 CBS Interactive Inc. All Rights Reserved.
+   Thanks for reading CBS NEWS.
+   Create your free account or log in
+   for more features.
+   ____________________ (BUTTON) Continue
+   Please enter email address to continue
+   Please enter valid email address to continue
+
+More from CBS News
+
+How are colleges handling students' use of artificial intelligence?
+
+Elon Musk says advertiser boycott at X could "kill the company"
+
+Michigan to join effort to regulate AI political ads as federal legislation
+pends
+
+Amazon is using AI to deliver packages faster than ever this holiday season
+
+   Copyright ©2023 CBS Interactive Inc. All rights reserved.
+     * Privacy Policy
+     * California Notice
+     * Do Not Sell My Personal Information
+     * Terms of Use
+     * About
+     * Advertise
+     * Closed Captioning
+     * CBS News Live on Paramount+
+     * CBS News Store
+     * Site Map
+     * Contact Us
+     * Help
+
+   Quotes delayed at least 15 minutes.
+
+   Market data provided by ICE Data Services. ICE Limitations. Powered and
+   implemented by FactSet. News provided by The Associated Press. Legal
+   Statement.
+
+     * facebook
+     * twitter
+     * instagram
+     * youtube
+
+   View CBS News In
+   CBS News App Open
+   Chrome Safari Continue
+
+   Be the first to know
+   Get browser notifications for breaking news, live events, and exclusive
+   reporting.
+   (BUTTON) Not Now (BUTTON) Turn On

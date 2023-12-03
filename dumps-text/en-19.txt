@@ -1,0 +1,209 @@
+   #The Debrief » Feed The Debrief » Comments Feed The Debrief »
+   5000-Year-Old Tablets Can Now Be Decoded by Artificial Intelligence,
+   New Research Reveals Comments Feed alternate alternate alternate
+
+     *
+
+   The Debrief The Debrief The Debrief
+
+   Menu logo Menu logo
+     * Science
+     * Tech
+     * Space
+     * Defense
+     * Aerospace
+     * UAP
+     * Podcasts
+     * Newsletter
+     * Submissions
+     * About
+
+     *
+     *
+     *
+     *
+     *
+     *
+
+   AI Cuneiform AI Cuneiform
+   (Image: Wikimedia Commons)
+
+5000-Year-Old Tablets Can Now Be Decoded by Artificial Intelligence, New
+Research Reveals
+
+   MJ Banias·November 27, 2023
+
+   A team from Martin Luther University Halle-Wittenberg, Johannes
+   Gutenberg University Mainz, and Mainz University of Applied Sciences
+   has unveiled an AI system capable of deciphering ancient cuneiform
+   texts. This novel technology, leveraging 3D models, represents a
+   significant advancement in understanding one of humanity’s earliest
+   forms of writing.
+
+   Published in The Eurographics Association journal, the researchers’
+   study focused on a set of cuneiform tablets from the Frau Professor
+   Hilprecht Collection. These tablets primarily originate from ancient
+   Mesopotamia, a historical region in present-day Iraq. Often referred to
+   as the cradle of civilization, this area is where some of the earliest
+   human societies developed. These tablets, in particular, are inscribed
+   with a series of symbols, signs, and wedges that form the languages of
+   the region, such as Sumerian, Assyrian, and Akkadian.
+
+   Many are over 5,000 years old and offer a glimpse into ancient
+   civilizations, covering a wide range of topics from everyday life to
+   legal matters.
+
+   “Everything can be found on them: from shopping lists to court
+   rulings,” said Hubert Mara, one of the study’s authors. “The tablets
+   provide a glimpse into mankind’s past several millennia ago. However,
+   they are heavily weathered and thus difficult to decipher even for
+   trained eyes.”
+
+   The team turned to AI for help.
+
+   Using a novel AI process to decode ancient cuneiform tablets, they
+   leveraged a sophisticated AI model based on the Region-based
+   Convolutional Neural Network (R-CNN) architecture, a specialized system
+   designed for object recognition. The study utilized a unique dataset
+   consisting of 3D models of 1,977 cuneiform tablets, with detailed
+   annotations of 21,000 cuneiform signs and 4,700 wedges.
+
+   The AI’s methodology entailed a two-part pipeline: initially, a sign
+   detector, built on a RepPoints model with a ResNet18 backbone,
+   identified cuneiform characters on the tablets. In simple terms, the
+   RepPoints model combs through the ResNet18 collection of images
+   connected to the Mesopotamian languages and then combines the patterns
+   to ‘see’ the text. This step was crucial for locating the signs
+   accurately. Subsequently, the wedge detector, using Point R-CNN with
+   advanced features like Feature Pyramid Network (FPN) and RoI Align,
+   classified and predicted the wedges’ positions, which forms the basis
+   of the cuneiform script’s fundamental elements, allowing the AI, in
+   effect, to ‘read.’
+
+   These tools take the 3D scans of the tablets and sift through the
+   multitude of measurements of things like the impression depth made by
+   the stylus into the clay or the distance between the symbols and
+   wedges. This nuanced approach enabled the AI to overcome the challenges
+   posed by traditional 2D photographs, such as inconsistent lighting and
+   color distractions, thus providing a more accurate analysis of the
+   ancient texts.
+
+   Traditional research on ancient texts uses optical character
+   recognition software (OCR), which converts scanned images or 2D
+   photographs of the writing into machine-readable text.
+
+   “OCR usually works with photographs or scans. This is no problem for
+   ink on paper or parchment. In the case of cuneiform tablets, however,
+   things are more difficult because the light and the viewing angle
+   greatly influence how well certain characters can be identified,” said
+   co-author Ernst Stötzner.
+
+   summer solstice summer solstice
+   See Also
+
+Summer Solstice 2022 Continues an Ancient and Mysterious Astronomical
+Tradition
+
+   Ancient scrolls, parchment, and old books are easy- they are a 2D
+   medium translated into another 2D medium. Cuneiform tablets, however,
+   are 3D, and all that depth impacts interpretation.
+
+   To address this, the research team put their AI system through an
+   extensive training regimen, utilizing three-dimensional scans and
+   supplemental data. A substantial portion of this data was contributed
+   by the Mainz University of Applied Sciences, which is currently leading
+   a significant project focused on creating 3D models of these ancient
+   clay tablets. This enabled the AI to achieve remarkable success in
+   accurately identifying the symbols inscribed on the tablets.
+
+   This technology not only democratizes access to these ancient records
+   but also opens up new avenues for research, allowing for broader
+   analysis and interpretation of historical texts. Future enhancements
+   could extend its application to other three-dimensional scripts, such
+   as weathered inscriptions found in cemeteries.
+
+   MJ Banias is a journalist and podcaster who covers security and
+   technology. He is the host of The Debrief Weekly Report and Cloak &
+   Dagger | An OSINT Podcast. You can email MJ at mj@thedebrief.org or
+   follow him on Twitter @mjbanias.
+
+   Previous ArticleA Deep Dive into the Anthropology of Searching for ET
+   Next Article‘First Ever’ Experiments to Measure Theoretical ‘Quantum
+   Flickering’ in an Empty Vacuum Slated for 2024
+
+Related Posts
+
+   The Debrief Weekly Report The Debrief Weekly Report
+
+AI Can Read Cuneiform Now
+
+   This week on The Debrief Weekly Report...
+
+   Podcasts
+
+   AI Cuneiform AI Cuneiform
+
+5000-Year-Old Tablets Can Now Be Decoded by Artificial Intelligence, New
+Research Reveals
+
+   ArchaeologyArtificial IntelligenceBreaking News
+
+   AI Smart Gun AI Smart Gun
+
+This Breakthrough AI Smart Gun is Designed to Save Lives, Rather Than Take
+Them
+
+   Breaking NewsDefenseTech
+
+   AI arms race AI arms race
+
+The AI Arms Race Will Be The Next Geopolitical Kingmaker, Experts Warn
+
+   Artificial IntelligenceBreaking News
+
+             © Copyright 2023 The Debrief. All Rights Reserved.
+
+
+ The thoughts, views, and opinions expressed in articles on this site belong
+solely to the authors and do not necessarily reflect those of The Debrief, or
+            of other groups or individuals featured on this site.
+
+                                  ADVERTISE
+
+
+                                   CONTACT
+
+
+                                    ABOUT
+
+                            EDITORIAL GUIDELINES
+
+
+                                  COPYRIGHT
+
+
+                                   PRIVACY
+
+     * Send a News Tip
+     * The Intelligence Brief
+     * Get Our Newsletter
+
+   The Debrief The Debrief The Debrief
+
+     * Science
+     * Tech
+     * Space
+     * Defense
+     * Aerospace
+     * UAP
+     * Podcasts
+     * Newsletter
+     * Submissions
+     * About
+
+     *
+     *
+
+   ____________________ (BUTTON)
+   Type to search or hit ESC to close
+   See all results

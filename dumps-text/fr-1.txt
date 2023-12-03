@@ -1,174 +1,174 @@
-   #[1]La-Croix.com
+   #La-Croix.com
 
    Rubriques
-   5EUR
+   5â‚¬
 
    pour 3 mois
    sans engagement
-   [2]Je m'abonne
-     * À vif
-          + [3]À vif
-          + [4]Chroniques
-          + [5]Editos
-          + [6]Opinions et débats
-          + [7]Blogs
-          + [8]Voir les dossiers Débats
+   Je m'abonne
+     * Ã€ vif
+          + Ã€ vif
+          + Chroniques
+          + Editos
+          + Opinions et dÃ©bats
+          + Blogs
+          + Voir les dossiers DÃ©bats
      * France
-          + [9]France
-          + [10]Politique
-          + [11]Justice
-          + [12]Sécurité
-          + [13]Education
-          + [14]Exclusion
-          + [15]Immigration
-          + [16]Voir les dossiers France
+          + France
+          + Politique
+          + Justice
+          + SÃ©curitÃ©
+          + Education
+          + Exclusion
+          + Immigration
+          + Voir les dossiers France
      * International
-          + [17]International
-          + [18]Europe
-          + [19]Afrique
-          + [20]Amériques
-          + [21]Moyen-Orient
-          + [22]Asie
-          + [23]Océanie
-          + [24]Voir les dossiers Monde
+          + International
+          + Europe
+          + Afrique
+          + AmÃ©riques
+          + Moyen-Orient
+          + Asie
+          + OcÃ©anie
+          + Voir les dossiers Monde
      * Religion
-          + [25]Religion
-          + [26]Laïcité
-          + [27]Catholicisme
-          + [28]Pape
-          + [29]Catholicisme France
-          + [30]Catholicisme Monde
-          + [31]Le Collège des cardinaux
-          + [32]La Documentation catholique
-          + [33]Islam
-          + [34]Judaïsme
-          + [35]Protestantisme
-          + [36]Orthodoxie
-          + [37]Bouddhisme
-          + [38]Croire
-          + [39]Voir les dossiers Religion
-     * Économie
-          + [40]Économie
-          + [41]Économie française
-          + [42]Économie internationale
-          + [43]Social
-          + [44]Entreprises
-          + [45]Média et presse
-          + [46]Économie solidaire
-          + [47]Voir les dossiers Économie
+          + Religion
+          + LaÃ¯citÃ©
+          + Catholicisme
+          + Pape
+          + Catholicisme France
+          + Catholicisme Monde
+          + Le CollÃ¨ge des cardinaux
+          + La Documentation catholique
+          + Islam
+          + JudaÃ¯sme
+          + Protestantisme
+          + Orthodoxie
+          + Bouddhisme
+          + Croire
+          + Voir les dossiers Religion
+     * Ã‰conomie
+          + Ã‰conomie
+          + Ã‰conomie franÃ§aise
+          + Ã‰conomie internationale
+          + Social
+          + Entreprises
+          + MÃ©dia et presse
+          + Ã‰conomie solidaire
+          + Voir les dossiers Ã‰conomie
      * Culture
-          + [48]Culture
-          + [49]Cinéma
-          + [50]Musique
-          + [51]Programme et critiques TV
-          + [52]Radio
-          + [53]Théâtre
-          + [54]Art et expositions
-          + [55]Livres et idées
-          + [56]Voir les dossiers Culture
-     * Planète
-          + [57]Planète
-          + [58]Climat
-          + [59]COP28 2023 (Dubaï)
-          + [60]Biodiversité
-          + [61]Pesticides
-          + [62]Pollution
-          + [63]Sciences
-          + [64]Voir les dossiers Environnement
-     * Santé
-          + [65]Santé
-          + [66]Médecine
-          + [67]Maladie
-          + [68]Médicament
-          + [69]Alimentation et santé
-          + [70]Écologie et santé
+          + Culture
+          + CinÃ©ma
+          + Musique
+          + Programme et critiques TV
+          + Radio
+          + ThÃ©Ã¢tre
+          + Art et expositions
+          + Livres et idÃ©es
+          + Voir les dossiers Culture
+     * PlanÃ¨te
+          + PlanÃ¨te
+          + Climat
+          + COP28 2023 (DubaÃ¯)
+          + BiodiversitÃ©
+          + Pesticides
+          + Pollution
+          + Sciences
+          + Voir les dossiers Environnement
+     * SantÃ©
+          + SantÃ©
+          + MÃ©decine
+          + Maladie
+          + MÃ©dicament
+          + Alimentation et santÃ©
+          + Ã‰cologie et santÃ©
      * Art de vivre
-          + [71]Art de vivre
-          + [72]Recettes de cuisine
-          + [73]Jardin
-          + [74]Voir les dossiers Art de vivre
+          + Art de vivre
+          + Recettes de cuisine
+          + Jardin
+          + Voir les dossiers Art de vivre
      * Sport
-          + [75]Sport
-          + [76]Football
-          + [77]Rugby
-          + [78]Tennis
-          + [79]Cyclisme
-          + [80]Jeux Olympiques Paris 2024
-          + [81]Voir les dossiers Sport
-     * [82]Dernières infos AFP
-     * [83]Newsletters
-     * [84]Podcast
-     * Vidéos
-          + [85]Vidéos
-          + [86]Diaporamas
-          + [87]Graphiques
-          + [88]Quiz
-     * [89]Lire le Journal
-     * [90]La Croix l'Hebdo
-     * [91]Blogs
-     * [92]Archives
-     * [93]Mots Croisés
-     * [94]La Croix International
-     * [95]Librairie La Croix
+          + Sport
+          + Football
+          + Rugby
+          + Tennis
+          + Cyclisme
+          + Jeux Olympiques Paris 2024
+          + Voir les dossiers Sport
+     * DerniÃ¨res infos AFP
+     * Newsletters
+     * Podcast
+     * VidÃ©os
+          + VidÃ©os
+          + Diaporamas
+          + Graphiques
+          + Quiz
+     * Lire le Journal
+     * La Croix l'Hebdo
+     * Blogs
+     * Archives
+     * Mots CroisÃ©s
+     * La Croix International
+     * Librairie La Croix
 
    Lire
    le Journal
    Lire
    l'Hebdo
-   [96]La Croix logo
-   [97]Je m'abonne
-   [98]Se connecter
+   La Croix logo
+   Je mâ€™abonne
+   Se connecter
 
-     * [99]À vif
-     * [100]France
-     * [101]International
-     * [102]Religion
-     * [103]Économie
-     * [104]Culture
-     * [105]Planète
+     * Ã€ vif
+     * France
+     * International
+     * Religion
+     * Ã‰conomie
+     * Culture
+     * PlanÃ¨te
 
-    1. [106]Actualité
-    2. [107]France
+    1. ActualitÃ©
+    2. France
 
-Éric Sadin : « L'intelligence artificielle engendre une mise au ban
-progressive de l'humain »
+Ã‰ric Sadinâ€‰: Â« Lâ€™intelligence artificielle engendre une mise au ban
+progressive de lâ€™humain Â»
 
-   ENTRETIEN Dans L'Intelligence artificielle ou l'enjeu du siècle, le
-   philosophe Éric Sadin adopte une approche très critique de
-   l'intelligence artificielle, et appelle à résister à cette révolution
+   ENTRETIEN Dans Lâ€™Intelligence artificielle ou lâ€™enjeu du siÃ¨cle, le
+   philosophe Ã‰ric Sadin adopte une approche trÃ¨s critique de
+   lâ€™intelligence artificielle, et appelle Ã  rÃ©sister Ã  cette rÃ©volution
    silencieuse.
      * Recueilli par Loup Besmond de Senneville,
-     * le 13/01/2019 à 06:38
+     * le 13/01/2019 Ã  06:38
      *
 
    Lecture en 5 min.
-   Éric Sadin : « L'intelligence artificielle engendre une mise au ban
-   progressive de l'humain »
+   Ã‰ric Sadinâ€‰: Â« Lâ€™intelligence artificielle engendre une mise au ban
+   progressive de lâ€™humain Â»
 
-   Éric Sadin : « L'intelligence artificielle engendre une mise au ban
-   progressive de l'humain »
-   ×
-   Éric Sadin : « L'intelligence artificielle engendre une mise au ban
-   progressive de l'humain »
+   Ã‰ric Sadinâ€‰: Â« Lâ€™intelligence artificielle engendre une mise au ban
+   progressive de lâ€™humain Â»
+   Ã—
+   Ã‰ric Sadinâ€‰: Â« Lâ€™intelligence artificielle engendre une mise au ban
+   progressive de lâ€™humain Â»
    1 / 2
-   Éric Sadin : « L'intelligence artificielle engendre une mise au ban
-   progressive de l'humain »
+   Ã‰ric Sadinâ€‰: Â« Lâ€™intelligence artificielle engendre une mise au ban
+   progressive de lâ€™humain Â»
    2 / 2
 
-   «L'intelligence artificielle marginalise l'exercice de notre faculté de
-   jugement et porte atteinte à notre droit corollaire à nous déterminer
-   librement et en conscience.»
+   Â«â€¯Lâ€™intelligence artificielle marginalise lâ€™exercice de notre facultÃ©
+   de jugement et porte atteinte Ã  notre droit corollaire Ã  nous
+   dÃ©terminer librement et en conscience.â€¯Â»
 
    Aleksey-stock.adobe.com
-   «L'intelligence artificielle marginalise l'exercice de notre faculté de
-   jugement et porte atteinte à notre droit corollaire à nous déterminer
-   librement et en conscience.»
-   «L'intelligence artificielle marginalise l'exercice de notre faculté de
-   jugement et porte atteinte à notre droit corollaire à nous déterminer
-   librement et en conscience.» Aleksey-stock.adobe.com
+   Â«â€¯Lâ€™intelligence artificielle marginalise lâ€™exercice de notre facultÃ©
+   de jugement et porte atteinte Ã  notre droit corollaire Ã  nous
+   dÃ©terminer librement et en conscience.â€¯Â»
+   Â«â€¯Lâ€™intelligence artificielle marginalise lâ€™exercice de notre facultÃ©
+   de jugement et porte atteinte Ã  notre droit corollaire Ã  nous
+   dÃ©terminer librement et en conscience.â€¯Â» Aleksey-stock.adobe.com
      *
           + Commenter
-            Réagir
+            RÃ©agir
           + Envoyer par mail
             Envoyer
           + Partager sur Facebook
@@ -177,7 +177,7 @@ progressive de l'humain »
             Twitter
 
      * Commenter
-       Réagir
+       RÃ©agir
      * Envoyer par mail
        Envoyer
      * Partager sur Facebook
@@ -186,796 +186,481 @@ progressive de l'humain »
        Twitter
 
    La Croix : Vous travaillez sur la technique et son impact pour nos vies
-   depuis plusieurs années, et venez de sortir un livre sur l'intelligence
-   artificielle, dont vous parlez comme d'un « antihumanisme radical ».
-   Comment définissez-vous cette notion ?
-   Éric Sadin : « L'intelligence artificielle engendre une mise au ban
-   progressive de l'humain »
+   depuis plusieurs annÃ©es, et venez de sortir un livre sur lâ€™intelligence
+   artificielle, dont vous parlez comme dâ€™un Â« antihumanisme radical Â».
+   Comment dÃ©finissez-vous cette notion ?
+   Ã‰ric Sadinâ€‰: Â« Lâ€™intelligence artificielle engendre une mise au ban
+   progressive de lâ€™humain Â»
 
    S. Laroque
 
-   Éric Sadin : Depuis son origine, le rôle de l'informatique est de
-   permettre un accès toujours plus aisé à l'information. Si aujourd'hui
-   les technologies numériques continuent d'offrir ces fonctions, elles
-   sont dorénavant dotées de la faculté d'orienter nos gestes. Cette
-   dimension est particulièrement à l'oeuvre depuis l'avènement des
-   smartphones, et la généralisation des applications, qui a vu
-   s'instaurer une sorte d'accompagnement continu de notre quotidien.
+   Ã‰ric Sadin : Depuis son origine, le rÃ´le de lâ€™informatique est de
+   permettre un accÃ¨s toujours plus aisÃ© Ã  lâ€™information. Si aujourdâ€™hui
+   les technologies numÃ©riques continuent dâ€™offrir ces fonctions, elles
+   sont dorÃ©navant dotÃ©es de la facultÃ© dâ€™orienter nos gestes. Cette
+   dimension est particuliÃ¨rement Ã  lâ€™Å“uvre depuis lâ€™avÃ¨nement des
+   smartphones, et la gÃ©nÃ©ralisation des applications, qui a vu
+   sâ€™instaurer une sorte dâ€™accompagnement continu de notre quotidien.
 
-   Ces systèmes d'intelligence artificielle peuvent nous dévoiler la
-   teneur de situations à des vitesses infiniment supérieures à nos
-   capacités cognitives, allant jusqu'à parfois nous révéler des
-   phénomènes dont nous n'avions pas conscience.
+   Ces systÃ¨mes dâ€™intelligence artificielle peuvent nous dÃ©voiler la
+   teneur de situations Ã  des vitesses infiniment supÃ©rieures Ã  nos
+   capacitÃ©s cognitives, allant jusquâ€™Ã  parfois nous rÃ©vÃ©ler des
+   phÃ©nomÃ¨nes dont nous nâ€™avions pas conscience.
 
-   C'est le cas par exemple, avec l'application d'aide aux déplacements
-   Waze, rachetée par Google en 2005-2006, et qui décrit en temps réel
-   l'état du trafic et préconise de prendre tel itinéraire plutôt que tel
-   autre. Le libre exercice de notre faculté de jugement se trouve peu à
-   peu substitué par des systèmes destinés à infléchir nos décisions,
-   principalement en vue de répondre à des intérêts privés. Il s'agit là
-   d'une rupture juridico-politique majeure.
+   Câ€™est le cas par exemple, avec lâ€™application dâ€™aide aux dÃ©placements
+   Waze, rachetÃ©e par Google en 2005-2006, et qui dÃ©crit en temps rÃ©el
+   lâ€™Ã©tat du trafic et prÃ©conise de prendre tel itinÃ©raire plutÃ´t que tel
+   autre. Le libre exercice de notre facultÃ© de jugement se trouve peu Ã 
+   peu substituÃ© par des systÃ¨mes destinÃ©s Ã  inflÃ©chir nos dÃ©cisions,
+   principalement en vue de rÃ©pondre Ã  des intÃ©rÃªts privÃ©s. Il sâ€™agit lÃ 
+   dâ€™une rupture juridico-politique majeure.
 
-   Que révèle la multiplication des enceintes connectées ?
+   Que rÃ©vÃ¨le la multiplication des enceintes connectÃ©es ?
 
-   E. S. : Il est très troublant de relever qu'au moment où ces techniques
-   sont appelées à nous dire ce qui est supposé le mieux nous convenir,
-   elles se mettent à parler. La multiplication des enceintes connectées
+   E. S. : Il est trÃ¨s troublant de relever quâ€™au moment oÃ¹ ces techniques
+   sont appelÃ©es Ã  nous dire ce qui est supposÃ© le mieux nous convenir,
+   elles se mettent Ã  parler. La multiplication des enceintes connectÃ©es
    et des chatbots (robot logiciel pouvant dialoguer avec un individu,
-   NDLR) est le signe d'une relation toujours plus familière qui
-   s'institue entre ces protocoles et nous. Ce qui nous conduit à perdre
-   toute distance critique à leur endroit. Nous allons de plus en plus
-   être guidés par des systèmes nous signalant en toute occasion la
-   meilleure action à entreprendre et se présentant comme des
-   administrateurs bien attentionnés de nos existences. C'est cela que
-   j'appelle le « tournant injonctif » de la technique.
-   À lire aussi[108]La France dévoile son plan pour l'intelligence
-   artificielle
+   NDLR) est le signe dâ€™une relation toujours plus familiÃ¨re qui
+   sâ€™institue entre ces protocoles et nous. Ce qui nous conduit Ã  perdre
+   toute distance critique Ã  leur endroit. Nous allons de plus en plus
+   Ãªtre guidÃ©s par des systÃ¨mes nous signalant en toute occasion la
+   meilleure action Ã  entreprendre et se prÃ©sentant comme des
+   administrateurs bien attentionnÃ©s de nos existences. Câ€™est cela que
+   jâ€™appelle le Â« tournant injonctif Â» de la technique.
+   Ã€ lire aussiLa France dÃ©voile son plan pour lâ€™intelligence artificielle
 
-   Pourtant, rien ne nous oblige à suivre ces préconisations...
+   Pourtant, rien ne nous oblige Ã  suivre ces prÃ©conisationsâ€¦
 
-   E. S. : Il sera de plus en plus difficile d'y résister car ces
-   techniques, à la faveur de leurs facultés « auto-apprenantes », sont
-   vouées à sans cesse se perfectionner. Dans cette mesure, il sera
-   toujours plus difficile de contester les préconisations d'une
+   E. S. : Il sera de plus en plus difficile dâ€™y rÃ©sister car ces
+   techniques, Ã  la faveur de leurs facultÃ©s Â« auto-apprenantes Â», sont
+   vouÃ©es Ã  sans cesse se perfectionner. Dans cette mesure, il sera
+   toujours plus difficile de contester les prÃ©conisations dâ€™une
    application de coaching sportif par exemple, forte de sa constante
-   sophistication et nourrie du suivi régulier de nos états. Ces systèmes
-   génèrent une aura de vérité qui est vouée à s'imposer à nos consciences
-   comme un fait quasi « naturel ». Et si cette vérité devient
-   incontestable, c'est notamment parce qu'elle revêt une valeur
-   d'objectivité, alors qu'elle répond à des intérêts de toutes sortes.
+   sophistication et nourrie du suivi rÃ©gulier de nos Ã©tats. Ces systÃ¨mes
+   gÃ©nÃ¨rent une aura de vÃ©ritÃ© qui est vouÃ©e Ã  sâ€™imposer Ã  nos consciences
+   comme un fait quasi Â« naturel Â». Et si cette vÃ©ritÃ© devient
+   incontestable, câ€™est notamment parce quâ€™elle revÃªt une valeur
+   dâ€™objectivitÃ©, alors quâ€™elle rÃ©pond Ã  des intÃ©rÃªts de toutes sortes.
 
-   Quelles implications l'intelligence artificielle a-t-elle en dehors du
+   Quelles implications lâ€™intelligence artificielle a-t-elle en dehors du
    champ individuel ?
 
-   E. S. : Dans le champ du travail, on assiste à l'émergence de systèmes
-   d'intelligence artificielle qui, au moyen de capteurs, interprètent les
-   situations et édictent au personnel des actions à entreprendre.
+   E. S. : Dans le champ du travail, on assiste Ã  lâ€™Ã©mergence de systÃ¨mes
+   dâ€™intelligence artificielle qui, au moyen de capteurs, interprÃ¨tent les
+   situations et Ã©dictent au personnel des actions Ã  entreprendre.
 
-   C'est le cas dans les entrepôts d'Amazon, où les manutentionnaires sont
-   tenus d'obéir à des ordres donnés par des systèmes automatisés, suivant
-   les cadences les plus extrêmes. Ils ont un temps défini pour se rendre
-   dans une zone précise et rapporter tel objet. Ces procédés privent les
-   individus de leur subjectivité, de leur liberté d'initiative et de leur
-   spontanéité.
-   À lire aussi[109]Intelligence artificielle, quelle place pour l'humain
-   ?
+   Câ€™est le cas dans les entrepÃ´ts dâ€™Amazon, oÃ¹ les manutentionnaires sont
+   tenus dâ€™obÃ©ir Ã  des ordres donnÃ©s par des systÃ¨mes automatisÃ©s, suivant
+   les cadences les plus extrÃªmes. Ils ont un temps dÃ©fini pour se rendre
+   dans une zone prÃ©cise et rapporter tel objet. Ces procÃ©dÃ©s privent les
+   individus de leur subjectivitÃ©, de leur libertÃ© dâ€™initiative et de leur
+   spontanÃ©itÃ©.
+   Ã€ lire aussiIntelligence artificielle, quelle place pour lâ€™humain ?
 
-   Nous assistons là à un basculement : la machine est devenue donneuse
-   d'ordre. Cela constitue un renversement anthropologique et politique
-   décisif. Nous aurions besoin d'une nouvelle Simone Weil, la philosophe,
-   qui irait travailler dans une usine dite « 4.0 » et qui décrirait les
-   nouvelles méthodes inhumaines de management qui aujourd'hui se
-   généralisent dans les grandes entreprises.
+   Nous assistons lÃ  Ã  un basculement : la machine est devenue donneuse
+   dâ€™ordre. Cela constitue un renversement anthropologique et politique
+   dÃ©cisif. Nous aurions besoin dâ€™une nouvelle Simone Weil, la philosophe,
+   qui irait travailler dans une usine dite Â« 4.0 Â» et qui dÃ©crirait les
+   nouvelles mÃ©thodes inhumaines de management qui aujourdâ€™hui se
+   gÃ©nÃ©ralisent dans les grandes entreprises.
 
-   Qu'est-ce qui, en nous, est remis en cause par ce type de systèmes ?
+   Quâ€™est-ce qui, en nous, est remis en cause par ce type de systÃ¨mes ?
 
-   E. S. : C'est toute notre tradition humaniste qui se trouve en péril
-   dans la mesure où nous assistons à la mise au ban progressive de
-   l'humain en tant qu'être agissant. Car l'intelligence artificielle
-   marginalise l'exercice de notre faculté de jugement et porte atteinte à
-   notre droit corollaire à nous déterminer librement et en conscience.
+   E. S. : Câ€™est toute notre tradition humaniste qui se trouve en pÃ©ril
+   dans la mesure oÃ¹ nous assistons Ã  la mise au ban progressive de
+   lâ€™humain en tant quâ€™Ãªtre agissant. Car lâ€™intelligence artificielle
+   marginalise lâ€™exercice de notre facultÃ© de jugement et porte atteinte Ã 
+   notre droit corollaire Ã  nous dÃ©terminer librement et en conscience.
 
-   C'est alors la singularité des êtres et la pluralité humaine qui se
-   voient peu à peu neutralisées par des modes d'organisation automatisés
-   chassant le conflit, la délibération et la concertation. Autant de
-   principes qui conditionnent la vie politique et démocratique.
+   Câ€™est alors la singularitÃ© des Ãªtres et la pluralitÃ© humaine qui se
+   voient peu Ã  peu neutralisÃ©es par des modes dâ€™organisation automatisÃ©s
+   chassant le conflit, la dÃ©libÃ©ration et la concertation. Autant de
+   principes qui conditionnent la vie politique et dÃ©mocratique.
 
-   Iriez-vous jusqu'à dire que l'intelligence artificielle ébranle une
-   part de notre humanité ?
+   Iriez-vous jusquâ€™Ã  dire que lâ€™intelligence artificielle Ã©branle une
+   part de notre humanitÃ© ?
 
-   E. S. : Elle ébranle avant toute chose notre appréhension
-   multisensorielle du réel dans la mesure où nous laissons le soin à des
-   dispositifs techniques de nous guider. D'autant que ceux-ci procèdent
-   d'une seule analyse de données numériques qui sont incapables de rendre
-   compte de toute l'épaisseur des choses.
+   E. S. : Elle Ã©branle avant toute chose notre apprÃ©hension
+   multisensorielle du rÃ©el dans la mesure oÃ¹ nous laissons le soin Ã  des
+   dispositifs techniques de nous guider. Dâ€™autant que ceux-ci procÃ¨dent
+   dâ€™une seule analyse de donnÃ©es numÃ©riques qui sont incapables de rendre
+   compte de toute lâ€™Ã©paisseur des choses.
 
-   C'est également une simple présence gratuite au monde qui est niée, le
-   souffle de l'imaginaire, la rêverie, le droit de n'être tenu par rien.
-   Car en ambitionnant de continuellement nous gouverner, ces systèmes
-   instaurent un rapport strictement utilitariste à l'existence, supposant
-   que toute action doit viser une fin, que ce soit un prétendu confort ou
-   l'optimisation de séquences de nos vies.
+   Câ€™est Ã©galement une simple prÃ©sence gratuite au monde qui est niÃ©e, le
+   souffle de lâ€™imaginaire, la rÃªverie, le droit de nâ€™Ãªtre tenu par rien.
+   Car en ambitionnant de continuellement nous gouverner, ces systÃ¨mes
+   instaurent un rapport strictement utilitariste Ã  lâ€™existence, supposant
+   que toute action doit viser une fin, que ce soit un prÃ©tendu confort ou
+   lâ€™optimisation de sÃ©quences de nos vies.
 
-   Pourquoi insistez-vous, dans votre livre, sur l'importance, dans notre
-   monde, de la vulnérabilité ?
+   Pourquoi insistez-vous, dans votre livre, sur lâ€™importance, dans notre
+   monde, de la vulnÃ©rabilitÃ© ?
 
    E. S. : Le mouvement technologique en vigueur depuis une quinzaine
-   d'années est sous-tendu par une vision du monde prévalant aux
-   États-Unis, principalement en Californie, selon laquelle Dieu n'a pas
-   parachevé la Création. Le monde étant alors pétri de défauts, le
-   vecteur majeur de ces imperfections est l'humain.
-   À lire aussi[110]Des propositions pour encadrer l'intelligence
-   artificielle dans la santé
+   dâ€™annÃ©es est sous-tendu par une vision du monde prÃ©valant aux
+   Ã‰tats-Unis, principalement en Californie, selon laquelle Dieu nâ€™a pas
+   parachevÃ© la CrÃ©ation. Le monde Ã©tant alors pÃ©tri de dÃ©fauts, le
+   vecteur majeur de ces imperfections est lâ€™humain.
+   Ã€ lire aussiDes propositions pour encadrer lâ€™intelligence artificielle
+   dans la santÃ©
 
-   On comprend mieux alors le mouvement transhumaniste, qui relève d'un
-   extrême positivisme, et qui va jusqu'à affirmer que ce qui constitue le
-   propre du vivant - c'est-à-dire la corruption et le déclin - pourra
-   être éradiqué. Car c'est une volonté de proscrire toute incertitude,
-   toute faiblesse, toute faillibilité - procédant d'un déni de notre
-   humanité -, qui est à l'oeuvre pour instaurer une société prétendument
-   parfaite, une sorte d'hygiénisme extrême.
+   On comprend mieux alors le mouvement transhumaniste, qui relÃ¨ve dâ€™un
+   extrÃªme positivisme, et qui va jusquâ€™Ã  affirmer que ce qui constitue le
+   propre du vivant â€“ câ€™est-Ã -dire la corruption et le dÃ©clin â€“ pourra
+   Ãªtre Ã©radiquÃ©. Car câ€™est une volontÃ© de proscrire toute incertitude,
+   toute faiblesse, toute faillibilitÃ© â€“ procÃ©dant dâ€™un dÃ©ni de notre
+   humanitÃ© â€“, qui est Ã  lâ€™Å“uvre pour instaurer une sociÃ©tÃ© prÃ©tendument
+   parfaite, une sorte dâ€™hygiÃ©nisme extrÃªme.
 
-   Face à cela, comment réagir ?
+   Face Ã  cela, comment rÃ©agir ?
 
-   E. S. : Nous sommes démunis par la vitesse des développements qui nous
-   empêche de nous prononcer en conscience et qui sont présentés comme
-   étant inéluctables. Le drame est que nous nous trouvons comme frappés
-   d'apathie. Il conviendrait d'abord de contredire tous ces
-   techno-discours et de faire remonter des témoignages émanant de la
-   réalité du terrain, là où ces systèmes opèrent, sur les lieux de
-   travail, dans les écoles, les hôpitaux...
+   E. S. : Nous sommes dÃ©munis par la vitesse des dÃ©veloppements qui nous
+   empÃªche de nous prononcer en conscience et qui sont prÃ©sentÃ©s comme
+   Ã©tant inÃ©luctables. Le drame est que nous nous trouvons comme frappÃ©s
+   dâ€™apathie. Il conviendrait dâ€™abord de contredire tous ces
+   techno-discours et de faire remonter des tÃ©moignages Ã©manant de la
+   rÃ©alitÃ© du terrain, lÃ  oÃ¹ ces systÃ¨mes opÃ¨rent, sur les lieux de
+   travail, dans les Ã©coles, les hÃ´pitauxâ€¦
 
-   Nous devrions tout autant manifester notre refus à l'égard de certains
-   dispositifs lorsqu'il est estimé qu'ils bafouent notre intégrité et
-   notre dignité. Il nous revient encore de faire valoir d'autres modes
-   d'existence que ceux fondés sur la volonté de tout optimiser et de tout
-   marchandiser. Contre cet assaut antihumaniste, faisons prévaloir une
-   équation simple mais intangible : plus on compte nous dessaisir de
-   notre pouvoir d'agir, plus il convient d'être agissant.
-   À lire aussi[111]Savez-vous mieux reconnaître un avion qu'une
-   intelligence artificielle ?
+   Nous devrions tout autant manifester notre refus Ã  lâ€™Ã©gard de certains
+   dispositifs lorsquâ€™il est estimÃ© quâ€™ils bafouent notre intÃ©gritÃ© et
+   notre dignitÃ©. Il nous revient encore de faire valoir dâ€™autres modes
+   dâ€™existence que ceux fondÃ©s sur la volontÃ© de tout optimiser et de tout
+   marchandiser. Contre cet assaut antihumaniste, faisons prÃ©valoir une
+   Ã©quation simple mais intangible : plus on compte nous dessaisir de
+   notre pouvoir dâ€™agir, plus il convient dâ€™Ãªtre agissant.
+   Ã€ lire aussiSavez-vous mieux reconnaÃ®tre un avion quâ€™une intelligence
+   artificielle ?
 
-   ------------------
+   â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“---
 
-Éric Sadin en six dates
+Ã‰ric Sadin en six dates
 
-   1999. Fondation de la revue éc/artS, consacrée à l'art et aux nouvelles
+   1999. Fondation de la revue Ã©c/artS, consacrÃ©e Ã  lâ€™art et aux nouvelles
    technologies.
 
-   2009. Publication de Surveillance globale - Enquête sur les nouvelles
-   formes de contrôle (Climats/Flammarion), dans lequel il explore la
-   généralisation des systèmes exploitant des données personnelles.
+   2009. Publication de Surveillance globale â€“ EnquÃªte sur les nouvelles
+   formes de contrÃ´le (Climats/Flammarion), dans lequel il explore la
+   gÃ©nÃ©ralisation des systÃ¨mes exploitant des donnÃ©es personnelles.
 
-   2011. Publication de La Société de l'anticipation (Inculte, 2011).
+   2011. Publication de La SociÃ©tÃ© de lâ€™anticipation (Inculte, 2011).
 
-   2013. Sortie, aux éditions de L'échappée, de L'Humanité augmentée -
-   L'administration numérique du monde, suivi, en 2015, de La Vie
-   algorithmique - Critique de la raison numérique (L'échappée).
+   2013. Sortie, aux Ã©ditions de Lâ€™Ã©chappÃ©e, de Lâ€™HumanitÃ© augmentÃ©e â€“
+   Lâ€™administration numÃ©rique du monde, suivi, en 2015, de La Vie
+   algorithmique â€“ Critique de la raison numÃ©rique (Lâ€™Ã©chappÃ©e).
 
-   2016. Dans La Silicolonisation du monde - L'irrésistible expansion du
-   libéralisme numérique (L'échappée), il développe une thèse selon
-   laquelle les géants du numérique installés en Californie nous imposent
-   leur vision du monde en même temps que leurs produits et logiciels.
+   2016. Dans La Silicolonisation du monde â€“ Lâ€™irrÃ©sistible expansion du
+   libÃ©ralisme numÃ©rique (Lâ€™Ã©chappÃ©e), il dÃ©veloppe une thÃ¨se selon
+   laquelle les gÃ©ants du numÃ©rique installÃ©s en Californie nous imposent
+   leur vision du monde en mÃªme temps que leurs produits et logiciels.
 
-   2018. Publication de L'Intelligence artificielle ou l'enjeu du siècle -
-   Anatomie d'un antihumanisme radical (L'échappée).
-   À découvrir [112]À Bruxelles, la régulation de l'IA surveillée de près
-   par les lobbys
-     * [113]Intelligence artificielle (IA)
-     * [114]Éthique
-     * [115]Sciences
+   2018. Publication de Lâ€™Intelligence artificielle ou lâ€™enjeu du siÃ¨cle â€“
+   Anatomie dâ€™un antihumanisme radical (Lâ€™Ã©chappÃ©e).
+   Ã€ dÃ©couvrir Ã€ Bruxelles, la rÃ©gulation de lâ€™IA surveillÃ©e de prÃ¨s par
+   les lobbys
+     * Intelligence artificielle (IA)
+     * Ã‰thique
+     * Sciences
 
-Réagissez
+Lâ€™essentiel Ã  midi
+
+   La sÃ©lection de la rÃ©daction, trois fois par jour
+   le 30/11/2023
+
+Participants, enjeuxâ€¦ 10 choses Ã  savoir sur la COP28 de DubaÃ¯
+
+Projet de loi immigration : les dÃ©putÃ©s dÃ©tricotent le travail de la droite
+sÃ©natoriale
+
+Henry Kissinger : mort dâ€™un diplomate controversÃ©, symbole de la Guerre
+froide
+
+   Henry Kissinger : mort dâ€™un diplomate controversÃ©, symbole de la Guerre
+   froide
+
+Lâ€™inflation continue Ã  ralentir en France et atteint 3,4 % sur un an
+
+Quelle place pour la libertÃ© dâ€™expression dans lâ€™islam ?
+
+Emploi : ces retraitÃ©s qui reprennent du service pour le nuclÃ©aire
+
+   Emploi : ces retraitÃ©s qui reprennent du service pour le nuclÃ©aire
+
+BDâ€‰jeunesse : les coups de cÅ“ur de 2023
+
+   BDâ€‰jeunesse : les coups de cÅ“ur de 2023
+   Plus dâ€™articles +
+
+RÃ©agissez
      __________________________________________________________________
 
-   Vous devez être connecté afin de pouvoir poster un commentaire
+   Vous devez Ãªtre connectÃ© afin de pouvoir poster un commentaire
 
-   Déjà inscrit sur
+   DÃ©jÃ  inscrit sur
    la Croix ?
    SE CONNECTER
 
    Pas encore
-   abonné ?
-   ABONNEZ-VOUS
-   à partir d'1EUR
+   abonnÃ© ?
+   ABONNEZ-VOUS Ã  partir d'1â‚¬
 
    Dans ce dossier
 
-   [116]Intelligence artificielle (IA)
+   Intelligence artificielle (IA)
 
-   [117]Intelligence artificielle : à OpenAI, la victoire des « pressés »
-   sur les « prudents »
-   [118]Intelligence artificielle : à OpenAI, la victoire des « pressés »
-   sur les « prudents »
+   Intelligence artificielleâ€‰: bientÃ´t un outil conÃ§u Â« par et pour les
+   journalistes Â» pour informer sur le climat
+   Intelligence artificielleâ€‰: bientÃ´t un outil conÃ§u Â« par et pour les
+   journalistes Â» pour informer sur le climat
 
-   [119]« Mars Express », film noir sur planète rouge
-   [120]« Mars Express », film noir sur planète rouge
+   Confiance dans les mÃ©diasâ€‰: lâ€™intelligence artificielle va-t-elle
+   remplacer les journalistes ?
+   Confiance dans les mÃ©diasâ€‰: lâ€™intelligence artificielle va-t-elle
+   remplacer les journalistes ?
 
-   [121]Intelligence artificielle : les syndicats réclament un véritable
+   Le vrai but de lâ€™IA
+   Le vrai but de lâ€™IA
+
+   Intelligence artificielle : Ã  OpenAI, la victoire des Â« pressÃ©s Â» sur
+   les Â« prudents Â»
+   Intelligence artificielle : Ã  OpenAI, la victoire des Â« pressÃ©s Â» sur
+   les Â« prudents Â»
+
+   Â« Mars Express Â», film noir sur planÃ¨te rouge
+   Â« Mars Express Â», film noir sur planÃ¨te rouge
+
+   Intelligence artificielle : les syndicats rÃ©clament un vÃ©ritable
    dialogue social
-   [122]Intelligence artificielle : les syndicats réclament un véritable
+   Intelligence artificielle : les syndicats rÃ©clament un vÃ©ritable
    dialogue social
 
-   [123]Intelligence artificielle : Niel, Saadé et l'ex PDG de Google
-   lancent un laboratoire de recherche à Paris
-   [124]Intelligence artificielle : Niel, Saadé et l'ex PDG de Google
-   lancent un laboratoire de recherche à Paris
+   Intelligence artificielle : Niel, SaadÃ© et lâ€™ex PDG de Google lancent
+   un laboratoire de recherche Ã  Paris
+   Intelligence artificielle : Niel, SaadÃ© et lâ€™ex PDG de Google lancent
+   un laboratoire de recherche Ã  Paris
 
-   [125]Et si les plantes et les machines étaient intelligentes ?
-   [126]Et si les plantes et les machines étaient intelligentes ?
+   Et si les plantes et les machines Ã©taient intelligentesâ€‰?
+   Et si les plantes et les machines Ã©taient intelligentesâ€‰?
 
-   [127]« Now and Then » : les Beatles, une dernière fois... avec l'IA
-   [128]« Now and Then » : les Beatles, une dernière fois... avec l'IA
-
-   [129]Intelligence artificielle : au Royaume-Uni, un premier sommet
-   consacré aux risques et à la régulation
-   [130]Intelligence artificielle : au Royaume-Uni, un premier sommet
-   consacré aux risques et à la régulation
-
-   [131]Intelligence artificielle : Joe Biden lance les États-Unis dans la
-   régulation
-   [132]Intelligence artificielle : Joe Biden lance les États-Unis dans la
-   régulation
-
-   [133]Intelligence artificielle : aux États-Unis, des écrivains
-   saisissent la justice
-   [134]Intelligence artificielle : aux États-Unis, des écrivains
-   saisissent la justice
+   Â« Now and Then Â» : les Beatles, une derniÃ¨re foisâ€¦ avec lâ€™IA
+   Â« Now and Then Â» : les Beatles, une derniÃ¨re foisâ€¦ avec lâ€™IA
    Voir plus d'articles
-
-Les plus lus
-
-   [135]Le candidat d'extrême droite Geert Wilders (photo) est arrivé en
-   tête des élections législatives néerlandaises, mercredi 22 novembre,
-   sans toutefois avoir l'assurance de pouvoir gouverner. 1.
-
-Pays-Bas : le succès inattendu de Geert Wilders, un avertissement pour
-l'Europe
-
-   [136]2.
-
-Mort de Thomas : l'auteur présumé des coups mortels interpellé
-
-   [137]3.
-
-Guerre en Ukraine, jour 635 : ce qu'il faut retenir de la journée du lundi 20
-novembre
-
-   [138]4.
-
-Trafic de drogue: neuf jeunes hommes poursuivis, soupçonnés de la mort du
-petit Fayed à Nîmes
-
-   [139]5.
-
-« The Crown »  : dernière saison d'une série à la véracité historique
-contestée
-
    (BUTTON)
 
-   La Croix NUMÉRIQUE ESSENTIEL
+   La Croix NUMÃ‰RIQUE ESSENTIEL
    Footer banner mobile
-   5EUR pour 3 mois sans engagement
+   5â‚¬ pour 3 mois sans engagement
    Je m'abonne
    TOUS LES ARTICLES SUR LE SITE
-   ET L'APPLICATION
-     * Le journal papier et l'Hebdo en version numérique
-     * Les 3 newsletters quotidiennes « L'essentiel »
-     * Les newsletters thématiques
-     * L'accès aux archives
+   ET Lâ€™APPLICATION
+     * Le journal papier et lâ€™Hebdo en version numÃ©rique
+     * Les 3 newsletters quotidiennes Â« Lâ€™essentiel Â»
+     * Les newsletters thÃ©matiques
+     * Lâ€™accÃ¨s aux archives
 
    Footer banner desktop Footer banner desktop bubble
-   À la Une
+   Ã€ la Une
    France
-     * [140]Violences faites aux femmes : des milliers de manifestants
-       pour réclamer plus de moyens
-     * [141]« Soumission chimique », un danger bien réel pour les femmes
-     * [142]Seine-Saint-Denis : trois morts dans l'incendie d'un immeuble
-       à Stains
-     * [143]Violences faites aux femmes : « Aujourd'hui, je me sens à
-       nouveau en sécurité »
+     * Subventions Ã  Alternatiba : la justice administrative dÃ©boute le
+       prÃ©fet de la Vienne
+     * Surpopulation carcÃ©rale : le nombre de dÃ©tenus bat un nouveau
+       record en France
+     * Messagerie Olvid : pourquoi Matignon somme-t-il les ministres de
+       lâ€™utiliser ?
+     * Projet de loi immigration : les dÃ©putÃ©s dÃ©tricotent le travail de
+       la droite sÃ©natoriale
 
    Monde
-     * [144]Guerre Israël-Hamas : 14 otages israéliens remis à la
-       Croix-Rouge, selon le Hamas
-     * [145]Sénégal : l'université de Dakar mise sous cloche par les
-       autorités
-     * [146]En Espagne, les antennes du parti socialiste visées par des
-       actes de vandalisme
-     * [147]États-Unis : le policier meurtrier de George Floyd, Derek
-       Chauvin, poignardé en prison
+     * Ã‰tats-Unis : George Santos, Ã©lu trumpiste en passe dâ€™Ãªtre expulsÃ©
+       du CongrÃ¨s
+     * Le NÃ©pal enregistre son premier mariage LGBT +
+     * Guerre en Ukraine, jour 645 : Zelensky prÃ¨s de la ligne de front,
+       Poutine en confÃ©rence de presse
+     * Guerre IsraÃ«l-Hamas, jour 55 : le Hamas revendique lâ€™attentat Ã 
+       JÃ©rusalem et appelle Ã  Â« une escalade Â»
 
    Religion
-     * [148]Le pape François, grippé, annule ses audiences du jour
-     * [149]Congrégations : l'avenir passe par la transformation de la vie
-       religieuse
-     * [150]D'où viennent les punaises de lit ?
-     * [151]Catherine d'Alexandrie, la sainte qui a refusé le mariage
+     * Figures de la rencontreâ€‰: Wilfrid Stinissen, un maÃ®tre spirituel
+       venu de SuÃ¨de
+     * COP 28 : les cultes appellent Emmanuel Macron Ã  mener une action
+       Â« drastique et sans dÃ©lai Â»
+     * Ghana : polÃ©mique aprÃ¨s les propos du cardinal Turkson contre la
+       pÃ©nalisation de lâ€™homosexualitÃ©
+     * De la loi du talion, par Nayla Tabbara
 
-   Économie
-     * [152]Tourisme : dans les Alpes, des stations de ski veulent
-       acheminer les touristes en train
-     * [153]Budget 2024 : le Sénat vote une augmentation de la fiscalité
-       des plus riches
-     * [154]Précarité énergétique : une proposition de loi contre les
-       coupures d'électricité pour impayés
-     * [155]Black Friday, Cyber Monday, French Days... Une avalanche
-       d'opérations commerciales
+   Ã‰conomie
+     * Confiance dans les mÃ©dias : lâ€™opinion va-t-elle lâ€™emporter sur
+       lâ€™information ?
+     * Lâ€™inflation continue Ã  ralentir en France et atteint 3,4 % sur un
+       an
+     * Ã‰lectricitÃ© : le gouvernement lance une expÃ©rimentation pour Ã©viter
+       les coupures
+     * Passoires thermiques : le diagnostic de performance Ã©nergÃ©tique
+       trop peu fiable
 
-L'actu à ne pas manquer
+Lâ€™actu Ã  ne pas manquer
 
-   Société
-     * [156]Actualité politique
-     * [157]Gouvernement Borne
-     * [158]Migrants
-     * [159]Faits divers
-     * [160]Procès et affaire judiciaire
-     * [161]Loi, projet de loi et réforme
-     * [162]Attentat en France
-     * [163]Prisons
-     * [164]GPA
-     * [165]Euthanasie
-     * [166]École
-     * [167]Baccalauréat 2024
+   SociÃ©tÃ©
+     * ActualitÃ© politique
+     * Gouvernement Borne
+     * Migrants
+     * Faits divers
+     * ProcÃ¨s et affaire judiciaire
+     * Loi, projet de loi et rÃ©forme
+     * Attentat en France
+     * Prisons
+     * GPA
+     * Euthanasie
+     * Ã‰cole
+     * BaccalaurÃ©at 2024
 
    International
-     * [168]Guerre en Ukraine
-     * [169]Attentat dans le monde
-     * [170]Guerre, crise et conflit
-     * [171]Conflit israélo-palestinien
-     * [172]Conflit du Haut-Karabakh
-     * [173]Géopolitique
-     * [174]Élections européennes 2024
-     * [175]Élection présidentielle américaine 2024
-     * [176]Tension Chine - États-Unis
-     * [177]Union européenne (UE)
-     * [178]Organismes internationaux
-     * [179]Personnalité politique
+     * Guerre en Ukraine
+     * Attentat dans le monde
+     * Guerre, crise et conflit
+     * Conflit israÃ©lo-palestinien
+     * Conflit du Haut-Karabakh
+     * GÃ©opolitique
+     * Ã‰lections europÃ©ennes 2024
+     * Ã‰lection prÃ©sidentielle amÃ©ricaine 2024
+     * Tension Chine - Ã‰tats-Unis
+     * Union europÃ©enne (UE)
+     * Organismes internationaux
+     * PersonnalitÃ© politique
 
    Religion
-     * [180]Pape François
-     * [181]Vatican et Curie romaine
-     * [182]Synode sur la synodalité (2021/2024)
-     * [183]Santé du pape
-     * [184]Démission du pape
-     * [185]Conclave (élection du pape)
-     * [186]Encyclique
-     * [187]Fête religieuse catholique 2023
-     * [188]Glossaire mots religieux
-     * [189]La Bible
-     * [190]Sacrement catholique
-     * [191]Dossiers spiritualité
+     * Pape FranÃ§ois
+     * Vatican et Curie romaine
+     * Synode sur la synodalitÃ© (2021/2024)
+     * SantÃ© du pape
+     * DÃ©mission du pape
+     * Conclave (Ã©lection du pape)
+     * Encyclique
+     * FÃªte religieuse catholique 2023
+     * Glossaire mots religieux
+     * La Bible
+     * Sacrement catholique
+     * Dossiers spiritualitÃ©
 
-   Économie
-     * [192]Emploi et travail
-     * [193]Entreprises
-     * [194]Consommation
-     * [195]Pouvoir d'achat
-     * [196]Inflation
-     * [197]Carburant
-     * [198]Biocarburant
-     * [199]Épargne et placement
-     * [200]Impôt sur le revenu 2024
-     * [201]Grève en France
-     * [202]Crise économique et sociale
-     * [203]Transition énergétique
+   Ã‰conomie
+     * Emploi et travail
+     * Entreprises
+     * Consommation
+     * Pouvoir dâ€™achat
+     * Inflation
+     * Carburant
+     * Biocarburant
+     * Ã‰pargne et placement
+     * ImpÃ´t sur le revenu 2024
+     * GrÃ¨ve en France
+     * Crise Ã©conomique et sociale
+     * Transition Ã©nergÃ©tique
 
-   Planète
-     * [204]Réchauffement et changement climatique
-     * [205]Sources d'énergie
-     * [206]Pollution
-     * [207]Tsunami
-     * [208]Séisme
-     * [209]Ouragan, cyclone et typhon
-     * [210]Canicule
-     * [211]Incendies de forêt
-     * [212]Énergies renouvelables
-     * [213]COP - Conférence climats
-     * [214]Catastrophe et accident nucléaire
-     * [215]Découverte et exploration de l'Espace
+   PlanÃ¨te
+     * RÃ©chauffement et changement climatique
+     * Sources d'Ã©nergie
+     * Pollution
+     * Tsunami
+     * SÃ©isme
+     * Ouragan, cyclone et typhon
+     * Canicule
+     * Incendies de forÃªt
+     * Ã‰nergies renouvelables
+     * COP - ConfÃ©rence climats
+     * Catastrophe et accident nuclÃ©aire
+     * DÃ©couverte et exploration de l'Espace
 
-   Santé
-     * [216]Coronavirus (covid-19)
-     * [217]Cancer
-     * [218]Vaccin (vaccination)
-     * [219]Épidémie et pandémie
-     * [220]Drogue et addiction
-     * [221]Virus
-     * [222]Scandale alimentaire et sanitaire
-     * [223]Sexualité
-     * [224]Perturbateur endocrinien
-     * [225]Corps humain
-     * [226]PMA (procréation médicalement assistée)
-     * [227]Fin de vie
+   SantÃ©
+     * Coronavirus (covid-19)
+     * Cancer
+     * Vaccin (vaccination)
+     * Ã‰pidÃ©mie et pandÃ©mie
+     * Drogue et addiction
+     * Virus
+     * Scandale alimentaire et sanitaire
+     * SexualitÃ©
+     * Perturbateur endocrinien
+     * Corps humain
+     * PMA (procrÃ©ation mÃ©dicalement assistÃ©e)
+     * Fin de vie
 
    Culture
-     * [228]Livre, roman et BD
-     * [229]Critique ciné, film et documentaire
-     * [230]Prix littéraires 2023
-     * [231]Festival BD d'Angoulême 2024 (FIBD)
-     * [232]Oscars 2024
-     * [233]César du cinéma 2024
-     * [234]Festival de Cannes 2024
-     * [235]Festival d'Avignon 2024
-     * [236]Sortie culturelle en famille
-     * [237]Personnalité culturelle
-     * [238]Mort et funérailles de personnalité
-     * [239]Grands dossiers culture
+     * Livre, roman et BD
+     * Critique cinÃ©, film et documentaire
+     * Prix littÃ©raires 2023
+     * Festival BD d'AngoulÃªme 2024 (FIBD)
+     * Oscars 2024
+     * CÃ©sar du cinÃ©ma 2024
+     * Festival de Cannes 2024
+     * Festival dâ€™Avignon 2024
+     * Sortie culturelle en famille
+     * PersonnalitÃ© culturelle
+     * Mort et funÃ©railles de personnalitÃ©
+     * Grands dossiers culture
 
    Art de vivre
-     * [240]Conseils de jardinage
-     * [241]Recettes de cuisine
-     * [242]Retraite spirituelle
-     * [243]Pèlerinage à Lourdes 2024
-     * [244]Pèlerinage chemin de Saint-Jacques-de-Compostelle
-     * [245]Loisirs
-     * [246]Série et reportage
-     * [247]Idées cadeaux de Noël 2023
-     * [248]Patrimoine
+     * Conseils de jardinage
+     * Recettes de cuisine
+     * Retraite spirituelle
+     * PÃ¨lerinage Ã  Lourdes 2024
+     * PÃ¨lerinage chemin de Saint-Jacques-de-Compostelle
+     * Loisirs
+     * SÃ©rie et reportage
+     * IdÃ©es cadeaux de NoÃ«l 2023
+     * Patrimoine
 
    Nous contacter
-     * [249]Service client
-     * [250]Courrier des lecteurs
-     * [251]Aide
-     * [252]Résilier votre abonnement
-     * [253]L'équipe
-     * [254]Espace Presse
-     * [255]Facebook
-     * [256]Twitter
-     * [257]Flipboard
-     * [258]Linkdedin
+     * Service client
+     * Courrier des lecteurs
+     * Aide
+     * RÃ©silier votre abonnement
+     * L'Ã©quipe
+     * Espace Presse
+     * Facebook
+     * Twitter
+     * Flipboard
+     * Linkdedin
 
    Nos services
-     * [259]Abonnement
-     * [260]Découvrir LA CROIX numérique
-     * [261]Boutique
-     * [262]Faire un don
-     * [263]Inscription à la newsletter
-     * [264]RSS
-     * [265]Mots croisés gratuits en ligne
+     * Abonnement
+     * DÃ©couvrir LA CROIX numÃ©rique
+     * Boutique
+     * Faire un don
+     * Inscription Ã  la newsletter
+     * RSS
+     * Mots croisÃ©s gratuits en ligne
 
-   L'écosystème de La Croix
-     * [266]La Croix International
-     * [267]La Croix Español
-     * [268]La Croix Africa
+   Lâ€™Ã©cosystÃ¨me de La Croix
+     * La Croix International
+     * La Croix EspaÃ±ol
+     * La Croix Africa
 
    Les sites du groupe Bayard
-     * [269]BAYARD BELGIQUE
-     * [270]BAYARD JEUNESSE
-     * [271]EDITIONS BAYARD
-     * [272]Groupe Bayard
-     * [273]MILAN PRESSE
+     * BAYARD BELGIQUE
+     * BAYARD JEUNESSE
+     * EDITIONS BAYARD
+     * Groupe Bayard
+     * MILAN PRESSE
 
-     * [274]Librairie Bayard
-     * [275]NOTRE FAMILLE
-     * [276]NOTRE TEMPS
-     * [277]Phosphore
+     * Librairie Bayard
+     * NOTRE FAMILLE
+     * NOTRE TEMPS
+     * Phosphore
 
-     * [278]EVEILALAFOI.FR
-     * [279]LE MONDE DE LA BIBLE
-     * [280]PANORAMA
+     * EVEILALAFOI.FR
+     * LE MONDE DE LA BIBLE
+     * PANORAMA
 
-     * [281]PÈLERIN
-     * [282]POINTS DE REPÈRE
-     * [283]PRIONS EN EGLISE
-     * [284]Chantons en eglise
+     * PÃˆLERIN
+     * POINTS DE REPÃˆRE
+     * PRIONS EN EGLISE
+     * Chantons en eglise
 
    Bayard logo
-   [285]Politique de confidentialité - [286]Gestion des cookies -
-   [287]Mentions légales - [288]CGU - [289]Sitemap - [290]Classement Tour
-   de France - [291]Résultats élections européennes 2024 - [292]Résultats
-   élection présidentielle 2022 - [293]Résultats élections législatives
-   2022
-   © 2023 - Bayard - Tous droits réservés - @la-croix.com est un site de
+   Politique de confidentialitÃ© - Gestion des cookies - Mentions lÃ©gales -
+   CGU - Sitemap - Classement Tour de France - RÃ©sultats Ã©lections
+   europÃ©ennes 2024 - RÃ©sultats Ã©lection prÃ©sidentielle 2022 - RÃ©sultats
+   Ã©lections lÃ©gislatives 2022
+   Â© 2023 - Bayard - Tous droits rÃ©servÃ©s - @la-croix.com est un site de
    la Croix Network
-
-References
-
-   Visible links:
-   1. https://www.la-croix.com/RSS/UNIVERS_ALL
-   2. https://www.la-croix.com/abonnement
-   3. https://www.la-croix.com/debat
-   4. https://www.la-croix.com/Debats/Chroniques
-   5. https://www.la-croix.com/Debats/Editos
-   6. https://www.la-croix.com/Debats/Opinions-et-debats
-   7. https://www.la-croix.com/Debats/Blogs
-   8. https://www.la-croix.com/Dossiers/debat
-   9. https://www.la-croix.com/france
-  10. https://www.la-croix.com/France/Politique
-  11. https://www.la-croix.com/France/Justice
-  12. https://www.la-croix.com/France/Securite
-  13. https://www.la-croix.com/France/Education
-  14. https://www.la-croix.com/France/Exclusion
-  15. https://www.la-croix.com/France/Immigration
-  16. https://www.la-croix.com/Dossiers/france
-  17. https://www.la-croix.com/international
-  18. https://www.la-croix.com/Monde/Europe
-  19. https://www.la-croix.com/Monde/Afrique
-  20. https://www.la-croix.com/Monde/Ameriques
-  21. https://www.la-croix.com/Monde/Moyen-Orient
-  22. https://www.la-croix.com/Monde/Asie-Oceanie
-  23. https://www.la-croix.com/international/oceanie
-  24. https://www.la-croix.com/Dossiers/international
-  25. https://www.la-croix.com/religion
-  26. https://www.la-croix.com/Religion/Laicite
-  27. https://www.la-croix.com/Religion/Catholicisme
-  28. https://www.la-croix.com/Religion/Catholicisme/Pape
-  29. https://www.la-croix.com/Religion/Catholicisme/France
-  30. https://www.la-croix.com/Religion/Catholicisme/Monde
-  31. https://cardinaux.la-croix.com/
-  32. https://doc-catho.la-croix.com/
-  33. https://www.la-croix.com/Religion/Islam
-  34. https://www.la-croix.com/Religion/Judaisme
-  35. https://www.la-croix.com/Religion/Protestantisme
-  36. https://www.la-croix.com/Religion/Orthodoxie
-  37. https://www.la-croix.com/Religion/Bouddhisme
-  38. https://www.la-croix.com/Religion/croire
-  39. https://www.la-croix.com/Dossiers/religion
-  40. https://www.la-croix.com/economie
-  41. https://www.la-croix.com/Economie/France
-  42. https://www.la-croix.com/Economie/Monde
-  43. https://www.la-croix.com/Economie/Social
-  44. https://www.la-croix.com/Economie/Entreprises
-  45. https://www.la-croix.com/Economie/Media
-  46. https://www.la-croix.com/Economie/Economie-solidaire
-  47. https://www.la-croix.com/Dossiers/economie
-  48. https://www.la-croix.com/culture
-  49. https://www.la-croix.com/Culture/Cinema
-  50. https://www.la-croix.com/Culture/Musique
-  51. https://www.la-croix.com/Culture/TV-Radio
-  52. https://www.la-croix.com/Culture/radio
-  53. https://www.la-croix.com/Culture/Theatre
-  54. https://www.la-croix.com/Culture/Expositions
-  55. https://www.la-croix.com/Culture/Livres-et-idees
-  56. https://www.la-croix.com/Dossiers/culture
-  57. https://www.la-croix.com/planete
-  58. https://www.la-croix.com/Ethique/Environnement/Climat
-  59. https://www.la-croix.com/Sciences-et-ethique/Environnement/cop-conference-internationale-climat-environnement-biodiversite
-  60. https://www.la-croix.com/Sciences-et-ethique/Environnement/Biodiversite
-  61. https://www.la-croix.com/environnement/pesticide-fongicide-insecticide
-  62. https://www.la-croix.com/Sciences/Environnement/pollution
-  63. https://www.la-croix.com/Sciences-et-ethique/Sciences
-  64. https://www.la-croix.com/Dossiers/planete
-  65. https://www.la-croix.com/sante
-  66. https://www.la-croix.com/Sciences-et-ethique/medecin
-  67. https://www.la-croix.com/Sciences-et-ethique/maladie-pathologie-actu-info
-  68. https://www.la-croix.com/Sciences-et-ethique/medicaments
-  69. https://www.la-croix.com/Sciences-et-ethique/alimentation-sante
-  70. https://www.la-croix.com/planete/ecologie-sante
-  71. https://www.la-croix.com/art-de-vivre
-  72. https://www.la-croix.com/art-de-vivre/idee-recette-cuisine-facile-rapide-menu-repas
-  73. https://www.la-croix.com/Culture/jardin-idees-conseils-jardinage
-  74. https://www.la-croix.com/Dossiers/art-de-vivre
-  75. https://www.la-croix.com/sport
-  76. https://www.la-croix.com/Sport/football-actualite-info-sport-foot
-  77. https://www.la-croix.com/Sport/rugby-top-14-tournoi-6-nations-coupe-monde
-  78. https://www.la-croix.com/Sport/tennis-actu-info-resultats-classement
-  79. https://www.la-croix.com/Sport/cyclisme-actu-info-competition-cycliste-velo
-  80. https://www.la-croix.com/Sport/Jeux-olympiques-2024
-  81. https://www.la-croix.com/Dossiers/Sport
-  82. https://www.la-croix.com/Depeches
-  83. https://www.la-croix.com/inscription-newsletter
-  84. https://www.la-croix.com/Videos/podcast-la-croix
-  85. https://www.la-croix.com/Videos
-  86. https://www.la-croix.com/Videos/Diaporamas
-  87. https://www.la-croix.com/Videos/Graphiques
-  88. https://www.la-croix.com/Videos/Quiz
-  89. https://journal.la-croix.com/
-  90. https://www.la-croix.com/lhebdo
-  91. https://www.la-croix.com/Debats/Blogs
-  92. https://www.la-croix.com/Recherche
-  93. https://www.la-croix.com/mots-croises
-  94. https://international.la-croix.com/
-  95. https://www.la-croix.com/abonnement
-  96. https://www.la-croix.com/
-  97. https://www.la-croix.com/abonnement
-  98. https://www.la-croix.com/Sciences-et-ethique/Ethique/Eric-Sadin-Lintelligence-artificielle-engendre-mise-ban-progressive-lhumain-2019-01-13-1200994958
-  99. https://www.la-croix.com/debat
- 100. https://www.la-croix.com/france
- 101. https://www.la-croix.com/international
- 102. https://www.la-croix.com/religion
- 103. https://www.la-croix.com/economie
- 104. https://www.la-croix.com/culture
- 105. https://www.la-croix.com/planete
- 106. https://www.la-croix.com/
- 107. https://www.la-croix.com/france
- 108. https://www.la-croix.com/Economie/France-devoile-plan-lintelligence-artificielle-2018-11-28-1200986137
- 109. https://www.la-croix.com/Sciences-et-ethique/Sciences-et-ethique/Intelligence-artificielle-quelle-place-lhumain-2018-11-06-1200981132
- 110. https://www.la-croix.com/France/propositions-encadrer-lintelligence-artificielle-sante-2018-11-19-1200984034
- 111. https://www.la-croix.com/Sciences-et-ethique/Numerique/Savez-vous-mieux-reconnaitre-avion-quune-intelligence-artificielle-2019-01-08-1200993935
- 112. https://www.la-croix.com/France/A-Bruxelles-regulation-lIA-surveillee-pres-lobbys-2023-06-13-1201271335
- 113. https://www.la-croix.com/Sciences-et-ethique/intelligence-artificielle-ia
- 114. https://www.la-croix.com/Sciences-et-ethique/Ethique
- 115. https://www.la-croix.com/Sciences-et-ethique/Sciences
- 116. https://www.la-croix.com/Sciences-et-ethique/intelligence-artificielle-ia
- 117. https://www.la-croix.com/france/Intelligence-artificielle-OpenAI-victoire-presses-prudents-2023-11-22-1201291834
- 118. https://www.la-croix.com/france/Intelligence-artificielle-OpenAI-victoire-presses-prudents-2023-11-22-1201291834
- 119. https://www.la-croix.com/culture/Mars-Express-film-noir-planete-rouge-2023-11-22-1201291829
- 120. https://www.la-croix.com/culture/Mars-Express-film-noir-planete-rouge-2023-11-22-1201291829
- 121. https://www.la-croix.com/economie/Intelligence-artificielle-syndicats-reclament-veritable-dialogue-social-2023-11-22-1201291752
- 122. https://www.la-croix.com/economie/Intelligence-artificielle-syndicats-reclament-veritable-dialogue-social-2023-11-22-1201291752
- 123. https://www.la-croix.com/economie/Intelligence-artificielle-Niel-Saade-lex-PDG-Google-lancent-laboratoire-recherche-Paris-2023-11-18-1201291325
- 124. https://www.la-croix.com/economie/Intelligence-artificielle-Niel-Saade-lex-PDG-Google-lancent-laboratoire-recherche-Paris-2023-11-18-1201291325
- 125. https://www.la-croix.com/debat/plantes-machines-etaient-intelligentes-2023-11-05-1201289507
- 126. https://www.la-croix.com/debat/plantes-machines-etaient-intelligentes-2023-11-05-1201289507
- 127. https://www.la-croix.com/culture/Now-and-Then-Beatles-derniere-fois-lIA-2023-11-02-1201289199
- 128. https://www.la-croix.com/culture/Now-and-Then-Beatles-derniere-fois-lIA-2023-11-02-1201289199
- 129. https://www.la-croix.com/international/Intelligence-artificielle-Royaume-Uni-premier-sommet-consacre-risques-regulation-2023-11-01-1201289079
- 130. https://www.la-croix.com/international/Intelligence-artificielle-Royaume-Uni-premier-sommet-consacre-risques-regulation-2023-11-01-1201289079
- 131. https://www.la-croix.com/international/Intelligence-artificielle-Joe-Biden-lance-Etats-Unis-regulation-2023-10-31-1201288980
- 132. https://www.la-croix.com/international/Intelligence-artificielle-Joe-Biden-lance-Etats-Unis-regulation-2023-10-31-1201288980
- 133. https://www.la-croix.com/culture/Intelligence-artificielle-Etats-Unis-ecrivains-saisissent-justice-2023-10-21-1201287784
- 134. https://www.la-croix.com/culture/Intelligence-artificielle-Etats-Unis-ecrivains-saisissent-justice-2023-10-21-1201287784
- 135. https://www.la-croix.com/international/Lextreme-droite-arrive-largement-tete-elections-Pays-Bas-2023-11-23-1201291937
- 136. https://www.la-croix.com/france/Mort-Thomas-sept-personnes-interpellees-environs-Toulouse-2023-11-21-1201291669
- 137. https://www.la-croix.com/international/guerre-ukraine-russie-jour-635-point-conflit-ukrainien-poutine-aujourdhu-2023-11-20-1201291500
- 138. https://www.la-croix.com/Trafic-drogue-neuf-jeunes-hommes-poursuivis-soupconnes-mort-petit-Fayed-Nimes-2023-11-18-1301291307
- 139. https://www.la-croix.com/culture/The-Crown-derniere-saison-dune-serie-veracite-historique-contestee-2023-11-16-1201291034
- 140. https://www.la-croix.com/france/Violences-faites-femmes-milliers-manifestants-reclamer-moyens-2023-11-25-1201292229
- 141. https://www.la-croix.com/france/Soumission-chimique-danger-bien-reel-femmes-2023-11-25-1201292223
- 142. https://www.la-croix.com/france/Seine-Saint-Denis-trois-morts-lincendie-dun-immeuble-Stains-2023-11-25-1201292205
- 143. https://www.la-croix.com/france/Violences-faites-femmes-Aujourdhui-sens-nouveau-securite-2023-11-25-1201292196
- 144. https://www.la-croix.com/international/guerre-israel-hamas-jour-50-attaque-bande-gaza-otages-liban-resume-2023-11-25-1201292203
- 145. https://www.la-croix.com/international/Senegal-luniversite-Dakar-mise-cloche-autorites-2023-11-25-1201292222
- 146. https://www.la-croix.com/international/En-Espagne-antennes-parti-socialiste-visees-actes-vandalisme-2023-11-25-1201292219
- 147. https://www.la-croix.com/international/Etats-Unis-policier-meurtrier-George-Floyd-Derek-Chauvin-poignarde-prison-2023-11-25-1201292217
- 148. https://www.la-croix.com/religion/Le-pape-Francois-grippe-annule-audiences-jour-2023-11-25-1201292207
- 149. https://www.la-croix.com/religion/Congregations-lavenir-passe-transformation-vie-religieuse-2023-11-25-1201292215
- 150. https://www.la-croix.com/religion/Dou-viennent-punaises-lit-2023-11-25-1201292200
- 151. https://www.la-croix.com/religion/Catherine-dAlexandrie-sainte-refuse-mariage-2023-11-25-1201292188
- 152. https://www.la-croix.com/economie/Tourisme-Alpes-stations-ski-veulent-acheminer-touristes-train-2023-11-25-1201292191
- 153. https://www.la-croix.com/economie/Budget-2024-Senat-vote-augmentation-fiscalite-riches-2023-11-24-1201292185
- 154. https://www.la-croix.com/economie/proposition-loi-transpartisane-lutter-contre-precarite-energetique-2023-11-24-1201292178
- 155. https://www.la-croix.com/economie/Black-Friday-Cyber-Monday-French-Days-avalanche-doperations-commerciales-2023-11-24-1201292068
- 156. https://www.la-croix.com/France/Politique
- 157. https://www.la-croix.com/France/Politique/gouvernement-actualite-info
- 158. https://www.la-croix.com/international/migrants
- 159. https://www.la-croix.com/France/faits-divers
- 160. https://www.la-croix.com/France/proces
- 161. https://www.la-croix.com/france/loi-projet-de-loi-reforme-legislatif
- 162. https://www.la-croix.com/Actualite/France/Attentats-en-France
- 163. https://www.la-croix.com/France/Justice/prisons-bord-rupture
- 164. https://www.la-croix.com/Ethique/Bioethique/GPA-Gestation-pour-autrui
- 165. https://www.la-croix.com/Sciences-et-ethique/euthanasie
- 166. https://www.la-croix.com/Famille/A-l-ecole
- 167. https://www.la-croix.com/Famille/Education/resultats-bac-info-calendrier-dates-baccalaureat
- 168. https://www.la-croix.com/Monde/crise-ukrainienne
- 169. https://www.la-croix.com/Monde/attentat-actu-info
- 170. https://www.la-croix.com/international/guerre-crise-et-conflit
- 171. https://www.la-croix.com/Monde/conflit-israelo-palestinien-guerre-israel-palestine
- 172. https://www.la-croix.com/Monde/guerre-haut-karabakh-conflit-azerbaidjan-armenie
- 173. https://www.la-croix.com/Monde/geopolitique-relations-internationales-pays
- 174. https://www.la-croix.com/France/Politique/Elections-europeennes-2019-2017-12-14
- 175. https://www.la-croix.com/Monde/Ameriques/elections-americaines
- 176. https://www.la-croix.com/Monde/relations-chine-etats-unis-histoire-sino-americaine-usa
- 177. https://www.la-croix.com/Monde/Union-europeenne
- 178. https://www.la-croix.com/international/organismes-internationaux
- 179. https://www.la-croix.com/Monde/personnalite-politique
- 180. https://www.la-croix.com/Religion/Actualite/Le-pape-Francois
- 181. https://www.la-croix.com/Religion/Catholicisme/Pape
- 182. https://www.la-croix.com/Religion/synode-des-eveques-assemblee-catholicisme
- 183. https://www.la-croix.com/Religion/sante-pape
- 184. https://www.la-croix.com/Religion/Demission-du-pape
- 185. https://www.la-croix.com/Religion/Actualite/Election-du-pape
- 186. https://www.la-croix.com/Religion/encyclique
- 187. https://www.la-croix.com/Religion/fete-religieuse
- 188. https://www.la-croix.com/religion/mots-religieux-glossaire
- 189. https://www.la-croix.com/Religion/bible-episodes-bibliques
- 190. https://www.la-croix.com/Religion/sacrement
- 191. https://www.la-croix.com/tag/dossiers-spiritualite
- 192. https://www.la-croix.com/Economie/travail
- 193. https://www.la-croix.com/Economie/Entreprises
- 194. https://www.la-croix.com/Economie/consommation
- 195. https://www.la-croix.com/Economie/pouvoir-dachat
- 196. https://www.la-croix.com/Economie/inflation
- 197. https://www.la-croix.com/Economie/Carburant
- 198. https://www.la-croix.com/Economie/biocarburants
- 199. https://www.la-croix.com/Economie/epargne
- 200. https://www.la-croix.com/Economie/France/impot-sur-le-revenu
- 201. https://www.la-croix.com/Economie/Social/greve-manifestation-sociale-france
- 202. https://www.la-croix.com/Economie/crise-economique-sociale-chomage-faillite-entreprise-recession
- 203. https://www.la-croix.com/environnement/transition-energetique
- 204. https://www.la-croix.com/environnement/rechauffement-climatique-changement-temperature-planete-niveau-mer
- 205. https://www.la-croix.com/planete/source-denergie
- 206. https://www.la-croix.com/Sciences/Environnement/pollution
- 207. https://www.la-croix.com/Monde/tsunami-raz-de-maree
- 208. https://www.la-croix.com/environnement/seisme
- 209. https://www.la-croix.com/environnement/ouragan-cyclone-typhon
- 210. https://www.la-croix.com/Sciences-et-ethique/Environnement/Canicule-phenomene-meteorologique-amene-sintensifier
- 211. https://www.la-croix.com/Sciences-et-ethique/Environnement/incendies-forets-nouveau-defi-climatique
- 212. https://www.la-croix.com/Economie/energies-renouvelables-actu-info
- 213. https://www.la-croix.com/Sciences-et-ethique/Environnement/cop-conference-internationale-climat-environnement-biodiversite
- 214. https://www.la-croix.com/planete/catastrophe-accident-nucleaire
- 215. https://www.la-croix.com/Sciences-et-ethique/espace-exploration-spatiale
- 216. https://www.la-croix.com/Sciences-et-ethique/Sante/coronavirus-ncov-virus-epidemie
- 217. https://www.la-croix.com/Sciences-et-ethique/cancer-maladie
- 218. https://www.la-croix.com/Sciences-et-ethique/Sante/Vaccination-2017-09-18
- 219. https://www.la-croix.com/Sciences-et-ethique/epidemie
- 220. https://www.la-croix.com/Sciences-et-ethique/drogue
- 221. https://www.la-croix.com/Sciences-et-ethique/virus
- 222. https://www.la-croix.com/Monde/scandale-alimentaire-et-sanitaire
- 223. https://www.la-croix.com/France/sexualite
- 224. https://www.la-croix.com/Sciences-et-ethique/Sante/perturbateurs-endocriniens
- 225. https://www.la-croix.com/Sciences-et-ethique/corps-humain
- 226. https://www.la-croix.com/Sciences-et-ethique/Ethique/PMA-procreation-medicalement-assistee
- 227. https://www.la-croix.com/Ethique/Fin-de-vie
- 228. https://www.la-croix.com/Culture/idee-livre-roman-bd-selection-redaction
- 229. https://www.la-croix.com/culture/critique-cinema-avis-film
- 230. https://www.la-croix.com/Culture/prix-litteraire
- 231. https://www.la-croix.com/Culture/festival-angouleme
- 232. https://www.la-croix.com/Culture/oscars-cinema-recompenses-films-ceremonie
- 233. https://www.la-croix.com/Culture/ceremonie-cesar-cinema-france
- 234. https://www.la-croix.com/Culture/Cinema/festival-cannes-dates-programme-films-nommes-palmares-complet
- 235. https://www.la-croix.com/Culture/Theatre/Festival-d-Avignon
- 236. https://www.la-croix.com/Culture/idee-sortie-culturelle-activite
- 237. https://www.la-croix.com/culture/personnalite-culturelle
- 238. https://www.la-croix.com/Monde/mort-funerailles-enterrement-obseques-personnalites
- 239. https://www.la-croix.com/culture/dossier-culture
- 240. https://www.la-croix.com/Culture/jardin-idees-conseils-jardinage
- 241. https://www.la-croix.com/art-de-vivre/idee-recette-cuisine-facile-rapide-menu-repas
- 242. https://www.la-croix.com/Religion/retraite-spirituelle-idee-conseil-lieu
- 243. https://www.la-croix.com/Religion/Catholicisme/France/Pelerinage-Lourdes
- 244. https://www.la-croix.com/Religion/pelerinage-saint-jacques-de-compostelle-chemin
- 245. https://www.la-croix.com/Famille/Loisirs
- 246. https://www.la-croix.com/art-de-vivre/serie-ete-reportage
- 247. https://www.la-croix.com/art-de-vivre/idees-cadeaux-noel-femme-homme-enfant-ado-fille-garcon
- 248. https://www.la-croix.com/Economie/patrimoine
- 249. https://www.la-croix.com/Services/La-Croix/La-Redaction/Contactez-nous-_NG_-2011-04-19-565337
- 250. https://www.la-croix.com/Services/La-Croix/La-Redaction/Contactez-nous-_NG_-2011-04-19-565337
- 251. https://abonnement.la-croix.com/vos-questions-nos-reponses
- 252. https://abonnement.la-croix.com/resiliation-abonnement
- 253. https://www.la-croix.com/Service/Aide/L-equipe-2016-05-19-1200761386
- 254. https://www.la-croix.com/Service/Aide/Espace-presse-2019-10-02-1201051432
- 255. https://www.facebook.com/lacroix.journal/
- 256. https://twitter.com/LaCroix
- 257. https://flipboard.com/@JournalLaCroix
- 258. https://fr.linkedin.com/company/lacroixjournal
- 259. https://www.la-croix.com/abonnement
- 260. https://services.la-croix.com/presentation-numerique/
- 261. https://librairie-bayard.com/s-abonner/la-croix.html?facette_titre%5B0%5D=La+Croix&facette_titre%5B1%5D=La+Croix+L%27Hebdo
- 262. https://www.la-croix.com/don
- 263. https://www.la-croix.com/inscription-newsletter
- 264. https://www.la-croix.com/flux-rss-information-en-continu-actualite
- 265. https://www.la-croix.com/mots-croises
- 266. https://international.la-croix.com/
- 267. https://es.la-croix.com/
- 268. https://africa.la-croix.com/
- 269. https://www.bayardmilan.be/
- 270. https://www.bayard-jeunesse.com/
- 271. https://www.editions-bayard.com/
- 272. https://www.groupebayard.com/fr
- 273. https://www.milanpresse.com/
- 274. https://librairie-bayard.com/
- 275. https://www.notrefamille.com/
- 276. https://www.notretemps.com/
- 277. https://www.phosphore.com/
- 278. http://www.eveilalafoi.fr/
- 279. https://www.mondedelabible.com/
- 280. https://www.panorama.fr/
- 281. https://www.lepelerin.com/
- 282. https://editions.crer-bayard.fr/
- 283. https://www.prionseneglise.fr/
- 284. https://www.chantonseneglise.fr/accueil
- 285. https://www.groupebayard.com/fr/politique-de-confidentialite
- 286. javascript:Didomi.preferences.show()
- 287. https://www.la-croix.com/Mentions-legales-2011-02-15-10639
- 288. https://img.aws.la-croix.com/2011/02/15/10639/CGU-LaCroix.pdf
- 289. https://www.la-croix.com/Sitemap
- 290. https://www.la-croix.com/resultats-sportifs/tour-de-france/classement-general-maillot-jaune
- 291. https://www.la-croix.com/elections/resultats-europeennes
- 292. https://www.la-croix.com/elections/resultats-presidentielles
- 293. https://www.la-croix.com/elections/resultats-legislatives
-
-   Hidden links:
- 295. https://journal.la-croix.com/
- 296. https://journal.la-croix.com/la-croix-lhebdo
- 297. mailto:?subject=%C3%89ric%20Sadin%E2%80%89:%20%C2%AB%C2%A0L%E2%80%99intelligence%20artificielle%20engendre%20une%20mise%20au%20ban%20progressive%20de%20l%E2%80%99humain%C2%A0%C2%BB&body=ENTRETIEN%20Dans%20L%E2%80%99Intelligence%20artificielle%20ou%20l%E2%80%99enjeu%20du%20si%C3%A8cle,%20le%20philosophe%20%C3%89ric%20Sadin%20adopte%20une%20approche%20tr%C3%A8s%20critique%20de%20l%E2%80%99intelligence%20artificielle,%20et%20appelle%20%C3%A0%20r%C3%A9sister%20%C3%A0%20cette%20r%C3%A9volution%20silencieuse.%0D%0A%0D%0Ahttps://www.la-croix.com/Sciences-et-ethique/Ethique/Eric-Sadin-Lintelligence-artificielle-engendre-mise-ban-progressive-lhumain-2019-01-13-1200994958
- 298. https://www.facebook.com/sharer/sharer.php?u=https://www.la-croix.com/Sciences-et-ethique/Ethique/Eric-Sadin-Lintelligence-artificielle-engendre-mise-ban-progressive-lhumain-2019-01-13-1200994958
- 299. https://twitter.com/intent/tweet?&text=%C3%89ric%20Sadin%E2%80%89:%20%C2%AB%C2%A0L%E2%80%99intelligence%20artificielle%20engendre%20une%20mise%20au%20ban%20progressive%20de%20l%E2%80%99humain%C2%A0%C2%BB&url=https://www.la-croix.com/Sciences-et-ethique/Ethique/Eric-Sadin-Lintelligence-artificielle-engendre-mise-ban-progressive-lhumain-2019-01-13-1200994958
- 300. mailto:?subject=%C3%89ric%20Sadin%E2%80%89:%20%C2%AB%C2%A0L%E2%80%99intelligence%20artificielle%20engendre%20une%20mise%20au%20ban%20progressive%20de%20l%E2%80%99humain%C2%A0%C2%BB&body=ENTRETIEN%20Dans%20L%E2%80%99Intelligence%20artificielle%20ou%20l%E2%80%99enjeu%20du%20si%C3%A8cle,%20le%20philosophe%20%C3%89ric%20Sadin%20adopte%20une%20approche%20tr%C3%A8s%20critique%20de%20l%E2%80%99intelligence%20artificielle,%20et%20appelle%20%C3%A0%20r%C3%A9sister%20%C3%A0%20cette%20r%C3%A9volution%20silencieuse.%0D%0A%0D%0Ahttps://www.la-croix.com/Sciences-et-ethique/Ethique/Eric-Sadin-Lintelligence-artificielle-engendre-mise-ban-progressive-lhumain-2019-01-13-1200994958
- 301. https://www.facebook.com/sharer/sharer.php?u=https://www.la-croix.com/Sciences-et-ethique/Ethique/Eric-Sadin-Lintelligence-artificielle-engendre-mise-ban-progressive-lhumain-2019-01-13-1200994958
- 302. https://twitter.com/intent/tweet?&text=%C3%89ric%20Sadin%E2%80%89:%20%C2%AB%C2%A0L%E2%80%99intelligence%20artificielle%20engendre%20une%20mise%20au%20ban%20progressive%20de%20l%E2%80%99humain%C2%A0%C2%BB&url=https://www.la-croix.com/Sciences-et-ethique/Ethique/Eric-Sadin-Lintelligence-artificielle-engendre-mise-ban-progressive-lhumain-2019-01-13-1200994958
- 303. https://www.la-croix.com/login?target=1200994958
- 304. https://www.la-croix.com/abonnement
- 305. https://www.la-croix.com/Sciences-et-ethique/Ethique/Eric-Sadin-Lintelligence-artificielle-engendre-mise-ban-progressive-lhumain-2019-01-13-1200994958
- 306. https://www.la-croix.com/abonnement

@@ -1,0 +1,166 @@
+   #RSS 2.0 RSS .92 Atom 0.3
+
+   PYMNTS.com » Feed PYMNTS.com » Comments Feed PYMNTS.com » AWS and
+   NVIDIA Expand Collaboration to Deliver Generative AI Infrastructure
+   Comments Feed alternate alternate alternate PYMNTS.com » JSON Feed
+   PYMNTS.com » AWS and NVIDIA Expand Collaboration to Deliver Generative
+   AI Infrastructure Comments Feed
+
+   PYMNTS Apple Pay @9 Banner
+
+   PYMNTS Logo
+   ____________________ (BUTTON)
+   WATCH NOW | SUBSCRIBE
+   (BUTTON)
+
+     * ____________________ (BUTTON) Search
+     *  PYMNTS TV
+     * Today
+     * B2B
+     * Retail
+     * Fintech
+     * Digital Transformation
+     * Crypto
+     * EMEA
+     * Tracker^® Reports
+     * PYMNTS^® Data
+     * Markets
+     * More
+
+Topics
+          + Artifical Intelligence
+          + Connected Car
+          + Buy Now Pay Later
+          + Banking
+          + Cloud
+          + Cross-Border Payments
+          + Gig-Economy
+          + Grocery & Pharmacy
+          + Healthcare Payments
+          + Insurtech
+          + Small & Medium Businesses
+          + Social Platforms
+          + Subscription Commerce
+          + Travel
+          + TechREG^®
+          + Real-Time Payments
+          + Restaurants
+          + More Topics
+
+Featured
+          + SEE ALSO:
+          + Editor’s Picks
+          + Opinion
+          + CE100 Index
+          + Working Capital & Liquidity
+          + Competition Policy International
+            A PYMNTS Company
+
+Stay Current
+          +  Subscribe
+          +  Become a Partner
+
+AWS and NVIDIA Expand Collaboration to Deliver Generative AI Infrastructure
+
+   By PYMNTS  |  November 28, 2023
+    |  (Play) (Play) (BUTTON)
+
+   Amazon Web Services (AWS) and NVIDIA have expanded their collaboration
+   to deliver advanced infrastructure, software and services for
+   generative artificial intelligence (AI) innovations.
+
+   The partnership aims to provide customers with the necessary
+   technologies for training foundation models and building generative AI
+   applications, the companies said in a Tuesday (Nov. 28) press release.
+
+   As part of the collaboration, AWS will be the first cloud provider to
+   bring NVIDIA GH200 Grace Hopper Superchips with new multinode NVLink
+   technology to the cloud, according to the release. These chips will be
+   available on Amazon Elastic Compute Cloud (Amazon EC2) instances,
+   allowing joint customers to scale to thousands of GH200 Superchips. The
+   GH200 NVL32 multinode platform connects 32 Grace Hopper Superchips with
+   NVIDIA NVLink and NVSwitch technologies into one instance.
+
+   Additionally, NVIDIA and AWS will collaborate to host NVIDIA DGX Cloud,
+   an AI-training-as-a-service, on AWS, the release said. This will be the
+   first DGX Cloud featuring GH200 NVL32, providing developers with the
+   largest shared memory in a single instance. DGX Cloud on AWS will
+   accelerate the training of cutting-edge generative AI and large
+   language models.
+
+   The collaboration also includes Project Ceiba, where NVIDIA and AWS are
+   designing the world’s fastest GPU-powered AI supercomputer, per the
+   release. This supercomputer will feature 16,384 NVIDIA GH200 Superchips
+   and will be used by NVIDIA for its own research and development in
+   generative AI.
+
+   AWS will introduce three new Amazon EC2 instances powered by NVIDIA
+   GPUs: P5e instances for large-scale generative AI and high-performance
+   computing (HPC) workloads, and G6 and G6e instances for a wide range of
+   applications including AI fine-tuning, inference, graphics and video
+   workloads, according to the release. G6e instances are particularly
+   suitable for developing 3D workflows and digital twin applications
+   using NVIDIA Omniverse.
+
+   The collaboration also extends to software development, the release
+   said. NVIDIA NeMo Retriever microservice offers tools to create highly
+   accurate chatbots and summarization tools, while NVIDIA BioNeMo
+   simplifies and accelerates pharmaceutical companies’ training of models
+   for drug discovery.
+
+   It was reported in September that NVIDIA has become the go-to company
+   for computer chips used in AI processes. The company’s market value hit
+   the trillion-dollar mark earlier this year thanks to high demand for
+   its chips that are used to train generative AI models.
+
+Recommended
+
+   AWS and NVIDIA Expand Collaboration to Deliver Generative AI
+   Infrastructure
+   FTX Investors Add MLB and Formula 1 to Class-Action Lawsuit
+   Latin American FinTech Clara Launches Payment Account in Brazil
+   Report: Farfetch Founder José Neves Aims to Take Company Private
+   See More In: AI, Amazon Web Services, artificial intelligence, AWS,
+   cloud computing, generative AI, News, NVIDIA, PYMNTS News, What's Hot
+
+Trending News
+
+   Lack of Split-Pay Option May Cost Merchants 22% of Customers
+   Money Transfer Service Zepz Cuts 2% of Staff
+   Swift Launches Cross-Border Instant Payments
+
+The Big Story
+
+   This AI Pioneer Says the Tech’s Best Applications Are in Payments
+   Trustly October 2023 Survey
+
+Featured News
+
+   Cross-Border Payments Complexities Force Focus on 'Customer
+   Experience,' Says Citi
+   Platform Basics Rule the Road, Says RVshare CEO
+   The Year That Led to Farfetch’s Earnings Call No-Show
+   More Men Than Women Order Groceries Online
+   Peacock Pins Subscription Hopes on Instacart Partnership
+   Q3 GDP Is Strong but Real Disposable Income Lags Spending Growth
+   42% of Consumers With Retail Subscriptions Shop Less Often at Physical
+   Stores
+
+Subscribe
+
+   ____________________
+   [ ] PYMNTS Today
+   [ ] Artificial Intelligence
+   [ ] Cryptocurrency
+   [ ] B2B
+   [ ] Retail
+   [ ] TechREG®
+   [ ] Digital Transformation
+   (BUTTON) SUBSCRIBE (BUTTON)
+   Loading...
+
+Partner with PYMNTS
+
+   We’re always on the lookout for opportunities to partner with
+   innovators and disruptors.
+   Learn More

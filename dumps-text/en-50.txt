@@ -1,0 +1,332 @@
+
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-5QFSQRT
+
+     * World Health Organization Global
+     * Regions
+       World Health Organization WHO Regional websites
+          + Africa Africa
+          + Americas Americas
+          + South-East Asia South-East Asia
+          + Europe Europe
+          + Eastern Mediterranean Eastern Mediterranean
+          + Western Pacific Western Pacific
+
+   ____________________
+   When autocomplete results are available use up and down arrows to
+   review and enter to select.
+   Select language [Select language]
+   Home
+
+     * Home
+
+     * Health Topics
+
+     * All topics
+     * A
+     * B
+     * C
+     * D
+     * E
+     * F
+     * G
+     * H
+     * I
+     * J
+     * K
+     * L
+     * M
+     * N
+     * O
+     * P
+     * Q
+     * R
+     * S
+     * T
+     * U
+     * V
+     * W
+     * X
+     * Y
+     * Z
+
+     * Resources
+          + Fact sheets
+          + Facts in pictures
+          + Multimedia
+          + Publications
+          + Questions and answers
+          + Tools and toolkits
+
+     * Popular
+          + COVID-19
+          + Dengue
+          + Herpes
+          + Hypertension
+          + Mental disorders
+          + Top 10 causes of death
+
+     * Countries
+
+     * All countries
+     * A
+     * B
+     * C
+     * D
+     * E
+     * F
+     * G
+     * H
+     * I
+     * J
+     * K
+     * L
+     * M
+     * N
+     * O
+     * P
+     * Q
+     * R
+     * S
+     * T
+     * U
+     * V
+     * W
+     * X
+     * Y
+     * Z
+
+     * Regions
+          + Africa
+          + Americas
+          + South-East Asia
+          + Europe
+          + Eastern Mediterranean
+          + Western Pacific
+
+     * WHO in countries
+          + Cooperation strategies
+          + Data by country
+
+     * Newsroom
+
+     * All news
+          + News releases
+          + Statements
+          + Campaigns
+          + Events
+          + Feature stories
+          + Speeches
+          + Commentaries
+          + Photo library
+
+     * Headlines
+
+     * Emergencies
+
+     * Focus on
+          + Afghanistan
+          + Cholera
+          + Greater Horn of Africa
+          + Israel and occupied Palestinian territory
+          + Sudan
+          + Ukraine
+
+     * Latest
+          + Disease Outbreak News
+          + Situation reports
+          + Weekly Epidemiological Record
+
+     * WHO in emergencies
+          + Surveillance
+          + Operations
+          + Research
+          + Funding
+          + Partners
+          + Health emergency appeal
+          + International Health Regulations
+          + Independent Oversight and Advisory Committee
+
+     * Data
+
+     * Data at WHO
+          + Classifications
+          + Data collections
+          + Global Health Estimates
+          + Mortality Database
+          + Sustainable Development Goals
+
+     * Dashboards
+          + COVID-19
+          + Health Inequality Monitor
+          + Triple Billion
+
+     * Highlights
+          + Data collection tools
+          + Global Health Observatory
+          + Insights and visualizations
+          + SCORE
+
+     * Reports
+          + COVID excess deaths
+          + World Health Statistics
+
+     * About WHO
+
+     * About WHO
+          + Partnerships
+          + Committees and advisory groups
+          + Collaborating centres
+          + Technical teams
+          + Organizational structure
+          + Who we are
+
+     * Our work
+          + Activities
+          + Initiatives
+          + Global Programme of Work
+          + WHO Academy
+
+     * Funding
+          + Investment case
+          + WHO Foundation
+
+     * Accountability
+          + Audit
+          + Financial statements
+          + Programme budget
+          + Results Report
+
+     * Governance
+          + Governing bodies
+          + World Health Assembly
+          + Executive Board
+          + Member States Portal
+
+     * Home/
+     * News/
+     * item/
+     * WHO outlines considerations for regulation of artificial
+       intelligence for health
+
+WHO outlines considerations for regulation of artificial intelligence for
+health
+
+   19 October 2023
+   News release
+   Geneva
+   Reading time:
+
+   The World Health Organization (WHO) has released a new publication
+   listing key regulatory considerations on artificial intelligence (AI)
+   for health. The publication emphasizes the importance of establishing
+   AI systems’ safety and effectiveness, rapidly making appropriate
+   systems available to those who need them, and fostering dialogue among
+   stakeholders, including developers, regulators, manufacturers, health
+   workers, and patients.
+
+   With the increasing availability of health care data and the rapid
+   progress in analytic techniques – whether machine learning, logic-based
+   or statistical – AI tools could transform the health sector. WHO
+   recognizes the potential of AI in enhancing health outcomes by
+   strengthening clinical trials; improving medical diagnosis, treatment,
+   self-care and person-centred care; and supplementing health care
+   professionals’ knowledge, skills and competencies. For example, AI
+   could be beneficial in settings with a lack of medical specialists,
+   e.g. in interpreting retinal scans and radiology images among many
+   others.
+
+   However, AI technologies – including large language models – are being
+   rapidly deployed, sometimes without a full understanding of how they
+   may perform, which could either benefit or harm end-users, including
+   health-care professionals and patients. When using health data, AI
+   systems could have access to sensitive personal information,
+   necessitating robust legal and regulatory frameworks for safeguarding
+   privacy, security, and integrity, which this publication aims to help
+   set up and maintain.
+
+   “Artificial intelligence holds great promise for health, but also comes
+   with serious challenges, including unethical data collection,
+   cybersecurity threats and amplifying biases or misinformation,” said Dr
+   Tedros Adhanom Ghebreyesus, WHO Director-General. “This new guidance
+   will support countries to regulate AI effectively, to harness its
+   potential, whether in treating cancer or detecting tuberculosis, while
+   minimising the risks.”
+
+   In response to growing country needs to responsibly manage the rapid
+   rise of AI health technologies, the publication outlines six areas for
+   regulation of AI for health.
+     * To foster trust, the publication stresses the importance of
+       transparency and documentation, such as through documenting the
+       entire product lifecycle and tracking development processes.
+     * For risk management, issues like ‘intended use’, ‘continuous
+       learning’, human interventions, training models and cybersecurity
+       threats must all be comprehensively addressed, with models made as
+       simple as possible.
+     * Externally validating data and being clear about the intended use
+       of AI helps assure safety and facilitate regulation.
+     * A commitment to data quality, such as through rigorously evaluating
+       systems pre-release, is vital to ensuring systems do not amplify
+       biases and errors.
+     * The challenges posed by important, complex regulations – such as
+       the General Data Protection Regulation (GDPR) in Europe and the
+       Health Insurance Portability and Accountability Act (HIPAA) in the
+       United States of America – are addressed with an emphasis on
+       understanding the scope of jurisdiction and consent requirements,
+       in service of privacy and data protection.
+     * Fostering collaboration between regulatory bodies, patients,
+       healthcare professionals, industry representatives, and government
+       partners, can help ensure products and services stay compliant with
+       regulation throughout their lifecycles.
+
+   AI systems are complex and depend not only on the code they are built
+   with but also on the data they are trained on, which come from clinical
+   settings and user interactions – for example. Better regulation can
+   help manage the risks of AI amplifying biases in training data.
+
+   For example, it can be difficult for AI models to accurately represent
+   the diversity of populations, leading to biases, inaccuracies or even
+   failure. To help mitigate these risks, regulations can be used to
+   ensure that the attributes – such as gender, race and ethnicity – of
+   the people featured in the training data are reported and datasets are
+   intentionally made representative.
+
+   The new WHO publication aims to outline key principles that governments
+   and regulatory authorities can follow to develop new guidance or adapt
+   existing guidance on AI at national or regional levels.
+
+   Media Contacts
+
+   WHO Media Team
+
+   Email: [email protected]
+
+   Related
+
+   Regulatory considerations on artificial intelligence for health
+     * Regions
+          + Africa
+          + Americas
+          + Eastern Mediterranean
+          + Europe
+          + South-East Asia
+          + Western Pacific
+     * Policies
+          + Cyber security
+          + Ethics
+          + Permissions and licensing
+          + Preventing sexual exploitation
+          + Terms of use
+     * About us
+          + Careers
+          + Library
+          + Procurement
+          + Publications
+          + Frequently asked questions
+          + Contact us
+
+   Subscribe to our newsletters
+   Home
+   Privacy policy
+   © 2023
+   WHO

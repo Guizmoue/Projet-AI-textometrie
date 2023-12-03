@@ -1,0 +1,713 @@
+   #alternate alternate alternate alternate
+
+CNN values your feedback
+
+   1. How relevant is this ad to you?
+   (*)
+   ( )
+   ( )
+   ( )
+   ( )
+   2. Did you encounter any technical issues?
+   [ ]
+   Video player was slow to load content [ ] Video content never loaded
+   [ ] Ad froze or did not finish loading [ ] Video content did not start
+   after ad [ ] Audio on ad was too loud [ ] Other issues [ ]
+   Ad never loaded [ ] Ad prevented/slowed the page from loading [ ]
+   Content moved around while ad loaded [ ] Ad was repetitive to ads I've
+   seen previously [ ] Other issues [ ]
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   (BUTTON) Cancel (BUTTON) Submit
+   Thank You!
+   Your effort and contribution in providing this feedback is much
+   appreciated.
+   Close
+   Ad Feedback
+
+   (BUTTON) (BUTTON)
+
+   Markets
+   Tech
+   Media
+   Calculators
+   Videos
+   More
+   Markets Tech Media Calculators Videos
+   Audio Live TV (BUTTON)
+
+   (BUTTON) (BUTTON) (BUTTON) Log In
+   My Account
+     * Settings
+     * Topics You Follow
+     * Log Out
+
+   Your CNN account Log in to your CNN account
+   ____________________ (BUTTON) Search
+
+   (BUTTON) (BUTTON) (BUTTON) Log In
+   My Account
+     * Settings
+     * Topics You Follow
+     * Log Out
+
+   Your CNN account Log in to your CNN account
+     __________________________________________________________________
+
+   Live TV Audio
+     __________________________________________________________________
+
+   Edition
+   US
+   International
+   Arabic
+   Español
+   Edition
+     * US
+     * International
+     * Arabic
+     * Español
+     __________________________________________________________________
+
+   Markets
+   Tech
+   Media
+   Calculators
+   Videos
+   Follow CNN Business
+     *
+     *
+     *
+     __________________________________________________________________
+
+     * World
+          + Africa
+          + Americas
+          + Asia
+          + Australia
+          + China
+          + Europe
+          + India
+          + Middle East
+          + United Kingdom
+     * US Politics
+          + The Biden Presidency
+          + Facts First
+          + 2024 Elections
+     * Business
+          + Tech
+          + Media
+          + Calculators
+          + Videos
+     * Markets
+          + Pre-markets
+          + After-Hours
+          + Market Movers
+          + Fear & Greed
+          + World Markets
+          + Investing
+          + Markets Now
+          + Before the Bell
+          + Nightcap
+     * Health
+          + Life, But Better
+          + Fitness
+          + Food
+          + Sleep
+          + Mindfulness
+          + Relationships
+     * Entertainment
+          + Movies
+          + Television
+          + Celebrity
+     * Tech
+          + Innovate
+          + Gadget
+          + Foreseeable Future
+          + Mission: Ahead
+          + Upstarts
+          + Work Transformed
+          + Innovative Cities
+     * Style
+          + Arts
+          + Design
+          + Fashion
+          + Architecture
+          + Luxury
+          + Beauty
+          + Video
+     * Travel
+          + Destinations
+          + Food & Drink
+          + Stay
+          + News
+          + Videos
+     * Sports
+          + Football
+          + Tennis
+          + Golf
+          + Motorsport
+          + US Sports
+          + Olympics
+          + Climbing
+          + Esports
+          + Hockey
+     * Videos
+          + Live TV
+          + Digital Studios
+          + CNN Films
+          + HLN
+          + TV Schedule
+          + TV Shows A-Z
+          + CNNVR
+     * Features
+          + As Equals
+          + Call to Earth
+          + Freedom Project
+          + Impact Your World
+          + Inside Africa
+          + 2 Degrees
+          + CNN Heroes
+          + All Features
+     * Weather
+          + Climate
+          + Wildfire Tracker
+          + Video
+     * More
+          + Photos
+          + Longform
+          + Investigations
+          + CNN Profiles
+          + CNN Leadership
+          + CNN Newsletters
+          + Work for CNN
+
+   Markets
+   DOW
+   S&P 500
+   NASDAQ
+
+   Fear & Greed Index
+   ----- is driving the US market
+
+   Latest Market News
+   Dr Martens shares slide 27% as the British bootmaker warns on profits
+   Meta identifies Chinese propaganda threat ahead of 2024 election
+   New billionaire heirs overtake self-made ones as $5.2 trillion wealth
+   transfer begins
+   Something isn't loading properly. Please check back later.
+   Ad Feedback
+   COP28
+   Ad Feedback
+
+How AI could power the climate breakthrough the world needs
+
+   Clare Duffy Rachel Ramirez
+   By Clare Duffy and Rachel Ramirez, CNN
+   9 minute read
+   Updated 9:23 AM EST, Mon November 27, 2023
+   (BUTTON) (BUTTON) (BUTTON)
+   Link Copied!
+   (BUTTON) (BUTTON)
+   20231120_climateai
+   Illustration by Leah Abucayan/cnn/getty
+
+   Programming note: Listen to a version of this story on CNN’s One Thing
+   podcast with David Rind.
+   New York CNN  —
+
+   Tomato growers in central India have been increasingly worried about
+   the volatility that extreme weather events have brought to the region.
+   For much of the area, the last decade has been punctuated by severe
+   droughts that led to significant crop loss, impacting the livelihoods
+   of local farmers.
+
+   On the other side of the world, Silicon Valley startup ClimateAi is
+   developing an artificial intelligence platform to evaluate how
+   vulnerable crops are to warming temperatures over the next two decades.
+   The tool uses data on the climate, water and soil of a particular
+   location to measure how viable the landscape will be for growing in the
+   coming years.
+
+   Maharashtra, India, was one of its first case studies in 2021. Farmers
+   could go into the ClimateAi app and input what seed they were growing
+   and where they wanted to plant it.
+
+   With that data, ClimateAi ran simulations and found that extreme heat
+   and drought would lead to an approximately 30% decrease in tomato
+   output in the region over the next two decades. It warned growers that
+   they should change their strategy.
+
+   The results proved pivotal — tomato producers adjusted their business
+   plans by switching to more climate-resilient seed varieties and
+   shifting the times they plant tomato seeds. Finding new growing
+   locations usually takes a while for farmers affected by climate change,
+   but “now it can happen in a matter of minutes, and it also saves them a
+   lot of cost,” according to Himanshu Gupta, who grew up in India and is
+   the CEO and co-founder of ClimateAi.
+
+   “The way we think about AI is it’s a time and effectiveness multiplier
+   to the solutions for climate change,” Gupta told CNN.
+
+   Better assessing future risks for farming is just one of the ways
+   artificial intelligence technologies are being used to address the
+   climate crisis.
+
+   AI first crashed into the public consciousness this year thanks to
+   popular, consumer-facing AI tools like ChatGPT, and experts say the
+   technology is set to revolutionize countless industries. But climate
+   researchers have for years been thinking about how AI — computer
+   programs that can rapidly analyze enormous amounts of data and complete
+   complex tasks in ways similar to how a human might — could help them
+   better understand and address the changing climate.
+   AI explainer STOCK RESTRICTED
+   Tom Werner/Stone RF/Getty Images
+
+   Everything you need to know about AI but were too afraid to ask
+
+   Now, experts say AI is poised to accelerate everything from reducing
+   pollution to improving weather models.
+
+   “Efficiencies is one thing that AI is very good at, optimizing
+   decisions, optimizing resources,” said Fengqi You, chair professor at
+   Cornell University’s engineering school. “It’s a system that has very
+   strong predictive capabilities that could be tremendously helpful in
+   many domains, ranging from (understanding) small-scale molecules … to
+   broader climate systems to help us fight climate change.”
+
+   With the breakneck pace at which the planet has been
+   warming, accelerating the speed at which the world deploys and
+   implements solutions is crucial. But for all of AI’s promise, the
+   infrastructure that supports the technology — data centers filled with
+   rows of powerful, energy-sucking computers — could itself be a strain
+   on the environment. Experts say software engineers must work closely
+   with climate scientists to find a balance.
+
+   “It’s definitely something that has to be considered as this
+   trade-off,” said Kara Lamb, an associate research scientist at Columbia
+   University’s earth and environmental engineering department. Still,
+   “the positives outweigh the negatives in terms of applying it to these
+   types of approaches.”
+   An artificial intelligence platform developed by ClimateAi is helping
+   tomato growers in India adapt to extreme weather.
+   An artificial intelligence platform developed by ClimateAi is helping
+   tomato growers in India adapt to extreme weather.
+   Indranil Aditya/NurPhoto/Getty Images
+
+Technology that speeds up discovery
+
+   Artificial intelligence is a broad term that refers to various digital
+   tools trained to perform a wide range of complex tasks that might
+   previously have required input from an actual person. Generally, what
+   these technologies have in common is their ability to rapidly process
+   and find connections among vast amounts of disparate data.
+
+   This makes AI particularly good at things like forecasting and running
+   simulations. And unlike traditional computer programs, AI tools can
+   typically continue learning over time as new data is available or as
+   the systems receive new feedback about the quality of their outputs.
+
+   While scientific discovery used to be reliant on humans’ ability to
+   gather, observe and analyze evidence, computers can now process large
+   datasets, identify patterns and run digital experiments in a fraction
+   of the time that human researchers would need.
+   WHITEWATER, CALIFORNIA - FEBRUARY 22: Wind turbines operate at a wind
+   farm, a key power source for the Coachella Valley, as vehicles drive on
+   February 22, 2023 near Whitewater, California. Wind turbines in
+   California provide enough energy to power more than 2 million homes
+   while the International Energy Agency (IEA) predicts renewable energy
+   will account for 35 percent of worldwide power generation in 2025.
+   (Photo by Mario Tama/Getty Images)
+   Wind turbines near Whitewater, California in Fenruary 2023. The world
+   needs to rapidly slash planet heating emissions, but climate policies
+   have become a flashpoint in the culture wars.
+   Mario Tama/Getty Images
+
+   ‘An agenda to control you’: How climate solutions got sucked into a
+   fevered culture war
+
+   “For the climate models, fundamentally we’re trying to solve these
+   equations … how these atmosphere models are interacting, and it takes a
+   long time to solve,” You said. Similarly, research on new energy
+   conduction materials, like those for solar panels, could require
+   countless hours of testing that can now be sped up using AI.
+
+   “In the past, people used to need trial and error, we’d need …
+   researchers working every day and night,” You said. “Now, because of
+   AI, which doesn’t need to sleep, it just needs electric power, it could
+   keep working 24/7 and it can become very helpful in accelerating
+   discovery.”
+
+   AI probably won’t replace the need for humans in the climate change
+   fight. But it could make their work faster and more effective.
+
+   Researchers seeking to restore coastlines by replanting seagrass, for
+   example, are using AI to model the best locations to target those
+   replanting efforts, said Dan Keeler, chief communication officer at
+   impact investing firm Newday, which is involved in charitable efforts
+   to support the coastal restoration.
+
+   An AI algorithm trained to address the issue could take into
+   consideration everything from toxins in the water or disruptive
+   shipping routes to how replanting efforts could impact nearby sea life
+   or even coastal tourism.
+
+   “It’s very difficult to put all those together into a single model with
+   conventional methods, but AI actually makes that much more possible,”
+   Keeler said.
+
+AI ‘doing the dirty work’ in climate research
+
+   The Arctic is warming four times faster than the rest of the planet,
+   scientists have found. Rising temperatures are melting sea ice, thawing
+   permafrost and igniting wildfires in what should be one of the coldest
+   regions on Earth.
+
+   Climate experts have said what happens in the Arctic is a bellwether
+   for the rest of the world. But climate models – which scientists use to
+   predict long-term change – are not capturing how fast it’s warming.
+   Drilling operations by Natural Hydrogen Energy LLC in the Midwest of
+   the USA.
+   Drilling operations for white hydrogen by Natural Hydrogen Energy in
+   the US Midwest.
+   Viacheslav Zgonnik
+
+   They went hunting for fossil fuels. What they found could help save the
+   world
+
+   With the help of AI, Anna Liljedahl, a scientist at the Woodwell
+   Climate Research Center, can make permafrost forecasts on a seasonal
+   timescale, instead of on the typical 100-year timescale, giving her and
+   other researchers a better picture of how fast the Arctic is melting.
+
+   “AI is doing the dirty work,” Liljedahl told CNN. “But AI is not
+   perfect, so we see it as a first tool, and then the human will come in
+   after and really check and make sure that things make sense and explore
+   the things that AI suggested.”
+
+   The technology can also be used for solutions. A 2019 Google DeepMind
+   project trained an AI model on weather forecasts and historical wind
+   turbine data to predict the availability of wind power, helping to
+   increase the value of the renewable energy source for wind farmers. AI
+   can also help predict when and where energy demand is going to be
+   highest, allowing grid operators to “make sure they have power online,
+   ready to supply demand, and also that they don’t have power that’s just
+   being produced and it’s going to be consumed, because that’s obviously
+   a tremendous waste,” said Keeler.
+   Artificial intelligence can be used to help better predict the supply
+   and demand for renewable energy sources.
+   Artificial intelligence can be used to help better predict the supply
+   and demand for renewable energy sources.
+   Daniel Leal/AFP/Getty Images
+
+   ClimateAi’s Gupta said the problem is figuring out how to integrate
+   renewable capacity into the existing fossil fuel-dominated grid. AI can
+   identify in real-time which renewable energy sources are available in
+   the areas where consumers want it — optimizing consumer demand and
+   supply for renewables.
+
+   Elsewhere, AI is also being used to research materials that could
+   effectively recapture carbon from the atmosphere and to model and
+   forecast major floods to help local government agencies better prepare
+   for and react to potential emergencies.
+
+   The Cool Down, a media company aiming to help consumers better
+   understand the climate crisis and potential solutions, is set to launch
+   an AI tool early next year that will answer user questions about how to
+   live a more sustainable lifestyle, according to Anna Robertson,
+   co-founder and head of content and partnerships. The tool will use data
+   from its site about what kinds of climate information consumers are
+   most curious about to direct users to information, including answering
+   questions like, “What can I do with my old jeans?” or “I want to switch
+   my laundry detergent, where should I start?”
+
+   “Part of the problem is that the issue itself has become so
+   overwhelming and mostly dominated by doom and gloom and not the
+   solutions we have at our fingertips,” Robertson told CNN. “We want to
+   make it easier for people to make better choices.”
+
+Finding the right balance
+
+   There’s a downside to all this computational power: Running artificial
+   intelligence models is energy-intensive, and many data centers are
+   operated in areas that are still heavily reliant on fossil fuels,
+   Cornell’s You said. Data centers also typically require water for
+   cooling — a dwindling resource in some places where this computing is
+   being done, including the American West.
+
+   For now, the amount of energy used to power AI is relatively small
+   compared to what’s consumed by transportation or buildings. “But this
+   is going to grow very fast, and we do need to be very careful at this
+   moment before it grows exponentially,” You said.
+
+   An October study from Dutch researcher Alex de Vries estimated that the
+   “worst-case scenario” suggests Google’s AI systems could eventually
+   consume as much electricity as the country of Ireland each year,
+   assuming a full-scale adoption of AI in their current hardware and
+   software. Developers should be advised “not only to focus on optimizing
+   AI, but also to critically consider the necessity of using AI in the
+   first place, as it is unlikely that all applications will benefit from
+   AI or that the benefits will always outweigh the costs,” the study
+   concludes.
+   Data center operators like Google are already thinking about how to
+   reduce the resources needed to power the computing behind their AI
+   models.
+   Data center operators like Google are already thinking about how to
+   reduce the resources needed to power the computing behind their AI
+   models.
+   Alex Kraus/Bloomberg/Getty Images
+
+   Some data center operators are already beginning to address these
+   concerns.
+
+   Amazon Web Services, the online shopping giant’s cloud computing arm,
+   has pledged to be “water positive” by 2030, meaning the company will
+   “return more water to the communities in which we have our data center
+   infrastructure than we take,” CEO Adam Selipsky told CNN in an October
+   interview.
+
+   In Oregon, for example, where drought has tightened its grip in recent
+   years, AWS is providing the spent water used for cooling its data
+   centers to local farmers for irrigation at no cost.
+
+   The companies building and running data centers to carry out AI
+   workloads can also think about strategically placing them in areas
+   where they might require fewer natural resources to operate, You said.
+   If data centers are built in colder parts of the world, for example,
+   less water will be needed for cooling; Scandanavia has emerged as a
+   popular location for data centers, also bolstered by its relatively
+   robust availability of renewable energy sources.
+   From the International Space Station, Expedition 42 Flight Engineer
+   Terry W. Virts took this photograph of the Gulf of Mexico and U.S. Gulf
+   Coast at sunset and posted it to social media on Dec. 14, 2014.
+   From the International Space Station, Expedition 42 Flight Engineer
+   Terry W. Virts took this photograph of the Gulf of Mexico and U.S. Gulf
+   Coast at sunset and posted it to social media on Dec. 14, 2014.
+   Terry Virts/NASA
+
+   This controversial climate solution could be exactly what the planet
+   needs. Or it could be a colossal disaster
+
+   Lawmakers in the United States and abroad — who have in recent months
+   increasingly turned their attention to developing guardrails for AI —
+   should consider both the technology’s potential benefits in fighting
+   climate change and its environmental impact when developing
+   regulations, You added.
+
+   “Regulators, decision makers, policymakers really need to think about
+   this when they are looking at the growth of [the AI] industry,” You
+   said. “The growth of the industry is not only about the software, tools
+   and so on, but also how they operate these data centers.”
+
+   Tech experts also caution that AI must be made affordable and
+   accessible for low-income nations, particularly those in the Global
+   South that are on the frontlines of the climate crisis yet contribute
+   the least to global pollution, something Gupta hopes to address as he
+   expands ClimateAi’s resources.
+
+   “When it comes to AI being applied to climate change,” said Gupta, “I
+   think we are just scratching the surface of the potential that exists
+   both in terms of the impact it could create for businesses, but also
+   the impact it could create at the humanity level.”
+
+   This story has been updated to note that Himanshu Gupta is both the CEO
+   and co-founder of ClimateAi.
+
+   Related
+   [230209155836-04-solar-geoengineering-mexico-file-earth.jpg?c=16x9&q=h_
+   144,w_256,c_fill]
+   Ad Feedback
+   Ad Feedback
+
+More from CNN Business
+
+   Founder and CEO of Alibaba Jack Ma is interviewed by Maurice Levy in
+   the VivaTech Exhibition in Palais des Expositions of Porte de
+   Versailles, Paris, France on May 16, 2019.
+   Abaca Press/SIPAPRE/Sipa USA/AP
+   ‘Pay any price.’ Alibaba’s Jack Ma urges reform as rival rattles
+   e-commerce giant
+   Nov 30, 2023
+   Charlie Munger, vice chairman of Berkshire Hathaway Inc., arrives for
+   the Berkshire Hathaway annual meeting in Omaha, Nebraska, U.S., on
+   Saturday, May 6, 2017.
+   Daniel Acker/Bloomberg/Getty Images
+   How investing $100 in Berkshire Hathaway when Charlie Munger joined
+   would now be worth nearly $400,000
+   Nov 30, 2023
+   Ad Feedback
+
+CNN Business Videos
+
+   arnault roy split vpx
+   Getty Images/HBO
+   World’s third-richest man weighs which of his 5 children will take over
+   empire (May 2023)
+   Nov 30, 2023
+   NEW YORK, NEW YORK - NOVEMBER 29: Elon Musk speaks onstage during The
+   New York Times Dealbook Summit 2023 at Jazz at Lincoln Center on
+   November 29, 2023 in New York City. (Photo by Slaven Vlasic/Getty
+   Images for The New York Times)
+   Slaven Vlasic/Getty Images
+   Elon Musk directly tells advertisers to ‘go f**k yourself’ during
+   interview
+   Nov 30, 2023
+   HBCU dolls
+   WFAA
+   Texas woman launches first HBCU doll line
+   Nov 29, 2023
+   FST birthplace of sake
+   What gives the ‘birthplace of sake’ its edge?
+   Nov 29, 2023
+   Ad Feedback
+   Ad Feedback
+
+   ____________________ (BUTTON) Search
+
+   (BUTTON) (BUTTON) (BUTTON) Log In
+   My Account
+     * Settings
+     * Topics You Follow
+     * Log Out
+
+   Your CNN account Log in to your CNN account
+     __________________________________________________________________
+
+   Live TV Audio
+     __________________________________________________________________
+
+     * World
+          + Africa
+          + Americas
+          + Asia
+          + Australia
+          + China
+          + Europe
+          + India
+          + Middle East
+          + United Kingdom
+     * US Politics
+          + The Biden Presidency
+          + Facts First
+          + 2024 Elections
+     * Business
+          + Markets
+          + Tech
+          + Media
+          + Calculators
+          + Videos
+     * Health
+          + Life, But Better
+          + Fitness
+          + Food
+          + Sleep
+          + Mindfulness
+          + Relationships
+     * Entertainment
+          + Movies
+          + Television
+          + Celebrity
+     * Tech
+          + Innovate
+          + Gadget
+          + Foreseeable Future
+          + Mission: Ahead
+          + Upstarts
+          + Work Transformed
+          + Innovative Cities
+     * Style
+          + Arts
+          + Design
+          + Fashion
+          + Architecture
+          + Luxury
+          + Beauty
+          + Video
+     * Travel
+          + Destinations
+          + Food & Drink
+          + Stay
+          + News
+          + Videos
+     * Sports
+          + Football
+          + Tennis
+          + Golf
+          + Motorsport
+          + US Sports
+          + Olympics
+          + Climbing
+          + Esports
+          + Hockey
+     * Videos
+          + Live TV
+          + Digital Studios
+          + CNN Films
+          + HLN
+          + TV Schedule
+          + TV Shows A-Z
+          + CNNVR
+     * Features
+          + As Equals
+          + Call to Earth
+          + Freedom Project
+          + Impact Your World
+          + Inside Africa
+          + 2 Degrees
+          + CNN Heroes
+          + All Features
+     * Weather
+          + Climate
+          + Wildfire Tracker
+          + Video
+     * More
+          + Photos
+          + Longform
+          + Investigations
+          + CNN Profiles
+          + CNN Leadership
+          + CNN Newsletters
+          + Work for CNN
+     __________________________________________________________________
+
+   Audio Live TV
+   Follow CNN Business
+     *
+     *
+     *
+     *
+
+   (BUTTON) (BUTTON) (BUTTON) Log In
+   My Account
+     * Settings
+     * Topics You Follow
+     * Log Out
+
+   Your CNN account Log in to your CNN account
+     __________________________________________________________________
+
+   Most stock quote data provided by BATS. US market indices are shown in
+   real time, except for the S&P 500 which is refreshed every two minutes.
+   All times are ET. Factset: FactSet Research Systems Inc. All rights
+   reserved. Chicago Mercantile: Certain market data is the property of
+   Chicago Mercantile Exchange Inc. and its licensors. All rights
+   reserved. Dow Jones: The Dow Jones branded indices are proprietary to
+   and are calculated, distributed and marketed by DJI Opco, a subsidiary
+   of S&P Dow Jones Indices LLC and have been licensed for use to S&P
+   Opco, LLC and CNN. Standard & Poor’s and S&P are registered trademarks
+   of Standard & Poor’s Financial Services LLC and Dow Jones is a
+   registered trademark of Dow Jones Trademark Holdings LLC. All content
+   of the Dow Jones branded indices Copyright S&P Dow Jones Indices LLC
+   and/or its affiliates. Fair value provided by IndexArb.com. Market
+   holidays and trading hours provided by Copp Clark Limited.
+
+   Terms of Use Privacy Policy Ad Choices Accessibility & CC About
+   Newsletters Transcripts
+
+   © 2023 Cable News Network. A Warner Bros. Discovery Company. All Rights
+   Reserved.
+   CNN Sans ™ & © 2016 Cable News Network.

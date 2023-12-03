@@ -1,0 +1,223 @@
+   Skip to main content
+
+   (*) ( )
+
+   Open menu Close menu
+   Tom's Hardware
+   [ ] Search Search Tom's Hardware ____________________ (BUTTON)
+   RSS
+   (BUTTON) US Edition
+   flag of US
+   flag of UK
+   UK
+   flag of US
+   US
+   flag of Australia
+   Australia
+   flag of Canada
+   Canada
+
+     *
+     * Reviews
+     * Best Picks
+     * Raspberry Pi
+     * CPUs
+     * GPUs
+     * Coupons
+     * Newsletter
+     * More
+          + News
+          + PC Components
+          + SSDs
+          + Motherboards
+          + PC Building
+          + Monitors
+          + Laptops
+          + Desktops
+          + Cooling
+          + Cases
+          + RAM
+          + Power Supplies
+          + Peripherals
+          + Overclocking
+          + 3D Printers
+          + About Us
+
+   Forums
+
+   Trending
+     * Cyber Monday Tech Deals You Can Still Get
+     * Intel Core i9-14900K
+     * Nvidia GeForce RTX 4090
+     * Lowest CPU Prices
+     * Lowest GPU Prices
+
+   When you purchase through links on our site, we may earn an affiliate
+   commission. Here’s how it works.
+    1. PC Components
+    2. GPUs
+
+HBM4 memory to double speeds in 2026 — 2048-bit interface to revolutionize
+artificial intelligence and HPC markets: Report
+
+   News
+   By Anton Shilov
+   published 27 November 2023
+
+   HBM3E set to have a long lifespan.
+     *
+     *
+     *
+     *
+     *
+     *
+     *
+
+   Comments (0)
+   AMD
+   (Image credit: AMD)
+
+   Today, TrendForce shed some light on the future of high bandwidth
+   memory (HBM) technology and HBM4, specifically, which is expected to
+   debut in 2026. This upcoming technology promises to extend its
+   interface to 2048 bits and substantially change the architecture.
+   TrendForce claims that HBM4 will significantly depart from traditional
+   standardized DRAM technologies to more customized solutions.
+
+   HBM4 will be the first to use a 12nm logic process technology for its
+   base die, which foundries, not DRAM makers, will now make. This
+   development will be a collaborative effort between foundries and memory
+   suppliers, which essentially means a symbiotic relationship to advance
+   high-speed memory technology. The increased performance and enhanced
+   feature set of HBM4 are tailored to meet the demands of future
+   processors for artificial intelligence (AI) and high-performance
+   computing (HPC) from key industry players such as AMD, Nvidia, and
+   Intel.
+
+   The shift towards customization in the HBM4 market is a crucial aspect
+   identified by TrendForce. This deviates from the traditional,
+   standardized approach of commodity DRAM, which signifies a major shift
+   in the industry. Buyers are increasingly seeking custom specifications
+   and are exploring innovative options, such as stacking HBM directly on
+   top of the system-on-chips (SoCs).
+
+   This trend towards customization is expected to bring new design and
+   pricing strategies to the HBM industry. As memory technology becomes
+   more specialized and tailored to specific needs, it paves the way for a
+   new HBM technology era characterized by innovation, specialization, and
+   a departure from the one-size-fits-all approach today. This evolution
+   in HBM4 and beyond indicates a dynamic and rapidly advancing landscape
+   in high-speed memory technology.
+
+   Another standout feature of HBM4 is its transition from the current
+   12-layer (12Hi) stacks to more advanced 16-layer (16Hi) stacks,
+   increasing memory module capacity. This transition, expected to be
+   completed by 2027, will necessitate using new hybrid bonding techniques
+   to increase layer count while maintaining the integrity of the memory
+   stacks.
+
+   But while HBM4 will revolutionize the memory market, it is still years
+   away. As a result, HBM3E is going to have quite a long lifespan.
+
+Stay on the Cutting Edge
+
+   Join the experts who read Tom's Hardware for the inside track on
+   enthusiast PC tech news — and have for over 25 years. We'll send
+   breaking news and in-depth reviews of CPUs, GPUs, AI, maker hardware
+   and more straight to your inbox.
+   ____________________ [ ] Contact me with news and offers from other
+   Future brands [ ] Receive email from us on behalf of our trusted
+   partners or sponsors Sign me up
+   By submitting your information you agree to the Terms & Conditions and
+   Privacy Policy and are aged 16 or over.
+   Anton Shilov
+   Anton Shilov
+   Social Links Navigation
+   Freelance News Writer
+
+   Anton Shilov is a Freelance News Writer at Tom’s Hardware US. Over the
+   past couple of decades, he has covered everything from CPUs and GPUs to
+   supercomputers and from modern process technologies and latest fab
+   tools to high-tech industry trends.
+   See more GPUs News
+   More about gpus
+   An image of a stripped-down RTX 3090 repurposed into a blower-style AI
+   accelerator card.
+
+   Desperate Chinese factories repurpose last-gen RTX 3090 GPUs into AI
+   accelerators to skirt US export ban
+   Curtis Priem
+
+   Nvidia co-founder living eccentric off-grid lifestyle would have been
+   worth $70B if he’d kept his shares
+   Latest
+   Ayaneo Retro Mini PC AM01
+
+   Ayaneo’s Retro Mini PC AM01 uses older-gen AMD APUs - but its $149
+   price is also cheaper than we expected
+   See more latest ►
+   TOPICS
+   SK Hynix
+   (BUTTON) See all comments (0)
+   [ ]
+   No comments yet Comment from the forums
+
+Most Popular
+
+   Google Drive users are reporting the loss of months of data
+
+   By Aaron KlotzNovember 27, 2023
+   Nvidia co-founder living eccentric off-grid lifestyle would have been
+   worth $70B if he’d kept his shares
+
+   By Mark TysonNovember 27, 2023
+   Nvidia to become the world's largest semiconductor firm in 2023,
+   according to TSMC chairman
+
+   By Matthew ConnatserNovember 27, 2023
+   Why Cyber Monday Might Be Your Last Chance for Years to Get a Great SSD
+   Deal
+
+   By Matt SaffordNovember 27, 2023
+   Chipmaker TSMC's silicon waste recycled into shoes – $41 eco-friendly
+   Ccilu branded footwear now available in the US
+
+   By Mark TysonNovember 27, 2023
+   15 of my favorite Cyber Monday tech deals you can grab for under $50
+
+   By Matt SaffordNovember 27, 2023
+   CES Awards lists two unreleased AOC ultrawide monitors — Porsche Design
+   49-inch and 34-inch panels coming soon
+
+   By Roshan ShaikhNovember 26, 2023
+   Mini PCs get big Cyber Monday discounts — up to 26% off Minisforum
+   Venus and Neptune Series
+
+   By Roshan ShaikhNovember 26, 2023
+   Cyber Monday Tech Deals Live: Latest PC Hardware, CPU, GPU, SSD, and
+   Laptop Sales You Can Still Get
+
+   By Avram PiltchNovember 26, 2023
+   'GPUs still rule' asserts graphics guru Raja Koduri in response to
+   custom AI silicon advocate
+
+   By Anton ShilovNovember 26, 2023
+   Memory maker SK hynix booms during AI frenzy — now controls 35% of the
+   DRAM market
+
+   By Matthew ConnatserNovember 26, 2023
+
+   Tom's Hardware is part of Future US Inc, an international media group
+   and leading digital publisher. Visit our corporate site.
+     * Terms and conditions
+     * Contact Future's experts
+     * Privacy policy
+     * Cookies policy
+     * Accessibility Statement
+     * Advertise
+     * About us
+     * Coupons
+     * Careers
+
+   © Future US, Inc. Full 7th Floor, 130 West 42nd Street, New York, NY
+   10036.

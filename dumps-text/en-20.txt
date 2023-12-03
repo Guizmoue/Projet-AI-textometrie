@@ -1,0 +1,773 @@
+   #alternate alternate
+
+     * Resources
+     * Blog
+     * Journalists
+
+     * Log In
+     * Sign Up
+     * Data Privacy
+     * Send a Release
+
+   Cision PR Newswire: news distribution, targeting and monitoring home
+     * News
+     * Products
+     * Contact
+
+   (BUTTON) Search
+   Search When typing in this field, a list of search results will appear
+   and be automatically updated as you type. ____________________
+
+   Searching for your content...
+   No results found. Please change your search terms and try again.
+   (BUTTON)
+
+     * News in Focus
+          +
+               o Browse News Releases
+               o All News Releases
+               o All Public Company
+               o English-only
+               o News Releases Overview
+               o Multimedia Gallery
+               o All Multimedia
+               o All Photos
+               o All Videos
+               o Multimedia Gallery Overview
+               o Trending Topics
+               o All Trending Topics
+     * Business & Money
+          +
+               o Auto & Transportation
+               o All Automotive & Transportation
+               o Aerospace, Defense
+               o Air Freight
+               o Airlines & Aviation
+               o Automotive
+               o Maritime & Shipbuilding
+               o Railroads and Intermodal Transportation
+               o Supply Chain/Logistics
+               o Transportation, Trucking & Railroad
+               o Travel
+               o Trucking and Road Transportation
+               o Auto & Transportation Overview
+               o View All Auto & Transportation
+               o Business Technology
+               o All Business Technology
+               o Blockchain
+               o Broadcast Tech
+               o Computer & Electronics
+               o Computer Hardware
+               o Computer Software
+               o Data Analytics
+               o Electronic Commerce
+               o Electronic Components
+               o Electronic Design Automation
+               o Financial Technology
+               o High Tech Security
+               o Internet Technology
+               o Nanotechnology
+               o Networks
+               o Peripherals
+               o Semiconductors
+               o Business Technology Overview
+               o View All Business Technology
+               o Entertainment & Media
+               o All Entertainment & Media
+               o Advertising
+               o Art
+               o Books
+               o Entertainment
+               o Film and Motion Picture
+               o Magazines
+               o Music
+               o Publishing & Information Services
+               o Radio & Podcast
+               o Television
+               o Entertainment & Media Overview
+               o View All Entertainment & Media
+               o Financial Services & Investing
+               o All Financial Services & Investing
+               o Accounting News & Issues
+               o Acquisitions, Mergers and Takeovers
+               o Banking & Financial Services
+               o Bankruptcy
+               o Bond & Stock Ratings
+               o Conference Call Announcements
+               o Contracts
+               o Cryptocurrency
+               o Dividends
+               o Earnings
+               o Earnings Forecasts & Projections
+               o Financing Agreements
+               o Insurance
+               o Investments Opinions
+               o Joint Ventures
+               o Mutual Funds
+               o Private Placement
+               o Real Estate
+               o Restructuring & Recapitalization
+               o Sales Reports
+               o Shareholder Activism
+               o Shareholder Meetings
+               o Stock Offering
+               o Stock Split
+               o Venture Capital
+               o Financial Services & Investing Overview
+               o View All Financial Services & Investing
+               o General Business
+               o All General Business
+               o Awards
+               o Commercial Real Estate
+               o Corporate Expansion
+               o Earnings
+               o Environmental, Social and Governance (ESG)
+               o Human Resource & Workforce Management
+               o Licensing
+               o New Products & Services
+               o Obituaries
+               o Outsourcing Businesses
+               o Overseas Real Estate (non-US)
+               o Personnel Announcements
+               o Real Estate Transactions
+               o Residential Real Estate
+               o Small Business Services
+               o Socially Responsible Investing
+               o Surveys, Polls and Research
+               o Trade Show News
+               o General Business Overview
+               o View All General Business
+     * Science & Tech
+          +
+               o Consumer Technology
+               o All Consumer Technology
+               o Artificial Intelligence
+               o Blockchain
+               o Cloud Computing/Internet of Things
+               o Computer Electronics
+               o Computer Hardware
+               o Computer Software
+               o Consumer Electronics
+               o Cryptocurrency
+               o Data Analytics
+               o Electronic Commerce
+               o Electronic Gaming
+               o Financial Technology
+               o Mobile Entertainment
+               o Multimedia & Internet
+               o Peripherals
+               o Social Media
+               o STEM (Science, Tech, Engineering, Math)
+               o Supply Chain/Logistics
+               o Wireless Communications
+               o Consumer Technology Overview
+               o View All Consumer Technology
+               o Energy & Natural Resources
+               o All Energy
+               o Alternative Energies
+               o Chemical
+               o Electrical Utilities
+               o Gas
+               o General Manufacturing
+               o Mining
+               o Mining & Metals
+               o Oil & Energy
+               o Oil and Gas Discoveries
+               o Utilities
+               o Water Utilities
+               o Energy & Natural Resources Overview
+               o View All Energy & Natural Resources
+               o Environment
+               o All Environment
+               o Conservation & Recycling
+               o Environmental Issues
+               o Environmental Policy
+               o Environmental Products & Services
+               o Green Technology
+               o Natural Disasters
+               o Environment Overview
+               o View All Environment
+               o Heavy Industry & Manufacturing
+               o All Heavy Industry & Manufacturing
+               o Aerospace & Defense
+               o Agriculture
+               o Chemical
+               o Construction & Building
+               o General Manufacturing
+               o HVAC (Heating, Ventilation and Air-Conditioning)
+               o Machinery
+               o Machine Tools, Metalworking and Metallurgy
+               o Mining
+               o Mining & Metals
+               o Paper, Forest Products & Containers
+               o Precious Metals
+               o Textiles
+               o Tobacco
+               o Heavy Industry & Manufacturing Overview
+               o View All Heavy Industry & Manufacturing
+               o Telecommunications
+               o All Telecommunications
+               o Carriers and Services
+               o Mobile Entertainment
+               o Networks
+               o Peripherals
+               o Telecommunications Equipment
+               o Telecommunications Industry
+               o VoIP (Voice over Internet Protocol)
+               o Wireless Communications
+               o Telecommunications Overview
+               o View All Telecommunications
+     * Lifestyle & Health
+          +
+               o Consumer Products & Retail
+               o All Consumer Products & Retail
+               o Animals & Pets
+               o Beers, Wines and Spirits
+               o Beverages
+               o Bridal Services
+               o Cannabis
+               o Cosmetics and Personal Care
+               o Fashion
+               o Food & Beverages
+               o Furniture and Furnishings
+               o Home Improvement
+               o Household, Consumer & Cosmetics
+               o Household Products
+               o Jewelry
+               o Non-Alcoholic Beverages
+               o Office Products
+               o Organic Food
+               o Product Recalls
+               o Restaurants
+               o Retail
+               o Supermarkets
+               o Toys
+               o Consumer Products & Retail Overview
+               o View All Consumer Products & Retail
+               o Entertainment & Media
+               o All Entertainment & Media
+               o Advertising
+               o Art
+               o Books
+               o Entertainment
+               o Film and Motion Picture
+               o Magazines
+               o Music
+               o Publishing & Information Services
+               o Radio & Podcast
+               o Television
+               o Entertainment & Media Overview
+               o View All Entertainment & Media
+               o Health
+               o All Health
+               o Biometrics
+               o Biotechnology
+               o Clinical Trials & Medical Discoveries
+               o Dentistry
+               o FDA Approval
+               o Fitness/Wellness
+               o Health Care & Hospitals
+               o Health Insurance
+               o Infection Control
+               o International Medical Approval
+               o Medical Equipment
+               o Medical Pharmaceuticals
+               o Mental Health
+               o Pharmaceuticals
+               o Supplementary Medicine
+               o Health Overview
+               o View All Health
+               o Sports
+               o All Sports
+               o General Sports
+               o Outdoors, Camping & Hiking
+               o Sporting Events
+               o Sports Equipment & Accessories
+               o Sports Overview
+               o View All Sports
+               o Travel
+               o All Travel
+               o Amusement Parks and Tourist Attractions
+               o Gambling & Casinos
+               o Hotels and Resorts
+               o Leisure & Tourism
+               o Outdoors, Camping & Hiking
+               o Passenger Aviation
+               o Travel Industry
+               o Travel Overview
+               o View All Travel
+     * Policy & Public Interest
+          +
+               o Policy & Public Interest
+               o All Policy & Public Interest
+               o Advocacy Group Opinion
+               o Animal Welfare
+               o Congressional & Presidential Campaigns
+               o Corporate Social Responsibility
+               o Domestic Policy
+               o Economic News, Trends, Analysis
+               o Education
+               o Environmental
+               o European Government
+               o FDA Approval
+               o Federal and State Legislation
+               o Federal Executive Branch & Agency
+               o Foreign Policy & International Affairs
+               o Homeland Security
+               o Labor & Union
+               o Legal Issues
+               o Natural Disasters
+               o Not For Profit
+               o Patent Law
+               o Public Safety
+               o Trade Policy
+               o U.S. State Policy
+               o Policy & Public Interest Overview
+               o View All Policy & Public Interest
+     * People & Culture
+          +
+               o People & Culture
+               o All People & Culture
+               o Aboriginal, First Nations & Native American
+               o African American
+               o Asian American
+               o Children
+               o Diversity, Equity & Inclusion
+               o Hispanic
+               o Lesbian, Gay & Bisexual
+               o Men's Interest
+               o People with Disabilities
+               o Religion
+               o Senior Citizens
+               o Veterans
+               o Women
+               o People & Culture Overview
+               o View All People & Culture
+               o In-Language News
+               o Arabic
+               o español
+               o português
+               o Česko
+               o Danmark
+               o Deutschland
+               o España
+               o France
+               o Italia
+               o Nederland
+               o Norge
+               o Polska
+               o Portugal
+               o Россия
+               o Slovensko
+               o Suomi
+               o Sverige
+
+     * Overview
+     * Distribution by PR Newswire
+     * Cision IR
+     * Guaranteed Paid Placement
+     * SocialBoost
+     * All Products
+
+     * General Inquiries
+     * Editorial Bureaus
+     * Partnerships
+     * Media Inquiries
+
+     *
+     * PR Newswire: news distribution, targeting and monitoring
+
+     * Send a Release
+     *
+     *
+          + ALL CONTACT INFO
+          + Contact Us
+            888-776-0942
+            from 8 AM - 10 PM ET
+     *
+     *
+          + ____________________
+
+     * Send a Release
+     * Sign Up
+     * Log In
+     * Resources
+     * Blog
+     * Journalists
+     * RSS
+     * GDPR
+     *
+
+     * News in Focus
+          + Browse All News
+          + Multimedia Gallery
+          + Trending Topics
+     * Business & Money
+          + Auto & Transportation
+          + Business Technology
+          + Entertainment & Media
+          + Financial Services & Investing
+          + General Business
+     * Science & Tech
+          + Consumer Technology
+          + Energy & Natural Resources
+          + Environment
+          + Heavy Industry & Manufacturing
+          + Telecommunications
+     * Lifestyle & Health
+          + Consumer Products & Retail
+          + Entertainment & Media
+          + Health
+          + Sports
+          + Travel
+     * Policy & Public Interest
+     * People & Culture
+          + People & Culture
+     * Send a Release
+     * Sign Up
+     * Log In
+     * Resources
+     * Blog
+     * Journalists
+     * RSS
+     * GDPR
+     *
+
+     * Overview
+     * Distribution by PR Newswire
+     * Cision IR
+     * SocialBoost
+     * All Products
+     * Send a Release
+     * Sign Up
+     * Log In
+     * Resources
+     * Blog
+     * Journalists
+     * RSS
+     * GDPR
+     *
+
+     * General Inquiries
+     * Editorial Bureaus
+     * Partnerships
+     * Media Inquiries
+     * Send a Release
+     * Sign Up
+     * Log In
+     * Resources
+     * Blog
+     * Journalists
+     * RSS
+     * GDPR
+     *
+
+XTX Markets launching $10 million 'Artificial Intelligence Mathematical
+Olympiad Prize'
+
+   (BUTTON) USA - English
+     * USA - English
+
+   XTX Markets Logo
+     __________________________________________________________________
+
+   News provided by
+   XTX Markets
+
+   27 Nov, 2023, 07:32 ET
+
+Share this article
+
+     *
+     *
+     *
+     *
+     *
+     *
+
+   Share toX
+   [Iz9yNquRo7AAAAAElFTkSuQmCC]
+   (BUTTON)
+
+   Share this article
+     *
+     *
+     *
+     *
+
+   Share toX
+   [Iz9yNquRo7AAAAAElFTkSuQmCC]
+     __________________________________________________________________
+
+   LONDON, Nov. 27, 2023 /PRNewswire/ -- XTX Markets is launching the
+   Artificial Intelligence Mathematical Olympiad Prize ('AI-MO Prize'), a
+   new $10mn challenge fund designed to spur the creation of a
+   publicly-shared AI model capable of winning a gold medal in the
+   International Mathematical Olympiad (IMO).
+
+   A grand prize of $5mn will be awarded to the first publicly-shared AI
+   model to enter an AI-MO approved competition and perform at a standard
+   equivalent to a gold medal in the IMO.
+
+   There will also be a series of progress prizes, totalling up to $5mn,
+   for publicly-shared AI models that achieve key milestones towards the
+   grand prize.
+
+   The IMO is a prestigious high school maths competition. A gold medal is
+   both a benchmark for exceptional performance and a predictor of future
+   achievement. Indeed, half of all Fields Medallists participated in the
+   IMO in their youth.
+
+   Building on these traditions, the AI-MO Prize will accelerate progress
+   beyond large language models like ChatGPT and develop new AI models
+   that can reason mathematically. As such, the AI-MO Prize could
+   represent a new Turing Test.
+
+   Gregor Dolinar, President, International Mathematical Olympiad,
+   commented:
+
+   "Using hard mathematical problems as a benchmark to determine if AI can
+   match the highest cognitive functions of human beings is a wonderful
+   idea.
+
+   Every year, more than 600 of the best students from more than 110
+   countries are challenged with six extremely difficult IMO problems,
+   typically only one or two students solve all six IMO problems in the
+   allotted nine hours.
+
+   I am sure that many people will be following the AI-MO Prize with great
+   excitement, to see when, in the future, AI will match the world's
+   brightest young minds."
+
+   Terence Tao, UCLA, Fields Medallist, commented:
+
+   "Despite recent advances, using AI to solve, or at least assist with
+   solving, advanced mathematical problems remains an incredibly
+   complicated and multifaceted challenge. It will be important to
+   experiment with multiple approaches to this goal, and to benchmark the
+   performance of each of them.
+
+   The AI-MO Prize promises to provide at least one such set of benchmarks
+   which will help compare different AI problem solving strategies at a
+   technical level, in a manner that will be accessible and appealing to
+   the broader public."
+
+   The prizes will be designed by an AI-MO Advisory Committee (to be
+   appointed), including mathematicians, AI and machine learning experts,
+   and experienced Olympiad problem-setters.
+
+   The first AI-MO approved competitions will open to participants in
+   early 2024. There will be a presentation of progress at the 65th IMO
+   which will be held in Bath, England in July 2024.
+
+   Further details as to the competition rules and entry criteria will be
+   released in due course.
+
+   Geoff Smith, Former President, International Mathematical Olympiad and
+   AI-MO Prize Advisory Committee Member, commented:
+
+   "The ability of modern AI systems to create a facsimile of a human when
+   engaging in a written exchange is remarkable. However, this works best
+   when there is a large corpus of relevant material already placed on the
+   internet by people.
+
+   It will be a far more demanding task to mimic a creative mathematician
+   as they engage in abstract reasoning. The global IMO community will be
+   delighted to be involved in supporting this competition, as we seek to
+   measure AI systems against the best young mathematical minds."
+
+   Simon Coyle, Head of Philanthropy, XTX Markets, commented:
+
+   "XTX Markets is excited to be launching the AI-MO Prize to spur the
+   development of AI models capable of mathematical reasoning. We look
+   forward to working with mathematicians, scientists and technologists to
+   develop the prizes, and to seeing how AI models compare against
+   exceptional high-school mathematicians."
+
+   For more information and updates on the AI-MO Prize visit:
+   https://aimoprize.com/
+
+   About XTX Markets:
+
+   XTX Markets is a leading financial technology firm which partners with
+   counterparties, exchanges and e-trading venues globally to provide
+   liquidity in the Equity, FX, Fixed Income and Commodity markets. XTX
+   has over 200 employees based in London, Paris, New York, Mumbai,
+   Yerevan and Singapore. XTX is consistently a top 5 liquidity provider
+   globally in FX (Euromoney 2018-present) and is also the largest
+   European equities (systematic internaliser) liquidity provider
+   (Rosenblatt FY: 2020-2023).
+
+   The company's corporate philanthropy focuses on STEM education and
+   maximum impact giving (alongside an employee matching programme). Since
+   2017, XTX has donated over £100mn to charities and good causes,
+   establishing it as a major donor in the UK and globally.
+
+   In a changing world XTX Markets is at the forefront of making financial
+   markets fairer and more efficient for all.
+
+   Logo - https://mma.prnewswire.com/media/2285893/XTX_Markets_Logo.jpg
+   (BUTTON) ×
+
+Modal title
+
+Also from this source
+
+   XTX Markets launching $10 million 'Artificial Intelligence Mathematical
+   Olympiad Prize'
+
+XTX Markets launching $10 million 'Artificial Intelligence Mathematical
+Olympiad Prize'
+
+   XTX Markets is launching the Artificial Intelligence Mathematical
+   Olympiad Prize ('AI-MO Prize'), a new $10mn challenge fund designed to
+   spur the...
+   More Releases From This Source
+
+Explore
+
+   Image1
+
+   Computer & Electronics
+   Image1
+
+   STEM (Science, Tech, Engineering, Math)
+   Image1
+
+   Artificial Intelligence
+   Image1
+
+   Banking & Financial Services
+   News Releases in Similar Topics
+
+PRN Top Stories Newsletters
+
+   Sign up to get PRN’s top stories and curated news delivered to your
+   inbox weekly!
+   ____________________ Enter Your Email
+   [Select Country] Select Country
+   (BUTTON) Submit
+
+Thank you for subscribing!
+
+   By signing up you agree to receive content from us.
+   Our newsletters contain tracking pixels to help us deliver unique
+   content based on each subscriber's engagement and interests. For more
+   information on how we will use your data to ensure we send you relevant
+   content please visit our PRN Consumer Newsletter Privacy Notice. You
+   can withdraw your consent at any time in the footer of every email
+   you'll receive. Mit Ihrer Anmeldung erklären Sie sich damit
+   einverstanden, Inhalte von uns zu erhalten.
+   Unsere Newsletter enthalten Zählpixel, die die Lieferung einzigartiger
+   Inhalte in Bezug auf das Abonnement und die Interessen der einzelnen
+   Abonnenten ermöglichen. Weitere Informationen über die Verwendung Ihrer
+   Daten im Hinblick auf die Zusendung von relevanten Inhalten, finden Sie
+   in unserer PRN Consumer Newsletter Privacy Notice. Ihre Zustimmung
+   können Sie jederzeit in der Fußzeile jeder erhaltenen E-Mail
+   widerrufen. En vous inscrivant à la newsletter, vous consentez à la
+   réception de contenus de notre part.
+   Notre newsletter contient des pixels espions nous permettant la
+   fourniture à chaque abonné, d’un contenu unique en lien avec ses
+   souscriptions et intérêts. Pour de plus amples informations sur
+   l’utilisation faite de vos données en vue de l’envoi des contenus
+   concernés, nous vous invitons à consulter la politique de
+   confidentialité disponible à partir du lien suivant PRN Consumer
+   Newsletter Privacy Notice. Vous pouvez à tout moment revenir sur votre
+   consentement par le biais des informations situées au bas de chaque
+   e-mail reçu. Регистрирайки се, Вие се съгласявате да получавате
+   информационно съдържание от нас. Нашите бюлетини съдържат проследяващи
+   пиксели, които ни помагат да предоставяме уникално съдържание въз
+   основа на ангажираността и интересите на всеки абонат. За повече
+   информация относно начина, по който ще използваме Вашите данни, за да
+   гарантираме, че Ви изпращаме подходящо съдържание, моля, направете
+   справка с нашето Уведомление за поверителност на потребителския бюлетин
+   на PRN. Можете да оттеглите съгласието си по всяко време в долния
+   колонтитул на всеки от имейлите, които ще получите.
+
+Contact PR Newswire
+
+     * Call 888-776-0942 from 8 AM - 9 PM ET
+     * Chat with an Expert
+
+   (BUTTON) Contact Us
+     * General Inquiries
+     * Request a Demo
+     * Editorial Bureaus
+     * Partnerships
+     * Media Inquiries
+     * Worldwide Offices
+
+Products
+
+     * For Marketers
+     * For Public Relations
+     * For IR & Compliance
+     * For Agency
+     * For Small Business
+     * All Products
+
+About
+
+     * About PR Newswire
+     * About Cision
+     * Become a Publishing Partner
+     * Become a Channel Partner
+     * Careers
+     * Accessibility Statement
+
+   (BUTTON) Global Sites
+     * Asia
+     * APAC
+     * APAC - Traditional Chinese
+     * Brazil
+     * Canada
+     * Czech
+     * Denmark
+     * Finland
+     * France
+     * Germany
+     * India
+     * Indonesia
+     * Israel
+     * Italy
+     * Mexico
+     * Middle East
+     * Middle East - Arabic
+     * Netherlands
+     * Norway
+     * Poland
+     * Portugal
+     * Russia
+     * Slovakia
+     * Spain
+     * Sweden
+     * United Kingdom
+
+My Services
+
+     * All New Releases
+     * Online Member Center
+     * ProfNet
+
+Contact Cision
+
+Products
+
+About
+
+   My Services
+     * All News Releases
+     * Online Member Center
+     * ProfNet
+
+   Cision Distribution Helpline
+   888-776-0942
+
+     * Terms of Use
+     * Privacy Policy
+     * Information Security Policy
+     * Site Map
+     * RSS
+     * Cookie Settings
+
+   Copyright © 2023 Cision US Inc.

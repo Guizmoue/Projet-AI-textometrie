@@ -1,0 +1,243 @@
+   #alternate alternate homepage alternate alternate
+
+   [ ]
+
+     * News
+     * Economy
+     * Markets
+     * Series [ ] Series
+          + My Wildest Prediction
+          + The Big Question
+          + Business Planet
+          + Focus
+          + The Dialogue
+          + The Exchange
+
+     *
+     *
+     *
+     *
+
+   Visit Euronews
+
+   (BUTTON) Close advertising
+
+   Business Markets
+
+Nvidia revenue triples on Artificial Intelligence chip rally
+
+   Nvidia logo
+   Nvidia logo - Copyright I-HWA CHENG/AFP or licensors (BUTTON)
+   By Indrabati Lahiri
+   Published on 22/11/2023 - 16:23•Updated 16:28
+   Share this articleComments
+   Share this article Close Button
+   facebook Facebook facebook twitter Twitter twitter flipboard Flipboard
+   flipboard send Send send reddit Reddit reddit messenger Messenger
+   messenger linkedin Linkedin linkedin vk VK vk
+
+   Tech giant Nvidia posted record fiscal third-quarter 2023 revenue this
+   week following robust chip demand. Here's why it is the company
+   investors all want a slice of.
+   ADVERTISEMENT
+
+   Tech giant, Nvidia, released staggering revenue this week of $18.12
+   billion (€16.62 billion) for the third quarter (Q3) of this year,
+   higher than analyst estimates of $16.18 billion and amounting to a 206%
+   year-on-year increase, as well as an increase of around 34% more than
+   the previous quarter.
+
+   The strong financial results were supported by exceedingly strong
+   demand for the company’s graphic processing units (GPUs), which are
+   essentially computer chips that render graphics and images by
+   performing rapid mathematical calculations.
+
+   The company also announced adjusted earnings per share of $4.02, higher
+   than the $3.37 per share expected. Net income clocked in at $9.24
+   billion, a massive leap from the $680 million seen in the last fiscal
+   year’s third quarter.
+     * Microsoft develops two new computer chips to offset high cost of AI
+       technology
+     * Chat GPT-4 Turbo, AI assistants and Microsoft: Everything you need
+       to know about OpenAI upgrades
+
+   Data centre revenues soared to $14.51 billion, ahead of estimates of
+   $12.97 billion, mainly boosted by cloud infrastructure providers. This
+   was about 279% more than the same time last year and around 41% more
+   than the last quarter.
+
+   Gaming revenues clocked in at $2.86 billion, beating expectations of
+   $2.68 billion. This was 81% higher year-on-year and 15% more than the
+   last quarter.
+
+Will 2024 be as profitable?
+
+   The company expects the fiscal fourth quarter of the year to yield a
+   revenue of around $20 billion, which would mean a growth of almost
+   231%.
+
+   Nvidia also revealed its new GH200 GPU during the third quarter, which
+   is expected to be cheaper as well as have more memory storage than its
+   current processors.
+
+   Victoria Scholar, head of investment at Interactive Investor, noted:
+   “The company which produces GPUs, critical in the AI market, however
+   warned that it anticipates softness in China in the fourth quarter
+   because of US export controls.
+
+   "It also warned about a potential impact to its business from the
+   Israel-Hamas conflict. These two factors combined with lofty
+   expectations for the stellar stock market winner this year, sent Nvidia
+   shares lower by 1.7% after hours, extending a near 1% drop in Tuesday’s
+   session.”
+
+   However, she highlighted that the lower move is a mere drop in the
+   ocean, compared to this year’s triple digit surge.
+
+Impact of export restrictions
+
+   Meanwhile, the firm noted how export restrictions will primarily impact
+   Nvidia’s A800 and H800 chips from being exported to China, and could
+   also extend to AMD and Intel chips.
+
+   This is likely to be a matter for ongoing negotiations between the US
+   and China. The US is attempting to block China’s access to
+   sophisticated semiconductors, which could prove to be vital for
+   military and artificial intelligence purposes.
+
+   However, this has led to increased speculation that China could choose
+   to retaliate with its own economic sanctions against the US. This could
+   be particularly worrying, given how dependent the US currently is on
+   Chinese imports.
+
+   Back in October, when the US had announced extended export
+   restrictions, Nvidia had reassured investors that they would not impact
+   short-term earnings, but could affect longer-term prospects. This is
+   the scenario being seen now.
+
+   In order to somewhat circumvent these new sanctions, the company has
+   been in the process of creating new government-compliant data centre
+   products. However, it is unlikely that they will be ready in time to
+   make a significant impact on the fiscal fourth quarter results.
+
+The AI race and ChatGPT
+
+   Nvidia has recently also seen far more demand due to the development of
+   ChatGPT, which has sparked a race for other AI developers to create
+   their own chatbots. As a result, more chips and GPUs have been in
+   demand, which is likely to continue for the foreseeable future, as long
+   as consumers keep developing more Gen AI products.
+
+   However, the company could still face issues with lower revenues and
+   roundabout export channels, in case US export restrictions increase.
+   Having to develop new compliant products to export could also take a
+   hit on both its finances and competitiveness for the short-term at
+   least, due to the time and capital involved.
+   Share this articleComments
+
+You might also like
+
+   Co-founder, president and CEO of Nvidia Corporation Jensen Huang, left,
+   and Foxconn chairman Young Liu, right. Now playing Next
+   Tech News
+
+Foxconn and Nvidia team up to build 'AI factories', CEOs say
+
+   A Nvidia logo is seen on one of their products on display at their
+   headquarters in Taipei, Taiwan May 31, 2023. Now playing Next
+   Tech News
+
+Nvidia's dominance in AI chips detering investment in rival start-ups
+
+   Nvidia Co-founder, President, and CEO Jensen Huang speaks at the Taiwan
+   Semiconductor Manufacturing Company facility under construction in
+   Phoenix, Tuesday, Dec. 6, 2022. Now playing Next
+   Tech News
+
+World is at a ‘tipping point’ thanks to AI, says Nvidia boss
+
+   USA AI China Nvidia Semiconductor Electronic chip
+
+   ADVERTISEMENT
+
+Most read
+
+Which European countries have the highest and lowest salaries?
+
+Precarious finances: 38% of Europeans no longer eat three meals a day
+
+How much are Europeans left with at the end of the month?
+
+Turkey faces scrutiny as exports to Russia surge
+
+Good news for the global economy in 2024? Here's the OECD's forecast
+
+   ADVERTISEMENT
+
+Top stories
+
+   Euro sign is photographed in front of the European Central Bank in
+   Frankfurt, Germany Now playing Next
+
+Euro area inflation slowdown brings ECB's 2% target back into focus
+
+   Ukrainian army tanks exercise as soldiers check the readiness of
+   equipment for combat deployment, at a military base in Zaporizhzhia
+   region, Ukraine, in April. Now playing Next
+
+Making money on defence stocks: Is it ethical to cash in on the boom?
+
+   Rain clouds gather over the Reichstag building which houses Germany's
+   lower house of parliament (Bundestag) in Berlin on September 28, 2022.
+   Now playing Next
+
+German unemployment at highest rate in more than two years
+
+   A Danish 1000 kroner (crown) banknote - now out of circulation -
+   featuring a red squirrel Now playing Next
+
+Denmark withdraws 1,000-crown note from circulation
+
+   Shoppers in Austria (file photo) Now playing Next
+
+How much disposable income do households across Europe save?
+
+   ____________________ (search) Search
+
+     * News
+     * Economy
+     * Markets
+     * Series
+
+   Terms and ConditionsCookie PolicyModify my cookies choices
+   -
+   (BUTTON) English
+   EnglishFrançaisDeutschItalianoEspañolPortuguêsРусскийTürkçeΕλληνικάMagy
+   arفارسیالعربيةShqipRomânăქართულიбългарскиSrpski
+     *
+     *
+     *
+     *
+
+   Visit Euronews
+
+     * News
+     * Economy
+     * Markets
+     * Series [ ] Series
+          + My Wildest Prediction
+          + The Big Question
+          + Business Planet
+          + Focus
+          + The Dialogue
+          + The Exchange
+
+     *
+     *
+     *
+     *
+
+   [English______________]
+   Visit Euronews
+
+   Facebook

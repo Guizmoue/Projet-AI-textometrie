@@ -1,0 +1,289 @@
+   [nojsimg.gif]
+
+   Content
+   Skip to Main ContentAccessibility Help
+   (BUTTON) Menu
+   ____________________When search suggestions are available use up and
+   down arrows to review and enter to select.
+   (BUTTON) Search
+   (BUTTON)
+   Search
+   (BUTTON) Sign In
+
+Quick Links
+
+     * News
+     * Sports
+     * Radio
+     * Music
+     * Listen Live
+     * TV
+     * Watch
+
+   (BUTTON)
+     * news
+     * Top Stories
+     * Local
+     * Climate
+     * World
+     * Canada
+     * Politics
+     * Indigenous
+     * Opinion
+     * The National
+     * Business
+     * Health
+     * Entertainment
+     * Science
+     * CBC News Investigates
+     * Go Public
+     * About CBC News
+     * Being Black in Canada
+     * (BUTTON) More
+
+   Moncton researchers developing artificial intelligence to fight
+   wildfires | CBC News Loaded
+   New Brunswick
+
+Moncton researchers developing artificial intelligence to fight wildfires
+
+   A team of engineers at the Université de Moncton is fine-tuning an
+   algorithm that works with satellite and drone images to detect fires
+   more accurately than humans. The technology also predicts where a blaze
+   will spread, helping firefighters know where to send resources.
+
+Technology uses satellite images to quickly detect fires and predict spread
+
+   Alexandre Silberman · CBC News · Posted: Nov 27, 2023 5:00 AM EST |
+   Last Updated: November 27
+   Moulay Akhloufi holds a drone
+   Moulay Akhloufi, a computer science professor and head of the
+   Perception, Robotics, and Intelligent Machines Laboratory, said
+   artificial intelligence is more accurate than the human eye at
+   detecting fires. (Alexandre Silberman/CBC)
+
+Social Sharing
+
+   Researchers in New Brunswick are developing a new approach to tackling
+   Canada's growing threat of wildfires: teaching artificial intelligence
+   to find them faster.
+
+   A team of engineers at the Université de Moncton is fine-tuning an
+   algorithm that works with satellite and drone images to detect fires
+   more accurately than humans. The technology also predicts where a blaze
+   will spread, helping firefighters know where to send resources.
+
+   Moulay Akhloufi, a computer science professor and head of the
+   Perception, Robotics and Intelligent Machines Laboratory, said it can
+   help spot signs of a fire the human eye would miss.
+
+   "It's very accurate. Some of the algorithms are able to get to more
+   than 99 per cent performance when we want to detect fires," he said.
+
+   After Canada's worst wildfire season on record, forestry and wildfire
+   experts are turning to modelling and satellites as an increasingly
+   important tool. While in early stages of development, some firefighters
+   are already using artificial intelligence to inform decisions on the
+   ground.
+
+   "We are using machine learning, when and where appropriate, to do a
+   better job managing wildfires," said wildfire expert Mike Flannigan,
+   of Thompson Rivers University.
+
+   "It's a very effective tool, though it's not a panacea. It's not going
+   to solve all our problems."
+
+Early detection
+
+   Inside the Moncton lab, researchers are looking at how machine learning
+   can help with both early detection of fires and modelling possible
+   spread.
+
+   The algorithm for spotting fires quickly analyzes data from different
+   sources, including sensors on the ground and images from drones and
+   satellites.
+
+   With those pictures, it rapidly scans pixel by pixel to search for
+   smoke or flames — a level of precision beyond what the human eye could
+   detect. If it spots something of concern, the algorithm then considers
+   environmental conditions — like heat and wind — to determine if it's
+   actually a fire.
+   Moulay Akhloufi looks over computer modeling that predicts the spread
+   of a wildfire based on environmental conditions.
+   Moulay Akhloufi looks over computer modelling that predicts the spread
+   of a wildfire based on environmental conditions. (Alexandre
+   Silberman/CBC)
+
+   Akhloufi said they're working to build algorithms that adapt to
+   different conditions, and with more satellites in the sky, the
+   technology will be easier to use in Canada.
+
+   "We use the data to train the algorithms, so they are able to detect
+   these small pixels that show that there is some smoke or some fire
+   starting," he said.
+
+   The team of engineers is also looking at how drones could be used to
+   battle fires from the sky.
+     * How satellites are being used in the battle against wildfires
+
+     * How experts use modelling and satellites to predict and tackle
+       wildfires
+
+   Marc-André Blais, a student researcher, said he's working to fine-tune
+   an algorithm to pull off a "swarm attack" on a blaze.
+
+   "So controlling thousands of drones at once is a complicated task for a
+   human. For artificial intelligence, it's a lot more simple. So we train
+   models and algorithms to solve that task," he said.
+   Marc-André Blais
+   Marc-André Blais is a student researcher looking at how drones could be
+   used to combat wildfires. (Alexandre Silberman/CBC)
+
+   Akhloufi said his team's fire-spread models will need more satellite
+   data to be used in Canada. He said there's currently not enough
+   information to make the models accurate enough to be used.
+
+   "We just have to adapt to the geography where we want to work," he
+   said.
+
+First wildfire satellite
+
+   The wildfire models and simulations often rely on data from hundreds of
+   Earth-observation satellites.
+
+   A new tool for getting a view on the skies is in development. In 2029,
+   the Canadian Space Agency plans to launch WildFireSat, the world's
+   first purpose-built satellite for monitoring wildfires.
+
+   "Whether using drones or UAVs [unmanned aerial vehicles], or small
+   satellites or ground-based cameras, they basically allow you to have a
+   more hands-off approach when it comes to fire monitoring," said Morgan
+   Crowley, a forest fire research scientist with Natural Resources
+   Canada who is part of the team working on the mission.
+
+   "That's extremely ideal when you have so many fires all happening at
+   the same time across the country."
+   WATCH |See artificial intelligence quickly detect fires:
+
+How AI could revolutionize the way Canada fights wildfires
+
+   3 days ago
+   Duration 2:49
+   Featured VideoA team of New Brunswick researchers believes artificial
+   intelligence could help firefighters better contain blazes.
+
+   The new satellite is designed to pass over during peak burn period,
+   which is the later afternoon. Canada currently has little aerial
+   observation data at that time. The images and data will be in the hands
+   of decision-makers within half an hour.
+
+   Crowley said having more precise information will allow fire management
+   teams to prepare for the next day and "triage" different fires.
+
+   "You can't respond to every fire, nor should you, so being able to
+   decide which ones are the most pressing, dangerous ones allows them to
+   use their resources optimally," she said.
+     * As wildfires worsen, Canada's space agency wants to become
+       firefighters' eye in the sky
+
+   Climate experts say catastrophic fires are a trend that will likely
+   continue into the future, creating a growing need for new tools for
+   firefighters.
+
+   "We can expect more fire in the future as we continue to warm, longer
+   fire seasons, more lightning, warmer temperatures," Flannigan said.
+
+   "Research we did 20 years ago suggested that eastern Canada would see
+   more fires mid-century. After 2023, I'm starting to rethink that. Maybe
+   it's coming a lot quicker than we expect."
+
+ABOUT THE AUTHOR
+
+   Alexandre Silberman
+
+   Video journalist
+
+   Alexandre Silberman is a video journalist with CBC News based in
+   Moncton. He has previously worked at CBC Fredericton, Power & Politics,
+   and Marketplace. You can reach him by email at:
+   alexandre.silberman@cbc.ca
+     * Follow Alexandre on Twitter
+
+   CBC's Journalistic Standards and Practices|About CBC News
+   Corrections and clarifications|Submit a news tip| (BUTTON) Report error
+
+Footer Links
+
+My Account
+
+     * Profile
+     * CBC Gem
+     * Newsletters
+     * About CBC Accounts
+
+Connect with CBC
+
+     * Facebook
+     * Twitter
+     * YouTube
+     * Instagram
+     * Mobile
+     * RSS
+     * Podcasts
+
+Contact CBC
+
+     * Submit Feedback
+     * Help Centre
+
+   Audience Relations, CBC
+   P.O. Box 500 Station A
+   Toronto, ON
+   Canada, M5W 1E6
+
+   Toll-free (Canada only):
+   1-866-306-4636
+
+About CBC
+
+     * Corporate Info
+     * Sitemap
+     * Reuse & Permission
+     * Terms of Use
+     * Privacy
+     * Jobs
+     * Our Unions
+     * Independent Producers
+     * Political Ads Registry
+     * AdChoices
+
+Services
+
+     * Ombudsman
+     * Corrections and Clarifications
+     * Public Appearances
+     * Commercial Services
+     * CBC Shop
+     * Doing Business with Us
+     * Renting Facilities
+     * Radio Canada International
+     * CBC Lite
+
+Accessibility
+
+   It is a priority for CBC to create products that are accessible to all
+   in Canada including people with visual, hearing, motor and cognitive
+   challenges.
+
+   Closed Captioning and Described Video is available for many CBC shows
+   offered on CBC Gem.
+     * About CBC Accessibility
+     * Accessibility Feedback
+
+     *
+     * ©2023 CBC/Radio-Canada. All rights reserved.
+     * Visitez Radio-Canada.ca
+
+   (BUTTON)
+
+   now

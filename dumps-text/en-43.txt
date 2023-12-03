@@ -1,0 +1,366 @@
+    stub #alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate Unite.AI »
+   Feed Unite.AI » Comments Feed Unite.AI » Physical Constraints Drive
+   Evolution of Brain-Like AI Comments Feed alternate alternate alternate
+
+   Unite.AI
+
+     * AI Tools
+          + Business
+          + Chatbots
+          + Code Generators
+          + Education
+          + Crypto Trading
+          + Headshot Generators
+          + Image Enhancers
+          + Image Generators
+          + Marketing Tools
+          + Music Generators
+          + SEO
+          + Stock Trading
+          + Text to Speech
+          + Transcription
+          + Translation
+          + Video Enhancers
+          + Video Generators
+          + Voice Generators
+          + Writing Tools
+     * Events
+          + AI Conferences
+          + Cybersecurity Conferences
+          + Robotics Conferences
+          + SEO Conferences
+     * News
+          + Artificial Intelligence
+          + Artificial General Intelligence
+          + Brain Machine Interface
+          + Cybersecurity
+          + Ethics
+          + Healthcare
+          + Investments
+          + Quantum Computing
+          + Regulation
+          + Robotics
+          + Surveillance
+          + Thought Leaders
+     * Certifications
+          + Blockchain
+          + Cloud
+          + Cybersecurity
+          + Data Science
+          + Interviews
+          + Machine Learning
+          + Natural Language Processing
+          + Python
+          + Robotic Process Automation
+          + TensorFlow
+          + Courses
+     * Python Libraries
+          + Data Science
+          + Deep Learning
+          + Image Processing
+          + Machine Learning
+          + Natural Language Processing
+     * Newsletters
+     * Contact Us
+
+   Connect with us
+     *
+     *
+     *
+     *
+
+   ____________________
+
+   Unite.AI
+
+Unite.AI
+
+Physical Constraints Drive Evolution of Brain-Like AI
+
+   (BUTTON)
+     * AI Tools
+          +
+               o
+                    # Popular
+                         @ Code Generators
+                         @ Image Enhancers
+                         @ Image Generators
+                         @ Music Generators
+                         @ Video Enhancers
+                         @ Video Generators
+                         @ Voice Generators
+                         @ Writing
+               o
+                    # Consumer
+                         @ Education
+                         @ Text to Speech
+                         @ Trading Crypto
+                         @ Trading Stocks
+                         @ Transcription
+                         @ Translation
+               o
+                    # Business
+                         @ Assistants
+                         @ Business
+                         @ Chatbots
+                         @ Chrome Extensions
+                         @ Data Analysts
+                         @ Data Cleaning
+                         @ Email Generators
+                         @ ETL
+                         @ Headshot Generators
+                         @ Marketing
+                         @ Recruiting
+                         @ SEO
+                         @ Social Media
+          +
+               o
+     * Certifications
+          + Blockchain Certifications
+          + Chatbots
+          + Cloud
+          + Cybersecurity
+          + Data Science
+          + Machine Learning
+          + Natural Language Processing
+          + Python
+          + Robotic Process Automation
+          + TensorFlow
+     * Events
+          + AI Conferences
+          + Cybersecurity Conferences
+          + Robotics Conferences
+          + SEO Conferences
+     * News
+          + All
+          + Artificial Intelligence
+          + Artificial General Intelligence
+          + Augmented Reality
+          + Brain Machine Interface
+          + Cybersecurity
+          + Ethics
+          + Futurist Series
+          + Healthcare
+          + Investments
+          + Quantum Computing
+          + Regulation
+          + Robotics
+          + Surveillance
+     * Interviews
+     * Thought Leaders
+
+Artificial Intelligence
+
+Physical Constraints Drive Evolution of Brain-Like AI
+
+   Updated on November 26, 2023
+
+   By
+   Alex McFarland
+
+Table Of Contents
+
+   In a groundbreaking study, Cambridge scientists have taken a novel
+   approach to artificial intelligence, demonstrating how physical
+   constraints can profoundly influence the development of an AI system.
+
+   This research, reminiscent of the developmental and operational
+   constraints of the human brain, offers new insights into the evolution
+   of complex neural systems. By integrating these constraints, the AI not
+   only mirrors aspects of human intelligence but also unravels the
+   intricate balance between resource expenditure and information
+   processing efficiency.
+
+The Concept of Physical Constraints in AI
+
+   The human brain, an epitome of natural neural networks, evolves and
+   operates within a myriad of physical and biological constraints. These
+   limitations are not hindrances but are instrumental in shaping its
+   structure and function. In the words of Jascha Achterberg, a Gates
+   Scholar from the Medical Research Council Cognition and Brain Sciences
+   Unit (MRC CBSU) at the University of Cambridge, “Not only is the brain
+   great at solving complex problems, it does so while using very little
+   energy. In our new work, we show that considering the brain's
+   problem-solving abilities alongside its goal of spending as few
+   resources as possible can help us understand why brains look like they
+   do.”
+
+The Experiment and Its Significance
+
+   The Cambridge team embarked on an ambitious project to create an
+   artificial system that models a highly simplified version of the brain.
+   This system was distinct in its application of ‘physical' constraints,
+   much like those in the human brain.
+
+   Each computational node within the system was assigned a specific
+   location in a virtual space, emulating the spatial organization of
+   neurons. The greater the distance between two nodes, the more
+   challenging their communication, mirroring the neuronal organization in
+   human brains.
+
+   This virtual brain was then tasked with navigating a maze, a simplified
+   version of the maze navigation tasks often given to animals in brain
+   studies. The importance of this task lies in its requirement for the
+   system to integrate multiple pieces of information—such as the start
+   and end locations, and the intermediate steps—to find the shortest
+   route. This task not only tests the system's problem-solving abilities
+   but also allows for the observation of how different nodes and clusters
+   become critical at various stages of the task.
+
+Learning and Adaptation in the AI System
+
+   The journey of the artificial system from novice to expert in maze
+   navigation is a testament to the adaptability of AI. Initially, the
+   system, akin to a human learning a new skill, struggled with the task,
+   making numerous errors. However, through a process of trial and error
+   and subsequent feedback, the system gradually refined its approach.
+
+   Crucially, this learning occurred through alterations in the strength
+   of connections between its computational nodes, mirroring the synaptic
+   plasticity observed in human brains. What's particularly fascinating is
+   how the physical constraints influenced this learning process. The
+   difficulty in establishing connections between distant nodes meant the
+   system had to find more efficient, localized solutions, thus imitating
+   the energy and resource efficiency seen in biological brains.
+
+Emerging Characteristics in the Artificial System
+
+   As the system evolved, it began to exhibit characteristics startlingly
+   similar to those of the human brain. One such development was the
+   formation of hubs – highly connected nodes acting as information
+   conduits across the network, akin to neural hubs in the human brain.
+
+   More intriguing, however, was the shift in how individual nodes
+   processed information. Instead of a rigid coding where each node was
+   responsible for a specific aspect of the maze, the nodes adopted a
+   flexible coding scheme. This meant that a single node could represent
+   multiple aspects of the maze at different times, a feature reminiscent
+   of the adaptive nature of neurons in complex organisms.
+
+   Professor Duncan Astle from Cambridge’s Department of Psychiatry
+   highlighted this aspect, stating, “This simple constraint – it's harder
+   to wire nodes that are far apart – forces artificial systems to produce
+   some quite complicated characteristics. Interestingly, they are
+   characteristics shared by biological systems like the human brain.”
+
+Broader Implications
+
+   The implications of this research extend far beyond the realms of
+   artificial intelligence and into the understanding of human cognition
+   itself. By replicating the constraints of the human brain in an AI
+   system, researchers can gain invaluable insights into how these
+   constraints shape brain organization and contribute to individual
+   cognitive differences.
+
+   This approach provides a unique window into the complexities of the
+   brain, particularly in understanding conditions that affect cognitive
+   and mental health. Professor John Duncan from the MRC CBSU adds, “These
+   artificial brains give us a way to understand the rich and bewildering
+   data we see when the activity of real neurons is recorded in real
+   brains.”
+
+Future of AI Design
+
+   This groundbreaking research has significant implications for the
+   future design of AI systems. The study vividly illustrates how
+   incorporating biological principles, particularly those related to
+   physical constraints, can lead to more efficient and adaptive
+   artificial neural networks.
+
+   Dr. Danyal Akarca from the MRC CBSU underscores this, stating, “AI
+   researchers are constantly trying to work out how to make complex,
+   neural systems that can encode and perform in a flexible way that is
+   efficient. To achieve this, we think that neurobiology will give us a
+   lot of inspiration.”
+
+   Jascha Achterberg further elaborates on the potential of these findings
+   for building AI systems that closely mimic human problem-solving
+   abilities. He suggests that AI systems tackling challenges similar to
+   those faced by humans will likely evolve structures resembling the
+   human brain, particularly when operating within physical constraints
+   like energy limitations. “Brains of robots that are deployed in the
+   real physical world,” Achterberg explains, “are probably going to look
+   more like our brains because they might face the same challenges as
+   us.”
+
+   The research conducted by the Cambridge team marks a significant step
+   in understanding the parallels between human neural systems and
+   artificial intelligence. By imposing physical constraints on an AI
+   system, they have not only replicated key characteristics of the human
+   brain but also opened new avenues for designing more efficient and
+   adaptable AI.
+
+   Related Topics:artificial intelligence
+   Up Next
+
+   DIRFA Transforms Audio Clips into Lifelike Digital Faces
+   Don't Miss
+
+   Zephyr-7B : HuggingFace’s Hyper-Optimized LLM Built on Top of Mistral
+   7B
+   Alex McFarland
+
+   Alex McFarland is a Brazil-based writer who covers the latest
+   developments in artificial intelligence. He has worked with top AI
+   companies and publications across the globe.
+   [logoUNITE230X30BLACK-1.svg]
+
+You may like
+
+     * DIRFA Transforms Audio Clips into Lifelike Digital Faces
+     * Is Traditional Machine Learning Still Relevant? Is Traditional
+       Machine Learning Still Relevant?
+       Is Traditional Machine Learning Still Relevant?
+     * Breaking Down the “State of AI Report 2023”
+     * Image Generated Using Stable Diffusion-Robots Image Generated Using
+       Stable Diffusion-Robots
+       Midjourney vs Stable Diffusion: The Battle of AI Image Generators
+     * From Internet of Things to Internet of Everything: The Convergence
+       of AI & 6G for Connected Intelligence From Internet of Things to
+       Internet of Everything: The Convergence of AI & 6G for Connected
+       Intelligence
+       From Internet of Things to Internet of Everything: The Convergence
+       of AI & 6G for Connected Intelligence
+     * OpenAI Contemplates Joining the AI Chipmaking League
+
+   ____________________
+
+Recent Posts
+
+     * DIRFA Transforms Audio Clips into Lifelike Digital Faces
+     * Physical Constraints Drive Evolution of Brain-Like AI
+     * 20 Best ChatGPT Prompts for Entrepreneurs
+     * Zephyr-7B : HuggingFace’s Hyper-Optimized LLM Built on Top of
+       Mistral 7B
+     * 7 Ways Call Centers Use AI to Unlock Time for Their Agents and
+       Customers
+
+     * About Us
+     * About Images.ai
+     * Meet the Team
+     * Our Charter
+     * Press Tools
+     * Contact Us
+
+   Advertiser Disclosure: Unite.AI is committed to rigorous editorial
+   standards to provide our readers with accurate information and news. We
+   may receive compensation when you click on links to products we
+   reviewed.
+     *
+     *
+     *
+     *
+
+   Copyright © 2023 Unite.AI
+     * Editorial Policy
+     * Privacy Policy
+     * Terms and Conditions
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-W7MXCVW

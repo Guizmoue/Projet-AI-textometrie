@@ -1,0 +1,448 @@
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-MRVXSHQ
+
+   Skip to main content
+
+   SpringerLink
+   Log in
+
+   Menu
+   Find a journal Publish with us
+   Search
+   Cart
+
+    1. Home
+
+     AI & SOCIETY
+
+     Article
+
+                Social choice ethics in artificial intelligence
+
+     * Original Article
+     * Published: 30 September 2017
+     * volume 35, pages 165–176 (2020)
+
+   AI & SOCIETY Aims and scope Submit manuscript
+
+     * Seth D. Baum^1
+
+     * 7635 Accesses
+     * 48 Citations
+     * 6 Altmetric
+     * Explore all metrics
+
+   Cite this article
+
+Abstract
+
+   A major approach to the ethics of artificial intelligence (AI) is to
+   use social choice, in which the AI is designed to act according to the
+   aggregate views of society. This is found in the AI ethics of “coherent
+   extrapolated volition” and “bottom–up ethics”. This paper shows that
+   the normative basis of AI social choice ethics is weak due to the fact
+   that there is no one single aggregate ethical view of society. Instead,
+   the design of social choice AI faces three sets of decisions: standing,
+   concerning whose ethics views are included; measurement, concerning how
+   their views are identified; and aggregation, concerning how individual
+   views are combined to a single view that will guide AI behavior. These
+   decisions must be made up front in the initial AI design—designers
+   cannot “let the AI figure it out”. Each set of decisions poses
+   difficult ethical dilemmas with major consequences for AI behavior,
+   with some decision options yielding pathological or even catastrophic
+   results. Furthermore, non-social choice ethics face similar issues,
+   such as whether to count future generations or the AI itself. These
+   issues can be more important than the question of whether or not to use
+   social choice ethics. Attention should focus on these issues, not on
+   social choice.
+
+   This is a preview of subscription content, log in via an institution to
+   check access.
+
+Access this article
+
+   Log in via an institution
+   (BUTTON) Buy article PDF 39,95 €
+
+   Price includes VAT (France)
+
+   Instant access to the full article PDF.
+
+   Rent this article via DeepDyve
+
+   Institutional subscriptions
+
+Notes
+
+    1. Note that while consciousness may play a role in ethics learning
+       among human children, it is not essential for AI. The essential
+       feature is that ethics is learned via interaction with the
+       environment, regardless of whether that interaction involves
+       consciousness.
+    2. One exception, in which social choice is (briefly) discussed in the
+       context of CEV, is Tarleton (2010). Keyword searches in Google
+       Scholar identified no other discussions of social choice in CEV or
+       bottom-up ethics. There is a more extensive study of “computational
+       social choice” relating aspects of social choice theory and
+       computer science (Brandt et al. 2015).
+    3. This is similar to the “boundary problem” in democracy (Arrhenius
+       2005).
+    4. Martin (2017) also considers having AIs set their own ethics or the
+       ethics of other AIs; more on this below.
+    5. Tay was programmed to learn from (and thus give standing to)
+       Twitter users who interact with it, which quickly devolved into
+       deviance and obscenity as Twitter users taught it to misbehave.
+       Microsoft has since been wrestling with the question of how to give
+       standing to a more appropriate mix of people.
+    6. There is a certain irony that some proponents of CEV speak in terms
+       of giving standing only to humanity but also favor a transition to
+       posthumanity (e.g., Bostrom 2008).
+    7. For an argument against Benatar’s views, see Baum (2008).
+    8. This happened in 2000 and 2016, when Al Gore and Hillary Clinton,
+       respectively, received more votes from individual voters, but
+       George W. Bush and Donald Trump, respectively, received more votes
+       in the electoral college.
+    9. There is no indication that Tay was designed with bottom–up ethics
+       in mind, but the net result is the same in that Tay acquired its
+       principles for behavior via input from the people it interacted
+       with.
+
+References
+
+     * Adams FC (2008) Long-term astrophysical processes. In: Bostrom N,
+       Ćirković MM (eds) Global catastrophic risks. Oxford University
+       Press, Oxford, pp 33–47
+       Google Scholar
+     * Allen C, Varner G, Zinser J (2000) Prolegomena to any future
+       artificial moral agent. J Exp Theor Artif Intell 12:251–261
+       MATH  Google Scholar
+     * Allen C, Smit I, Wallach W (2005) Artificial morality: top-down,
+       bottom-up, and hybrid approaches. Ethics Inf Technol 7(3):149–155
+       Google Scholar
+     * Anomaly J (2015) What’s wrong with factory farming? Public Health
+       Ethics 8(3):246–254
+       Google Scholar
+     * Arrhenius G (2005) The boundary problem in democratic theory. In:
+       Tersman F (ed) Democracy unbound: basic explorations I. Filosofiska
+       Institutionen, Stockholm, pp 14–29
+       Google Scholar
+     * Arrhenius G (2011) The impossibility of a satisfactory population
+       ethics. In: Dzhafarov E, Lacey P (eds) Descriptive and normative
+       approaches to human behavior. World Scientific, Singapore, pp 1–26
+       Google Scholar
+     * Arrhenius G, Rabinowicz W (2015) The value of existence. In: Hirose
+       I, Olson J (eds) The Oxford handbook of value theory. Oxford
+       University Press, Oxford, pp 424–443
+       Google Scholar
+     * Arrow KJ (1951) Social choice and individual values. Wiley, New
+       York
+       MATH  Google Scholar
+     * Balliet D, Wu J, De Dreu CKW (2014) Ingroup favoritism in
+       cooperation: a meta-analysis. Psychol Bull 140(6):1556–1581
+       Google Scholar
+     * Baron RS (2005) So right it’s wrong: groupthink and the ubiquitous
+       nature of polarized group decision making. Adv Exp Soc Psychol
+       37:219–253
+       Google Scholar
+     * Baum SD (2008) Better to exist: a reply to Benatar. J Med Ethics
+       34(12):875–876
+       Google Scholar
+     * Baum SD (2009) Description, prescription and the choice of discount
+       rates. Ecol Econ 69(1):197–205
+       Google Scholar
+     * Benatar D (2006) Better never to have been: the harm of coming into
+       existence. Oxford University Press, Oxford
+       Google Scholar
+     * Bohannon J (2015) Fears of an AI pioneer. Science 349(6245):252
+       MathSciNet  MATH  Google Scholar
+     * Borenstein J, Arkin R (2016) Robotic nudges: the ethics of
+       engineering a more socially just human being. Sci Eng Ethics
+       22(1):31–46
+       Google Scholar
+     * Bostrom N (2008) Why I want to be a posthuman when I grow up. In:
+       Gordijn B, Chadwick R (eds) Medical enhancement and posthumanity.
+       Springer, Berlin, pp 107–136
+       Google Scholar
+     * Bostrom N (2014) Superintelligence: paths, dangers, strategies.
+       Oxford University Press, Oxford
+       Google Scholar
+     * Brandt F, Conitzer V, Endriss U, Lang J, Procaccia AD (2015)
+       Handbook of computational social choice. Cambridge University
+       Press, Cambridge
+       MATH  Google Scholar
+     * Buchanan A (2009) Moral status and human enhancement. Philos Public
+       Aff 37(4):346–381
+       Google Scholar
+     * Clark J (2016) Artificial intelligence has a ‘sea of dudes’
+       problem. Bloomberg, New York
+       Google Scholar
+     * Cockell CS (2007) Originism: ethics and extraterrestrial life. J Br
+       Interplanet Soc 60:147–153
+       Google Scholar
+     * de Condorcet M (1785) Essai sur l’Application de l’Analyse à la
+       Probabilité des Décisions Rendues à la Pluralité des Voix.
+       L’imprimerie Royale, Paris
+       Google Scholar
+     * Fossat P, Bacqué-Cazenave J, De Deurwaerdère P, Delbecque JP,
+       Cattaert D (2014) Anxiety-like behavior in crayfish is controlled
+       by serotonin. Science 344(6189):1293–1297
+       Google Scholar
+     * Foucault M (1961) Folie et Déraison: Histoire de la Folie à l’âge
+       Classique. Plon, Paris
+       Google Scholar
+     * Frederick S, Loewenstein G, O’donoghue T (2002) Time discounting
+       and time preference: a critical review. J Econ Lit 40(2):351–401
+       Google Scholar
+     * Funk C, Kennedy B, Podrebarac Sciupac E (2016) U.S. public wary of
+       biomedical technologies to ‘enhance’ human abilities. Pew Research
+       Center
+     * Gibbs S (2016) Microsoft’s racist chatbot returns with drug-smoking
+       Twitter meltdown. The Guardian
+     * Ginges J, Atran S, Medin D, Shikaki K (2007) Sacred bounds on
+       rational resolution of violent political conflict. Proc Natl Acad
+       Sci 104(18):7357–7360
+       Google Scholar
+     * Goertzel B (2016) Infusing advanced AGIs with human-like value
+       systems: two theses. J Evol Technol 26(1):50–72
+       Google Scholar
+     * Hannon B (1998) How might nature value man? Ecol Econ 25:265–279
+       Google Scholar
+     * Harsanyi JC (1996) Utilities, preferences, and substantive goods.
+       Soc Choice Welf 14(1):129–145
+       MathSciNet  MATH  Google Scholar
+     * Holbrook D (1997) The consequentialistic side of environmental
+       ethics. Environ Values 6:87–96
+       Google Scholar
+     * Hubbard FP (2011) ‘Do androids dream?’: Personhood and intelligent
+       artifacts. Temple Law Rev 83:405–441
+       Google Scholar
+     * Klein A (2016) Robot ranchers monitor animals on giant Australian
+       farms. New Scientist
+     * Lin P (2016) Why ethics matters for autonomous cars. In: Maurer M,
+       Gerdes JC, Lenz B, Winner H (eds) Autonomous driving: technical,
+       legal and social aspects. Springer, Berlin, pp 69–85
+       Google Scholar
+     * Marglin SA (1963) The social rate of discount and the optimal rate
+       of investment. Q J Econ 77(1):95–111
+       Google Scholar
+     * Martin D (2017) Who should decide how machines make morally laden
+       decisions? Sci Eng Ethics 23(4):951–967
+       Google Scholar
+     * Mersky AC, Samaras C (2016) Fuel economy testing of autonomous
+       vehicles. Transp Res Part C Emerg Technol 65:31–48
+       Google Scholar
+     * Metz R (2014) Startup Knightscope is preparing to roll out
+       human-size robot patrols. MIT Technol Rev
+     * Muehlhauser L, Helm L (2012) Intelligence explosion and machine
+       ethics. In: Eden A, Søraker J, Moor JH, Steinhart E (eds)
+       Singularity hypotheses: a scientific and philosophical assessment.
+       Springer, Berlin, pp 101–126
+       Google Scholar
+     * Ng YK (1990) Welfarism and utilitarianism: a rehabilitation.
+       Utilitas 2(2):171–193
+       Google Scholar
+     * Ng YK (1999) Utility, informed preference, or happiness: following
+       Harsanyi’s argument to its logical conclusion. Soc Choice Welf
+       16(2):197–216
+       MATH  Google Scholar
+     * O’Malley-James JT, Cockell CS, Greaves JS, Raven JA (2014) Swansong
+       biospheres II: the final signs of life on terrestrial planets near
+       the end of their habitable lifetimes. Int J Astrobiol 13:229–243
+       Google Scholar
+     * Openshaw S (1983) The modifiable areal unit problem. Geo Books,
+       Norwich
+       Google Scholar
+     * Pew Research Center (2017) Changing attitudes on gay marriage
+     * Picard R (1997) Affective computing. MIT Press, Cambridge
+       Google Scholar
+     * Ritov I, Baron J (1999) Protected values and omission bias. Organ
+       Behav Hum Decis Process 79(2):79–94
+       Google Scholar
+     * Rolston H III (1986) The preservation of natural value in the solar
+       system. In: Hargrove EC (ed) Beyond spaceship Earth: environmental
+       ethics and the solar system. Sierra Club Books, San Francisco, pp
+       140–182
+       Google Scholar
+     * Rose JD, Arlinghaus R, Cooke SJ, Diggles BK, Sawynok W, Stevens ED,
+       Wynne CDL (2014) Can fish really feel pain? Fish Fish 15(1):97–133
+       Google Scholar
+     * Schienke EW, Tuana N, Brown DA, Davis KJ, Keller K, Shortle JS,
+       Stickler M, Baum SD (2009) The role of the NSF Broader Impacts
+       Criterion in enhancing research ethics pedagogy. Soc Epistemol
+       23(3–4):317–336
+       Google Scholar
+     * Schienke EW, Baum SD, Tuana N, Davis KJ, Keller K (2011) Intrinsic
+       ethics regarding integrated assessment models for climate
+       management. Sci Eng Ethics 17(3):503–523
+       Google Scholar
+     * Stone C (1972) Should trees have standing? Toward legal rights for
+       natural objects. South Calif Law Rev 45:450–501
+       Google Scholar
+     * Stone J, Fernandez NC (2008) To practice what we preach: the use of
+       hypocrisy and cognitive dissonance to motivate behavior change. Soc
+       Personal Psychol Compass 2(2):1024–1051
+       Google Scholar
+     * Sunstein CR (2000) Standing for animals. UCLA Law Rev
+       47(5):1333–1368
+       Google Scholar
+     * Tarleton N (2010) Coherent extrapolated volition: a meta-level
+       approach to machine ethics. The Singularity Institute, Berkeley, CA
+       Google Scholar
+     * Thaler R, Sunstein C (2008) Nudge: improving decisions about
+       health, wealth, and happiness. Yale University Press, New Haven
+       Google Scholar
+     * Tonn B (1996) A design for future-oriented government. Futures
+       28(5):413–431
+       Google Scholar
+     * Wallach W, Allen C (2008) Moral machines: teaching robots right
+       from wrong. Oxford University Press, Oxford
+       Google Scholar
+     * Wallach W, Allen C, Smit I (2008) Machine morality: bottom-up and
+       top-down approaches for modelling human moral faculties. AI & Soc
+       22(4):565–582
+       Google Scholar
+     * Yampolskiy RV (2013) Artificial intelligence safety engineering:
+       why machine ethics is a wrong approach. In: Müller VC (ed)
+       Philosophy and theory of artificial intelligence. Springer, Berlin,
+       pp 389–396
+       Google Scholar
+     * Yazawa M (2016) Contested conventions: the struggle to establish
+       the constitution and save the union, 1787–1789. Johns Hopkins
+       University Press, Baltimore
+       Google Scholar
+     * Yudkowsky E (2004) Coherent extrapolated volition. The Singularity
+       Institute, San Francisco
+       Google Scholar
+
+   Download references
+
+Acknowledgements
+
+   Anders Sandberg provided helpful discussion for the development of this
+   paper. Tony Barrett and two anonymous reviewers provided helpful
+   feedback on earlier drafts. Any errors or shortcomings in the paper are
+   the author’s alone. Work on this paper was funded in part by Future of
+   Life Institute Grant Number 2015-143911. The views in this paper are
+   the author’s and are not necessarily the views of the Future of Life
+   Institute or the Global Catastrophic Risk Institute.
+
+Author information
+
+Authors and Affiliations
+
+    1. Global Catastrophic Risk Institute, PO Box 40364, Washington, DC,
+       20016, USA
+       Seth D. Baum
+
+   Authors
+    1. Seth D. Baum
+       View author publications
+       You can also search for this author in PubMed Google Scholar
+
+Corresponding author
+
+   Correspondence to Seth D. Baum.
+
+Rights and permissions
+
+   Reprints and Permissions
+
+About this article
+
+   Check for updates. Verify currency and authenticity via CrossMark
+
+Cite this article
+
+   Baum, S.D. Social choice ethics in artificial intelligence. AI & Soc
+   35, 165–176 (2020). https://doi.org/10.1007/s00146-017-0760-1
+
+   Download citation
+     * Received: 17 July 2016
+     * Accepted: 16 September 2017
+     * Published: 30 September 2017
+     * Issue Date: March 2020
+     * DOI: https://doi.org/10.1007/s00146-017-0760-1
+
+Share this article
+
+   Anyone you share the following link with will be able to read this
+   content:
+   (BUTTON) Get shareable link
+
+   Sorry, a shareable link is not currently available for this article.
+
+   (BUTTON) Copy to clipboard
+
+   Provided by the Springer Nature SharedIt content-sharing initiative
+
+Keywords
+
+     * Artificial intelligence
+     * Ethics
+     * Social choice
+     * Standing
+     * Measurement
+     * Aggregation
+
+Access this article
+
+   Log in via an institution
+   (BUTTON) Buy article PDF 39,95 €
+
+   Price includes VAT (France)
+
+   Instant access to the full article PDF.
+
+   Rent this article via DeepDyve
+
+   Institutional subscriptions
+
+   Advertisement
+
+search
+
+   Search by keyword or author
+   ____________________ (BUTTON) Search
+
+Navigation
+
+     * Find a journal
+     * Publish with us
+
+Discover content
+
+     * Journals A-Z
+     * Books A-Z
+
+Publish with us
+
+     * Publish your research
+     * Open access publishing
+
+Products and services
+
+     * Our products
+     * Librarians
+     * Societies
+     * Partners and advertisers
+
+Our imprints
+
+     * Springer
+     * Nature Portfolio
+     * BMC
+     * Palgrave Macmillan
+     * Apress
+
+     * (BUTTON) Your privacy choices/Manage cookies
+     * Your US state privacy rights
+     * Accessibility statement
+     * Terms and conditions
+     * Privacy policy
+     * Help and support
+
+   92.184.96.13
+
+   Not affiliated
+   Springer Nature
+
+   © 2023 Springer Nature

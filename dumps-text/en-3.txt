@@ -1,14 +1,14 @@
-   #[1]It's Nice That
+   #It's Nice That
 
-   IFRAME: [2]https://www.googletagmanager.com/ns.html?id=GTM-T3RZQHB
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-T3RZQHB
 
-   [3]Home[4]Inspiring Creativity
+   HomeInspiring Creativity
    ____________________Search for something
    (BUTTON) Submit
    (BUTTON) Menu
-   [5]Your account
-   [6]Extra Search Tool
-   [7]Search
+   Your account
+   Extra Search Tool
+   Search
    (BUTTON) Categories
    Disciplines
      * Advertising
@@ -54,75 +54,75 @@
 
    Content
 
-   [8]Work
+   Work
 
-   [9]News
+   News
 
-   [10]Features
+   Features
    Series
 
-   [11]Nicer Tuesdays
+   Nicer Tuesdays
 
-   [12]Ones to Watch
+   Ones to Watch
 
-   [13]Review of the Year
+   Review of the Year
 
-   [14]Forward Thinking
+   Forward Thinking
 
-   [15]The Next Generation
+   The Next Generation
 
-   [16]In Conversation
+   In Conversation
 
-   [17]It's Nice That Podcast
+   It's Nice That Podcast
    It's Nice That
 
-   [18]About
+   About
 
-   [19]Contact
+   Contact
 
-   [20]Brand Partnerships
+   Brand Partnerships
 
-   [21]Newsletters
+   Newsletters
 
-   [22]Terms & Conditions
+   Terms & Conditions
 
-   [23]Privacy Policy
+   Privacy Policy
 
-   [24]Cookie Policy
+   Cookie Policy
    Editorial Team
 
-   [25]Matt Alagiah
+   Matt Alagiah
 
-   [26]Jenny Brewer
+   Jenny Brewer
 
-   [27]Lucy Bourton
+   Lucy Bourton
 
-   [28]Liz Gorny
+   Liz Gorny
 
-   [29]Olivia Hingley
+   Olivia Hingley
 
-   [30]Yaya Azariah Clarke
+   Yaya Azariah Clarke
    Extra Nice
 
-   [31]About Extra Nice
+   About Extra Nice
 
-   [32]Login to your account
+   Login to your account
 
-   [33]Become a supporter
+   Become a supporter
    Extra nice
 
-   [34]Extra Search
+   Extra Search
 
-   [35]Account
+   Account
    Social
 
    Words
-          [36]Lucy Bourton
+          Lucy Bourton
 
    Identity
-          [37]Suzy Chan
+          Suzy Chan
 
-   --
+   —
 
    Date
           15 November 2023
@@ -149,12 +149,12 @@ Art direction vs artificial intelligence: A helpful tool or an added hassle?
    Share
 
    Words
-          [38]Lucy Bourton
+          Lucy Bourton
 
    Identity
-          [39]Suzy Chan
+          Suzy Chan
 
-   --
+   —
 
    Date
           15 November 2023
@@ -174,25 +174,25 @@ Art direction vs artificial intelligence: A helpful tool or an added hassle?
 
    Share
 
-   In this third article of [40]Shades of Intelligence, a new series
+   In this third article of Shades of Intelligence, a new series
    investigating artificial intelligence and the creative industry, we
    look at how machine learning might reshape the research stage of a
    project.
 
-   Whether you're curious or cautious about machine learning's effect on
-   your practice, learn where it can be implemented - and the positives
-   and negatives - via creative case studies and use cases by those in the
+   Whether you’re curious or cautious about machine learning’s effect on
+   your practice, learn where it can be implemented – and the positives
+   and negatives – via creative case studies and use cases by those in the
    know. This article investigates the visual research stage of a project,
    from moodboarding to art direction. For further investigations into AI
    and the creative process, head here.
 
-   As things stand presently with artificial intelligence, it's fair to
+   As things stand presently with artificial intelligence, it’s fair to
    say that most creatives have taken a few cautious initial steps into
    using machine learning. As our survey results suggest, 83% of creatives
    have already used AI tools, but wariness increases when the possibility
    of using these tools to actually create imagery comes to the fore.
    Questions of originality, bias and visual quality arise when
-   text-to-image tools are brought into the equation. It raises the issue
+   text–to-image tools are brought into the equation. It raises the issue
    of whether it is ethically just to use text-to-image programmes, and if
    in fact the images such tools conjure up are even any good.
 
@@ -202,47 +202,46 @@ Art direction vs artificial intelligence: A helpful tool or an added hassle?
    illustration and graphic design.
 
    IFRAME:
-   [41]https://player.vimeo.com/video/884404482?autoplay=1&loop=1&backgrou
-   nd=1
+   https://player.vimeo.com/video/884404482?autoplay=1&loop=1&background=1
 
 Step One: Moodboarding
 
    One creative whose practice incorporates text-to-image tools is
    Berlin-based experimental animator Dom Harwood, who releases work under
-   the alias [42]Infinite Vibes. Originally a sound designer, the artist
-   was initially attracted to AI as it offered a playground "ripe for
-   experimentation," as he describes it. A little over two years ago, a
+   the alias Infinite Vibes. Originally a sound designer, the artist was
+   initially attracted to AI as it offered a playground “ripe for
+   experimentation,” as he describes it. A little over two years ago, a
    friend recommended a very early iteration of a Google Colab AI notebook
-   - where users can write code in a browser format - and Dom, being "a
-   bit obsessive by nature," was hooked. Since that fateful day in June
-   2021, he can count on one hand the days he hasn't opened an AI tool or
-   programme. He's also busier than ever. "I've been freelance for almost
-   15 years but it's gone crazy," he tells It's Nice That. "I've got way
-   more offers than I can do, and it's the first time in my life that has
-   happened."
+   – where users can write code in a browser format – and Dom, being “a
+   bit obsessive by nature,” was hooked. Since that fateful day in June
+   2021, he can count on one hand the days he hasn’t opened an AI tool or
+   programme. He’s also busier than ever. “I’ve been freelance for almost
+   15 years but it’s gone crazy,” he tells It’s Nice That. “I’ve got way
+   more offers than I can do, and it’s the first time in my life that has
+   happened.”
 
    There are a few factors behind this. Firstly, there is an
    ever-increasing demand for moving image as a creative skill. Dom can
    also slot into any creative team working in this discipline and is
    often brought onto projects by directors to sit amongst the usual roles
    of colourists and cinematographers. Given his deep understanding of
-   AI's capabilities, he can also create work fully on his own, and in a
-   style he has taken the time to develop - an approach that is mindful in
+   AI’s capabilities, he can also create work fully on his own, and in a
+   style he has taken the time to develop – an approach that is mindful in
    respect to other artists when it comes to moodboarding, but remains
-   open-minded to AI-generated possibilities. "Art has been my life, for
+   open-minded to AI-generated possibilities. “Art has been my life, for
    my entire life. I have a lot of sympathy and compassion for traditional
    artists who are worried. A lot of people who are into this stuff come
-   from a coding background and don't empathise with artists," Dom says.
-   "It's really immoral to steal style and this technology makes it so
-   easy. I'm not creating typical stuff and I'm clearly not ripping off
+   from a coding background and don’t empathise with artists,” Dom says.
+   “It’s really immoral to steal style and this technology makes it so
+   easy. I’m not creating typical stuff and I’m clearly not ripping off
    modern artists. I am very careful about that and put a lot into work
-   that's not AI." In short, the work of Infinite Vibes is, he says,
-   "augmented by AI, rather than being dreamt up by it."
+   that’s not AI.” In short, the work of Infinite Vibes is, he says,
+   “augmented by AI, rather than being dreamt up by it.”
 
-   A recent example is Infinite Vibes' music video for Jessy Lanza, I Hate
+   A recent example is Infinite Vibes’ music video for Jessy Lanza, I Hate
    Myself, created entirely by Dom and 15 separate AI tools. A dreamscape
    of images of Jessy presented as a variety of artworks, I Hate Myself
-   began with Dom's usual starting point of stepping away from the digital
+   began with Dom’s usual starting point of stepping away from the digital
    world and heading to the park or a cafe with a notebook to develop
    ideas.
 
@@ -252,174 +251,172 @@ Step One: Moodboarding
    a custom model, Dom was sent press photos of the artist to use in
    DreamBooth within Stable Diffusion. Here, the model can generate
    contextualised iterations of the image it is supplied with, allowing
-   Dom to use "a few different methods of teaching Stable Diffusion the
-   concept of Jessy Lanza," as any creative would when building out the
+   Dom to use “a few different methods of teaching Stable Diffusion the
+   concept of Jessy Lanza,” as any creative would when building out the
    moodboard of a concept. From here, Dom moved into Stable Diffusion XL
    to create images in high resolution, before switching to Photoshop to
    extend these to the 16:9 ratio needed for a music video, using
-   Photoshop's Generative Fill tool. To give the AI Jessy Lanza the
+   Photoshop’s Generative Fill tool. To give the AI Jessy Lanza the
    ability to sing, Jessy sent Dom an acapella version of the song to be
    used in another AI tool called SadTalker, which Dom used to make
-   Jessy's mouth and face move in sync with the song.
+   Jessy’s mouth and face move in sync with the song.
 
    The animation phase then called for a whole host of extra tools. Stable
    Diffusion is back open again here, but specifically Stable Diffusion
    Warp Fusion, which specialises in taking in video files so Dom can
    augment his animations with AI generation. Stable Diffusion can also be
-   run locally on your own computer and, as it's open source, "there's a
-   huge community of people building tools for it," unlike similar tools
+   run locally on your own computer and, as it’s open source, “there’s a
+   huge community of people building tools for it,” unlike similar tools
    Midjourney and Dall-E, Dom says. In Warp Fusion, Stable Diffusion is
    applied on top of the footage supplied, but uses a process called
-   "optical flow" to keep the finished product coherent. "The issue with
-   AI animation is if you're feeding frames through, it will see every
+   “optical flow” to keep the finished product coherent. “The issue with
+   AI animation is if you’re feeding frames through, it will see every
    frame as a new image, applying a new diffusion over the top. You then
-   get these crazy, stuttering, flickering videos," Dom explains. "Warp
-   Fusion predicts where the movement is and keeps that the same." Animate
-   Diff can also be used to do this, "which completely removes the
-   flicker, but you have less control over the prompting."
+   get these crazy, stuttering, flickering videos,” Dom explains. “Warp
+   Fusion predicts where the movement is and keeps that the same.” Animate
+   Diff can also be used to do this, “which completely removes the
+   flicker, but you have less control over the prompting.”
 
    This plethora of tools is then also combined with interfaces that the
    animator uses, such as Google Colabs and Automatic 1111, but also
    node-based interfaces like Comfy UI, where he can create his own
    workflows from nodes. If this all sounds a bit complex, Dom clarifies
-   that "if you've ever used Touch Designer, Houdini or Blender, that's a
-   node-based workflow."
+   that “if you’ve ever used Touch Designer, Houdini or Blender, that’s a
+   node-based workflow.”
 
    As and when to pick up and put down these tools then follows a natural
-   process. Like any other medium, using any other tool, "It's just about
+   process. Like any other medium, using any other tool, “It’s just about
    iterating towards a feeling, and then iterating further until it feels
-   right," Dom says. In the output of Infinite Vibes, Dom uses these
+   right,” Dom says. In the output of Infinite Vibes, Dom uses these
    programmes like others pick up different paintbrushes and his own ideas
    and references still lead the work. As you can see in his lengthy
-   process, AI doesn'tautomate his creativity, a process which still needs
-   clarification from those who commission him: "Clients still don't know
-   the limitations... It's amazing, but it's not a magic button." But,
-   it's also a process he treasures. "I instantly lose interest if I feel
-   like I'm filling in the blocks a computer came up with," he says,
-   referring to his aversion to using AI for idea generation. "Yes, it's
-   useful for corporate work when you need something that's good enough
-   but - as someone who doesn't come to artistic work with that
-   perspective - I have no interest in manually colouring in the book an
-   AI has come up with. Why bother doing it at all?"
+   process, AI doesn’tautomate his creativity, a process which still needs
+   clarification from those who commission him: “Clients still don’t know
+   the limitations... It’s amazing, but it’s not a magic button.” But,
+   it’s also a process he treasures. “I instantly lose interest if I feel
+   like I’m filling in the blocks a computer came up with,” he says,
+   referring to his aversion to using AI for idea generation. “Yes, it’s
+   useful for corporate work when you need something that’s good enough
+   but – as someone who doesn’t come to artistic work with that
+   perspective – I have no interest in manually colouring in the book an
+   AI has come up with. Why bother doing it at all?”
 
    IFRAME:
-   [43]https://player.vimeo.com/video/884404522?autoplay=1&loop=1&backgrou
-   nd=1
+   https://player.vimeo.com/video/884404522?autoplay=1&loop=1&background=1
 
 Step Two: Commissioning
 
-   [44]Seba Cestaro is another artist - this time in the field of
-   traditional illustration - who references their own catalogue of work
-   to expand with AI. Based in Buenos Aires, Seba, on the surface, is a
-   traditional 2D illustrator with an enviable list of sought-after
-   clients, from The New Yorker to Netflix. The strength in his portfolio,
-   particularly in the context of editorial commissions, is Seba's ability
-   to construct entire alternate worlds with a (digital) pen and paper.
-   Although on first glance viewers will see nods to analogue qualities in
-   texture, linework and colour palette, many of Seba's newer,
-   fascinatingly constructed environments, are thanks to AI.
+   Seba Cestaro is another artist – this time in the field of traditional
+   illustration – who references their own catalogue of work to expand
+   with AI. Based in Buenos Aires, Seba, on the surface, is a traditional
+   2D illustrator with an enviable list of sought-after clients, from The
+   New Yorker to Netflix. The strength in his portfolio, particularly in
+   the context of editorial commissions, is Seba’s ability to construct
+   entire alternate worlds with a (digital) pen and paper. Although on
+   first glance viewers will see nods to analogue qualities in texture,
+   linework and colour palette, many of Seba’s newer, fascinatingly
+   constructed environments, are thanks to AI.
 
-   Although he has what he calls "a natural curiosity for emerging
-   technologies", at first the world of generated artworks felt far
-   removed from the corner of illustration Seba had settled in. "I saw it
-   as something distant, and wasn't sure how it could influence my work,"
+   Although he has what he calls “a natural curiosity for emerging
+   technologies”, at first the world of generated artworks felt far
+   removed from the corner of illustration Seba had settled in. “I saw it
+   as something distant, and wasn’t sure how it could influence my work,”
    he tells us. However, he noticed his peers adopting these technologies,
-   largely by sharing work on social media. "It sparked my curiosity and
+   largely by sharing work on social media. “It sparked my curiosity and
    compelled me to explore and understand what was happening in this
-   field," he says.
+   field,” he says.
 
    Particularly interested in artists who were using generated imagery
-   from text-based prompts, Seba saw the opportunity to embark on "an
-   entirely new experience for me," he says. This sentiment is relatively
+   from text-based prompts, Seba saw the opportunity to embark on “an
+   entirely new experience for me,” he says. This sentiment is relatively
    unique to Seba, according to our survey results, when compared to his
    peers. Respondents from the field of illustration were the least likely
    to have used AI in their practice, and were also the discipline most
-   worried about AI's impact on employment: 71% of illustrators stated
+   worried about AI’s impact on employment: 71% of illustrators stated
    they were concerned about how AI will affect their jobs, in comparison
    to 37% of all other respondents. Such concern is of course justified,
    given the machine learning advances we have seen so far. There is
    concern about text-to-image tools mimicking the style and hand of
    contemporary illustrators, resulting in currently commissioned work
    being brought in-house and increasing worries around copyright
-   infringement in the already grey area of "owning" a style.
+   infringement in the already grey area of “owning” a style.
 
    Unfortunately, opportunities to curb these developments are often out
-   of the hands of illustrators. It's on the shoulders of art directors,
+   of the hands of illustrators. It’s on the shoulders of art directors,
    studios, agencies, brands and so on to create work with the individuals
-   who have inspired its direction, and it's our view that this level of
+   who have inspired its direction, and it’s our view that this level of
    honesty and transparency should be a given in our industry (whether
-   you're using an AI tool or not). However, until potential regulations
-   are in place, one way to gain a better grasp on AI's impact on
+   you’re using an AI tool or not). However, until potential regulations
+   are in place, one way to gain a better grasp on AI’s impact on
    illustration is to experiment, as Seba has.
 
-   Mainly working in Midjourney, Seba's current technique is to blend
+   Mainly working in Midjourney, Seba’s current technique is to blend
    already made illustrations into new ideas, while maintaining his
-   original style. "If the result meets my expectations, I keep one of the
-   images," he says. "If I feel there is more to explore, I request
-   additional options from the AI." Then, he'll take matters back into his
+   original style. “If the result meets my expectations, I keep one of the
+   images,” he says. “If I feel there is more to explore, I request
+   additional options from the AI.” Then, he’ll take matters back into his
    own hands, opening Illustrator and vectorising the result and editing
-   how he pleases. "Sometimes, I use only a portion of the image from
-   Midjourney and illustrate something new around that piece," he expands.
-   "Once I have an image I like, I take it to Photoshop to work on
-   textures, lighting and shadows."
+   how he pleases. “Sometimes, I use only a portion of the image from
+   Midjourney and illustrate something new around that piece,” he expands.
+   “Once I have an image I like, I take it to Photoshop to work on
+   textures, lighting and shadows.”
 
-   Across Seba's current portfolio you'll see original 2D illustrations
+   Across Seba’s current portfolio you’ll see original 2D illustrations
    lifted into 3D renderings, still with a tint of an analogue shade
    thanks to this process. But there are also more photographic
    renderings, with nods to the original via colour palette and objects
-   rendered into real life. "In this case, I use one of my illustrations
+   rendered into real life. “In this case, I use one of my illustrations
    as an input to which I add prompts (text) to help generate a new
-   image," the illustrator explains. "The AI takes that information and
+   image,” the illustrator explains. “The AI takes that information and
    returns a set of four images based on it, which sometimes align with my
-   expectations and sometimes take unexpected turns." At times it can take
-   Seba days to reach an image he likes "and that is the part I enjoy the
-   most of the whole process," he says, "the search for something new and
-   unusual." In short: "AI empowers me to extend the visual narrative of
-   my artworks."
+   expectations and sometimes take unexpected turns.” At times it can take
+   Seba days to reach an image he likes “and that is the part I enjoy the
+   most of the whole process,” he says, “the search for something new and
+   unusual.” In short: “AI empowers me to extend the visual narrative of
+   my artworks.”
 
-   In only using his own work to generate new work, Seba's quick to
-   clarify he can "only speak about the way I use artificial
-   intelligence", when it comes to artists' work being used in wider data
-   sets. Interestingly, Seba's AI experiments are also continuously well
+   In only using his own work to generate new work, Seba’s quick to
+   clarify he can “only speak about the way I use artificial
+   intelligence”, when it comes to artists’ work being used in wider data
+   sets. Interestingly, Seba’s AI experiments are also continuously well
    received amongst his community online. Much of this respect seems to be
    the result of Seba outwardly demonstrating his process, posting the
-   original, the failures and the final AI-collaborated piece together. "I
+   original, the failures and the final AI-collaborated piece together. “I
    believe that showing the visual progression of a work from conception
-   to completion can inspire curiosity and value," he says. "In addition,
-   my approach to AI focuses on free exploration... This constant search
-   for innovation and authenticity is what can help create a connection
-   with those who appreciate my work."
+   to completion can inspire curiosity and value,” he says. “In addition,
+   my approach to AI focuses on free exploration… This constant search for
+   innovation and authenticity is what can help create a connection with
+   those who appreciate my work.”
 
-   This openness to "multiply my artistic possibilities" has encouraged
+   This openness to “multiply my artistic possibilities” has encouraged
    Seba to also see future possibilities for collaboration. Considering
-   much of his work will be in tandem with an art director's brief, the
+   much of his work will be in tandem with an art director’s brief, the
    illustrator states how integrating AI into this back and forth could be
-   viewed "as a positive thing," he says. "I think it opens a door to a
-   closer collaboration between [illustrators and art directors]." For
+   viewed “as a positive thing,” he says. “I think it opens a door to a
+   closer collaboration between [illustrators and art directors].” For
    example, Seba recently collaborated with fellow AI-inquisitive artists
-   to generate prompts separately "and, once we had the images we liked,
-   we merged them to create something new," he says. "I imagine this same
+   to generate prompts separately “and, once we had the images we liked,
+   we merged them to create something new,” he says. “I imagine this same
    approach could be applied with an art director who set out to work with
    AI. We could each bring our perspective to the table and, from there,
    we would begin to generate images that would gradually approach a final
-   result that we both agreed on."
+   result that we both agreed on.”
 
    IFRAME:
-   [45]https://player.vimeo.com/video/884404545?autoplay=1&loop=1&backgrou
-   nd=1
+   https://player.vimeo.com/video/884404545?autoplay=1&loop=1&background=1
 
 Step Three: Art Direction
 
    Outside implementing AI as part of the dialogue between art director
    and commissioned artist, there are of course agencies developing
    projects using these tools in-house. An example from earlier this year
-   is [46]Base Design's campaign for opera house La Monnaie, created by
-   its Brussels team. Briefed with the theme of "fate" for a season
-   centring Wagner's Ring, Base pitched the idea of leaving artwork
-   generation in the hands of AI - a concept loved by the designers
-   creating the work, and the opera house itself.
+   is Base Design’s campaign for opera house La Monnaie, created by its
+   Brussels team. Briefed with the theme of “fate” for a season centring
+   Wagner’s Ring, Base pitched the idea of leaving artwork generation in
+   the hands of AI – a concept loved by the designers creating the work,
+   and the opera house itself.
 
-   Not only offering a conceptual nod to La Monnaie's programming, using
+   Not only offering a conceptual nod to La Monnaie’s programming, using
    AI in such a large campaign seemingly offered Base the opportunity to
    create a boundary-pushing, experiential identity system. Not to mention
    the agency would ignite the talking point of being the first opera
@@ -429,151 +426,145 @@ Step Three: Art Direction
    divisive emerging technology combined with a collection of epic operas
    from the 1800s, delivered as a malleable toolbox of assets Base would
    hand over to non-designers. However, after 15 years of working with
-   Base's design director Aurore Lechien, "La Monnaie trusted us, which
-   encouraged us to go this far in the concept," says Manon Bails, a
+   Base’s design director Aurore Lechien, “La Monnaie trusted us, which
+   encouraged us to go this far in the concept,” says Manon Bails, a
    strategist and copywriter at the agency.
 
    Sitting down with the Base team today, a mixed feeling towards the
    final result is evident. In the first few weeks of the project, each
    team member recalls a distinctive level of excitement towards the use
    of AI, sentimentally likening it to the same feeling they had as
-   students. "It was so fun," says design director Aurore plainly. "We
+   students. “It was so fun,” says design director Aurore plainly. “We
    just had fun for hours. Playing with the tool, getting it to improve,
-   generating an awful picture... and then a nice one. It was really just
-   a great moment."
+   generating an awful picture… and then a nice one. It was really just a
+   great moment.”
 
    What Base was developing at this stage was a series of visual
    imaginings in relation to the opera being created. Developed in tandem
    with the opera house, the Base team would input parts as they received
-   them into Dall-E, which was chosen as it "provided the best results in
-   terms of its weirdness and imperfect generation," adds Arthur Dubois,
-   Base's motion designer. Arthur then used Google Colab to "inject life
-   into still images" through animation, also working with Tokkin Heads,
-   "an AI that generates characters and the facial features to apply a
+   them into Dall-E, which was chosen as it “provided the best results in
+   terms of its weirdness and imperfect generation,” adds Arthur Dubois,
+   Base’s motion designer. Arthur then used Google Colab to “inject life
+   into still images” through animation, also working with Tokkin Heads,
+   “an AI that generates characters and the facial features to apply a
    templated animation, or just record with your webcam to create an
-   animation of the face," he says. Runway was then also used, due to its
+   animation of the face,” he says. Runway was then also used, due to its
    framing interpolation, which generates in-between frames for a
    type-to-image transition. The final AI tool the team employed was
    Upscayl, used to upscale every image generated to principal resolution.
 
    Although these steps appear simple when noted down, the actual process
-   of working with AI in a design context wasn't without its challenges.
+   of working with AI in a design context wasn’t without its challenges.
    Firstly, the imagery generated by Dall-E tested the creative limits of
-   an identity system such as this. "It really allowed for an aesthetic
-   that felt less corporate or commercial," says Bruce Vansteenwinkel, a
-   designer at Base. But at times these images weren't appealing from an
-   aesthetic standpoint. Thankfully, the animation techniques used "really
-   helped us to increase the weirdness of each visual," adds Aurore. "Even
-   more so when we weren't really fond of an image, adding motion could
-   help bring the result we wanted."
+   an identity system such as this. “It really allowed for an aesthetic
+   that felt less corporate or commercial,” says Bruce Vansteenwinkel, a
+   designer at Base. But at times these images weren’t appealing from an
+   aesthetic standpoint. Thankfully, the animation techniques used “really
+   helped us to increase the weirdness of each visual,” adds Aurore. “Even
+   more so when we weren’t really fond of an image, adding motion could
+   help bring the result we wanted.”
 
    The process of then delivering the work also proved harder than
-   originally anticipated. When it came to collaborating with La Monnaie's
-   team "we realised that it was a bit more hassle," explains Bruce. "We
+   originally anticipated. When it came to collaborating with La Monnaie’s
+   team “we realised that it was a bit more hassle,” explains Bruce. “We
    sold it as a toolbox. A way of collaborating where we could create
    images, they could create images, but that creates a lot of
    opportunities for new misunderstandings and new frustrations. Things
-   became out of hand."
+   became out of hand.”
 
    However, losing control led Base to realise the necessity of human-led
-   design when collaborating with artificially generated artworks. "It's
+   design when collaborating with artificially generated artworks. “It’s
    funny. We sold them a concept of losing control, but then we lost so
-   much control we had to gain it back," Bruce says. "Right before
-   launching there was an internal crisis because some of the images we'd
+   much control we had to gain it back,” Bruce says. “Right before
+   launching there was an internal crisis because some of the images we’d
    developed were less striking than the originals we had presented. That
-   was the concept, but because we're designers - neat freaks, control
-   freaks - we wanted to regain control of the image. The delight we had
-   in the beginning turned into despair, and maybe even disappointment."
+   was the concept, but because we’re designers – neat freaks, control
+   freaks – we wanted to regain control of the image. The delight we had
+   in the beginning turned into despair, and maybe even disappointment.”
 
-   The final visual not representing an art director or designer's initial
-   vision is a possibility on any project. In the end, Base's team placed
+   The final visual not representing an art director or designer’s initial
+   vision is a possibility on any project. In the end, Base’s team placed
    themselves back in their usual role in a brief such as this, inputting
    details like the aforementioned animation techniques to tie the
-   campaign together. "We were a bit naive," says Aurore. "A tool where
+   campaign together. “We were a bit naive,” says Aurore. “A tool where
    both we can create images, and the client can create images sounds
-   wonderful, but looking at what they'd done we realised we were a very
+   wonderful, but looking at what they’d done we realised we were a very
    important part of the process. We have a culture of image. They have a
    culture of content. We understood that we were still needed, which is
-   the whole question around AI."
+   the whole question around AI.”
 
-   Like Seba's communication approach, since completing the La Monnaie
+   Like Seba’s communication approach, since completing the La Monnaie
    project Base has been extremely open, and proud, of this use case of AI
-   as art direction and design. As pointed out by Manon: "It's our duty to
-   use these tools and see where they can bring us to." There has also
+   as art direction and design. As pointed out by Manon: “It’s our duty to
+   use these tools and see where they can bring us to.” There has also
    been little backlash towards the agency, even though its team have used
    it so obviously.
 
    Arguably this is due to the fact that AI was only implemented due to
    its relevance for the overall theme of the opera season at hand, rather
-   than "an excuse not to work, or have AI as a buzzword," says Bruce. "On
+   than “an excuse not to work, or have AI as a buzzword,” says Bruce. “On
    this project I received a lot of questions about whether AI is going to
    replace our jobs. In our personal experience, I think in many ways it
-   can. But that's more of a choice than an actual fate you have to
+   can. But that’s more of a choice than an actual fate you have to
    accept. There are a few agencies working towards owning AI as their
-   unique selling point, but I'm not sure whether that's the strongest way
+   unique selling point, but I’m not sure whether that’s the strongest way
    to move forward with design at large. Choosing when and how to use it,
    maybe a little sparingly as well, evades the question of whether it
-   will take our jobs." Interestingly, since completing the project Base
-   hasn't used AI tools to this extent again, because, with this
-   experience in mind, the concept hasn't called for it.
+   will take our jobs.” Interestingly, since completing the project Base
+   hasn’t used AI tools to this extent again, because, with this
+   experience in mind, the concept hasn’t called for it.
 
    Within the context of using AI tools creatively, the moodboarding,
    commissioning and art direction steps discussed here are arguably the
    most divisive use cases. In curating contributors for this series,
-   we've been careful to collaborate with individuals whose use cases of
+   we’ve been careful to collaborate with individuals whose use cases of
    AI mirror our own sentiment, particularly in how they treat data sets
-   that include other artists' work.
+   that include other artists’ work.
 
    There are, of course, many others who do not adopt such caution, and
-   there are legitimate concerns about certain tools we've mentioned. For
+   there are legitimate concerns about certain tools we’ve mentioned. For
    example, earlier in 2023, a group of artists filed a lawsuit against
    Stability AI, Midjourney and DeviantArt for copyright infringement on
-   their outputs - [47]a case later dismissed. There is also currently
-   little information about the data gathered to produce such outputs,
-   leading to increasingly concerning cases of bias, an area of ethics
-   explored in a piece commissioned by It's Nice That earlier this year by
-   artist[48] Linda Dounia Rebeiz. Although the project cases referenced
-   here voice the positives and negatives of using AI tools at these
-   specific steps, we do advise that text-to-image technologies are used
-   diligently by the wider industry, a prospect further explored in the
-   final article of Shades of Intelligence below.
-   [49]
+   their outputs – a case later dismissed. There is also currently little
+   information about the data gathered to produce such outputs, leading to
+   increasingly concerning cases of bias, an area of ethics explored in a
+   piece commissioned by It’s Nice That earlier this year by artist Linda
+   Dounia Rebeiz. Although the project cases referenced here voice the
+   positives and negatives of using AI tools at these specific steps, we
+   do advise that text-to-image technologies are used diligently by the
+   wider industry, a prospect further explored in the final article of
+   Shades of Intelligence below.
 
 Shades of Intelligence: 83% of creatives are already using machine learning
-tools - is now the time to get on side with AI?
+tools – is now the time to get on side with AI?
 
-   10 days ago
+   15 November 2023
      * Insights
      * Shades of Intelligence
      * ...
-
-   [50]
 
 Can AI help you win your next brief?
 
-   10 days ago
+   15 November 2023
      * Insights
      * Shades of Intelligence
      * ...
 
-   [51]
-
-Will AI mean that creative directors get stuck in an "echo chamber" of
+Will AI mean that creative directors get stuck in an “echo chamber” of
 design?
 
-   10 days ago
+   15 November 2023
      * Insights
      * Shades of Intelligence
      * ...
 
    IFRAME:
-   [52]https://player.vimeo.com/video/884759632?autoplay=1&loop=1&backgrou
-   nd=1
+   https://player.vimeo.com/video/884759632?autoplay=1&loop=1&background=1
 
 Glossary
 
-   Google Colab: A Google Colab is an "executable document that lets you
-   write, run and share code within Google Drive". Based in browser, it is
+   Google Colab: A Google Colab is an “executable document that lets you
+   write, run and share code within Google Drive”. Based in browser, it is
    particularly useful for machine learning.
 
    Stable Diffusion: Stable Diffusion is an open-source, text-to-image
@@ -587,11 +578,11 @@ Glossary
 
    Generative Fill: Featured as part of Photoshop, Generative Fill is a
    tool built to help edit images, either by extending the image at hand
-   or removing content. As part of the Adobe suite, it's arguably the most
+   or removing content. As part of the Adobe suite, it’s arguably the most
    widespread visual AI tool currently available.
 
-   SadTalker: SadTalker is a talking head generator which can create "3D
-   motion coefficients" such as poses and expressions by using 3D
+   SadTalker: SadTalker is a talking head generator which can create “3D
+   motion coefficients” such as poses and expressions by using 3D
    modelling techniques, ExpNet and PoseVAE.
 
    Stable Warp Fusion: Another tool as part of the Stable Diffusion
@@ -599,7 +590,7 @@ Glossary
    visuals using artificial intelligence to turn video into animation.
 
    Animate Diff: Animate Diff is a further AI video generator which can
-   create animate text-to-image prompts. Unlike other tools, it doesn't
+   create animate text-to-image prompts. Unlike other tools, it doesn’t
    require specific tuning.
 
    Stable Diffusion Control Net: Another open source tool available, a
@@ -622,34 +613,34 @@ Glossary
 
    Dall-E: Developed by OpenAI, Dall-E is a further text-to-image AI tool
    currently available. Users can create new imagery from prompts or
-   "outpaint" to expand images, "inpaint" to create realistic edits. You
-   can also create "variations" on inputted imagery resulting in different
+   “outpaint” to expand images, “inpaint” to create realistic edits. You
+   can also create “variations” on inputted imagery resulting in different
    variations.
 
 Share Article
 
 Further Info
 
-   [53]www.instagram.com/infinite_____vibes
+   www.instagram.com/infinite_____vibes
 
-   [54]www.sebacestaro.com
+   www.sebacestaro.com
 
-   [55]www.basedesign.com
+   www.basedesign.com
 
 About the Author
 
-   [56]Lucy Bourton
+   Lucy Bourton
 
-   --
+   —
 
-   Lucy (she/her) joined It's Nice That as a staff writer in July 2016
+   Lucy (she/her) joined It’s Nice That as a staff writer in July 2016
    after graduating from Chelsea College of Art. In January 2019 she was
    made deputy editor and in November 2021, became a senior editor
-   predominantly working on It's Nice That's partnerships. Feel free to
+   predominantly working on It’s Nice That's partnerships. Feel free to
    get in contact with Lucy about creative projects for the site or
    potential partnerships.
 
-   [57]lb@itsnicethat.com
+   lb@itsnicethat.com
 
 It's Nice That Newsletters
 
@@ -667,199 +658,48 @@ It's Nice That Newsletters
    37-39 Kingsway,
    London WC2B 6TP
 
-   --
+   —
 
    +44 (0)20 7739 5222
    Content
 
-   [58]Work
+   Work
 
-   [59]News
+   News
 
-   [60]Features
+   Features
    Social
 
-   [61]Instagram
+   Instagram
 
-   [62]TikTok
+   TikTok
 
-   [63]LinkedIn
+   LinkedIn
 
-   [64]Facebook
+   Facebook
 
-   [65]Twitter
+   Twitter
 
-   [66]Pinterest
+   Pinterest
    Links
 
-   [67]About
+   About
 
-   [68]Contact
+   Contact
 
-   [69]Privacy Policy
+   Privacy Policy
 
-   [70]Partnership Opportunities
+   Partnership Opportunities
 
    Network
 
-   [71]The HudsonBec Group
+   The HudsonBec Group
 
-   [72]Creative Lives in Progress
+   Creative Lives in Progress
 
-   [73]Anyways Creative
+   Anyways Creative
 
-   [74]If You Could Jobs
+   If You Could Jobs
 
-   � It's Nice That 2023 � Nice Face Logo � It's Nice That
-   Designed & Developed by [75]Bureau for Visual Affairs
-
-References
-
-   Visible links:
-   1. http://feeds2.feedburner.com/itsnicethat/SlXC
-   2. https://www.googletagmanager.com/ns.html?id=GTM-T3RZQHB
-   3. https://www.itsnicethat.com/
-   4. https://www.itsnicethat.com/about
-   5. https://www.itsnicethat.com/dashboard
-   6. https://www.itsnicethat.com/extra-nice/search
-   7. https://www.itsnicethat.com/search
-   8. https://www.itsnicethat.com/articles
-   9. https://www.itsnicethat.com/news
-  10. https://www.itsnicethat.com/features
-  11. https://www.itsnicethat.com/nicer-tuesdays
-  12. https://www.itsnicethat.com/ones-to-watch
-  13. https://www.itsnicethat.com/review-of-the-year
-  14. https://www.itsnicethat.com/forward-thinking
-  15. https://www.itsnicethat.com/the-next-generation
-  16. https://www.itsnicethat.com/in-conversation
-  17. https://www.itsnicethat.com/the-its-nice-that-podcast
-  18. https://www.itsnicethat.com/about
-  19. https://www.itsnicethat.com/contact
-  20. https://www.itsnicethat.com/work-with-us
-  21. https://www.itsnicethat.com/newsletters
-  22. https://www.itsnicethat.com/terms-conditions
-  23. https://www.iubenda.com/privacy-policy/65550397/legal
-  24. https://www.iubenda.com/privacy-policy/65550397/cookie-policy
-  25. https://www.itsnicethat.com/authors/matt-alagiah
-  26. https://www.itsnicethat.com/authors/jenny-brewer
-  27. https://www.itsnicethat.com/authors/lucy-bourton
-  28. https://www.itsnicethat.com/authors/liz-gorny
-  29. https://www.itsnicethat.com/authors/olivia-hingley
-  30. https://www.itsnicethat.com/authors/yaya-azariah-clarke
-  31. https://www.itsnicethat.com/extranice
-  32. https://www.itsnicethat.com/login
-  33. https://www.itsnicethat.com/extranice
-  34. https://www.itsnicethat.com/extra-nice/search
-  35. https://www.itsnicethat.com/dashboard
-  36. https://www.itsnicethat.com/authors/lucy-bourton
-  37. https://suzychan.com/
-  38. https://www.itsnicethat.com/authors/lucy-bourton
-  39. https://suzychan.com/
-  40. https://www.itsnicethat.com/features/shades-of-intelligence-insights-launch-creative-industry-ai-151123
-  41. https://player.vimeo.com/video/884404482?autoplay=1&loop=1&background=1
-  42. https://www.instagram.com/infinite_____vibes/
-  43. https://player.vimeo.com/video/884404522?autoplay=1&loop=1&background=1
-  44. https://sebacestaro.com/
-  45. https://player.vimeo.com/video/884404545?autoplay=1&loop=1&background=1
-  46. https://www.basedesign.com/
-  47. https://www.reuters.com/legal/litigation/judge-pares-down-artists-ai-copyright-lawsuit-against-midjourney-stability-ai-2023-10-30/
-  48. https://www.itsnicethat.com/features/linda-dounia-rebeiz-ai-bias-technology-creative-industry-art-011123
-  49. https://www.itsnicethat.com/features/shades-of-intelligence-insights-launch-creative-industry-ai-151123
-  50. https://www.itsnicethat.com/features/shades-of-intelligence-insights-the-brief-creative-industry-ai-151123
-  51. https://www.itsnicethat.com/features/shades-of-intelligence-insights-final-result-creative-industry-ai-151123
-  52. https://player.vimeo.com/video/884759632?autoplay=1&loop=1&background=1
-  53. https://www.instagram.com/infinite_____vibes/
-  54. https://sebacestaro.com/
-  55. https://www.basedesign.com/
-  56. https://www.itsnicethat.com/authors/lucy-bourton
-  57. mailto:lb@itsnicethat.com
-  58. https://www.itsnicethat.com/articles
-  59. https://www.itsnicethat.com/news
-  60. https://www.itsnicethat.com/features
-  61. https://www.instagram.com/itsnicethat/
-  62. https://www.tiktok.com/@itsnicethat
-  63. https://www.linkedin.com/company/1144559
-  64. https://www.facebook.com/itsnicethat
-  65. https://twitter.com/itsnicethat
-  66. https://www.pinterest.co.uk/itsnicethat/
-  67. https://www.itsnicethat.com/about
-  68. https://www.itsnicethat.com/contact
-  69. https://www.iubenda.com/privacy-policy/65550397/legal
-  70. https://www.itsnicethat.com/work-with-us
-  71. http://thehudsonbecgroup.com/
-  72. https://www.creativelivesinprogress.com/
-  73. https://www.anyways.co/
-  74. https://ifyoucouldjobs.com/
-  75. https://bureau-va.com/
-
-   Hidden links:
-  77. https://www.itsnicethat.com/advertising
-  78. https://www.itsnicethat.com/animation
-  79. https://www.itsnicethat.com/architecture
-  80. https://www.itsnicethat.com/art
-  81. https://www.itsnicethat.com/creative-industry
-  82. https://www.itsnicethat.com/digital
-  83. https://www.itsnicethat.com/event
-  84. https://www.itsnicethat.com/fashion
-  85. https://www.itsnicethat.com/film
-  86. https://www.itsnicethat.com/graphic-design
-  87. https://www.itsnicethat.com/illustration
-  88. https://www.itsnicethat.com/photography
-  89. https://www.itsnicethat.com/product-design
-  90. https://www.itsnicethat.com/publication
-  91. https://www.itsnicethat.com/media/3d
-  92. https://www.itsnicethat.com/media/book
-  93. https://www.itsnicethat.com/tags/branding
-  94. https://www.itsnicethat.com/media/collage
-  95. https://www.itsnicethat.com/media/comic
-  96. https://www.itsnicethat.com/media/exhibition
-  97. https://www.itsnicethat.com/media/font
-  98. https://www.itsnicethat.com/tags/food-drink
-  99. https://www.itsnicethat.com/media/identity
- 100. https://www.itsnicethat.com/media/logo
- 101. https://www.itsnicethat.com/media/magazine
- 102. https://www.itsnicethat.com/tags/music
- 103. https://www.itsnicethat.com/tags/politics
- 104. https://www.itsnicethat.com/media/portrait
- 105. https://www.itsnicethat.com/media/poster
- 106. https://www.itsnicethat.com/tags/sport
- 107. https://www.itsnicethat.com/tags/sustainability
- 108. https://www.itsnicethat.com/tags/technology
- 109. https://www.itsnicethat.com/media/typography
- 110. https://www.itsnicethat.com/media/web-design
- 111. https://www.itsnicethat.com/media/zine
- 112. https://www.instagram.com/itsnicethat/
- 113. https://www.facebook.com/itsnicethat
- 114. https://twitter.com/itsnicethat
- 115. https://www.youtube.com/user/itsnicethat
- 116. https://www.pinterest.co.uk/itsnicethat/
- 117. https://www.linkedin.com/company/it's-nice-that
- 118. https://www.itsnicethat.com/insights
- 119. https://www.itsnicethat.com/shades-of-intelligence
- 120. https://www.itsnicethat.com/features
- 121. https://www.itsnicethat.com/animation
- 122. https://www.itsnicethat.com/creative-industry
- 123. https://www.itsnicethat.com/digital
- 124. https://www.itsnicethat.com/graphic-design
- 125. https://www.itsnicethat.com/illustration
- 126. https://www.itsnicethat.com/media/ai
- 127. https://www.itsnicethat.com/tags/technology
- 128. https://www.itsnicethat.com/insights
- 129. https://www.itsnicethat.com/shades-of-intelligence
- 130. https://www.itsnicethat.com/features
- 131. https://www.itsnicethat.com/animation
- 132. https://www.itsnicethat.com/creative-industry
- 133. https://www.itsnicethat.com/digital
- 134. https://www.itsnicethat.com/graphic-design
- 135. https://www.itsnicethat.com/illustration
- 136. https://www.itsnicethat.com/media/ai
- 137. https://www.itsnicethat.com/tags/technology
- 138. https://www.itsnicethat.com/features/shades-of-intelligence-insights-launch-creative-industry-ai-151123
- 139. https://www.itsnicethat.com/insights
- 140. https://www.itsnicethat.com/shades-of-intelligence
- 141. https://www.itsnicethat.com/features/shades-of-intelligence-insights-the-brief-creative-industry-ai-151123
- 142. https://www.itsnicethat.com/insights
- 143. https://www.itsnicethat.com/shades-of-intelligence
- 144. https://www.itsnicethat.com/features/shades-of-intelligence-insights-final-result-creative-industry-ai-151123
- 145. https://www.itsnicethat.com/insights
- 146. https://www.itsnicethat.com/shades-of-intelligence
+   © It’s Nice That 2023 · Nice Face Logo © It’s Nice That
+   Designed & Developed by Bureau for Visual Affairs

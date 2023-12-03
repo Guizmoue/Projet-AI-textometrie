@@ -1,684 +1,481 @@
    Menu
-   [1]Libération
+   LibÃ©ration
    ____________________
-   Lire l'édition du jour
+   Lire l'Ã©dition du jour
    Se connecter
    S'abonner
    Se connecter
    (BUTTON)
    Rechercher
    Fil info
-   1 mois pour 1EUR
-   S'abonner
+   1 mois pour 1â‚¬
+   Sâ€™abonner
    Accueil
-   [2]Politique
-   [3]Elections
-   [4]Extrême droite
-   [5]International
-   [6]Europe
-   [7]Amérique
-   [8]Afrique
-   [9]Moyen-Orient
-   [10]Asie Pacifique
+   Politique
+   Elections
+   ExtrÃªme droite
+   International
+   Europe
+   AmÃ©rique
+   Afrique
+   Moyen-Orient
+   Asie Pacifique
    CheckNews
-   [11]Culture
-   [12]Arts
-   [13]Cinéma
-   [14]Jeux vidéo
-   [15]Musique
-   [16]Photographie
-   [17]Livres
-   [18]BD
-   [19]Polars et thrillers
-   [20]Scènes
-   [21]Séries
-   [22]Idées et Débats
-   [23]Opinions
-   [24]Editorial
-   [25]Tribunes
-   [26]Société
-   [27]Police / Justice
-   [28]Droits des femmes
-   [29]Education
-   [30]Familles
-   [31]Logement
-   [32]Religions
-   [33]Santé
-   [34]Ville
-   [35]Sexualités et genres
-   [36]Immigration
-   Enquêtes
-   [37]Environnement
-   [38]Agriculture
-   [39]Alimentation
-   [40]Biodiversité
-   [41]Climat
-   [42]Nucléaire
-   [43]Pollution
-   [44]Economie
-   [45]Médias
-   [46]Social
-   [47]Transports
-   [48]Economie numérique
-   [49]Lifestyle
-   [50]Beauté
-   [51]Design
-   [52]Gastronomie
-   [53]High tech
-   [54]Mode
-   [55]Voyages
+   Culture
+   Arts
+   CinÃ©ma
+   Jeux vidÃ©o
+   Musique
+   Photographie
+   Livres
+   BD
+   Polars et thrillers
+   ScÃ¨nes
+   SÃ©ries
+   IdÃ©es et DÃ©bats
+   Opinions
+   Editorial
+   Tribunes
+   SociÃ©tÃ©
+   Police / Justice
+   Droits des femmes
+   Education
+   Familles
+   Logement
+   Religions
+   SantÃ©
+   Ville
+   SexualitÃ©s et genres
+   Immigration
+   EnquÃªtes
+   Environnement
+   Agriculture
+   Alimentation
+   BiodiversitÃ©
+   Climat
+   NuclÃ©aire
+   Pollution
+   Economie
+   MÃ©dias
+   Social
+   Transports
+   Economie numÃ©rique
+   Lifestyle
+   BeautÃ©
+   Design
+   Gastronomie
+   High tech
+   Mode
+   Voyages
    En images
    Portraits
-   [56]Sports
-   [57]Football
-   [58]Cyclisme
-   [59]Jeux Olympiques
-   [60]JO de Paris 2024
-   [61]Tennis
-   [62]Rugby
-   [63]Coupe du monde de rugby 2023
-   [64]Sports mécaniques
-   [65]Sciences
-   [66]Archéologie
-   [67]Biologie
-   [68]Espace
-   [69]Histoire
-   [70]Plus
-   [71]Séries d'été
-   [72]Numéros spéciaux
-   [73]Les 50 ans de Libé
-   [74]Nos 50 combats
+   Sports
+   Football
+   Cyclisme
+   Jeux Olympiques
+   JO de Paris 2024
+   Tennis
+   Rugby
+   Coupe du monde de rugby 2023
+   Sports mÃ©caniques
+   Sciences
+   ArchÃ©ologie
+   Biologie
+   Espace
+   Histoire
+   Plus
+   SÃ©ries d'Ã©tÃ©
+   NumÃ©ros spÃ©ciaux
+   Les 50 ans de LibÃ©
+   Nos 50 combats
    Lire le journal
    Lire le journal
-   [75]Archives
-   [76]2023
-   [77]2022
-   [78]2021
-   Forums & événements
-   La boutique Libé
-   Evénements Libé
+   Archives
+   2023
+   2022
+   2021
+   Forums & Ã©vÃ©nements
+   La boutique LibÃ©
+   EvÃ©nements LibÃ©
    Les newsletters
-   Offrir Libé
+   Offrir LibÃ©
    Petites annonces
-   Annonces légales
+   Annonces lÃ©gales
    Voir la boutique
-   Retrouvez tous nos journaux en version papier et PDFs, les numéros
+   Retrouvez tous nos journaux en version papier et PDFs, les numÃ©ros
    collectors et les hors-series.
    Voir la boutique
    Les Newsletters
    newsletter
-   Actualités, Culture, Checknews ou encore les dernières tendances,
-   restez informés grâce à nos différentes newsletters.
-   Découvrez nos newsletters
-   [79]Les Unes
-   [80]La boutique
-   [81]FAQ - Questions / Réponses
-   [82]Contactez-nous
-   Télécharger l'application :
-   Suivez nous sur :
-     * [83]Politique
-     * [84]International
-     * [85]Guerre Hamas-Israël
-     * [86]CheckNews
-     * [87]Culture
-     * [88]Idées et Débats
-     * [89]Société
-     * [90]Enquêtes
-     * [91]Environnement
-     * [92]Economie
-     * [93]Lifestyle
-     * [94]Portraits
-     * [95]Sports
+   ActualitÃ©s, Culture, Checknews ou encore les derniÃ¨res tendances,
+   restez informÃ©s grÃ¢ce Ã  nos diffÃ©rentes newsletters.
+   DÃ©couvrez nos newsletters
+   Les Unes
+   La boutique
+   FAQ - Questions / RÃ©ponses
+   Contactez-nous
+   TÃ©lÃ©charger lâ€™application :
+   Suivez-nous :
+     * Politique
+     * International
+     * Guerre Hamas-IsraÃ«l
+     * CheckNews
+     * Culture
+     * IdÃ©es et DÃ©bats
+     * SociÃ©tÃ©
+     * EnquÃªtes
+     * Environnement
+     * Economie
+     * Lifestyle
+     * Portraits
+     * Sports
 
-   [96]Accueil / [97]Europe
+   Accueil / Europe
    Interview
 
-Intelligence artificielle : «De plus en plus de spectres vont administrer
-nos vies»
+Intelligence artificielle : Â«De plus en plus de spectres vont administrer
+nos viesÂ»
 
-   Intelligence artificielle : de la fascination à l'inquiétudedossier
-   Le philosophe critique Eric Sadin, qui publie «l'Intelligence
-   artificielle ou l'enjeu du siècle», analyse l'emprise de l'IA sur
-   la société. Pour lui, nous vivons un tournant, qui voit des systèmes
-   nous enjoindre d'agir en toutes circonstances en vue d'optimiser nos
+   Intelligence artificielle : de la fascination Ã  l'inquiÃ©tudedossier
+   Le philosophe critique Eric Sadin, qui publie Â«lâ€™Intelligence
+   artificielle ou lâ€™enjeu du siÃ¨cleÂ», analyse lâ€™emprise de lâ€™IA sur
+   la sociÃ©tÃ©. Pour lui, nous vivons un tournant, qui voit des systÃ¨mes
+   nous enjoindre dâ€™agir en toutes circonstances en vue dâ€™optimiser nos
    actes.
 
-   Le secrétaire d'Etat au Numérique, Mounir Mahjoubi, le Premier
-   ministre, Edouard Philippe, et le directeur général de la Banque
-   publique d'investissement, Nicolas Dufourcq, à Paris le 11 octobre.
+   Le secrÃ©taire dâ€™Etat au NumÃ©rique, Mounir Mahjoubi, le Premier
+   ministre, Edouard Philippe, et le directeur gÃ©nÃ©ral de la Banque
+   publique dâ€™investissement, Nicolas Dufourcq, Ã  Paris le 11 octobre.
    (Photo Albert Facelly)
-   par [98]Christophe Alix et [99]Jean-Christophe Féraud
-   publié le 22 octobre 2018 à 18h56
+   par Christophe Alix et Jean-Christophe FÃ©raud
+   publiÃ© le 22 octobre 2018 Ã  18h56
 
    Ecrivain et philosophe critique, Eric Sadin analyse l'emprise
-   du numérique sur nos sociétés. Après la Vie algorithmique et la
+   du numÃ©rique sur nos sociÃ©tÃ©s. AprÃ¨s la Vie algorithmique et la
    Silicolonisation du monde, il publie l'Intelligence artificielle ou
-   l'enjeu du siècle (1). Une entreprise de déconstruction systématique
-   des discours technologiques, politiques et économiques présentant
-   l'intelligence artificielle (IA) comme «la» nouvelle frontière.
+   l'enjeu du siÃ¨cle (1). Une entreprise de dÃ©construction systÃ©matique
+   des discours technologiques, politiques et Ã©conomiques prÃ©sentant
+   l'intelligence artificielle (IA) comme Â«laÂ» nouvelle frontiÃ¨re.
 
-Emmanuel Macron a lancé un plan «intelligence artificielle» à 1,5 milliard
-d'euros pour faire de la France un leader du secteur. L'IA est-elle devenue
-l'ultime marqueur de la modernité ?
+Emmanuel Macron a lancÃ© un plan Â«intelligence artificielleÂ» Ã  1,5 milliard
+dâ€™euros pour faire de la France un leader du secteur. Lâ€™IA est-elle devenue
+lâ€™ultime marqueur de la modernitÃ© ?
 
-   C'est la grande obsession de l'époque. Entreprises, politiques et
-   chercheurs ne jurent que par l'IA car elle laisse entrevoir l'émergence
-   d'un monde partout sécurisé, optimisé et fluidifié... Et des
-   perspectives économiques illimitées. Les grandes puissances, Etats-Unis
-   et Chine, mobilisent d'énormes moyens en vue d'être aux avant-postes.
-   Et voilà qu'après la «start-up nation», Emmanuel Macron veut faire de
-   la France un «hub mondial de l'IA» et «attirer les meilleurs chercheurs
-   étrangers». Comme il est entendu qu'«il ne faut pas rater le train de
-   l'histoire», les investissements s'opèrent dans la plus grande
-   précipitation. A telle enseigne que Mounir Mahjoubi, le secrétaire
-   d'Etat au Numérique, dit comprendre que «certains préfèrent avancer sur
-   les technologies d'abord et réfléchir ensuite» ! Vu la portée des
-   enjeux, il est au contraire impératif que ces questions fassent l'objet
-   d'un vrai débat public, ce qui n'est pas le cas aujourd'hui.
+   C'est la grande obsession de l'Ã©poque. Entreprises, politiques et
+   chercheurs ne jurent que par l'IA car elle laisse entrevoir l'Ã©mergence
+   d'un monde partout sÃ©curisÃ©, optimisÃ© et fluidifiÃ©â€¦ Et des perspectives
+   Ã©conomiques illimitÃ©es. Les grandes puissances, Etats-Unis et Chine,
+   mobilisent d'Ã©normes moyens en vue d'Ãªtre aux avant-postes. Et voilÃ 
+   qu'aprÃ¨s la Â«start-up nationÂ», Emmanuel Macron veut faire de la France
+   un Â«hub mondial de l'IAÂ» et Â«attirer les meilleurs chercheurs
+   Ã©trangersÂ». Comme il est entendu qu'Â«il ne faut pas rater le train de
+   l'histoireÂ», les investissements s'opÃ¨rent dans la plus grande
+   prÃ©cipitation. A telle enseigne que Mounir Mahjoubi, le secrÃ©taire
+   d'Etat au NumÃ©rique, dit comprendre que Â«certains prÃ©fÃ¨rent avancer sur
+   les technologies d'abord et rÃ©flÃ©chir ensuiteÂ» ! Vu la portÃ©e des
+   enjeux, il est au contraire impÃ©ratif que ces questions fassent l'objet
+   d'un vrai dÃ©bat public, ce qui n'est pas le cas aujourd'hui.
 
-Votre livre pointe l'IA comme un «antihumanisme radical». Pourtant, ces
-technologies cherchent à imiter notre cerveau et sont censées nous aider...
+Votre livre pointe lâ€™IA comme un Â«antihumanisme radicalÂ». Pourtant, ces
+technologies cherchent Ã  imiter notre cerveau et sont censÃ©es nous aiderâ€¦
 
-   Cette ambition de concevoir des systèmes modélisés sur le cerveau
-   humain guide les recherches menées dans les laboratoires. IBM, par
+   Cette ambition de concevoir des systÃ¨mes modÃ©lisÃ©s sur le cerveau
+   humain guide les recherches menÃ©es dans les laboratoires. IBM, par
    exemple, dit avoir mis au point des puces synaptiques, et Intel a
-   élaboré une puce dite neuromorphique. Mais il s'agit là d'un
-   vocabulaire impropre : nous n'avons, en aucune manière, affaire à une
-   réplique de notre intelligence, même partielle. Le terme «intelligence
-   artificielle» est un abus de langage laissant croire qu'elle serait
-   naturellement habilitée à se substituer à la nôtre en vue d'assurer une
+   Ã©laborÃ© une puce dite neuromorphique. Mais il sâ€™agit lÃ  dâ€™un
+   vocabulaire impropre : nous nâ€™avons, en aucune maniÃ¨re, affaire Ã  une
+   rÃ©plique de notre intelligence, mÃªme partielle. Le terme Â«intelligence
+   artificielleÂ» est un abus de langage laissant croire quâ€™elle serait
+   naturellement habilitÃ©e Ã  se substituer Ã  la nÃ´tre en vue dâ€™assurer une
    meilleure conduite de nos vies. Il faut remettre en cause cette
-   appellation anthropomorphe. En vérité, ce qui est nommé «IA» représente
-   un mode de rationalité technologique cherchant à optimiser toute
-   situation, à satisfaire nombre d'intérêts privés et, au bout du compte,
-   à faire prévaloir un utilitarisme généralisé.
+   appellation anthropomorphe. En vÃ©ritÃ©, ce qui est nommÃ© Â«IAÂ» reprÃ©sente
+   un mode de rationalitÃ© technologique cherchant Ã  optimiser toute
+   situation, Ã  satisfaire nombre dâ€™intÃ©rÃªts privÃ©s et, au bout du compte,
+   Ã  faire prÃ©valoir un utilitarisme gÃ©nÃ©ralisÃ©.
 
-Vous parlez d'une toute-puissance en devenir capable d'énoncer «la vérité»
-à notre place...
+Vous parlez dâ€™une toute-puissance en devenir capable dâ€™Ã©noncer Â«la vÃ©ritÃ©Â»
+Ã  notre placeâ€¦
 
-   Ce qui caractérise l'IA, c'est que c'est une puissance d'expertise qui
-   ne cesse de se perfectionner. Ses systèmes auto-apprenants sont
-   capables d'analyser des situations toujours plus variées et de nous
-   révéler des états de fait dont nous n'avions aucune conscience dans
-   certains cas. Ils le font à des vitesses qui dépassent nos capacités
+   Ce qui caractÃ©rise lâ€™IA, câ€™est que câ€™est une puissance dâ€™expertise qui
+   ne cesse de se perfectionner. Ses systÃ¨mes auto-apprenants sont
+   capables dâ€™analyser des situations toujours plus variÃ©es et de nous
+   rÃ©vÃ©ler des Ã©tats de fait dont nous nâ€™avions aucune conscience dans
+   certains cas. Ils le font Ã  des vitesses qui dÃ©passent nos capacitÃ©s
    cognitives. Nous vivons un changement de statut des technologies
-   numériques : elles ne sont plus seulement destinées à nous permettre
-   d'accéder à l'information mais à nous divulguer la réalité des
-   phénomènes au-delà des apparences. Au fond, ces systèmes
-   computationnels sont dotés d'une singulière et troublante vocation :
-   énoncer la vérité. La technique se voit recevoir des prérogatives
-   inédites : éclairer de ses lumières le cours de notre existence. C'est
-   là le fait majeur.
+   numÃ©riques : elles ne sont plus seulement destinÃ©es Ã  nous permettre
+   dâ€™accÃ©der Ã  lâ€™information mais Ã  nous divulguer la rÃ©alitÃ© des
+   phÃ©nomÃ¨nes au-delÃ  des apparences. Au fond, ces systÃ¨mes
+   computationnels sont dotÃ©s dâ€™une singuliÃ¨re et troublante vocation :
+   Ã©noncer la vÃ©ritÃ©. La technique se voit recevoir des prÃ©rogatives
+   inÃ©dites : Ã©clairer de ses lumiÃ¨res le cours de notre existence. Câ€™est
+   lÃ  le fait majeur.
 
-Comment ce technè logos, que vous définissez comme une technologie à même de
-proférer du verbe, se manifeste-t-il dans notre quotidien ?
+Comment ce technÃ¨ logos, que vous dÃ©finissez comme une technologie Ã  mÃªme de
+profÃ©rer du verbe, se manifeste-t-il dans notre quotidien ?
 
-   Au moment où ces machines sont appelées à nous dire la vérité, elles se
-   trouvent douées de parole, à l'image de ces enceintes connectées avec
-   lesquelles nous pouvons dialoguer. Cette disposition est également à
-   l'oeuvre dans les chatbots, les agents conversationnels, ou dans les
-   assistants numériques personnels conçus pour nous guider dans notre
-   quotidien. Nous allons de plus en plus être entourés de spectres
-   chargés d'administrer nos vies. C'est ce que je nomme le
-   «pouvoir-kairos», autrement dit la volonté de l'industrie du numérique
-   d'être continuellement à nos côtés afin de chercher, dès que l'occasion
-   s'en présente, d'infléchir nos gestes en énonçant ce qui est supposé
-   nous convenir. La bataille économique à venir entre Google, Facebook,
-   Amazon, Baidu [le Google chinois, ndlr] et autres va donner lieu à une
-   compétition acharnée pour la conquête de cette présence spectrale,
-   chaque acteur s'évertuant à imposer son emprise aux dépens de tous les
+   Au moment oÃ¹ ces machines sont appelÃ©es Ã  nous dire la vÃ©ritÃ©, elles se
+   trouvent douÃ©es de parole, Ã  l'image de ces enceintes connectÃ©es avec
+   lesquelles nous pouvons dialoguer. Cette disposition est Ã©galement Ã 
+   l'Å“uvre dans les chatbots, les agents conversationnels, ou dans les
+   assistants numÃ©riques personnels conÃ§us pour nous guider dans notre
+   quotidien. Nous allons de plus en plus Ãªtre entourÃ©s de spectres
+   chargÃ©s d'administrer nos vies. C'est ce que je nomme le
+   Â«pouvoir-kairosÂ», autrement dit la volontÃ© de l'industrie du numÃ©rique
+   d'Ãªtre continuellement Ã  nos cÃ´tÃ©s afin de chercher, dÃ¨s que l'occasion
+   s'en prÃ©sente, d'inflÃ©chir nos gestes en Ã©nonÃ§ant ce qui est supposÃ©
+   nous convenir. La bataille Ã©conomique Ã  venir entre Google, Facebook,
+   Amazon, Baidu [le Google chinois, ndlr] et autres va donner lieu Ã  une
+   compÃ©tition acharnÃ©e pour la conquÃªte de cette prÃ©sence spectrale,
+   chaque acteur s'Ã©vertuant Ã  imposer son emprise aux dÃ©pens de tous les
    autres.
 
-A vous lire, c'est un «dessaisissement» de notre droit à décider de nos vies
-qui nous menace...
+A vous lire, câ€™est un Â«dessaisissementÂ» de notre droit Ã  dÃ©cider de nos vies
+qui nous menaceâ€¦
 
-   Nous vivons un tournant injonctif de la technique. Il s'agit là d'un
-   phénomène unique dans l'histoire de l'humanité qui voit des systèmes
-   nous enjoindre d'agir de telle ou telle manière. Cela peut aller d'un
-   niveau modéré et incitatif, à l'oeuvre dans une application de coaching
-   sportif par exemple, à un niveau prescriptif, dans le cas de l'examen
-   de l'octroi d'un emprunt bancaire. Même le secteur du recrutement
-   commence à avoir recours à des robots conversationnels pour
-   sélectionner les candidats ! On nous sert la fable d'une
-   complémentarité homme-machine mais en réalité, plus le niveau de
-   l'expertise automatisée se perfectionnera, plus l'évaluation humaine
-   sera marginalisée. Et on atteint déjà des niveaux d'injonction
-   coercitifs dans le champ du travail, avec des systèmes dictant à des
-   personnes les gestes à exécuter. Le libre exercice de notre faculté de
-   jugement se trouve substitué par des protocoles destinés à orienter nos
-   actes. Il s'agit là d'une rupture politique, juridique et
-   anthropologique sans précédent.
+   Nous vivons un tournant injonctif de la technique. Il sâ€™agit lÃ  dâ€™un
+   phÃ©nomÃ¨ne unique dans lâ€™histoire de lâ€™humanitÃ© qui voit des systÃ¨mes
+   nous enjoindre dâ€™agir de telle ou telle maniÃ¨re. Cela peut aller dâ€™un
+   niveau modÃ©rÃ© et incitatif, Ã  lâ€™Å“uvre dans une application de coaching
+   sportif par exemple, Ã  un niveau prescriptif, dans le cas de lâ€™examen
+   de lâ€™octroi dâ€™un emprunt bancaire. MÃªme le secteur du recrutement
+   commence Ã  avoir recours Ã  des robots conversationnels pour
+   sÃ©lectionner les candidats ! On nous sert la fable dâ€™une
+   complÃ©mentaritÃ© homme-machine mais en rÃ©alitÃ©, plus le niveau de
+   lâ€™expertise automatisÃ©e se perfectionnera, plus lâ€™Ã©valuation humaine
+   sera marginalisÃ©e. Et on atteint dÃ©jÃ  des niveaux dâ€™injonction
+   coercitifs dans le champ du travail, avec des systÃ¨mes dictant Ã  des
+   personnes les gestes Ã  exÃ©cuter. Le libre exercice de notre facultÃ© de
+   jugement se trouve substituÃ© par des protocoles destinÃ©s Ã  orienter nos
+   actes. Il sâ€™agit lÃ  dâ€™une rupture politique, juridique et
+   anthropologique sans prÃ©cÃ©dent.
 
-Le danger, c'est que ces machines «aidantes» prennent toujours plus de
-décisions à notre place. Mais sans elles, pourrions-nous suivre
-l'accélération numérique ?
+Le danger, câ€™est que ces machines Â«aidantesÂ» prennent toujours plus de
+dÃ©cisions Ã  notre place. Mais sans elles, pourrions-nous suivre
+lâ€™accÃ©lÃ©ration numÃ©rique ?
 
-   Sous couvert de facilitation croissante de nos tâches, nous n'avons pas
-   vu le renversement qui s'est produit. Ces technologies d'aide à la
-   décision sont devenues des instances décisionnelles. D'une certaine
-   manière, nous serons moins appelés à donner des instructions aux
-   machines qu'à en recevoir d'elles. Cette logique est déjà à l'oeuvre
-   dans la médecine, dont on ne cesse de louer les avantages qu'elle va
-   tirer de l'intelligence artificielle. On se réjouit du diagnostic
-   automatisé qui offrirait un saut qualitatif, mais on n'évoque jamais le
-   fait que ces mêmes systèmes sont déjà dotés de la faculté de
-   prescription entraînant l'achat de mots-clés par les groupes
+   Sous couvert de facilitation croissante de nos tÃ¢ches, nous n'avons pas
+   vu le renversement qui s'est produit. Ces technologies d'aide Ã  la
+   dÃ©cision sont devenues des instances dÃ©cisionnelles. D'une certaine
+   maniÃ¨re, nous serons moins appelÃ©s Ã  donner des instructions aux
+   machines qu'Ã  en recevoir d'elles. Cette logique est dÃ©jÃ  Ã  l'Å“uvre
+   dans la mÃ©decine, dont on ne cesse de louer les avantages qu'elle va
+   tirer de l'intelligence artificielle. On se rÃ©jouit du diagnostic
+   automatisÃ© qui offrirait un saut qualitatif, mais on n'Ã©voque jamais le
+   fait que ces mÃªmes systÃ¨mes sont dÃ©jÃ  dotÃ©s de la facultÃ© de
+   prescription entraÃ®nant l'achat de mots-clÃ©s par les groupes
    pharmaceutiques. En nous truffant de capteurs, ces puissances
-   financières promettent d'interpréter en permanence nos flux
-   physiologiques dans le but de nous recommander produits de bien-être et
-   traitements thérapeutiques. Mais cette promesse de grandes avancées
-   médicales cache le véritable objectif de l'industrie du numérique qui
-   entend faire main basse sur la santé ! Il est temps de s'inscrire en
-   faux contre les propos d'un Yann LeCun, par exemple. Ce spécialiste
-   français du maching learning, qui est devenu le «Chief AI Scientist» de
-   Facebook, répète partout que ces avancées légitiment l'intelligence
-   artificielle. Pourquoi ne parle-t-il pas plutôt des techniques
-   d'interprétation des comportements qu'il conçoit pour cette firme ? Si
-   elles étaient rendues publiques, ces recherches permettraient de mieux
+   financiÃ¨res promettent d'interprÃ©ter en permanence nos flux
+   physiologiques dans le but de nous recommander produits de bien-Ãªtre et
+   traitements thÃ©rapeutiques. Mais cette promesse de grandes avancÃ©es
+   mÃ©dicales cache le vÃ©ritable objectif de l'industrie du numÃ©rique qui
+   entend faire main basse sur la santÃ© ! Il est temps de s'inscrire en
+   faux contre les propos d'un Yann LeCun, par exemple. Ce spÃ©cialiste
+   franÃ§ais du maching learning, qui est devenu le Â«Chief AI ScientistÂ» de
+   Facebook, rÃ©pÃ¨te partout que ces avancÃ©es lÃ©gitiment l'intelligence
+   artificielle. Pourquoi ne parle-t-il pas plutÃ´t des techniques
+   d'interprÃ©tation des comportements qu'il conÃ§oit pour cette firme ? Si
+   elles Ã©taient rendues publiques, ces recherches permettraient de mieux
    comprendre ce qui est en train de se jouer.
 
-L'IA est-elle une menace qui pourrait nous «détruire» un jour, comme
-l'affirme Elon Musk ?
+Lâ€™IA est-elle une menace qui pourrait nous Â«dÃ©truireÂ» un jour, comme
+lâ€™affirme Elon Musk ?
 
-   Ces propos sensationnalistes témoignent d'une certaine schizophrénie.
-   Ingénieurs et chercheurs se sont laissé prendre dans un piège fatal. La
+   Ces propos sensationnalistes tÃ©moignent d'une certaine schizophrÃ©nie.
+   IngÃ©nieurs et chercheurs se sont laissÃ© prendre dans un piÃ¨ge fatal. La
    technique, en tant que champ relativement autonome, a aujourd'hui
-   disparu. Seul demeure le techno-économique. Pour se donner bonne
-   conscience, Musk et toute la sphère des ingénieurs enrôlés par
-   l'industrie numérique répètent en boucle que «la machine doit être au
-   service de l'homme». Ils invoquent continuellement l'éthique. C'est
-   l'une des grandes impostures de notre temps. Ces discours de façade
-   permettent de faire bonne figure à peu de frais, mais ce sont ces mêmes
-   personnes qui s'emploient à accroître l'expertise de ces systèmes au
-   mépris des conséquences.
+   disparu. Seul demeure le techno-Ã©conomique. Pour se donner bonne
+   conscience, Musk et toute la sphÃ¨re des ingÃ©nieurs enrÃ´lÃ©s par
+   l'industrie numÃ©rique rÃ©pÃ¨tent en boucle que Â«la machine doit Ãªtre au
+   service de l'hommeÂ». Ils invoquent continuellement l'Ã©thique. C'est
+   l'une des grandes impostures de notre temps. Ces discours de faÃ§ade
+   permettent de faire bonne figure Ã  peu de frais, mais ce sont ces mÃªmes
+   personnes qui s'emploient Ã  accroÃ®tre l'expertise de ces systÃ¨mes au
+   mÃ©pris des consÃ©quences.
 
-Vous expliquez que cette «main invisible automatisée» va aussi «organiser la
-fin du politique», et donc de la démocratie...
+Vous expliquez que cette Â«main invisible automatisÃ©eÂ» va aussi Â«organiser la
+fin du politiqueÂ», et donc de la dÃ©mocratieâ€¦
 
-   Nous assistons à la concrétisation du rêve des saint-simoniens aspirant
-   à une saine administration des choses. Les responsables politiques
-   entendent profiter de l'IA pour instaurer une gouvernance automatisée
-   de nombreux secteurs de la société : les relations entre citoyens et
-   l'administration, les transports, l'éducation, la justice... Cette
-   logique offre l'avantage de nécessiter moins d'agents humains et de
-   diminuer les coûts. D'où l'importance de l'open data pour les
-   gouvernements sociolibéraux qui comptent, grâce à la mise à disposition
-   des données publiques, laisser au régime privé le soin d'organiser le
-   cours des affaires collectives, entraînant une marchandisation de la
-   vie publique. La «smart city» est emblématique de cette idéologie qui
-   verrait les systèmes réguler au mieux notre quotidien : on laisse agir
-   les systèmes au sein d'un monde parfait parce que sans signataire et
-   régi par des signaux. En cela, nous assistons à la liquidation en cours
-   du politique, entendu comme l'engagement de choix incertains après
-   conflit et délibération.
+   Nous assistons Ã  la concrÃ©tisation du rÃªve des saint-simoniens aspirant
+   Ã  une saine administration des choses. Les responsables politiques
+   entendent profiter de l'IA pour instaurer une gouvernance automatisÃ©e
+   de nombreux secteurs de la sociÃ©tÃ© : les relations entre citoyens et
+   l'administration, les transports, l'Ã©ducation, la justiceâ€¦ Cette
+   logique offre l'avantage de nÃ©cessiter moins d'agents humains et de
+   diminuer les coÃ»ts. D'oÃ¹ l'importance de l'open data pour les
+   gouvernements sociolibÃ©raux qui comptent, grÃ¢ce Ã  la mise Ã  disposition
+   des donnÃ©es publiques, laisser au rÃ©gime privÃ© le soin d'organiser le
+   cours des affaires collectives, entraÃ®nant une marchandisation de la
+   vie publique. La Â«smart cityÂ» est emblÃ©matique de cette idÃ©ologie qui
+   verrait les systÃ¨mes rÃ©guler au mieux notre quotidien : on laisse agir
+   les systÃ¨mes au sein d'un monde parfait parce que sans signataire et
+   rÃ©gi par des signaux. En cela, nous assistons Ã  la liquidation en cours
+   du politique, entendu comme l'engagement de choix incertains aprÃ¨s
+   conflit et dÃ©libÃ©ration.
 
-Comment expliquer la faible résonance du discours critique sur l'intelligence
-artificielle dans le débat public ?
+Comment expliquer la faible rÃ©sonance du discours critique sur lâ€™intelligence
+artificielle dans le dÃ©bat public ?
 
    Je pense que nous vivons une faillite de la conscience. Lorsque nous
-   voulons faire preuve de vigilance, nous en venons toujours à la
-   question des données personnelles, qui certes représente un enjeu
-   d'importance, mais qui reste limitée au primat de la seule protection
-   de la vie privée. Jamais nous ne nous soucions de la préservation de
-   notre liberté dans le cadre de la vie en commun et des nouvelles
-   structures asymétriques de pouvoir qu'entraîne l'usage de l'IA, dans le
-   management, par exemple. Depuis quelque temps, la question des «biais»
-   occupe une place centrale. Là encore, il s'agit de points d'importance
-   vu qu'ils peuvent entraîner de possibles discriminations. Mais quand
-   bien même nous nous en débarrasserions, cela n'empêchera pas ce large
-   mouvement d'énonciation automatisée de la vérité à des fins marchandes
-   et utilitaristes de s'instituer. Mais quid du libre exercice de notre
-   faculté de jugement, du déni de notre sensibilité et de notre
-   faillibilité, du respect de la pluralité humaine ? Ce sont là des
-   questions d'ordre civilisationnel auxquelles nous devrions nous
+   voulons faire preuve de vigilance, nous en venons toujours Ã  la
+   question des donnÃ©es personnelles, qui certes reprÃ©sente un enjeu
+   dâ€™importance, mais qui reste limitÃ©e au primat de la seule protection
+   de la vie privÃ©e. Jamais nous ne nous soucions de la prÃ©servation de
+   notre libertÃ© dans le cadre de la vie en commun et des nouvelles
+   structures asymÃ©triques de pouvoir quâ€™entraÃ®ne lâ€™usage de lâ€™IA, dans le
+   management, par exemple. Depuis quelque temps, la question des Â«biaisÂ»
+   occupe une place centrale. LÃ  encore, il sâ€™agit de points dâ€™importance
+   vu quâ€™ils peuvent entraÃ®ner de possibles discriminations. Mais quand
+   bien mÃªme nous nous en dÃ©barrasserions, cela nâ€™empÃªchera pas ce large
+   mouvement dâ€™Ã©nonciation automatisÃ©e de la vÃ©ritÃ© Ã  des fins marchandes
+   et utilitaristes de sâ€™instituer. Mais quid du libre exercice de notre
+   facultÃ© de jugement, du dÃ©ni de notre sensibilitÃ© et de notre
+   faillibilitÃ©, du respect de la pluralitÃ© humaine ? Ce sont lÃ  des
+   questions dâ€™ordre civilisationnel auxquelles nous devrions nous
    confronter sans attendre.
 
-Alors que faire pour enrayer la marche de ce «Léviathan algorithmique» ?
+Alors que faire pour enrayer la marche de ce Â«LÃ©viathan algorithmiqueÂ» ?
 
-   Nous sommes démunis par la vitesse des développements qui nous
-   empêchent de nous prononcer en conscience et qui sont présentés comme
-   inéluctables. Les évangélistes de l'automatisation du monde que sont
-   Emmanuel Macron et Cédric Villani avec leur plan IA ne jurent que par
-   le dogme de la croissance, au mépris de toutes les conséquences
-   civilisationnelles. Les citoyens doivent sortir de l'apathie. Il faut
-   contredire les techno-discours et faire remonter des témoignages
-   émanant de la réalité du terrain, là où ces systèmes opèrent, sur les
-   lieux de travail, dans les écoles, les hôpitaux... Il faut manifester
-   notre refus à l'égard de certains dispositifs lorsqu'ils bafouent notre
-   intégrité et notre dignité. Contre cet assaut antihumaniste, faisons
-   prévaloir une équation simple mais intangible : plus on compte nous
-   dessaisir de notre pouvoir d'agir, plus il convient d'être agissant.
+   Nous sommes dÃ©munis par la vitesse des dÃ©veloppements qui nous
+   empÃªchent de nous prononcer en conscience et qui sont prÃ©sentÃ©s comme
+   inÃ©luctables. Les Ã©vangÃ©listes de lâ€™automatisation du monde que sont
+   Emmanuel Macron et CÃ©dric Villani avec leur plan IA ne jurent que par
+   le dogme de la croissance, au mÃ©pris de toutes les consÃ©quences
+   civilisationnelles. Les citoyens doivent sortir de lâ€™apathie. Il faut
+   contredire les techno-discours et faire remonter des tÃ©moignages
+   Ã©manant de la rÃ©alitÃ© du terrain, lÃ  oÃ¹ ces systÃ¨mes opÃ¨rent, sur les
+   lieux de travail, dans les Ã©coles, les hÃ´pitauxâ€¦ Il faut manifester
+   notre refus Ã  lâ€™Ã©gard de certains dispositifs lorsquâ€™ils bafouent notre
+   intÃ©gritÃ© et notre dignitÃ©. Contre cet assaut antihumaniste, faisons
+   prÃ©valoir une Ã©quation simple mais intangible : plus on compte nous
+   dessaisir de notre pouvoir dâ€™agir, plus il convient dâ€™Ãªtre agissant.
 
-   (1) L'Echappée, 304 pp., 18 EUR.
+   (1) L'EchappÃ©e, 304 pp., 18 â‚¬.
 
-Et plus sur le sujet avec notre nouveau hors-série«L'IA au coeur de
-l'humain»actuellement en vente en kiosque ou sur la boutique Libé
+Et plus sur le sujet avec notre nouveau hors-sÃ©rieÂ«Lâ€™IA au coeur de
+lâ€™humainÂ»actuellement en vente en kiosque ou sur la boutique LibÃ©
 
 Pour aller plus loin :
 
-   [100]Emmanuel Macron[101]Cédric
-   Villani[102]Google[103]Facebook[104]Amazon[105]États-Unis[106]Chine[107
-   ]Racisme[108]Hôpital[109]Données personnelles[110]Voyage au coeur de
-   l'IA
+   Emmanuel MacronCÃ©dric
+   VillaniGoogleFacebookAmazonÃ‰tats-UnisChineRacismeHÃ´pitalDonnÃ©es
+   personnellesVoyage au cÅ“ur de l'IA
    (BUTTON)
 
-Dans la même rubrique
+Dans la mÃªme rubrique
 
-   [111]Guerre[112]
+   Homophobie
 
-A Kyiv, les autorités ukrainiennes dénoncent la plus grosse attaque de drones
-russes depuis le début de la guerre
+Russie : la Cour suprÃªme bannit le Â«mouvement LGBTÂ» pour Â«extrÃ©mismeÂ»
 
-   25 nov. 2023
-   [113]Récap'[114]
+   30 nov. 2023
+   LibÃ© Matin
 
-Cessez-le-feu et libération d'otages à Gaza, l'Etat encore condamné pour la
-pollution de l'air, le changement du calendrier scolaire à l'étude... L'actu
-de ce vendredi 24 novembre
+TrÃªve prolongÃ©e in extremis entre IsraÃ«l et le Hamas, ouverture de lâ€™Ã©trange
+COP28, mort dâ€™Henry Kissingerâ€¦ Lâ€™actu de ce jeudi matin
 
-   24 nov. 2023
-   [115]Nuit brune[116]
+   30 nov. 2023
+   Manifestations
 
-L'extrême droite sème le chaos à Dublin après l'attaque au couteau, une
-«honte pour l'Irlande»
+Espagne : aprÃ¨s la loi dâ€™amnistie de Pedro SÃ¡nchez, la colÃ¨re se libÃ¨re Ã 
+droite et Ã  lâ€™extrÃªme droite
 
-   24 nov. 2023
-   [117]Libé Matin[118]
+   29 nov. 2023abonnÃ©s
+   BarriÃ¨re
 
-La trêve à Gaza est entrée en vigueur, l'extrême droite sème le chaos à
-Dublin, le Nord en vigilance orange pour vagues-submersion... L'actu de ce
-vendredi matin
+La Finlande ferme totalement sa frontiÃ¨re avec la Russie aprÃ¨s un afflux de
+migrants quâ€™elle dit orchestrÃ© par Moscou
 
-   24 nov. 2023
-   À la une
-   [119]Au fil de la journée[120]
+   29 nov. 2023
+   Ã€ la une
+   EnquÃªte
 
-EN DIRECT - Guerre Hamas-Israël : un nouveau groupe d'otages vient d'être
-remis à la Croix-Rouge
+Dans les coulisses de la HATVP, vigie de la RÃ©publique devenue bÃªte noire des
+politiques
 
-   il y a 9min
-   [121]Bulletin de santé[122]
+   il y a 48minabonnÃ©s
+   Au fil de la journÃ©e
 
-Guerre Hamas-Israël : médecins, psys, vêtements, jouets et médicaments,
-quelle prise en charge pour les otages libérés ?
+EN DIRECT - Guerre Hamas-IsraÃ«l : la branche armÃ©e du mouvement palestinien
+revendique lâ€™attaque Ã  JÃ©rusalem
 
-   il y a 52min
-   [123]Témoignage Libé[124]
+   il y a 22min
+   EnquÃªte
 
-Pascal Hundt, responsable du CICR envoyé vendredi à Gaza : «Les enfants
-otages ne savaient pas où ils étaient»
+Lâ€™armÃ©e israÃ©lienne a bien utilisÃ© du phosphore blanc dans des villages du
+sud du Liban : Â«Je nâ€™arrivais plus Ã  respirerÂ»
 
-   25 nov. 2023abonnés
-   [125]Réjouissances[126]
+   30 nov. 2023abonnÃ©s
+   DÃ©cryptage
 
-«Tu es sûre que c'est notre fils ?» : l'incroyable bonheur des proches des
-Thaïlandais libérés par le Hamas
+Que peut-on attendre de lâ€™Ã©trange COP28 de DubaÃ¯ ?
 
-   25 nov. 2023
+   29 nov. 2023abonnÃ©s
 
 Les plus lus
 
-   Témoignage Libé
-   Pascal Hundt, responsable du CICR envoyé vendredi à Gaza : «Les enfants
-   otages ne savaient pas où ils étaient»
-   Abonnés
-   Echange
-   Qui sont les treize otages israéliens libérés ?
-   CheckNews
-   Que nous apprennent les images des tunnels découverts par Tsahal sous
-   l'hôpital Al-Shifa, et désormais détruits ?
-   L'essentiel
-   Israël a reçu du Hamas une liste d'otages qui devraient être libérés
-   samedi
+   MÃ©dias
+   Â«ComplÃ©ment dâ€™enquÃªteÂ» sur Cyril Hanouna : Â«Câ€™est lâ€™enquÃªte la plus
+   compliquÃ©e de toute ma carriÃ¨reÂ»
+   AbonnÃ©s
+   EnquÃªte
+   Dans lâ€™emprise dâ€™une secte internationale de yoga tantrique : Â«Dire non
+   au gourou nâ€™Ã©tait pas une optionÂ»
+   AbonnÃ©s
+   Disparition
+   Mort de lâ€™eurodÃ©putÃ©e MichÃ¨le Rivasi, la rivale des lobbys
+   AbonnÃ©s
+   Justice
+   ProcÃ¨s du ministre de la Justice Ã  la CJR : Eric Dupond-Moretti relaxÃ©,
+   son avenir dÃ©gagÃ©
+   AbonnÃ©s
 
-   © Libé 2023
+   Â© LibÃ© 2023
 
-   © Libé 2023
+   Â© LibÃ© 2023
 
 Dans l'actu
 
-     * [127]Conflit Hamas-Israël
-     * [128]Guerre en Ukraine
-     * [129]Coupe du monde de rugby
-     * [130]Budget 2024
-     * [131]Réchauffement climatique
-     * [132]La menace de l'extrême droite
-     * [133]Lutte contre les violences sexistes
-     * [134]Inflation
-     * [135]Crise de l'énergie
-     * [136]Intelligence artificielle
-     * [137]Autoroute A69
+     * Conflit Hamas-IsraÃ«l
+     * Guerre en Ukraine
+     * Coupe du monde de rugby
+     * Budget 2024
+     * RÃ©chauffement climatique
+     * La menace de l'extrÃªme droite
+     * Lutte contre les violences sexistes
+     * Inflation
+     * Crise de l'Ã©nergie
+     * Intelligence artificielle
+     * Autoroute A69
 
 Services
 
-     * [138]S'abonner(Opens in new window)
-     * [139]Annonces légales(Opens in new window)
-     * [140]Donnez-nous votre avis(Opens in new window)
-     * [141]Foire aux questions(Opens in new window)
-     * [142]Proposer une tribune(Opens in new window)
-     * [143]Evénements Libé(Opens in new window)
-     * [144]Publicité(Opens in new window)
-     * [145]Cours d'anglais(Opens in new window)
-     * [146]Petites annonces(Opens in new window)
+     * S'abonner(Opens in new window)
+     * Annonces lÃ©gales(Opens in new window)
+     * Donnez-nous votre avis(Opens in new window)
+     * Foire aux questions(Opens in new window)
+     * Proposer une tribune(Opens in new window)
+     * EvÃ©nements LibÃ©(Opens in new window)
+     * PublicitÃ©(Opens in new window)
+     * Cours d'anglais(Opens in new window)
+     * Petites annonces(Opens in new window)
 
-Conditions générales
+Conditions gÃ©nÃ©rales
 
-     * [147]Mentions légales(Opens in new window)
-     * [148]Charte éthique(Opens in new window)
-     * [149]Pacte d'indépendance éditoriale(Opens in new window)
-     * [150]CGVU(Opens in new window)
-     * [151]Protection des données personnelles(Opens in new window)
-     * [152]Gestion des cookies(Opens in new window)
-     * [153]Licence(Opens in new window)
+     * Mentions lÃ©gales(Opens in new window)
+     * Charte Ã©thique(Opens in new window)
+     * Pacte d'indÃ©pendance Ã©ditoriale(Opens in new window)
+     * CGVU(Opens in new window)
+     * Protection des donnÃ©es personnelles(Opens in new window)
+     * Gestion des cookies(Opens in new window)
+     * Licence(Opens in new window)
 
-Où lire Libé?
+OÃ¹ lire LibÃ©?
 
-     * [154]Evénements Libé(Opens in new window)
-     * [155]Les newsletters(Opens in new window)
-     * [156]Présentation de l'application(Opens in new window)
-     * [157]Application sur Android(Opens in new window)
-     * [158]Application sur iPhone / iPad(Opens in new window)
-     * [159]Archives
+     * EvÃ©nements LibÃ©(Opens in new window)
+     * Les newsletters(Opens in new window)
+     * PrÃ©sentation de l'application(Opens in new window)
+     * Application sur Android(Opens in new window)
+     * Application sur iPhone / iPad(Opens in new window)
+     * Archives
 
-   Libération
-
-References
-
-   Visible links:
-   1. https://www.liberation.fr/
-   2. https://www.liberation.fr/politique
-   3. https://www.liberation.fr/politique/elections
-   4. https://www.liberation.fr/tags/extreme-droite/
-   5. https://www.liberation.fr/international
-   6. https://www.liberation.fr/international/europe
-   7. https://www.liberation.fr/international/amerique
-   8. https://www.liberation.fr/international/afrique
-   9. https://www.liberation.fr/international/moyen-orient
-  10. https://www.liberation.fr/international/asie-pacifique
-  11. https://www.liberation.fr/culture
-  12. https://www.liberation.fr/culture/arts
-  13. https://www.liberation.fr/culture/cinema
-  14. https://www.liberation.fr/culture/jeux-video
-  15. https://www.liberation.fr/culture/musique
-  16. https://www.liberation.fr/culture/photographie
-  17. https://www.liberation.fr/culture/livres
-  18. https://www.liberation.fr/culture/bd
-  19. https://www.liberation.fr/tags/romans-policiers-polars-et-thrillers/
-  20. https://www.liberation.fr/culture/scenes
-  21. https://www.liberation.fr/culture/series
-  22. https://www.liberation.fr/idees-et-debats
-  23. https://www.liberation.fr/idees-et-debats/opinions
-  24. https://www.liberation.fr/idees-et-debats/editorial
-  25. https://www.liberation.fr/idees-et-debats/tribunes
-  26. https://www.liberation.fr/societe
-  27. https://www.liberation.fr/societe/police-justice
-  28. https://www.liberation.fr/societe/droits-des-femmes
-  29. https://www.liberation.fr/societe/education
-  30. https://www.liberation.fr/societe/familles
-  31. https://www.liberation.fr/societe/logement
-  32. https://www.liberation.fr/societe/religions
-  33. https://www.liberation.fr/societe/sante
-  34. https://www.liberation.fr/societe/ville
-  35. https://www.liberation.fr/societe/sexualite-et-genres
-  36. https://www.liberation.fr/societe/immigration
-  37. https://www.liberation.fr/environnement
-  38. https://www.liberation.fr/environnement/agriculture
-  39. https://www.liberation.fr/environnement/alimentation
-  40. https://www.liberation.fr/environnement/biodiversite
-  41. https://www.liberation.fr/environnement/climat
-  42. https://www.liberation.fr/environnement/nucleaire
-  43. https://www.liberation.fr/environnement/pollution
-  44. https://www.liberation.fr/economie
-  45. https://www.liberation.fr/economie/medias
-  46. https://www.liberation.fr/economie/social
-  47. https://www.liberation.fr/economie/transports
-  48. https://www.liberation.fr/economie/economie-numerique
-  49. https://www.liberation.fr/lifestyle
-  50. https://www.liberation.fr/lifestyle/beaute
-  51. https://www.liberation.fr/lifestyle/design
-  52. https://www.liberation.fr/lifestyle/gastronomie
-  53. https://www.liberation.fr/lifestyle/hightech
-  54. https://www.liberation.fr/lifestyle/mode
-  55. https://www.liberation.fr/lifestyle/voyages
-  56. https://www.liberation.fr/sports
-  57. https://www.liberation.fr/sports/football
-  58. https://www.liberation.fr/sports/cyclisme
-  59. https://www.liberation.fr/sports/jeux-olympiques
-  60. https://www.liberation.fr/dossier/jo-paris-2024/
-  61. https://www.liberation.fr/sports/tennis
-  62. https://www.liberation.fr/sports/rugby
-  63. https://www.liberation.fr/dossier/coupe-du-monde-de-rugby-2023/
-  64. https://www.liberation.fr/sports/sports-mecaniques
-  65. https://www.liberation.fr/sciences
-  66. https://www.liberation.fr/sciences/archeologie
-  67. https://www.liberation.fr/sciences/biologie
-  68. https://www.liberation.fr/sciences/espace
-  69. https://www.liberation.fr/sciences/histoire
-  70. https://www.liberation.fr/plus
-  71. https://www.liberation.fr/plus/speciaux-cahier-ete
-  72. https://www.liberation.fr/plus/numeros-speciaux
-  73. https://www.liberation.fr/dossier/50-ans-liberation/
-  74. https://www.liberation.fr/50-ans-50-combats/
-  75. https://www.liberation.fr/archives
-  76. https://www.liberation.fr/archives/2023/
-  77. https://www.liberation.fr/archives/2022/
-  78. https://www.liberation.fr/archives/2021/
-  79. https://boutique.liberation.fr/collections/nos-unes-imprimees
-  80. https://boutique.liberation.fr/
-  81. https://aideliberation.crisp.help/fr/
-  82. https://www.liberation.fr/contact/
-  83. https://www.liberation.fr/politique
-  84. https://www.liberation.fr/international
-  85. https://www.liberation.fr/dossier/guerre-hamas-israel/
-  86. https://www.liberation.fr/checknews
-  87. https://www.liberation.fr/culture
-  88. https://www.liberation.fr/idees-et-debats
-  89. https://www.liberation.fr/societe
-  90. https://www.liberation.fr/enquetes/
-  91. https://www.liberation.fr/environnement
-  92. https://www.liberation.fr/economie
-  93. https://www.liberation.fr/lifestyle
-  94. https://www.liberation.fr/portraits
-  95. https://www.liberation.fr/sports
-  96. https://www.liberation.fr/
-  97. https://www.liberation.fr/international/europe/
-  98. https://www.liberation.fr/auteur/christophe-alix/
-  99. https://www.liberation.fr/auteur/jean-christophe-feraud/
- 100. https://www.liberation.fr/tags/emmanuel-macron/
- 101. https://www.liberation.fr/tags/cedric-villani/
- 102. https://www.liberation.fr/tags/google/
- 103. https://www.liberation.fr/tags/facebook/
- 104. https://www.liberation.fr/tags/amazon/
- 105. https://www.liberation.fr/tags/etats-unis/
- 106. https://www.liberation.fr/tags/chine/
- 107. https://www.liberation.fr/tags/racisme/
- 108. https://www.liberation.fr/tags/hopital/
- 109. https://www.liberation.fr/tags/donnees-personnelles/
- 110. https://www.liberation.fr/dossier/voyage-au-coeur-de-l-ia/
- 111. https://www.liberation.fr/international/europe/en-ukraine-kyiv-sous-une-pluie-de-drones-explosifs-russes-20231125_XLLLEFFGMNCVXAY2TWFTCXZO6M/
- 112. https://www.liberation.fr/international/europe/en-ukraine-kyiv-sous-une-pluie-de-drones-explosifs-russes-20231125_XLLLEFFGMNCVXAY2TWFTCXZO6M/
- 113. https://www.liberation.fr/international/europe/cessez-le-feu-et-liberation-dotages-a-gaza-letat-encore-condamne-au-pour-la-pollution-de-lair-le-changement-du-calendrier-scolaire-a-letude-lactu-de-ce-vendredi-24-novembre-20231124_VGC7IJ66PJDNLK5MFCICJCI7WU/
- 114. https://www.liberation.fr/international/europe/cessez-le-feu-et-liberation-dotages-a-gaza-letat-encore-condamne-au-pour-la-pollution-de-lair-le-changement-du-calendrier-scolaire-a-letude-lactu-de-ce-vendredi-24-novembre-20231124_VGC7IJ66PJDNLK5MFCICJCI7WU/
- 115. https://www.liberation.fr/international/europe/a-dublin-lextreme-droite-seme-le-chaos-apres-lattaque-au-couteau-20231124_NJM553L5ZBE23J6TUMK6T6SPS4/
- 116. https://www.liberation.fr/international/europe/a-dublin-lextreme-droite-seme-le-chaos-apres-lattaque-au-couteau-20231124_NJM553L5ZBE23J6TUMK6T6SPS4/
- 117. https://www.liberation.fr/international/europe/la-treve-a-gaza-est-entree-en-vigueur-lextreme-droite-seme-le-chaos-a-dublin-le-nord-en-vigilance-orange-pour-vagues-submersion-lactu-de-ce-vendredi-matin-20231124_KAULWWFU6FA4TOF7BC4X5KB3QQ/
- 118. https://www.liberation.fr/international/europe/la-treve-a-gaza-est-entree-en-vigueur-lextreme-droite-seme-le-chaos-a-dublin-le-nord-en-vigilance-orange-pour-vagues-submersion-lactu-de-ce-vendredi-matin-20231124_KAULWWFU6FA4TOF7BC4X5KB3QQ/
- 119. https://www.liberation.fr/international/moyen-orient/en-direct-guerre-hamas-israel-nouvelles-liberations-dotages-prisonniers-palestiniens-treve-militaire-suivez-toutes-les-informations-de-ce-samedi-25-novembre-20231125_HAOYNPQFLRDV3AKK6KCUJGHDRI/
- 120. https://www.liberation.fr/international/moyen-orient/en-direct-guerre-hamas-israel-nouvelles-liberations-dotages-prisonniers-palestiniens-treve-militaire-suivez-toutes-les-informations-de-ce-samedi-25-novembre-20231125_HAOYNPQFLRDV3AKK6KCUJGHDRI/
- 121. https://www.liberation.fr/international/moyen-orient/guerre-hamas-israel-medecins-psys-vetements-jouets-et-medicaments-quelle-prise-en-charge-pour-les-otages-liberes-20231125_ZDYTTO6BN5A75NCRZK3LN5JAR4/
- 122. https://www.liberation.fr/international/moyen-orient/guerre-hamas-israel-medecins-psys-vetements-jouets-et-medicaments-quelle-prise-en-charge-pour-les-otages-liberes-20231125_ZDYTTO6BN5A75NCRZK3LN5JAR4/
- 123. https://www.liberation.fr/international/moyen-orient/pascal-hundt-responsable-du-cicr-envoye-vendredi-a-gaza-les-enfants-otages-ne-savaient-pas-ou-ils-etaient-20231125_RD3JGMXKMNAZFMXIBSJKVEKL2U/
- 124. https://www.liberation.fr/international/moyen-orient/pascal-hundt-responsable-du-cicr-envoye-vendredi-a-gaza-les-enfants-otages-ne-savaient-pas-ou-ils-etaient-20231125_RD3JGMXKMNAZFMXIBSJKVEKL2U/
- 125. https://www.liberation.fr/international/moyen-orient/tu-es-sure-que-cest-notre-fils-lincroyable-bonheur-des-proches-des-thailandais-liberes-par-le-hamas-20231125_6423Y67D2BGCTLZI2VHQEDRBAE/
- 126. https://www.liberation.fr/international/moyen-orient/tu-es-sure-que-cest-notre-fils-lincroyable-bonheur-des-proches-des-thailandais-liberes-par-le-hamas-20231125_6423Y67D2BGCTLZI2VHQEDRBAE/
- 127. https://www.liberation.fr/dossier/guerre-hamas-israel/
- 128. https://www.liberation.fr/dossier/ukraine-la-crise/
- 129. https://www.liberation.fr/dossier/coupe-du-monde-de-rugby-2023/
- 130. https://www.liberation.fr/economie/
- 131. https://www.liberation.fr/tags/rechauffement-climatique/
- 132. https://www.liberation.fr/tags/extreme-droite/
- 133. https://www.liberation.fr/dossier/violences-sexuelles/
- 134. https://www.liberation.fr/tags/inflation/
- 135. https://www.liberation.fr/tags/energie/
- 136. https://www.liberation.fr/dossier/voyage-au-coeur-de-l-ia/
- 137. https://www.liberation.fr/tags/autoroute-a69/
- 138. https://abo.liberation.fr/
- 139. https://annonces-legales.liberation.fr/
- 140. https://libe-etudes.typeform.com/to/LZ9iwHae/
- 141. https://aideliberation.crisp.help/fr/
- 142. https://www.liberation.fr/proposer-une-tribune/
- 143. https://offre.liberation.fr/evenements/
- 144. https://libeplus.fr/
- 145. https://cours-anglais.liberation.fr/
- 146. https://petites-annonces.liberation.fr/
- 147. https://www.liberation.fr/mentions-legales/
- 148. https://www.liberation.fr/charte-ethique/
- 149. https://www.liberation.fr/pacte-independance-editoriale/
- 150. https://www.liberation.fr/cgvu/
- 151. https://www.liberation.fr/protection-des-donnees-personnelles/
- 152. https://www.liberation.fr/gestions-des-cookies/
- 153. https://www.liberation.fr/licence/
- 154. https://offre.liberation.fr/evenements/
- 155. https://www.liberation.fr/newsletters/
- 156. https://www.liberation.fr/application-mobile/
- 157. https://play.google.com/store/apps/details?id=com.visuamobile.liberation&hl=fr&gl=US
- 158. https://apps.apple.com/fr/app/lib%C3%A9ration-toute-lactualit%C3%A9/id336173383/
- 159. https://www.liberation.fr/archives/
-
-   Hidden links:
- 161. https://journal.liberation.fr/
- 162. https://connexion.liberation.fr/
- 163. https://abo.liberation.fr/?origin=AUTO1M1E&xtatc=INT-21-%5B1mois_1euro%5D
- 164. https://connexion.liberation.fr/
- 165. https://www.liberation.fr/fil-info
- 166. https://abo.liberation.fr/?origin=AUTOPROMO&xtatc=INT-21-[1mois_1euro]
- 167. https://www.liberation.fr/
- 168. https://www.liberation.fr/checknews
- 169. https://www.liberation.fr/enquetes/
- 170. https://www.liberation.fr/en-images/
- 171. https://www.liberation.fr/portraits
- 172. https://journal.liberation.fr/
- 173. https://www.liberation.fr/forums
- 174. https://boutique.liberation.fr/
- 175. https://offre.liberation.fr/evenements/
- 176. https://www.liberation.fr/newsletters/
- 177. https://libe-etudes.typeform.com/to/zV3vp4Hu?typeform-source=www.liberation.fr#source=menu
- 178. https://petites-annonces.liberation.fr/
- 179. https://annonces-legales.liberation.fr/
- 180. https://boutique.liberation.fr/
- 181. https://www.liberation.fr/newsletters/
- 182. https://app.adjust.com/lxb2wgn
- 183. https://app.adjust.com/qm95dhd
- 184. https://www.facebook.com/Liberation/
- 185. https://twitter.com/libe
- 186. https://www.instagram.com/liberationfr/
- 187. https://www.linkedin.com/company/lib%C3%A9ration/
- 188. https://www.youtube.com/c/liberation
- 189. https://www.liberation.fr/international/moyen-orient/en-direct-guerre-hamas-israel-nouvelles-liberations-dotages-prisonniers-palestiniens-treve-militaire-suivez-toutes-les-informations-de-ce-samedi-25-novembre-20231125_HAOYNPQFLRDV3AKK6KCUJGHDRI/
- 190. https://www.liberation.fr/international/moyen-orient/pascal-hundt-responsable-du-cicr-envoye-vendredi-a-gaza-les-enfants-otages-ne-savaient-pas-ou-ils-etaient-20231125_RD3JGMXKMNAZFMXIBSJKVEKL2U/
- 191. https://www.liberation.fr/international/moyen-orient/qui-sont-les-treize-otages-israeliens-liberes-20231124_IGFIWUOIAREF3GOGGGQJMRHEVI/
- 192. https://www.liberation.fr/checknews/que-nous-apprennent-les-images-des-tunnels-decouverts-par-tsahal-sous-lhopital-al-shifa-et-desormais-detruits-20231124_PRXV5N76L5G77M7QI5TXQZGRAY/
- 193. https://www.liberation.fr/international/moyen-orient/en-direct-guerre-hamas-israel-la-treve-dans-les-combats-est-entree-en-vigueur-une-premiere-liberation-dotages-prevue-a-15-heures-20231124_JP2XR2MRRBBYXKO66MINOHJTTY/
- 194. https://www.facebook.com/Liberation/
- 195. https://twitter.com/libe
- 196. https://www.liberation.fr/liste-flux-rss/
+   LibÃ©ration

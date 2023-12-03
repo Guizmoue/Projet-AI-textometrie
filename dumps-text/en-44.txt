@@ -1,0 +1,519 @@
+   Skip to main content
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-TTNXHQDD
+
+Social and sign up
+
+     * Follow
+     * E-news Sign-up
+
+User account menu
+
+     * Log in
+     * Search
+
+   Go to the home page
+   IET logo
+
+Main navigation
+
+     * Home
+     * News
+     * Topics
+     * E+T Magazine
+     * Resources
+          + Webinars
+          + Whitepapers
+          + Videos
+     * Jobs
+
+   Quick links:
+     * Home
+     * Categories
+     * Article Types
+     * News
+
+   Artificial Intelligence
+   Government And Politics
+   Legislation And Regulation
+
+US, UK and 16 other countries sign AI security agreement
+
+   Open-access content Beatriz Valero de Urquía — Tue 28 Nov 2023
+   Artificial intelligence concept - Credit: iStock
+
+   iStock
+
+   The UK has unveiled the world’s first global guidelines for making
+   artificial intelligence (AI) tools ‘secure by design’.
+
+   The US, Singapore, Australia, Chile, Germany, Israel and Japan were
+   among the 18 nations that have signed a non-binding public agreement
+   that aims to secure AI systems against cyber attacks.
+
+   The document has been developed by the UK’s National Cyber Security
+   Centre (NCSC) and the US Cybersecurity and Infrastructure Security
+   Agency (CISA), and endorsed by all G7 members. It was launched in an
+   event in London, attended by more than 100 industry, government and
+   international partners such as Microsoft, the Alan Turing Institute,
+   and cyber agencies from the US, Canada, Germany and the UK.
+
+   The guidelines set a ‘secure by design approach’, advising developers
+   and organisations on the best practices for incorporating cyber
+   security at every stage of the development process of AI algorithms.
+   They focus on four key areas: secure design, secure development, secure
+   deployment, and secure operation and maintenance.
+
+   “Security is not a postscript to development but a core requirement
+   throughout,” NCSC CEO Lindy Cameron said at the launch.
+
+   The guidelines include advice such as the need to model threats to a
+   company’s system, accounting for the growing dangers that come with
+   growth, and the threat of future technological developments such as
+   automated attacks. In addition, the document covers supply chain
+   security, maintaining robust documentation, protecting assets and
+   managing technical debt.
+
+   When it comes to secure development, the plan advises that developers
+   ensure the protection of the infrastructure used to support an AI
+   system, including access controls for APIs, models and data. Moreover,
+   models should be released “responsibly” – only when they have been
+   subjected to thorough security assessments and making the most secure
+   configuration the default for all users.
+
+   The final section covers how to secure AI systems after they've been
+   deployed, noting that companies continuously monitor systems, and the
+   data that is entered into them, for signs of misuse.
+
+   However, the guidelines do not address other concerns regarding the use
+   of AI-generated content or the data chosen for its training.
+
+   US secretary of homeland security Alejandro Mayorkas said: “We are at
+   an inflection point in the development of AI, which may well be the
+   most consequential technology of our time. Cyber security is key to
+   building AI systems that are safe, secure, and trustworthy.
+
+   “The guidelines jointly issued today by CISA, NCSC and our other
+   international partners provide a common-sense path to designing,
+   developing, deploying and operating AI with cyber security at its
+   core.”
+
+   The agreement is the latest in a series of initiatives – most of which
+   provide general advice – pushed by governments around the world to
+   ensure the ethical development of AI technologies. It follows US
+   President Joe Biden’s signing of an executive order that would require
+   AI developers to share the results of safety tests with the US
+   government before they are released to the public. The order also
+   directs agencies to set standards for that testing and address related
+   chemical, biological, radiological, nuclear and cyber-security risks.
+
+   The Biden administration has been very vocal about its concerns over
+   the rapid development of generative AI, and even unveiled a new AI Bill
+   of Rights, which outlines five protections internet users should have
+   in the AI age.
+
+   The US and the UK were among the signatories of the Bletchley
+   Declaration, described as a “landmark achievement” that signals a
+   starting point in the conversations around the risks of AI
+   technologies. The document has also been signed by representatives from
+   the European Union and 28 countries, including China.
+
+   UK science and technology secretary Michelle Donelan positioned the new
+   guidelines as cementing the UK’s role as “an international standard
+   bearer on the safe use of AI”.
+
+   “Just weeks after we brought world leaders together at Bletchley Park
+   to reach the first international agreement on safe and responsible AI,
+   we are once again uniting nations and companies in this truly global
+   effort,” she added.
+
+   Last month, Prime Minister Rishi Sunak revealed the UK will launch an
+   AI safety institute, following a similar announcement from the US.
+     * Biden issues AI executive order to guard against the technology’s
+       dangers
+     * Sam Altman returns to OpenAI days after being fired
+     * Countries sign ‘world first’ AI declaration at Bletchley Park
+       summit
+
+You may also be interested in...
+
+   Books - Credit: Shutterstock Billion Photos
+
+ Authors and publishers call for regulations to stop AI using copyrighted
+works
+
+   Tue 31 Oct 2023
+   Artificial intelligence (AI) systems are using copyright-protected
+   works “with impunity”, say publishing trade bodies, which are urging
+   the government to act.
+   Open-access content
+   The Chancellor of the Exchequer leaves Downing St - Credit: Simon
+   Walker / No 10 Downing Street is licensed under CC BY-NC-ND 2.0 DEED
+
+ The Autumn Statement: All the engineering and tech announcements
+
+   Thu 23 Nov 2023
+   Reforms designed to speed up energy grid connections and public
+   investment in the manufacturing and space sectors have been announced
+   by Chancellor Jeremy Hunt in his Autumn Statement.
+   Open-access content
+   Sam Bankman-Fried - Credit: Shutterstock
+
+ FTX’s Sam Bankman-Fried found guilty of fraud and money laundering
+
+   Fri 3 Nov 2023
+   The founder of one of the largest cryptocurrency exchanges in the
+   world, who “thought that he was above the law”, defrauded clients out
+   of billions of dollars.
+   Open-access content
+   A movie by AI now showing - Credit: Shutterstock
+
+ Would you watch a movie written by an algorithm?
+
+   Thu 23 Nov 2023
+   Artificial intelligence has arrived on set, prompting writers to debate
+   whether algorithms could (or should) create art
+   Members'-only content
+   semiconductor - Credit: Shutterstock
+
+ Microsoft launches custom AI silicon chips
+
+   Thu 16 Nov 2023
+   Microsoft has unveiled the Azure Maia 100 and Cobalt 100 – the first
+   two custom silicon chips designed by the company in a bid to reduce
+   reliance on Nvidia.
+   Open-access content
+   Two people pointing at a screen with weather forecast - Credit:
+   Shutterstock
+
+ DeepMind’s AI accurately forecasts weather in under a minute
+
+   Wed 15 Nov 2023
+   The artificial intelligence (AI) tool predicted that Hurricane Lee
+   would land in Nova Scotia nine days before it happened – three days
+   earlier than traditional methods.
+   Open-access content
+   University of Edinburgh, Scotland - Credit: Pexels
+
+ University of Edinburgh launches generative AI laboratory
+
+   Mon 13 Nov 2023
+   A research and innovation laboratory at the university will attempt to
+   develop safe artificial intelligence (AI) solutions and systems.
+   Open-access content
+   TikTok logo on phone screen - Credit: Dreamstime
+
+ Nepal bans TikTok, accusing the app of ‘disrupting social harmony’
+
+   Fri 17 Nov 2023
+   The government of Nepal has decided to ban the popular social media app
+   TikTok.
+   Open-access content
+
+More from Artificial Intelligence
+
+   Amazon logo - Credit: iStock
+
+ Amazon to launch AI chip and chatbot named Q
+
+   Wed 29 Nov 2023
+   Amazon has become the latest company to bet on generative artificial
+   intelligence (AI) solutions, announcing the launch of a new AI chatbot
+   as well as chips for AI solutions.
+   Open-access content
+   Children using computers - Credit: iStock
+
+ Children aged 11 should be taught AI lessons at schools, experts say
+
+   Wed 29 Nov 2023
+   Schools should require 11-year-olds to obtain a new alternative digital
+   literacy qualification with an emphasis on AI and other modern digital
+   skills, the British Computer Society has said.
+   Open-access content
+   What did Doctor Who foretell - Credit: BBC-Archive
+
+ Heroes and villains – what did Doctor Who foretell?
+
+   Thu 23 Nov 2023
+   It was 60 years ago that Doctor Who first came to our screens,
+   introducing a host of aliens with bizarre and advanced technology. But
+   was this technology as outlandish as it first seemed – and since those
+   early episodes, are we now catching up with science fiction?
+   Members'-only content
+   Smartphone with AI apps - Credit: iStock
+
+ OpenAI creates a team to assess the dangers of generative AI
+
+   Fri 27 Oct 2023
+   The company behind ChatGPT will evaluate the possible “catastrophic
+   risks” that could come with the unchecked development of the
+   technology.
+   Open-access content
+
+More from Government And Politics
+
+   Dirt field green field (Image credit: Elizabeth Lies | Unsplash)
+
+ COP28 launches with historic ‘loss and damage’ deal
+
+   Thu 30 Nov 2023
+   The world’s nations have agreed to set up a fund to compensate
+   developing countries that have suffered from the impacts of climate
+   change.
+   Open-access content
+   green steel (Image credit: JAN LINDBLAD JR)
+
+ UK must invest in green steel and protect its industry, ministers warned
+
+   Thu 29 Jun 2023
+
+   The government needs to step up and invest in green steel or risk the
+   UK industry’s collapse, ministers have been warned.
+   Open-access content
+   Houses (Image credit: Dreamstime)
+
+ Labour will take difficult choices on home-building, shadow housing
+secretary says
+
+   Wed 28 Jun 2023
+
+   A Labour government will make the “difficult choices” when it comes to
+   building more homes, said shadow housing secretary Lisa Nandy, as she
+   accused ministers of being “afraid of the taboo” of the green belt.
+   Open-access content
+
+ Less than a fifth of Leave voters believe Brexit has ‘gone well’
+
+   Thu 22 Jun 2023
+
+   Less than one-fifth of Brexit voters believe it has been a success
+   seven years on from the 2016 referendum, according to new polling.
+   Open-access content
+
+More from Legislation And Regulation
+
+   European Union headquarters - Credit: iStock
+
+ EU agrees on new hydrogen regulation
+
+   Wed 29 Nov 2023
+   The Council of the EU and the European Parliament have reached a
+   provisional agreement on future hydrogen and natural gas market rules.
+   Open-access content
+   steel factory - Credit: iStock - Betoon
+
+ Steel industry urges government to cut electricity prices to stay
+competitive
+
+   Thu 16 Nov 2023
+   The government has been urged to reduce industrial electricity prices
+   or risk the UK’s steel sector becoming uncompetitive with European
+   manufacturers.
+   Open-access content
+   Female scientists holding a test tube against a UK flag - Credit:
+   Shutterstock
+
+ UK to loosen restrictions to register new chemical products
+
+   Tue 14 Nov 2023
+   The government’s post-Brexit chemical regulations are expected to
+   reduce the “hazard” information that companies must provide to register
+   chemicals in the UK.
+   Open-access content
+   Outline of a young girl with a compute - Credit: Foto 40163043 © Wallky
+   | Dreamstime.com
+
+ Ofcom unveils new rules to protect children online
+
+   Thu 9 Nov 2023
+   The government has issued the first draft codes of practice under the
+   controversial Online Safety Act (OSA), which became law last month.
+   Open-access content
+
+More from Beatriz Valero de Urquía
+
+   Dirt field green field (Image credit: Elizabeth Lies | Unsplash)
+
+ COP28 launches with historic ‘loss and damage’ deal
+
+   Thu 30 Nov 2023
+   The world’s nations have agreed to set up a fund to compensate
+   developing countries that have suffered from the impacts of climate
+   change.
+   Open-access content
+   Phone with logos of Big Tech companies - Credit: Shutterstock
+
+ UK partners with Big Tech to tackle online fraud
+
+   Thu 30 Nov 2023
+   The UK has announced it will join forces with 11 Big Tech companies to
+   crack down on online fraud.
+   Open-access content
+   European Union headquarters - Credit: iStock
+
+ EU agrees on new hydrogen regulation
+
+   Wed 29 Nov 2023
+   The Council of the EU and the European Parliament have reached a
+   provisional agreement on future hydrogen and natural gas market rules.
+   Open-access content
+   multiple rows of solar panels in a desert - Credit: Dreamstime
+
+ UAE opens giant solar plant in Abu Dhabi desert
+
+   Fri 17 Nov 2023
+   Abu Dhabi has inaugurated one of the world’s largest solar projects
+   ahead of the COP28 climate conference, which will be hosted by the UAE.
+   Open-access content
+
+More from News
+
+   Dirt field green field (Image credit: Elizabeth Lies | Unsplash)
+
+ COP28 launches with historic ‘loss and damage’ deal
+
+   Thu 30 Nov 2023
+   The world’s nations have agreed to set up a fund to compensate
+   developing countries that have suffered from the impacts of climate
+   change.
+   Open-access content
+   Phone with logos of Big Tech companies - Credit: Shutterstock
+
+ UK partners with Big Tech to tackle online fraud
+
+   Thu 30 Nov 2023
+   The UK has announced it will join forces with 11 Big Tech companies to
+   crack down on online fraud.
+   Open-access content
+   Amazon logo - Credit: iStock
+
+ Amazon to launch AI chip and chatbot named Q
+
+   Wed 29 Nov 2023
+   Amazon has become the latest company to bet on generative artificial
+   intelligence (AI) solutions, announcing the launch of a new AI chatbot
+   as well as chips for AI solutions.
+   Open-access content
+   London skyline - Credit: iStock
+
+ Finance sector net zero plans could be stalled by UK’s ‘mixed messages’, MPs
+warn
+
+   Wed 29 Nov 2023
+   The government’s “mixed messages” on climate change could delay efforts
+   by the financial sector to meet net zero carbon goals, MPs on the
+   Environmental Audit Committee (EAC) have said.
+   Open-access content
+
+   View the discussion thread.
+
+Join today
+
+    In print
+   current IET magazine cover - Uncredited
+
+For IET members only
+
+Apply online today!
+
+   Become a member
+   For more information, please follow this link.
+
+    E-newsletters
+   IET current newsletter.png - Uncredited
+
+Straight into your inbox
+
+Signing up to receive E+T News made easy!
+
+   Sign up
+   For more information, please follow this link.
+   Go to the home page
+
+   About us
+
+   Newsletters
+
+   Contact us
+
+   Advertise with us
+
+   E+T Jobs
+
+   Facebook
+
+   Instagram
+
+   X (Twitter)
+
+   YouTube
+
+   Accessibility policy
+
+   Anti-slavery policy
+
+   Cookies
+
+   Privacy policy
+   IET logo
+
+   © 2023 The Institution of Engineering and Technology.
+
+   The Institution of Engineering and Technology is registered as a
+   Charity in England & Wales (no 211014) and Scotland (no SC038698).
+     * Built Environment
+     * Civil Engineering
+     * Computing & Comms Technology
+     * Design & Manufacturing
+     * Electrical Engineering & Electronics
+     * Energy
+     * Environment
+     * Government & Politics
+     * Healthcare Technologies
+     * Leadership & Management
+     * Transport
+     * Other Things...
+
+   (BUTTON) Close
+   (BUTTON) Close
+
+Follow us on social
+
+   For the latest updates and more
+     *   facebook
+     *   twitter
+     *   instagram
+     *   youtube
+
+   No description provided - Uncredited
+     * Whatsapp
+     * Twitter
+     * Facebook
+     * Linked in
+
+Mobile Social and sign up
+
+     * Follow
+     * E-news Sign-up
+
+Mobile User account menu
+
+     * Log in
+     * Search
+
+   IET logo
+     * Whatsapp
+     * Twitter
+     * Facebook
+     * Linked in
+     * Mail
+
+Social and sign up
+
+     * Follow
+     * E-news Sign-up
+
+User account menu
+
+     * Log in
+     * Search

@@ -1,0 +1,183 @@
+   #RSS 2.0 RSS .92 Atom 0.3
+
+   PYMNTS.com » Feed PYMNTS.com » Comments Feed PYMNTS.com » Banks Harness
+   AI as Weapon Against Rising Tide of Tech-Fueled Fraud Comments Feed
+   alternate alternate alternate PYMNTS.com » JSON Feed PYMNTS.com » Banks
+   Harness AI as Weapon Against Rising Tide of Tech-Fueled Fraud Comments
+   Feed
+
+   PYMNTS Black Friday 2023 Report November 2023 Banner
+
+   PYMNTS Logo
+   ____________________ (BUTTON)
+   WATCH NOW | SUBSCRIBE
+   (BUTTON)
+
+     * ____________________ (BUTTON) Search
+     *  PYMNTS TV
+     * Today
+     * B2B
+     * Retail
+     * Fintech
+     * Digital Transformation
+     * Crypto
+     * EMEA
+     * Tracker^® Reports
+     * PYMNTS^® Data
+     * Markets
+     * More
+
+Topics
+          + Artifical Intelligence
+          + Connected Car
+          + Buy Now Pay Later
+          + Banking
+          + Cloud
+          + Cross-Border Payments
+          + Gig-Economy
+          + Grocery & Pharmacy
+          + Healthcare Payments
+          + Insurtech
+          + Small & Medium Businesses
+          + Social Platforms
+          + Subscription Commerce
+          + Travel
+          + TechREG^®
+          + Real-Time Payments
+          + Restaurants
+          + More Topics
+
+Featured
+          + SEE ALSO:
+          + Editor’s Picks
+          + Opinion
+          + CE100 Index
+          + Working Capital & Liquidity
+          + Competition Policy International
+            A PYMNTS Company
+
+Stay Current
+          +  Subscribe
+          +  Become a Partner
+
+Banks Harness AI as Weapon Against Rising Tide of Tech-Fueled Fraud
+
+   By PYMNTS  |  November 28, 2023
+    |  (Play) (Play) (BUTTON)
+   Banks Harness AI as Weapon Against Rising Tech-Fueled Fraud
+
+   For banks, artificial intelligence is both foe and friend in the
+   eternal battle against fraud.
+
+   Foe because the bad actors are harnessing advanced technologies to
+   forge new paths toward scamming financial institutions and their
+   customers. Now, synthetic IDs, especially, are proving to be popular
+   attack vectors and harder to guard against.
+
+   Friend, because, as the adage goes, one can fight fire with fire. Banks
+   can use AI, too, to detect and thwart fraud, often in real time.
+
+   As joint research from PYMNTS Intelligence and Hawk AI revealed in the
+   report “The State of Fraud and Financial Crime in the U.S.,” headed
+   into the end of 2023, 43% of FIs have experienced increased fraud as
+   compared to 2022. The average cost of fraud for FIs with assets of $5
+   billion or more also increased by 65%, from $2.3 million in 2022 to
+   $3.8 million in 2023.
+
+The Attacks
+
+   AI enables scammers to essentially cobble together identities — as
+   customers, vendors, friends and family members through voice, text and
+   collecting data online — to defraud banking clients and the FIs
+   themselves. Images and audio only augment the scams, where a call or
+   text can fake distress to lure victims into sending details or
+   payments. Scouring the internet for these disparate data points is now
+   easier than ever, phishing messages can be deployed at scale, and the
+   fact that so much of daily life has pivoted to online channels makes it
+   easier to, as they say, hit and run.
+
+   As businesses continue to lean more heavily on their use of digital B2B
+   channels, especially ones for payments, the recurring dual narrative of
+   convenience and vulnerability highlights a challenge of digital
+   transformation: navigating innovation while mitigating potentially
+   costly risk.
+
+   Other data points reinforce the pervasiveness of fraud. The FBI
+   reported that business email compromise scams represented about $50
+   billion in losses from 2013 to 2022 on a global scale. In the U.S.
+   alone, that tally comes to $17 billion during the same time frame.
+
+   PYMNTS Intelligence found that as many as 12% of fraudulent
+   transactions come from scams in which the criminals impersonate bank
+   tech support personnel. Another common method is to impersonate
+   officials at the IRS. As PYMNTS referenced in a separate report, 47% of
+   retail banking consumers under the age of 40 experienced some form of
+   banking fraud this year.
+
+   Fraud fighting technologies
+
+Building the Defenses
+
+   On the other side of the equation, PYMNTS Intelligence and Hawk AI
+   found that advanced machine learning and AI technologies can help build
+   robust defenses against schemes. These high-tech tools can identify
+   anomalies in authorized user profiles and block bad actors before they
+   even reach their targets. Fifty-six percent of FIs with more than $5
+   million in assets reported plans to initiate or increase their use of
+   ML and AI to improve existing fraud solutions. That’s a jump from the
+   36% seen a year ago.
+
+   For all PYMNTS AI coverage, subscribe to the daily AI Newsletter.
+
+Recommended
+
+   Banks Harness AI as Weapon Against Rising Tide of Tech-Fueled Fraud
+   IMF, World Bank and BIS Collaborating on Uses of Tokenization
+   FTC Issues $3 Million in Refunds for Leads Sold by HomeAdvisor
+   58% of Consumers Consider Convenience When Applying for Credit Products
+   See More In: artificial intelligence, B2B, B2B Payments, banking,
+   Banks, commercial payments, Cybersecurity, digital identity, digital
+   transformation, fraud, Hackers, News, PYMNTS Intelligence, PYMNTS News,
+   PYMNTS Study, scams, Security, Technology
+
+Trending News
+
+   Lack of Split-Pay Option May Cost Merchants 22% of Customers
+   Money Transfer Service Zepz Cuts 2% of Staff
+   Swift Launches Cross-Border Instant Payments
+
+The Big Story
+
+   This AI Pioneer Says the Tech’s Best Applications Are in Payments
+   The Clearing House Real-TIme Payments Tracker October 2023
+
+Featured News
+
+   Cross-Border Payments Complexities Force Focus on 'Customer
+   Experience,' Says Citi
+   Platform Basics Rule the Road, Says RVshare CEO
+   The Year That Led to Farfetch’s Earnings Call No-Show
+   More Men Than Women Order Groceries Online
+   Peacock Pins Subscription Hopes on Instacart Partnership
+   Q3 GDP Is Strong but Real Disposable Income Lags Spending Growth
+   42% of Consumers With Retail Subscriptions Shop Less Often at Physical
+   Stores
+
+Subscribe
+
+   ____________________
+   [ ] PYMNTS Today
+   [ ] Artificial Intelligence
+   [ ] Cryptocurrency
+   [ ] B2B
+   [ ] Retail
+   [ ] TechREG®
+   [ ] Digital Transformation
+   (BUTTON) SUBSCRIBE (BUTTON)
+   Loading...
+
+Partner with PYMNTS
+
+   We’re always on the lookout for opportunities to partner with
+   innovators and disruptors.
+   Learn More

@@ -1,0 +1,179 @@
+   #Will Artificial Intelligence Bring About The End Of Smartphone Apps? -
+   RSS
+
+   Subscribe to newsletters
+   Subscribe: $29.99/year
+   (BUTTON) Sign In
+   (BUTTON)
+   BETA
+   This is a BETA experience. You may opt-out by clicking here
+
+More From Forbes
+
+   Nov 27, 2023,08:36am EST
+   How Ally Financial Is Delivering Business Value From Generative AI
+   Nov 20, 2023,10:45am EST
+   Quantum Artificial Intelligence Is Closer Than You Think
+   Nov 20, 2023,09:00am EST
+   Clorox Scapegoats Cyber Chief, Rewards Board After Crisis
+   Nov 16, 2023,03:06pm EST
+   AI Ethics Essentials: Lawsuit Over AI Denial of Healthcare
+   Nov 7, 2023,03:12pm EST
+   XREA And Information Services In The AI Age
+   Nov 7, 2023,02:59pm EST
+   How Should Corporate Boards Be Thinking About Generative AI?
+   Nov 6, 2023,10:46pm EST
+   AI In Healthcare: Four Key Directives From The Biden Administration
+   (BUTTON) (BUTTON)
+
+   Edit Story
+   ForbesLeadershipCIO Network
+
+Will Artificial Intelligence Bring About The End Of Smartphone Apps?
+
+   Jonathan Reichental, PhD
+   Contributor
+   Opinions expressed by Forbes Contributors are their own.
+   I write about the role of technology in business and society.
+   Following
+   Click to save this article.
+   You'll be asked to sign into your Forbes account.
+   Got it
+   Nov 25, 2023,03:20pm EST
+     * Share to Facebook
+     * Share to Twitter
+     * Share to Linkedin
+
+   Is it game-over for apps?
+   getty
+
+   When Steve Jobs announced the first iPhone in 2007, accelerating the
+   smartphone revolution, the game changing device shipped with just a
+   small set of Apple-produced apps. There was no software development kit
+   (SDK) for third parties to develop apps yet and obviously no app store
+   too. All that changed in early 2008 when the floodgates for app
+   development were opened.
+
+   Since then millions of smartphone apps have been built both for the
+   iPhone and Android devices and their impact on society has been nothing
+   short of revolutionary.
+
+   But could the app economy be coming to an end?
+
+   The recent explosion of innovation in artificial intelligence (AI) and
+   particularly generative AI suggests that the potential conditions for a
+   post-app era might be ahead. It could usher in completely new ways to
+   engage with our devices and for enterprises to deliver products and
+   services.
+
+   The idea that the days of apps are numbered is not a new topic. In
+   fact, for over a decade, observers have been suggesting that an app — a
+   standalone software application on a screen of icons that must be
+   located, opened, and engaged with — isn’t the most optimum experience.
+
+   Today, some features on a smartphone don’t require these kinds of
+   actions. You can read—and if necessary—respond to a pushed
+   notification, thus avoiding the app altogether. Security can be managed
+   by the device simply looking at your face. Siri and Android’s Google
+   Assistant use voice commands to locate and produce results such as
+   driving directions and playing music.
+   MORE FROMFORBES ADVISOR
+
+Best High-Yield Savings Accounts Of September 2023
+
+   By
+   Kevin Payne
+   Contributor
+
+Best 5% Interest Savings Accounts of September 2023
+
+   By
+   Cassidy Horton
+   Contributor
+
+   Smartwatches, which provide many non-app capabilities haven’t displaced
+   the ubiquity of apps, although their remarkable popularity provides an
+   obvious hint that users are open to new ways of engaging with
+   technology.
+
+   Despite these innovations, use of apps continues to be the dominant
+   interface between users and their mobile devices.
+
+   Smartphones are massively popular, with over six billion in use across
+   the world. When using their mobile devices, American’s spend 88 percent
+   of their time using apps. Games make up a large portion of that
+   percentage, followed by business, education, and lifestyle uses.
+
+   Apps have changed how we consume information and entertainment, buy
+   things, and even how we find a date. For enterprises, apps provide a
+   whole new channel for business. A company without at least one app is
+   an outlier today and it may be an omission that is costing it real
+   dollars in lost opportunity.
+
+   How is it conceivable that the dominance of standalone, installed apps
+   could be toppled from their leading position? One central answer comes
+   down to whether there is a superior alternative.
+
+   Smartphones and apps have consolidated popular needs into a single
+   interface. The list is large and includes common capabilities such as
+   getting directions, paying for things, playing games, consuming
+   information, taking pictures, recording video, and a lot more. There’s
+   no doubt this transition has been game changing. Pick up your phone,
+   locate or download an app, and you’re in business.
+
+   But what if you didn’t need to locate an app and instead your needs
+   were simply met by a voice command, or better yet, your device learned
+   about you and anticipated your needs, taking care of them for you?
+
+   All of a sudden, apps might seem overly burdensome. With a device this
+   smart, there would be no need to think about which app to use, locate
+   and open it on a device, learn and remember how to use it, and then run
+   through its many steps. In this way, a notable layer of overhead would
+   be removed. Technology would melt into the background and become
+   largely invisible.
+
+   What I’m describing is a post-app world that is driven by increasingly
+   capable AI. It’s a future where devices become a connection to your own
+   personal assistant.
+
+   Bill Gates, former CEO of Microsoft, has been writing about the future
+   of software and the notion of software-enabled personal assistants,
+   what he calls agents, for over 30 years. It’s only now that we’ve
+   reached the enabling technology though advances in AI, that his
+   predictions are beginning to be realized. In his words, “You won’t have
+   to use different apps for different tasks. You’ll simply tell your
+   device, in everyday language, what you want to do. And depending on how
+   much information you choose to share with it, the software will be able
+   to respond personally because it will have a rich understanding of your
+   life.”
+
+   In a post-app world, even smartphones may be redundant. Humane, a San
+   Francisco-based startup, have developed the Ai Pin. It’s a small
+   wearable device worn like a lapel pin, a little bigger than an Apple
+   Airpods charging case, that responds to voice and hand gestures. It has
+   no screen but can project text and images onto a person’s hand. The
+   developers maintain it has all the features of a smartphone but without
+   the screen. The Ai Pin provides us with a glimpse of what’s next and
+   the possibilities of a completely new marketplace.
+
+   There’s no question that what I’m positing here is disruptive. We live
+   in a world of millions of apps and app developers that generate
+   billions of dollars each year. A post-app, or software agent world will
+   drive enormous and often uncomfortable change in such a large and
+   complex industry. It will also require organizations to rethink and
+   reinvent how they engage with customers. But as one age leads to
+   another, more opportunities and innovation could abound.
+
+   There’s a long way to go to fully realize this future, but when it
+   happens, everything about how we interact with computers and the world
+   will change.
+   Follow me on Twitter or LinkedIn. Check out my website or some of my
+   other work here.
+   Jonathan Reichental, PhD
+   Jonathan Reichental, PhD
+
+     * Editorial Standards
+     * Print
+     * Reprints & Permissions
+
+   ____________________ (BUTTON)

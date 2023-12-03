@@ -1,0 +1,368 @@
+   [p?c1=2&c2=6035250&cv=2.0&cj=1&cs_ucfr=0&comscorekw=OpenAI%2CTechnology
+   %2CArtificial+intelligence+%28AI%29] Skip to main contentSkip to
+   navigationSkip to navigation
+
+   Print subscriptions
+   Sign in
+   Search jobs
+   Search
+   Europe edition [ ]
+     * Europe edition
+     * UK edition
+     * US edition
+     * Australia edition
+     * International edition
+
+   The Guardian - Back to homeThe Guardian
+   [ ]
+     * News
+     * Opinion
+     * Sport
+     * Culture
+     * Lifestyle
+
+   ShowMoreShow More
+     * [ ] News
+          + View all News
+          + World news
+          + UK news
+          + Climate crisis
+          + Ukraine
+          + Environment
+          + Science
+          + Global development
+          + Football
+          + Tech
+          + Business
+          + Obituaries
+     * [ ] Opinion
+          + View all Opinion
+          + The Guardian view
+          + Columnists
+          + Cartoons
+          + Opinion videos
+          + Letters
+     * [ ] Sport
+          + View all Sport
+          + Football
+          + Cricket
+          + Rugby union
+          + Tennis
+          + Cycling
+          + F1
+          + Golf
+          + US sports
+     * [ ] Culture
+          + View all Culture
+          + Books
+          + Music
+          + TV & radio
+          + Art & design
+          + Film
+          + Games
+          + Classical
+          + Stage
+     * [ ] Lifestyle
+          + View all Lifestyle
+          + Fashion
+          + Food
+          + Recipes
+          + Love & sex
+          + Health & fitness
+          + Home & garden
+          + Women
+          + Men
+          + Family
+          + Travel
+          + Money
+     * Search input
+       ____________________
+       google-search
+       Search
+       (BUTTON)
+
+     * Support us
+     * Print subscriptions
+
+     [ ] Europe edition
+     * UK edition
+     * US edition
+     * Australia edition
+     * International edition
+
+
+     * Search jobs
+     * Holidays
+     * Digital Archive
+     * Guardian Puzzles app
+     * Guardian Licensing
+     * About Us
+     * The Guardian app
+     * Video
+     * Podcasts
+     * Pictures
+     * Newsletters
+     * Today's paper
+     * Inside the Guardian
+     * The Observer
+     * Guardian Weekly
+     * Crosswords
+     * Wordiply
+     * Corrections
+
+
+     * Facebook
+     * Twitter
+
+
+     * Search jobs
+     * Holidays
+     * Digital Archive
+     * Guardian Puzzles app
+     * Guardian Licensing
+     * About Us
+
+     * The Guardian view
+     * Columnists
+     * Cartoons
+     * Opinion videos
+     * Letters
+
+   ‘How would you build an enterprise designed to gain as many of the
+   benefits of AI as possible while avoiding these risks?’
+   [ ]
+   ‘How would you build an enterprise designed to gain as many of the
+   benefits of AI as possible while avoiding these risks?’ Photograph:
+   Kirill Kudryavtsev/AFP/Getty Images
+   ‘How would you build an enterprise designed to gain as many of the
+   benefits of AI as possible while avoiding these risks?’ Photograph:
+   Kirill Kudryavtsev/AFP/Getty Images
+   OpinionOpenAI
+
+The frantic battle over OpenAI shows that money triumphs in the end
+
+   Robert Reich
+   Robert Reich
+
+   Private businesses, motivated by profit, can’t be relied on to police
+   themselves against the horrors unfettered AI could bring
+   Tue 28 Nov 2023 14.01 CETLast modified on Tue 28 Nov 2023 19.10 CET
+     *
+     *
+     *
+
+   How do we gain access to artificial intelligence’s huge potential
+   benefits – such as devising new life-saving drugs or finding new ways
+   to teach children – without opening a box of horrors?
+
+   If we’re not careful, AI could be a Frankenstein monster. It might
+   eliminate nearly all jobs. It could lead to autonomous warfare.
+   The real story of the OpenAI debacle is the tyranny of big tech |
+   Courtney Radsch
+   Read more
+
+   Even such a mundane goal as making as many paper clips as possible,
+   critics of AI argue, could push an all-powerful AI to end all life on
+   Earth in pursuit of more clips.
+
+   So, how would you build an enterprise designed to gain as many of the
+   benefits of AI as possible while avoiding these risks?
+
+   You might start with a non-profit board stacked with ethicists and
+   specialists in the potential downsides of AI.
+
+   That non-profit would need vast amounts of expensive computing power to
+   test its models, so the non-profit board would need to oversee a
+   for-profit commercial arm that attracted investors.
+
+   How to prevent investors from taking over the enterprise? You’d have to
+   limit how much profit could flow to the investors (through a so-called
+   “capped profit” structure), and you wouldn’t put investors on the
+   board.
+
+   But how would you prevent greed from corrupting the enterprise, as
+   board members and employees are lured by the prospect of making
+   billions?
+
+   Well, you can’t. Which is the flaw in the whole idea of private
+   enterprise developing AI.
+
+   The non-profit I described was the governing structure that OpenAI
+   began with in 2015, when it was formed as a research-oriented
+   non-profit to build safe AI technology.
+
+   But ever since OpenAI’s ChatGPT looked to be on its way to achieving
+   the holy grail of tech – an at-scale consumer platform that would
+   generate billions of dollars in profits – its non-profit safety mission
+   has been endangered by big money.
+
+   Now, big money is on the way to devouring safety.
+   AI doesn’t cause harm by itself. We should worry about the people who
+   control it | Kenan Malik
+   Read more
+
+   In 2019, OpenAI shifted to a capped profit structure so it could
+   attract investors to pay for computing power and AI talent.
+
+   OpenAI’s biggest outside investor is Microsoft, which obviously wants
+   to make as much as possible for its executives and shareholders. Since
+   2019, Microsoft has invested $13bn in OpenAI, with the expectation of
+   making a huge return on that investment.
+
+   But OpenAI’s capped profit structure and non-profit board limited how
+   much Microsoft could make. What to do?
+
+   Sam Altman, OpenAI’s CEO, apparently tried to have it both ways –
+   giving Microsoft some of what it wanted without abandoning the
+   humanitarian goals and safeguards of the non-profit.
+
+   It didn’t work. Last week, OpenAI’s non-profit board pushed Altman out,
+   presumably over fears that he was bending too far toward Microsoft’s
+   goal of making money, while giving inadequate attention to the threats
+   posed by AI.
+
+   Where did Altman go after being fired? To Microsoft, of course.
+
+   And what of OpenAI’s more than 700 employees – its precious talent
+   pool?
+
+   Even if we assume they’re concerned about safety, they own stock in the
+   company and will make a boatload of money if OpenAI prioritizes growth
+   over safety. It’s estimated that OpenAI could be worth between $80bn to
+   $90bn in a tender offer – making it one of the world’s most valuable
+   tech startups of all time.
+   skip past newsletter promotion
+
+   Sign up to Follow Robert Reich
+   Free newsletter
+
+   Get Robert Reich’s latest columns delivered straight to your inbox
+   Privacy Notice: Newsletters may contain info about charities, online
+   ads, and content funded by outside parties. For more information see
+   our Privacy Policy. We use Google reCaptcha to protect our website and
+   the Google Privacy Policy and Terms of Service apply.
+
+   after newsletter promotion
+
+   So it came as no surprise that almost all of OpenAI’s employees signed
+   a letter earlier this week, telling the board they would follow Altman
+   to Microsoft if the board didn’t reinstate Altman as CEO.
+
+   Everyone involved – including Altman, OpenAI’s employees, and even
+   Microsoft – will make much more money if OpenAI survives and they can
+   sell their shares in the tender offer.
+
+   Presto.
+
+   On Tuesday, OpenAI’s board reinstated Altman as chief executive and
+   agreed to overhaul itself – jettisoning board members who had opposed
+   him and adding two who seem happy to do Microsoft’s bidding – Bret
+   Taylor, an early Facebook officer and former co-chief executive of
+   Salesforce, and Lawrence Summers, the former Treasury secretary.
+
+   Satya Nadella, Microsoft’s chief executive, said he was “encouraged by
+   the changes to OpenAI board”, calling it a “first essential step on a
+   path to more stable, well-informed, and effective governance”.
+
+   Effective governance … for making gobs of money.
+
+     All goes to show that the real Frankenstein monster of AI is human
+     greed
+
+   The business press – for which “success” is automatically defined as
+   making as much money as possible – is delighted.
+
+   It had repeatedly described the non-profit board as a “convoluted”
+   governance structure that prevented Altman from moving “even faster”,
+   and predicted that if OpenAI fell apart over the contest between growth
+   and safety, “people will blame the board for … destroying billions of
+   dollars in shareholder value.”
+
+   Which all goes to show that the real Frankenstein monster of AI is
+   human greed.
+
+   Private enterprise, motivated by the lure of ever-greater profits,
+   cannot be relied on to police itself against the horrors that an
+   unfettered AI will create.
+
+   Last week’s frantic battle over OpenAI shows that not even a non-profit
+   board with a capped profit structure for investors can match the power
+   of big tech and Wall Street.
+
+   Money triumphs in the end.
+
+   The question for the future is whether the government – also
+   susceptible to the corruption of big money – can do a better job
+   weighing the potential benefits of AI against its potential horrors,
+   and regulate the monster.
+     * Robert Reich, a former US secretary of labor, is a professor of
+       public policy at the University of California, Berkeley, and the
+       author of Saving Capitalism: For the Many, Not the Few and The
+       Common Good. His newest book, The System: Who Rigged It, How We Fix
+       It, is out now. He is a Guardian US columnist. His newsletter is at
+       robertreich.substack.com
+
+   Explore more on these topics
+     * OpenAI
+     * Opinion
+     * Artificial intelligence (AI)
+     * comment
+
+     *
+     *
+     *
+     *
+     *
+     *
+
+   Reuse this content
+
+comments (…)
+
+   Sign in or create your Guardian account to join the discussion
+
+Most viewed
+
+Most viewed
+
+     * The Guardian view
+     * Columnists
+     * Cartoons
+     * Opinion videos
+     * Letters
+
+     * News
+     * Opinion
+     * Sport
+     * Culture
+     * Lifestyle
+
+   Original reporting and incisive analysis, direct from the Guardian
+   every morning
+   Sign up for our email
+     * Help
+     * Complaints & corrections
+     * SecureDrop
+     * Work for us
+     *
+     * Privacy policy
+     * Cookie policy
+     * Terms & conditions
+     * Contact us
+
+     * All topics
+     * All writers
+     * Digital newspaper archive
+     * Facebook
+     * YouTube
+     * Instagram
+     * LinkedIn
+     * Twitter
+     * Newsletters
+
+     * Advertise with us
+     * Search UK jobs
+
+   Back to top
+   © 2023 Guardian News & Media Limited or its affiliated companies. All
+   rights reserved. (dcr)
