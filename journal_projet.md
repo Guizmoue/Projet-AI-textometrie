@@ -66,9 +66,10 @@ Finalisation de la maquette du site web avec le framework Bootstrap.
 
 ### Travail sur iTrameur
 
-...
+iTrameur est un outil de textométrie en ligne assez puissant pour traiter les textes en alphabet latin. Il donne la possibilité de rendre la distribution de termes dans le corpus. Nous pouvons obtenir les concordances, les cooccurents, la fréquence (relative ou absolue) ainsi que d'autres caractéristiques d'un terme spécifique à l'aide d'iTrameur. Pourtant, il n'est pas conçu pour certaines langues asiatiques comme le chinois. Donc afin de procéder à la textométrie des textes en chinois, il faut s'appuyer sur d'autres outiles comme "SketchEngine", qui tokenise et analyse correctement les textes en chinois. 
+
+L'autre imperfection de l'iTrameur est qu'il ne peut pas enquêter plusieurs mots en une seule fois. Comme nous avons pris le terme IA, qui s'écrit souvent sous forme complète : interlligence artificielle, iTrameur ne permet pas d'analyser la forme complète, ce qui nous pose des problèmes.
 
 ### Utiliser des scripts directement
 
-...
-
+Afin de compléter le défaut de l'iTrameur, nous avons sollicité à des scripts complémentaires. Grâce au script "cooccurents.py", nous avons réussi à obtenir les cooccurrents d'"intelligence artificielle" ou d'autres termes composés de plusieurs mots en utilisant l'expression régulière. Pourtant, le script ne permet toujours pas de traiter les textes en chinois et il nous semble qu'il ne détecte pas les termes "AI" ou "IA". 

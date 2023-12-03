@@ -51,7 +51,7 @@ do
         echo "<html><head></head><body>" > "../concordances/${lang}-${lineno}.html"
         echo "<table border='1'>" >> "../concordances/${lang}-${lineno}.html"
         echo "<tr><th>Contexte gauche</th><th>Mot</th><th>Contexte droit</th><th></tr>" >> "../concordances/${lang}-${lineno}.html"
-        grep -E -i -o "(\w+\W+){0,5}$motif(\W+\w+){0,5}" $TEXTFILE | sed -E 's/(.*)(\bIA\b|intelligence\sartificielle|\bAI\b|artificial\sintelligence)(.*)/<tr><td>\1<\/td><td>\2<\/td><td>\3<\/td><\/tr>/' >> "../concordances/${lang}-${lineno}.html"
+        grep -E -i -o "(\w+\W+){0,5}$motif(\W+\w+){0,5}" $TEXTFILE | sed -E 's/(.*)(\bIA\b|intelligence\sartificielle|\bAI\b|artificial\sintelligence|人工智能|人工智慧)(.*)/<tr><td>\1<\/td><td>\2<\/td><td>\3<\/td><\/tr>/' >> "../concordances/${lang}-${lineno}.html"
         echo "</table></body></html>" >> "../concordances/${lang}-${lineno}.html"
 
 
