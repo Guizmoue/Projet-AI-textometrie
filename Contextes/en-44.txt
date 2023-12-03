@@ -1,0 +1,145 @@
+
+   Artificial Intelligence
+   Government And Politics
+--
+
+US, UK and 16 other countries sign AI security agreement
+
+   Open-access content Beatriz Valero de Urquía — Tue 28 Nov 2023
+   Artificial intelligence concept - Credit: iStock
+
+--
+   The UK has unveiled the world’s first global guidelines for making
+   artificial intelligence (AI) tools ‘secure by design’.
+
+--
+   among the 18 nations that have signed a non-binding public agreement
+   that aims to secure AI systems against cyber attacks.
+
+--
+   and organisations on the best practices for incorporating cyber
+   security at every stage of the development process of AI algorithms.
+   They focus on four key areas: secure design, secure development, secure
+--
+   When it comes to secure development, the plan advises that developers
+   ensure the protection of the infrastructure used to support an AI
+   system, including access controls for APIs, models and data. Moreover,
+--
+
+   The final section covers how to secure AI systems after they've been
+   deployed, noting that companies continuously monitor systems, and the
+--
+   However, the guidelines do not address other concerns regarding the use
+   of AI-generated content or the data chosen for its training.
+
+   US secretary of homeland security Alejandro Mayorkas said: “We are at
+   an inflection point in the development of AI, which may well be the
+   most consequential technology of our time. Cyber security is key to
+   building AI systems that are safe, secure, and trustworthy.
+
+--
+   international partners provide a common-sense path to designing,
+   developing, deploying and operating AI with cyber security at its
+   core.”
+--
+   provide general advice – pushed by governments around the world to
+   ensure the ethical development of AI technologies. It follows US
+   President Joe Biden’s signing of an executive order that would require
+   AI developers to share the results of safety tests with the US
+   government before they are released to the public. The order also
+--
+   The Biden administration has been very vocal about its concerns over
+   the rapid development of generative AI, and even unveiled a new AI Bill
+   of Rights, which outlines five protections internet users should have
+   in the AI age.
+
+--
+   Declaration, described as a “landmark achievement” that signals a
+   starting point in the conversations around the risks of AI
+   technologies. The document has also been signed by representatives from
+--
+   guidelines as cementing the UK’s role as “an international standard
+   bearer on the safe use of AI”.
+
+   “Just weeks after we brought world leaders together at Bletchley Park
+   to reach the first international agreement on safe and responsible AI,
+   we are once again uniting nations and companies in this truly global
+--
+   Last month, Prime Minister Rishi Sunak revealed the UK will launch an
+   AI safety institute, following a similar announcement from the US.
+     * Biden issues AI executive order to guard against the technology’s
+       dangers
+     * Sam Altman returns to OpenAI days after being fired
+     * Countries sign ‘world first’ AI declaration at Bletchley Park
+       summit
+--
+
+ Authors and publishers call for regulations to stop AI using copyrighted
+works
+--
+   Tue 31 Oct 2023
+   Artificial intelligence (AI) systems are using copyright-protected
+   works “with impunity”, say publishing trade bodies, which are urging
+--
+   Open-access content
+   A movie by AI now showing - Credit: Shutterstock
+
+--
+   Thu 23 Nov 2023
+   Artificial intelligence has arrived on set, prompting writers to debate
+   whether algorithms could (or should) create art
+--
+
+ Microsoft launches custom AI silicon chips
+
+--
+
+ DeepMind’s AI accurately forecasts weather in under a minute
+
+   Wed 15 Nov 2023
+   The artificial intelligence (AI) tool predicted that Hurricane Lee
+   would land in Nova Scotia nine days before it happened – three days
+--
+
+ University of Edinburgh launches generative AI laboratory
+
+--
+   A research and innovation laboratory at the university will attempt to
+   develop safe artificial intelligence (AI) solutions and systems.
+   Open-access content
+--
+
+More from Artificial Intelligence
+
+--
+
+ Amazon to launch AI chip and chatbot named Q
+
+--
+   Amazon has become the latest company to bet on generative artificial
+   intelligence (AI) solutions, announcing the launch of a new AI chatbot
+   as well as chips for AI solutions.
+   Open-access content
+--
+
+ Children aged 11 should be taught AI lessons at schools, experts say
+
+--
+   Schools should require 11-year-olds to obtain a new alternative digital
+   literacy qualification with an emphasis on AI and other modern digital
+   skills, the British Computer Society has said.
+--
+   Members'-only content
+   Smartphone with AI apps - Credit: iStock
+
+ OpenAI creates a team to assess the dangers of generative AI
+
+--
+
+ Amazon to launch AI chip and chatbot named Q
+
+--
+   Amazon has become the latest company to bet on generative artificial
+   intelligence (AI) solutions, announcing the launch of a new AI chatbot
+   as well as chips for AI solutions.
+   Open-access content

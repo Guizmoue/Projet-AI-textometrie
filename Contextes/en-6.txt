@@ -1,189 +1,114 @@
-   (BUTTON)
 
-Artificial Intelligence
+Advantages and Disadvantages of Artificial Intelligence
 
-   sunil kumar
 --
-   Share
 
-Artificial Intelligence
-AI
-Artificial Intelligence
+   Artificial Intelligence is one of the emerging technologies which tries
+   to simulate human reasoning in AI systems. John McCarthy invented the
+   term Artificial Intelligence in the year 1950.
 
-   He said, `Every aspect of learning or any other feature of intelligence
 --
-   now reserved for humans, and improve themselves.'
 
-Artificial Intelligence
-Artificial intelligence
+   Artificial Intelligence is the ability of a computer program to learn
+   and think. Everything can be considered Artificial intelligence if it
    involves a program doing something that we would normally think would
-   rely on the intelligence of a human.
-
-Artificial intelligence
-   can revolutionize any professional sector. Let's see some of them
-
 --
-   The phrase "human error" was born because humans make mistakes from
+
+   The advantages of Artificial intelligence applications are enormous and
+   can revolutionize any professional sector. Let’s see some of them
+--
    time to time. Computers, however, do not make these mistakes if they
-Artificial intelligence
+   are programmed properly. With Artificial intelligence, the decisions
    are taken from the previously gathered information applying a certain
-   set of algorithms. So errors are reduced and the chance of reaching
-   accuracy with a greater degree of precision is a possibility.
+--
 
-AI
+   Example: In Weather Forecasting using AI they have reduced the majority
    of human error.
+--
 
-   2) Takes risks instead of Humans:
-
-Artificial intelligence
-AI
+   This is one of the biggest advantages of Artificial intelligence. We
+   can overcome many risky limitations of humans by developing an AI Robot
    which in turn can do the risky things for us. Let it be going to mars,
-   defuse a bomb, explore the deepest parts of oceans, mining for coal and
 --
-
    Example: Have you heard about the Chernobyl nuclear power plant
-AI
+   explosion in Ukraine? At that time there were no AI-powered robots that
    can help us to minimize the effect of radiation by controlling the fire
-   in early stages, as any human went close to the core was dead in a
 --
-   helicopters from a mere distance.
 
-AI
+   AI Robots can be used in such situations where intervention can be
    hazardous.
-
 --
-   themselves and get ready for a new day of work and they even have
    weekly offed to stay intact with their work-life and personal life. But
-AI
-   don't even get bored, unlike humans.
-
+   using AI we can make machines work 24x7 without any breaks and they
+   don’t even get bored, unlike humans.
+--
    Example: Educational Institutes and Helpline centers are getting many
-AI
+   queries and issues which can be handled effectively using AI.
 
-   4) Helping in Repetitive Jobs:
 --
-   In our day-to-day work, we will be performing many repetitive works
    like sending a thanking mail, verifying certain documents for errors
-artificial intelligence
-   automate these mundane tasks and can even remove "boring" tasks for
-   humans and free them up to be increasingly creative.
-
+   and many more things. Using artificial intelligence we can productively
+   automate these mundane tasks and can even remove “boring” tasks for
+--
    Example: In banks, we often see many verifications of documents to get
-AI
+   a loan which is a repetitive task for the owner of the bank. Using AI
    Cognitive Automation the owner can speed up the process of verifying
-   the documents by which both the customers and the owner will be
 --
-
    Example: We all know that organizations have a customer support team
-AI
+   that needs to clarify the doubts and queries of the customers. Using AI
    the organizations can set up a Voice bot or Chatbot which can help
-   customers with all their queries. We can see many organizations already
 --
-   6) Faster Decisions:
 
-AI
+   Using AI alongside other technologies we can make machines take
    decisions faster than a human and carry out actions quicker. While
    taking a decision human will analyze many factors both emotionally and
-AI
+   practically but AI-powered machine works on what it is programmed and
    delivers the results in a faster way.
-
+--
    Example: We all have played Chess games in Windows. It is nearly
-AI
+   impossible to beat CPU in the hard mode because of the AI behind that
    game. It will take the best possible step in a very short time
-   according to the algorithms used behind it.
 --
-   8) New Inventions:
 
-AI
+   AI is powering many inventions in almost every domain which will help
    humans solve the majority of complex problems.
-
+--
    Example: Recently doctors can predict breast cancer in the woman at
-AI
+   earlier stages using advanced AI-based technologies.
 
-   As every bright side has a darker version in it. Artificial
 --
-   1) High Costs of Creation:
 
-AI
+   As AI is updating every day the hardware and software need to get
    updated with time to meet the latest requirements. Machines need
-   repairing and maintenance which need plenty of costs. It' s creation
 --
-   2) Making Humans Lazy:
 
-AI
+   AI is making humans lazy with its applications automating the majority
    of the work. Humans tend to get addicted to these inventions which can
-   cause a problem to future generations.
 --
-   3) Unemployment:
 
-AI
+   As AI is replacing the majority of the repetitive tasks and other works
    with robots,human interference is becoming less which will cause a
    major problem in the employment standards. Every organization is
-AI
+   looking to replace the minimum qualified individuals with AI robots
    which can do similar work with more efficiency.
-
 --
-   SUMMARY:
 
-Artificial Intelligence
+   These are some advantages and disadvantages of Artificial Intelligence.
    Every new invention or breakthrough will have both, but we as humans
    need to take care of that and use the positive sides of the invention
-Artificial intelligence
-   advantages. The key for humans will ensure the "rise of the robots"
-   doesn't get out of hand. Some people also say that Artificial
+   to create a better world. Artificial intelligence has massive potential
+   advantages. The key for humans will ensure the “rise of the robots”
+--
    intelligence can destroy human civilization if it goes into the wrong
-AI
+   hands. But still, none of the AI applications made at that scale that
    can destroy or enslave humanity.
-Artificial Intelligence
+   Artificial Intelligence
    Machine Learning
-   Data Science
 --
-   [42]
 
-Artificial Intelligence
-
-How I Deployed a Machine Learning Model for the First Time
---
-   52
-
-AI
+   I Found A Very Profitable AI Side Hustle
    Paul Rose
-   [48]
 --
-   Paul Rose
 
-AI
+I Found A Very Profitable AI Side Hustle
 
-And it's perfect for beginners
---
-  40. https://medium.com/@sreyan806/history-of-deep-learning-c176e2d3cddf?source=read_next_recirc-----182a5ef6588c----1---------------------1f081334_4eb6_4f6e_94b4_a853b454b88e-------
-  41. https://medium.com/@luuisotorres?source=read_next_recirc-----182a5ef6588c----0---------------------1f081334_4eb6_4f6e_94b4_a853b454b88e-------
-ai
-ai
-ai
-  45. https://medium.com/@viratpatel75?source=read_next_recirc-----182a5ef6588c----1---------------------1f081334_4eb6_4f6e_94b4_a853b454b88e-------
-  46. https://medium.com/@viratpatel75/i-applied-to-230-data-science-jobs-during-last-2-months-and-this-is-what-ive-found-29ebdea4504?source=read_next_recirc-----182a5ef6588c----1---------------------1f081334_4eb6_4f6e_94b4_a853b454b88e-------
-  47. https://medium.com/@viratpatel75/i-applied-to-230-data-science-jobs-during-last-2-months-and-this-is-what-ive-found-29ebdea4504?responsesOpen=true&sortBy=REVERSE_CHRON&source=read_next_recirc-----182a5ef6588c----1---------------------1f081334_4eb6_4f6e_94b4_a853b454b88e-------
-  48. https://medium.com/@iampaulrose?source=read_next_recirc-----182a5ef6588c----2---------------------1f081334_4eb6_4f6e_94b4_a853b454b88e-------
-ai
-ai
-  51. https://entreprenal.com/?source=read_next_recirc-----182a5ef6588c----3---------------------1f081334_4eb6_4f6e_94b4_a853b454b88e-------
-  52. https://entreprenal.com/the-chatgpt-hype-is-over-now-watch-how-google-will-kill-chatgpt-426d5e3f7d05?source=read_next_recirc-----182a5ef6588c----3---------------------1f081334_4eb6_4f6e_94b4_a853b454b88e-------
---
- 115. https://medium.com/@AMGAS14/list/natural-language-processing-0a856388a93a?source=read_next_recirc-----182a5ef6588c--------------------------------
- 116. https://medium.com/@m.wasalski/list/chatgpt-3742c7a4727d?source=read_next_recirc-----182a5ef6588c--------------------------------
-ai
- 118. https://medium.com/@luuisotorres?source=read_next_recirc-----182a5ef6588c----0---------------------1f081334_4eb6_4f6e_94b4_a853b454b88e-------
-ai
- 120. https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fai-in-plain-english%2Fb82b9ea831e0&operation=register&redirect=https%3A%2F%2Fai.plainenglish.io%2Fhow-i-deployed-a-machine-learning-model-for-the-first-time-b82b9ea831e0&user=Lu%C3%ADs+Fernando+Torres&userId=87c7c20f624d&source=-----b82b9ea831e0----0-----------------clap_footer----1f081334_4eb6_4f6e_94b4_a853b454b88e-------
- 121. https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fb82b9ea831e0&operation=register&redirect=https%3A%2F%2Fai.plainenglish.io%2Fhow-i-deployed-a-machine-learning-model-for-the-first-time-b82b9ea831e0&source=-----182a5ef6588c----0-----------------bookmark_preview----1f081334_4eb6_4f6e_94b4_a853b454b88e-------
---
- 125. https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fp%2F29ebdea4504&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40viratpatel75%2Fi-applied-to-230-data-science-jobs-during-last-2-months-and-this-is-what-ive-found-29ebdea4504&user=Virat+Patel&userId=2d90e0a11d4&source=-----29ebdea4504----1-----------------clap_footer----1f081334_4eb6_4f6e_94b4_a853b454b88e-------
- 126. https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F29ebdea4504&operation=register&redirect=https%3A%2F%2Fmedium.com%2F%40viratpatel75%2Fi-applied-to-230-data-science-jobs-during-last-2-months-and-this-is-what-ive-found-29ebdea4504&source=-----182a5ef6588c----1-----------------bookmark_preview----1f081334_4eb6_4f6e_94b4_a853b454b88e-------
-ai
- 128. https://medium.com/@iampaulrose?source=read_next_recirc-----182a5ef6588c----2---------------------1f081334_4eb6_4f6e_94b4_a853b454b88e-------
-ai
-ai
-ai
- 132. https://entreprenal.com/the-chatgpt-hype-is-over-now-watch-how-google-will-kill-chatgpt-426d5e3f7d05?source=read_next_recirc-----182a5ef6588c----3---------------------1f081334_4eb6_4f6e_94b4_a853b454b88e-------
- 133. https://entreprenal.com/?source=read_next_recirc-----182a5ef6588c----3---------------------1f081334_4eb6_4f6e_94b4_a853b454b88e-------

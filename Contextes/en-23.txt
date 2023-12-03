@@ -1,0 +1,81 @@
+            (BUTTON)
+               o Artificial Intelligence
+               o Social Media
+--
+       (BUTTON)
+          + Artificial Intelligence
+          + Social Media
+--
+Fake babies, real horror: Deepfakes from the Gaza war increase fears about
+AI’s power to mislead
+
+--
+   Viewed millions of times online since the war began, these images are
+   deepfakes created using artificial intelligence. If you look closely
+   you can see clues: fingers that curl oddly, or eyes that shimmer with
+--
+   Pictures from the Israel-Hamas war have vividly and painfully
+   illustrated AI’s potential as a propaganda tool, used to create
+   lifelike images of carnage. Since the war began last month, digitally
+--
+   While most of the false claims circulating online about the war didn’t
+   require AI to create and came from more conventional sources,
+   technological advances are coming with increasing frequency and little
+   oversight. That’s made the potential of AI to become another form of
+   weapon starkly apparent, and offered a glimpse of what’s to come during
+--
+   Jean-Claude Goldenstein, CEO of CREOpoint, a tech company based in San
+   Francisco and Paris that uses AI to assess the validity of online
+   claims. The company has created a database of the most viral deepfakes
+   to emerge from Gaza. “Pictures, video and audio: with generative AI
+   it’s going to be an escalation you haven’t seen.”
+--
+   In some cases, photos from other conflicts or disasters have been
+   repurposed and passed off as new. In others, generative AI programs
+   have been used to create images from scratch, such as one of a baby
+--
+
+   Other examples of AI-generated images include videos showing supposed
+   Israeli missile strikes, or tanks rolling through ruined neighborhoods,
+--
+
+   Similarly deceptive AI-generated content began to spread after Russia
+   invaded Ukraine in 2022. One altered video appeared to show Ukrainian
+--
+   Each new conflict, or election season, provides new opportunities for
+   disinformation peddlers to demonstrate the latest AI advances. That has
+   many AI experts and political scientists warning of the risks next
+   year, when several countries hold major elections, including the U.S.,
+--
+
+   The risk that AI and social media could be used to spread lies to U.S.
+   voters has alarmed lawmakers from both parties in Washington. At a
+--
+   Connolly, Democrat of Virginia, said the U.S. must invest in funding
+   the development of AI tools designed to counter other AI.
+
+--
+   prove their origin, or scan text to verify any specious claims that may
+   have been inserted by AI.
+
+   “The next wave of AI will be: How can we verify the content that is out
+   there. How can you detect misinformation, how can you analyze text to
+   determine if it is trustworthy?” said Maria Amelie, co-founder of
+   Factiverse, a Norwegian company that has created an AI program that can
+   scan content for inaccuracies or bias introduced by other AI programs.
+
+--
+
+   While this technology shows promise, those using AI to lie are often a
+   step ahead, according to David Doermann, a computer scientist who led
+   an effort at the Defense Advanced Research Projects Agency to respond
+   to the national security threats posed by AI-manipulated images.
+
+--
+   effectively responding to the political and social challenges posed by
+   AI disinformation will require both better technology and better
+   regulations, voluntary industry standards and extensive investments in
+--
+   “Every time we release a tool that detects this, our adversaries can
+   use AI to cover up that trace evidence,” said Doermann. “Detection and
+   trying to pull this stuff down is no longer the solution. We need to

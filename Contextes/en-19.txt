@@ -1,0 +1,66 @@
+   #The Debrief » Feed The Debrief » Comments Feed The Debrief »
+   5000-Year-Old Tablets Can Now Be Decoded by Artificial Intelligence,
+   New Research Reveals Comments Feed alternate alternate alternate
+--
+
+   AI Cuneiform AI Cuneiform
+   (Image: Wikimedia Commons)
+
+5000-Year-Old Tablets Can Now Be Decoded by Artificial Intelligence, New
+Research Reveals
+--
+   Gutenberg University Mainz, and Mainz University of Applied Sciences
+   has unveiled an AI system capable of deciphering ancient cuneiform
+   texts. This novel technology, leveraging 3D models, represents a
+--
+
+   The team turned to AI for help.
+
+   Using a novel AI process to decode ancient cuneiform tablets, they
+   leveraged a sophisticated AI model based on the Region-based
+   Convolutional Neural Network (R-CNN) architecture, a specialized system
+--
+
+   The AI’s methodology entailed a two-part pipeline: initially, a sign
+   detector, built on a RepPoints model with a ResNet18 backbone,
+--
+   classified and predicted the wedges’ positions, which forms the basis
+   of the cuneiform script’s fundamental elements, allowing the AI, in
+   effect, to ‘read.’
+--
+   the stylus into the clay or the distance between the symbols and
+   wedges. This nuanced approach enabled the AI to overcome the challenges
+   posed by traditional 2D photographs, such as inconsistent lighting and
+--
+
+   To address this, the research team put their AI system through an
+   extensive training regimen, utilizing three-dimensional scans and
+--
+   a significant project focused on creating 3D models of these ancient
+   clay tablets. This enabled the AI to achieve remarkable success in
+   accurately identifying the symbols inscribed on the tablets.
+--
+
+AI Can Read Cuneiform Now
+
+--
+
+   AI Cuneiform AI Cuneiform
+
+5000-Year-Old Tablets Can Now Be Decoded by Artificial Intelligence, New
+Research Reveals
+
+   ArchaeologyArtificial IntelligenceBreaking News
+
+   AI Smart Gun AI Smart Gun
+
+This Breakthrough AI Smart Gun is Designed to Save Lives, Rather Than Take
+Them
+--
+
+   AI arms race AI arms race
+
+The AI Arms Race Will Be The Next Geopolitical Kingmaker, Experts Warn
+
+   Artificial IntelligenceBreaking News
+

@@ -1,0 +1,59 @@
+   PYMNTS.com » Feed PYMNTS.com » Comments Feed PYMNTS.com » AWS and
+   NVIDIA Expand Collaboration to Deliver Generative AI Infrastructure
+   Comments Feed alternate alternate alternate PYMNTS.com » JSON Feed
+   PYMNTS.com » AWS and NVIDIA Expand Collaboration to Deliver Generative
+   AI Infrastructure Comments Feed
+
+--
+
+AWS and NVIDIA Expand Collaboration to Deliver Generative AI Infrastructure
+
+--
+   to deliver advanced infrastructure, software and services for
+   generative artificial intelligence (AI) innovations.
+
+   The partnership aims to provide customers with the necessary
+   technologies for training foundation models and building generative AI
+   applications, the companies said in a Tuesday (Nov. 28) press release.
+--
+   Additionally, NVIDIA and AWS will collaborate to host NVIDIA DGX Cloud,
+   an AI-training-as-a-service, on AWS, the release said. This will be the
+   first DGX Cloud featuring GH200 NVL32, providing developers with the
+   largest shared memory in a single instance. DGX Cloud on AWS will
+   accelerate the training of cutting-edge generative AI and large
+   language models.
+--
+   The collaboration also includes Project Ceiba, where NVIDIA and AWS are
+   designing the world’s fastest GPU-powered AI supercomputer, per the
+   release. This supercomputer will feature 16,384 NVIDIA GH200 Superchips
+   and will be used by NVIDIA for its own research and development in
+   generative AI.
+
+   AWS will introduce three new Amazon EC2 instances powered by NVIDIA
+   GPUs: P5e instances for large-scale generative AI and high-performance
+   computing (HPC) workloads, and G6 and G6e instances for a wide range of
+   applications including AI fine-tuning, inference, graphics and video
+   workloads, according to the release. G6e instances are particularly
+--
+   It was reported in September that NVIDIA has become the go-to company
+   for computer chips used in AI processes. The company’s market value hit
+   the trillion-dollar mark earlier this year thanks to high demand for
+   its chips that are used to train generative AI models.
+
+--
+
+   AWS and NVIDIA Expand Collaboration to Deliver Generative AI
+   Infrastructure
+--
+   Report: Farfetch Founder José Neves Aims to Take Company Private
+   See More In: AI, Amazon Web Services, artificial intelligence, AWS,
+   cloud computing, generative AI, News, NVIDIA, PYMNTS News, What's Hot
+
+--
+
+   This AI Pioneer Says the Tech’s Best Applications Are in Payments
+   Trustly October 2023 Survey
+--
+   [ ] PYMNTS Today
+   [ ] Artificial Intelligence
+   [ ] Cryptocurrency

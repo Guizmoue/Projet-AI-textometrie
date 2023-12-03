@@ -1,0 +1,59 @@
+
+     AI & SOCIETY
+
+--
+
+                Social choice ethics in artificial intelligence
+
+--
+
+   AI & SOCIETY Aims and scope Submit manuscript
+
+--
+
+   A major approach to the ethics of artificial intelligence (AI) is to
+   use social choice, in which the AI is designed to act according to the
+   aggregate views of society. This is found in the AI ethics of “coherent
+   extrapolated volition” and “bottom–up ethics”. This paper shows that
+   the normative basis of AI social choice ethics is weak due to the fact
+   that there is no one single aggregate ethical view of society. Instead,
+   the design of social choice AI faces three sets of decisions: standing,
+   concerning whose ethics views are included; measurement, concerning how
+   their views are identified; and aggregation, concerning how individual
+   views are combined to a single view that will guide AI behavior. These
+   decisions must be made up front in the initial AI design—designers
+   cannot “let the AI figure it out”. Each set of decisions poses
+   difficult ethical dilemmas with major consequences for AI behavior,
+   with some decision options yielding pathological or even catastrophic
+   results. Furthermore, non-social choice ethics face similar issues,
+   such as whether to count future generations or the AI itself. These
+   issues can be more important than the question of whether or not to use
+--
+    1. Note that while consciousness may play a role in ethics learning
+       among human children, it is not essential for AI. The essential
+       feature is that ethics is learned via interaction with the
+--
+       Google Scholar
+     * Bohannon J (2015) Fears of an AI pioneer. Science 349(6245):252
+       MathSciNet  MATH  Google Scholar
+--
+       Google Scholar
+     * Clark J (2016) Artificial intelligence has a ‘sea of dudes’
+       problem. Bloomberg, New York
+--
+     * Wallach W, Allen C, Smit I (2008) Machine morality: bottom-up and
+       top-down approaches for modelling human moral faculties. AI & Soc
+       22(4):565–582
+       Google Scholar
+     * Yampolskiy RV (2013) Artificial intelligence safety engineering:
+       why machine ethics is a wrong approach. In: Müller VC (ed)
+       Philosophy and theory of artificial intelligence. Springer, Berlin,
+       pp 389–396
+--
+
+   Baum, S.D. Social choice ethics in artificial intelligence. AI & Soc
+   35, 165–176 (2020). https://doi.org/10.1007/s00146-017-0760-1
+--
+
+     * Artificial intelligence
+     * Ethics

@@ -1,76 +1,54 @@
-     * [13]Disrupted
 
-AI
+Exclusive: Germany, France and Italy reach agreement on future AI regulation
 
-   By [14]Andreas Rinke
 --
-     *
 
-AI
-Artificial Intelligence
+   Illustration shows AI (Artificial Intelligence) letters and computer
    motherboard
 
-AI
-Artificial Intelligence
+   AI (Artificial Intelligence) letters are placed on computer motherboard
    in this illustration taken June 23, 2023. REUTERS/Dado
-   Ruvic/Illustration/File Photo [15]Acquire Licensing Rights
 --
-
    BERLIN, Nov 18 (Reuters) - France, Germany and Italy have reached an
-artificial intelligence
+   agreement on how artificial intelligence should be regulated, according
    to a joint paper seen by Reuters, which is expected to accelerate
-   negotiations at the European level.
-
+--
    The three governments support "mandatory self-regulation through codes
-AI
+   of conduct" for so-called foundation models of AI, which are designed
    to produce a broad range of outputs. But they oppose "un-tested norms."
 
-AI
-AI
+   "Together we underline that the AI Act regulates the application of AI
    and not the technology as such," the joint paper said. "The inherent
-AI
+   risks lie in the application of AI systems rather than in the
    technology itself."
-
 --
-   said.
 
-AI
+   "An AI governance body could help to develop guidelines and could check
    the application of model cards," the joint paper said.
+--
+   with the Ministry of Digital Affairs, said laws and state control
+   should not regulate AI itself, but rather its application.
 
 --
-   Germany's Economy Ministry, which is in charge of the topic together
-   with the Ministry of Digital Affairs, said laws and state control
-AI
-
-   Digital Affairs Minister Volker Wissing told Reuters he was very
    pleased an agreement had been reached with France and Germany to limit
-AI
+   only the use of AI.
 
    "We need to regulate the applications and not the technology if we want
-AI
+   to play in the top AI league worldwide," Wissing said.
 
-   State Secretary for Economic Affairs Franziska Brantner told Reuters it
 --
-
    As governments around the world seek to capture the economic benefits
-AI
+   of AI, Britain in November hosted its first AI safety summit.
 
-   The German government is hosting a digital summit in Jena, in the state
 --
-   representatives from politics, business and science.
 
-AI
+   Issues surrounding AI will also be on the agenda when the German and
    Italian governments hold talks in Berlin on Wednesday.
-
 --
 
-   Visible links:
-ai
-   2. https://www.reuters.com/differentiator/
-   3. https://www.reuters.com/
+Broadcom adds silicon AI features to speed new Trident networking chip
+       2:05 PM UTC · Updated ago
 --
-  14. https://www.reuters.com/authors/andreas-rinke/
-  15. https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead
-ai
-  17. https://www.thomsonreuters.com/en/about-us/trust-principles.html
-  18. https://www.reutersagency.com/en/licensereuterscontent/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead
+
+Snowflake sees product revenue above estimates on AI-driven demand
+       November 29, 2023

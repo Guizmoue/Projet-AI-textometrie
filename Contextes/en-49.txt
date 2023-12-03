@@ -1,0 +1,286 @@
+   #alternate alternate alternate Global News Artificial Intelligence:
+   Canada’s future of everything Feed Global News Feed
+--
+
+Artificial Intelligence: Canada’s future of everything
+
+   Artificial Intelligence
+   By Megan Robinson & Mike Drolet Global News
+--
+   (BUTTON) Hide message bar
+   Click to play video: 'Artificial Intelligence: Canada’s future of
+   everything'
+   11:49 Artificial Intelligence: Canada’s future of everything
+   WATCH: Artificial Intelligence is on the brink of revolutionizing
+   virtually every facet of human existence and Canada is on the leading
+--
+   The New Reality, Mike Drolet explores some of the critical risks and
+   the need for guardrails. And we take viewers inside how AI is improving
+   our daily lives in ways that often remain undetectable – and certainly
+--
+
+   The AI revolution is here and it’s changing the world faster than
+   anybody could have predicted.
+--
+   Whether that’s for better or worse depends on whom you ask. What’s
+   undeniable is this — the only limitation on how AI will transform the
+   world is us.
+
+   Geoffrey Hinton, the so-called grandfather of AI, issued warnings this
+   year, sounding the alarm about the existential threat of AI.
+
+--
+   York Times, announcing he had quit his job at Google to speak freely
+   about the harm he believes AI will cause humanity.
+
+--
+   If Hinton is having a come-to-Jesus moment, he might be too late. Over
+   100 Million people use ChatGPT, a form of AI using technology he
+   invented. That’s on top of the way AI is already interwoven into
+   practically everything we do online.
+--
+   And while Toronto-based Hinton is one of the Canadian minds leading
+   this industry — one which is growing exponentially — the circle of AI
+   innovators remains small.
+   Geoffrey Hinton, known as the "Godfather of AI," leaves the stage after
+   speaking at the Collision conference in Toronto on Wednesday, June 28,
+   2023. View image in full screen
+   Geoffrey Hinton, known as the ‘Godfather of AI,’ leaves the stage after
+   speaking at the Collision conference in Toronto on June 28. THE
+--
+   Centre, our Global News team happened upon Hamayal Choudhry, founder
+   and CEO of smartARM, the world’s first bionic arm for which AI uses
+   cameras to dictate movement.
+--
+   Choudhry was in the store testing the glasses out for himself, curious
+   to see if AI could be as big a disruptor in the world of glasses as he
+   intends to make it in the world of prosthetics.
+--
+
+   smartARM is just one of many examples of how AI is on the brink of
+   revolutionizing virtually every facet of human existence. Canada is on
+   the leading edge, utilizing what AI can do from healthcare and
+   education to airlines and entertainment.
+
+   There are inherent risks with AI and a lack of regulation and oversight
+   in Canada, but overall, AI is improving our daily lives in ways that
+   may often remain undetectable.
+   Hamayal Choudhry, founder and CEO of Canadian company smartARM, is
+   trying on the new Ray-Ban AI glasses using Meta technology. He's got
+   dark hair and is wearing a dark, long sleeved shirt. Choudhry happened
+--
+   Hamayal Choudhry, founder and CEO of Canadian company smartARM, tries
+   on the new Ray-Ban AI glasses using Meta technology. Choudhry happened
+   to be in the store when the Global News team for The New Reality was
+--
+
+   Canada’s AI pioneering dates back to the 1970s, when researchers formed
+   the world’s first national AI association.
+
+   The Canadian Artificial Intelligence Association (CAIAC) formerly known
+   as the Canadian Society for the Computational Studies of Intelligence,
+--
+   leadership in research, development and education in Canada’s
+   artificial intelligence community by facilitating the exchange of
+   knowledge through various media and venues.”
+--
+   It held its first annual conference in 1976, three years before the
+   American Association for Artificial Intelligence was founded.
+
+--
+   phone calls were expensive. When you look at the earlier proceedings,
+   you will see a pool of talent that was leading the world in AI,” said
+   Denilson Barbosa, current CAIAC president.
+--
+
+   Its archive is a treasure trove of AI history. Its magazine debut in
+   1984 talks about the potential and the influence of AI: “It is
+   predictable that, awakening to their new place in the sun, AIers be
+   distracted by sycophants, charlatans, and barmecides. Does the AIer
+   grow frustrated with misconceptions about AI? You bet we do.”
+   An excerpt from the September 1984 edition of the CAIAC Magazine. View
+--
+   An excerpt from the September 1984 edition of the CAIAC Magazine.
+   Canadian Artificial Intelligence Association
+
+--
+   Alberta. Speaking by phone from Edmonton, Barbosa acknowledged that
+   while Canada is slow to fully integrate AI, conservative in investing
+   and implementing new technologies, he’s looking forward to the
+   possibilities of AI in learning in school or for personal growth,
+   including AI in classrooms.
+
+--
+   process — they would work on their own, and when they got stuck, they
+   would get help from an always-available AI,” Barbosa said.
+
+--
+   extra help to those who need it the most.”
+   People take photos of an AI robot at the All In Artificial Intelligence
+   conference on Sept. 27 in Montreal. View image in full screen
+   People take photos of an AI robot at the All In Artificial Intelligence
+   conference on Sept. 27 in Montreal. THE CANADIAN PRESS / Ryan Remiorz
+
+   When most people think of AI, robots from movies — who can think for
+   themselves — come to mind. That’s known as deep learning AI, found in
+   the software of autonomous cars, facial recognition, mass surveillance
+   and yes, some robots. It’s the AI that has the potential to think for
+   itself and that scares a lot of people.
+--
+   Then there’s the field where Canada is considered a leader: the broader
+   technology of machine learning AI, which most people don’t realize we
+   already use every day. It curates social media feeds, translates
+--
+
+   Under the umbrella of machine learning, is Generative AI. It generates
+   new content that mimics the data it was trained on.
+--
+
+   “Generative AI allows you to tune the information in a way where now
+   you can actually consume the information the way you want to based on
+--
+
+   Most Canadians can’t tell what’s human or AI. A study released in
+   October by the Canadian Journalism Foundation found that half of us are
+   not confident in distinguishing the difference between social media
+   content generated by AI compared with content created by humans.
+
+   This unknown is leading to a lot of fear and misinformation about what
+   AI is and isn’t doing. But whether we’re ready, it’s poised to change
+   nearly everything we do and Canada is already playing a leading role.
+--
+   full screen
+   Deval Pandya, vice president of AI engineering at Vector Institute, is
+   passionate about the role of digital technologies in accelerating
+--
+
+   In 2017, the federal government put $125 million of funding into AI,
+   the first country to have a national AI strategy. The funding helped to
+   create three world-renowned institutes to guide development in AI
+   research in Montreal, Edmonton, and Toronto, and put Canada among the
+--
+
+   “For me, the biggest risk is not adopting AI and realizing its maximum
+   potential,” said Deval Pandya, vice-president of AI engineering at
+   Toronto’s Vector Institute, one of the institutes founded in 2017.
+   “AI is a transformative technology that is going to make [the] world a
+   much better place and help us solve some of the most pressing
+--
+
+   Vector Institute is an independent non-profit dedicated to AI research.
+   It has partnerships with 20 university programs in Ontario with
+   training focused on AI, providing startups with a steady stream of new
+   workers.
+--
+   screen
+   Jas Jaaj, Deloitte Canada’s managing partner of AI and data, oversees a
+   team of AI strategists, data scientists, machine learning engineers,
+   data engineers, and risk specialists. Brent Rose / Global News
+
+   You don’t have to look far from the Vector Institute to see AI’s
+   evolution.
+
+   Jas Jaaj, a managing partner at Deloitte in Toronto who focuses on AI
+   and data, believes AI will be to the 21st century what the steam engine
+   was to the 18th century, what electricity was to the 19th century, and
+--
+   Professional services firms like Deloitte help companies find the next
+   big thing. And these days, it doesn’t get bigger than AI.
+
+   Global News got an exclusive look at one of the ways AI will change
+   health care. It’s an AI nurse, assigned to newly discharged patients to
+   help track their recovery care plan and progress.
+--
+   phase.
+   This virtual nurse, powered by AI, was designed in partnership between
+   Deloitte Canada and The Ottawa Hospital. It will follow up on post-op
+--
+   View image in full screen
+   This virtual nurse, powered by AI, was designed in partnership between
+   Deloitte Canada and The Ottawa Hospital. It will follow up on post-op
+--
+
+   Each AI nurse is unique to the patient. It has the information it
+   requires to converse with a patient about their care and its skin tone,
+--
+
+   During the demo for Global News, the AI nurse asked: “Regarding your
+   post-discharge medications, Tenzin and Lasix, do you have any questions
+--
+
+   Most importantly, the AI nurse is smart enough to flag problems for a
+   human nurse or doctor to intercede.
+
+   The goal of the AI nurse isn’t to replace human nurses, it’s to take
+   tasks off their already full plates and allow them to perform
+   higher-value work with more time. It can also lower readmission rates.
+   Jaaj predicts 100 per cent of Canadian hospitals will begin to use AI
+   in some way within the next few years.
+--
+   Regardless of the goal, it doesn’t stop one of the biggest concerns
+   about progress in integrating AI into the Canadian workforce: job
+   losses.
+--
+   Bruce Stamm, managing director of enterprise data and artificial
+   intelligence at Air Canada, says the airline is using AI to optimize
+   its flight scheduling. Next year, it hopes to also integrate AI into
+   the maintenance schedule. View image in full screen
+   Bruce Stamm, managing director of enterprise data and artificial
+   intelligence at Air Canada, says the airline is using AI to optimize
+   its flight scheduling. Next year, it hopes to also integrate AI into
+   the maintenance schedule. Brent Rose / Global News
+--
+   While progress will have its casualties, Canada is very much in a
+   position of relying on human input to use AI. AI can take on
+   time-consuming tasks, freeing us up to solve more complicated problems.
+--
+   streamline its entire company by taking advantage of the power and
+   efficiency AI creates. Its biggest challenge is tackling the thing we
+   all hate most: delays.
+--
+   truth is, frustrations are all too common. Air Canada is hoping the use
+   of AI will help. Brent Rose / Global News
+
+   In late October, Stamm’s team started using AI to optimize its
+   scheduling and predict delays. The program uses historical data and
+--
+
+   “AI and data are going to be part of our DNA just to do a lot more
+   effective decision-making,” Stamm said.
+
+   Next year, Air Canada plans to use AI to modernize its maintenance
+   schedule for its fleet of about 200 planes. It will take into
+--
+   small startups are also launching very quickly. In the last year,
+   hundreds of Canadian AI startups have hit the market.
+
+--
+   It mimics human tendencies, like hand-eye coordination, holding items,
+   carrying heavy objects and lifting delicate ones. Using AI, Choudry
+   said the prosthesis will inherently “know” how to handle something —
+--
+   at Ontario Tech University. Pedersen, a professor, author, and lab
+   director, has more than 20 years of experience in researching AI and
+   wearable technologies. Brent Rose / Global News
+--
+   Pedersen has been studying wearable technology for over 20 years. Even
+   she is amazed at how fast AI has become embedded in our daily lives.
+
+   “People went from never experiencing AI themselves to being able to use
+   it on their phones, to use it on their laptops, use it at work, use it
+--
+   As with everything related to new technology, there are persistent
+   concerns that AI is moving much faster than the guardrails being built
+   for it.
+--
+   The federal government has a framework for proposed legislation, but
+   The Artificial Intelligence and Data Act won’t come into force before
+   2025. Federal Minister of Innovation, Science, and Industry,
+--
+   released a voluntary code of conduct in late September for generative
+   AI developers. In the absence of regulation, it is supposed to guide
+   organizations to come up with an environment to self-regulate.
+--
+       Money
+     * How Canadian companies are using AI as ChatGPT marks first
+       anniversary

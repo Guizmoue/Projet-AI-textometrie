@@ -1,0 +1,165 @@
+   Front. Artif. Intell., 28 February 2022
+   Sec. AI for Human Learning and Behavior Change
+   Volume 5 - 2022 | https://doi.org/10.3389/frai.2022.750763
+--
+   Robots, virtual assistants, and other kinds of agents imbued with
+   artificial intelligence (AI) have been, and will continue to be,
+   increasingly implemented across many industries, such as healthcare,
+--
+   being transformed by advances in these technologies (Misuraca et al.,
+   2020). AI has also been useful in numerous different applications, from
+   healthcare, such as evaluating and determining treatment in orthopedic
+--
+   drives marketing decisions (Cuzzolin et al., 2020; Rai, 2020). Though
+   artificial intelligence is already applied to a broad range of domains,
+   most implementations are generally static, deterministic models that
+--
+   through programmed “if-then” functions), rather than what would be
+   considered true artificial intelligence that is comparable to human
+   intelligence (Kaplan and Haenlein, 2019).
+--
+   led to the development of new areas of research, such as “explainable
+   artificial intelligence” (XAI; Gunning et al., 2019). Here, the goal is
+   to either, ensure underlying decision processes are less opaque
+--
+   reliability-related knowledge, will become increasingly important as
+   the autonomous capabilities of AI systems advance (Lyons, 2013).
+
+--
+   tasks to it regardless of whether the agent is truly capable and will
+   lead to misuse of the AI system. Further, over-reliance on the system
+   can lead to human complacency and failing to detect AI system errors
+   (Alonso and De La Puente, 2018). The miscalibration of human trust in
+   AI, and resulting inappropriately reliance on the agent, will cause
+   decreased performance in human-agent teams (Alonso and De La Puente,
+--
+   influences whether a human will rely upon the system (Lyons, 2013). As
+   noted above, trust in AI systems is closely related to the level of
+   understandability and predictability of a system (Akula et al., 2019).
+--
+   artificial social intelligence will require interdisciplinary
+   collaboration between computer science, AI, and machine learning
+   researchers, and social science researchers, such as philosophy,
+--
+   element of human social intelligence, we argue that ToM is crucial for
+   developing AI systems that effectively interact with humans in teams or
+   in multi-agent systems (Oguntola et al., 2021).
+--
+   Transparency helps humans to better understand the agent's actions and
+   predict the future behavior of the AI system more accurately (Riedl,
+   2019). Our point here is that ASI can use its AToM to determine how to
+--
+   Mind. This article is not a survey of existing approaches to machine
+   learning, explanation in AI, or interpretability in AI, nor will it
+   discuss specific modeling techniques. Such a review is beyond the scope
+--
+   intelligence and theory of mind in humans, and conceptually adapt and
+   apply theories to artificial intelligence. From this, we lay the
+   foundation for computer science and AI researchers to understand what
+   the constituent elements of an AToM are to support building a robust,
+--
+   in competence depending on their social intelligence. In human-machine
+   interactions, failures can occur because AI has neglected the
+   importance of social intelligence for gauging intentions. As detailed
+--
+   the need for socially informed interventions leverages the kind of
+   computationally intensive problem-solving at which AI is already adept.
+   Additionally, an ASI should be useful, viable, and applicable whether
+--
+   capability for an algorithm to enable prediction of personal attributes
+   from facial features has great implications for human-AI interactions
+   by facilitating the perception of emotional states, personality, or
+--
+   natural language processing) or non-verbal cues (behavioral modeling).
+   Related to social signal processing, AI capabilities are still
+   developing when it comes to processing and interpreting visual cues
+--
+   ToM across varying levels of complexity (Hutchins et al., 2008). Unlike
+   traditional evaluation of AI systems that are primarily based on the
+   accuracy of its outputs, a psychometric-based evaluation of the level
+--
+   formation of theory of mind whereby humans attempt to make attributions
+   about the “mental state” of an agent teammate. We know that current AI
+   systems are rather opaque, making it difficult for humans to comprehend
+--
+   made and actions taken in the pursuit of goals. This lack of
+   understanding of how AI systems come to their decisions, can lead to a
+   lack of trust in the system. During high-risk situations (e.g., when
+   errors can cause harm), this lack of trust is particularly problematic
+   and may lead human teammates to reject the AI system (Akula et al.,
+   2019; Rai, 2020; Papagni and Koeszegi, 2021).
+--
+   comprehend, and anticipate agent behavior. Developing humans' ToM of an
+   AI system within a human-agent team can potentially be accomplished by
+   intentional information-sharing and contextually relevant training that
+   aims to inform the human on factors that can affect an AI system's
+   processing and decision-making. In short, increasing transparency can
+--
+
+   As AI progresses, interdisciplinary research is needed to sure machine
+   agents are capable of collaboration. In this paper we have described
+--
+   exchange of primarily social content without task-directed purpose or
+   structure. AI, then, can only be expected to successfully engage in
+   those sorts of scenarios effectively if they have social intelligence.
+--
+   Bennett, M. T., and Maruyama, Y. (2021). Intensional artificial
+   intelligence: from symbol emergence to explainable and empathetic AI.
+   arXiv preprint arXiv:2104.11573. https://arxiv.org/abs/2104.11573v1
+--
+   Cuzzolin, F., Morelli, A., Cirstea, B., and Sahakian, B. J. (2020).
+   Knowing me, knowing you: theory of mind in AI. Psychol. Med. 50,
+   1057–1061. doi: 10.1017/S0033291720000835
+--
+
+   DARPA (2016). Explainable Artificial Intelligence (XAI). Technical
+   Report Defense Advanced Research Projects Agency.
+--
+   Marcelloni, F. (2019). Evolutionary fuzzy systems for explainable
+   artificial intelligence: why, when, what for, and where to? IEEE
+   Comput. Intell. Mag. 14, 69–81. doi: 10.1109/MCI.2018.2881645
+--
+   Gunning, D., Stefik, M., Choi, J., Miller, T., Stumpf, S., and Yang, G.
+   Z. (2019). XAI-Explainable artificial intelligence. Sci. Robot. 4, 37.
+   doi: 10.1126/scirobotics.aay7120
+--
+   Haleem, A., Vaishya, R., Javaid, M., and Khan, I. H. (2020). Artificial
+   Intelligence (AI) applications in orthopaedics: an innovative
+   technology to embrace. J. Clin. Orthopaed. Trauma 11, S80. doi:
+--
+   Hofstede, G. J. (2019). GRASP agents: social first, intelligent later.
+   AI Soc. 34, 535–543. doi: 10.1007/s00146-017-0783-7
+
+--
+   Jacovi, A., Marasović, A., Miller, T., and Goldberg, Y. (2021).
+   “Formalizing trust in artificial intelligence: prerequisites, causes
+   and goals of human trust in AI,” in Proceedings of the 2021 ACM
+   Conference on Fairness, Accountability, and Transparency, Virtual
+--
+   Joo, H., Simon, T., Cikara, M., and Sheikh, Y. (2019). “Towards social
+   artificial intelligence: Nonverbal social signal prediction in a
+   triadic interaction,” in Proceedings of the IEEE/CVF Conference on
+--
+   fairest in the land? On the interpretations, illustrations, and
+   implications of artificial intelligence. Bus. Horizons 62, 15–25. doi:
+   10.1016/j.bushor.2018.08.004
+--
+
+   Miller, T. (2019). Explanation in artificial intelligence: insights
+   from the social sciences. Artif. Intell. 267, 1–38. doi:
+--
+
+   Misuraca, G., van Noordt, C., and Boukli, A. (2020). “The use of AI in
+   public services: results from a preliminary mapping across the EU,” in
+--
+
+   Rai, A. (2020). Explainable AI: from black box to glass box. J. Acad.
+   Market. Sci. 48, 137–141. doi: 10.1007/s11747-019-00710-5
+--
+
+   Riedl, M. O. (2019). Human-centered artificial intelligence and machine
+   learning. Hum. Behav. Emerg. Technol. 1, 33–36. doi: 10.1002/hbe2.117
+--
+   Santoro, A., Lampinen, A., Mathewson, K., Lillicrap, T., and Raposo, D.
+   (2021). Symbolic behaviour in artificial intelligence. arXiv preprint
+   arXiv:2102.03406.https://arxiv.org/abs/2102.03406v2

@@ -1,0 +1,169 @@
+   #Language Is The Next Great Frontier In AI - RSS
+
+--
+   Nov 30, 2023,07:15am EST
+   How Small Businesses And Entrepreneurs Can Benefit From AI
+   Nov 29, 2023,09:55pm EST
+--
+   Nov 28, 2023,02:36pm EST
+   Amazon Unveils Q, A Generative AI Solution For Enterprise
+   Nov 28, 2023,01:19pm EST
+--
+   Nov 28, 2023,12:13pm EST
+   The Social Side Of AI: Think Carefully About The Future
+   Nov 28, 2023,09:45am EST
+   How Retailers Are Using AI To Manipulate Consumer Shopping
+   Nov 27, 2023,10:49pm EST
+--
+
+Language Is The Next Great Frontier In AI
+
+--
+   Opinions expressed by Forbes Contributors are their own.
+   I write about the big picture of artificial intelligence.
+   Following
+--
+   See here for the second part of this article series: A Wave Of
+   Billion-Dollar Language AI Startups Is Coming
+     __________________________________________________________________
+--
+   Building machines that can understand language has thus been a central
+   goal of the field of artificial intelligence dating back to its
+   earliest days.
+--
+
+   This is because mastering language is what is known as an “AI-complete”
+   problem: that is, an AI that can truly understand language the way a
+   human can would by implication be capable of any other human-level
+   intellectual activity. Put simply, to solve language is to solve AI.
+   MORE FROMFORBES ADVISOR
+--
+   This profound and subtle insight is at the heart of the “Turing test,”
+   introduced by AI pioneer Alan Turing in a groundbreaking 1950 paper.
+   Though often critiqued or misunderstood, the Turing test captures a
+--
+   passed the Turing test.) But over the past few years researchers have
+   achieved startling, game-changing breakthroughs in language AI, also
+   called natural language processing (NLP).
+--
+   The most powerful way to illustrate the capabilities of today’s
+   cutting-edge language AI is to start with a few concrete examples.
+
+   Today’s AI can correctly answer complex medical queries—and explain the
+   underlying biological mechanisms at play. It can craft nuanced memos
+--
+
+   What is behind these astonishing new AI abilities, which just five
+   years ago would have been inconceivable?
+--
+   In short: the invention of the transformer, a new neural network
+   architecture that has unleashed vast new possibilities in AI.
+
+--
+   analyzed at the same time rather than in sequence. In order to support
+   this parallelization, transformers rely on an AI mechanism known as
+   attention. Attention enables a model to consider the relationships
+--
+   A flurry of innovation followed in the wake of the original transformer
+   paper as the world’s leading AI researchers built upon this
+   foundational breakthrough.
+--
+   sheer size. OpenAI has been intentional and transparent about its
+   strategy to pursue more advanced language AI capabilities through raw
+   scale above all else: more compute, larger training data corpora,
+--
+   unlabeled data. This is a crucial difference between today’s
+   cutting-edge language AI models and the previous generation of NLP
+   models, which had to be trained with labeled data. Today’s
+--
+   new paradigm for NLP technology development—one that will have profound
+   implications for the nascent AI economy.
+
+--
+   produce them, will exert outsize influence on the future behavior of
+   artificial intelligence around the world.
+
+--
+   the foundation models can lead to immediate benefits across all of
+   NLP), it is also a liability; all AI systems might inherit the same
+   problematic biases of a few foundation models.”
+--
+
+   The source of social bias in AI models is straightforward to summarize
+   but insidiously difficult to root out. Because large language models
+--
+   foundation models become increasingly influential in society. Some
+   observers believe that AI bias will eventually become as prominent of
+   an issue for consumers, companies and governments as digital threats
+--
+
+   There is no silver-bullet solution to the challenge of AI bias and
+   toxicity. But as the problem becomes more widely recognized, a number
+--
+   Historically, Alphabet’s DeepMind has been an outlier among the world’s
+   most advanced AI research organizations for not making language AI a
+   major focus area. This changed at the end of 2021, with DeepMind
+--
+   Of the three NLP papers that DeepMind published, one is devoted
+   entirely to the ethical and social risks of language AI. The paper
+   proposes a comprehensive taxonomy of 6 thematic areas and 21 specific
+--
+   central focus of its NLP research going forward to help ensure that it
+   is pursuing innovation in language AI responsibly.
+
+   The fact that this dimension of language AI research—until recently,
+   treated as an afterthought or ignored altogether by most of the world’s
+   NLP researchers—featured so centrally in DeepMind’s recent foray into
+   language AI may be a signal of the field’s shifting priorities moving
+   forward.
+
+   Increased regulatory focus on the harms of bias and toxicity in AI
+   models will only accelerate this shift. And make no mistake: regulatory
+--
+   involve natural language at all. In particular, today’s cutting-edge
+   language AI technology is powering remarkable breakthroughs in two
+   other domains: coding and biology.
+--
+   It therefore makes sense that the same powerful new technologies that
+   have given AI incredible fluency in natural language can likewise be
+   applied to programming languages, with similar results.
+--
+
+   Then, just two weeks ago, DeepMind further advanced the frontiers of AI
+   coding with its publication of AlphaCode.
+
+   AlphaCode is an AI system that can compete at a human level in
+   programming competitions. In these competitions, which attract hundreds
+--
+   with up to hundreds of lines of code. AlphaCode almost seems to display
+   that ever-elusive attribute in AI, high-level reasoning.
+
+--
+   problems is second nature in human intelligence—a result of critical
+   thinking informed by experience. For artificial intelligence to help
+   humanity, our systems need to be able to develop problem-solving
+--
+   Another subfield of biology that represents fertile ground for language
+   AI is the study of proteins. Proteins are strings of building blocks
+   known as amino acids, linked together in a particular order. There are
+--
+
+   As one example, an AI research team from Salesforce recently built an
+   NLP model that “learns the language of proteins” and can generate
+--
+   These efforts are just the beginning. In the months and years ahead,
+   language AI will make profound contributions to our understanding of
+   how life itself works.
+--
+   Language is at the heart of human intelligence. It therefore is and
+   must be at the heart of our efforts to build artificial intelligence.
+   No sophisticated AI can exist without mastery of language.
+
+   Today, the field of language AI is at an exhilarating inflection point,
+   on the cusp of transforming industries and spawning new
+--
+   This article explored the big-picture developments and trends shaping
+   the world of language AI today. In a followup article, we canvass
+   today’s most exciting NLP startups. A growing group of NLP
+   entrepreneurs is applying cutting-edge language AI in creative ways
+   across sectors and use cases, generating massive economic value and

@@ -1,0 +1,554 @@
+            Intelligence
+          + The Impact of Multiple Narrow AI Technology
+          + Conclusions and Framework
+--
+   Front. Artif. Intell., 25 March 2021
+   Sec. AI for Human Learning and Behavior Change
+   Volume 4 - 2021 | https://doi.org/10.3389/frai.2021.622364
+
+Human- versus Artificial Intelligence
+
+--
+
+   AI is one of the most debated subjects of today and there seems little
+   common understanding concerning the differences and similarities of
+   human intelligence and artificial intelligence. Discussions on many
+   relevant topics, such as trustworthiness, explainability, and ethics
+--
+   conceptions and, for instance, the pursuit of human-like intelligence
+   as the golden standard for Artificial Intelligence. In order to provide
+   more agreement and to substantiate possible future research objectives,
+   this paper presents three notions on the similarities and differences
+   between human- and artificial intelligence: 1) the fundamental
+   constraints of human (and artificial) intelligence, 2) human
+--
+   3) the high potential impact of multiple (integrated) forms of
+   narrow-hybrid AI applications. For the time being, AI systems will have
+   fundamentally different cognitive qualities and abilities than
+--
+   possible? For what tasks and under what conditions, decisions are safe
+   to leave to AI and when is human judgment required? How can we
+   capitalize on the specific strengths of human- and artificial
+   intelligence? How to deploy AI systems effectively to complement and
+   compensate for the inherent constraints of human cognition (and vice
+   versa)? Should we pursue the development of AI “partners” with human
+   (-level) intelligence or should we focus more at supplementing human
+   limitations? In order to answer these questions, humans working with AI
+   systems in the workplace or in policy making have to develop an
+   adequate mental model of the underlying ‘psychological’ mechanisms of
+   AI. So, in order to obtain well-functioning human-AI systems,
+   Intelligence Awareness in humans should be addressed more vigorously.
+--
+
+   Recent advances in information technology and in AI may allow for more
+   coordination and integration between of humans and technology.
+   Therefore, quite some attention has been devoted to the development of
+   Human-Aware AI, which aims at AI that adapts as a “team member” to the
+   cognitive possibilities and limitations of the human team members. Also
+--
+   degree of collaboration, similarity, and equality in “hybrid teams”.
+   When human-aware AI partners operate like “human collaborators” they
+   must be able to sense, understand, and react to a wide range of complex
+--
+   den Bosch and Bronkhorst, 2018; van den Bosch et al., 2019). Therefore
+   these “AI partners,” or “team mates” have to be endowed with human-like
+   (or humanoid) cognitive abilities enabling mutual understanding and
+--
+
+   However, no matter how intelligent and autonomous AI agents become in
+   certain respects, at least for the foreseeable future, they probably
+--
+   mind, it becomes more and more important that human professionals
+   working with advanced AI systems, (e.g. in military‐ or policy making
+   teams) develop a proper mental model about the different cognitive
+   capacities of AI systems in relation to human cognition. This issue
+   will become increasingly relevant when AI systems become more advanced
+   and are deployed with higher degrees of autonomy. Therefore, the
+--
+   development of education and training programs for humans who have to
+   use or “collaborate with” advanced AI systems in the near and far
+   future.
+
+   With the application of AI systems with increasing autonomy more and
+   more researchers consider the necessity of vigorously addressing the
+--
+   Tanner, 2012). Because of the many differences between the underlying
+   substrate and architecture of biological and artificial intelligence
+   this anthropocentric way of reasoning is probably unwarranted. For
+--
+   “intelligence” as: “the capacity to realize complex goals” (Tegmark,
+   2017). These goals may pertain to narrow, restricted tasks (narrow AI)
+   or to broad task domains (AGI). Building on this definition, and on a
+--
+   automatically and efficiently over a broad range of tasks and contexts.
+   Relevant AGI research differs from the ordinary AI research by
+   addressing the versatility and wholeness of intelligence, and by
+--
+   would be very useful, for example when a high degree of social
+   intelligence of AI will contribute to more adequate interactions with
+   humans, for example in health care or for entertainment purposes
+--
+   intelligence in relation to the most probable potentials (and real
+   upcoming issues) of AI in the short- and mid-term future. This will
+   provide food for thought in anticipation of a future that is difficult
+   to predict for a field as dynamic as AI.
+
+--
+   is the “real” form of intelligence. This is even already implicitly
+   articulated in the term “Artificial Intelligence”, as if it were not
+   entirely real, i.e., real like non-artificial (biological)
+--
+   next insult for humanity” (van Belkom, 2019). This goes as far that the
+   rapid progress in the field of artificial intelligence is accompanied
+   by a recurring redefinition of what should be considered “real
+--
+   is then continuously adjusted and further restricted to: “those things
+   that only humans can do.” In line with this, AI is then defined as “the
+   study of how to make computers do things at which, at the moment,
+--
+   of real intelligence, (e.g. Bergstein, 2017). For instance, Facebook’s
+   director of AI and a spokesman in the field, Yann LeCun, mentioned at a
+   Conference at MIT on the Future of Work that machines are still far
+--
+   To make this point clear, we first will provide some insight into the
+   basic nature of both human and artificial intelligence. This is
+   necessary for the substantiation of an adequate awareness of
+--
+   • AGI is often not necessary; many complex problems can also be tackled
+   effectively using multiple narrow AI’s.^1
+
+--
+   human brain as a physical system (Bostrom, 2014; Tegmark, 2017). The
+   prevailing notion in this respect among AI scientists is that
+   intelligence is ultimately a matter of information and computation, and
+--
+
+Fundamental Differences Between Biological and Artificial Intelligence
+
+--
+   instance, Ackermann. (2018) writes: “Before reaching superintelligence,
+   general AI means that a machine will have the same cognitive
+   capabilities as a human being”. So, researchers deliberate extensively
+   about the point in time when we will reach general AI, (e.g., Goertzel,
+   2007; Müller and Bostrom, 2016). We suppose that these kinds of
+--
+   human-like intelligence is just one of those. This means, for example
+   that the development of AI is determined by the constraint of physics
+   and technology, and not by those of biological evolution. So, just as
+--
+   intelligence. Below we briefly summarize a few fundamental differences
+   between human and artificial intelligence (Bostrom, 2014):
+
+--
+   learned a new skill, this will be bounded to the system itself. In
+   contrast, if an AI system has learned a certain skill then the
+   constituting algorithms can be directly copied to all other similar
+--
+
+   ‐Speed: Signals from AI systems propagate with almost the speed of
+   light. In humans, the conduction velocity of nerves proceeds with a
+--
+   limited bandwidth. This is slower and more difficult than the
+   communication of AI systems that can be connected directly to each
+   other. Thanks to this direct connection, they can also collaborate on
+--
+
+   ‐Updatability and scalability: AI systems have almost no constraints
+   with regard to keep them up to date or to upscale and/or re-configure
+--
+   lead to different qualities and limitations between human and
+   artificial intelligence. Our response speed to simple stimuli is, for
+   example, many thousands of times slower than that of artificial
+--
+   other and as such can be part of one integrated system. This means that
+   AI systems do not have to be seen as individual entities that can
+   easily work alongside each other or have mutual misunderstandings. And
+   if two AI systems are engaged in a task then they run a minimal risk to
+   make a mistake because of miscommunications (think of autonomous
+--
+   Because of these differences it may be very misleading to use our own
+   mind as a basis, model or analogy for reasoning about AI. This may lead
+   to erroneous conceptions, for example about the presumed abilities of
+   humans and AI to perform complex tasks. Resulting flaws concerning
+   information processing capacities emerge often in the psychological
+--
+   be acceptable in psychological research, this may be misleading if we
+   strive for understanding the intelligence of AI systems. For us it is
+   much more difficult to multiply two random numbers of six digits than
+--
+
+   So, if there would exist AI systems with general intelligence that can
+   be used for a wide range of complex problems and objectives, those AGI
+--
+   profile, including other cognitive qualities, than humans have
+   (Goertzel, 2007). This will be even so, if we manage to construct AI
+   agents who display similar behavior like us and if they are enabled to
+   adapt to our way of thinking and problem-solving in order to promote
+   human-AI teaming. Unless we decide to deliberately degrade the
+   capabilities of AI systems (which would not be very smart), the
+   underlying capacities and abilities of man and machines with regard to
+--
+   Because of these differences we should focus at systems that
+   effectively complement us, and that make the human-AI system stronger
+   and more effective. Instead of pursuing human-level AI it would be more
+   beneficial to focus on autonomous machines and (support) systems that
+--
+   terms of goals, virtues, rules and norms expressed in (fuzzy) language,
+   AI has already established excellent capacities to process and
+   calculate directly on highly complex data. Therefore, or the execution
+--
+   computational), modern digital intelligence may be more effective and
+   efficient than biological intelligence. AI may thus help to produce
+   better answers for complex problems using high amounts of data,
+--
+   logic reasoning, (e.g. Korteling et al., 2018b). Therefore, we
+   conjecture that ultimately the development of AI systems for supporting
+   human decision making may appear the most effective way leading to the
+--
+   complex issues. So, the cooperation and division of tasks between
+   people and AI systems will have to be primarily determinated by their
+   mutually specific qualities. For example, tasks or task components that
+   appeal to capacities in which AI systems excel, will have to be less
+   (or less fully) mastered by people, so that less training will probably
+   be required. AI systems are already much better than people at
+   logically and arithmetically correct gathering (selecting) and
+--
+   without any “self-interest” or “own hidden agenda.” Based on these
+   qualities AI systems may effectively take over tasks, or task
+   components, from people. However, it remains important that people
+--
+
+   In general, people are better suited than AI systems for a much broader
+   spectrum of cognitive and social tasks under a wide variety of
+--
+   are also better at the social-psychosocial interaction for the time
+   being. For example, it is difficult for AI systems to interpret human
+   language and -symbolism. This requires a very extensive frame of
+   reference, which, at least until now and for the near future, is
+   difficult to achieve within AI. As a result of all these differences,
+   people are still better at responding (as a flexible team) to
+--
+   division of tasks, capitalizing on the specific qualities and
+   limitations of humans and AI systems, human decisional biases may be
+   circumvented and better performance may be expected. This means that
+--
+   constraints and biases, may have more surplus value than striving at
+   collaboration between humans and AI that have developed the same
+   (human) biases. Although cooperation in teams with AI systems may need
+   extra training in order to effectively deal with this bias-mismatch,
+--
+   control AND high levels of automation which is likely to produce the
+   most effective and safe human-AI systems (Elands et al., 2019;
+   Shneiderman, 2020a). In brief: human intelligence is not the golden
+--
+   connect them to courses of action without knowing the underlying causal
+   links. This implies that it is difficult to provide deep learning AI
+   with some kind of transparency in how or why it has made a particular
+--
+
+   Of course we should not blindly trust the results generated by AI. Like
+   other fields of complex technology, (e.g. Modeling & Simulation), AI
+   systems need to be verified (meeting specifications) and validated
+--
+   intransparant (Nosek et al., 2011; Feldman-Barret, 2017). Therefore,
+   trust in AI should be primarily based on its objective performance.
+   This forms a more important base than providing trust on the basis of
+--
+
+The Impact of Multiple Narrow AI Technology
+
+--
+   AGI, like human general intelligence, would have many obvious
+   advantages, compared to narrow (limited, weak, specialized) AI. An AGI
+   system would be much more flexible and adaptive. On the basis of
+--
+   to view them from different perspectives (as people—ideally—also can
+   do). A characteristic of the current (narrow) AI tools is that they are
+   skilled in a very specific task, where they can often perform at
+   superhuman levels, (e.g. Goertzel, 2007; Silver et al., 2017). These
+   specific tasks have been well-defined and structured. Narrow AI systems
+   are less suitable, or totally unsuitable, for tasks or task
+--
+   circumstances. In the context of (unforeseen) changes in goals or
+   circumstances, the adequacy of current AI is considerably reduced
+   because it cannot reason from a general perspective and adapt
+   accordingly (Lake et al., 2017; Horowitz, 2018). As with narrow AI
+   systems, people are then needed to supervise on these deviations in
+--
+
+Multiple Narrow AI is Most Relevant Now!
+
+   The potential high prospects of AGI, however, do not imply that AGI
+   will be the most crucial factor in future AI R&D, at least for the
+   short- and mid-term. When reflecting on the great potential benefits of
+   general intelligence, we tend to consider narrow AI applications as
+   separate entities that can very well be outperformed by a broader AGI
+--
+   technological innovations, at the system level the total and wide range
+   of emerging AI applications will also have a groundbreaking
+   technological and societal impact (Peeters et al., 2020). This will be
+--
+   So, it will be much more profitable and beneficial to develop and build
+   (non-human-like) AI variants that will excel in areas where people are
+   inherently limited. It seems not too far-fetched to suppose that the
+   multiple variants of narrow AI applications also gradually get more
+   broadly interconnected. In this way, a development toward an ever
+   broader realm of integrated AI applications may be expected. In
+   addition, it is already possible to train a language model AI
+   (Generative Pre-trained Transformer3, GPT-3) with a gigantic dataset
+--
+
+   Besides, the moravec Paradox implies that the development of AI
+   “partners” with many kinds of human (-level) qualities will be very
+--
+   boundaries of human capabilities) will be relatively low. The most
+   fruitful AI applications will mainly involve supplementing human
+   constraints and limitations. Given the present incentives for
+   competitive technological progress, multiple forms of (connected)
+   narrow AI systems will be the major driver of AI impact on our society
+   for short- and mid-term. For the near future, this may imply that AI
+   applications will remain very different from, and in many aspects
+--
+   Intelligence is a multi-dimensional (quantitative, qualitative)
+   concept. All dimensions of AI unfold and grow along their own different
+   path with their own dynamics. Therefore, over time an increasing number
+   of specific (narrow) AI capacities may gradually match, overtake and
+   transcend human cognitive capacities. Given the enormous advantages of
+   AI, for example in the field of data availability and data processing
+   capacities, the realization of AGI probably would at the same time
+--
+
+   So when AI will truly understand us as a “friend,” “partner,” “alter
+   ego” or “buddy,” as we do when we collaborate with other humans as
+--
+   our awareness and insight concerning the continuous development and
+   progression of multiple forms of (integrated) AI systems. This concerns
+   for example the multi-facetted nature of intelligence. Different kind
+--
+   these human factors issues is crucial to optimize the utility,
+   performance and safety of human-AI systems (Peeters et al., 2020).
+
+--
+   level” will be realized is not the most relevant question for the time
+   being. According to most AI scientists, this will certainly happen, and
+   the key question is not IF this will happen, but WHEN, (e.g., Müller
+   and Bostrom, 2016). At a system level, however, multiple narrow AI
+   applications are likely to overtake human intelligence in an
+--
+   into the fundamental characteristics, differences and idiosyncrasies of
+   human and artificial intelligences. First we presented ideas and
+   arguments to scale up and differentiate our conception of intelligence,
+--
+   (which may or may not surpass ours in many ways). This would make us
+   better aware of the most probable potentials of AI applications for the
+   short- and medium-term future. For example, from this perspective, our
+--
+   be pursued with foremost priority). Because of the many fundamental
+   differences between natural and artificial intelligences, human-like
+   AGI will be very difficult to accomplish in the first place (and also
+--
+   scope of human perceptual-motor and cognitive abilities. Instead, the
+   most profitable AI applications for the short- and mid-term future,
+   will probably be based on multiple narrow AI systems. These multiple
+   narrow AI applications may catch up with human intelligence in an
+   increasingly broader range of areas.
+--
+   From this point of view we advocate not to dwell too intensively on the
+   AGI question, whether or when AI will outsmart us, take our jobs, or
+   how to endow it with all kinds of human abilities. Given the present
+   state of the art it may be wise to focus more on the whole system of
+   multiple AI innovations with humans as a crucial connecting and
+   supervising factor. This also implies the establishment and
+   formalization of legal boundaries and proper (effective, ethical, safe)
+   goals for AI systems (Elands et al., 2019; Aliman, 2020). So this human
+   factor (legislator, user, “collaborator”) needs to have good insight
+--
+   intelligence (under all sorts of tasks and working conditions). Both in
+   the workplace and in policy making the most fruitful AI applications
+   will be to complement and compensate for the inherent biological and
+--
+   concern how to use it intelligently? For what tasks and under what
+   conditions decisions are safe to leave to AI and when is human judgment
+   required? How can we capitalize on the strengths of human intelligence
+   and how to deploy AI systems effectively to complement and compensate
+   for the inherent constraints of human cognition. See (Hoffman and
+--
+
+   In summary: No matter how intelligent autonomous AI agents become in
+   certain respects, at least for the foreseeable future, they will remain
+--
+   information processing and intelligence differs from that of–the many
+   possible and specific variants of—AI systems. Only when humans develop
+   a proper of these “interspecies” differences they can effectively
+   capitalize on the potential benefits of AI in (future) human-AI teams.
+   Given the high flexibility, versatility, and adaptability of humans
+   relative to AI systems, the first challenge becomes then how to ensure
+   human adaptation to the more rigid abilities of AI?^4 In other words:
+   how can we achieve a proper conception the differences between human-
+   and artificial intelligence?
+
+--
+   and training on how to deal with the very new and different
+   characteristics, idiosyncrasies, and capacities of AI systems. This
+   includes, for example, a proper understanding of the basic
+   characteristics, possibilities, and limitations of the AI’s cognitive
+   system properties without anthropocentric and/or anthropomorphic
+--
+   developing new, targeted and easily configurable (adaptive) training
+   forms and learning environments for human-AI systems. These flexible
+   training forms and environments, (e.g. simulations and games) should
+--
+   the specific, non-human characteristics, abilities, and limitations of
+   AI systems and how to deal with these in practical situations. People
+   will have to understand the critical factors determining the goals,
+   performance, and choices of AI? Which may in some cases even include
+   the simple notion that AIs excite as much about their performance in
+--
+   milkshake well. They have to learn when and under what conditions
+   decisions are safe to leave to AI and when is human judgment required
+   or essential? And more in general: how does it “think” and decide? The
+--
+   become bigger when the degree of autonomy (and genericity) of advanced
+   AI systems will grow.
+
+--
+   It needs to include at least a module on the cognitive characteristics
+   of AI. This is basically a subject similar to those subjects that are
+   also included in curricula on human cognition. This broad module on the
+   “Cognitive Science of AI” may involve a range of sub-topics starting
+   with a revision of the concept of "Intelligence" stripped of
+--
+   this module should focus at providing knowledge about the structure and
+   operation of the AI operating system or the “AI mind.” This may be
+   followed by subjects like: Perception and interpretation of information
+   by AI, AI cognition (memory, information processing, problem solving,
+   biases), dealing with AI possibilities and limitations in the “human”
+   areas like creativity, adaptivity, autonomy, reflection, and (self-)
+   awareness, dealing with goal functions (valuation of actions in
+   relation to cost-benefit), AI ethics and AI security. In addition, such
+   a curriculum should include technical modules providing insight into
+   the working of the AI operating system. Due to the enormous speed with
+   which the AI technology and application develops, the content of such a
+   curriculum is also very dynamic and continuously evolving on the basis
+--
+   Below, we provide a global framework for the development of new
+   educational curricula on AI awareness. These subtopics go beyond
+   learning to effectively “operate,” “control” or interact with specific
+   AI applications (i.e. conventional human-machine interaction):
+
+   ‐Understanding of underlying system characteristics of the AI (the “AI
+   brain”). Understanding the specific qualities and limitations of AI
+   relative to human intelligence.
+--
+   ‐Understanding the complexity of the tasks and of the environment from
+   the perspective of AI systems.
+
+   ‐Understanding the problem of biases in human cognition, relative to
+   biases in AI.
+
+   ‐Understanding the problems associated with the control of AI,
+   predictability of AI behavior (decisions), building trust, maintaining
+   situation awareness (complacency), dynamic task allocation, (e.g.
+--
+
+   ‐How to deal with possibilities and limitations of AI in the field of
+   “creativity”, adaptability of AI, “environmental awareness”, and
+   generalization of knowledge.
+--
+   ‐Learning to deal with perceptual and cognitive limitations and
+   possible errors of AI which may be difficult to comprehend.
+
+   ‐Trust in the performance of AI (possibly in spite of limited
+   transparency or ability to “explain”) based on verification and
+--
+
+   ‐How to capitalize on the powers of AI in order to deal with the
+   inherent constraints of human information processing (and vice versa).
+--
+   man-machine system and being able to decide on when, for what, and how
+   the integrated combination of human- and AI faculties may perform at
+   best overall system potential.
+
+   In conclusion: due to the enormous speed with which the AI technology
+   and application evolves we need a more versatile conceptualization of
+--
+   challenges of machine intelligence, for instance to decide when to use
+   or deploy AI in relation to tasks and their context. The development of
+   educational curricula with new, targeted, and easily configurable
+   training forms and learning environments for human-AI systems are
+   therefore recommended. Further work should focus on training tools,
+   methods and content that are flexible and adaptive enough to be able to
+   keep up with the rapid changes in the field of AI and with the wide
+   variety of target groups and learning goals.
+--
+
+   ^1Narrow AI can be defined as the production of systems displaying
+   intelligence regarding specific, highly constrained tasks, like playing
+--
+
+   ^3Unless of course AI will be deliberately constrained or degraded to
+   human-level functioning.
+
+   ^4Next to the issue of Human-Aware AI, i.e. tuning AI to the cognitive
+   characteristics of humans.
+--
+
+   Ackermann, N. (2018). Artificial Intelligence Framework: a visual
+   introduction to machine learning and AI Retrieved from:
+   https://towardsdatascience.com/artificial-intelligence-framework-a-visu
+   al-introduction-to-machine-learning-and-ai-d7e36b304f87. (September 9,
+   2019).
+
+   Aliman, N-M. (2020). Hybrid cognitive-affective Strategies for AI
+   safety. PhD thesis. Utrecht, Netherlands: Utrecht University.
+--
+
+   Bergstein, B. (2017). AI isn’t very smart yet. But we need to get
+   moving to make sure automation works for more people. Cambridge, MA,
+   United States: MIT Technology Retrieved from:
+   https://www.technologyreview.com/s/609318/the-great-ai-paradox/
+
+   Bieger, J. B., Thorisson, K. R., and Garrett, D. (2014). “Raising AI:
+   tutoring matters,” in 7th international conference, AGI 2014 quebec
+--
+   Horowitz, M. C. (2018). The promise and peril of military applications
+   of artificial intelligence. Bulletin of the atomic scientists Retrieved
+   from
+--
+   intelligence: a survey of expert opinion. Fundamental issues of
+   artificial intelligence. Cham, Switzerland: Springer.
+   doi:10.1007/978-3-319-26485-1
+--
+   Neerincx, M. A., Schraagen, J. M., et al. (2020). Hybrid collective
+   intelligence in a human–AI society. AI and Society 38, 217–(238.)
+   doi:10.1007/s00146-020-01005-y
+--
+
+   Rich, E., and Knight, K. (1991). Artificial intelligence. 2nd edition.
+   New York, NY, United States: McGraw-Hill.
+--
+
+   Russell, S., and Norvig, P. (2014). Artificial intelligence: a modern
+   approach. 3rd ed. Harlow, United Kingdom: Pearson Education.
+--
+
+   Shneiderman, B. (2020a). Design lessons from AI’s two grand goals:
+   human emulation and useful applications. IEEE Trans. Tech. Soc. 1,
+--
+
+   Shneiderman, B. (2020b). Human-centered artificial intelligence:
+   reliable, safe & trustworthy. Int. J. Human–Computer Interaction 36
+--
+
+   van den Bosch, K., and Bronkhorst, K. (2018). Human-AI cooperation to
+   benefit military decision making. Soesterberg, Netherlands: TNO.
+--
+   van den Bosch, K., and Bronkhorst, K. (2019). Six challenges for
+   human-AI Co-learning. Adaptive instructional systems 11597, 572–589.
+   doi:10.1007/978-3-030-22341-0_45
+--
+
+   Keywords: human intelligence, artificial intelligence, artificial
+   general intelligence, human-level artificial intelligence, cognitive
+   complexity, narrow artificial intelligence, human-AI collaboration,
+   cognitive bias

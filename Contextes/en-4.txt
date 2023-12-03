@@ -1,70 +1,52 @@
-   _
 
-Artificial intelligence
+   Artificial intelligence
 
-Artificial intelligence
+Artificial intelligence guzzles billions of liters of water
 
-The growing thirst of data centers, which use water to cool their equipment,
-is beginning to cause tensions in the territories where they are located
+--
 
-Artificial intelligence
+   Artificial intelligence Columns of steam emerge from Google’s hyper
    data center in The Dalles, Oregon.
-   Manuel G. Pascual
 --
-   companies? Why is it lower for Meta or Apple than for Microsoft and
-   Google? On November 4, 2022, ChatGPT -- the chatbot that kicked off the
-artificial intelligence
-AI
+   Google? On November 4, 2022, ChatGPT — the chatbot that kicked off the
+   race for generative artificial intelligence (AI) — was introduced to
    the world. Google already had similar large language models, such as
-   LaMDA, in the experimental phase, but they were not available to the
 --
-   Moines," according to Associated Press.
 
-AI
-   skyrocketed the water consumption of Google and Microsoft, the two
-   technology companies that have invested the most in this technology.
-   This is what researcher Shaolei Ren, associate professor of electrical
-   and computer engineering at the University of California, Riverside,
-AI
-   certainty if the companies don't provide concrete data, but the
-   increase in 2022 was quite hefty compared to 2021, and we know that at
-AI
-AI
-   integrated into almost all of Microsoft and Google's everyday products,
-   including their search engines."
-
+   The additional effort to develop large AI models may have skyrocketed
+   the water consumption of Google and Microsoft, the two technology
+--
+   engineering at the University of California, Riverside, and specialist
+   in AI sustainability, believes. “We cannot say it with certainty if the
+   companies don’t provide concrete data, but the increase in 2022 was
+   quite hefty compared to 2021, and we know that at that time they
+   invested very heavily in generative AI, as well as in other AI-related
+   services,” he explains via email. “AI has been integrated into almost
+   all of Microsoft and Google’s everyday products, including their search
+--
    Companies do not share data on how much extra water and energy it costs
-AI
-   "What we do know, because the director of one of these infrastructures
-AI
-   more than those of common servers," points out Ana Valdivia, professor
-artificial intelligence
+   to train AI models compared to the usual consumption of data centers.
+   “What we do know, because the director of one of these infrastructures
+   confirmed it to me, is that the chips used in AI training consume much
+   more than those of common servers,” points out Ana Valdivia, professor
+   of artificial intelligence, government and policy at the Oxford
    Internet Institute, whose most recent research focuses on assessing the
-AI
+   environmental impact of AI.
 
-   At the end of the year, Ren and three other colleagues will publish
 --
-   have also had an increase in water consumption, but significantly
    smaller than those of Microsoft and Google. Even though they are
-AI
+   business giants and their activity has grown, their commitment to AI is
    not so big. Although this technology is present in their applications,
-   they do not have large models similar to ChatGPT (or Google's Bard, or
 --
-A problem with no prospect of solution
 
-AI
-AI
-   consuming large amounts of water? Ren thinks not. "Electric dryers
-   could be used to cool the computers, but they use a lot of energy, so
+   The industry is clearly betting on integrating AI into more and more
+   products and services. Is there a way to train AI models without
+   consuming large amounts of water? Ren thinks not. “Electric dryers
 --
-   plans to improve the efficiency of their systems. According to Meta
    sources, the new data centers that the company plans to develop
-AI
-   water (other than that necessary to generate electricity).
-   [27]According to a recent study by Javier Farfan and Alena Lohrmann, in
+   especially for AI will use electric drying systems that do not require
+   water (other than that necessary to generate electricity). According to
 --
-   [29]ChatGPT
 
-artificial intelligence
+The dirty secret of artificial intelligence
 
-   [31]Manuel G. Pascual

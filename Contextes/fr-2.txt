@@ -1,73 +1,74 @@
-   Interview
 
-Intelligence artificielle
-nos vies�
+Intelligence artificielle : «De plus en plus de spectres vont administrer
+nos vies»
 
-Intelligence artificielle
-   Le philosophe critique Eric Sadin, qui publie �l'Intelligence
-   artificielle ou l'enjeu du si�cle�, analyse l'emprise de l'IA sur
+   Intelligence artificielle : de la fascination à l'inquiétudedossier
+   Le philosophe critique Eric Sadin, qui publie «l’Intelligence
+   artificielle ou l’enjeu du siècle», analyse l’emprise de l’IA sur
+   la société. Pour lui, nous vivons un tournant, qui voit des systèmes
 --
-   Ecrivain et philosophe critique, Eric Sadin analyse l'emprise
-   du num�rique sur nos soci�t�s. Apr�s la Vie algorithmique et la
-Intelligence artificielle
-   l'enjeu du si�cle (1). Une entreprise de d�construction syst�matique
-   des discours technologiques, politiques et �conomiques pr�sentant
-intelligence artificielle
-IA
+   du numérique sur nos sociétés. Après la Vie algorithmique et la
+   Silicolonisation du monde, il publie l'Intelligence artificielle ou
+   l'enjeu du siècle (1). Une entreprise de déconstruction systématique
+   des discours technologiques, politiques et économiques présentant
+   l'intelligence artificielle (IA) comme «la» nouvelle frontière.
 
-Emmanuel Macron a lanc� un plan �intelligence artificielle� � 1,5 milliard
-IA
-l'ultime marqueur de la modernit� ?
-
-   C'est la grande obsession de l'�poque. Entreprises, politiques et
-IA
-   d'un monde partout s�curis�, optimis� et fluidifi�... Et des
-   perspectives �conomiques illimit�es. Les grandes puissances, Etats-Unis
+Emmanuel Macron a lancé un plan «intelligence artificielle» à 1,5 milliard
+d’euros pour faire de la France un leader du secteur. L’IA est-elle devenue
+l’ultime marqueur de la modernité ?
 --
-   d'un vrai d�bat public, ce qui n'est pas le cas aujourd'hui.
-
-IA
-technologies cherchent � imiter notre cerveau et sont cens�es nous aider...
-
+   C'est la grande obsession de l'époque. Entreprises, politiques et
+   chercheurs ne jurent que par l'IA car elle laisse entrevoir l'émergence
+   d'un monde partout sécurisé, optimisé et fluidifié… Et des perspectives
 --
-   machines qu'� en recevoir d'elles. Cette logique est d�j� � l'oeuvre
-   dans la m�decine, dont on ne cesse de louer les avantages qu'elle va
-intelligence artificielle
-   automatis� qui offrirait un saut qualitatif, mais on n'�voque jamais le
-   fait que ces m�mes syst�mes sont d�j� dot�s de la facult� de
+   qu'après la «start-up nation», Emmanuel Macron veut faire de la France
+   un «hub mondial de l'IA» et «attirer les meilleurs chercheurs
+   étrangers». Comme il est entendu qu'«il ne faut pas rater le train de
 --
-   comprendre ce qui est en train de se jouer.
 
-IA
-l'affirme Elon Musk ?
+Votre livre pointe l’IA comme un «antihumanisme radical». Pourtant, ces
+technologies cherchent à imiter notre cerveau et sont censées nous aider…
+--
+   meilleure conduite de nos vies. Il faut remettre en cause cette
+   appellation anthropomorphe. En vérité, ce qui est nommé «IA» représente
+   un mode de rationalité technologique cherchant à optimiser toute
+--
 
+   Ce qui caractérise l’IA, c’est que c’est une puissance d’expertise qui
+   ne cesse de se perfectionner. Ses systèmes auto-apprenants sont
 --
-   Nous assistons � la concr�tisation du r�ve des saint-simoniens aspirant
-   � une saine administration des choses. Les responsables politiques
-IA
-   de nombreux secteurs de la soci�t� : les relations entre citoyens et
-   l'administration, les transports, l'�ducation, la justice... Cette
+   dans la médecine, dont on ne cesse de louer les avantages qu'elle va
+   tirer de l'intelligence artificielle. On se réjouit du diagnostic
+   automatisé qui offrirait un saut qualitatif, mais on n'évoque jamais le
 --
-   Villani[102]Google[103]Facebook[104]Amazon[105]�tats-Unis[106]Chine[107
-   ]Racisme[108]H�pital[109]Donn�es personnelles[110]Voyage au coeur de
-IA
+   faux contre les propos d'un Yann LeCun, par exemple. Ce spécialiste
+   français du maching learning, qui est devenu le «Chief AI Scientist» de
+   Facebook, répète partout que ces avancées légitiment l'intelligence
+--
+
+L’IA est-elle une menace qui pourrait nous «détruire» un jour, comme
+l’affirme Elon Musk ?
+--
+   à une saine administration des choses. Les responsables politiques
+   entendent profiter de l'IA pour instaurer une gouvernance automatisée
+   de nombreux secteurs de la société : les relations entre citoyens et
+--
+   notre liberté dans le cadre de la vie en commun et des nouvelles
+   structures asymétriques de pouvoir qu’entraîne l’usage de l’IA, dans le
+   management, par exemple. Depuis quelque temps, la question des «biais»
+--
+   inéluctables. Les évangélistes de l’automatisation du monde que sont
+   Emmanuel Macron et Cédric Villani avec leur plan IA ne jurent que par
+   le dogme de la croissance, au mépris de toutes les conséquences
+--
+
+Et plus sur le sujet avec notre nouveau hors-série«L’IA au coeur de
+l’humain»actuellement en vente en kiosque ou sur la boutique Libé
+--
+   VillaniGoogleFacebookAmazonÉtats-UnisChineRacismeHôpitalDonnées
+   personnellesVoyage au cœur de l'IA
    (BUTTON)
-
 --
-     * [134]Inflation
-     * [135]Crise de l'�nergie
-Intelligence artificielle
-     * [137]Autoroute A69
-
---
- 108. https://www.liberation.fr/tags/hopital/
- 109. https://www.liberation.fr/tags/donnees-personnelles/
-ia
- 111. https://www.liberation.fr/international/europe/en-ukraine-kyiv-sous-une-pluie-de-drones-explosifs-russes-20231125_XLLLEFFGMNCVXAY2TWFTCXZO6M/
- 112. https://www.liberation.fr/international/europe/en-ukraine-kyiv-sous-une-pluie-de-drones-explosifs-russes-20231125_XLLLEFFGMNCVXAY2TWFTCXZO6M/
---
- 134. https://www.liberation.fr/tags/inflation/
- 135. https://www.liberation.fr/tags/energie/
-ia
- 137. https://www.liberation.fr/tags/autoroute-a69/
- 138. https://abo.liberation.fr/
+     * Crise de l'énergie
+     * Intelligence artificielle
+     * Autoroute A69

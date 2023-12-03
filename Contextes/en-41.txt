@@ -1,0 +1,29 @@
+
+   Moncton researchers developing artificial intelligence to fight
+   wildfires | CBC News Loaded
+--
+
+Moncton researchers developing artificial intelligence to fight wildfires
+
+--
+   Perception, Robotics, and Intelligent Machines Laboratory, said
+   artificial intelligence is more accurate than the human eye at
+   detecting fires. (Alexandre Silberman/CBC)
+--
+   Researchers in New Brunswick are developing a new approach to tackling
+   Canada's growing threat of wildfires: teaching artificial intelligence
+   to find them faster.
+--
+   important tool. While in early stages of development, some firefighters
+   are already using artificial intelligence to inform decisions on the
+   ground.
+--
+   "So controlling thousands of drones at once is a complicated task for a
+   human. For artificial intelligence, it's a lot more simple. So we train
+   models and algorithms to solve that task," he said.
+--
+   the same time across the country."
+   WATCH |See artificial intelligence quickly detect fires:
+
+How AI could revolutionize the way Canada fights wildfires
+

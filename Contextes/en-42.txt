@@ -1,0 +1,153 @@
+
+How AI could power the climate breakthrough the world needs
+
+--
+   On the other side of the world, Silicon Valley startup ClimateAi is
+   developing an artificial intelligence platform to evaluate how
+   vulnerable crops are to warming temperatures over the next two decades.
+--
+
+   “The way we think about AI is it’s a time and effectiveness multiplier
+   to the solutions for climate change,” Gupta told CNN.
+--
+   Better assessing future risks for farming is just one of the ways
+   artificial intelligence technologies are being used to address the
+   climate crisis.
+
+   AI first crashed into the public consciousness this year thanks to
+   popular, consumer-facing AI tools like ChatGPT, and experts say the
+   technology is set to revolutionize countless industries. But climate
+   researchers have for years been thinking about how AI — computer
+   programs that can rapidly analyze enormous amounts of data and complete
+--
+   better understand and address the changing climate.
+   AI explainer STOCK RESTRICTED
+   Tom Werner/Stone RF/Getty Images
+
+   Everything you need to know about AI but were too afraid to ask
+
+   Now, experts say AI is poised to accelerate everything from reducing
+   pollution to improving weather models.
+
+   “Efficiencies is one thing that AI is very good at, optimizing
+   decisions, optimizing resources,” said Fengqi You, chair professor at
+--
+   warming, accelerating the speed at which the world deploys and
+   implements solutions is crucial. But for all of AI’s promise, the
+   infrastructure that supports the technology — data centers filled with
+--
+   types of approaches.”
+   An artificial intelligence platform developed by ClimateAi is helping
+   tomato growers in India adapt to extreme weather.
+   An artificial intelligence platform developed by ClimateAi is helping
+   tomato growers in India adapt to extreme weather.
+--
+
+   Artificial intelligence is a broad term that refers to various digital
+   tools trained to perform a wide range of complex tasks that might
+--
+
+   This makes AI particularly good at things like forecasting and running
+   simulations. And unlike traditional computer programs, AI tools can
+   typically continue learning over time as new data is available or as
+--
+   conduction materials, like those for solar panels, could require
+   countless hours of testing that can now be sped up using AI.
+
+--
+   researchers working every day and night,” You said. “Now, because of
+   AI, which doesn’t need to sleep, it just needs electric power, it could
+   keep working 24/7 and it can become very helpful in accelerating
+--
+
+   AI probably won’t replace the need for humans in the climate change
+   fight. But it could make their work faster and more effective.
+--
+   Researchers seeking to restore coastlines by replanting seagrass, for
+   example, are using AI to model the best locations to target those
+   replanting efforts, said Dan Keeler, chief communication officer at
+--
+
+   An AI algorithm trained to address the issue could take into
+   consideration everything from toxins in the water or disruptive
+--
+   “It’s very difficult to put all those together into a single model with
+   conventional methods, but AI actually makes that much more possible,”
+   Keeler said.
+
+AI ‘doing the dirty work’ in climate research
+
+--
+
+   With the help of AI, Anna Liljedahl, a scientist at the Woodwell
+   Climate Research Center, can make permafrost forecasts on a seasonal
+--
+
+   “AI is doing the dirty work,” Liljedahl told CNN. “But AI is not
+   perfect, so we see it as a first tool, and then the human will come in
+   after and really check and make sure that things make sense and explore
+   the things that AI suggested.”
+
+   The technology can also be used for solutions. A 2019 Google DeepMind
+   project trained an AI model on weather forecasts and historical wind
+   turbine data to predict the availability of wind power, helping to
+   increase the value of the renewable energy source for wind farmers. AI
+   can also help predict when and where energy demand is going to be
+--
+   a tremendous waste,” said Keeler.
+   Artificial intelligence can be used to help better predict the supply
+   and demand for renewable energy sources.
+   Artificial intelligence can be used to help better predict the supply
+   and demand for renewable energy sources.
+--
+   ClimateAi’s Gupta said the problem is figuring out how to integrate
+   renewable capacity into the existing fossil fuel-dominated grid. AI can
+   identify in real-time which renewable energy sources are available in
+--
+
+   Elsewhere, AI is also being used to research materials that could
+   effectively recapture carbon from the atmosphere and to model and
+--
+   understand the climate crisis and potential solutions, is set to launch
+   an AI tool early next year that will answer user questions about how to
+   live a more sustainable lifestyle, according to Anna Robertson,
+--
+
+   For now, the amount of energy used to power AI is relatively small
+   compared to what’s consumed by transportation or buildings. “But this
+--
+   An October study from Dutch researcher Alex de Vries estimated that the
+   “worst-case scenario” suggests Google’s AI systems could eventually
+   consume as much electricity as the country of Ireland each year,
+   assuming a full-scale adoption of AI in their current hardware and
+   software. Developers should be advised “not only to focus on optimizing
+   AI, but also to critically consider the necessity of using AI in the
+   first place, as it is unlikely that all applications will benefit from
+   AI or that the benefits will always outweigh the costs,” the study
+   concludes.
+   Data center operators like Google are already thinking about how to
+   reduce the resources needed to power the computing behind their AI
+   models.
+   Data center operators like Google are already thinking about how to
+   reduce the resources needed to power the computing behind their AI
+   models.
+--
+
+   The companies building and running data centers to carry out AI
+   workloads can also think about strategically placing them in areas
+--
+   Lawmakers in the United States and abroad — who have in recent months
+   increasingly turned their attention to developing guardrails for AI —
+   should consider both the technology’s potential benefits in fighting
+--
+   “Regulators, decision makers, policymakers really need to think about
+   this when they are looking at the growth of [the AI] industry,” You
+   said. “The growth of the industry is not only about the software, tools
+--
+
+   Tech experts also caution that AI must be made affordable and
+   accessible for low-income nations, particularly those in the Global
+--
+
+   “When it comes to AI being applied to climate change,” said Gupta, “I
+   think we are just scratching the surface of the potential that exists

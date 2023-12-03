@@ -1,204 +1,126 @@
-     * [97]Digital identity & KYC
 
-Artificial intelligence
-     * [98]Twitter
-     * [99]Facebook
+   Artificial intelligence: the world is waking up to the risks
+     * Twitter
 --
-   2 min
 
-Artificial intelligence
+Artificial intelligence: the world is waking up to the risks
 
-artificial intelligence
-AI
+   The past week was intense in the world of artificial intelligence (AI).
    In the space of a few days, five documents were published by
-AI
+   prestigious institutions all examining the issue of AI and its risks to
    humanity. Just a coincidence? Certainly not.
-   [102]Cyber risks - [103]Louis Nauges - November 16, 2023
-
+--
    All these documents refer to the risks linked to Artificial General
-AI
-AI
+   Intelligence (AGI), which is level 2 of AI. Today’s artificial
+   intelligence, including generative AI systems like ChatGPT, fall within
    Artificial Narrow Intelligence (ANI), which is level 1. This artificial
-   intelligence can do a single activity as well as a human, perhaps even
 --
-   the one by [104]this group of 30 experts.
 
-AI
+   This excerpt gives the general tone of the document: “AI advancement
    could culminate in a large-scale loss of life and the biosphere, and
-   the marginalization or even extinction of humanity". It "coolly"
 --
-   being given between 45 and 365 days to be completed. It is far from a
-   catalogue of good intentions: it demonstrates the United States' clear
-AI
+   catalogue of good intentions: it demonstrates the United States’ clear
+   desire to do everything it can to maintain its global leadership of AI.
 
-Where is Europe in this concert of recommendations?
-
-AI
-   2023, it published [108]a document, EU Legislation in Progress,
-Artificial Intelligence
-   follow the Digital Service Act and the Digital Market Act. The [109]AIA
-   must now be submitted to the Member States, who can make changes before
 --
-   collaboration between humankind and AGI and ASI? If we are to believe
+
+   The European Commission has been working on AI since 2020. In June
+   2023, it published a document, EU Legislation in Progress, detailing
+   work on a European Artificial Intelligence Act (AIA) to follow the
+   Digital Service Act and the Digital Market Act. The AIA must now be
+--
    Rich Sutton, professor at the University of Alberta in Canada and a
-artificial intelligence
-AI
-   from one of his [110]recent lectures shows.
-
---
-   directors of all organizations, public and private.
-
-AI
-AI
-   The common answer? "I don't know." But that is no reason not to think
-   about it, all together, and very quickly.
+   recognized specialist in artificial intelligence, humanity must
+   inevitably prepare to hand over the reins to AI, as this illustration
+   from one of his recent lectures shows.
 --
 
-   Cyber risks
-Artificial intelligence
+   Furthermore, the best AI specialists are often asked, “what is
+   humanity’s future in a world where AI performs better than humans?“.
+   The common answer? “I don’t know.” But that is no reason not to think
+--
+   ever, and today’s on-board computer is a high-performance ...
+   Artificial intelligence: the world is waking up to the risks
    16 November 2023
 
-Artificial intelligence
+Artificial intelligence: the world is waking up to the risks
 
-   By [116]Louis Nauges
-artificial intelligence
-AI
+   By Louis Nauges
+   The past week was intense in the world of artificial intelligence (AI).
    In the space of a few days, five documents were published by
-AI
-   [117]Google's Play Store promotes secure apps
-   10 November 2023
+   prestigious institutions all examining the issue of AI and its ...
+   Google’s Play Store promotes secure apps
 --
-   ICJ provides no details on cyberattack and perpetrator but has been in
-   Russia's cross-hairs for a long time.
-AI
+   Russia’s cross-hairs for a long time.
+   Ursula von der Leyen aims to establish “AI IPCC”
    26 September 2023
 
-AI
+Ursula von der Leyen aims to establish “AI IPCC”
 
    EU Chief wants to bring together scientists, businesses and experts to
-AI
+   guarantee responsible AI growth on a world level.
    Cybercrime
-   [156]Operation Triangulation reveals vulnerabilities at Apple
 --
-   2020.
    Operational security
-AI
+   United States: Joe Biden signs first executive order on AI
    02 November 2023
 
-AI
+United States: Joe Biden signs first executive order on AI
 
-   Scope remains limited as Congress unable to pass bipartisan bill on
+--
    issue.
-AI
+   Can generative AI help break attack chains?
    19 October 2023
 
-AI
+Can generative AI help break attack chains?
 
-   By [173]Fabrice Deblock
-   With cyberattacks on corporate supply chains on the rise, how can we
-   stop suppliers from being the weakest link in an organization's
-AI
-   [174]HarfangLab raises 25 million euros
-   17 October 2023
 --
-   Yves Bernaert leaves Accenture management to head Eviden, tech giant's
+   stop suppliers from being the weakest link in an organization’s
+   cybersecurity? What could generative AI bring to this ...
+   HarfangLab raises 25 million euros
+--
    cloud, cybersecurity, supercomputer, and quantum branch.
-AI
+   Threat detection and AI: Cisco acquires Splunk
    27 September 2023
 
-AI
+Threat detection and AI: Cisco acquires Splunk
 
    Cisco acquisition of data analysis solutions provider for 28 billion
-AI
+   dollars seeks to harness cybersecurity transformation brought on by AI
    boom.
-   [180]Thirty-eight TB of internal Microsoft data left unprotected for
 --
-   Publicly owned French company Archipels develops digital identity
    platform based on blockchain
-AI
+   DocuSign launches AI-assisted ID verification
    16 May 2023
 
-AI
+DocuSign launches AI-assisted ID verification
 
-   Named "ID Verification for EU Qualified", compliant with European Union
 --
-   Definitive list of "gatekeepers" published on September 6, 2023.
    Digital transition
-AI
+   How AI is shaking up intellectual property
    23 November 2023
 
-AI
+How AI is shaking up intellectual property
 
-   By [222]Pascal Coillet-Matillon
+--
    On August 3, 2023, The New York Times changed the legal notice on its
-AI
-   its data for training. It's a sign that generative ...
-AI
+   website. The US daily now requires its written consent for an AI to use
+   its data for training. It’s a sign that generative ...
+   [InCyber Forum Montreal] Generative AI: reinventing copyright
    22 November 2023
 
-AI
+[InCyber Forum Montreal] Generative AI: reinventing copyright
 
-   By [225]Marion Lefebvre
-artificial intelligence
+   By Marion Lefebvre
+   Widespread access to generative artificial intelligence is shaking up
    how we work and create. However, the growing use of this technology has
-   quickly raised two considerable legal issues: how to ...
 --
-
    Yet heads of privacy in corporations still deem resources insufficient.
-AI
+   OpenAI to fight AI’s “catastrophic risks”
    10 November 2023
 
-AI
+OpenAI to fight AI’s “catastrophic risks”
 
    ChatGPT publisher forms team of experts to assess most serious threats
-AI
+   associated with advanced AI models.
 
-   InCyber
---
- 104. https://arxiv.org/pdf/2310.17688.pdf
- 105. https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/30/fact-sheet-president-biden-issues-executive-order-on-safe-secure-and-trustworthy-artificial-intelligence/
-ai
-ai
-ai
- 108. https://epthinktank.eu/eu-legislation-in-progress/
- 109. https://www.europarl.europa.eu/RegData/etudes/BRIE/2021/698792/EPRS_BRI(2021)698792_EN.pdf
---
- 152. https://incyber.org/en/cyberattack-against-international-court-justice-the-hague/
- 153. https://incyber.org/en/cyberattack-against-international-court-justice-the-hague/
-ai
-ai
- 156. https://incyber.org/en/operation-triangulation-reveals-vulnerabilities-apple/
- 157. https://incyber.org/en/operation-triangulation-reveals-vulnerabilities-apple/
---
- 167. https://incyber.org/en/anssi-warns-about-fin12-gang/
- 168. https://incyber.org/en/anssi-warns-about-fin12-gang/
-ai
-ai
-ai
-ai
- 173. https://incyber.org/en/contributeur/FDeblock
- 174. https://incyber.org/en/harfanglab-raises-25-million-euros/
---
- 176. https://incyber.org/en/yves-bernaert-new-ceo-atos-group/
- 177. https://incyber.org/en/yves-bernaert-new-ceo-atos-group/
-ai
-ai
- 180. https://incyber.org/en/thirty-eight-tb-internal-microsoft-data-left-unprotected-three-years/
- 181. https://incyber.org/en/thirty-eight-tb-internal-microsoft-data-left-unprotected-three-years/
---
- 202. https://incyber.org/en/new-fundraising-round-archipels-welcomes-shareholder-in-group/
- 203. https://incyber.org/en/new-fundraising-round-archipels-welcomes-shareholder-in-group/
-ai
-ai
- 206. https://incyber.org/en/tiktok-application-under-surveillance/
- 207. https://incyber.org/en/tiktok-application-under-surveillance/
---
- 218. https://incyber.org/en/digital-market-act-update/
- 219. https://incyber.org/en/digital-market-act-update/
-ai
-ai
- 222. https://incyber.org/en/contributeur/PCoilletMatillon
-ai
-ai
- 225. https://incyber.org/en/contributeur/MLefebvre
- 226. https://incyber.org/en/ex-machina-film-that-explores-intimate-relationships-between-humans-machines-much-more/
