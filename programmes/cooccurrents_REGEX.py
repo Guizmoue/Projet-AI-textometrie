@@ -1,6 +1,6 @@
 # Taper la commande ainsi pour avoir les co-occurences d'un motif de l'expression régulière : 
 """
-./cooccurrents.py Contextes-en.txt --target "[Aa]rtificial [Ii]ntelligence" --match-mode regex > en.tsv
+python3 ./cooccurrents.py Contextes-en.txt --target "[Aa]rtificial [Ii]ntelligence" --match-mode regex > en.tsv
 """
 
 """Description:
