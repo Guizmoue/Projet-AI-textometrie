@@ -34,6 +34,10 @@ Contextes=$(grep -w -i -E -o -C 2 "(IA|intelligence artificielle|AI|artificial i
 Quelques commentaires à mettre en place : 
 l'utilisation de l'option "-o" permet de montrer seulement les résultats qu'on trouve dans la sortie standard. Ensuite, on les dirige vers les fichiers nommés par le nom de la langue et par l'indice de liens.
 
+### Site Web
+
+Création de la page d'accueil de notre site web en Html et Css.
+
 ### Difficultés
 
 Nous avons rencontré des difficultés pour le traitement des pages en chinois.
@@ -55,6 +59,10 @@ Nous avons commencé par intégrer la struture pseudo-XML à notre script, en y 
 
 Nous avons ensuite intégré 2 arguments à notre script : un dossier (dumps-text ou Contextes) et la langue (dans notre cas, fr, en, ou cn).
 Avec une boucle, on parcourt tous les fichiers dumps-text ou Contextes dans la langue indiquée en argument, et on récupère leur contenu que l'on stocke dans la balise text. On effectue aussi des substitutions pour les caractères "&", "<" et ">" pour éviter les problèmes d'interprétation.
+
+### Site Web
+
+Finalisation de la maquette du site web avec le framework Bootstrap.
 
 ### Travail sur iTrameur
 
