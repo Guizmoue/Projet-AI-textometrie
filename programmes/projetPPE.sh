@@ -29,7 +29,7 @@ echo "<tr><th>Ligne</th><th>URL</th><th>Code HTTP</th><th>Encodage</th><th>Aspir
 while read -r URL
 do
     response=$(curl -s -I -L -w "%{http_code}" -o /dev/null $URL)
-    encoding=$(curl -s -I -L -w "%{content_type}" -o /dev/null $URL | grep -P -o "charset=\S+" | cut -d"=" -f2)
+    encoding=$(curl -s -I -L -w "%{content_type}" -o /dev/null $URL | ggrep -P -o "charset=\S+" | cut -d"=" -f2)
     aspi=$(curl -s -L -o "../aspirations/${lang}-${lineno}.html" $URL)
 
     compte=0
@@ -42,10 +42,10 @@ do
         lynx -dump -nolist -assume_charset=utf-8 --display_charset=utf-8 $URL > "../dumps-text/${lang}-${lineno}.txt"
 
         TEXTFILE="../dumps-text/${lang}-${lineno}.txt"
-        compte=$(grep -P -i -o $motif "../dumps-text/${lang}-${lineno}.txt" | wc -l)
+        compte=$(ggrep -P -i -o $motif "../dumps-text/${lang}-${lineno}.txt" | wc -l)
 
         # recherche des contextes
-        cat $TEXTFILE | grep -P -i -A 1 -B 1 "${motif}" > "../Contextes/${lang}-${lineno}.txt"
+        cat $TEXTFILE | ggrep -P -i -A 1 -B 1 "${motif}" > "../Contextes/${lang}-${lineno}.txt"
 
         # création du concordancier
         echo "<html><head></head><body>" > "../concordances/${lang}-${lineno}.html"
