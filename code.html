@@ -112,6 +112,58 @@
                 </pre>
             </div><br>
 
+            <h4 class="text-warning">Prétraitements des contextes en anglais pour l'analyse avec iTrameur</h4>
+            <div class="container">
+                <pre class="bg-light m-3">
+                    <code>
+'''
+Ce programme permet d'ouvrir un fichier texte et de remplacer toutes les occurrences de "artificial intelligence" par "artificialintelligence"
+'''
+
+def replaceAI(source, destination) :
+    with open(source) as s :
+        content = s.read()
+    content_min = content.lower()
+    modified_content = content_min.replace('artificial intelligence', 'artificialintelligence')
+    with open(destination, 'w') as d :
+        d.write(modified_content)
+
+def main():
+    replaceAI("Contextes-en.txt", "ContextesNettoyes-en.txt")
+
+if __name__ == "__main__":
+    main()
+
+                    </code>
+                </pre>
+            </div><br>
+
+            <h4 class="text-warning">Prétraitements des contextes en français pour l'analyse avec iTrameur</h4>
+            <div class="container">
+                <pre class="bg-light m-3">
+                    <code>
+'''
+Ce programme permet d'ouvrir un fichier texte et de remplacer toutes les occurrences de "intelligence artificielle" par "intelligenceartificielle"
+'''
+
+def replaceAI(source, destination) :
+    with open(source) as s :
+        content = s.read()
+    content_min = content.lower()
+    modified_content = content_min.replace('intelligence artificielle', 'intelligenceartificielle')
+    with open(destination, 'w') as d :
+        d.write(modified_content)
+
+def main():
+    replaceAI("Contextes-fr.txt", "ContextesNettoyes-fr.txt")
+
+if __name__ == "__main__":
+    main()
+
+                    </code>
+                </pre>
+            </div><br>
+
         </div>
         <footer class="container bg-secondary">
             <div class="row">
