@@ -19,7 +19,7 @@ lineno=1
 lang=$(basename $URLS .txt)
 html_file="../tableaux/$lang.html"
 #motif="intelligence\sartificielle"
-motif="(\bIA\b|intelligence\sartificielle|\bAI\b|artificial\sintelligence|人工\s?智能|人工\s?智慧)"
+motif="(\bIA\b|intelligence\sartificielle|\bAI\b|artificial\sintelligence|人工(\s)?智能|人工(\s)?智慧)"
 
 
 echo "<html><head></head><body>" > $html_file
@@ -38,8 +38,7 @@ do
     if [ $response -eq 200 ]
     then
 
-        
-
+        # tokenisation des textes en chinois
         if [ ! "${lang}" = "cn" ]
         then
             # création du dump text
@@ -55,6 +54,8 @@ do
             TEXTFILE=../dumps-text/${lang}-${lineno}_token.txt
             
         fi
+
+        # compter le nombre d'occurrence
         compte=$(ggrep -P -i -o $motif "../dumps-text/${lang}-${lineno}.txt" | wc -l)
 
         # recherche des contextes
@@ -64,9 +65,9 @@ do
         echo "<html><head></head><body>" > "../concordances/${lang}-${lineno}.html"
         echo "<table border='1'>" >> "../concordances/${lang}-${lineno}.html"
         echo "<tr><th>Contexte gauche</th><th>Mot</th><th>Contexte droit</th><th></tr>" >> "../concordances/${lang}-${lineno}.html"
-        grep -E -i -o "(\w+\W+){0,5}$motif(\W+\w+){0,5}" $TEXTFILE | sed -E 's/(.*)(\bIA\b|intelligence\sartificielle|\bAI\b|artificial\sintelligence|人工智能|人工智慧)(.*)/<tr><td>\1<\/td><td>\2<\/td><td>\3<\/td><\/tr>/' >> "../concordances/${lang}-${lineno}.html"
+        grep -E -i -o "(\w+\W+){0,5}$motif(\W+\w+){0,5}" $TEXTFILE | sed -E 's/(.*)(\bIA\b|intelligence\sartificielle|\bAI\b|artificial\sintelligence|人工(\s)?智能|人工(\s)?智慧)(.*)/<tr><td>\1<\/td><td>\2<\/td><td>\3<\/td><\/tr>/' >> "../concordances/${lang}-${lineno}.html"
         echo "</table></body></html>" >> "../concordances/${lang}-${lineno}.html"
-        
+
     fi
 
     echo "<tr>
