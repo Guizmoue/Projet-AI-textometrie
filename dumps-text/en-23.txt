@@ -159,9 +159,9 @@
      *
      * The Associated Press
           + ap.org
-          + Contact Us
           + Careers
           + Advertise with us
+          + Contact Us
           + Accessibility Statement
           + (BUTTON) Cookie Settings
           + Terms of Use
@@ -179,22 +179,36 @@
      *
      * Copyright 2023 The Associated Press. All Rights Reserved.
 
-   Henry Kissinger dead at 100
    Israel-Hamas war
-   Elon Musk
-   Pogues frontman dies
-   Aaron Rodgers
+   Shohei Ohtani Dodgers
+   Eagles’ Dom DiSandro
+   Streaming now
+   Asteroid eclipse coming soon
 
    Technology
 
 Fake babies, real horror: Deepfakes from the Gaza war increase fears about
 AI’s power to mislead
 
-   A truce between Israel and Hamas entered its fifth day on Tuesday, with
-   the militant group promising to release more civilian hostages to delay
-   the expected resumption of the war. (Nov. 28)
-   (BUTTON) Photos
-   2
+   A Palestinian man collects his belongings southeast of the Gaza City on
+   Tuesday, Nov. 28, 2023. on the fifth day of the temporary ceasefire
+   between Hamas and Israel. (AP Photo/Adel Hana) (BUTTON)
+   1 of 2 |
+
+   A Palestinian man collects his belongings southeast of the Gaza City on
+   Tuesday, Nov. 28, 2023. on the fifth day of the temporary ceasefire
+   between Hamas and Israel. (AP Photo/Adel Hana)
+   (BUTTON) Read More
+   Smoke rises following an Israeli bombardment in the Gaza Strip, as seen
+   from southern Israel, Thursday, Nov. 23, 2023. (AP Photo/Leo Correa)
+   (BUTTON)
+   2 of 2 |
+
+   Smoke rises following an Israeli bombardment in the Gaza Strip, as seen
+   from southern Israel, Thursday, Nov. 23, 2023. (AP Photo/Leo Correa)
+   (BUTTON) Read More
+   Fake babies, real horror: Deepfakes from the Gaza war increase fears
+   about AI’s power to mislead
    (BUTTON)
    A Palestinian man collects his belongings southeast of the Gaza City on
    Tuesday, Nov. 28, 2023. on the fifth day of the temporary ceasefire
@@ -285,28 +299,16 @@ AI’s power to mislead
    altered ones spread on social media have been used to make false claims
    about responsibility for casualties or to deceive people about
    atrocities that never happened.
-   Israel-Hamas war
-   FILE - Ofri Bibas Levy, sister of Yarden Bibas, held hostage in Gaza
-   with his wife, Shiri and two kids, Kfir and Ariel, talks to the media,
-   during a press conference at the European headquarters of the United
-   Nations in Geneva, Switzerland, on Nov. 14, 2023. Kfir Bibas has spent
-   nearly a fifth of his life in Hamas captivity. The 10-month-old was
-   abducted from his home in a southern Israeli kibbutz on Oct. 7, when
-   Palestinian militants snatched about 240 people and dragged them to
-   Gaza. (Salvatore Di Nolfi/Keystone via AP, File)
-   The family of an infant hostage pleads for his release before the
-   Israel-Hamas truce winds down
-   Ahmed Salaima, 14, center, a Palestinian prisoner released by Israel,
-   is hugged by his father as he arrives home in the east Jerusalem
-   neighborhood of Ras al-Amud Tuesday, Nov. 28, 2023. (AP Photo/Mahmoud
-   Illean)
-   Diplomats are seeking to extend the Gaza truce deal as deadline looms
-   Ruth Munder, a released Israeli hostage, walks with an Israeli soldier
-   shortly after her arrival in Israel on Friday, Nov. 24, 2023. A
-   four-day cease-fire in the Israel-Hamas war began in Gaza on Friday
-   with an exchange of hostages and prisoners. (IDF via AP)
-   Freed Israeli hostage describes deteriorating conditions while being
-   held by Hamas
+
+   What to know about the Israel-Hamas war today:
+     * Israel pounded targets in the crowded southern half of the Gaza
+       Strip on Saturday.
+     * At least 200 Palestinians have been killed since fighting resumed
+       Friday morning between Israel and Hamas.
+     * As fighting resumes, questions emerge on who remains in captivity
+       in Gaza.
+     * In the U.S., a protester is in critical condition after setting
+       themself on fire outside the Israeli consulate in Atlanta.
 
    While most of the false claims circulating online about the war didn’t
    require AI to create and came from more conventional sources,
@@ -331,6 +333,22 @@ AI’s power to mislead
    Other examples of AI-generated images include videos showing supposed
    Israeli missile strikes, or tanks rolling through ruined neighborhoods,
    or families combing through rubble for survivors.
+   Israel-Hamas war
+   Palestinians mourn their relatives killed in the Israeli bombardment of
+   the Gaza Strip, in the hospital in Khan Younis, Saturday, Dec. 2, 2023.
+   (AP Photo/Fatima Shbair)
+   Israel’s strikes on Gaza intensify, renewing concerns about civilians
+   Ahmed Salaima, 14, center, a Palestinian prisoner released by Israel,
+   is hugged by his father as he arrives home in the east Jerusalem
+   neighborhood of Ras al-Amud Tuesday, Nov. 28, 2023. (AP Photo/Mahmoud
+   Illean)
+   Diplomats are seeking to extend the Gaza truce deal as deadline looms
+   Ruth Munder, a released Israeli hostage, walks with an Israeli soldier
+   shortly after her arrival in Israel on Friday, Nov. 24, 2023. A
+   four-day cease-fire in the Israel-Hamas war began in Gaza on Friday
+   with an exchange of hostages and prisoners. (IDF via AP)
+   Freed Israeli hostage describes deteriorating conditions while being
+   held by Hamas
 
    In many cases, the fakes seem designed to evoke a strong emotional
    reaction by including the bodies of babies, children or families. In
@@ -416,9 +434,9 @@ AI’s power to mislead
    every day.
      * The Associated Press
           + ap.org
-          + Contact Us
           + Careers
           + Advertise with us
+          + Contact Us
           + Accessibility Statement
           + (BUTTON) Cookie Settings
           + Terms of Use

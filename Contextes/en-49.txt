@@ -280,7 +280,3 @@ Artificial Intelligence: Canada’s future of everything
    released a voluntary code of conduct in late September for generative
    AI developers. In the absence of regulation, it is supposed to guide
    organizations to come up with an environment to self-regulate.
---
-       Money
-     * How Canadian companies are using AI as ChatGPT marks first
-       anniversary

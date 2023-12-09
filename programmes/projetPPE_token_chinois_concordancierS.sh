@@ -52,7 +52,6 @@ do
             TEXTFILE=../dumps-text/${lang}-${lineno}.txt
             python -m thulac ${TEXTFILE} ../dumps-text/${lang}-${lineno}_token.txt -seg_only
             TEXTFILE=../dumps-text/${lang}-${lineno}_token.txt
-            
         fi
 
         # compter le nombre d'occurrence
@@ -64,10 +63,22 @@ do
         # création du concordancier
         echo "<html><head></head><body>" > "../concordances/${lang}-${lineno}.html"
         echo "<table border='1'>" >> "../concordances/${lang}-${lineno}.html"
-        echo "<tr><th>Contexte gauche</th><th>Mot</th><th>Contexte droit</th><th></tr>" >> "../concordances/${lang}-${lineno}.html"
-        grep -E -i -o "(\w+\W+){0,5}$motif(\W+\w+){0,5}" $TEXTFILE | sed -E 's/(.*)(\bIA\b|intelligence\sartificielle|\bAI\b|artificial\sintelligence|人工(\s)?智能|人工(\s)?智慧)(.*)/<tr><td>\1<\/td><td>\2<\/td><td>\3<\/td><\/tr>/' >> "../concordances/${lang}-${lineno}.html"
+        echo "<tr><th>Contexte gauche</th><th>Mot</th><th>Contexte droit</th></tr>" >> "../concordances/${lang}-${lineno}.html"
+        if [ "${lang}" == "cn" ] # concordancier chinois
+        then
+            export LANG=zh_CN.UTF-8
+            ggrep -Po "(?:\p{Han}{1,}\s|[\x{3002}\x{FF0C}\x{FF1A}\x{FF01}\x{FF1F}\x{3010}\x{3011}\x{FF08}\x{FF09}]\s|\n){0,5}(人工 智能|人工 智慧)(\s\p{Han}{1,}|\s[\x{3002}\x{FF0C}\x{FF1A}\x{FF01}\x{FF1F}\x{3010}\x{3011}\x{FF08}\x{FF09}]|\n){0,5}" $TEXTFILE | LANG=C sed -E -r "s/(.*)(人工 智能|人工 智慧)(.*)/<tr><td>\1<\/td><td>\2<\/td><td>\3<\/td><\/tr>/" >> "../concordances/${lang}-${lineno}.html"
+            ggrep -Po "(?:\p{Han}{1,}\s|[\x{3002}\x{FF0C}\x{FF1A}\x{FF01}\x{FF1F}\x{3010}\x{3011}\x{FF08}\x{FF09}]\s|\n){0,5}(人工智能|人工智慧)(\s\p{Han}{1,}|\s[\x{3002}\x{FF0C}\x{FF1A}\x{FF01}\x{FF1F}\x{3010}\x{3011}\x{FF08}\x{FF09}]|\n){0,5}" $TEXTFILE | LANG=C sed -E -r "s/(.*)(人工智能|人工智慧)(.*)/<tr><td>\1<\/td><td>\2<\/td><td>\3<\/td><\/tr>/" >> "../concordances/${lang}-${lineno}.html"
+        fi
+        if  [ "${lang}" = "en" ] # concordancier anglais
+        then
+            ggrep -Po -i "(\w+\W+){0,5}(AI|artificial intelligence)(\W+\w+){0,5}" $TEXTFILE | sed -E -r "s/(.*)(AI|ai|artificial intelligence|Artificial Intelligence|Artificial intelligence|Ai)(.*)/<tr><td>\1<\/td><td>\2<\/td><td>\3<\/td><\/tr>/" >> "../concordances/${lang}-${lineno}.html"
+        fi
+        if [ "${lang}" = "fr" ] # concordancier français
+        then
+            ggrep -Po -i "(\w+\W+){0,5}(IA|intelligence artificielle)(\W+\w+){0,5}" $TEXTFILE | sed -E -r "s/(.*)(IA|intelligence artificielle|ia|Intelligence Artificielle|Intelligence artificielle|Ia)(.*)/<tr><td>\1<\/td><td>\2<\/td><td>\3<\/td><\/tr>/" >> "../concordances/${lang}-${lineno}.html"
+        fi
         echo "</table></body></html>" >> "../concordances/${lang}-${lineno}.html"
-
     fi
 
     echo "<tr>

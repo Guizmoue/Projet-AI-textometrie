@@ -130,6 +130,8 @@ About Channels
      * [channel_logo_Annals_of_Health_Innovation__1_.png] Annals of Health
        Innovation
      * [channel_logo_1603103290-Original.png] Annals of Simulation
+     * [channel_logo_astromedica-logo_400x400.jpg] AstroMedica: Advances
+       in Transportation Medicine, Flight, Spaceflight, and Microgravity
      * [channel_logo_unnamed-6.png] Aurora Breast Health Proceedings
      * [channel_logo_AIR-P_Logo_1000x1000_TRANSPARENT__1_.png] Autism and
        Health: Across the Lifespan
@@ -402,6 +404,8 @@ Channels
        [channel_logo_Annals_of_Health_Innovation__1_.png] Annals of Health
        Innovation
        [channel_logo_1603103290-Original.png] Annals of Simulation
+       [channel_logo_astromedica-logo_400x400.jpg] AstroMedica: Advances
+       in Transportation Medicine, Flight, Spaceflight, and Microgravity
        [channel_logo_unnamed-6.png] Aurora Breast Health Proceedings
        [channel_logo_AIR-P_Logo_1000x1000_TRANSPARENT__1_.png] Autism and
        Health: Across the Lifespan

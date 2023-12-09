@@ -1,0 +1,2404 @@
+   #alternate Modifier Wikipédia (fr) Flux Atom de Wikipédia
+
+   Aller au contenu
+
+   [ ] Menu principal
+   Menu principal
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Navigation
+     * Accueil
+     * Portails thématiques
+     * Article au hasard
+     * Contact
+
+   Contribuer
+     * Débuter sur Wikipédia
+     * Aide
+     * Communauté
+     * Modifications récentes
+     * Faire un don
+
+   Langues
+   Sur cette version linguistique de Wikipédia, les liens interlangues
+   sont placés en haut à droite du titre de l’article.
+   Aller en haut.
+   Wikipédia l'encyclopédie libre
+   Rechercher
+   ____________________
+   (BUTTON) Rechercher
+
+     * Créer un compte
+     * Se connecter
+
+   [ ] Outils personnels
+     * Créer un compte
+     * Se connecter
+
+   Pages pour les contributeurs déconnectés en savoir plus
+     * Contributions
+     * Discussion
+
+Sommaire
+
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+     * Début
+     * 1Introduction
+
+     2Quelques précurseurs
+   (BUTTON) Afficher / masquer la sous-section Quelques précurseurs
+     * 2.1L'intelligence artificielle : mythes, fiction et spéculation
+
+     2.2Automates
+
+     2.3Raisonnement formel
+
+
+
+   2.4Intelligence artificielle et premiers ordinateurs
+
+
+
+   3Naissance: 1943−1956
+
+   (BUTTON) Afficher / masquer la sous-section Naissance: 1943−1956
+     * 3.1Cybernétique et premiers réseaux neuronaux
+
+
+
+   3.2L'intelligence artificielle dans les jeux
+
+
+
+   3.3Test de Turing
+
+
+
+   3.4Raisonnement symbolique et le théoricien logique
+
+
+
+   3.5La traduction automatique des langages
+
+
+
+   3.6Conférence de Dartmouth de 1956 : naissance de l'intelligence
+   artificielle
+
+
+
+   4L'âge d'or 1956−1974
+
+   (BUTTON) Afficher / masquer la sous-section L'âge d'or 1956−1974
+     * 4.1Les percées
+
+     * 4.1.1Raisonnement par tâtonnements
+
+
+
+   4.1.2Langage naturel
+
+
+
+   4.1.3Micro-mondes
+
+
+
+   4.2L'optimisme
+
+
+
+   4.3Le financement
+
+
+
+   5La première hibernation de l'intelligence artificielle (1974−1980)
+
+   (BUTTON) Afficher / masquer la sous-section La première hibernation de
+   l'intelligence artificielle (1974−1980)
+     * 5.1Les problèmes
+
+     * 5.1.1Limites de la puissance de calcul
+
+
+
+   5.1.2Limites inhérentes : la complétude NP
+
+
+
+   5.1.3Raisonnement et base de connaissance de culture générale
+
+
+
+   5.1.4Le paradoxe de Moravec
+
+
+
+   5.1.5Le cadre et les problèmes de qualification
+
+
+
+   5.2La fin des investissements
+
+
+
+   5.3Critiques universitaires
+
+
+
+   5.4Perceptrons et la période sombre du connexionnisme
+
+
+
+   5.5Les élégants : calcul des prédicats, Prolog et systèmes experts
+
+
+
+   5.6Les brouillons : cadres et scripts
+
+
+
+   6Le boom 1980–1987
+
+   (BUTTON) Afficher / masquer la sous-section Le boom 1980–1987
+     * 6.1La montée des systèmes experts
+
+
+
+   6.2La révolution de la connaissance
+
+
+
+   6.3L'argent est de retour : projets de la cinquième génération
+
+
+
+   6.4La renaissance du connexionnisme
+
+
+
+   7La crise : le second hiver de l'IA 1987−1993
+
+   (BUTTON) Afficher / masquer la sous-section La crise : le second hiver
+   de l'IA 1987−1993
+     * 7.1Une seconde hibernation
+
+
+
+   7.2L'importance du corps : Nouvelle intelligence artificielle et
+   embodiment
+
+
+
+   81993-2000
+
+   (BUTTON) Afficher / masquer la sous-section 1993-2000
+     * 8.1Verrous qui sautent et loi de Moore
+
+
+
+   8.2Agents intelligents
+
+
+
+   8.3« Victoire des élégants »
+
+
+
+   8.4L'IA, travailleur de l'ombre
+
+
+
+   92001 et HAL 9000
+
+
+
+   102000 - 2010
+
+
+
+   112009 - 2019
+
+
+
+   12Redéfinition dans les années 2020
+
+
+
+   13La recherche en intelligence artificielle en France
+
+
+
+   14Notes et références
+
+
+
+   15Références
+
+
+
+   16Annexes
+
+   (BUTTON) Afficher / masquer la sous-section Annexes
+     * 16.1Bibliographie
+
+
+
+   16.2Articles connexes
+
+   [ ] Basculer la table des matières
+
+Histoire de l'intelligence artificielle
+
+   [ ] 26 langues
+     * Afrikaans
+     * العربية
+     * Azərbaycanca
+     * বাংলা
+     * Catal�
+     * کوردی
+     * Deutsch
+     * Ελληνικά
+     * English
+     * Español
+     * Euskara
+     * فارسی
+     * Հայերեն
+     * Bahasa Indonesia
+     * Íslenska
+     * 日本語
+     * 한국어
+     * پښتو
+     * Português
+     * Русский
+     * தமிழ்
+     * Українська
+     * Tiếng Việt
+     * 中文
+     * 粵語
+     * IsiZulu
+
+   Modifier les liens
+
+     * Article
+     * Discussion
+
+   [ ] français
+
+     * Lire
+     * Modifier
+     * Modifier le code
+     * Voir l’historique
+
+   [ ] Outils
+   Outils
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Actions
+     * Lire
+     * Modifier
+     * Modifier le code
+     * Voir l’historique
+
+   Général
+     * Pages liées
+     * Suivi des pages liées
+     * Téléverser un fichier
+     * Pages spéciales
+     * Lien permanent
+     * Informations sur la page
+     * Citer cette page
+     * Obtenir l'URL raccourcie
+     * Élément Wikidata
+
+   Imprimer / exporter
+     * Créer un livre
+     * Télécharger comme PDF
+     * Version imprimable
+
+   Un article de Wikipédia, l'encyclopédie libre.
+
+   L'intelligence artificielle plonge ses racines dans l'Antiquité, mais
+   c'est surtout dans la deuxième partie du XX^e siècle qu'elle prit son
+   essor, et qu'une lecture historique devient envisageable. On parle d'un
+   essor après la seconde guerre mondiale, puis d'un premier hiver, puis
+   d'un retour dans les années 1980, puis d'un second hiver, interrompu
+   par l'arrivée des IA génératives.
+
+Introduction[modifier | modifier le code]
+
+   Les premiers jalons historiques de l'intelligence artificielle (ou IA)
+   datent de la Protohistoire, où mythes, légendes et rumeurs dotent des
+   êtres artificiels, réalisés par des maîtres-artisans, d'une
+   intelligence ou d'une conscience ; comme l'écrit Pamela McCorduck (en),
+   l'intelligence artificielle commence avec « le vieux souhait de jouer �
+   Dieu^[1] ».
+
+   L'intelligence artificielle comme nous l'entendons aujourd'hui a été
+   initiée par les philosophes classiques, dont Gottfried Wilhelm Leibniz
+   avec son calculus ratiocinator, qui essaient de décrire le processus de
+   la pensée humaine comme la manipulation mécanique de symboles, sans
+   pour autant vouloir fabriquer des spécimens. Cette réflexion s'est
+   concrétisée avec l'invention de l'ordinateur programmable dans les
+   années 1940. Cet instrument et les idées qu'il sous-tend ont inspiré
+   les scientifiques qui ont commencé à évoquer sérieusement la
+   faisabilité d'un « cerveau électronique ».
+
+   La recherche en intelligence artificielle a vraiment commencé après une
+   conférence tenue sur le campus de Dartmouth College pendant l'été 1956.
+   À la suite de cette réunion, certains participants se sont investis
+   dans une recherche sur l'intelligence artificielle. Certains utopistes
+   ont pronostiqué qu'une machine aussi intelligente qu'un être humain
+   existerait en moins d'une génération et des millions de dollars ont
+   alors été investis pour réifier cette prédiction. Avec le temps, il est
+   apparu que les difficultés inhérentes à cette annonce avaient été
+   grossièrement sous-estimées. En 1973, en réponse aux critiques des
+   scientifiques, notamment de James Lighthill et aux pressions
+   continuelles des parlementaires, les gouvernements britannique et
+   américain stoppent les subventions à la recherche en intelligence
+   artificielle sans orientation. Sept ans plus tard, à la suite de
+   l'initiative prophétique du Cabinet du Japon, les gouvernements et
+   l'industrie réinvestissent dans l'intelligence artificielle, mais à la
+   fin des années 1980 les décideurs désabusés retirent à nouveau leurs
+   fonds. On peut donc dire que ce cycle en dents de scie, où alternent
+   périodes de gel et de dégel, caractérise le soutien à l'intelligence
+   artificielle. Mais il reste toujours des idéalistes pour faire des
+   prédictions osées^[2].
+
+   Malgré des hauts et des bas et en dépit de certaines réticences de
+   décideurs et investisseurs, l'intelligence artificielle progresse. Les
+   progrès de l'algorithmique ont permis de résoudre des problèmes que les
+   heuristiques ne pouvaient traiter et jugés inaccessibles en 1970 ; et
+   ces solutions sont comercialisées. Mais aucune machine dotée d'une
+   intelligence artificielle forte n'a encore été construite,
+   contrairement aux prévisions optimistes de la première génération de
+   chercheurs. « Nous ne pouvons qu'entrevoir le court terme » a concédé
+   Alan Turing, dans un article célèbre de 1950 préfigurant la recherche
+   moderne sur les machines pensantes. « Mais, » ajoute-t-il, « nous ne
+   pouvons pas envisager l'ampleur du travail qui reste à accomplir^[3] ».
+
+   Au départ, deux approches se confrontent : d'une part l'approche
+   logiciste ou symbolique, qui vise à recréer les « lois universelles »
+   de la pensée et s'inspirent du concept de machine de Turing, et d'autre
+   part l'approche neuronale, incarnée par Frank Rosenblatt, qui essaie
+   d'imiter les processus biologiques cérébraux. Si l'approche logiciste,
+   inspirée des travaux de Russell, Frege, du cercle de Vienne, de logique
+   mathématique, etc., l'emporte à la DARPA, principal organisme finançant
+   les recherches en intelligence artificielle, l'approche neuronale
+   refait surface dans les années 1980, inspirant les travaux sur le
+   connexionnisme.
+
+   L'intelligence artificielle ayant, à ses débuts, surtout émergé aux
+   États-Unis, cet article se focalisera essentiellement sur ce pays.
+
+Quelques précurseurs[modifier | modifier le code]
+
+   McCorduck 2004 écrit en 2004 que « l'intelligence artificielle sous une
+   forme ou une autre est une idée qui s'est répandue dans l'histoire de
+   la pensée occidentale, un rêve au besoin pressant d'être réalisé, » que
+   l'on retrouve dans les mythes, légendes, histoires, spéculations et
+   automates anthropomorphes de l'humanité^[4].
+
+L'intelligence artificielle : mythes, fiction et spéculation[modifier |
+modifier le code]
+
+   Les hommes mécaniques et les êtres artificiels sont présents dans la
+   mythologie grecque, ainsi les robots dorés d'Héphaïstos, Pygmalion et
+   Galatée^[5].
+
+   Tandis qu'au Moyen Âge, circulent des rumeurs de secrets mystiques ou
+   de techniques alchimiques pour imprégner des esprits, tels que le
+   Takwin de Geber, les homoncules de Paracelse et le Golem de
+   MaHaRaL^[6].
+
+   Au XIX^e siècle, l'idée d'hommes artificiels et de machines pensantes
+   prend corps dans des œuvres de fiction, telles que Frankenstein de Mary
+   Shelley ou encore R. U. R. (Rossum's Universal Robots) de Karel
+   Čapek^[7], et des essais de spéculation, comme Darwin among the
+   Machines de Samuel Butler^[8].
+
+   L'IA est un élément important de la science-fiction.
+
+Automates[modifier | modifier le code]
+
+   Article détaillé : Automate anthropomorphe.
+   [250px-Al-jazari_robots.jpg] L'automate programmable d'Al-Djazari (1206
+   apr. J.-C.)
+
+   Des automates anthropomorphes réalistes ont été construits par des
+   artisans de toutes les civilisations, dont Yan Shi qui travaillait pour
+   Ji Man^[9], Héron d'Alexandrie^[10], Al-Djazari^[11] et Wolfgang von
+   Kempelen^[12]. Les plus vieux automates sont les statues sacrées
+   d'ancienne Égypte et de Grèce antique. Les croyants étaient persuadés
+   que les artisans avaient imprégné ces statues avec des esprits réels,
+   capables de sagesse et d'émotion — Hermès Trismégiste a écrit qu'« en
+   découvrant la vraie nature des dieux, l'homme a été capable de le
+   reproduire^[13]^,^[14] ». L'automate de Vaucanson du XVIII^e siècle qui
+   représente un canard est une mise en œuvre saisissante d'un être
+   artificiel réalisant certaines fonctions du vivant, tandis que le turc
+   joueur d'échec de Johann Wolfgang von Kempelen est une supercherie.
+
+Raisonnement formel[modifier | modifier le code]
+
+   L'intelligence artificielle se fonde sur l'hypothèse que le processus
+   de pensée humaine peut être mécanisé. L'étude du raisonnement mécanique
+   — ou « formel » — a un long historique. Les philosophes chinois,
+   indiens et grecs ont tous développé des méthodes structurées de
+   déduction formelle au cours du premier millénaire apr. J.-C. Leurs
+   idées ont été développées à travers les siècles par des philosophes
+   comme Aristote (qui a donné une analyse formelle du syllogisme),
+   Euclide (dont les Éléments ont été un modèle de raisonnement formel),
+   Al-Khawarizmi (auquel on doit l'algèbre et dont le nom a donné
+   « algorithme ») et les philosophes scolastiques européens comme
+   Guillaume d'Ockham et Duns Scot^[15].
+
+   Le philosophe majorquin Raymond Lulle (1232–1315) a conçu plusieurs
+   machines logiques destinées à la production de connaissance par des
+   moyens logiques^[16] ; Lulle décrit ses machines en tant qu'entités
+   mécaniques qui pouvaient combiner des vérités fondamentales et
+   indéniables via de simples opérations logiques, générées par la machine
+   grâce à des mécanismes, de manière à produire tout le savoir
+   possible^[17]. Le travail de Lulle a une grande influence sur Leibniz,
+   qui a redéveloppé ses idées^[18].
+   [220px-Gottfried_Wilhelm_von_Leibniz.jpg] Gottfried Wilhelm Leibniz,
+   qui spéculait qu'on pouvait réduire la raison humaine à des calculs
+   mécaniques
+
+   Au XVII^e siècle, Gottfried Wilhelm Leibniz, Thomas Hobbes et René
+   Descartes ont exploré la possibilité que toute la pensée rationnelle
+   puisse être aussi systématique que l'algèbre ou la géométrie^[19]. Dans
+   le Léviathan de Hobbes, on retrouve la célèbre phrase : « la raison
+   [...] n'est rien d'autre que le fait de calculer^[20] ». Leibniz
+   imaginait un langage universel du raisonnement (sa characteristica
+   universalis) qui assimilerait l'argumentation à un calcul, afin qu'« il
+   n'y a[it] pas plus de besoin de se disputer entre deux philosophes
+   qu'entre deux comptables. Car il leur suffirait de prendre leur crayon
+   et leur ardoise en main, et de se dire l'un l'autre (avec un ami en
+   témoin, au besoin) : Calculons !^[21] ». Ces philosophes ont commencé �
+   articuler les hypothèses d'un système de symboles physiques qui
+   deviendra par la suite l'un des dogmes de la recherche en IA.
+
+   Au XX^e siècle, l'étude de la logique mathématique a fourni l'essentiel
+   des avancées qui ont rendu plausible l'intelligence artificielle. Les
+   bases ont été mises en place avec des œuvres telles que Les Lois de la
+   Pensée de Boole et Idéographie de Frege. S'appuyant sur le système de
+   Frege, Russell et Whitehead ont présenté un traitement formel des
+   fondements des mathématiques dans leur chef-d'œuvre Principia
+   Mathematica en 1913. Inspiré par le succès de Russell, David Hilbert a
+   défié les mathématiciens des années 1920-1930 de répondre à cette
+   question fondamentale : « Le raisonnement mathématique peut-il être
+   entièrement formalisé^[15] ? » On répondit à sa question par les
+   théorèmes d'incomplétude de Gödel, la machine de Turing et le
+   lambda-calcul de Church^[15]^,^[22]. Leur réponse était surprenante �
+   plusieurs titres. Tout d'abord, ils prouvèrent qu'il y avait, en fait,
+   des limitations dans ce que la logique mathématique pouvait accomplir.
+   [250px-Classic_shot_of_the_ENIAC.jpg] L'ENIAC, à la Moore School of
+   Electrical Engineering.
+
+   Mais aussi (et plus important encore pour l'IA) leurs travaux ont
+   suggéré que, sous ces conditions, toute forme de raisonnement
+   mathématique pouvait être mécanisée. La thèse de Church impliquait
+   qu'un appareil mécanique, manipulant des symboles aussi simples que des
+   0 et des 1, pouvait imiter tout processus concevable de déduction
+   mathématique. Cette notion-clé se traduisit par la machine de Turing —
+   une simple construction théorique qui capturait l'essence de la
+   manipulation de symboles abstraits. Cette invention inspira une poignée
+   de scientifiques qui commencèrent alors à discuter de la possibilité de
+   machines pensantes^[15]^,^[23].
+
+Intelligence artificielle et premiers ordinateurs[modifier | modifier le
+code]
+
+   Les machines à calculer sont apparues dès l'Antiquité^[Note 1] et ont
+   été améliorées tout au long de l'histoire par de nombreux
+   mathématiciens et ingénieurs, dont Leibniz. Au début du XIX^e siècle,
+   Charles Babbage conçoit la machine à calculer programmable (la Machine
+   analytique), sans jamais la construire. À sa suite, Ada Lovelace
+   spécule que la machine « peut composer des pièces de musique élaborées
+   et scientifiques de toutes complexité et longueur^[24]^,^[Note 2] ».
+
+   Les premiers ordinateurs modernes sont les machines massives de
+   cryptanalyse de la Seconde Guerre mondiale (telles que le Z3, l'ENIAC
+   et le Colossus)^[25], conçues, en ce qui concerne les deux dernières, �
+   partir des fondements théoriques établis par Alan Turing et développés
+   par John von Neumann^[26].
+
+Naissance: 1943−1956[modifier | modifier le code]
+
+   [420px-BRL61-IBM_702.jpg] L'IBM 702 : un ordinateur utilisé par la
+   première génération de chercheurs en IA.
+
+   Une note sur les sections de cet article^[27].
+
+   Dans les années 1940 et 1950, une poignée de scientifiques d'une large
+   gamme de domaines (mathématiques, psychologie, ingénierie, économie et
+   science politique) ont commencé à discuter de la possibilité de créer
+   un cerveau artificiel. Ce domaine de recherche de l'intelligence
+   artificielle a été fondé en tant que discipline académique en
+   1956^[28].
+
+Cybernétique et premiers réseaux neuronaux[modifier | modifier le code]
+
+   Les toutes premières recherches dans le domaine des machines pensantes
+   ont été inspirées par une convergence d'idées qui se sont
+   progressivement répandues de la fin des années 1930 au début des années
+   1950. De récentes recherches en neurologie ont montré que le cerveau
+   était un réseau électrique de neurones qui envoyaient des impulsions de
+   type tout-ou-rien. La cybernétique de Norbert Wiener a décrit les
+   contrôles et la stabilité dans les réseaux électriques. La théorie de
+   l'information de Claude Shannon détaille des signaux numériques (i.e.,
+   signaux tout-ou-rien). La théorie du calcul d'Alan Turing montre que
+   toute forme de calcul peut être représentée numériquement. Les
+   relations étroites entre ces idées suggèrent la possibilité de
+   construire un cerveau artificiel^[29].
+
+   On peut citer comme exemples de travaux de cette veine les robots tels
+   que les Tortues de Bristol de William Grey Walter et la Bête de Johns
+   Hopkins (en). Ces machines n'utilisent pas d'ordinateurs,
+   d'électronique numérique ni de raisonnement symbolique ; elles étaient
+   entièrement contrôlées par des circuits analogiques^[30].
+
+   Walter Pitts et Warren McCulloch ont analysé des réseaux de neurones
+   artificiels idéaux et ont montré comment ils pourraient effectuer de
+   simples opérations logiques. Ils ont été les premiers à évoquer ce que
+   des chercheurs plus tard appelleraient un réseau neuronal^[31].
+
+   Un des étudiants inspirés par Pitts et McCulloch était Marvin Minsky, �
+   l'époque jeune étudiant de 24 ans. En 1951 (avec Dean Edmonds), il
+   construisit la première machine à réseau neuronal, le SNARC^[32].
+   Minsky allait devenir l'un des plus importants leaders et innovateurs
+   en IA des cinquante années suivantes.
+
+L'intelligence artificielle dans les jeux[modifier | modifier le code]
+
+   En 1951, en utilisant la machine Ferranti Mark I de l'université de
+   Manchester, Christopher Strachey a écrit un programme de jeu de dames
+   et Dietrich Prinz un programme de jeu d'échecs^[33]. Le jeu de dames
+   d'Arthur Samuel, développé au milieu des années 1950 et au début des
+   années 1960, a fini par acquérir un niveau suffisant pour défier un bon
+   amateur^[34]. De fait, l'intelligence artificielle dans les jeux sert
+   d'étalon des avancées de l'intelligence artificielle.
+
+Test de Turing[modifier | modifier le code]
+
+   En 1950 Alan Turing publie un article mémorable dans lequel il spécule
+   sur la possibilité de créer des machines dotées d'une véritable
+   intelligence^[35]. Il remarque qu'il est difficile de définir
+   l'« intelligence » et imagine son célèbre test de Turing. Si une
+   machine peut mener une conversation (par téléscripteur interposé) qu'on
+   ne puisse différencier d'une conversation avec un être humain, alors la
+   machine pouvait être qualifiée d'« intelligente ». Cette version
+   simplifiée du problème a permis à Turing d'argumenter de manière
+   convaincante qu'une « machine pensante » était au-moins plausible, cet
+   article répondant à toutes les objections classiques à cette
+   proposition^[36]. Le test de Turing a été la première hypothèse
+   sérieuse dans le domaine de la philosophie de l'intelligence
+   artificielle.
+
+Raisonnement symbolique et le théoricien logique[modifier | modifier le code]
+
+   Quand l'accès aux ordinateurs est devenu possible au milieu des années
+   1950, des scientifiques, en petit nombre au début, ont compris qu'une
+   machine qui pouvait manipuler des nombres pouvait aussi manipuler des
+   symboles et que cette manipulation de symboles pouvait potentiellement
+   être l'essence-même de la pensée humaine. Cela a conduit �
+   l'élaboration des premières machines pensantes^[37].
+
+   En 1955, Allen Newell et le futur prix Nobel d'économie, Herbert Simon,
+   avec l'aide de Cliff Shaw, ont créé le « Théoricien logique ». Le
+   programme finira par démontrer 38 des 52 premiers théorèmes des
+   Principia Mathematica de Russell et Whitehead, et a même trouvé des
+   démonstrations inédites et élégantes^[38]. Simon raconte qu'ils ont
+   « résolu le vénérable problème corps-esprit, expliquant comment un
+   système composé de matière peut avoir des propriétés de
+   l'esprit^[39] ». C'est l'une des premières formulations d'un mouvement
+   philosophique que John Searle appellera plus tard « intelligence
+   artificielle forte » : comme les humains, les machines peuvent posséder
+   un esprit^[40].
+
+La traduction automatique des langages[modifier | modifier le code]
+
+   En 1949, Warren Weaver publie son memorandum sur la traduction
+   automatique des langues naturelles^[41] qui est à la fois visionnaire
+   et optimiste sur le futur de ce problème fondamental de l'intelligence
+   artificielle.
+
+Conférence de Dartmouth de 1956 : naissance de l'intelligence
+artificielle[modifier | modifier le code]
+
+   Article détaillé : conférence de Dartmouth.
+
+   La conférence de Dartmouth de 1956^[42] a été organisée par Marvin
+   Minsky, John McCarthy et deux scientifiques seniors : Claude Shannon et
+   Nathan Rochester (en) d'IBM. La thèse de la conférence incluait cette
+   assertion : « chaque aspect de l'apprentissage ou toute autre
+   caractéristique de l'intelligence peut être si précisément décrit
+   qu'une machine peut être conçue pour le simuler^[43] ». Parmi les
+   participants on retrouve Ray Solomonoff, Oliver Selfridge, Trenchard
+   More, Arthur Samuel, Allen Newell et Herbert Simon, qui vont tous créer
+   des programmes importants durant les premières décennies de la
+   recherche en IA^[44]. À la conférence, Newell et Simon ont
+   débuté^[incompréhensible] le « Théoricien Logique » (logic theorist) et
+   McCarthy a convaincu l'auditoire d'accepter l'expression « Intelligence
+   Artificielle » comme intitulé du domaine^[45]. La conférence de
+   Dartmouth de 1956 a été le moment-clé où l'intelligence artificielle a
+   été appelée comme telle, a défini ses objectifs, a concrétisé ses
+   premières réussites et a réuni ses acteurs importants. Cette conférence
+   est largement considérée, dans le monde occidental, comme le moment
+   fondateur de l'intelligence artificielle en tant que discipline
+   théorique indépendante (de l'informatique)^[réf. nécessaire]^[46].
+
+L'âge d'or 1956−1974[modifier | modifier le code]
+
+   Les années qui suivent la conférence de Dartmouth sont une ère de
+   découverte, de conquêtes effrénées de nouvelles contrées du savoir. Les
+   programmes développés à l'époque sont considérés par la plupart des
+   gens comme simplement « extraordinaires^[47] » : des ordinateurs
+   résolvent des problèmes algébriques de mots, démontrent des théorèmes
+   en géométrie et apprennent à parler anglais. À cette époque, peu
+   croient que de tels comportements « intelligents » soient possibles
+   pour des machines^[48]. Les chercheurs font preuve alors d'un optimisme
+   intense dans le privé comme dans leurs articles, ils prédisent qu'une
+   machine complètement intelligente sera construite dans les 20 ans �
+   venir^[49]. Les agences gouvernementales comme la DARPA investissent
+   massivement dans ce nouveau domaine^[50].
+
+Les percées[modifier | modifier le code]
+
+   Beaucoup de programmes sont couronnés de succès.
+
+Raisonnement par tâtonnements[modifier | modifier le code]
+
+   Ils sont nombreux parmi les premiers programmes d'intelligence
+   artificielle à utiliser le même algorithme fondamental. Pour remplir
+   certains objectifs (comme gagner un jeu ou démontrer un théorème), ils
+   procèdent pas à pas vers la solution (en effectuant un mouvement ou une
+   déduction à la fois) comme s'ils naviguent dans un labyrinthe, revenant
+   en arrière dès qu'ils se heurtent à une impasse. Ce paradigme est
+   appelé « raisonnement par tâtonnements^[51] » ou retour sur trace.
+
+   La principale difficulté réside dans le fait que, pour beaucoup de
+   problèmes, le nombre de chemins possibles vers la solution est
+   astronomique, c'est la fameuse « explosion combinatoire ». Des
+   chercheurs ont alors essayé de réduire l'espace de recherche à l'aide
+   d'heuristiques ou de « règles empiriques » qui éliminent la plupart des
+   chemins dont il est peu probable qu'ils mènent à une solution^[52].
+
+   Newell et Simon essaient de capturer une version générale de cet
+   algorithme dans un programme appelé le General Problem Solver^[53]
+   (« solutionneur de problème général »). Certains programmes de
+   « recherche » sont capables d'accomplir des tâches jugées à l'époque
+   impressionnantes comme la résolution de problèmes géométriques et
+   algébriques, tels que le Geometry Theorem Prover d'Herbert Gelernter
+   (1958) et le SAINT, écrit par James Slagle, un des étudiants de
+   Minsky^[54] (1961). D'autres programmes cherchent à travers des
+   objectifs et sous-objectifs pour planifier des actions, comme le
+   système STRIPS développé à Stanford pour contrôler le comportement de
+   leur robot, Shakey^[55].
+   [400px-SemanticNetArbre_s%C3%A9mantique_fr.jpg] Un exemple de réseau
+   sémantique.
+
+Langage naturel[modifier | modifier le code]
+
+   Un but majeur de la recherche en IA est de permettre aux ordinateurs de
+   communiquer en langage naturel comme l'anglais. Un des premiers succès
+   était le programme STUDENT de Bobrow, qui pouvait résoudre des
+   problèmes algébriques rédigés pour lycéens^[56].
+
+   Un réseau sémantique représente des concepts (par ex. « maison »,
+   « porte ») à l'aide de nœuds et les relations entre les concepts (par
+   ex. « possède un ») par des liaisons entre ces nœuds. Le premier
+   programme d'IA à utiliser un réseau sémantique a été écrit par Ross
+   Quillian^[57] et la version la plus performante (et controversée) a été
+   la Conceptual dependency theory de Roger Schank^[58].
+
+   ELIZA de Joseph Weizenbaum pouvait mener des conversations si réalistes
+   que certains utilisateurs se sont laissé abuser en croyant communiquer
+   avec un être humain et non un programme. En réalité, ELIZA n'avait
+   aucune idée de ce dont elle parlait. Elle donnait simplement une
+   « réponse-bateau » ou reformulait en réponse grâce à quelques règles de
+   grammaire. ELIZA était le premier agent conversationnel^[59].
+
+Micro-mondes[modifier | modifier le code]
+
+   À la fin des années 1960, Marvin Minsky et Seymour Papert du
+   Laboratoire d'IA du MIT ont proposé que la recherche d'IA se concentre
+   sur des situations artificiellement simplifiées appelées aussi
+   micro-mondes. Ils ont mentionné à juste titre que dans les sciences
+   performantes comme la physique, les principes fondamentaux étaient
+   souvent mieux compris en utilisant des modèles simplifiés tels que des
+   avions sans friction, ou des corps parfaitement rigides. La majorité de
+   la recherche s'est alors centrée sur un « monde-blocs », qui consistait
+   en un ensemble de blocs colorés de formes et tailles variées disposés
+   sur une surface plane^[60].
+
+   Ce paradigme a permis des travaux innovants dans la vision industrielle
+   de Gerald Sussman (qui dirigeait l'équipe), Adolfo Guzman, David Waltz
+   (qui inventa la « propagation de contraintes »), et surtout Patrick
+   Winston. Au même moment, Minsky et Papert construisait un bras
+   robotique qui empilait des blocs, insufflant la vie dans ces
+   monde-blocs. La plus grande réussite de ces programmes micro-mondes a
+   été le SHRDLU de Terry Winograd. Ce dernier pouvait communiquer en
+   anglais à l'aide de phrases ordinaires, planifier des opérations et les
+   exécuter^[61].
+
+L'optimisme[modifier | modifier le code]
+
+   La première génération de chercheurs en IA fait les prévisions
+   suivantes à propos de leur travail :
+     * En 1958, H. Simon et Allen Newell : « d'ici dix ans un ordinateur
+       sera le champion du monde des échecs » et « d'ici dix ans, un
+       ordinateur découvrira et résoudra un nouveau théorème mathématique
+       majeur^[62] ».
+     * En 1965, H. Simon : « des machines seront capables, d'ici vingt
+       ans, de faire tout travail que l'homme peut faire^[63] ».
+     * En 1967, Marvin Minsky : « dans une génération [...] le problème de
+       la création d'une 'intelligence artificielle' [sera] en grande
+       partie résolu^[64] ».
+     * En 1970, Marvin Minsky (dans le magazine Life) : « Dans trois �
+       huit ans nous aurons une machine avec l'intelligence générale d'un
+       être humain ordinaire^[65] ».
+
+Le financement[modifier | modifier le code]
+
+   En juin 1963 le MIT reçoit une subvention de 2,2 millions de dollars de
+   la toute jeune ARPA (« Agence pour les projets de recherche avancée »,
+   qui deviendra plus tard la DARPA). L'argent est utilisé pour financer
+   le Projet MAC (en) qui englobe le « Groupe IA » fondé par Minsky et
+   McCarthy cinq ans plus tôt. L'ARPA continue à fournir trois millions de
+   dollars par an jusqu'aux années 1970^[66]. L'ARPA fait des subventions
+   similaires au programme de Newell et Simon à Carnegie-Mellon et au
+   projet Stanford I.A. (fondé par John McCarthy en 1963)^[67]. Un autre
+   laboratoire important d'IA est établi à l'université d'Édimbourg par
+   Donald Michie en 1965^[68]. Ces quatre institutions continuent d'être
+   les principaux centres de recherche en IA au niveau académique pendant
+   de nombreuses années^[69].
+
+   L'argent est distribué avec peu de contrôle. L'ancien professeur de
+   Minsky à Harvard, J. C. R. Licklider, alors à la tête du « Bureau des
+   Techniques de Traitement de l'Information » (IPTO) et directeur du
+   Programme Command & Control de l'ARPA, pense que son organisation doit
+   « financer des personnes, pas des projets ! » et autorise les
+   chercheurs à poursuivre toutes les pistes qui leur semblent
+   intéressantes^[70]. Cela crée une atmosphère de liberté totale au MIT
+   qui donne ainsi naissance à la culture hacker^[71]. À Licklider
+   (1962-64) succèdent Ivan Sutherland (1964-66), Robert Taylor (1966-69)
+   et Lawrence Roberts (1969-1972), tous proches du MIT et dans la
+   continuité de Licklider vis-à-vis de l'IA. Néanmoins cette attitude non
+   interventionniste ne dure pas.
+
+La première hibernation de l'intelligence artificielle (1974−1980)[modifier |
+modifier le code]
+
+   Dans les années 1970, l'intelligence artificielle subit critiques et
+   revers budgétaires, car les chercheurs en intelligence artificielle
+   n'ont pas une vision claire des difficultés des problèmes auxquels ils
+   sont confrontés. Leur immense optimisme a engendré une attente
+   excessive et quand les résultats promis ne se matérialisent pas, les
+   investissements consacrés à l'intelligence artificielle
+   s'étiolent^[72]. Dans la même période, le connexionisme a été presque
+   complétement mis sous le boisseau pour 10 ans par la critique
+   dévastatrice de Marvin Minsky sur les perceptrons^[73]. Malgré l'image
+   négative de l'intelligence artificielle dans le grand public à la fin
+   des années 1970, de nouvelles idées sont explorées en programmation
+   logique, raisonnement de bon sens^[Note 3] et dans d'autres
+   directions^[74].
+
+Les problèmes[modifier | modifier le code]
+
+   Au début des années 1970, les capacités des programmes d'IA sont
+   limitées. Les plus performants peinent à manipuler des versions
+   simplistes des problèmes qu'ils sont supposés résoudre et tous les
+   problèmes sont, d'une certaine manière, des « broutilles^[75] ». De
+   fait, les chercheurs en IA font face à plusieurs limites fondamentales
+   insurmontables et bien que certaines limites soient dépassées depuis,
+   d'autres demeurent de vrais obstacles^[76].
+
+Limites de la puissance de calcul[modifier | modifier le code]
+
+   La puissance et la mémoire de l'époque étaient considérées à juste
+   titre comme un véritable frein à des applications pratiques ; elles
+   suffisaient à peine pour démontrer des modèles simplistes.
+
+   Ainsi, le travail de Ross Quillian sur le langage naturel est limité �
+   un vocabulaire de vingt mots, car la mémoire ne peut pas en contenir
+   plus^[77].
+
+   En outre, Hans Moravec se plaint en 1976 du fait que les ordinateurs
+   soient des millions de fois trop faibles pour faire montre d'une
+   quelconque intelligence, qu'ils sont loin d'atteindre le seuil critique
+   minimal. Pour mieux faire comprendre ce qu'il entend par seuil, il
+   utilise l'analogie suivante : « En dessous d'un certain niveau de
+   puissance, un avion reste plaqué au sol et ne peut pas décoller du
+   tout, c'est juste impossible ». Néanmoins comme la puissance
+   informatique augmente, ça finira par devenir possible^[78]^,^[Note 4].
+
+   Quant à la vision par ordinateur, Moravec estime que le simple fait
+   d'égaler les capacités de la rétine humaine à détecter les mouvements
+   et les contours en temps réel (problème simple de nos jours)
+   nécessiterait un ordinateur générique capable de 10^9 opérations par
+   seconde (1 000 MIPS^[79]). Par comparaison, l'ordinateur le plus rapide
+   en 1976, le Cray-1 (vendu entre 5 et 8 000 000 $), est seulement
+   capable d'environ 80 à 130 MIPS, et un ordinateur de bureau typique de
+   l'époque n'atteint même pas 1 MIPS. En fait, son estimation,
+   impressionnante pour l'époque, s'est avérée trop optimiste : en 2011,
+   les applications de vision par ordinateur concrètes ont besoin de dix �
+   mille fois plus de puissance, se situant plutôt entre 10 000 �
+   1 000 000 MIPS.
+
+Limites inhérentes : la complétude NP[modifier | modifier le code]
+
+   En 1972, à la suite du théorème de Cook, Richard Karp a montré qu'il y
+   avait de nombreux problèmes très difficiles, pour lesquels trouver des
+   solutions optimales était impensable, avec comme conséquence que les
+   problèmes fondamentaux de l'intelligence artificielle ne passeront pas
+   à l'échelle^[80].
+
+Raisonnement et base de connaissance de culture générale[modifier | modifier
+le code]
+
+   De nombreuses applications majeures d'intelligence artificielle comme
+   la vision par ordinateur ou le traitement automatique du langage
+   naturel ont besoin d'énormes quantités d'information du monde réel pour
+   mettre en place des programmes capable de « comprendre » ce qu'il voit
+   ou de discuter. Dès les années 1970, les chercheurs dans ces domaines
+   découvrent que la quantité d'information correspondante est très
+   grande, bien qu'un enfant l'acquiert très rapidement. À cette époque,
+   il n'était pas envisageable de construire une telle base de données ni
+   un programme capable de gérer autant d'information^[81]^,^[82]^,^[83].
+
+Le paradoxe de Moravec[modifier | modifier le code]
+
+   Article détaillé : paradoxe de Moravec.
+
+   Les chercheurs en intelligence artificielle et en robotique Hans
+   Moravec, Rodney Brooks et Marvin Minsky mirent en évidence que le
+   raisonnement de haut niveau est souvent plus facile à reproduire et
+   simuler par un programme informatique que les aptitudes sensorimotrices
+   humaines. Ceci peut sembler contre-intuitif du fait qu'un humain n'a
+   pas de difficulté particulière à effectuer des tâches relevant de cette
+   dernière catégorie, contrairement à la première.
+
+   Par exemple, démontrer des théorèmes ou résoudre des problèmes
+   géométriques est relativement faisable par les ordinateurs, mais une
+   tâche plus simple pour un humain, comme reconnaître un visage ou
+   traverser une pièce sans collision, a longtemps été très compliqué pour
+   les machines. Ainsi, la recherche en vision par ordinateur et en
+   robotique a fait peu de progrès au milieu des années 1970^[84]^,^[85].
+
+Le cadre et les problèmes de qualification[modifier | modifier le code]
+
+   Les chercheurs en IA (comme John McCarthy) qui se sont servis de la
+   logique ont découvert qu'ils ne pouvaient pas représenter des
+   déductions ordinaires qui impliquaient de la planification ou des
+   raisonnements par défaut sans avoir à modifier la structure de la
+   logique elle-même. Ils ont dû développer de nouvelles logiques (comme
+   les logiques non monotones et modales) pour essayer de résoudre ces
+   problèmes^[86].
+
+La fin des investissements[modifier | modifier le code]
+
+   Les agences qui ont investi dans la recherche en IA (comme le
+   gouvernement britannique, la DARPA et le NRC, Conseil américain de la
+   recherche) deviennent frustrées par le manque de progrès et finissent
+   par couper pratiquement tous les fonds de recherche fondamentale en IA.
+   Ce comportement commence dès 1966 quand un rapport de l'ALPAC^[Note 5]
+   paraît critiquer les efforts de traduction automatisée. Après avoir
+   dépensé 20 millions de dollars, le NRC décide de tout arrêter^[87]. En
+   1973, le Rapport Lighthill (en) sur l'état de la recherche en IA en
+   Angleterre a critiqué l'échec lamentable de l'IA à atteindre ses
+   « ambitieux objectifs » et a conduit au démantèlement de la recherche
+   en IA dans ce pays^[88] (Ce rapport mentionne en particulier le
+   problème d'explosion combinatoire comme une des raisons des échecs de
+   l'IA^[89]). Quant à la DARPA, elle a été extrêmement déçue par les
+   chercheurs travaillant dans le programme Speech Understanding Research
+   à Carnegie-Mellon et a annulé une subvention annuelle de trois millions
+   de dollars^[90]. Vers 1974, trouver des financements pour des projets
+   d'IA était donc chose rare.
+
+   Hans Moravec a attribué la crise aux prédictions irréalistes de ses
+   collègues. « Beaucoup de chercheurs se sont retrouvés piégés dans un
+   entrelacs d'exagérations croissantes^[91]. » Un autre problème est
+   apparu : le vote de l'amendement Mansfield en 1969, a mis la DARPA sous
+   une pression croissante pour qu'elle ne finance que des « recherches
+   directement applicables, plutôt que des recherches exploratoires
+   fondamentales ». Un financement pour de l'exploration créative, en roue
+   libre, tel qu'il avait cours dans les années soixante ne viendrait plus
+   de la DARPA. Au lieu de cela, l'argent était redirigé vers des projets
+   spécifiques avec des objectifs précis, comme des chars de combat
+   autonomes ou des systèmes de gestion de batailles^[92].
+
+Critiques universitaires[modifier | modifier le code]
+
+   Plusieurs philosophes émettent de fortes objections aux affirmations
+   des chercheurs en IA. Un des premiers opposants est John Lucas, qui
+   s'appuie sur le théorème d'incomplétude de Gödel pour contester
+   l'aptitude des démonstrateurs automatiques de théorèmes à démontrer
+   certaines affirmations^[93]. Hubert Dreyfus ridiculise les promesses
+   non tenues des années soixante et critique les hypothèses de l'IA,
+   argumentant que le raisonnement humain avait en fait besoin de très peu
+   de « traitement symbolique » mais surtout de sentiment d’embodiment,
+   d'instinct, d'un « savoir-faire » inconscient^[94]^,^[95]. L'argument
+   de la chambre chinoise avancé par John Searle en 1980, tente de montrer
+   qu'on ne peut pas dire qu'un programme « comprend » les symboles qu'il
+   utilise (une qualité appelée « intentionnalité »). Si les symboles
+   n'ont aucun sens pour la machine, on ne peut, dixit Searle, qualifier
+   la machine de « pensante^[96] ».
+
+   Ces critiques ne sont pas vraiment prises en considération par les
+   chercheurs en IA, tant certaines ne visent pas l'essence du problème.
+   Les questions telles que l'indécidabilité, la complexité inhérente ou
+   la définition de la culture générale semblent beaucoup plus immédiates
+   et graves. Ils pensent que la différence entre le « savoir-faire » et
+   l'« intentionnalité » n'apporte presque rien à un programme
+   informatique. Minsky dit de Dreyfus et Searle qu'« ils ont mal compris
+   la question et on devrait les ignorer^[97] ». Les critiques de Dreyfus,
+   qui enseigne au MIT, sont accueillies fraîchement : il a plus tard
+   avoué que les chercheurs en IA « n'osaient pas manger avec moi de peur
+   que nous soyons vus ensemble^[98] ». Joseph Weizenbaum, l'auteur
+   d'ELIZA, considère, lui, que le comportement de ses collègues à l'égard
+   de Dreyfus est non professionnel et infantile. Bien qu'il critique
+   ouvertement les positions de Dreyfus, il fait clairement comprendre que
+   ce n'est pas [comme cela] qu'il faut traiter quelqu'un^[99].
+
+   Weizenbaum commence à avoir de sérieux doutes éthiques à propos de l'IA
+   quand Kenneth Colby écrit DOCTOR, un agent conversationnel thérapeute.
+   Weizenbaum est gêné par le fait que Colby voit en son programme sans
+   esprit un outil thérapeutique sérieux. Une querelle éclate alors, et la
+   situation empire quand Colby omet de mentionner la contribution de
+   Weizenbaum au programme. En 1976, Weizenbaum publie Puissance
+   informatique et raison humaine (en) qui explique que le mauvais usage
+   de l'intelligence artificielle peut potentiellement conduire �
+   dévaloriser la vie humaine^[100].
+
+Perceptrons et la période sombre du connexionnisme[modifier | modifier le
+code]
+
+   Un perceptron est un type de réseaux neuronaux introduit en 1958 par
+   Frank Rosenblatt^[101]. Comme la plupart des chercheurs en IA de
+   l'époque, il est optimiste, prédisant qu'« un perceptron pourra être
+   capable d'apprendre, de prendre des décisions, et de traduire les
+   langues ». Un programme de recherche dynamique sur ces concepts est
+   mené dans les années soixante, mais il s'arrête brutalement après la
+   publication du livre de Minsky et Papert en 1969 intitulé Perceptrons.
+   Ce livre constate plusieurs limites à ce que les perceptrons peuvent
+   faire et note plusieurs exagérations dans les prédictions de Frank
+   Rosenblatt. L'effet du livre est dévastateur : aucune recherche dans le
+   domaine du connexionnisme ne se fait pendant dix ans. Ce n'est qu'après
+   une décennie, qu'une nouvelle génération de chercheurs se réattaque au
+   problème, notamment en France, Guy Perennou et Serge Castan^[102].
+
+Les élégants : calcul des prédicats, Prolog et systèmes experts[modifier |
+modifier le code]
+
+   John McCarthy introduit l'usage de la logique en IA dès 1958, dans son
+   Advice Taker^[Note 6]^,^[103]. En 1963, J. Alan Robinson découvre une
+   méthode relativement simple pour implémenter la déduction. Pour cela il
+   invente les concepts de résolution et d'unification. En effet, des
+   implémentations plus directes, comme celles essayées par McCarthy et
+   ses étudiants à la fin des années soixante, se sont révélées
+   particulièrement inefficaces, car les algorithmes requièrent un nombre
+   astronomique d'étapes pour démontrer des théorèmes très simples^[104].
+   Une utilisation plus fructueuse de la logique a été développée dans les
+   années 1970 par Alain Colmerauer et Philippe Roussel à l'université de
+   Marseille-Luminy et Robert Kowalski (en) à l'université d'Édimbourg qui
+   ont créé le langage de programmation Prolog^[105]. Prolog utilise un
+   sous-ensemble du calcul des prédicats, les clauses de Horn, qui permet
+   des calculs plus efficaces. D'autres chercheurs utilisent des règles de
+   production, notamment les systèmes experts d'Edward Feigenbaum et les
+   logiciels d'Allen Newell et Herbert Simon qui conduit à Soar et la
+   Théory unifiée de la cognition [« Unified Theory of Cognition »],
+   1990^[106].
+
+   L'approche logique a été critiquée dès son apparition. Ainsi Hubert
+   Dreyfus note que les êtres humains se servent rarement de logique quand
+   ils résolvent des problèmes. Les expériences de psychologues tels que
+   Peter Wason, Eleanor Rosch, Amos Tversky, Daniel Kahneman et d'autres
+   corroborent plus ou moins cet avis^[107]. McCarthy a rétorqué que ce
+   que les humains font n'est pas pertinent, expliquant que le but est
+   d'avoir des machines qui peuvent résoudre des problèmes, pas des
+   machines qui pensent comme des humains^[108]. Mais la critique la plus
+   sévère de l'approche fondée sur la déduction automatique vient du
+   théoricien de l'informatique Stephen Cook qui montre dans son célèbre
+   article The Complexity of Theorem-Proving Procedures (« La complexité
+   des procédures de démonstration de théorèmes ») qu'il n'y a pas de
+   procédures automatiques efficaces de démonstration de théorèmes sauf si
+   P = NP.
+
+Les brouillons : cadres et scripts[modifier | modifier le code]
+
+   Parmi les critiques de l'approche de McCarthy on trouve ses collègues �
+   travers le pays au MIT Marvin Minsky, Seymour Papert et Roger Schank
+   ont essayé de résoudre des problèmes comme la « compréhension d'une
+   histoire » et la « reconnaissance d'objets » qui requièrent d'une
+   machine de penser comme une personne. Pour manipuler des concepts
+   ordinaires comme une « chaise » ou un « restaurant », elles doivent
+   faire toutes les mêmes hypothèses plus ou moins logiques que les gens
+   font habituellement. Malheureusement, de tels concepts imprécis sont
+   difficiles à représenter en logique. Gerald Sussman observe
+   qu'« utiliser un langage précis pour décrire des concepts imprécis ne
+   rend pas ces derniers plus précis^[109] ». Schank décrit ces approches
+   alogiques comme « brouillonnes (en) », qu'il oppose aux paradigmes
+   « élégants (en) » utilisés par McCarthy, Kowalski, Feigenbaum, Newell
+   et Simon^[110].
+
+   En 1975, Minsky remarque que beaucoup de ses pairs « brouillons »
+   utilisent la même approche, à savoir un cadre de travail qui englobe
+   toutes les hypothèses de culture générale (en) d'un thème donné. Par
+   exemple, si on manipule le concept « oiseau », une multitude de faits
+   viennent à l'esprit, ainsi on peut prétendre qu'il vole, qu'il mange
+   des vers, etc.. On sait que ces faits ne sont pas toujours vrais et que
+   les déductions à partir de ces faits ne sont pas toutes « logiques »,
+   mais ces ensembles structurés d'hypothèses font partie du contexte de
+   nos discussions ou de nos pensées. Minsky appelle ces structures des
+   « cadres ». Schank, quant à lui, introduit une variante des cadres
+   qu'il appelle des « scripts » afin de répondre à des questions sur des
+   romans anglophones^[111]. Certains affirment que quelques années plus
+   tard la programmation orientée objet empruntera aux cadres de
+   l'intelligence artificielle la notion d'« héritage ».
+
+Le boom 1980–1987[modifier | modifier le code]
+
+   Dans les années 1980, des programmes d'IA appelés « systèmes experts »
+   sont adoptés par les entreprises et la connaissance devient le sujet
+   central de la recherche en IA. Au même moment, le gouvernement japonais
+   finance massivement l'IA à travers son initiative « ordinateurs de
+   cinquième génération (en) ». Un autre évènement est la renaissance du
+   connexionnisme à travers les travaux de John Hopfield et David
+   Rumelhart.
+
+La montée des systèmes experts[modifier | modifier le code]
+
+   Un système expert est un programme qui répond à des questions ou résout
+   des problèmes dans un domaine de connaissance donné, à l'aide de règles
+   logiques dérivées de la connaissance des experts humains de ce domaine.
+   Les tout premiers exemplaires sont développés par Edward Feigenbaum et
+   ses étudiants. Dendral, commencé en 1965, identifie des composants
+   chimiques à partir de relevés spectrométriques. Mycin, développé en
+   1972, permet de diagnostiquer des maladies infectieuses du sang. Ces
+   programmes confirment la viabilité de l'approche^[112].
+
+   Les systèmes experts se limitent volontairement à un petit domaine de
+   connaissance spécifique (esquivant ainsi le problème de culture
+   générale) et leur conception simple permet de construire ces logiciels
+   relativement facilement et de les améliorer une fois déployés.
+   Finalement, ces programmes se révèlent utiles, car c'est la première
+   fois que l'intelligence artificielle trouve une application
+   pratique^[113].
+
+   En 1980, un système expert appelé Xcon, dont l'objectif est d'optimiser
+   la configuration des ordinateurs VAX à livrer aux clients, est réalisé
+   par Carnegie-Mellon pour DEC. Le succès est énorme, car l'entreprise
+   peut économiser dès 1986 jusqu'à 40 millions de dollars par an^[114].
+   Dès lors, les sociétés de par le monde commencent à développer et �
+   déployer leurs systèmes experts et vers 1985 plus d'un milliard de
+   dollars est dépensé en intelligence artificielle, majoritairement dans
+   les centres industriels de recherche et développement. Tout un secteur
+   industriel se crée autour des systèmes experts, dont des constructeurs
+   de matériel informatique comme Symbolics et LMI (Lisp Machines, Inc.)
+   et des éditeurs de logiciels tels que IntelliCorp et Aion^[115].
+
+La révolution de la connaissance[modifier | modifier le code]
+
+   La puissance des systèmes experts vient de l'expertise qu'ils
+   contiennent. Ils font partie d'une nouvelle direction de recherche en
+   IA qui a gagné du terrain dans les années 1970. « Les chercheurs en IA
+   commençaient à soupçonner — avec réticence, car ça allait contre le
+   canon scientifique de parcimonie — que l'intelligence puisse très bien
+   être basée sur la capacité à utiliser une large quantité de savoirs
+   divers de différentes manières^[116] » remarque Pamela McCorduck. « La
+   grande leçon des années soixante-dix a été que les comportements
+   intelligents dépendaient énormément du traitement de la connaissance,
+   parfois d'une connaissance très avancée dans le domaine d'une tâche
+   donnée^[117]. » Les systèmes de bases de connaissance et l'ingénierie
+   des connaissances sont devenus centraux dans la recherche en
+   intelligence artificielle des années 1980^[118].
+
+   Les années 1980 ont aussi vu la naissance de Cyc, la première tentative
+   d'attaque frontale du problème de culture générale : une base de
+   données gigantesque a été créée dans le but de contenir tous les faits
+   triviaux qu'une personne moyenne connaît. Douglas Lenat, qui a démarré
+   et dirigé le projet, argumente qu'il n'y a aucun raccourci ― le seul
+   moyen pour des machines de connaître la signification de concepts
+   humains était de leur apprendre, un concept à la fois, et manuellement.
+   On s'attend bien sûr à ce que le projet se déroule sur plusieurs
+   décennies^[119].
+
+L'argent est de retour : projets de la cinquième génération[modifier |
+modifier le code]
+
+   En 1981, le ministère japonais de l'Économie, du Commerce et de
+   l'Industrie réserve 850 millions de dollars pour le projet des
+   ordinateurs de cinquième génération (en). Leur objectif est d'écrire
+   des programmes et de construire des machines qui peuvent tenir des
+   conversations, traduire, interpréter des images et raisonner comme des
+   êtres humains^[120]. Au grand dam des tenants de l'approche
+   brouillonne (en), ils choisissent Prolog comme langage informatique
+   principal de leur projet^[121], qu'ils modifient d'ailleurs assez
+   profondément pour qu'il s'adapte à leur besoin.
+
+   D'autres pays répondent avec de nouveaux programmes équivalents. Le
+   Royaume-Uni démarre le projet Alvey (en) de 350 millions de livres. Un
+   consortium d'entreprises américaines forment la Microelectronics and
+   Computer Technology Corporation (ou MCC) pour financer des projets en
+   informatique et en intelligence artificielle à grande
+   échelle^[122]^,^[123]. La DARPA a aussi réagi en fondant la Strategic
+   Computing Initiative (Initiative Informatique Stratégique) et en
+   triplant ses investissements en IA entre 1984 et 1988^[124].
+   [220px-Hopfield-net-vector.svg.png] Un réseau d'Hopfield à quatre
+   nœuds.
+
+La renaissance du connexionnisme[modifier | modifier le code]
+
+   En 1982, le physicien John Hopfield a démontré qu'un certain type de
+   réseau neuronal (désormais appelé un « réseau de Hopfield ») pouvait
+   apprendre et traiter de l'information d'une manière totalement inédite.
+   Au cours de la même période, David Rumelhart a rendu populaire une
+   nouvelle méthode de formation des réseaux neuronaux appelée
+   « rétropropagation du gradient » (découverte quelques années avant par
+   Paul Werbos). Ces deux nouvelles découvertes ont fait renaître le champ
+   du connexionnisme qui avait été largement abandonné depuis
+   1970^[123]^,^[125].
+
+   Le tout jeune domaine a été unifié et inspiré par l'apparence du
+   Traitement Parallèle Distribué de 1986 — une collection d'articles en
+   deux volumes éditée par Rumelhart et le psychologue McClelland. Les
+   réseaux neuronaux deviendront un succès commercial dans les années
+   1990, quand on commencera à les utiliser comme moteurs d'applications
+   telles que la reconnaissance optique de caractères et la reconnaissance
+   vocale^[123]^,^[126].
+
+La crise : le second hiver de l'IA 1987−1993[modifier | modifier le code]
+
+   La fascination de la communauté économique pour l'intelligence
+   artificielle a gonflé puis chuté dans les années 1980 en suivant le
+   schéma classique d'une bulle économique. L'effondrement de l'IA a eu
+   lieu au niveau de la perception que les investisseurs et les agences
+   gouvernementales en avaient — le domaine scientifique continue ses
+   avancées malgré les critiques. Rodney Brooks et Hans Moravec,
+   chercheurs dans le domaine voisin de la robotique, plaident pour une
+   approche entièrement neuve de l'intelligence artificielle.
+
+Une seconde hibernation[modifier | modifier le code]
+
+   L'expression « hiver de l'IA » a circulé parmi les chercheurs qui,
+   ayant déjà vécu les coupes de budget de 1974, réalisent avec inquiétude
+   que l'excitation autour des systèmes experts est hors de contrôle et
+   qu'il y aurait sûrement de la déception derrière^[127]. Leurs craintes
+   sont effectivement fondées : entre la fin des années 1980 et le début
+   des années 1990, l'intelligence artificielle a subi une série de coupes
+   budgétaires.
+
+   Les premiers indices d'une tempête à venir ont été le brusque
+   effondrement du marché du matériel informatique spécialiste de
+   l'intelligence artificielle en 1987. Les ordinateurs de bureau d'Apple
+   et IBM ont progressivement amélioré leur vitesse et leur puissance et
+   en 1987 ils deviennent plus performants que les fleurons du marché,
+   tels que la meilleure machine Lisp de Symbolics. Il n'y a donc plus
+   aucune raison de les acheter. Du jour au lendemain, une industrie d'un
+   demi-milliard de dollars disparaît totalement^[128].
+
+   Finalement, les premiers systèmes experts à succès comme le Xcon ont un
+   coût de maintenance trop élevé. Ils sont difficiles à mettre à jour,
+   ils ne peuvent pas apprendre, ils sont trop « fragiles (en) » (ainsi,
+   ils peuvent faire des erreurs grotesques quand les paramètres sortent
+   des valeurs habituelles), et s'empêtrent dans des problèmes (tels que
+   le problème de qualification). Les systèmes experts se sont révélés
+   utiles, mais uniquement dans des contextes très spécifiques^[129].
+
+   À la fin des années 1980, la Strategic Computing Initiative^[Note 7] de
+   la DARPA a complétement et abruptement coupé ses subsides �
+   l'intelligence artificielle. Une nouvelle direction de la DARPA ayant
+   conclu que l'intelligence artificielle n'est plus de « dernière mode »,
+   elle a redirigé les subventions vers des projets plus propices à des
+   résultats rapides^[130].
+
+   Vers 1991, les objectifs impressionnants listés en 1981 par le Japon
+   pour ses Ordinateurs de cinquième génération n'ont pas été atteints.
+   D'ailleurs certains d'entre eux, comme le fait de « mener une
+   conversation ordinaire » ne l'ont toujours pas été vingt ans plus
+   tard^[131]. Comme pour d'autres projets en intelligence artificielle,
+   la barre a été placée beaucoup trop haut^[131].
+
+L'importance du corps : Nouvelle intelligence artificielle et
+embodiment[modifier | modifier le code]
+
+   À la fin des années 1980, plusieurs chercheurs plaident pour une
+   approche de l'intelligence artificielle complétement inédite, centrée
+   sur la robotique^[132]. Ils pensent que pour mettre en évidence une
+   vraie intelligence, une machine doit avoir conscience de son corps —
+   elle doit percevoir, bouger, survivre et évoluer dans le monde. Ils
+   expliquent que ces capacités senso-motrices sont essentielles aux
+   capacités de plus haut niveau telles que le raisonnement de culture
+   générale et que le raisonnement abstrait est en fait la capacité
+   humaine la moins intéressante ou importante (cf. le paradoxe de
+   Moravec). Ils défendent une intelligence « par la base^[133]. »
+
+   L'approche ravive des concepts nés de la cybernétique et de la
+   régulation qui ont perdu de leur impact depuis les années soixante. Un
+   des précurseurs, David Marr, est arrivé au MIT à la fin des années 1970
+   fort de réussites passées en neuroscience théorique afin d'y diriger le
+   groupe étudiant la vision. Il réfute toutes les approches symboliques
+   (à la fois la logique de McCarthy et les cadres de Minsky), arguant que
+   l'intelligence artificielle a besoin de comprendre la machinerie
+   physique de la vision par le bas avant qu'un traitement symbolique
+   puisse être mis en place. Son travail a été brusquement interrompu par
+   la leucémie qui l'a frappé en 1980^[134].
+
+   Dans un article de 1990 intitulé Elephants Don't Play Chess^[135]
+   (« Les éléphants ne jouent pas aux échecs »), le chercheur en robotique
+   Rodney Brooks vise directement l'hypothèse de système symbolique
+   physique, expliquant que les symboles ne sont pas toujours nécessaires
+   car « le monde est son propre modèle et c'est le meilleur. Il est
+   toujours parfaitement à jour. Il contient toujours tous les détails
+   nécessaires. Ce qu'il faut, c'est le mesurer correctement de manière
+   répétée^[136] ». Dans les années 1980 et 1990, beaucoup de cogniticiens
+   rejettent également le modèle de traitement symbolique de l'esprit en
+   expliquant que le corps est essentiel dans le raisonnement, une thèse
+   appelée embodiment^[137].
+
+1993-2000[modifier | modifier le code]
+
+   Le champ de l'intelligence artificielle, avec plus d'un demi-siècle
+   derrière lui, a finalement réussi à atteindre certains de ses plus
+   anciens objectifs. On a commencé à s'en servir avec succès dans le
+   secteur technologique, même sans avoir vraiment été mise en avant.
+   Quelques réussites sont venues avec la montée en puissance des
+   ordinateurs et d'autres ont été obtenues en se concentrant sur des
+   problèmes isolés spécifiques et en les approfondissant avec les plus
+   hauts standards d'intégrité scientifique. Néanmoins, la réputation de
+   l'IA, dans le monde des affaires au-moins, est loin d'être parfaite. En
+   interne, on n'arrive pas à vraiment expliquer les raisons de l'échec de
+   l'intelligence artificielle à répondre au rêve d'un niveau
+   d'intelligence équivalent à l'Homme qui a captivé l'imagination du
+   monde dans les années 1960. Tous ces facteurs expliquent la
+   fragmentation de l'IA en de nombreux sous-domaines concurrents
+   consacrés à une problématique ou une voie précise, allant même parfois
+   jusqu'à choisir un nom qui évite l'expression désormais souillée
+   d'« intelligence artificielle^[138] ». L'IA a du coup été à la fois
+   plus prudente mais aussi plus fructueuse que jamais.
+   [210px-Deep_Blue.jpg] Deep Blue, un ordinateur semblable à celui-ci a
+   battu Garry Kasparov en mai 1997. C'est la première machine à remporter
+   une partie d'échecs contre un champion du monde en titre.
+
+Verrous qui sautent et loi de Moore[modifier | modifier le code]
+
+   Le 11 mai 1997, Deep Blue est devenu le premier système informatique de
+   jeu d'échecs à battre le champion du monde en titre, Garry
+   Kasparov^[139]. En 2005, un robot de Stanford a remporté le DARPA Grand
+   Challenge en conduisant de manière autonome pendant 131 milles sur une
+   piste de désert sans avoir fait de reconnaissance préalable^[140]. Deux
+   ans plus tard, une équipe de Carnegie-Mellon remporte le DARPA Urban
+   Challenge, cette fois en naviguant en autonome pendant 55 milles dans
+   un environnement urbain tout en respectant les conditions de trafic et
+   le code de la route^[141]. En février 2011, dans un match de
+   démonstration du jeu télévisé Jeopardy!, les deux plus grands champions
+   de Jeopardy!, Brad Rutter et Ken Jennings ont été battus avec une marge
+   confortable par le système de questions-réponses conçu par IBM, au
+   centre de recherche Watson^[142].
+
+   Ces succès ne reposent pas sur de nouveaux paradigmes révolutionnaires,
+   mais sur une application minutieuse des techniques d'ingénierie et sur
+   la puissance phénoménale des ordinateurs^[143]. En effet, la machine
+   Deep Blue est 10 millions de fois plus rapide que la Ferranti Mark I �
+   qui Christopher Strachey a appris à jouer aux échecs en 1951^[Note 8].
+   Cette augmentation spectaculaire suit la loi de Moore, qui prédit que
+   la vitesse et la capacité de mémoire des ordinateurs doublent tous les
+   deux ans. N'est-on pas en train de faire sauter le verrou de la
+   « puissance informatique » ?
+
+Agents intelligents[modifier | modifier le code]
+
+   Un nouveau paradigme, les « agents intelligents », s'est
+   progressivement imposé au cours des années 1990^[144]. Bien que les
+   premiers chercheurs aient proposé des approches modulaires de type
+   « diviser pour régner » en intelligence artificielle^[145], l'agent
+   intelligent n'a pas atteint sa forme moderne avant que Judea Pearl,
+   Allen Newell et d'autres n'y amènent des concepts de théorie de la
+   décision et d'économie^[146]. Quand la définition économique de l'agent
+   rationnel s'est combinée à la définition informatique de l'objet ou
+   encore du module, le paradigme de l'agent intelligent s'installe.
+
+   Un agent intelligent est un système qui perçoit son environnement et
+   entreprend des actions qui maximisent ses chances de réussite. Grâce �
+   cette définition, de simple programmes qui résolvent des problèmes
+   spécifiques sont des « agents intelligents », tout comme le sont des
+   êtres humains et des organisations d'êtres humains comme les
+   entreprises. Le paradigme de l'agent intelligent définit l'intelligence
+   artificielle comme l'« étude des agents intelligents ». C'est une
+   généralisation de certaines des premières définitions de l'IA : elle va
+   au-delà de l'étude de l'intelligence humaine ; elle étudie tout type
+   d'intelligence^[147].
+
+   Ce paradigme a ouvert aux chercheurs la voie vers l'étude de problèmes
+   isolés ; les solutions trouvées sont à la fois vérifiables et utiles.
+   Un langage commun permet de décrire les problèmes et partager leurs
+   solutions entre les uns et les autres, et d'autres domaines ont
+   également utilisé ce concept d'agents abstraits, comme l'économie et la
+   régulation. On pense qu'une « architecture agent » (comme la Soar de
+   Newell) permettrait un jour à des chercheurs de construire des systèmes
+   plus polyvalents et intelligents à base d'agents
+   intelligents^[146]^,^[148].
+
+« Victoire des élégants »[modifier | modifier le code]
+
+   Les chercheurs en intelligence artificielle développent et utilisent
+   des outils mathématiques sophistiqués comme jamais auparavant^[149].
+   Ils prennent conscience que de nombreux problèmes que l'intelligence
+   artificielle doit résoudre ont déjà été traités dans d'autres domaines
+   comme les mathématiques, l'économie ou la recherche opérationnelle. En
+   particulier, les mathématiques permettent à la fois d'améliorer la
+   collaboration avec des disciplines plus solidement fondées et
+   conduisent à des fertilisations croisées et à la collecte de données
+   mesurables et démontrables ; l'intelligence artificielle progresse vers
+   l'« orthodoxie scientifique ». Russell et Norvig 2003 qualifie cela de
+   rien de moins qu'une « révolution » et de la « victoire des
+   élégants (en)^[150]^,^[151] ».
+
+   Le livre-charnière de 1988 de Judea Pearl^[152] intègre les
+   probabilités et la théorie de la décision avec les réseaux bayésiens,
+   les modèles de Markov cachés, la théorie de l'information, le calcul
+   stochastique et plus généralement l'optimisation mathématique. Des
+   descriptions mathématiques s'appliquent aux paradigmes primordiaux de
+   l'« intelligence computationnelle » comme les réseaux neuronaux et les
+   algorithmes évolutionnistes^[150].
+
+L'IA, travailleur de l'ombre[modifier | modifier le code]
+
+   Des algorithmes initialement développés par des chercheurs en
+   intelligence artificielle commencent à faire partie de systèmes plus
+   larges. L'IA a résolu beaucoup de problèmes très complexes^[153] et
+   leurs solutions ont servi à travers tout le secteur
+   technologique^[154], tels que l'exploration de données, la robotique
+   industrielle, la logistique^[155], la reconnaissance vocale^[156], des
+   applications bancaires^[157], des diagnostics médicaux^[157], la
+   reconnaissance de formes, et le moteur de recherche de Google^[158].
+
+   Le domaine de l'intelligence artificielle n'a quasiment reçu aucun
+   crédit pour ces réussites. Certaines de ses plus grandes innovations
+   ont été réduites au statut d'un énième item dans la boîte à outils de
+   l'informatique^[159]. Nick Bostrom explique : « Beaucoup d'IA de pointe
+   a filtré dans des applications générales, sans y être officiellement
+   rattachée car dès que quelque chose devient suffisamment utile et
+   commun, on lui retire l'étiquette d'IA^[160]. »
+
+   Beaucoup de chercheurs en intelligence artificielle dans les années
+   quatre-vingt-dix ont volontairement appelé leurs études par d'autres
+   noms, tels que l'informatique, les systèmes à base de connaissances,
+   les systèmes cognitifs ou l'intelligence computationnelle. Cela peut
+   être partiellement car ils considèrent leur domaine comme
+   fondamentalement différent de l'IA, mais aussi car ces nouveaux noms
+   facilitent les financements. Dans le secteur commercial au-moins, les
+   promesses non tenues de l'hiver de l'IA continuent de hanter la
+   recherche en intelligence artificielle, comme le New York Times le
+   rapporte en 2005 : « Les scientifiques en informatique et les
+   ingénieurs logiciel ont évité l'expression 'intelligence artificielle'
+   par crainte d'être considérés comme de doux illuminés
+   rêveurs^[161]^,^[162]^,^[163]. »
+
+2001 et HAL 9000[modifier | modifier le code]
+
+   La science-fiction avait imaginé pour 2001 l'arrivé de HAL 9000, une
+   machine ayant une intelligence comparable, voire excédant les capacités
+   des êtres humains.
+
+   En 1968, Arthur C. Clarke et Stanley Kubrick imaginent que dès l'année
+   2001, une machine aura une intelligence comparable, voire excédant les
+   capacités des êtres humains. Le personnage qu'ils créent, HAL 9000,
+   s'appuie sur une opinion répandue chez nombre de chercheurs en
+   intelligence artificielle à savoir qu'une telle machine existera en
+   2001^[164].
+
+   Marvin Minsky s'interroge : « pourquoi n'avons-nous pas eu HAL en
+   2001^[165] ? » et pense que des problèmes centraux comme le
+   raisonnement de culture générale, sont négligés, car la plupart des
+   chercheurs se concentrent sur des aspects tels que des applications
+   commerciales des réseaux neuronaux ou des algorithmes génétiques. John
+   McCarthy, d'un autre côté, blâme encore le problème de
+   qualification^[166]. Pour Ray Kurzweil, le problème réside dans le
+   manque de puissance de calcul et, en s'appuyant sur la loi de Moore, il
+   prédit que les machines avec une intelligence comparable à l'humain
+   arriveront vers 2030^[167]. Pour d'autres chercheurs, une intelligence
+   artificielle forte (ou intelligence artificielle générale) ne serait
+   possible que dans plusieurs décennies, voire plusieurs siècles^[168].
+
+2000 - 2010[modifier | modifier le code]
+
+   Dans les années 2000 et 2010, on constate l'arrivée de plusieurs
+   assistants personnels « intelligents » : Apple Siri en 2007, Google Now
+   en 2012 (Google Assistant depuis 2018), Microsoft Cortana et Amazon
+   Alexa en 2014. En 2022, ChatGPT devient la première IA générative grand
+   public.
+
+2009 - 2019[modifier | modifier le code]
+
+   La décennie 2009 - 2019 connait un développement sans précédent du deep
+   learning sur des sujets comme la reconnaissance vocale, la
+   reconnaissance d'images ou la traduction^[169]:
+
+   En 2010, au Royaume-Uni, le neuro-scientifique, Demis Hassabis cherche
+   un capital pour démarrer la fondation d'une intelligence artificielle
+   générale qui serait capable de faire tout ce que le cerveau d'un être
+   humain pourrait faire^[170].
+
+   En 2012, un réseau de neurones utilisant 16 000 Microprocesseur cœurs
+   de processeur de 1000 processeurs d'ordinateur après avoir été entrainé
+   est capable de reconnaître un chat sans qu'il lui ait été appris �
+   reconnaître un chat^[171].
+
+   Le capital-risqueur Reid Hoffman ancien dirigeant de PayPal et
+   fondateur de LinkedIn est devenu capital-risqueur et est avec Elon Musk
+   et Thiel dans le groupe qui investit un milliard de dollars dans
+   OpenAI^[172].
+
+   En 2012, Google achète le travail de Geoffrey Hinton, professeur de
+   l'Université de Toronto qui travaillaient sur des réseaux de
+   neurones^[172].
+
+   En 2015, Sam Altman gère "Y Combinator", un incubateur de start-up de
+   la Silicon Valley (vallée du silicium). Il s'entretient avec Elon Musk
+   au sujet de l'intelligence artificielle et démarre OpenAI^[172].
+
+   Elon Musk quitte OpenAI en 2018.
+
+   Demis Hassabis, neuro-scientifique, a fondé DeepMind avec un
+   fincancement obtenu auprès de Peter Thiel. L'entreprise a produit le
+   service AlphaGo qui en 2016 a battu le meilleur joueur du monde du jeu
+   de plateau Go^[172].
+
+   Dario Amodei a quitté OpenAI en 2021 pour se concenter sur une start-up
+   d'intelligence sure, Anthropic^[172].
+
+   Bill Gates a été convaincu en 2022 du potentiel de l'intelligence
+   artificielle et a conduite Microsoft à capitaliser sur l'intelligence
+   artificielle générative^[172].
+
+Redéfinition dans les années 2020[modifier | modifier le code]
+
+   Le mardi 12 février 2019, à Strasbourg, une politique industrielle
+   européenne globale sur l’intelligence artificielle et la robotique,
+   conduit à la Résolution du Parlement européen du 12 février 2019 sur
+   une politique industrielle européenne globale sur l’intelligence
+   artificielle et la robotique^[173].
+
+   L’intelligence artificielle est redéfinie à la vue des progrès
+   technologiques.
+
+   Pour la CNIL, l’intelligence artificielle n’est pas une technique
+   spécifique mais un ensemble de domaines auxquels appartiennent les
+   outils qui entrent dans ces critères^[174].
+
+   L'intelligence artificielle est une technique automatisée suivant une
+   logique ou un algorithme dédié à des tâches spécifiques^[174].
+
+   Le Parlement européen associe l'intelligence artificielle à la
+   reproduction « des comportements liés aux humains, tels que le
+   raisonnement, la planification et la créativité »^[175].
+
+   La Commission européenne considère l'intelligence artificielle comme un
+   ensemble de diverses approches^[175]:
+     * apprentissage automatique ;
+     * logique et connaissances ; et
+     * statistiques, estimation bayésienne, et méthodes de recherche et
+       d’optimisation.
+
+   L'intelligence artificielle peut également dépasser les capacités
+   humaines^[175].
+
+La recherche en intelligence artificielle en France[modifier | modifier le
+code]
+
+   Cette section est vide, insuffisamment détaillée ou incomplète. Votre
+   aide est la bienvenue ! Comment faire ?
+
+   La recherche en intelligence artificielle en France débute vers la fin
+   des années soixante-dix, avec notamment le GR 22 (appelé aussi groupe
+   de recherche Claude-François Picard où travaillent Jacques Pitrat et
+   Jean-Louis Laurière) à Paris, le GIA (sic) (autour d'Alain Colmerauer)
+   à Marseille, le LIMSI à Orsay, le CRIN à Nancy, le CERFIA à Toulouse et
+   le Laboria (autour de Gérard Huet et dans un domaine très fondamental)
+   à Rocquencourt.
+
+   Un congrès national annuel Reconnaissance de formes et intelligence
+   artificielle est créé en 1979 à Toulouse^[Note 9]. En lien avec
+   l'organisation de la conférence International Joint Conference on
+   Artificial Intelligence à Chambéry en 1993, et la création d'un
+   GRECO-PRC^[Note 10] intelligence artificielle, en 1983, il donne
+   naissance à une société savante, l'AFIA en 1989, qui, entre autres,
+   organise des conférences nationales en intelligence artificielle^[176].
+   C'est de cette école française qu'est issu Yann Le Cun.
+
+Notes et références[modifier | modifier le code]
+
+    1. ↑ Par exemple la machine d'Anticythère.
+    2. ↑ Ada Lovelace est généralement considérée comme le premier
+       programmeur grâce aux notes qu'elle a écrites qui détaillent
+       complétement une méthode pour calculer les nombres de Bernoulli
+       avec la Machine.
+    3. ↑ Le raisonnement de bon sens est la branche de l'intelligence
+       artificielle qui tente de répliquer la pensée humaine. Dans ce
+       domaine, il y a :
+          + les bases de connaissance de culture générale,
+          + les méthodes de raisonnement imitant la pensée humaine
+            (raisonnement à base de connaissances par défaut, raisonnement
+            rapide dans un large éventail de domaines, tolérance �
+            l'incertitude, prise de décisions sous connaissance incomplète
+            et correction a posteriori quand les connaissances
+            s'améliorent),
+          + le développement de nouveaux types d'architectures cognitives
+            compatibles avec plusieurs méthodes et représentations de
+            raisonnement.
+    4. ↑ Cette condition de puissance est bien nécessaire ici, mais pas
+       suffisante, car les problèmes d'IA sont intrinsèquement difficiles
+       et complexes.
+    5. ↑ L'ALPAC (Automatic Language Processing Advisory Committee) est le
+       comité américain de sept scientifiques chargé de surveiller les
+       progrès en matière de traitement du langage.
+    6. ↑ Advice Taker (« Preneur de conseils » en français) est un
+       programme informatique hypothétique décrit par MacCarthy dans son
+       Programs with Common Sense, 1958. C'est le premier programme �
+       utiliser la logique en tant qu'outil de représentation et non en
+       tant que matière d'étude.
+    7. ↑ La Strategic Computing Initiative (« Initiative Informatique
+       Stratégique ») de la DARPA finance pour plus d'1 milliard de $ de
+       projets de recherche en matériel informatique de pointe et en
+       intelligence artificielle sur la décennie 1983-1993, depuis la
+       conception et fabrication de puces à des logiciels d'intelligence
+       artificielle.
+    8. ↑ La durée d'un cycle de Ferranti Mark I était de 1,2 ms, ce qui
+       correspond grossièrement à environ 833 flops. Deep Blue
+       fournissait, lui, 11,38 gigaflops (sans même prendre en compte le
+       matériel spécialement conçu pour les échecs qui équipait Deep
+       Blue). À la louche, ces deux grandeurs diffèrent d'un facteur 10^7.
+    9. ↑ Reconnaissance des formes et intelligence artificielle, congrès
+       AFCET-IRIA, Toulouse 12, 13, 14 septembre 1979. Il est intitulé
+       « 2^e congrès » et prend la suite du congrès AFCET-IRIA
+       Reconnaissance des formes et traitement des images en 1978 �
+       Chatenay-Malabry.
+   10. ↑ Un GRECO est un ancêtre des actuels GDR du CNRS et un PRC est un
+       programme de recherche concertée
+
+Références[modifier | modifier le code]
+
+     * (en) Cet article est partiellement ou en totalité issu de l’article
+       de Wikipédia en anglais intitulé « History of artificial
+       intelligence » (voir la liste des auteurs).
+
+    1. ↑ McCorduck 2004
+    2. ↑ Par exemple Kurzweil 2005 maintient que des machines ayant une
+       intelligence comparable à celle de l'homme existeront en 2029.
+    3. ↑ Turing 1950, p. 460
+    4. ↑ McCorduck 2004, p. 5–35
+    5. ↑ McCorduck 2004, p. 5 ; Russell et Norvig 2003, p. 939
+    6. ↑ McCorduck 2004, p. 15–16 ; Buchanan 2005, p. 50 (Golem) ;
+       McCorduck 2004, p. 13–14 (Paracelse) ; O'Connor 1994 (Takwin)
+    7. ↑ McCorduck 2004, p. 17–25
+    8. ↑ Butler 1863
+    9. ↑ Needham 1986, p. 53
+   10. ↑ McCorduck 2004, p. 6
+   11. ↑ Nick 2005
+   12. ↑ McCorduck 2004, p. 17 ; Levitt 2000
+   13. ↑ Cité dans McCorduck 2004, p. 8. Crevier 1993, p. 1 et McCorduck
+       2004, p. 6–9 traitent des statues sacrées.
+   14. ↑ D'autres automates importants ont été construits par Hâroun
+       ar-Rachîd (McCorduck 2004), Jacques de Vaucanson (McCorduck 2004)
+       et Leonardo Torres Quevedo (McCorduck 2004), sans oublier la
+       compagnie de théâtre contemporaine Royal de luxe.
+   15. ↑ ^a b c et d Berlinski 2000
+   16. ↑ (es) Carreras Artau et Tomás y Joaquín, Historia de la filosofía
+       española. Filosofía cristiana de los siglos XIII al XV, vol. I,
+       Madrid, 1939
+   17. ↑ (en) Anthony Bonner, The Art and Logic of Ramón Llull : A User's
+       Guide, Brill, 2007
+   18. ↑ (en) Anthony Bonner (éd.), Doctor Illuminatus. A Ramon Llull
+       Reader, Llull's Influence: The History of Lullism, Princeton
+       University, 1985, p. 57-71
+   19. ↑ IA et mécanisme du XVII^e siècle :
+          + McCorduck 2004, p. 37–46
+          + Russell et Norvig 2003, p. 6
+          + Haugeland 1985, chap. 2
+          + Buchanan 2005, p. 53
+   20. ↑ Hobbes et l'I.A. :
+          + McCorduck 2004, p. 42
+          + Hobbes 1651, chap. 5
+   21. ↑ Leibniz et l'I.A. :
+          + McCorduck 2004, p. 41
+          + Russell et Norvig 2003, p. 6
+          + Berlinski 2000, p. 12
+          + Buchanan 2005, p. 53
+   22. ↑ Le lambda-calcul est particulièrement important en IA, car il a
+       inspiré le langage Lisp (le principal langage utilisé en IA).
+       Crevier 1993, p. 190-196,61
+   23. ↑ La machine de Turing :McCorduck 2004, p. 63–64, Crevier 1993,
+       p. 22–24, Russell et Norvig 2003, p. 8 et également Turing 1936
+   24. ↑ Menabrea 1843
+   25. ↑ McCorduck 2004, p. 61–62, 64–66, Russell et Norvig 2003, p. 14–15
+   26. ↑ Von Neumann : McCorduck 2004, p. 76–80
+   27. ↑ Les dates de début et de fin des sections de cet article
+       correspondent à Crevier 1993 et Russell et Norvig 2003, p. 16−27.
+       Les thèmes, tendances et projets sont traités dans la période où le
+       gros du travail a été effectué.
+   28. ↑ « Andreas Kaplan (2022) Artificial Intelligence, Business and
+       Civilization - Our Fate Made in Machines, Routledge, ISBN
+       9781032155319 »
+   29. ↑ McCorduck 2004, p. 51–57, 80–107, Crevier 1993, p. 27–32, Russell
+       et Norvig 2003, p. 15, 940, Moravec 1988, p. 3, Cordeschi 2002,
+       Chap. 5.
+   30. ↑ McCorduck 2004, p. 98, Crevier 1993, p. 27−28, Russell et Norvig
+       2003, p. 15, 940, Moravec 1988, p. 3, Cordeschi 2002, Chap. 5.
+   31. ↑ McCorduck 2004, p. 51–57, 88–94, Crevier 1993, p. 30, Russell et
+       Norvig 2003, p. 15−16, Cordeschi 2002, Chap. 5 et voir aussi
+       McCulloch et Pitts 1943
+   32. ↑ McCorduck 2004, p. 102, Crevier 1993, p. 34−35 et Russell et
+       Norvig 2003, p. 17
+   33. ↑ cf. (en)A Brief History of Computing sur AlanTuring.net.
+   34. ↑ Jonathan Schaeffer, One Jump Ahead : Challenging Human Supremacy
+       in Checkers, Springer, 1997, 585 p. (ISBN 978-0-387-76575-4),
+       chap. 6. Aujourd'hui les programmes de jeux dames sont complets au
+       sens où ils gagnent contre toute défense.
+   35. ↑ McCorduck 2004, p. 70−72, Crevier 1993, p. 22−25, Russell et
+       Norvig 2003, p. 2−3,948, Haugeland 1985, p. 6−9, Cordeschi 2002,
+       p. 170–176. Voir aussi Turing 1950
+   36. ↑ Russell et Norvig 2003, p. 948 déclare que Turing répond à toutes
+       les objections majeures à l'IA qui sont apparues dans les années
+       qui suivirent la publication de cet article.
+   37. ↑ McCorduck 2004, p. 137–170, Crevier 1993, p. 44–47
+   38. ↑ McCorduck 2004, p. 123–125, Crevier 1993, p. 44−46 et Russell et
+       Norvig 2003, p. 17
+   39. ↑ Cité dans Crevier 1993, p. 46 et Russell et Norvig 2003, p. 17
+   40. ↑ Russell et Norvig 2003, p. 947,952
+   41. ↑ La première version de ce memorandum a été publié à Carlsbad
+       (Nouveau Mexique) en juillet 1949. Il a été reproduit dans Machine
+       Translation of Languages, Cambridge, Massachusetts, MIT Press,
+       1955, 15–23 p. (ISBN 0-8371-8434-7, lire en ligne), « Translation »
+   42. ↑ McCorduck 2004, p. 111–136, Crevier 1993, p. 49–51 et Russell et
+       Norvig 2003, p. 17
+   43. ↑ Voir McCarthy et al. 1955. Voir également Crevier 1993, p. 48 où
+       Crevier déclare que « [cette thèse] est devenue plus tard connue
+       comme l’'hypothèse des systèmes de symbole physique' ». L'hypothèse
+       de système de symbole physique a été développée et nommée par
+       Newell et Simon dans leur article sur le General Problem Solver.
+       Newell et al. 1963 Cela comporte une définition plus spécifique de
+       la « machine » en tant qu'agent qui manipule des symboles (voir
+       aussi la philosophie de l'intelligence artificielle).
+   44. ↑ McCorduck 2004, p. 129–130 raconte comment les anciens de la
+       conférence de Dartmouth ont dominé les deux premières décennies de
+       la recherche en IA, les surnommant la « faculté invisible ».
+   45. ↑ « Je ne jurerai pas et je ne l'avais pas encore vu avant »,
+       McCarthy indique à Pamela McCorduck en 1979. McCorduck 2004, p. 114
+       Cependant, McCarthy a aussi déclaré sans équivoque « J'ai inventé
+       le terme » dans une interview du CNET. (Skillings 2006)
+   46. ↑ Crevier 1993, p. 49 écrit que « la conférence est généralement
+       reconnue comme la date de naissance officielle de cette nouvelle
+       science. »
+   47. ↑ Russell et Norvig ont écrit que « c'était extraordinaire dès
+       qu'un ordinateur faisait quoi que ce soit de vaguement malin. »
+       Russell et Norvig 2003, p. 18
+   48. ↑ Crevier 1993, p. 52−107, Moravec 1988, p. 9 et Russell et Norvig
+       2003, p. 18−21
+   49. ↑ McCorduck 2004, p. 218, Crevier 1993, p. 108−109 et Russell et
+       Norvig 2003, p. 21
+   50. ↑ Crevier 1993, p. 52−107, Moravec 1988, p. 9
+   51. ↑ Le raisonnement par tâtonnements : McCorduck 2004, p. 247–248,
+       Russell et Norvig 2003, p. 59−61
+   52. ↑ Heuristique : McCorduck 2004, p. 246, Russell et Norvig 2003,
+       p. 21−22
+   53. ↑ GPS: McCorduck 2004, p. 245–250, Crevier 1993, p. GPS?, Russell
+       et Norvig 2003, p. GPS?
+   54. ↑ Crevier 1993, p. 51−58,65−66 et Russell et Norvig 2003, p. 18−19
+   55. ↑ McCorduck 2004, p. 268–271, Crevier 1993, p. 95−96, Moravec 1988,
+       p. 14−15
+   56. ↑ McCorduck 2004, p. 286, Crevier 1993, p. 76−79, Russell et Norvig
+       2003, p. 19
+   57. ↑ Crevier 1993, p. 79−83
+   58. ↑ Crevier 1993, p. 164−172
+   59. ↑ McCorduck 2004, p. 291–296, Crevier 1993, p. 134−139
+   60. ↑ McCorduck 2004, p. 299–305, Crevier 1993, p. 83−102, Russell et
+       Norvig 2003, p. 19 et Copeland 2000
+   61. ↑ McCorduck 2004, p. 300–305, Crevier 1993, p. 84−102, Russell et
+       Norvig 2003, p. 19
+   62. ↑ Simon et Newell 1958, p. 7−8 quoted in Crevier 1993, p. 108. Voir
+       aussi Russell et Norvig 2003, p. 21
+   63. ↑ Simon 1965, p. 96 quoted in Crevier 1993, p. 109
+   64. ↑ Minsky 1967, p. 2 cité dans Crevier 1993, p. 109
+   65. ↑ Minsky croit fermement qu'on l'a mal cité. Voir McCorduck 2004,
+       p. 272–274, Crevier 1993, p. 96 et Darrach 1970.
+   66. ↑ Crevier 1993, p. 64−65
+   67. ↑ Crevier 1993, p. 94
+   68. ↑ Howe 1994
+   69. ↑ McCorduck 2004, p. 131, Crevier 1993, p. 51. McCorduck remarque
+       également que les financements est pour la majeure partie focilisé
+       sur les anciens de la conférence de Dartmouth de 1956.
+   70. ↑ Crevier 1993, p. 65
+   71. ↑ Crevier 1993, p. 68−71, et Turkle 1984
+   72. ↑ Crevier 1993, p. 100−144 et Russell et Norvig 2003, p. 21−22
+   73. ↑ McCorduck 2004, p. 104−107, Crevier 1993, p. 102−105, Russell et
+       Norvig 2003, p. 22
+   74. ↑ Crevier 1993, p. 163−196
+   75. ↑ Crevier 1993, p. 146
+   76. ↑ Russell et Norvig 2003, p. 20−21
+   77. ↑ Crevier 1993, p. 146−148, voir aussi Buchanan 2005, p. 56:(en)
+       « Early programs were necessarily limited in scope by the size and
+       speed of memory »
+   78. ↑ Moravec 1976. McCarthy a toujours été opposé à Moravec là-dessus,
+       dès leurs premiers jours ensemble au Laboratoire d'IA de Stanford.
+       Il a déclaré : « Je dirais qu'il y a cinquante ans, les capacités
+       des machines étaient trop faibles, mais il y a trente ans, les
+       capacités des machines n'étaient plus le vrai problème » dans une
+       interview sur CNET. (Skillings 2006)
+   79. ↑ (en)« ROBOT: Mere Machine to Transcendent Mind »
+   80. ↑ Russell et Norvig 2003, p. 9,21−22 et Lighthill 1973
+   81. ↑ McCorduck 2004, p. 300,421, Crevier 1993, p. 113−114, Moravec
+       1988, p. 13
+   82. ↑ Lenat et Guha 1989, (Introduction)
+   83. ↑ Russell et Norvig 2003, p. 21
+   84. ↑ McCorduck 2004, p. 456
+   85. ↑ Moravec 1988, p. 15−16
+   86. ↑ McCarthy et al. 1969, Crevier 1993, p. 117−119
+   87. ↑ McCorduck 2004, p. 280–281, Crevier 1993, p. 110, Russell et
+       Norvig 2003, p. 21 et NRC 1999 dans Success in Speech Recognition
+       (reconnaissance en reconnaissance de la parole).
+   88. ↑ Crevier 1993, p. 117, Russell et Norvig 2003, p. 22, Howe 1994 et
+       voir aussi Lighthill 1973.
+   89. ↑ Russell et Norvig 2003, p. 22, Lighthill 1973, John McCarthy a
+       répondu que « le problème de l'explosion combinatoire était connu
+       en IA depuis le départ » dans (en) Review of Lighthill report
+   90. ↑ Crevier 1993, p. 115−116 (où ce constat apparaît). D'autres
+       points de vue sont exposés dans McCorduck 2004, p. 306–313 et NRC
+       1999 dans Success in Speech Recognition.
+   91. ↑ Crevier 1993, p. 115. Moravec explique que « leurs promesses
+       initiales à la DARPA ont été bien trop optimistes. Bien sûr, ce
+       qu'ils livraient derrière était bien loin du compte. Mais ils
+       sentaient qu'ils ne pouvaient promettre moins pour leur prochain
+       objectif, et donc ils promirent davantage ».
+   92. ↑ NRC 1999 dans Shift to Applied Research Increases Investment.
+       Bien que le tank autonome fut un échec, le système de gestion de
+       batailles (appelé « Dynamic Analysis and Replanning Tool ») a été
+       un énorme succès, économisant des milliards dans la première guerre
+       du Golfe, remboursant les investissements et justifiant la
+       politique pragmatique de la DARPA, au-moins à son niveau.
+   93. ↑ Critique de l'IA de Lucas et Penrose : Crevier 1993, p. 22,
+       Russell et Norvig 2003, p. 949−950, Hofstadter 1979, p. 471−477 et
+       aussi Lucas 1961
+   94. ↑ « Savoir-faire » est une expression de Dreyfus. Il distingue le
+       « savoir-faire » de la « connaissance » (classique), une version
+       moderne de la distinction d'Heidegger entre l'« étant disponible »
+       (readiness-to-hand en anglais, Zuhandenheit en allemand) et
+       l'« étant subsistant » (respectivement presence-at-hand et
+       Vorhandenheit). (Dreyfus et Dreyfus 1986)
+   95. ↑ Critiques d'Hubert Dreyfus sur l'intelligence artificielle (en) :
+       McCorduck 2004, p. 211−239, Crevier 1993, p. 120−132, Russell et
+       Norvig 2003, p. 950−952 et également Dreyfus 1965, Dreyfus 1972,
+       Dreyfus et Dreyfus 1986
+   96. ↑ Critique de l'IA de Searle : McCorduck 2004, p. 443−445, Crevier
+       1993, p. 269−271, Russell et Norvig 2003, p. 958−960 ainsi que
+       Searle 1980
+   97. ↑ Cité dans Crevier 1993, p. 143
+   98. ↑ Cité dans Crevier 1993, p. 122
+   99. ↑ « J'étais alors le seul membre de la communauté d'IA qu'on
+       pouvait voir déjeuner avec Dreyfus. Et j'ai clairement fait
+       comprendre qu'on ne traitait pas ainsi un autre être humain. »
+       Joseph Weizenbaum, cité dans Crevier 1993, p. 123.
+   100. ↑ Critique de l'IA de Weizenbaum : McCorduck 2004, p. 356−373,
+       Crevier 1993, p. 132−144, Russell et Norvig 2003, p. 961 et aussi
+       Weizenbaum 1976
+   101. ↑ Frank Rosenblatt a été un condisciple de Marvin Minsky à la
+       Bronx High School of Science
+   102. ↑ Mounier-Kuhn 2010, p. 266.
+   103. ↑ McCorduck 2004, p. 51, Russell et Norvig 2003, p. 19, 23
+   104. ↑ McCorduck 2004, p. 51, Crevier 1993, p. 190−192
+   105. ↑ Crevier 1993, p. 193−196
+   106. ↑ Crevier 1993, p. 145−149,258−63
+   107. ↑ Wason 1966 a montré que les humains éprouvent des difficultés
+       sur des problèmes complétement abstraits, mais quand le problème
+       est reformulé pour permettre l'utilisation de l'intelligence
+       sociale plus intuitive, leurs performances augmentent
+       considérablement. (Voir la tâche de sélection de Wason) Tversky,
+       Slovic et Kahneman 1982 ont montré, eux, que les humains sont
+       médiocres sur des problèmes élémentaires qui impliquent un
+       raisonnement incertain. (Voir la liste de biais cognitifs pour
+       plusieurs exemples). Le travail d'Eleanor Rosch est décrit dans
+       Lakoff 1987
+   108. ↑ Une première occurrence de l'opinion de McCathy apparaît dans le
+       journal Science : « C'est de l'IA, donc peu importe que ce soit
+       psychologiquement correct » (Kolata 1982), et il a confirmé 20 ans
+       plus tard son opinion à la conférence AI@50 (Dartmouth Artificial
+       Intelligence Conference: The Next Fifty Years) de 2006 où il
+       explique que « l'Intelligence artificielle n'est pas, par
+       définition, la simulation de l'intelligence humaine » (Maker 2006).
+   109. ↑ Crevier 1993, p. 175
+   110. ↑ « Brouillons contre Élégants » (Neat vs. scruffy) : McCorduck
+       2004, p. 421–424 (qui décrit l'état du débat en 1984). Crevier
+       1993, p. 168 (qui documente l'usage initial du terme par Schank).
+       Un autre aspect du conflit est intitulé « la distinction
+       procédural/déclaratif » mais ne s'est pas révélé important dans les
+       recherches en IA ultérieures.
+   111. ↑ McCorduck 2004, p. 305–306, Crevier 1993, p. 170−173, 246 et
+       Russell et Norvig 2003, p. 24. L'article de Minsky sur les cadres :
+       Minsky 1974.
+   112. ↑ McCorduck 2004, p. 327–335 (Dendral), Crevier 1993, p. 148−159,
+       Russell et Norvig 2003, p. 22−23
+   113. ↑ Crevier 1993, p. 158−159 et Russell et Norvig 2003, p. 23−24
+   114. ↑ Crevier 1993, p. 198
+   115. ↑ McCorduck 2004, p. 434–435, Crevier 1993, p. 161−162,197−203 et
+       Russell et Norvig 2003, p. 24
+   116. ↑ McCorduck 2004, p. 299
+   117. ↑ McCorduck 2004, p. 421
+   118. ↑ Révolution de la connaissance : McCorduck 2004, p. 266–276,
+       298–300, 314, 421, Russell et Norvig 2003, p. 22–23
+   119. ↑ Cyc : McCorduck 2004, p. 489, Crevier 1993, p. 239−243, Russell
+       et Norvig 2003, p. 363−365 et Lenat et Guha 1989
+   120. ↑ McCorduck 2004, p. 436–441, Crevier 1993, p. 211, Russell et
+       Norvig 2003, p. 24 et voir également Feigenbaum et McCorduck 1983
+   121. ↑ Crevier 1993, p. 195
+   122. ↑ Crevier 1993, p. 240.
+   123. ↑ ^a b et c Russell et Norvig 2003, p. 25
+   124. ↑ McCorduck 2004, p. 426–432, NRC 1999 dans Shift to Applied
+       Research Increases Investment
+   125. ↑ Crevier 1993, p. 214−215.
+   126. ↑ Crevier 1993, p. 215−216.
+   127. ↑ Crevier 1993, p. 203. L’hiver de l'IA est apparu pour la
+       première fois dans le nom d'un séminaire sur le sujet de
+       l’Association for the Advancement of Artificial Intelligence.
+   128. ↑ McCorduck 2004, p. 435, Crevier 1993, p. 209−210
+   129. ↑ McCorduck 2004, p. 435 (qui cite des raisons institutionnelles
+       pour leur ultime échec), Crevier 1993, p. 204−208 (qui cite ici la
+       difficulté de la maintenance du savoir, c'est-à-dire apprentissage
+       et mise à jour continus), Lenat et Guha 1989, Introduction (qui met
+       l'accent sur l'extrême sensibilité et l'incapacité à manipuler des
+       qualifications limites)
+   130. ↑ McCorduck 2004, p. 430–431
+   131. ↑ ^a et b McCorduck 2004, p. 441, Crevier 1993, p. 212. McCorduck
+       écrit à ce sujet : « Deux décennies et demie plus tard, nous avons
+       pu observer que le Japon n'a pas réussi à remplir tous ses
+       objectifs ambitieux. »
+   132. ↑ McCorduck 2004, p. 454–462
+   133. ↑ Moravec 1988, p. 20 a écrit : « Je suis sûr que la direction de
+       bas en haut de la recherche en IA rencontrera un jour la plus
+       classique voie de haut en bas, et ce, après avoir parcouru la
+       majorité du chemin, prête à livrer au monde réel la compétence et
+       le savoir de culture générale qui ont échappé jusqu'ici aux
+       programmes de raisonnement de manière si frustrante. Des machines
+       complétement intelligentes couronneront la réunion de ces deux
+       efforts. »
+   134. ↑ Crevier 1993, p. 183−190.
+   135. ↑ (en)Elephants Don't Play Chess (PDF)
+   136. ↑ Brooks 1990, p. 3
+   137. ↑ Voir, par exemple, Lakoff et Turner 1989
+   138. ↑ McCorduck 2004, p. 424 discute cet éclatement et la mise au ban
+       des objectifs initiaux de l'IA.
+   139. ↑ McCorduck 2004, p. 480–483.
+   140. ↑ (en) Page d'accueil de DARPA Grand Challenge « Copie archivée »
+       (version du 23 juillet 2018 sur Internet Archive).
+   141. ↑ (en)Archive du DARPA Grand Challenge.
+   142. ↑ (en) John Markoff, « On 'Jeopardy!' Watson Win Is All but
+       Trivial », The New York Times,‎ 16 février 2011 (lire en ligne).
+   143. ↑ Kurzweil 2005, p. 274 écrit que les améliorations du jeu
+       d'échecs en informatique, « d'après la sagesse populaire, sont
+       uniquement dues à l'accroissement de la force brute du matériel
+       informatique ».
+   144. ↑ McCorduck 2004, p. 471–478, Russell et Norvig 2003, p. 55, où
+       ils écrivent : « La notion d'agent-entier est désormais largement
+       acceptée dans le domaine. » On discute du paradigme de l'agent
+       intelligent dans les textes majeurs de l'IA, comme Russell et
+       Norvig 2003, p. 32−58, 968−972, Poole, Mackworth et Goebel 1998,
+       p. 7−21 et Luger et Stubblefield 2004, p. 235−240
+   145. ↑ Le modèle d'acteur de Carl Hewitt est le précurseur de la
+       définition moderne des agents intelligents. (Hewitt, Bishop et
+       Steiger 1973) John Doyle (Doyle 1983) et le classique The Society
+       of Mind de Marvin Minsky (Minsky 1986) ont tous les deux utilisés
+       le terme « agent ». Parmi d'autres propositions « modulaires », on
+       trouve l'« architecture par prémisses » de Rodney Brook, la
+       programmation orientée objet, etc..
+   146. ↑ ^a et b Russell et Norvig 2003, p. 27, 55
+   147. ↑ C'est cette définition de l'intelligence artificielle qui est
+       globalement acceptée par tous les textes du xxi^e siècle, cf.
+       Russell et Norvig 2003, p. 32 et Poole, Mackworth et Goebel 1998,
+       p. 1.
+   148. ↑ McCorduck 2004, p. 478
+   149. ↑ McCorduck 2004, p. 486–487, Russell et Norvig 2003, p. 25–26
+   150. ↑ ^a et b Russell et Norvig 2003, p. 25−26
+   151. ↑ McCorduck 2004, p. 487: « Au moment où j'écris ces lignes,
+       l'intelligence artificielle bénéficie d'une hégémonie élégante. »
+   152. ↑ Pearl 1988
+   153. ↑ Voir certaines applications de l'intelligence artificielle (en).
+   154. ↑ NRC 1999 dans « Artificial Intelligence in the 90s », et
+       Kurzweil 2005, p. 264
+   155. ↑ Russell et Norvig 2003, p. 28
+   156. ↑ Pour un état de l'art de l'intelligence artificielle sur la
+       reconnaissance vocale en 2007, lire The Economist 2007
+   157. ↑ ^a et b « Des systèmes inspirées par l'IA faisaient déjà partie
+       de nombreuses technologies de tous les jours telles que les moteurs
+       de recherche Internet, les applications bancaires de traitement de
+       transactions et les diagnostics médicaux. » Nick Bostrom, cité dans
+       CNN 2006
+   158. ↑ Olsen 2004,Olsen 2006
+   159. ↑ McCorduck 2004, p. 423, Kurzweil 2005, p. 265, Hofstadter 1979,
+       p. 601
+   160. ↑ CNN 2006
+   161. ↑ Markoff 2005
+   162. ↑ The Economist 2007
+   163. ↑ Tascarella 2006
+   164. ↑ Crevier 1993, p. 108−109
+   165. ↑ Il continue ainsi : « La réponse est, Je crois que l'on aurait
+       pu… J'ai assisté une fois à une conférence internationale sur le[s]
+       réseau[x] neurona[ux]. Il y avait quarante mille inscrits… mais… si
+       vous faisiez une conférence internationale sur, par exemple, les
+       représentations multiples du raisonnement de culture générale, je
+       n'ai réussi à trouver que 6 ou 7 personnes dans le monde entier. »
+       Minsky 2001
+   166. ↑ Maker 2006
+   167. ↑ Kurzweil 2005
+   168. ↑ IA faible / IA forte : on en est où au fait ?
+   169. ↑ Intelligence artificielle : de quoi parle-t-on ? Benoît Georges,
+       Constructif 2019/3 (N° 54), pages 5 à 10
+       https://www.cairn.info/revue-constructif-2019-3-page-5.htm
+   170. ↑ Ego, Fear and Money: How the A.I. Fuse Was Lit, Cade Metz, Karen
+       Weise, Nico Grant and Mike Isaac, San Francisco, 3 Décembre 2023
+       https://www.nytimes.com/2023/12/03/technology/ai-openai-musk-page-a
+       ltman.html
+   171. ↑ A Massive Google Network Learns To Identify — Cats, 26 Juin
+       2012, All Things Considered, Audie Cornish et sous-traitant,
+       https://www.npr.org/2012/06/26/155792609/a-massive-google-network-l
+       earns-to-identify
+   172. ↑ ^a b c d e et f The Who’s Who Behind the Modern Artificial
+       Intelligence Movement, J. Edward Moreno, 3 décembre 2023, The New
+       York Times
+       https://www.nytimes.com/2023/12/03/technology/whos-who-modern-artif
+       icial-intelligence-movement.html
+   173. ↑ Résolution du Parlement européen du 12 février 2019 sur une
+       politique industrielle européenne globale sur l’intelligence
+       artificielle et la robotique (2018/2088(INI))
+       https://www.europarl.europa.eu/doceo/document/TA-8-2019-0081_FR.htm
+       l
+   174. ↑ ^a et b Intelligence artificielle, de quoi parle-t-on ? 25 mars
+       2022
+       https://www.cnil.fr/fr/intelligence-artificielle/intelligence-artif
+       icielle-de-quoi-parle-t-on
+   175. ↑ ^a b et c Intelligence artificielle
+       https://www.cnil.fr/fr/definition/intelligence-artificielle
+   176. ↑ « AFIA - Association Française pour l'Intelligence
+       Artificielle », sur AFIA (consulté le 19 décembre 2017)
+
+Annexes[modifier | modifier le code]
+
+Bibliographie[modifier | modifier le code]
+
+     * (en) David Berlinski, The Advent of the Algorithm : The 300-Year
+       Journey from an Idea to the Computer, Harcourt Books, 2000, 345 p.
+       (ISBN 0-15-601391-6, OCLC 46890682)
+     * (en) Rodney Brooks, « Elephants Don't Play Chess », Robotics and
+       Autonomous Systems, vol. 6,‎ 1990, p. 3−15
+       (DOI 10.1016/S0921-8890(05)80025-9, lire en ligne, consulté le 30
+       août 2007)
+     * (en) Bruce G. Buchanan, A (Very) Brief History of Artificial
+       Intelligence, AI Magazine, 2005 (lire en ligne [archive du 26
+       septembre 2007]), p. 53−60
+     * (en) Samuel Butler, Darwin Among the Machines, Christchurch, the
+       Press, juin 1863 (lire en ligne)
+     * (en) CNN, « AI set to exceed human brain power », CNN.com,‎ 26
+       juillet 2006 (lire en ligne, consulté le 16 octobre 2007).
+     * (en) Jack Copeland, Micro-World AI, 2000 (lire en ligne).
+     * (en) Roberto Cordeschi, The Discovery of the Artificial, Dordrecht,
+       Kluwer, 2002
+     * (en) Daniel Crevier, AI : The Tumultuous Search for Artificial
+       Intelligence, New York, BasicBooks, 1993, 386 p.
+       (ISBN 0-465-02997-3)
+     * (en) Brad Darrach, « Meet Shakey, the First Electronic Person »,
+       Life Magazine,‎ 20 novembre 1970, p. 58−68
+     * (en) J. Doyle, « What is rational psychology? Toward a modern
+       mental philosophy », AI Magazine, vol. 4, n^o 3,‎ 1983, p. 50−53
+     * (en) Hubert Dreyfus, Alchemy and AI, RAND Corporation Memo, 1965
+     * (en) Hubert Dreyfus, What Computers Can't Do : The Limits of
+       Artificial Intelligence, New York, MIT Press, 1972, 354 p.
+       (ISBN 0-06-090613-8, OCLC 5056816)
+     * (en) Hubert Dreyfus, Stuart Dreyfus et Paul Anthanasiou, Mind Over
+       Machine : The Power of Human Intuition and Expertise in the Era of
+       the Computer, Free Press, 1986 (ISBN 0-7432-0551-0)
+     * (en) The Economist, « Are You Talking to Me? », The Economist,‎ 7
+       juin 2007 (lire en ligne, consulté le 16 octobre 2008)
+     * (en) Edward A. Feigenbaum et Pamela McCorduck, The Fifth
+       Generation : Artificial Intelligence and Japan's Computer Challenge
+       to the World, Michael Joseph, 1983 (ISBN 0-7181-2401-4)
+     * (en) Michael Haenlein et Andreas Kaplan, « A Brief History of
+       Artificial Intelligence: On the Past, Present, and Future of
+       Artificial Intelligence », California Management Journal,‎ 2019
+       (lire en ligne)
+     * (en) Jeff Hawkins et Sandra Blakeslee, On Intelligence, New York,
+       Owl Books, 2004, 272 p. (ISBN 0-8050-7853-3, OCLC 61273290)
+     * (en) D.O. Hebb, The Organization of Behavior : a neuropsychological
+       theory, New York, Wiley, 1949, 335 p. (ISBN 0-8058-4300-0,
+       OCLC 48871099)
+     * (en) Carl Hewitt, Peter Bishop et Richard Steiger, A Universal
+       Modular Actor Formalism for Artificial Intelligence, IJCAI, 1973,
+       PDF (lire en ligne)
+     * (en) Thomas Hobbes, Leviathan, 1651
+     * (en) Douglas Hofstadter, Gödel, Escher, Bach : an Eternal Golden
+       Braid, Basic Books, 1979, 824 p. (ISBN 0-465-02656-7,
+       OCLC 225590743)
+     * (en) J. Howe, Artificial Intelligence at Edinburgh University : a
+       Perspective, 1994 (lire en ligne)
+     * (en) G. Kolata, « How can computers get common sense? », Science,
+       vol. 217, n^o 4566,‎ 1982, p. 1237–1238 (PMID 17837639,
+       DOI 10.1126/science.217.4566.1237, Bibcode 1982Sci...217.1237K)
+     * (en) Ray Kurzweil, The Singularity is Near : When Humans Transcend
+       Biology, New York, Penguin, 2005, 652 p. (ISBN 0-14-303788-9 et
+       978-0-14-303788-0, OCLC 71826177)
+     * (en) George Lakoff, Women, Fire, and Dangerous Things : What
+       Categories Reveal About the Mind, Chicago/London, University of
+       Chicago Press., 1987, 614 p. (ISBN 0-226-46804-6)
+     * (en) Douglas Lenat et R. V. Guha, Building Large Knowledge-Based
+       Systems : representation and inference in the Cyc project,
+       Addison-Wesley, 1989, 372 p. (ISBN 0-201-51752-3, OCLC 19981533)
+     * (en) Gerald M. Levitt, The Turk, Chess Automaton, Jefferson,
+       McFarland, 2000, 258 p. (ISBN 0-7864-0778-6)
+     * (en) Professor Sir James Lighthill, Artificial Intelligence : a
+       paper symposium : Artificial Intelligence: A General Survey,
+       Science Research Council, 1973
+     * (en) John Lucas, « Minds, Machines and Gödel », Philosophy,
+       vol. 36, n^o XXXVI,‎ 1961, p. 112–127
+       (DOI 10.1017/S0031819100057983, lire en ligne, consulté le 15
+       octobre 2008)
+     * (en) Meg Houston Maker, AI@50 : AI Past, Present, Future, Dartmouth
+       College, 2006 (lire en ligne [archive du 8 octobre 2008])
+     * (en) John Markoff, « Behind Artificial Intelligence, a Squadron of
+       Bright Real People », The New York Times,‎ 14 octobre 2005 (lire en
+       ligne, consulté le 16 octobre 2008)
+     * (en) John McCarthy, Marvin Minsky, Nathan Rochester et Claude
+       Shannon, A Proposal for the Dartmouth Summer Research Project on
+       Artificial Intelligence, août 1955 (lire en ligne)
+     * (en) John McCarthy, P. J. Hayes, B. J. Meltzer (éditeur) et Donald
+       Mitchie (éditeur), Machine Intelligence 4 : Some philosophical
+       problems from the standpoint of artificial intelligence, Edinburgh
+       University Press, 1969 (lire en ligne), p. 463−502
+     * (en) Pamela McCorduck, Machines Who Think, Natick, A. K. Peters,
+       Ltd., 2004, 2^e éd., 565 p. (ISBN 1-56881-205-1)
+     * (en) Warren Sturgis McCulloch et W. Pitts, A logical calculus of
+       the ideas immanent in nervous activity, vol. 5, Bulletin of
+       Mathematical Biophysics, 1943 (DOI 10.1007/BF02478259), chap. 4,
+       p. 115−127
+     * (en) Luigi Federico Menabrea et Ada Lovelace, Sketch of the
+       Analytical Engine Invented by Charles Babbage, vol. 3, Scientific
+       Memoirs, 1843 (lire en ligne) avec des notes du traducteur sur le
+       mémoire
+     * (en) Marvin Minsky, Computation : Finite and Infinite Machines,
+       Englewood Cliffs, N.J., Prentice-Hall, 1967
+     * (en) Marvin Minsky et Seymour Papert, Perceptrons : An Introduction
+       to Computational Geometry, The MIT Press, 1969 (ISBN 0-262-63111-3,
+       OCLC 16924756)
+     * (en) Marvin Minsky, A Framework for Representing Knowledge, 1974
+       (lire en ligne)
+     * (en) Marvin Minsky, The Society of Mind, New-York, Simon and
+       Schuster, 1986, 339 p. (ISBN 0-671-65713-5, OCLC 223353010, lire en
+       ligne)
+     * (en) Marvin Minsky, It's 2001. Where Is HAL?, D^r Dobb's
+       Technetcast, 2001 (lire en ligne)
+     * (en) Hans Moravec, The Role of Raw Power in Intelligence, 1976
+       (lire en ligne)
+     * (en) Hans Moravec, Mind Children : The Future of Robot and Human
+       Intelligence, Harvard University Press, 1988, 214 p.
+       (ISBN 0-674-57618-7, OCLC 245755104, lire en ligne)
+     * Pierre-Éric Mounier-Kuhn, L'informatique en France de la Seconde
+       Guerre mondiale au Plan Calcul : l'émergence d'une science, Paris,
+       Presses universitaires de Paris-Sorbonne, coll. « Centre Roland
+       Mousnier », 2010, 718 p. (ISBN 978-2-84050-654-6 et 2840506548)
+     * (en) Allen Newell, H. A. Simon, E.A. Feigenbaum (éditeur) et J.
+       Feldman (éditeur), Computers and Thought : GPS: A Program that
+       Simulates Human Thought, New York, McGraw-Hill, 1963, 535 p.
+       (ISBN 0-262-56092-5, OCLC 246968117)
+     * (en) Martin Nick, Al Jazari : The Ingenious 13th Century Muslin
+       Mechanic, Al Shindagah, 2005 (lire en ligne)
+     * (en) NRC, Funding a Revolution : Government Support for Computing
+       Research, National Academy Press, 1999 (ISBN 0-309-06278-0,
+       OCLC 246584055), « Developments in Artificial Intelligence »
+     * (en) Kathleen Malone O'Connor, The alchemical creation of life
+       (takwin) and other concepts of Genesis in medieval Islam,
+       University of Pennsylvania, 1994 (lire en ligne)
+     * (en) Stefanie Olsen, « Newsmaker: Google's man behind the
+       curtain », CNET,‎ 10 mai 2004 (lire en ligne, consulté le 17
+       octobre 2008)
+     * (en) Stefanie Olsen, « Spying an intelligent search engine »,
+       CNET,‎ 18 août 2006 (lire en ligne, consulté le 17 octobre 2008)
+     * (en) J. Pearl, Probabilistic Reasoning in Intelligent Systems :
+       Networks of Plausible Inference, San Mateo (Californie), Morgan
+       Kaufmann, 1988 (ISBN 1-55860-479-0, OCLC 249625842)
+     * (en) David Poole, Alan Mackworth et Randy Goebel, Computational
+       Intelligence : A Logical Approach, New York, Oxford University
+       Press., 1998, 558 p. (ISBN 0-19-510270-3, lire en ligne)
+     * (en) Stuart J. Russell et Peter Norvig, Artificial Intelligence : A
+       Modern Approach, Upper Saddle River, Prentice Hall, 2003, 2^e éd.
+       (ISBN 0-13-790395-2, lire en ligne)
+     * (en) Arthur L. Samuel, « Some studies in machine learning using the
+       game of checkers », IBM Journal of Research and Development,
+       vol. 3, n^o 3,‎ juillet 1959, p. 210−219 (DOI 10.1147/rd.33.0210,
+       lire en ligne, consulté le 20 août 2007)
+     * (en) John Searle, « Minds, Brains and Programs », Behavioral and
+       Brain Sciences, vol. 3, n^o 3,‎ 1980, p. 417–457
+       (DOI 10.1017/S0140525X00005756, lire en ligne, consulté le 13 mai
+       2009)
+     * (en) H. A. Simon et Allen Newell, Heuristic Problem Solving : The
+       Next Advance in Operations Research, vol. 6, Operations Research,
+       1958 (DOI 10.1287/opre.6.1.1)
+     * (en) H. A. Simon, The Shape of Automation for Men and Management,
+       New York, Harper & Row, 1965
+     * (en) Jonathan Skillings, « Newsmaker: Getting machines to think
+       like us », CNET,‎ 2006 (lire en ligne, consulté le 8 octobre 2008)
+     * (en) Patty Tascarella, « Robotics firms find fundraising struggle,
+       with venture capital shy », Pittsburgh Business Times,‎ 11 août
+       2006 (lire en ligne, consulté le 8 octobre 2008).
+     * (en) Alan Turing, On Computable Numbers, with an Application to the
+       Entscheidungsproblem, Proceedings of the London Mathematical
+       Society, 1936 (DOI 10.1112/plms/s2-42.1.230, lire en ligne),
+       chap. 42, p. 230–265
+     * (en) Alan Turing, « Computing Machinery and Intelligence », Mind,
+       vol. LIX, n^o 236,‎ octobre 1950, p. 433–460 (ISSN 0026-4423, lire
+       en ligne [archive du 2 juillet 2008])
+     * (en) Joseph Weizenbaum, Computer Power and Human Reason, W.H.
+       Freeman & Company, 1976 (ISBN 0-14-022535-8, OCLC 10952283)
+     * (en) Joseph Needham, Science and Civilization in China : Volume 2,
+       Taipei, Caves Books Ltd, 1986
+     * (en) John Haugeland, Artificial Intelligence : The Very Idea,
+       Cambridge, MIT Press, 1985 (ISBN 0-262-08153-9)
+     * (en) George Lakoff et Mark Turner, More than cool reason : a field
+       guide to poetic metaphor, 1989
+     * (en) George Luger et William Stubblefield, Artificial
+       intelligence : structures and strategies for complex problem
+       solving, Redwood City (Calif.)/Menlo Park (Calif.)/Reading (Mass.)
+       etc., The Benjamin/Cummings Publishing Company, Inc., 2004,
+       5^e éd., 740 p. (ISBN 0-8053-4780-1, lire en ligne)
+     * (en) Sherry Turkle, The second self : computers and the human
+       spirit, New York, Simon & Schuster, Inc., 1984, 386 p.
+       (ISBN 978-0-262-70111-2)
+     * (en) Peter Cathcart Wason et Shapiro, New horizons in psychology,
+       Harmondsworth, Penguin, 1966
+     * (en) A. Tversky, P. Slovic et D. Kahneman, Judgment Under
+       Uncertainty : Heuristics and Biases, New York, Cambridge University
+       Press, 1982
+
+Articles connexes[modifier | modifier le code]
+
+     * Cerveau artificiel
+     * Histoire des ordinateurs
+     * Histoire de l'informatique
+     * Intelligence artificielle
+     * Intelligence artificielle amicale
+     * Philosophie de l'intelligence artificielle
+     * Principaux projets et réalisations en intelligence artificielle
+     * Révolution numérique
+
+   v · m
+   Histoire des sciences
+   Chronologie
+     * Algèbre
+     * Astronomie
+          + Stellaire
+          + Système solaire
+     * Biologie
+     * Botanique
+     * Chimie
+     * Entomologie
+     * Informatique
+     * Mécanique classique
+     * Optique
+     * Ornithologie
+     * Pathologie végétale
+     * Place des femmes en science
+     * Santé et médecine
+     * Techniques
+
+   Sciences et techniques par civilisation
+     * Égypte
+     * Grèce
+     * Rome
+     * Chine
+     * Inde
+     * Byzance
+     * Monde arabe
+     * Moyen Âge
+     * Empire ottoman
+     * Europe des Lumières
+     * Renaissance
+
+   Histoires des disciplines
+     * Anthropologie
+     * Archéologie
+     * Astronomie
+          + Gravitation
+     * Biologie
+          + Biologie marine
+          + Biologie moléculaire
+          + Évolution
+     * Botanique
+     * Chimie
+          + Électrochimie
+          + Éléments
+     * Cryptologie
+     * Écologie
+     * Économie
+     * Électrophysiologie
+     * Génétique
+     * Géographie
+     * Géologie
+     * Histoire naturelle
+     * Ichtyologie
+     * Informatique
+     * Intelligence artificielle
+     * Linguistique
+     * Logique
+     * Mathématiques
+          + Algèbre
+          + Analyse
+          + Calcul infinitésimal
+          + Analyse fonctionnelle
+          + Géométrie
+          + Probabilité
+          + Statistique
+          + Trigonométrie
+     * Médecine
+     * Météorologie
+     * Méthode scientifique
+     * Minéralogie
+     * Paléoanthropologie
+     * Paléontologie
+     * Phycologie
+     * Physique
+          + Électricité
+          + Mécanique
+          + Mécanique quantique
+          + Magnétisme
+          + Optique
+          + Relativité générale
+          + Relativité restreinte Article de qualité
+          + Théorie des champs
+     * Psychologie
+          + Psychologie cognitive
+          + Psychologie analytique
+          + Psychanalyse
+     * Techniques
+     * Volcanologie
+     * Zoologie
+          + Primatologie
+
+   v · m
+   Intelligence artificielle (IA)
+   Concepts
+     * Histoire de l'IA
+     * Sûreté des IA(s)
+     * Intelligence artificielle : une approche moderne
+     * Hallucination (IA)
+     * Analyse prédictive
+
+           Organisation
+     * Agence francophone pour l'IA
+     * Partenariat sur l'IA
+
+   Capacités
+     * Perception artificielle
+     * Modèle de fondation
+     * Modèle des croyances transférables
+     * Grand modèle de langage
+     * IA symbolique
+     * IA générative
+     * Réseau neuronal convolutif
+     * Apprentissage automatique
+     * Apprentissage profond
+
+   Applications de l'IA
+     * Planification (IA)
+     * IA dans le jeu vidéo
+     * IA dans la santé
+     * Écriture assistée par IA
+     * Art créé par IA
+     * Véhicule autonome
+     * Diagnostic (IA)
+     * DeepL
+     * Traduction automatique
+     * ChatGPT
+
+   Philosophie morale et éthique
+     * Philosophie de l'IA
+     * Lettre ouverte sur l'IA
+     * Éthique de l'IA
+     * IA faible
+     * IA digne de confiance
+     * I.A. La Plus Grande Mutation de l'Histoire
+     * Effet IA
+     * Déclaration de Montréal pour un développement responsable de
+       l'intelligence artificielle
+     * Contrôle des capacités de l'IA
+     * Chambre chinoise
+
+   Histoire et événements
+     * Histoire de l'intelligence artificielle
+     * Logic Theorist (1955)
+     * Perceptron (1957)
+     * General Problem Solver (1959)
+     * Prolog (1972)
+     * Matchs Deep Blue contre Kasparov (1996-1997)
+     * Match AlphaGo - Lee Sedol (2016)
+
+   Science-fiction
+     * IA générale
+     * Risque de catastrophe planétaire lié à l'intelligence artificielle
+       générale
+     * IA-complet
+     * Superintelligence
+     * Anticipation (IA)
+
+          Règlementation
+     * Législation sur l'IA
+     * Réglementation de l'IA
+
+     * icône décorative Portail de la robotique
+     * icône décorative Portail de l’informatique
+     * icône décorative Portail de la psychologie
+     * icône décorative Portail du Web sémantique
+     * icône décorative Portail de l’histoire des sciences
+
+   Ce document provient de
+   « https://fr.wikipedia.org/w/index.php?title=Histoire_de_l%27intelligen
+   ce_artificielle&oldid=210357398 ».
+   Catégories :
+     * Intelligence artificielle
+     * Histoire par domaine scientifique
+
+   Catégories cachées :
+     * Article contenant un appel à traduction en anglais
+     * Article à référence nécessaire
+     * Article avec une section vide ou incomplète
+     * Portail:Robotique/Articles liés
+     * Portail:Électricité et électronique/Articles liés
+     * Portail:Génie mécanique/Articles liés
+     * Portail:Technologies/Articles liés
+     * Portail:Informatique/Articles liés
+     * Portail:Sciences/Articles liés
+     * Portail:Psychologie/Articles liés
+     * Portail:Sciences humaines et sociales/Articles liés
+     * Portail:Web sémantique/Articles liés
+     * Portail:Histoire des sciences/Articles liés
+     * Portail:Histoire/Articles liés
+
+     * La dernière modification de cette page a été faite le 8 décembre
+       2023 à 10:08.
+     * Droit d'auteur : les textes sont disponibles sous licence Creative
+       Commons attribution, partage dans les mêmes conditions ; d’autres
+       conditions peuvent s’appliquer. Voyez les conditions d’utilisation
+       pour plus de détails, ainsi que les crédits graphiques. En cas de
+       réutilisation des textes de cette page, voyez comment citer les
+       auteurs et mentionner la licence.
+       Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc.,
+       organisation de bienfaisance régie par le paragraphe 501(c)(3) du
+       code fiscal des États-Unis.
+
+     * Politique de confidentialité
+     * À propos de Wikipédia
+     * Avertissements
+     * Contact
+     * Code de conduite
+     * Développeurs
+     * Statistiques
+     * Déclaration sur les témoins (cookies)
+     * Version mobile
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki
+
+     * (BUTTON) Activer ou désactiver la limitation de largeur du contenu

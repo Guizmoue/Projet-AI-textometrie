@@ -1,0 +1,1234 @@
+   #alternate Modifier Wikipédia (fr) Flux Atom de Wikipédia
+
+   Aller au contenu
+
+   [ ] Menu principal
+   Menu principal
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Navigation
+     * Accueil
+     * Portails thématiques
+     * Article au hasard
+     * Contact
+
+   Contribuer
+     * Débuter sur Wikipédia
+     * Aide
+     * Communauté
+     * Modifications récentes
+     * Faire un don
+
+   Langues
+   Sur cette version linguistique de Wikipédia, les liens interlangues
+   sont placés en haut à droite du titre de l’article.
+   Aller en haut.
+   Wikipédia l'encyclopédie libre
+   Rechercher
+   ____________________
+   (BUTTON) Rechercher
+
+     * Créer un compte
+     * Se connecter
+
+   [ ] Outils personnels
+     * Créer un compte
+     * Se connecter
+
+   Pages pour les contributeurs déconnectés en savoir plus
+     * Contributions
+     * Discussion
+
+Sommaire
+
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+     * Début
+     * 1L'IA pour le bien
+
+     2Aviation
+
+     3Informatique
+
+     4Éducation
+
+
+
+   5Finance
+
+   (BUTTON) Afficher / masquer la sous-section Finance
+     * 5.1Trading algorithmique
+
+
+
+   5.2Analyse de marché et exploration de données
+
+
+
+   5.3Finances personnelles
+
+
+
+   5.4Management de porte-feuille
+
+
+
+   5.5Souscription
+
+
+
+   6Industrie lourde
+
+
+
+   7Hôpitaux et médecine
+
+
+
+   8Police et justice
+
+   (BUTTON) Afficher / masquer la sous-section Police et justice
+     * 8.1Police intelligente
+
+
+
+   8.2Droit
+
+
+
+   9Ressources humaines et recrutement
+
+
+
+   10Marketing
+
+
+
+   11Médias
+
+
+
+   12Arts
+
+   (BUTTON) Afficher / masquer la sous-section Arts
+     * 12.1Musique
+
+
+
+   12.2Arts visuels
+
+
+
+   13Actualités, publications et littérature
+
+
+
+   14Service client en ligne et par téléphone
+
+
+
+   15Maintenance des télécommunications
+
+
+
+   16Jeux
+
+
+
+   17Transports
+
+
+
+   18Robots conversationnels
+
+
+
+   19Autres
+
+
+
+   20Notes et références
+
+
+
+   21Voir aussi
+
+   (BUTTON) Afficher / masquer la sous-section Voir aussi
+     * 21.1Bibliographie
+
+
+
+   21.2Articles connexes
+
+
+
+   22Liens externes
+
+   [ ] Basculer la table des matières
+
+Applications de l'intelligence artificielle
+
+   [ ] 14 langues
+     * العربية
+     * Catal�
+     * English
+     * Español
+     * فارسی
+     * हिन्दी
+     * Հայերեն
+     * Nederlands
+     * ଓଡ଼ିଆ
+     * پښتو
+     * Português
+     * Русский
+     * Українська
+     * 粵語
+
+   Modifier les liens
+
+     * Article
+     * Discussion
+
+   [ ] français
+
+     * Lire
+     * Modifier
+     * Modifier le code
+     * Voir l’historique
+
+   [ ] Outils
+   Outils
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Actions
+     * Lire
+     * Modifier
+     * Modifier le code
+     * Voir l’historique
+
+   Général
+     * Pages liées
+     * Suivi des pages liées
+     * Téléverser un fichier
+     * Pages spéciales
+     * Lien permanent
+     * Informations sur la page
+     * Citer cette page
+     * Obtenir l'URL raccourcie
+     * Élément Wikidata
+
+   Imprimer / exporter
+     * Créer un livre
+     * Télécharger comme PDF
+     * Version imprimable
+
+   Dans d’autres projets
+     * Wikimedia Commons
+
+   Un article de Wikipédia, l'encyclopédie libre.
+
+   L'intelligence artificielle, définie comme intelligence présentée par
+   les machines, a de nombreuses applications dans la société actuelle.
+   Plus précisément, c'est l'IA faible, la forme d'IA avec laquelle les
+   programmes sont développés pour effectuer des tâches spécifiques, qui
+   est utilisée pour un large éventail d'activités, y compris le
+   diagnostic médical, le commerce électronique, le contrôle des robots et
+   la télédétection.
+
+   L'IA a été utilisée pour développer et faire progresser de nombreux
+   domaines et industries, y compris la finance, la santé, l'éducation, le
+   transport, et plus encore.
+
+L'IA pour le bien[modifier | modifier le code]
+
+   L'IA pour le bien est un mouvement dans lequel les institutions
+   emploient l'IA pour s'attaquer à certains des plus grands défis
+   économiques et sociaux du monde. Par exemple, l'Université de
+   Californie du Sud a lancé le Centre d'intelligence artificielle dans la
+   société, dans le but d'utiliser l'IA pour résoudre des problèmes
+   socialement pertinents tels que le sans-abrisme. À Stanford, des
+   chercheurs utilisent l'intelligence artificielle pour analyser les
+   images satellitaires afin d'identifier les zones où les niveaux de
+   pauvreté sont les plus élevés^[1].
+
+Aviation[modifier | modifier le code]
+
+   Cette section ne cite pas suffisamment ses sources (décembre 2021).
+   Pour l'améliorer, ajoutez des références de qualité et vérifiables
+   (comment faire ?) ou le modèle {{Référence nécessaire}} sur les
+   passages nécessitant une source.
+
+   La Division des opérations aériennes américaine (AOD) utilise l'IA pour
+   les systèmes experts basés sur des règles. L'AOD utilise l'intelligence
+   artificielle comme un opérateur de substitution pour les simulateurs de
+   combat et d'entraînement, les aides à la gestion de mission, les
+   systèmes de soutien à la prise de décision tactique et le
+   post-traitement des données du simulateur en résumés symboliques^[2].
+
+   L'utilisation de l'intelligence artificielle dans les simulateurs
+   s'avère très utile pour l'AOD. Les simulateurs d'avions utilisent
+   l'intelligence artificielle pour traiter les données provenant des vols
+   simulés. À part le vol simulé, il y a aussi une simulation de guerre
+   aérienne. Les ordinateurs sont capables de trouver les meilleurs
+   scénarios de réussite dans ces situations. Les ordinateurs peuvent
+   également créer des stratégies basées sur l'emplacement, la taille, la
+   vitesse et la force des forces et contre-forces. Les pilotes peuvent
+   recevoir de l'aide en l'air pendant le combat par ordinateur. Les
+   programmes intelligents artificiels peuvent trier les informations et
+   fournir au pilote les meilleures manœuvres possibles, sans oublier de
+   se débarrasser de certaines manœuvres qui seraient impossibles �
+   réaliser pour un être humain. Plusieurs aéronefs sont nécessaires pour
+   obtenir de bonnes approximations de certains calculs afin que les
+   pilotes simulés par ordinateur soient utilisés pour recueillir des
+   données^[3]. Ces pilotes simulés par ordinateur sont également utilisés
+   pour former les futurs contrôleurs de la circulation aérienne.
+
+   Le système utilisé par l'AOD pour mesurer la performance était le
+   système interactif de diagnostic et d'isolation des défauts, ou IFDIS.
+   Il s'agit d'un système expert basé sur des règles, rassemblant des
+   informations provenant des documents du TF-30 et les conseils d'experts
+   des mécaniciens travaillant sur le TF-30. Ce système a été conçu pour
+   être utilisé pour le développement du TF-30 pour le RAAF F-111C. Le
+   système de performance a également été utilisé pour remplacer les
+   travailleurs spécialisés. Le système a permis aux travailleurs
+   réguliers de communiquer avec le système et d'éviter les erreurs, les
+   erreurs de calcul ou d'avoir à parler à l'un des travailleurs
+   spécialisés.
+
+   L'AOD utilise également l'intelligence artificielle dans un logiciel de
+   reconnaissance vocale. Les contrôleurs de la circulation aérienne
+   donnent des instructions aux pilotes artificiels et l'AOD veut que les
+   pilotes répondent aux ATC avec des réponses simples. Les programmes qui
+   intègrent le logiciel de la parole doivent être formés, ce qui signifie
+   qu'ils utilisent des réseaux de neurones. Le programme utilisé, le
+   Verbex 7000, est un programme qui commence à prendre de l'âge et
+   pourrait être amélioré. Les améliorations sont impératives car les ATC
+   utilisent un dialogue très spécifique et le logiciel doit être capable
+   de communiquer correctement et rapidement à chaque fois.
+
+   L'AIDA, conception assistée par intelligence artificielle, est utilisée
+   pour aider les concepteurs dans le processus de création de conceptions
+   conceptuelles d'aéronefs. Ce programme permet aux concepteurs de se
+   concentrer davantage sur le design lui-même et moins sur le processus
+   de conception. Le logiciel permet également à l'utilisateur de se
+   concentrer moins sur les outils logiciels. L'AIDA utilise des systèmes
+   basés sur des règles pour calculer ses données. Ceci est un diagramme
+   de l'arrangement des modules AIDA. Bien que simple, le programme
+   s'avère efficace.
+
+   En 2003, le Dryden Flight Research Center de la NASA et de nombreuses
+   autres entreprises ont créé un logiciel qui pourrait permettre à un
+   aéronef endommagé de poursuivre son vol jusqu'à ce qu'une zone
+   d'atterrissage sûre puisse être atteinte^[4]. Le logiciel compense tous
+   les composants endommagés en s'appuyant sur les composants non
+   endommagés. Le réseau de neurones utilisé dans le logiciel s'est avéré
+   efficace et a marqué un triomphe pour l'intelligence artificielle.
+
+   Le système de gestion intégrée de la santé des véhicules, également
+   utilisé par la NASA, à bord d'un aéronef doit traiter et interpréter
+   les données provenant des différents capteurs de l'aéronef. Le système
+   doit être capable de déterminer l'intégrité structurelle de l'avion. Le
+   système doit également mettre en œuvre des protocoles en cas de
+   dommages subis par le véhicule^[5].
+
+   Haitham Baomar et Peter Bentley dirigent une équipe du University
+   College de Londres pour développer un système de pilote automatique
+   intelligent (IAS) basé sur l'intelligence artificielle conçu pour
+   enseigner à un système de pilotage automatique de se comporter comme un
+   pilote expérimenté confronté à une situation d'urgence comme le temps
+   sévère, la turbulence ou la défaillance du système. L'éducation du
+   pilote automatique repose sur le concept d'apprentissage automatique
+   supervisé « qui traite le jeune pilote automatique comme un apprenti
+   humain allant dans une école de pilotage ». Le pilote automatique
+   enregistre les actions du pilote humain générant des modèles
+   d'apprentissage à l'aide de réseaux neuronaux artificiels. Le pilote
+   automatique est alors entièrement contrôlé et observé par le pilote
+   lors de l'exécution de l'exercice d'entraînement.
+
+   Le système de pilote automatique intelligent associe les principes de
+   l'apprentissage par démonstration et du clonage comportemental, dans
+   lesquels le pilote automatique observe les actions de bas niveau
+   requises pour manœuvrer l'avion et la stratégie de haut niveau utilisée
+   pour appliquer ces actions^[6]. La mise en œuvre de ce système utilise
+   trois phases ; collecte de données pilotes, formation et contrôle
+   autonome. L'objectif de Baomar et Bentley est de créer un pilote
+   automatique plus autonome pour aider les pilotes à répondre aux
+   situations d'urgence.
+
+Informatique[modifier | modifier le code]
+
+   Les chercheurs en IA ont créé de nombreux outils pour résoudre les
+   problèmes les plus difficiles en informatique. Beaucoup de leurs
+   inventions ont été adoptées par l'informatique grand public et ne sont
+   plus considérées comme faisant partie de l'IA (voir effet IA). Selon
+   Russell & Norvig en 2003, tous les éléments suivants ont été
+   initialement développés dans les laboratoires d'IA : le partage du
+   temps, les interprètes interactifs, les interfaces utilisateur
+   graphiques et la souris d'ordinateur, les environnements de
+   développement rapide, les listes des structures de données, la gestion
+   automatique du stockage, la programmation symbolique, la programmation
+   fonctionnelle, la programmation dynamique et programmation orientée
+   objet^[7].
+
+   L'IA peut être utilisée pour potentiellement déterminer le développeur
+   de binaires anonymes^[pas clair]^[réf. nécessaire].
+
+   L'IA peut être utilisée pour créer une autre IA. Par exemple, vers
+   novembre 2017, le projet AutoML de Google visant à développer de
+   nouvelles topologies de réseaux neuronaux a créé NASNet, un système
+   optimisé pour ImageNet et COCO^[Quoi ?]. Selon Google, les performances
+   de NASNet ont dépassé toutes les performances d'ImageNet précédemment
+   publiées^[8]. AutoML peut effectuer des prédictions et rationalise
+   automatiquement l'ensemble du processus d'apprentissage automatique
+   depuis le chargement des données, la modélisation et la sélection de
+   modèles. Il a parcouru de nombreux modèles d'apprentissage automatique
+   et a automatiquement sélectionné le meilleur modèle en fonction des
+   valeurs d'erreur les plus faibles : déviance résiduelle moyenne, erreur
+   quadratique moyenne (RMSE), erreur quadratique moyenne (MSE), erreur
+   absolue moyenne (MAE), racine moyenne quadratique erreur logarithmique
+   (RMSLE) ^[9]
+
+Éducation[modifier | modifier le code]
+
+   Certaines entreprises créent des robots pour enseigner des sujets aux
+   enfants, allant de la biologie à l'informatique, bien que ces outils ne
+   soient pas encore répandus. Il y a également eu une augmentation des
+   systèmes de tutorat intelligents (STI) dans l'enseignement supérieur.
+   Par exemple, un STI appelé SHERLOCK enseigne aux techniciens de l'armée
+   de l'air américaine à diagnostiquer les problèmes de systèmes
+   électriques dans les aéronefs. Un autre exemple est la Defense Advanced
+   Research Projects Agency (DARPA) américaine également, qui a utilisé
+   l'IA pour développer un tuteur numérique afin de former ses recrues de
+   la marine en compétences techniques en un temps plus
+   court.^[réf. nécessaire] Les universités ont tardé à adopter les
+   technologies de l'IA en raison d'un manque de financement ou d'un
+   scepticisme quant à l'efficacité de ces outils, mais dans les années �
+   venir^[Quand ?], davantage de classes utiliseront des technologies
+   telles que les STI pour apporter un complément aux cours des
+   enseignants^[10]^[réf. incomplète].
+
+   Les avancées dans le traitement du langage naturel, combinées �
+   l'apprentissage automatique, ont également permis le classement
+   automatique des tâches ainsi qu'une compréhension des besoins
+   d'apprentissage individuels des étudiants. Cela a conduit à une
+   explosion de la popularité des MOOC, ou Massive Open Online Courses,
+   qui permet aux étudiants du monde entier de suivre des cours en ligne.
+   Les ensembles de données collectés à partir de ces systèmes
+   d'apprentissage en ligne à grande échelle ont également permis
+   l'analyse de l'apprentissage, qui sera utilisée pour améliorer la
+   qualité de l'apprentissage à grande échelle. Des exemples en sont la
+   prédiction des élèves qui risquent d'échouer et l'analyse de
+   l'engagement des élèves^[11].
+
+Finance[modifier | modifier le code]
+
+Trading algorithmique[modifier | modifier le code]
+
+   Le Trading algorithmique implique l'utilisation de systèmes d'IA
+   complexes pour prendre des décisions commerciales à des vitesses
+   supérieures à celles de tout humain, réalisant souvent des millions de
+   transactions par jour sans aucune intervention humaine. Les systèmes de
+   négociation automatisés sont généralement utilisés par les grands
+   investisseurs institutionnels^[12].
+
+Analyse de marché et exploration de données[modifier | modifier le code]
+
+   Plusieurs grandes institutions financières ont investi dans des moteurs
+   d'IA pour les aider dans leurs pratiques d'investissement. Le moteur IA
+   de BlackRock, Aladdin, est utilisé à la fois au sein de l'entreprise et
+   auprès des clients pour les aider à prendre des décisions
+   d'investissement. Son large éventail de fonctionnalités inclut
+   l'utilisation du traitement en langage naturel pour lire du texte tel
+   que des nouvelles, des rapports de courtier et des flux de médias
+   sociaux. Il mesure ensuite le sentiment sur les entreprises mentionnées
+   et attribue un score. Des banques comme UBS et Deutsche Bank utilisent
+   un moteur AI appelé Sqreem (modèle de réduction et d'extraction
+   séquentielle quantique) qui peut extraire des données pour développer
+   des profils de consommateurs et les associer aux produits de gestion de
+   patrimoine qu'ils souhaiteraient le plus^[13]. Goldman Sachs utilise
+   Kensho, une plate-forme d'analyse de marché qui combine le calcul
+   statistique avec le traitement des données volumineuses et du langage
+   naturel. Ses systèmes d'apprentissage automatique extraient des données
+   accumulées sur Internet et évaluent les corrélations entre les
+   événements mondiaux et leur impact sur les prix des actifs^[14].
+   L'extraction de l'information, qui fait partie de l'intelligence
+   artificielle, est utilisée pour extraire des informations du fil
+   d'actualités en direct et pour faciliter les décisions
+   d'investissement.
+
+Finances personnelles[modifier | modifier le code]
+
+   Plusieurs produits qui émergent utilisent l'IA pour aider les gens avec
+   leurs finances personnelles. Par exemple, Digit est une application
+   alimentée par l'intelligence artificielle qui aide automatiquement les
+   consommateurs à optimiser leurs dépenses et leurs économies en fonction
+   de leurs propres habitudes et objectifs personnels. L'application peut
+   analyser des facteurs tels que le revenu mensuel, l'équilibre actuel et
+   les habitudes de dépenses, puis prendre ses propres décisions et
+   transférer de l'argent sur le compte d'épargne^[15]. Wallet.AI, une
+   start-up montante à San Francisco, construit des agents qui analysent
+   les données qu'un consommateur laissera derrière lui, des check-ins de
+   Smartphone aux tweets, pour informer le consommateur de son
+   comportement de dépenses^[16].
+
+Management de porte-feuille[modifier | modifier le code]
+
+   Les Robots-conseillers sont de plus en plus largement utilisés dans
+   l'industrie de la gestion des investissements. Les Robots-conseillers
+   fournissent des conseils financiers et la gestion de portefeuille avec
+   une intervention humaine minimale. Cette catégorie de conseillers
+   financiers travaille sur la base d'algorithmes conçus pour développer
+   automatiquement un portefeuille financier en fonction des objectifs
+   d'investissement et de la tolérance au risque des clients. Il peut
+   s'adapter aux changements en temps réel du marché et calibrer en
+   conséquence le portefeuille^[17].
+
+Souscription[modifier | modifier le code]
+
+   Un prêteur en ligne, Upstart, analyse de vastes quantités de données
+   sur les consommateurs et utilise des algorithmes d'apprentissage
+   automatique pour élaborer des modèles de risque de crédit qui prédisent
+   la probabilité de défaillance d'un consommateur. Leur technologie sera
+   accordée aux banques afin qu'elles puissent tirer parti de leurs
+   processus de souscription^[18].
+
+   ZestFinance a également développé sa plateforme ZAML (Zest Automated
+   Machine Learning) spécifiquement destinée à la souscription de crédit.
+   Cette plate-forme utilise l'apprentissage automatique pour analyser des
+   dizaines de milliers de variables traditionnelles et non
+   traditionnelles (des transactions d'achat à la façon dont un client
+   remplit un formulaire) utilisées dans l'industrie du crédit pour
+   évaluer les emprunteurs. La plate-forme est particulièrement utile pour
+   attribuer des scores de crédit à ceux qui ont des antécédents de crédit
+   limités, tels que les millennials^[19].
+
+Industrie lourde[modifier | modifier le code]
+
+   Les robots sont devenus courants dans de nombreuses industries et on
+   leur attribue souvent des emplois considérés comme dangereux pour les
+   humains. Les robots se sont révélés efficaces dans des tâches très
+   répétitives qui peuvent conduire à des erreurs ou à des accidents en
+   raison d'un manque de concentration et d'autres emplois que les humains
+   peuvent trouver dégradants.
+
+   En 2014, la Chine, le Japon, les États-Unis, la République de Corée et
+   l'Allemagne représentaient ensemble 70 % du volume total des ventes de
+   robots. Dans l'industrie automobile, secteur particulièrement
+   automatisé, le Japon possède la plus forte densité de robots
+   industriels au monde : 1 414 pour 10 000 salariés^[20].
+
+Hôpitaux et médecine[modifier | modifier le code]
+
+   Article détaillé : Intelligence artificielle dans la santé.
+   [220px-X-ray_of_hand%2C_where_bone_age_is_automatically_found_by_BoneXp
+   ert_software.jpg] Radiographie d'une main, avec calcul automatique de
+   l'âge osseux par un logiciel informatique.
+
+   Les réseaux de neurones artificiels sont utilisés comme systèmes de
+   soutien à la décision clinique pour le diagnostic médical, comme dans
+   la technologie Concept Processing dans le logiciel EMR.
+
+   D'autres tâches en médecine qui peuvent potentiellement être réalisées
+   par intelligence artificielle et qui commencent à être développées
+   comprennent :
+     * interprétation assistée par ordinateur d'images médicales. De tels
+       systèmes aident à numériser des images numériques, par exemple de
+       la tomodensitométrie, pour des apparences typiques et pour mettre
+       en évidence des coupes ostentatoires, telles que des maladies
+       possibles. Une application typique est la détection d'une tumeur ;
+     * analyse du son du cœur^[21]
+     * robots compagnons pour les soins aux personnes âgées^[22] ;
+     * dossiers médicaux d'extraction pour fournir des informations plus
+       utiles ;
+     * concevoir des plans de traitement ;
+     * aider à des tâches répétitives, y compris la gestion des
+       médicaments ;
+     * fournir des consultations ;
+     * création de médicaments^[23]
+     * utiliser des avatars à la place des patients pour la formation
+       clinique^[24] ;
+     * prédire la probabilité de décès par des interventions
+       chirurgicales ;
+     * prévoir la progression du VIH.
+
+   En 2016, on comptait plus de 90 startups d'IA dans l'industrie de la
+   santé travaillant dans ces domaines^[25].
+
+   La première solution d'IDx, IDx-DR, est le premier système de
+   diagnostic autonome basé sur l'IA autorisé à la commercialisation par
+   la Food and Drug Administration.
+
+Police et justice[modifier | modifier le code]
+
+Police intelligente[modifier | modifier le code]
+
+   Article détaillé : Police intelligence.
+
+   Une application concerne le domaine de la prévention des crimes et
+   délits. Certaines polices, comme celle britannique, font développer une
+   IA de ce genre qui pourrait être opérationnelle dès mars 2019^[26].
+
+Droit[modifier | modifier le code]
+
+   Le droit, dans la perspective de prédire les décisions de justice,
+   d'aider à la décision et de trancher les cas simples^[27]
+
+Ressources humaines et recrutement[modifier | modifier le code]
+
+   Cette section ne cite pas suffisamment ses sources (juin 2020).
+   Pour l'améliorer, ajoutez des références de qualité et vérifiables
+   (comment faire ?) ou le modèle {{Référence nécessaire}} sur les
+   passages nécessitant une source.
+
+   Une autre application de l'IA est dans la gestion des ressources
+   humaines (RH) et le domaine du recrutement. L'IA est utilisée de trois
+   façons par les professionnels des ressources humaines et du
+   recrutement. L'IA est utilisée pour filtrer les CV et classer les
+   candidats en fonction de leur niveau de qualification. L'IA est
+   également utilisée pour prédire le succès des candidats dans des rôles
+   donnés grâce à des plates-formes de recherche d'emploi. Et maintenant,
+   l'IA déploie des robots de discussion qui peuvent automatiser les
+   tâches de communication répétitives.
+
+   De 2016 à 2017, la société de biens de consommation Unilever a utilisé
+   l'intelligence artificielle pour filtrer tous les employés de niveau
+   d'entrée. L'IA d'Unilever a utilisé des jeux exploitant les
+   neurosciences, des entretiens enregistrés et des analyses faciales et
+   de la parole pour prédire le succès de l'embauche. Unilever s'est
+   associé à Pymetrics et HireVue pour mettre au point cette IA et a
+   augmenté leurs demandeurs^[Quoi ?] de 15 000 à 30 000 en une seule
+   année. Le recrutement avec l'IA a également permis à Unilever d'obtenir
+   la « formation la plus diversifiée à ce jour »^[pas clair]. En outre,
+   le temps d'embauche a été réduit de quatre mois à quatre semaines,
+   permettant d'économiser plus de 50 000 heures de recrutement.
+
+   Un autre développement de l'IA est le recrutement de dialogueurs.
+   TextRecruit, un démarrage Bay Area^[pas clair], a ainsi développé un
+   dialogueur de recrutement baptisé Ari, conçu pour tenir des
+   conversations bidirectionnelles avec les candidats^[réf. nécessaire].
+   Ari automatise l'affichage des offres d'emploi, les ouvertures de
+   publicité, la sélection des candidats, la planification des entretiens
+   et l'entretien des relations avec les candidats au fur et à mesure
+   qu'ils avancent dans l'entonnoir de recrutement. Ari est actuellement
+   proposé dans le cadre de la plateforme d'engagement des candidats de
+   TextRecruit.
+
+Marketing[modifier | modifier le code]
+
+   Cette section est vide, insuffisamment détaillée ou incomplète. Votre
+   aide est la bienvenue ! Comment faire ?
+
+Médias[modifier | modifier le code]
+
+   Certaines applications AI sont orientées vers l'analyse de contenu
+   multimédia audiovisuel tel que des films, des programmes télévisés, des
+   vidéos publicitaires ou des contenus générés par les utilisateurs. Les
+   solutions impliquent souvent la vision par ordinateur, qui est un
+   domaine d'application majeur de l'IA.
+
+   Les scénarios de cas d'utilisation typiques comprennent l'analyse
+   d'images à l'aide de techniques de reconnaissance d'objets ou de
+   reconnaissance faciale, ou l'analyse de vidéos pour la reconnaissance
+   de scènes, d'objets ou de visages pertinents. La motivation pour
+   l'utilisation de l'analyse des médias basée sur l'intelligence
+   artificielle peut être, entre autres, la facilitation de la recherche
+   multimédia, la création d'un ensemble de mots-clés descriptifs pour un
+   élément multimédia, la vérification du contenu média pour un contenu
+   particulier (comme la vérification de la pertinence du contenu pour un
+   temps d'écoute particulier de la télévision), la reconnaissance
+   automatique de la parole à des fins d'archivage ou à d'autres fins, et
+   la détection de logos, produits ou visages de célébrités pour le
+   placement de publicités pertinentes.
+
+   Les sociétés d'analyse de média travaillant avec l'IA fournissent
+   souvent leurs services via une API REST qui permet un accès automatique
+   à la technologie à partir de la machine et permet une lecture
+   automatique des résultats. Par exemple, IBM, Microsoft, Amazon et la
+   société d'IA vidéo Valossa^[28] permettent d'accéder à leur technologie
+   de reconnaissance multimédia en utilisant des API RESTful.
+
+   Des applications sont également envisagées pour mettre à jour
+   automatiquement Wikipédia, en respectant les conventions
+   orthographiques et grammaticales^[29].
+
+Arts[modifier | modifier le code]
+
+Musique[modifier | modifier le code]
+
+   Alors que l'évolution de la musique a toujours été affectée par la
+   technologie, l'intelligence artificielle a permis, à travers les
+   progrès scientifiques, d'imiter, dans une certaine mesure, la
+   composition humaine.
+
+   Parmi les premiers efforts remarquables, David Cope a créé une IA
+   appelée Emily Howell qui a réussi à se faire connaître dans le domaine
+   de la musique algorithmique^[30]. L'algorithme derrière Emily Howell
+   est enregistré en tant que brevet américain^[31].
+
+   L'IA Iamus a créé en 2012 la première œuvre classique pour piano
+   entièrement composé par un ordinateur^[32].
+
+   D'autres projets, comme AIVA (Artificial Intelligence Virtual Artist),
+   se concentrent sur la composition de musique symphonique,
+   principalement pour la musique de film. Il a réalisé une première
+   mondiale en devenant le premier compositeur virtuel à être reconnu par
+   une association professionnelle musicale^[33].
+
+   Les intelligences artificielles peuvent même produire de la musique
+   utilisable dans un cadre médical, avec les efforts de Melomics pour
+   utiliser la musique générée par ordinateur pour soulager le stress et
+   la douleur^[34].
+
+   De plus, des initiatives telles que Google Magenta, menées par l'équipe
+   Google Brain, veulent savoir si une intelligence artificielle peut être
+   capable de créer un art irrésistible^[35].
+
+   Au Sony CSL Research Laboratory, leur logiciel Flow Machines a créé des
+   chansons pop en apprenant des styles musicaux à partir d'une énorme
+   base de données de chansons. En analysant des combinaisons uniques de
+   styles et de techniques d'optimisation, il peut composer dans n'importe
+   quel style.
+
+   Un autre projet de composition musicale d'intelligence artificielle,
+   The Watson Beat, écrit par IBM Research, n'a pas besoin d'une énorme
+   base de données comme les projets Google Magenta et Flow Machines, car
+   il utilise l'apprentissage par renforcement et les réseaux profonds de
+   croyances pour composer de la musique sur une simple mélodie d'entrée
+   et un style choisi. Depuis que le logiciel a été ouvert^[36], des
+   musiciens tels que Taryn Southern^[37] ont collaboré avec le projet
+   pour créer de la musique.
+
+Arts visuels[modifier | modifier le code]
+
+   Article détaillé : Art créé par intelligence artificielle.
+   Cette section est vide, insuffisamment détaillée ou incomplète. Votre
+   aide est la bienvenue ! Comment faire ?
+
+Actualités, publications et littérature[modifier | modifier le code]
+
+   La société Narrative Science rend disponibles sur le marché des
+   nouvelles et des rapports générés par ordinateur, y compris des résumés
+   d'événements sportifs d'équipe à partir de données statistiques du jeu,
+   en anglais. Elle crée également des rapports financiers et des analyses
+   immobilières^[38]. De même, la société Automated Insights génère des
+   récapitulatifs et des aperçus personnalisés pour Yahoo Sports Fantasy
+   Football^[39]. La société devrait générer un milliard d'histoire en
+   2014, après 350 millions en 2013^[40].
+
+   Echobox est une société de logiciels qui aide les éditeurs à augmenter
+   le trafic en publiant « intelligemment » des articles sur des
+   plateformes de médias sociaux telles que Facebook et Twitter^[41]. En
+   analysant de grandes quantités de données historiques et en temps réel,
+   son logiciel apprend comment des publics spécifiques répondent aux
+   articles à différents moments de la journée. Il choisit ensuite les
+   meilleures histoires à poster et les meilleurs moments pour les
+   poster^[42].
+
+   Une autre société, Yseop, utilise l'intelligence artificielle pour
+   transformer des données structurées en commentaires et recommandations
+   intelligents en langage naturel. Yseop est capable de rédiger des
+   rapports financiers, des résumés analytiques, des documents de vente ou
+   de marketing personnalisés à une vitesse de milliers de pages par
+   seconde et en plusieurs langues, y compris l'anglais, l'espagnol, le
+   français et l'allemand^[43].
+
+   Boomtrain's est un autre exemple d'IA conçu pour apprendre à impliquer
+   au mieux chaque lecteur avec les articles exacts - envoyés par le bon
+   canal au bon moment - qui seront les plus pertinents pour le lecteur.
+   C'est comme embaucher un éditeur personnel pour chaque lecteur
+   individuel pour organiser l'expérience de lecture parfaite.
+
+   Il est possible que l'IA écrive des œuvres dans le futur. En 2016, une
+   IA japonaise a co-écrit une histoire courte et a presque gagné un prix
+   littéraire^[44].
+
+Service client en ligne et par téléphone[modifier | modifier le code]
+
+   [170px-Automated_online_assistant.png] Un assistant en ligne automatisé
+   fournissant un service client sur une page Web.
+
+   L'intelligence artificielle est utilisée dans des assistants en ligne
+   automatisés qui peuvent être vus comme des avatars sur des pages
+   Web^[45]. Il doit permettre aux entreprises de réduire leurs coûts
+   d'exploitation et de formation^[45]. Une technologie sous-jacente de
+   tels systèmes est le traitement du langage naturel^[45]. Pypestream
+   utilise un service client automatisé pour son application mobile conçue
+   pour rationaliser la communication avec les clients^[46].
+
+   Actuellement, les grandes entreprises investissent dans l'IA pour gérer
+   des clients difficiles à l'avenir. Le développement le plus récent de
+   Google analyse le langage et convertit le discours en texte. La
+   plateforme peut identifier les clients en colère à travers leur langue
+   et répondre de manière appropriée^[47].
+
+   Les entreprises ont travaillé sur différents aspects du service à la
+   clientèle pour améliorer cet aspect de l'entreprise.
+
+   Digital Genius, une start-up spécialisée dans l'IA, recherche plus
+   efficacement la base de données d'informations (à partir des
+   conversations passées et des questions fréquemment posées) et fournit
+   des instructions aux agents pour les aider à résoudre les requêtes plus
+   efficacement^[réf. nécessaire].
+
+   IPSoft crée une technologie avec intelligence émotionnelle pour adapter
+   l'interaction du client. La réponse est liée au ton du client, avec
+   l'objectif de montrer de l'empathie. Un autre élément développé par
+   IPSoft est la capacité à s'adapter à différents tons ou langues.
+
+   Inbenta est axé sur le développement du langage naturel. En d'autres
+   termes, pour comprendre la signification derrière ce que quelqu'un
+   demande et ne pas seulement regarder les mots utilisés, en utilisant le
+   contexte et le traitement du langage naturel. Un élément de service
+   client que Ibenta a déjà atteint est sa capacité à répondre en masse
+   aux requêtes par e-mail.
+
+Maintenance des télécommunications[modifier | modifier le code]
+
+   De nombreuses entreprises de télécommunications utilisent la recherche
+   heuristique dans la gestion de leur main-d'œuvre, par exemple BT Group
+   a déployé une recherche heuristique dans une application
+   d'ordonnancement qui fournit les horaires de travail de
+   50 000 ingénieurs et permettrait ainsi d'économiser 250 millions de
+   dollars par an^[48].
+
+Jeux[modifier | modifier le code]
+
+   Article détaillé : Intelligence artificielle dans le jeu vidéo.
+
+   Les années 1990 ont vu certaines des premières tentatives de produire
+   en masse des types d'intelligence artificielle de base destinés �
+   l'éducation ou aux loisirs. Cela a grandement prospéré avec la
+   révolution numérique, et a aidé à initier les gens, en particulier les
+   enfants, à la gestion de différents types d'intelligence artificielle,
+   notamment sous forme de Tamagotchis et Giga Pets, iPod Touch, Internet
+   et le premier robot largement répandu, Furby. Un an plus tard, un type
+   amélioré de robot domestique a été publié sous la forme d'Aibo, un
+   chien robotique avec des caractéristiques intelligentes et l'autonomie.
+
+   Des entreprises comme Mattel ont créé un assortiment de jouets
+   compatibles avec l'IA pour les enfants dès l'âge de trois ans. En
+   utilisant des moteurs IA exclusifs et des outils de reconnaissance
+   vocale, ils sont capables de comprendre les conversations, de donner
+   des réponses intelligentes et d'apprendre rapidement^[49].
+
+   L'intelligence artificielle a aussi été utilisée depuis longtemps dans
+   la conception de joueurs artificiels pour le jeu d'échecs, mais s'est
+   aussi popularisée dans les jeux vidéo.
+
+   Celle-ci bénéficie en effet des progrès de l'informatique, avec par
+   exemple les cartes graphiques dédiées qui déchargent le processeur
+   principal des tâches graphiques. Le processeur principal peut désormais
+   être utilisé pour développer des systèmes d’IA plus perfectionnés. Par
+   exemple, l'intelligence artificielle peut être utilisée pour
+   « piloter » des bots (c'est-à-dire les personnages artificiels)
+   évoluant dans les MMOGs ou les mondes virtuels, mais on peut aussi
+   citer son utilisation dans des jeux de simulation, ou pour animer des
+   personnages artificiels.
+
+   Dans le domaine du jeu vidéo, l’IA caractérise toute prise de décision
+   d’un personnage (ou d’un groupe) géré par le jeu, et contraint par
+   l’intérêt ludique : une « meilleure » IA ne donne pas forcément un jeu
+   plus jouable^[50], l’objectif est de donner l’illusion d’un
+   comportement intelligent^[50]. L'éventail de sujets (recherche de
+   chemin, animation procédurale, planifications stratégiques…) sont
+   réalisables par des techniques classiques issues de l'IA symbolique
+   (automates, script, systèmes multi-agents…), fortement dépendante de
+   l’expertise humaine^[51]. Cette approche est préférée par rapport aux
+   techniques d'intelligence artificielle plus académiques (réseaux de
+   neurones, algorithmes génétiques), car mieux contrôlée^[52]. Ces
+   approches partagent toutes les mêmes contraintes de ressources
+   restreintes, que ce soit en mémoire, en temps de développement, ou en
+   temps de calcul, même si globalement ces ressources augmentent plus les
+   projets sont récents^[52]. Jusqu'à la fin des années 1990, l’IA dans
+   les jeux vidéo (plus particulièrement dans les jeux de stratégie en
+   temps réel) a été délaissée par rapport au rendu visuel et sonore.
+   L’« évolution vers des univers toujours plus réalistes, leur peuplement
+   par des personnages […] aux comportements crédibles devient une
+   problématique importante »^[51]. Pour éviter ce contraste, et coupler
+   dans le même temps au délestage d’une grosse partie de l’aspect
+   graphique des processeurs vers les cartes graphiques^[53], on constate
+   à cette période une augmentation des ressources investies dans l’IA
+   (temps de développement, ressource processeur)^[53]. Certains jeux sont
+   précurseurs (Creatures, Black and White) car l’IA y constitue l’élément
+   central ludique^[réf. nécessaire]. Partant d’une approche à base de
+   règles rigides (du type : « si le joueur a telle position, alors
+   j'exécute telle action »), les jeux utilisent alors des IA plus
+   flexibles, diversifiant les techniques mises en œuvre^[50]. Aujourd'hui
+   la plupart des jeux vidéo utilisent des solutions ad hoc, il existe
+   néanmoins des solutions middleware et également des solutions
+   matérielles^[54].
+
+   Avec les jeux en réseau, le besoin d’IA a tout d’abord été
+   négligé^[53], mais, particulièrement avec l’apparition des jeux
+   massivement multijoueurs, et la présence d’un nombre très important de
+   joueurs humains se confrontant à des personnages non-joueurs, ces
+   derniers ont un besoin très important de pouvoir s'adapter à des
+   situations qui ne peuvent être prévues. Actuellement ces types de jeux
+   intéressent particulièrement des chercheurs en IA, qui y trouvent un
+   environnement adéquat pour éprouver différentes architectures
+   adaptatives^[51].
+
+Transports[modifier | modifier le code]
+
+   Article détaillé : véhicule autonome.
+
+   Des contrôleurs logiques flous ont été développés pour les boîtes de
+   vitesses automatiques dans les automobiles. Par exemple, l'Audi TT
+   2006, Volkswagen Touareg et VW Caravell disposent de la transmission
+   DSP qui utilise la logique floue. Un certain nombre de variantes de
+   Škoda (Škoda Fabia) incluent également un contrôleur Fuzzy Logic.
+
+   Les voitures d'aujourd'hui ont maintenant des fonctions d'aide à la
+   conduite basées sur l'IA telles que le stationnement automatique et les
+   commandes de croisière avancées. L'intelligence artificielle a été
+   utilisée pour optimiser les applications de gestion du trafic, ce qui
+   réduit les temps d'attente, la consommation d'énergie et les émissions
+   jusqu'à 25 %. À l'avenir, des voitures entièrement autonomes seront
+   développées. L'IA dans les transports devrait fournir un transport sûr,
+   efficace et fiable tout en minimisant l'impact sur l'environnement et
+   les communautés. Le principal défi pour développer cette IA est le fait
+   que les systèmes de transport sont intrinsèquement des systèmes
+   complexes impliquant un très grand nombre de composants et de parties
+   différentes, chacun ayant des objectifs différents et souvent
+   contradictoires^[55].
+
+Robots conversationnels[modifier | modifier le code]
+
+   Les techniques d'interprétation et de production de texte issues de
+   l'intelligence artificielle permettent la mise an point de robots
+   conversationnels toujours plus performants, évoqués plus haut.
+
+   Plusieurs projets cherchent à « réactiver » des personnes décédées, ou
+   du moins à simuler leur présence, en leur permettant de converser avec
+   leurs proches en piochant leurs tournures de phrases, leurs opinions,
+   leurs souvenirs, dans une base de données constituée de leur
+   vivant^[56].
+
+Autres[modifier | modifier le code]
+
+   Divers outils d'intelligence artificielle sont également largement
+   déployés dans les domaines de la sécurité intérieure, de la
+   reconnaissance vocale et textuelle, de l'exploration de données et du
+   filtrage du courrier indésirable par courrier électronique. Des
+   applications sont également développées pour la reconnaissance
+   gestuelle (compréhension de la langue des signes par les machines), la
+   reconnaissance vocale individuelle, la reconnaissance vocale globale
+   (provenant de diverses personnes dans une pièce bruyante), la
+   reconnaissance faciale pour l'interprétation des émotions et les
+   signaux non verbaux. D'autres applications sont la navigation par
+   robot, l'évitement d'obstacles et la reconnaissance
+   d'objets.^[réf. nécessaire]
+
+Notes et références[modifier | modifier le code]
+
+    1. ↑ (en) United States, National Science and Technology Council –
+       Committee on Technology. Executive Office of the President,
+       Preparing for the future of artificial intelligence, 2016.
+    2. ↑ (en) Sean Gallagher, « AI bests Air Force combat tactics experts
+       in simulated dogfights », Ars Technica,‎ 29 juin 2016 (lire en
+       ligne, consulté le 18 novembre 2016).
+    3. ↑ (en) Randolph M. Jones, John E. Laird, Paul E. Nielsen, Karen J.
+       Coulter, Patrick Kenny et Frank V. Koss, « Automated Intelligent
+       Pilots for Combat Flight Simulation », AI Magazine, vol. 20,
+       n^o 1,‎ 15 mars 1999, p. 27 (ISSN 0738-4602, lire en ligne).
+    4. ↑ (en) The Story of Self-Repairing Flight Control Systems. NASA
+       Dryden. (April 2003). Retrieved on 2016-08-25.
+    5. ↑ (en) « Flight Demonstration Of X-33 Vehicle Health Management
+       System Components On The F/A-18 Systems Research Aircraft ».
+    6. ↑ (en) Peter J. Baomar, Haitham et Bentley, « An Intelligent
+       Autopilot System that learns flight emergency procedures by
+       imitating human pilots », Computational Intelligence (SSCI) 2016
+       IEEE Symposium Series,‎ 2016, p. 1-9.
+    7. ↑ Russell et Norvig 2003, p. 15.
+    8. ↑ (en) « Google AI creates its own ‘child’ bot », The Independent,‎
+       5 décembre 2017 (lire en ligne, consulté le 5 février 2018).
+    9. ↑ (en) Rita Yi Man Li, Lingxi Song, Bo Li et M. James, « Predicting
+       Carpark Prices Indices in Hong Kong Using AutoML », Computer
+       Modeling in Engineering & Sciences, vol. 134, n^o 3,‎ 2022,
+       p. 2247–2282 (ISSN 1526-1492 et 1526-1506,
+       DOI 10.32604/cmes.2022.020930, lire en ligne, consulté le 29 avril
+       2023).
+   10. ↑ (en) Andreas Kaplan, Higher Education at the Crossroads of
+       Disruption : The University of the 21st century, Emerald, avril
+       2021 (ISBN 9781800715042, lire en ligne).
+   11. ↑ (en) 2015-2016 Study Panel, Artificial intelligence and life in
+       2030, université Stanford, coll. « One hundred year study on
+       artificial intelligence », septembre 2016 (résumé, lire en ligne
+       [PDF]), « Education », p. 33.
+   12. ↑ (en) « Algorithmic Trading », sur Investopedia.
+   13. ↑ (en) « Beyond Robo-Advisers: How AI Could Rewire Wealth
+       Management ».
+   14. ↑ (en) « Kensho's AI For Investors Just Got Valued At Over $500
+       Million In Funding Round From Wall Street ».
+   15. ↑ (en) « Five Best AI-Powered Chatbot Apps ».
+   16. ↑ (en) « Is Artificial Intelligence the Way Forward for Personal
+       Finance? ».
+   17. ↑ (en) « Machine learning in finance applications ».
+   18. ↑ « Machine Learning Is the Future of Underwriting, But Startups
+       Won’t be Driving It ».
+   19. ↑ (en) « ZestFinance Introduces Machine Learning Platform to
+       Underwrite Millennials and Other Consumers with Limited Credit
+       History ».
+   20. ↑ (en) « World Robotics 2015 Industrial Robots », sur International
+       Federation of Robotics (version du 27 mars 2016 sur Internet
+       Archive).
+   21. ↑ (en) T. R. Reed, N. E. Reed et P. Fritzson, « Heart sound
+       analysis for symptom detection and computer-aided diagnosis »,
+       Simulation Modelling Practice and Theory, vol. 12, n^o 2,‎ 2004,
+       p. 129 (DOI 10.1016/j.simpat.2003.11.005).
+   22. ↑ (en) A. Yorita et N. Kubota, « Cognitive Development in Partner
+       Robots for Information Support to Elderly People », IEEE
+       Transactions on Autonomous Mental Development, vol. 3, n^o 1,‎ 1^er
+       mars 2011, p. 64–73 (ISSN 1943-0604, DOI 10.1109/TAMD.2011.2105868,
+       lire en ligne).
+   23. ↑ (en-US) « Artificial Intelligence Will Redesign Healthcare – The
+       Medical Futurist », The Medical Futurist,‎ 4 août 2016 (lire en
+       ligne, consulté le 18 novembre 2016).
+   24. ↑ (en) David D. Luxton, « Artificial Intelligence in Psychological
+       Practice: Current and Future Applications and Implication »,
+       Professional Psychology: Research and Practice, vol. 45, n^o 5,‎
+       2014, p. 332 (DOI 10.1037/a0034559).
+   25. ↑ (en) « From Virtual Nurses To Drug Discovery: 90+ Artificial
+       Intelligence Startups In Healthcare », CB Insights (blog),‎ 31 août
+       2016 (lire en ligne, consulté le 18 novembre 2016).
+   26. ↑ Alexandre Boero, « La police britannique travaille sur une IA qui
+       sera capable de devancer votre crime », sur Clubic, 1543779744
+       (consulté le 27 janvier 2019).
+   27. ↑ « Justice Prédictive : de l'idée à la réalité », sur
+       justice-predictive.com (consulté le 27 janvier 2019).
+   28. ↑ (en) « Video Recognition API of Valossa » (consulté le 8 février
+       2018).
+   29. ↑ Sylvain Biget, « Une intelligence artificielle pour mettre à jour
+       Wikipédia », sur Futura (consulté le 7 décembre 2023).
+   30. ↑ (en) Jacqui Cheng, « Virtual composer makes beautiful music—and
+       stirs controversy », Ars Technica,‎ 30 septembre 2009 (lire en
+       ligne).
+   31. ↑ (en) US Patent #7696426 https://www.google.com/patents/US7696426
+   32. ↑ Michel Rochon, Le cerveau et la musique, 2018 p. 164.
+   33. ↑ SACEM Database,
+       https://repertoire.sacem.fr/resultats?filters=parties&query=aiva&nb
+       Works=20)
+   34. ↑ (en) G Requena, C Sanchez, JL Corzo-Higueras et S Reyes-Alvarado,
+       « Melomics music medicine (M^3) to lessen pain perception during
+       pediatric prick test procedure », Pediatric Allergy and Immunology,
+       vol. 25, n^o 7,‎ 2014, p. 721 (PMID 25115240,
+       DOI 10.1111/pai.12263).
+   35. ↑ (en) Aaron Souppouris, « Google's Magenta project will see if AIs
+       can truly make art », Engadget,‎ 23 mai 2016 (lire en ligne).
+   36. ↑ (en) « Watson Beat », sur GitHub.
+   37. ↑ (en) Matt Jancer, « Songs in the Key of AI », Wired,‎ 17 mai 2018
+       (lire en ligne).
+   38. ↑ (en) « Leading health payer bolsters insights with NLG for
+       business intelligence », Narrative Science.
+   39. ↑ (en) Alexander Eule, « Big Data and Yahoo's Quest for Mass
+       Personalization », sur Barron's.
+   40. ↑ (en) Sam Kirkland, « ‘Robot’ to write 1 billion stories in 2014 —
+       but will you know it when you see it? », sur Poynter.
+   41. ↑ (en) Henry Williams, « AI online publishing service Echobox
+       closes $3.4m in fundin g », Startups.co.uk (en),‎ 4 juillet 2016
+       (lire en ligne, consulté le 21 juillet 2016).
+   42. ↑ (en) Mark Smith, « So you think you chose to read this
+       article? », BBC,‎ 22 juillet 2016 (lire en ligne, consulté le 27
+       juillet 2016).
+   43. ↑ (en) « Archived copy » [archive du 12 avril 2013] (consulté le 11
+       mars 2013).
+   44. ↑ (en-US) « A Japanese AI program just wrote a short novel, and it
+       almost won a literary prize », Digital Trends,‎ 23 mars 2016 (lire
+       en ligne, consulté le 18 novembre 2016).
+   45. ↑ ^a b et c (en) Alisa Kongthon, Chatchawal Sangkeettrakarn,
+       Sarawoot Kongyoung and Choochart Haruechaiyasak, Implementing an
+       online help desk system based on conversational agent Authors,
+       MEDES 09 Proceedings of the International Conference on Management
+       of Emergent Digital EcoSystems, ACM New York, 2009,
+       (ISBN 978-1-60558-829-2), DOI 10.1145/1643823.1643908.
+   46. ↑ (en) Sara Ashley O'Brien, « Is this app the call center of the
+       future? », CNN, 12 janvier 2016 (consulté le 26 septembre 2016).
+   47. ↑ (en) Jack Clark jackclarkSF, « New Google AI Brings Automation to
+       Customer Service », Bloomberg.com,‎ 20 juillet 2016 (lire en ligne,
+       consulté le 18 novembre 2016).
+   48. ↑ (en) « Success Story », sur The OR Society, archive du 21 mars
+       2005 (version du 21 mars 2005 sur Internet Archive).
+   49. ↑ (en) « How artificial intelligence is moving from the lab to your
+       kid’s playroom », sur The Washington Post (consulté le 18 novembre
+       2016).
+   50. ↑ ^a b et c (en) Game AI: The State of the Industry, Part Two,
+       David C. Pottinger, John E. Laird, Gamasutra, 8 novembre 2000.
+   51. ↑ ^a b et c Gabriel Robert, MHiCS, une architecture de sélection de
+       l'action motivationnelle et hiérarchique à systèmes de classeurs
+       pour personnages non joueurs adaptatifs (thèse de doctorat), 2005
+       (présentation en ligne).
+   52. ↑ ^a et b (en) Game AI: The State of the Industry, Steven Woodcock,
+       Gamasutra, 1^er novembre 2000.
+   53. ↑ ^a b et c (en) Game AI: The State of the Industry, Steve
+       Woodcock, Gamasutra, 1998.
+   54. ↑ Aiseek.
+   55. ↑ (en) Michael D. Meyer, « Artificial Intelligence in
+       Transportation Information for Application », Transportation
+       Research Circular,‎ janvier 2007 (lire en ligne [PDF]).
+   56. ↑ Vinciane Despret, « Ne pas oublier les morts », dans Rhizome,
+       vol. 64 : Ces morts qui existent, Orspere-Samdarra, 2017
+       (DOI 10.3917/rhiz.064.0018, lire en ligne).
+
+Voir aussi[modifier | modifier le code]
+
+Bibliographie[modifier | modifier le code]
+
+     * (en) Stuart J. Russell et Peter Norvig, Artificial Intelligence: A
+       Modern Approach, Prentice Hall, 2003 (ISBN 0-13-790395-2, lire en
+       ligne)
+     * (en) Ray Kurzweil, The Singularity is Near: When Humans Transcend
+       Biology, New York, Viking, 2005 (ISBN 978-0-670-03384-3)
+     * (en) National Research Council, Funding a Revolution: Government
+       Support for Computing Research, National Academy Press, 1999
+       (ISBN 0-309-06278-0, OCLC 246584055), « Developments in Artificial
+       Intelligence »
+     * (en) M. J. Moghaddam, M. R. Soleymani et M. A. Farsi, « Sequence
+       planning for stamping operations in progressive dies », in Journal
+       of Intelligent Manufacturing, 2013, p. 1-11.
+     * Pierre Marquis, Odile Papini, Henri Prade (coordinateurs), Panorama
+       de l'Intelligence Artificielle - Ses bases méthodologiques, ses
+       développements, volume 3, « L'intelligence artificielle :
+       frontières et applications », 374 pages, Cèpaduès éditions, 2014,
+       (ISBN 9782364930438)
+
+Articles connexes[modifier | modifier le code]
+
+     * Intelligence artificielle
+     * Apprentissage automatique
+     * Apprentissage profond
+
+Liens externes[modifier | modifier le code]
+
+     *
+     *
+     * Notice dans un dictionnaire ou une encyclopédie généraliste Voir et
+       modifier les données sur Wikidata  :
+          + Britannica
+     *
+     * Applications de l'IA, sur aitopics.org
+
+     * icône décorative Portail des sciences
+     * icône décorative Portail de l'informatique théorique
+     * icône décorative Portail de la robotique
+
+   v · m
+   Intelligence artificielle (IA)
+   Concepts
+     * Histoire de l'IA
+     * Sûreté des IA(s)
+     * Intelligence artificielle : une approche moderne
+     * Hallucination (IA)
+     * Analyse prédictive
+
+           Organisation
+     * Agence francophone pour l'IA
+     * Partenariat sur l'IA
+
+   Capacités
+     * Perception artificielle
+     * Modèle de fondation
+     * Modèle des croyances transférables
+     * Grand modèle de langage
+     * IA symbolique
+     * IA générative
+     * Réseau neuronal convolutif
+     * Apprentissage automatique
+     * Apprentissage profond
+
+   Applications de l'IA
+     * Planification (IA)
+     * IA dans le jeu vidéo
+     * IA dans la santé
+     * Écriture assistée par IA
+     * Art créé par IA
+     * Véhicule autonome
+     * Diagnostic (IA)
+     * DeepL
+     * Traduction automatique
+     * ChatGPT
+
+   Philosophie morale et éthique
+     * Philosophie de l'IA
+     * Lettre ouverte sur l'IA
+     * Éthique de l'IA
+     * IA faible
+     * IA digne de confiance
+     * I.A. La Plus Grande Mutation de l'Histoire
+     * Effet IA
+     * Déclaration de Montréal pour un développement responsable de
+       l'intelligence artificielle
+     * Contrôle des capacités de l'IA
+     * Chambre chinoise
+
+   Histoire et événements
+     * Histoire de l'intelligence artificielle
+     * Logic Theorist (1955)
+     * Perceptron (1957)
+     * General Problem Solver (1959)
+     * Prolog (1972)
+     * Matchs Deep Blue contre Kasparov (1996-1997)
+     * Match AlphaGo - Lee Sedol (2016)
+
+   Science-fiction
+     * IA générale
+     * Risque de catastrophe planétaire lié à l'intelligence artificielle
+       générale
+     * IA-complet
+     * Superintelligence
+     * Anticipation (IA)
+
+          Règlementation
+     * Législation sur l'IA
+     * Réglementation de l'IA
+
+   Ce document provient de
+   « https://fr.wikipedia.org/w/index.php?title=Applications_de_l%27intell
+   igence_artificielle&oldid=210344177 ».
+   Catégorie :
+     * Intelligence artificielle
+
+   Catégories cachées :
+     * Article contenant un appel à traduction en anglais
+     * Article contenant un lien mort
+     * Article manquant de références depuis décembre 2021
+     * Article manquant de références/Liste complète
+     * Article à référence nécessaire
+     * Article manquant de références depuis juin 2020
+     * Article avec une section vide ou incomplète
+     * Page utilisant un modèle Bases inactif
+     * Page utilisant P1417
+     * Page pointant vers des bases externes
+     * Page pointant vers des dictionnaires ou encyclopédies généralistes
+     * Page utilisant le modèle Autorité inactif
+     * Portail:Sciences/Articles liés
+     * Portail:Informatique théorique/Articles liés
+     * Portail:Informatique/Articles liés
+     * Projet:Mathématiques/Articles
+     * Portail:Robotique/Articles liés
+     * Portail:Électricité et électronique/Articles liés
+     * Portail:Génie mécanique/Articles liés
+     * Portail:Technologies/Articles liés
+
+     * La dernière modification de cette page a été faite le 7 décembre
+       2023 à 19:29.
+     * Droit d'auteur : les textes sont disponibles sous licence Creative
+       Commons attribution, partage dans les mêmes conditions ; d’autres
+       conditions peuvent s’appliquer. Voyez les conditions d’utilisation
+       pour plus de détails, ainsi que les crédits graphiques. En cas de
+       réutilisation des textes de cette page, voyez comment citer les
+       auteurs et mentionner la licence.
+       Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc.,
+       organisation de bienfaisance régie par le paragraphe 501(c)(3) du
+       code fiscal des États-Unis.
+
+     * Politique de confidentialité
+     * À propos de Wikipédia
+     * Avertissements
+     * Contact
+     * Code de conduite
+     * Développeurs
+     * Statistiques
+     * Déclaration sur les témoins (cookies)
+     * Version mobile
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki
+
+     * (BUTTON) Activer ou désactiver la limitation de largeur du contenu

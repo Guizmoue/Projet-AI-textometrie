@@ -1,0 +1,736 @@
+   #alternate Modifier Wikipédia (fr) Flux Atom de Wikipédia
+
+   Aller au contenu
+
+   [ ] Menu principal
+   Menu principal
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Navigation
+     * Accueil
+     * Portails thématiques
+     * Article au hasard
+     * Contact
+
+   Contribuer
+     * Débuter sur Wikipédia
+     * Aide
+     * Communauté
+     * Modifications récentes
+     * Faire un don
+
+   Langues
+   Sur cette version linguistique de Wikipédia, les liens interlangues
+   sont placés en haut à droite du titre de l’article.
+   Aller en haut.
+   Wikipédia l'encyclopédie libre
+   Rechercher
+   ____________________
+   (BUTTON) Rechercher
+
+     * Créer un compte
+     * Se connecter
+
+   [ ] Outils personnels
+     * Créer un compte
+     * Se connecter
+
+   Pages pour les contributeurs déconnectés en savoir plus
+     * Contributions
+     * Discussion
+
+Sommaire
+
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+     * Début
+     * 1Capacités
+
+     2Principes sous-jacents
+
+     3Modalités
+
+     4Investissements financiers
+
+
+
+   5Transparence du système d'IA ?
+
+
+
+   6Vers une régulation, une réglementation et une gestion des risques
+
+
+
+   7Éléments de prospective
+
+
+
+   8Références
+
+
+
+   9Articles connexes
+
+   [ ] Basculer la table des matières
+
+Intelligence artificielle générative
+
+   [ ] 17 langues
+     * العربية
+     * বাংলা
+     * English
+     * Español
+     * فارسی
+     * עברית
+     * Italiano
+     * 日本語
+     * 한국어
+     * Português
+     * Runa Simi
+     * Русский
+     * Türkçe
+     * Українська
+     * Tiếng Việt
+     * 中文
+     * IsiZulu
+
+   Modifier les liens
+
+     * Article
+     * Discussion
+
+   [ ] français
+
+     * Lire
+     * Modifier
+     * Modifier le code
+     * Voir l’historique
+
+   [ ] Outils
+   Outils
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Actions
+     * Lire
+     * Modifier
+     * Modifier le code
+     * Voir l’historique
+
+   Général
+     * Pages liées
+     * Suivi des pages liées
+     * Téléverser un fichier
+     * Pages spéciales
+     * Lien permanent
+     * Informations sur la page
+     * Citer cette page
+     * Obtenir l'URL raccourcie
+     * Élément Wikidata
+
+   Imprimer / exporter
+     * Créer un livre
+     * Télécharger comme PDF
+     * Version imprimable
+
+   Dans d’autres projets
+     * Wikimedia Commons
+
+   Un article de Wikipédia, l'encyclopédie libre.
+   Page d’aide sur l’homonymie
+
+   Ne doit pas être confondu avec Intelligence artificielle générale.
+
+   L'intelligence artificielle générative ou IA générative (ou GenAI) est
+   un type de système d'intelligence artificielle (IA) capable de générer
+   du texte, des images ou d'autres médias en réponse à des invites (ou
+   prompts en anglais)^[1]^,^[2]. Elle est dite multimodale quand elle est
+   construite à partir de plusieurs modèles génératifs, ou d'un modèle
+   entraîné sur plusieurs types de données et qu'elle peut produire
+   plusieurs types de données. Par exemple, la version GPT-4 d'OpenAI
+   accepte les entrées sous forme de texte et/ou d'image^[3].
+
+   Elle semble avoir des applications possibles dans presque tous les
+   domaines, avec une balance des risques et des opportunités encore
+   discutée : l'IA générative est en effet aussi source d'inquiétudes et
+   des défis éthiques, techniques et socioéconomiques à la hauteur des
+   espoirs qu'elle suscite. Elle peut contribuer à des usages abusifs,
+   accidentels ou détournés, militaires notamment, à une suppression
+   massive d'emploi, à la création de nudges  Page d'aide sur l'homonymie
+   (nudging numérique)^[4], fausses nouvelles (fake news en anglais) ou de
+   deepfakes qui peuvent être utilisées pour tromper ou manipuler les
+   gens^[5]. Elle questionne aussi philosophiquement la nature de la
+   conscience, de la créativité, de la paternité^[6], et crée de nouvelles
+   interactions homme-machine. L'IA est encore peu régulée et la
+   difficulté d’évaluer la qualité et la fiabilité des contenus générés ou
+   l’impact sur la créativité et la propriété intellectuelle humaines est
+   croissante. Certains experts craignent que des IA génératives à venir
+   soient capables de manipuler les humains, d'accéder à des systèmes
+   d'armes, d'exploiter des failles de cybersécurité, voire peut-être
+   bientôt d'acquérir une forme de conscience et/ou de devenir
+   incontrôlable au point de menacer l'existence de l'humanité^[7]. Un
+   premier sommet mondial en sûreté de l'IA est organisée début novembre
+   2023 à Londres, où la création d'un équivalent du GIEC pour informer
+   sur les risques liés à l'IA a notamment été discutée^[8].
+
+Capacités[modifier | modifier le code]
+
+   Selon une analyse d’OpenAI en 2018 : « depuis 2012, la quantité de
+   calcul utilisée dans les plus grands entraînements d’IA a augmenté de
+   manière exponentielle avec un temps de doublement de 3,4 mois (en
+   comparaison, la loi de Moore avait une période de doublement de 2 ans).
+   Depuis 2012, cette métrique^[9] a augmenté de plus de 300 000 fois (une
+   période de doublement de 2 ans ne donnerait qu’une augmentation de 7
+   fois). »^[10]. Cette augmentation de la puissance de calcul a facilité
+   l’émergence d’IA génératives pouvant créer des choses originales comme
+   des images, des tableaux, de la musique ou du texte, en s'inspirant de
+   données existantes sans les copier. Elles ne se contentent pas de
+   classer les données d'entrée qu'on leur a fourni, ni de prédire des
+   données statistiquement probables ; elles génèrent des contenus
+   nouveaux dont les bases ne sont qu'en partie similaire aux bases issues
+   de données d'apprentissage qu'on leur a fourni^[11].
+
+   Les versions publiques de grands modèles d'IA générative disponibles en
+   2022/2023 produisent des contenus modulés et filtrés de manière �
+   limiter leurs biais, les contenus mésinformant, dangereux, racistes,
+   biaisés, choquants, haineux, non sollicités, les images pornographiques
+   ou sexuellement explicites^[12]^,^[13]^,^[14]^,^[15]. Au début des
+   années 2020, la puissance de calcul de l’IA a doublé tous les six à dix
+   mois, permettant aux modèles d’IA de monter en capacités à un rythme
+   exponentiel.
+
+   Les anglophones parlent de « Frontier AI » pour désigner les modèles
+   d'IA aux capacités les plus élevées et générales, et qui pourraient
+   présenter des risques nouveaux^[16]. Ce type d'IA s'est faite connaitre
+   du public par ChatGPT (et sa variante Bing Chat), un chatbot (agent
+   conversationnel programmable) construit par OpenAI à partir de ses
+   grands modèles de langage de fondation GPT-3 et GPT-4^[17], ainsi que
+   par Bard, un chatbot de Google basé sur LaMDA. D'autres modèles d'IA
+   générative incluent des systèmes artistiques d'intelligence
+   artificielle tels que Stable Diffusion, Midjourney et DALL-E^[18]. Ces
+   IA ont un très large spectre d'applications potentielles dans des
+   domaines créatifs (arts plastiques, cinéma, musique, écriture, design,
+   météo, architecture...), mais aussi dans les secteurs de la santé, de
+   la finance, des jeux vidéo et des simulateurs, dans tous les domaines
+   des sciences et techniques, des sciences sociales, de l'industrie et de
+   la connaissance. Elles ont récemment permis un bond en avant en
+   biologie moléculaire et en compréhension de phénomènes physiques
+   complexes. Elles permettent de synthétiser des visage et des voix
+   humaines réalistes. Elles offrent de nouveaux modes d'exploration
+   d'hypothèses et de scenarii (notamment depuis peu grâce à la production
+   de données synthétiques sophistiquées, issues du domaine de la
+   recherche générative assistée par IA)^[réf. nécessaire]...
+
+Principes sous-jacents[modifier | modifier le code]
+
+   Les cadres technologiques et conceptuels les plus importants pour
+   aborder l'IA générative sont en cours d’élaboration depuis un certain
+   temps^[6], mais ils n'ont vraiment abouti que dans les années 2020 �
+   plusieurs types de modèles d'IA particulièrement efficaces :
+     * les réseaux antagonistes génératifs (GAN), composés de deux
+       parties : un réseau générateur créant de nouveaux échantillons de
+       données, et un réseau discriminateur qui évalue si les échantillons
+       sont réels ou faux. Les deux réseaux sont formés ensemble dans le
+       cadre d'un processus concurrentiel, le réseau générateur essayant
+       continuellement de produire des échantillons de meilleure qualité
+       et plus réalistes, tandis que le réseau discriminateur s'efforce
+       d'identifier avec précision les faux échantillons ;
+     * les auto-encodeurs variationnels (VAE) ;
+     * les modèles de diffusion (ex. : Dall-e, Stable Diffusion)^[19] ;
+     * les transformeurs génératifs pré-entraînés (Generative Pretrained
+       Transformers, ou GPT en anglais)^[20]^,^[21], qui sont des réseaux
+       de neurones artificiels fondés sur l'architecture du transformeur,
+       pré-entraînés sur de grands ensembles de données de texte non
+       étiqueté, équipés d'un « mécanisme d'attention » et capables de
+       générer un nouveau texte de type humain^[22]^,^[23].
+
+   L'IA générative est encore loin de répondre « de manière fiable ou
+   digne de confiance, et il reste encore beaucoup de travail à faire pour
+   rendre ces sources fiables et impartiales »^[6], mais elle a des
+   applications (actuelles ou potentielles) dans des domaines aussi variés
+   que l’art, l'industrie, le jeu vidéo, la musique, la médecine, le
+   développement logiciel, le marketing, les biotechnologies, la finance,
+   la mode^[24]^,^[25]...
+
+Modalités[modifier | modifier le code]
+
+   A detailed oil painting of figures in a futuristic opera scene Théâtre
+   d'Opéra Spatial, une image générée par Midjourney
+
+   Un système d'IA générative est construit en appliquant un apprentissage
+   automatique non supervisé ou auto-supervisé à un ensemble de données.
+   Les capacités d'un système d'IA générative dépendent de la modalité ou
+   du type d'ensemble de données utilisé.
+     * Texte : les systèmes d'IA générative formés sur des mots ou des
+       jetons de mots (tokens) incluent GPT-3, LaMDA, LLaMA, BLOOM, GPT-4
+       et d'autres. Ils sont capables de traiter du langage naturel, de
+       faire de la traduction automatique et de générer du langage naturel
+       et peuvent être utilisés comme modèles de base pour d'autres
+       tâches. Les principaux ensembles de données sont BookCorpus,
+       Wikipédia et d'autres.
+     * Code : Outre les textes en langage naturel, de grands modèles de
+       langage peuvent être entraînés sur du texte en langage de
+       programmation, ce qui leur permet de générer du code source de
+       nouveaux programmes informatiques.
+     * Images : Les systèmes d'IA générative formés sur des ensembles
+       d'images avec des légendes textuelles comprennent Imagen, DALL-E,
+       Midjourney, Stable Diffusion et autres. Ils sont couramment
+       utilisés pour la génération de texte en image et le transfert de
+       style neuronal^[26]. Les jeux de données sont notamment LAION-5B et
+       d'autres.
+     * Molécules : Les systèmes d'IA générative peuvent être entraînés sur
+       des séquences d'acides aminés ou des représentations moléculaires
+       telles que SMILES représentant l'ADN ou les protéines. Ces
+       systèmes, comme AlphaFold, sont utilisés pour la prédiction de la
+       structure des protéines et la découverte de médicaments^[27]. Les
+       ensembles de données comprennent divers ensembles de données
+       biologiques.
+     * Musique : les systèmes d'IA générative tels que MusicLM peuvent
+       être formés sur les formes d'ondes sonores de la musique
+       enregistrée avec des annotations textuelles afin de générer de
+       nouveaux échantillons musicaux fondés sur des descriptions de texte
+       telles qu'« une mélodie de violon apaisante soutenue par un riff de
+       guitare distordu ».
+     * Vidéo : L'IA générative entraînée sur une vidéo annotée peut
+       générer des clips vidéo cohérents dans le temps. Des IA comme Gen1
+       par RunwayML^[28] et Make-A-Video de Meta^[29] peuvent générer des
+       vidéos de cette manière.
+     * L'IA générative est dite « unimodale » quand elle ne peut accepter
+       et créer qu'un seul type de données (du texte par exemple) ; et
+       « multimodale » quand elle peut traiter ou générer plusieurs types
+       de contenus (par exemple du texte, des images et/ou du son)^[30].
+
+Investissements financiers[modifier | modifier le code]
+
+   L'investissement dans l'IA générative a bondi, à partir du début des
+   années 2020, principalement avec de grandes entreprises telles que
+   Microsoft, Google et Baidu, mais aussi avec de nombreuses petites
+   entreprises développant des modèles d'IA générative^[1]^,^[31]^,^[32].
+
+Transparence du système d'IA ?[modifier | modifier le code]
+
+   En 2023, il est reproché aux systèmes d’ IA et notamment d'IA
+   générative de ne pas être transparents, autrement dit d'être des
+   « boites noires » dont même les développeurs de l'IA ne comprennent pas
+   le fonctionnement interne. De grands concepteurs d’IA comme OpenAI^[12]
+   et Meta^[33] ont commencé à publier des « Fiches Système »^[34] (ou
+   « System Cards », inspirées des « Model Cards », une norme largement
+   acceptée pour la documentation des modèles d’IA). Ces fiches
+   contiennent des informations sur l’architecture et le fonctionnement de
+   leurs IA : objectifs, composants, données, performances, impacts
+   potentiels d’un système d’IA et mesures d’atténuation… C’est une
+   première étape vers une documentation des systèmes d’IA, lesquels
+   combinent souvent plusieurs modèles et technologies interagissant pour
+   accomplir des tâches spécifiques.
+
+   Une étude récente laisse penser qu'il semble cependant possible de
+   rendre plus transparente cette boite noire, grâce à l’analyse de
+   Fourier appliquée aux réseaux de neurones profonds. En effet, des
+   chercheurs de l’Université Rice, après avoir formé un réseau de
+   neurones profonds à reconnaître les flux complexes d’air ou d’eau et
+   prédire comment ces flux changeraient avec le temps, lui ont ensuite
+   appliqué une analyse de Fourier (sur les équations régissant le réseau
+   de neurones). Cette méthode a révélé ce que le réseau de neurones avait
+   appris, et surtout comment il était parvenu à ces connaissances^[35].
+
+Vers une régulation, une réglementation et une gestion des risques[modifier |
+modifier le code]
+
+   Différents tests comme HELM^[36] ou MMLU^[37] permettent d'estimer les
+   capacités ou les comportements indésirables (réponses biaisées,
+   fausses, hallucinations, reprise de contenu protégé par le droit
+   d’auteur...) de grands modèles de langage.
+
+   L'Union européenne, les États-Unis et la Chine ont commencé à se doter
+   de législations sur le numérique commençant à prendre en compte l'IA,
+   mais qui s'est avérée dépassée par les progrès rapides de l'IA
+   générative.
+
+   En 2023, de nombreuses alertes ont été lancées par des pionniers du
+   deep learning (ex. : Geoffrey Hinton, Yoshua Bengio, Sam Altman ou
+   Demis Hassabis). Notamment via une demande de moratoire de 6 mois dans
+   le développement de l’IA (lancé le 28 mars par le Future of Life
+   Institute qui sera signée par plus de 30 000 personnes dont beaucoup de
+   sommités de l’IA telles que le lauréat du prix Turing Yoshua Bengio et
+   Elon Musk). Puis, en mai 2023, une déclaration du Center for AI Safety
+   (« Centre pour la sûreté de l'IA ») affirmant que « l’atténuation du
+   risque d’extinction de l’humanité lié à l’IA devrait être une priorité
+   mondiale au même titre que la prévention des pandémies et des guerres
+   nucléaires » est signée par d'éminents chercheurs ainsi que par les
+   dirigeants de OpenAI, Google DeepMind et Anthropic^[38].
+
+   Selon Heidy Khlaaf (directrice chargée de l’assurance de
+   l’apprentissage automatique chez Trail of Bits, une société de
+   recherche et de conseil en cybersécurité), les centrales nucléaires ont
+   des milliers de pages de documents pour prouver que le système ne cause
+   de tort à personne, et pour Melissa Heikkilä : « la chose la plus
+   importante que la communauté de l’IA pourrait apprendre du risque
+   nucléaire est l’importance de la traçabilité »^[39], deux choses encore
+   peu développées dans le secteur de l'IA. La réglementation de l'IA est
+   parfois comparée à la réglementation du secteur nucléaire^[40]. Sam
+   Altman (PDG d’OpenAI) a suggéré la mise en place d'un système de
+   licences, dans lequel l'entraînement de systèmes d'IA ayant des
+   capacités élevées nécessiterait l'octroi d'une licence, et pour ce
+   faire de se conformer à des exigences de sécurité (de même que les
+   opérateurs d’installations nucléaires sont tenus d’être licenciés par
+   un régulateur nucléaire)^[40]. Aidan Gomez (cofondateur de Cohere) a
+   jugé cette formule excessive et détournant l'attention de risques -
+   selon lui plus réels - de l'IA mal utilisée dans les médias sociaux et
+   la médecine^[41], de même que Yann LeCun (embauché comme scientifique
+   en chef de l’IA chez Meta, le groupe qui détient Facebook et travaille
+   à la création d'un Métavers) et Joelle Pineau (vice-présidente de la
+   recherche en IA chez Meta) qui jugent ces craintes ridicules et
+   déraisonnables, affirmant que les IAs comme ChatGPT ne sont pas encore
+   conscientes et ne peuvent donc pas selon eux manipuler ou détruire
+   l'humanité^[42]. Mais en 2023, des chercheurs d’Oxford, de Cambridge,
+   de l’Université de Toronto, de l’Université de Montréal, de Google
+   DeepMind, d’OpenAI, d’Anthropic, de plusieurs organismes de recherche �
+   but non lucratif sur l’IA et Yoshua Bengio (lauréat du prix Turing)
+   suggèrent dans un article^[43] que les créateurs des modèles d'IA les
+   plus puissants doivent pouvoir évaluer si leurs IAs ont des capacités
+   pouvant présenter des risques « extrêmes » (planification à long terme,
+   manipulation, auto-prolifération, conscience de la situation, capacités
+   à mener des cyberattaques ou à acquérir des armes notamment
+   biologiques...). Les développeurs doivent également apprendre à mesurer
+   la propension des modèles à appliquer leurs capacités à nuire (ceci
+   peut se faire grâce à des « évaluations d’alignement »). Selon eux,
+   « ces évaluations deviendront cruciales pour informer les décideurs
+   politiques et les autres parties prenantes, et pour prendre des
+   décisions responsables concernant l’entraînement, le déploiement et la
+   sécurité des modèles d'IA »^[43]^,^[39].
+
+   Aleksander Mądry (professeur d’informatique au Cadence Design Systems
+   du MIT, et directeur du Center for Deployable Machine Learning du MIT)
+   a été audité en mars 2023 par le Sous-comité sur la cybersécurité, les
+   technologies de l’information et l’innovation gouvernementale lors
+   d'une cession intitulée « Progrès de l’IA : sommes-nous prêts pour une
+   révolution technologique ? »^[44]. Selon Mądry, « nous sommes à un
+   point d’inflexion en ce qui concerne ce que l’IA du futur
+   apportera(...) le gouvernement devrait plutôt s’interroger sur
+   l’objectif et l’explicabilité des algorithmes utilisés par les
+   entreprises, en tant que précurseur à la réglementation » pour
+   s’assurer que l’IA est cohérente avec les objectifs de la société. Ce
+   serait une erreur selon lui de réglementer l’IA comme si elle était
+   humaine – par exemple en demandant à l’IA d’expliquer son raisonnement
+   et en supposant que les réponses qui en résultent sont fiables.
+
+   Concernant le risque de suppression massive d'emplois, dans le TIME,
+   Altman a annoncé qu’OpenAI aborderait en 2024 le sujet de la
+   redistribution des richesses (« OpenAI mène actuellement une étude de
+   cinq ans sur le revenu universel », qui doit se terminer en 2024)^[45].
+   Rishi Sunak (premier ministre britannique) a invité la communauté
+   internationale à Bletchey park en novembre 2023 pour un premier sommet
+   mondial en sûreté de l'IA, abordant notamment les risques existentiels
+   liés à l'IA^[46]. Sunak propose que soit créé un groupe d’experts
+   internationaux, sur le modèle du GIEC, qui serait dans un premier temps
+   chargé de publier un état des lieux de l’IA. Le 1^er novembre, la
+   Chine, les États-Unis, l’Union européenne et une vingtaine de pays ont
+   signé la déclaration de Bletchley pour un développement « sûr » de
+   l’intelligence artificielle^[47]. La veille, trois de ces pays (France,
+   Allemagne et Italie) avaient signé à Rome un accord de coopération sur
+   l'IA « dans le prolongement des efforts globaux déployés en faveur de
+   la transition numérique et écologique »^[48].
+
+Éléments de prospective[modifier | modifier le code]
+
+   L'IA générative, telle qu'elle se développe à partir de 2022 pourrait
+   évoluer vers le formes suivantes d'IA :
+    1. L'IA interactive, déjà en cours de développement, et capable
+       d'interagir avec le monde réel de manière plus complexe, en
+       collaborant avec d'autres logiciels, des machines ou des robots.
+       Pour Mustafa Suleyman (cofondateur de DeepMind et ex-
+       vice-président des produits et des politiques d’IA de Google),
+       interrogé par la MIT Technology Review (septembre 2023) c'est
+       l'étape qui suivra l'IA générative, avec les mêmes risques et
+       atouts mais plus difficile à contrôler en cas d'usage
+       malveillant^[49]. Pour Demis Hassabis (autre cofondateur de
+       DeepMind), elle « a le potentiel de transformer de nombreux aspects
+       de nos vies".
+    2. L'IA autonome, à ses débuts avec par exemple le véhicule autonome,
+       permettra à des machines d'accomplir des tâches sans intervention
+       humaine. Elle semble pouvoir notamment concerner les transports, la
+       santé et la sécurité.
+    3. L'IA consciente, généralement considérée comme une possibilité
+       encore lointaine, serait capable d'une forme de ressenti des
+       émotions et d'avoir une conscience de soi. C'est une technologie
+       controversée, qui soulève des questions éthiques et philosophiques
+       complexes.
+
+Références[modifier | modifier le code]
+
+    1. ↑ ^a et b (en) Erin Griffith et Cade Metz, « Anthropic Said to Be
+       Closing In on $300 Million in New A.I. Funding », The New York
+       Times, 27 janvier 2023 (consulté le 14 mars 2023)
+    2. ↑ (en) Nate Lanxon, Dina Bass et Jackie Davalos, « A Cheat Sheet to
+       AI Buzzwords and Their Meanings », Bloomberg News,‎ 10 mars 2023
+       (lire en ligne, consulté le 14 mars 2023)
+    3. ↑ « Explainer: What is Generative AI, the technology behind
+       OpenAI's ChatGPT? », Reuters,‎ 17 mars 2023 (lire en ligne,
+       consulté le 17 mars 2023)
+    4. ↑ (en) Julia Dhar, Allison Bailey, Stéphanie Mingardon et Jennifer
+       Tankersley, « The Persuasive Power of the Digital Nudge », sur BCG
+       Global, 8 janvier 2021 (consulté le 9 novembre 2023)
+    5. ↑ Ahona Rudra, « Risques de cybersécurité liés à l'IA générative »,
+       sur powerdmarc.com, 26 juillet 2023 (consulté le 27 août 2023)
+    6. ↑ ^a b et c (en) Rachel Gordon, « MIT CSAIL (Laboratoire
+       d’Informatique et d’Intelligence Artificielle) researchers discuss
+       frontiers of generative AI », sur MIT News, 12 avril 2023 (consulté
+       le 31 octobre 2023)
+    7. ↑ (en) Will Douglas Heaven, « How existential risk became the
+       biggest meme in AI », MIT Technology Review,‎ 19 juin 2023 (lire en
+       ligne, consulté le 31 octobre 2023)
+    8. ↑ Alexandre Piquard, « Intelligence artificielle : au sommet de
+       Londres, PDG et dirigeants face au défi de la régulation », Le
+       Monde.fr,‎ 2 novembre 2023 (lire en ligne, consulté le 9 novembre
+       2023)
+    9. ↑ En général, le petaflop/jour est utilisé comme métrique. Un
+       petaflop-jour (pf-jour) consiste à effectuer 10^15 opérations de
+       réseau neuronal par seconde pendant une journée, soit un total
+       d’environ 10^20 opérations. C’est une unité de mesure pratique,
+       similaire au kW/h pour l’énergie. Plutôt que les FLOPS théoriques
+       maximaux du matériel, on cherche à estimer le nombre réel
+       d’opérations faites ; additions et multiplications sont comptées
+       comme des opérations distinctes, et on ignore les modèles
+       d’ensemble. Sur cette période, le temps de doublement pour la ligne
+       de meilleure adéquation est de 3,4 mois.
+   10. ↑ (en) « AI and compute », sur openai.com, 16 mai 2018 (consulté le
+       9 novembre 2023)
+   11. ↑ (en) Adam Pasick, « Artificial Intelligence Glossary: Neural
+       Networks and Other Terms Explained », The New York Times,‎ 27 mars
+       2023 (lire en ligne, consulté le 22 avril 2023)
+   12. ↑ ^a et b (en) « DALL·E 3 system card », sur openai.com, 3 octobre
+       2023 (consulté le 9 novembre 2023)
+   13. ↑ (en) Charlotte Bird, Eddie L. Ungless et Atoosa Kasirzadeh,
+       « Typology of Risks of Generative Text-to-Image Models », AAAI/ACM
+       Conference on AI, Ethics, and Society,‎ 2023 (arXiv 2307.05543)
+   14. ↑ (en) Abeba Birhane, Vinay Uday Prabhu et Emmanuel Kahembwe,
+       « Multimodal datasets: misogyny, pornography, and malignant
+       stereotypes », Arxiv,‎ 5 octobre 2021 (arXiv 2110.01963)
+   15. ↑ (en) Jaemin Cho, Abhay Zala et Mohit Bansal, « DALL-Eval: Probing
+       the Reasoning Skills and Social Biases of Text-to-Image Generation
+       Models », ICCV 2023,‎ 2022 (arXiv 2202.04053)
+   16. ↑ (en) « World leaders gather at UK summit aiming to tackle
+       'frontier AI' risks », sur France 24, 1^er novembre 2023 (consulté
+       le 9 novembre 2023)
+   17. ↑ (en) Cade Metz, « OpenAI Plans to Up the Ante in Tech’s A.I.
+       Race », The New York Times,‎ 14 mars 2023 (ISSN 0362-4331, lire en
+       ligne, consulté le 9 novembre 2023)
+   18. ↑ (en) Roose, « A Coming-Out Party for Generative A.I., Silicon
+       Valley's New Craze », The New York Times, 21 octobre 2022 (consulté
+       le 14 mars 2023)
+   19. ↑ (en) Prafulla Dhariwal et Alex Nichol, « Diffusion Models Beat
+       GANs on Image Synthesis », NeurIPS,‎ 2021 (arXiv 2105.05233)
+   20. ↑ (en) Luhui Hu, « Generative AI and Future », sur Medium, 15
+       novembre 2022 (consulté le 9 novembre 2023)
+   21. ↑ (en) « Generative Artificial Intelligence: Trends and
+       Prospects », sur ieeexplore.ieee.org (consulté le 9 novembre 2023)
+   22. ↑ (en) « Generative AI: a game-changer society needs to be ready
+       for », sur World Economic Forum, 9 janvier 2023 (consulté le 9
+       novembre 2023)
+   23. ↑ (en) Billy Perrigo, « The A to Z of Artificial Intelligence »,
+       Time,‎ 13 avril 2023 (lire en ligne, consulté le 2 novembre 2023).
+   24. ↑ (en) « Don't fear an AI-induced jobs apocalypse just yet », The
+       Economist, 6 mars 2023 (consulté le 14 mars 2023)
+   25. ↑ (en) Holger Harreis, Theodora Koullias, Roger Roberts et Kimberly
+       Te, « Generative AI: Unlocking the future of fashion »
+   26. ↑ (en) Aditya Ramesh, Mikhail Pavlov, Gabriel Goh et Scott Gray,
+       « Zero-Shot Text-to-Image Generation », Proceedings of the 38th
+       International Conference on Machine Learning, PMLR,‎ 1^er juillet
+       2021, p. 8821–8831 (arXiv 2102.12092, lire en ligne, consulté le 9
+       novembre 2023)
+   27. ↑ (en) Will Douglas Heaven, « AI is dreaming up drugs that no one
+       has ever seen. Now we've got to see if they work », MIT Technology
+       Review, Massachusetts Institute of Technology, 15 février 2023
+       (consulté le 15 mars 2023)
+   28. ↑ (en) Cade Metz, « Instant Videos Could Represent the Next Leap in
+       A.I. Technology », The New York Times, 4 avril 2023
+   29. ↑ (en) Queenie Wong, « Facebook Parent Meta's AI Tool Can Create
+       Artsy Videos From Text », cnet.com, 29 septembre 2022 (consulté le
+       4 avril 2023)
+   30. ↑ (en) Arham Islam, « A History of Generative AI: From GAN to
+       GPT-4 », sur MarkTechPost, 21 mars 2023 (consulté le 9 novembre
+       2023)
+   31. ↑ (en) « The race of the AI labs heats up », The Economist, 30
+       janvier 2023 (consulté le 14 mars 2023)
+   32. ↑ (en) June Yang et Burak Gokturk, « Google Cloud brings generative
+       AI to developers, businesses, and governments », 14 mars 2023
+   33. ↑ ex. : (en) « System Cards, a new resource for understanding how
+       AI systems work », sur ai.meta.com (consulté le 2 novembre 2023)
+   34. ↑ (en) Margaret Mitchell, Simone Wu, Andrew Zaldivar et Parker
+       Barnes, « Model Cards for Model Reporting », ACM Conference on
+       Fairness, Accountability, and Transparency, ACM,‎ 29 janvier 2019,
+       p. 220–229 (ISBN 978-1-4503-6125-5, DOI 10.1145/3287560.3287596,
+       arXiv 1810.03993, lire en ligne, consulté le 2 novembre 2023)
+   35. ↑ (en) Charles Q. Choi, « 200-Year-Old Math Opens Up AI’s
+       Mysterious Black Box - IEEE Spectrum », sur spectrum.ieee.org, 25
+       février 2023 (consulté le 28 octobre 2023)
+   36. ↑ (en) Sharon Goldman, « Stanford debuts first AI benchmark to help
+       understand LLMs », sur VentureBeat, 17 novembre 2022 (consulté le 9
+       décembre 2023)
+   37. ↑ (en) Matthew Sparkes, « Google says its Gemini AI outperforms
+       both GPT-4 and expert humans », sur New Scientist, 6 décembre 2023
+       (consulté le 9 décembre 2023)
+   38. ↑ « L'IA pourrait poser un « risque d'extinction » pour l'humanité,
+       affirment 350 experts », sur Les Echos, 30 mai 2023 (consulté le 9
+       novembre 2023)
+   39. ↑ ^a et b (en) Melissa Heikkilä, « To avoid AI doom, learn from
+       nuclear safety », MIT Technology Review,‎ 6 juin 2023 (lire en
+       ligne, consulté le 31 octobre 2023)
+   40. ↑ ^a et b (en) Heidy Khlaaf, « How AI Can Be Regulated Like Nuclear
+       Energy », sur TIME, 24 octobre 2023 (consulté le 2 novembre 2023)
+   41. ↑ (en) George Hammond, « Aidan Gomez: AI threat to human existence
+       is ‘absurd’ distraction from real risks », sur Financial Times, 16
+       juin 2023 (consulté le 1^er novembre 2023)
+   42. ↑ (en) Melissa Heikkilä, « Meta’s AI leaders want you to know fears
+       over AI existential risk are “ridiculous” », sur MIT Technology
+       Review, 20 juin 2023 (consulté le 1^er novembre 2023)
+   43. ↑ ^a et b (en) Toby Shevlane, Sebastian Farquhar, Ben Garfinkel et
+       Mary Phuong, « Model evaluation for extreme risks », Arxiv,‎ 2023
+       (DOI 10.48550/ARXIV.2305.15324, arXiv 2305.15324)
+   44. ↑ (en) « Advances in AI: Are We Ready For a Tech Revolution? », sur
+       United States House Committee on Oversight and Accountability, 25
+       octobre 2023 (consulté le 31 octobre 2023)
+   45. ↑ (en) Billy Perrigo, « OpenAI Could Quit Europe Over New AI Rules,
+       CEO Warns », sur Time, 24 mai 2023 (consulté le 2 novembre 2023)
+   46. ↑ « Intelligence artificielle : « Des millions de personnes vont
+       bientôt perdre leur travail » », sur Le Point, 3 novembre 2023
+       (consulté le 9 novembre 2023)
+   47. ↑ « Les Etats-Unis, la Chine et l'UE signent une première
+       déclaration mondiale sur les risques de l'IA », sur BFMTV (consulté
+       le 9 novembre 2023)
+   48. ↑ Olivier Tosseri, « L'Italie, l'Allemagne et la France renforcent
+       leur coopération dans l'IA », sur Les Echos, 31 octobre 2023
+       (consulté le 9 novembre 2023)
+   49. ↑ (en) Will Douglas Heaven, « DeepMind’s cofounder: Generative AI
+       is just a phase. What’s next is interactive AI. », MIT Technology
+       Review,‎ 15 septembre 2023 (lire en ligne, consulté le 1^er
+       novembre 2023)
+
+Articles connexes[modifier | modifier le code]
+
+     * Arts de l'intelligence artificielle
+     * Recherche générative assistée par intelligence artificielle
+     * Réseau antagoniste génératif
+     * Transformateur génératif pré-entraîné
+     * Grand modèle de langage
+     * Google Gemini
+     * Falcon 180B
+
+     * icône décorative Portail de l’informatique
+     * icône décorative Portail de l’écriture
+     * icône décorative Portail des années 2020
+     * icône décorative Portail de l’imagerie numérique
+
+   v · m
+   Intelligence artificielle (IA)
+   Concepts
+     * Histoire de l'IA
+     * Sûreté des IA(s)
+     * Intelligence artificielle : une approche moderne
+     * Hallucination (IA)
+     * Analyse prédictive
+
+           Organisation
+     * Agence francophone pour l'IA
+     * Partenariat sur l'IA
+
+   Capacités
+     * Perception artificielle
+     * Modèle de fondation
+     * Modèle des croyances transférables
+     * Grand modèle de langage
+     * IA symbolique
+     * IA générative
+     * Réseau neuronal convolutif
+     * Apprentissage automatique
+     * Apprentissage profond
+
+   Applications de l'IA
+     * Planification (IA)
+     * IA dans le jeu vidéo
+     * IA dans la santé
+     * Écriture assistée par IA
+     * Art créé par IA
+     * Véhicule autonome
+     * Diagnostic (IA)
+     * DeepL
+     * Traduction automatique
+     * ChatGPT
+
+   Philosophie morale et éthique
+     * Philosophie de l'IA
+     * Lettre ouverte sur l'IA
+     * Éthique de l'IA
+     * IA faible
+     * IA digne de confiance
+     * I.A. La Plus Grande Mutation de l'Histoire
+     * Effet IA
+     * Déclaration de Montréal pour un développement responsable de
+       l'intelligence artificielle
+     * Contrôle des capacités de l'IA
+     * Chambre chinoise
+
+   Histoire et événements
+     * Histoire de l'intelligence artificielle
+     * Logic Theorist (1955)
+     * Perceptron (1957)
+     * General Problem Solver (1959)
+     * Prolog (1972)
+     * Matchs Deep Blue contre Kasparov (1996-1997)
+     * Match AlphaGo - Lee Sedol (2016)
+
+   Science-fiction
+     * IA générale
+     * Risque de catastrophe planétaire lié à l'intelligence artificielle
+       générale
+     * IA-complet
+     * Superintelligence
+     * Anticipation (IA)
+
+          Règlementation
+     * Législation sur l'IA
+     * Réglementation de l'IA
+
+   Ce document provient de
+   « https://fr.wikipedia.org/w/index.php?title=Intelligence_artificielle_
+   générative&oldid=210401634 ».
+   Catégories :
+     * Apprentissage automatique
+     * Réseau de neurones artificiels
+     * Intelligence artificielle
+     * Culture Internet
+
+   Catégories cachées :
+     * Page contenant un lien à préciser vers une page d'homonymie
+     * Article à référence nécessaire
+     * Portail:Informatique/Articles liés
+     * Portail:Technologies/Articles liés
+     * Portail:Sciences/Articles liés
+     * Portail:Écriture/Articles liés
+     * Portail:Années 2020/Articles liés
+     * Portail:XXIe siècle/Articles liés
+     * Portail:Imagerie numérique/Articles liés
+
+     * La dernière modification de cette page a été faite le 9 décembre
+       2023 à 22:49.
+     * Droit d'auteur : les textes sont disponibles sous licence Creative
+       Commons attribution, partage dans les mêmes conditions ; d’autres
+       conditions peuvent s’appliquer. Voyez les conditions d’utilisation
+       pour plus de détails, ainsi que les crédits graphiques. En cas de
+       réutilisation des textes de cette page, voyez comment citer les
+       auteurs et mentionner la licence.
+       Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc.,
+       organisation de bienfaisance régie par le paragraphe 501(c)(3) du
+       code fiscal des États-Unis.
+
+     * Politique de confidentialité
+     * À propos de Wikipédia
+     * Avertissements
+     * Contact
+     * Code de conduite
+     * Développeurs
+     * Statistiques
+     * Déclaration sur les témoins (cookies)
+     * Version mobile
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki
+
+     * (BUTTON) Activer ou désactiver la limitation de largeur du contenu

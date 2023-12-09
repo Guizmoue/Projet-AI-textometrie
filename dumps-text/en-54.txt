@@ -113,11 +113,13 @@ Special Reports
           + One Health approach: Time for implementation
 
 Promoted Content
+          + Better prices are not enough: good procurement practices are
+            essential to ending povertyand deforestation in cocoa value
+            chains, reveals new paper
+          + Secrecy in international fisheries management: bad news for
+            our oceans?
           + Primary Food Processors and the EU’s agri-food chain: driving
             sustainability and food security
-          + Decarbonising European Fertilizer Production – Pathways to
-            Sustainable Food
-          + Empowering next generations through the power of whole grain
      * Economy
 
 Economy
@@ -141,17 +143,12 @@ Special Reports
           + European resilience and opportunities in the global economy
           + Financing the social economy
 
-Events
-          + 06 December - Media Partnership: Sustainable taxes and
-            economic growth post-Covid – The role for European
-            multinational companies
-
 Promoted Content
+          + Trump, Tariffs, and the Future of the Transatlantic
+            Relationship
+          + Skills are the essential ingredient to drive EU economic
+            growth
           + Securing workers’ rights in the AI revolution
-          + Access to payment systems under PSD3 needs to be inclusive,
-            fair and unambiguous
-          + Take us away from the fiscal edge: Europe needs investment now
-            or will face deindustrialisation
      * Energy & Environment
 
 Energy & Environment
@@ -193,7 +190,7 @@ Featured Content
          ______________________________________________________________
 
 Special Reports
-          + Conserving EU nature: Mitigating climate change and
+          + Conserving nature in Europe: Mitigating climate change and
             biodiversity loss
           + Forests, nature and carbon removals in Europe
           + Energy efficiency: Taking Europe to the next level
@@ -201,9 +198,10 @@ Special Reports
           + Lithium: Driving Europe’s future mobility
 
 Promoted Content
+          + Building Europe’s Renewable Energy Future
+          + Time for Member States to secure an ambitious, yet realistic
+            EU packaging law
           + Cementing Europe’s Future: Buildings for a Net Zero Age
-          + Tackling the climate problem together
-          + What Christmas trees can teach us about fair supply chains
      * Global Europe
 
 Global Europe
@@ -276,20 +274,21 @@ Featured Content
          ______________________________________________________________
 
 Special Reports
+          + Diabetes care in Europe: The path forward
           + Transplantation in the EU: From the waiting lists to
             post-transplantation journey
           + The complexity and rewards of gene treatments for rare
             diseases
           + Medicine information leaflets: Paper, digital or both?
           + Hampered access to innovative cancer drugs in Spain
-          + The threat of anaphylaxis in Europe, unmasked
 
 Promoted Content
-          + The human stories behind diabetes
-          + Only complementary recycling and reuse systems will deliver
-            viable packaging circularity in Europe
-          + Cancer therapy value assessments need renewal to keep pace
-            with rapid scientific innovation
+          + Nurturing Brilliance: Fostering Talents Within European
+            Frontiers
+          + COSMILE Europe – cosmetic ingredient information at your
+            fingertips
+          + What Europe can learn from America’s failed experiment with
+            Prohibition
      * Politics
 
 Politics
@@ -318,15 +317,10 @@ Special Reports
             opportunities
           + Liberals look to Europe’s future
 
-Events
-          + 30 November - European Political Party Views towards the
-            2024-2029 EU Agenda
-
 Promoted Content
+          + Twelve Missions for a Progressive Europe
           + Assault on the Rule of Law in Spain
           + Stronger cohesion vital for stronger cities and regions
-          + EU and international agreements: have diplomats given in to
-            Eurocrats?
      * Technology
 
 Technology
@@ -352,16 +346,17 @@ Featured Content
          ______________________________________________________________
 
 Special Reports
+          + Metaverse sees first applications to reimagine reality
           + The health of Europe’s telecom sector
           + Empowerment and protection: Building digital citizenship in
             the EU
           + Short-term rental: upcoming rules and existing trends
 
 Promoted Content
+          + Establishing the Best Foundation for Europe’s Digital Decade
+          + Spain’s Digital Take-off: Identifying Opportunities and
+            Strategic Commitments for Europe
           + Towards Sovereign AI: Europe´s greatest challenge?
-          + Parliament and Council Can Still Prevent an Own Goal on SEPs
-          + To be the fastest in the global tech race, one set of rules is
-            better than 27
      * Transport
 
 Transport
@@ -560,14 +555,14 @@ About Euractiv
 Communication Services
 
      * Communication Services at a glance
-     * Advertising at EURACTIV
-     * EURACTIV Events
+     * Advertising at Euractiv
+     * Euractiv Events
      * Euractor Membership
-     * Multimedia at EURACTIV
-     * EURACTIV European Public Projects
+     * Multimedia at Euractiv
+     * Euractiv European Public Projects
      * Yellow Academy
      * Moderations
-     * EURACTIV Intelligence
+     * Euractiv Intelligence
      __________________________________________________________________
 
 EURACTIV Network

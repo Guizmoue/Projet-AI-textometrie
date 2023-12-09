@@ -212,43 +212,40 @@ works
 
 More from Artificial Intelligence
 
-   Amazon logo - Credit: iStock
+   Juhani Hintikka - Credit: Nick-Smith
 
- Amazon to launch AI chip and chatbot named Q
+ The new battleground: Good AI v Bad AI
 
-   Wed 29 Nov 2023
-   Amazon has become the latest company to bet on generative artificial
-   intelligence (AI) solutions, announcing the launch of a new AI chatbot
-   as well as chips for AI solutions.
-   Open-access content
-   Children using computers - Credit: iStock
-
- Children aged 11 should be taught AI lessons at schools, experts say
-
-   Wed 29 Nov 2023
-   Schools should require 11-year-olds to obtain a new alternative digital
-   literacy qualification with an emphasis on AI and other modern digital
-   skills, the British Computer Society has said.
-   Open-access content
-   What did Doctor Who foretell - Credit: BBC-Archive
-
- Heroes and villains – what did Doctor Who foretell?
-
-   Thu 23 Nov 2023
-   It was 60 years ago that Doctor Who first came to our screens,
-   introducing a host of aliens with bizarre and advanced technology. But
-   was this technology as outlandish as it first seemed – and since those
-   early episodes, are we now catching up with science fiction?
+   Fri 8 Dec 2023
+   While war in Ukraine has brought Russia’s online threat into sharp
+   focus, Juhani Hintikka, CEO of Finland-based WithSecure, says cyber
+   security is a battle that’s already being fought on every front, every
+   day
    Members'-only content
-   Smartphone with AI apps - Credit: iStock
+   Book- nterview AI Battle Royale - Credit: Ashley Recanati SPringer
 
- OpenAI creates a team to assess the dangers of generative AI
+ Book Interview - AI Battle Royale by Ashley Marc Recanati
 
-   Fri 27 Oct 2023
-   The company behind ChatGPT will evaluate the possible “catastrophic
-   risks” that could come with the unchecked development of the
-   technology.
-   Open-access content
+   Thu 7 Dec 2023
+   While Industry 4.0 is poised to massively increase labour productivity,
+   the downside is that it threatens our jobs, says Ashley Marc Recanati
+   Members'-only content
+   Union flag - Credit: iStock
+
+ How will governments regulate AI
+
+   Tue 5 Dec 2023
+   So how do governments hope to tame artificial intelligence with
+   regulation – and is it even possible? Experts share their thoughts.
+   Members'-only content
+   The AI plagarism minefield - Credit: iStock
+
+ Copyright in the AI plagiarism minefield
+
+   Fri 1 Dec 2023
+   A series of legal disputes has highlighted the complex relationship
+   between artificial intelligence and copyright law.
+   Members'-only content
 
 More from Government And Politics
 
@@ -292,6 +289,32 @@ secretary says
 
 More from Legislation And Regulation
 
+   electric vehicle manufacturing - Credit: iStock
+
+ EU to delay tariffs on UK-made electric vehicles by three years
+
+   Wed 6 Dec 2023
+   EU tariffs imposed on electric vehicles (EVs) imported from the UK will
+   be suspended until the end of 2026 under new proposals from the
+   European Commission.
+   Open-access content
+   Union flag - Credit: iStock
+
+ How will governments regulate AI
+
+   Tue 5 Dec 2023
+   So how do governments hope to tame artificial intelligence with
+   regulation – and is it even possible? Experts share their thoughts.
+   Members'-only content
+   Water pipes - Credit: Shutterstock
+
+ US makes plan to replace its 9 million lead water pipes
+
+   Fri 1 Dec 2023
+   The Biden administration has proposed new regulations that will require
+   US cities to replace all of its 9.2 million lead water pipes within the
+   next 10 years.
+   Open-access content
    European Union headquarters - Credit: iStock
 
  EU agrees on new hydrogen regulation
@@ -299,39 +322,28 @@ More from Legislation And Regulation
    Wed 29 Nov 2023
    The Council of the EU and the European Parliament have reached a
    provisional agreement on future hydrogen and natural gas market rules.
-   Open-access content
-   steel factory - Credit: iStock - Betoon
-
- Steel industry urges government to cut electricity prices to stay
-competitive
-
-   Thu 16 Nov 2023
-   The government has been urged to reduce industrial electricity prices
-   or risk the UK’s steel sector becoming uncompetitive with European
-   manufacturers.
-   Open-access content
-   Female scientists holding a test tube against a UK flag - Credit:
-   Shutterstock
-
- UK to loosen restrictions to register new chemical products
-
-   Tue 14 Nov 2023
-   The government’s post-Brexit chemical regulations are expected to
-   reduce the “hazard” information that companies must provide to register
-   chemicals in the UK.
-   Open-access content
-   Outline of a young girl with a compute - Credit: Foto 40163043 © Wallky
-   | Dreamstime.com
-
- Ofcom unveils new rules to protect children online
-
-   Thu 9 Nov 2023
-   The government has issued the first draft codes of practice under the
-   controversial Online Safety Act (OSA), which became law last month.
    Open-access content
 
 More from Beatriz Valero de Urquía
 
+   Spotify logo against a black background (Image credit: Photo 188227498
+   / Business &copy; Natanael Alfredo Nemanita Ginting | Dreamstime.com)
+
+ Spotify to cut 1,500 jobs
+
+   Mon 4 Dec 2023
+   The music streaming service has announced it will lay off 17 per cent
+   of its workforce.
+   Open-access content
+   Microsoft logo in an office - Credit: iStock
+
+ Microsoft pledges £2.5bn to drive the UK’s AI sector
+
+   Fri 1 Dec 2023
+   Microsoft has announced it plans to invest £2.5bn in the UK over the
+   next three years – the largest investment the company has made in the
+   country to date.
+   Open-access content
    Dirt field green field (Image credit: Elizabeth Lies | Unsplash)
 
  COP28 launches with historic ‘loss and damage’ deal
@@ -348,61 +360,44 @@ More from Beatriz Valero de Urquía
    Thu 30 Nov 2023
    The UK has announced it will join forces with 11 Big Tech companies to
    crack down on online fraud.
-   Open-access content
-   European Union headquarters - Credit: iStock
-
- EU agrees on new hydrogen regulation
-
-   Wed 29 Nov 2023
-   The Council of the EU and the European Parliament have reached a
-   provisional agreement on future hydrogen and natural gas market rules.
-   Open-access content
-   multiple rows of solar panels in a desert - Credit: Dreamstime
-
- UAE opens giant solar plant in Abu Dhabi desert
-
-   Fri 17 Nov 2023
-   Abu Dhabi has inaugurated one of the world’s largest solar projects
-   ahead of the COP28 climate conference, which will be hosted by the UAE.
    Open-access content
 
 More from News
 
-   Dirt field green field (Image credit: Elizabeth Lies | Unsplash)
+   Dutch canal - Credit: Shutterstock
 
- COP28 launches with historic ‘loss and damage’ deal
+ Dutch canals found to be unlikely source of climate-warming methane
+emissions
 
-   Thu 30 Nov 2023
-   The world’s nations have agreed to set up a fund to compensate
-   developing countries that have suffered from the impacts of climate
-   change.
+   Fri 8 Dec 2023
+   City canal networks in the Netherlands output a surprisingly large
+   amount of methane emissions, researchers from Radboud University have
+   found.
    Open-access content
-   Phone with logos of Big Tech companies - Credit: Shutterstock
+   Hubble Space Telescope - Credit: Shutterstock
 
- UK partners with Big Tech to tackle online fraud
+ Hubble Space Telescope resumes service after worrying gyroscope glitch
 
-   Thu 30 Nov 2023
-   The UK has announced it will join forces with 11 Big Tech companies to
-   crack down on online fraud.
+   Fri 8 Dec 2023
+   Nasa will continue science operations on the Hubble Space Telescope
+   after it was temporarily suspended due to a glitch with its gyroscope.
    Open-access content
-   Amazon logo - Credit: iStock
+   hacker russia - Credit: Shutterstock
 
- Amazon to launch AI chip and chatbot named Q
+ UK accuses Russia of ‘sustained’ cyber-hacking attempts on politicians
 
-   Wed 29 Nov 2023
-   Amazon has become the latest company to bet on generative artificial
-   intelligence (AI) solutions, announcing the launch of a new AI chatbot
-   as well as chips for AI solutions.
+   Thu 7 Dec 2023
+   Russia’s intelligence agency has been accused of attempts to interfere
+   in UK politics and democratic processes through cyber attacks and by
+   targeting high-profile individuals.
    Open-access content
-   London skyline - Credit: iStock
+   Twitch game streaming platform - Credit: Shutterstock
 
- Finance sector net zero plans could be stalled by UK’s ‘mixed messages’, MPs
-warn
+ High network costs force Twitch to shut down in South Korea
 
-   Wed 29 Nov 2023
-   The government’s “mixed messages” on climate change could delay efforts
-   by the financial sector to meet net zero carbon goals, MPs on the
-   Environmental Audit Committee (EAC) have said.
+   Thu 7 Dec 2023
+   Game-streaming platform Twitch has said it will shut down in South
+   Korea due to the high costs of operating in the country.
    Open-access content
 
    View the discussion thread.

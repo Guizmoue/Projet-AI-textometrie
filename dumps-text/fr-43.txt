@@ -1,0 +1,861 @@
+   #Commentaires pour "À l’usine, au bureau, tous remplacés par des
+   robots?"
+
+   Accéder à la navigation
+
+   Accueil
+   [gb.svg]
+   Se connecter
+   S'inscrire
+   ____________________ (Submit)
+   Thèmes
+     * Vivant
+     * Matière
+     * Numérique
+     * Sociétés
+     * Terre
+     * Univers
+
+   Formats
+     * Articles
+     * Audios
+     * Diaporamas
+     * Dossiers
+     * Infographies
+     * Points de vue
+     * Vidéos
+
+   CNRS Le Journal
+   Donner du sens à la science
+
+   [logofondation.svg]
+
+Suivre
+
+     * Twitter
+     * Facebook
+     * Google
+     * Dailymotion
+     * RSS
+
+     * Rechercher
+     * Se connecter
+     * S'inscrire
+     * Mon compte
+     * Nos blogs
+
+   English version Dossier spécial Covid-19
+     * Vivant
+     * Matière
+     * Sociétés
+     * Univers
+     * Terre
+     * Numérique
+     * Mes thèmes
+
+Personnalisez votre navigation
+       Sélectionnez vos mots clefs ou thématiques favorites et créez votre
+       rubrique personnalisée
+          + Créer un compte
+          + Se connecter
+       [ ] Stay
+     * Types
+          + Articles
+          + Audios
+          + Diaporamas
+          + Dossiers
+          + Infographies
+          + Points de vue
+          + Vidéos
+       [ ] Stay
+
+   CNRS Le Journal Haut de page Nos blogs
+   ____________________ (Submit)
+   Partager l'article
+
+Sections
+
+Vous êtes ici
+
+   Accueil / Articles / À l’usine, au bureau, tous remplacés par des
+   robots?
+
+À l’usine, au bureau, tous remplacés par des robots?
+
+   Dossier
+   Paru le 28.09.2022
+   Le siècle des robots
+   Voir le dossier
+   Article
+   Ces microrobots permettent de manipuler des cellules !
+   Article
+   Voici le microrobot le plus rapide du monde
+   Article
+   Sommes-nous prêts à cohabiter avec les robots?
+   Article
+   Sept questions (très faciles) sur les robots
+   Article
+   Les robots s’installent au bloc
+   Article
+   Cinq robots au talent fou
+   Article
+   Robots : Science vs Fiction
+   Point de vue
+   Autisme et Alzheimer : des robots médiateurs ?
+   Vidéo
+   Robot à six pattes dehors
+   Ce robot a vraiment le sens de l'orientation
+   Point de vue
+   Le robot, un «animal» comme les autres ?
+   Article
+   Robots, ces machines incomprises
+   Article
+   Voici Pyrène, le nouveau robot humanoïde
+   Article
+   Six scénarios d'un monde sans travail
+   Article
+   Robot humanoïde CNRS/AIST Japon
+   Les robots humanoïdes se mettent au travail
+   Article
+   Comment les humains s’attachent aux robots
+   Vidéo
+   robot pointant du doigt face à un humain
+   L'ère des robots sociaux
+   Article
+   Les premiers pas de la robotique aérienne
+   Article
+   Les robots ont-ils le sens de l’humour ?
+   Article
+   Ava, le robot qui nous calculait trop
+   Point de vue
+   Robot Nao
+   Rire avec les robots pour mieux vivre avec
+   Point de vue
+   Robocop
+   Pour une éthique de la recherche en robotique
+   Article
+   Manipulation fine d'un objet par la main robotisée du projet Handle.
+   Rendre les robots plus saisissants
+   Diaporama
+   Robot explorant une épave sous-marine
+   Un robot archéologue pour explorer les épaves
+   Article
+   Le robot Nao
+   Quel avenir pour la robotique de service ?
+   Diaporama
+   Le robot HRP-2 est capable de planifier ses mouvements de locomotion et
+   de préhension
+   Ces robots que vous croiserez peut-être dans un laboratoire
+   Article
+   Real Humans revu par les chercheurs (1)
+   Article
+   Real Humans revu par les chercheurs (2)
+   Audio
+   Robot Berenson
+   Berenson, le robot critique d'art
+   Article
+   Robot Spencer
+   Spencer, le robot qui vous guide dans la foule
+   Article
+   L’art et l’archéologie, nouveaux horizons de l’IA
+   Article
+   Quand l’IA s’attaque à la sclérose en plaques
+   Article
+   Des logiciels experts en diagnostic médical
+   Article
+   Peut-on faire confiance à l'intelligence artificielle ?
+   Article
+   Athénan, une IA joueuse multi-championne
+   Article
+   L’IA traque le harcèlement en ligne
+   Article
+   Six scénarios d'un monde sans travail
+   Article
+   Une IA, juge de beauté des poissons tropicaux
+   Point de vue
+   Le robot, un «animal» comme les autres ?
+   Article
+   Des machines enfin intelligentes ?
+   Article
+   Voiture autonome
+   Des voitures autonomes sans frontières ?
+   Point de vue
+   Voitures autonomes: par quoi serez-vous choqués ?
+   Point de vue
+   Armes létales autonomes: de quoi parle-t-on?
+   Article
+   Demain, un ordinateur inspiré de notre cerveau?
+   Article
+   La justice à l’heure des algorithmes et du big data
+   Article
+   Les androïdes de la saga Alien sont-ils pour 2093 ?
+   Point de vue
+   Jeu de Go
+   Jeu de go : l’ordinateur plus fort que l’humain?
+   Point de vue
+   Traduire comme on joue au Go ?
+
+Vous êtes ici
+
+   Accueil / Articles / À l’usine, au bureau, tous remplacés par des
+   robots?
+   3 commentaires
+   Sociétés
+   Numérique
+   Économie
+   ^-A ^+A
+     * Imprimer
+
+   article
+
+À l’usine, au bureau, tous remplacés par des robots?
+
+   20.07.2018, par
+   Charline Zeitoun
+   Des hubots en plein travail (série télévisée « Real Humans », créée en
+   2012). Selon économistes et chercheurs en intelligence artificielle,
+   l'automatisation concernera la totalité des emplois, y compris ceux des
+   cols blancs, dès les prochaines décennies.
+   Johan Paulin/COLLECTION CHRISTOPHEL
+   Partager
+   Partager
+   Les progrès du numérique vont-ils conduire au remplacement des humains
+   par des machines en toutes tâches ? Enquête auprès de chercheurs en
+   intelligence artificielle et en économie sur l'évolution de nos emplois
+   dans dix ou vingt ans.
+
+   Cet article a été publié dans le numéro 3 de la revue « Carnets de
+   science ».
+
+   Nous roulions dans une rue, j’examinai anxieusement les policiers et
+   les agents d’entretien : c’étaient des robots. Un épicier se retourna
+   avec curiosité : c’était un robot. Je tentai de distinguer les
+   chauffeurs des voitures qui nous dépassaient : elles n’en avaient pas.
+   Face aux clients, à la banque, au restaurant, au salon de coiffure,
+   c’étaient des robots, tous, chatbots et androïdes, à roulettes ou sur
+   des jambes…
+   Cette scène imaginaire, inspirée du roman de Pierre Boulle1,
+   présage-t-elle du futur qui nous attend ? Depuis quelques années, des
+   chiffres tapageurs font les titres de la presse au sujet de
+   l’automatisation du travail, susceptible d’être effectué par des
+   machines ou des logiciels. Selon certaines études, cela concernerait
+   près d’un emploi sur deux dans les dix ou vingt prochaines années2 !
+   Après le plombier polonais, le (ro)bot autonome voleur d’emploi
+   s’invite dans les débats…
+
+Combien d’entre nous seront-ils concernés ?
+
+   « Ces études se sont notamment basées sur la créativité et la dextérité
+   manuelle requises par un emploi pour déterminer s’il est automatisable
+   ou non », commente Gregory Verdugo, chercheur au Centre d’économie de
+   la Sorbonne3. Plus fine, une étude de l’OCDE4 distingue les différentes
+   tâches d’un même emploi et tient compte du degré d’interaction avec les
+   clients ou les collègues, une capacité gourmande en adaptabilité et,
+   pour l’heure, non automatisable à 100 %. Résultat : « seulement » un
+   emploi sur dix serait menacé par la prochaine « robolution » dans les
+   pays les plus industrialisés.
+   En 2004, deux économistes de Harvard classaient la conduite parmi les
+   activités qui échapperaient aux révolutions technologiques (...). Six
+   ans plus tard, les Google Cars sillonnaient les routes californiennes.
+
+   Avec une approche similaire, l’enquête Insee/DARES5 arrive à 15 %
+   d’emplois automatisables pour la France. « Bien malin en vérité qui
+   peut prédire ce qui sera techniquement automatisable », intervient
+   Gregory Verdugo selon lequel aucun de ces chiffres ne fait sens. « En
+   2004, Frank Levy et Richard Murnane, deux économistes de Harvard,
+   classaient la conduite parmi les activités qui échapperaient aux
+   révolutions technologiques parce qu’elle réclame de s’adapter à des
+   situations non prévues. Six ans après la sortie de leur livre, les
+   Google Cars sillonnaient les routes californiennes… », illustre
+   l’économiste.
+
+   Dans cette chaîne d'assemblage de voitures Hyundai, à Montgomery, aux
+   Etats-Unis, la répartition du travail entre les humains et les machines
+   est flagrante : un seul employé semble superviser tout un parterre de
+   robots.
+
+   CNRS Le Journal (BUTTON)
+   Dans cette chaîne d'assemblage de voitures Hyundai, à Montgomery, aux
+   Etats-Unis, la répartition du travail entre les humains et les machines
+   est flagrante : un seul employé semble superviser tout un parterre de
+   robots.
+   GARY TRAMONTINA/The New York Times-REDUX-REA
+   GARY TRAMONTINA/The New York Times-REDUX-REA
+   Partager
+   Partager
+   Chacun croit qu’il n’est pas remplaçable par une vulgaire machine, mais
+   je pense qu’à long terme, on finira tous par y passer.
+
+   « Jusqu’à présent, ce sont surtout les emplois non qualifiés qui ont
+   été pourvus ou modifiés par des machines, dans les usines
+   principalement. Aujourd’hui, c’est le caractère routinier ou non d’une
+   activité qui est pris en compte, le fait de suivre une suite d’actions
+   selon un protocole strict », analyse Gilles Saint-Paul, chercheur au
+   sein de l’unité Paris-Jourdan Sciences Économiques6. Et routinier ne
+   rime pas forcément avec peu qualifié. Jardiniers et plombiers tirent
+   ainsi leur épingle du jeu, en partie grâce à la souplesse de leurs
+   gestes et à leur facilité de déplacement, bien loin de celles des
+   robots. Tandis que les cols blancs ont de quoi trembler sérieusement, �
+   commencer par les comptables jugés à l’unanimité « très automatisables
+   ».
+
+   Selon le New York Times, de nombreuses banques américaines développent
+   des « robo-advisors », logiciels qui gèrent le patrimoine et font
+   fructifier l’argent de leurs clients. Au Japon, Watson, la célèbre
+   intelligence artificielle d’IBM, remplace trente-quatre employés d’une
+   compagnie d’assurance-vie, soit un quart des effectifs. Et on teste des
+   algorithmes pour conseiller juges et avocats à partir de décennies de
+   jurisprudence ou pour distinguer entre mille une tumeur maligne. Chaque
+   jour, ou presque, de nouvelles prouesses émaillent la rubrique
+   high-tech des webzines, laissant perplexes les jeunes cadres
+   dynamiques.
+
+Remplacer aussi les chercheurs...
+
+   « Ce qui est amusant, c’est que chacun croit qu’il n’est pas
+   remplaçable par une vulgaire machine, mais je pense qu’à long terme, on
+   finira tous par y passer », soutient Serge Abiteboul, chercheur au
+   Département d’informatique de l’École normale supérieure (DI ENS)7, qui
+   imagine sans état d’âme déléguer une part importante de la recherche
+   scientifique aux intelligences artificielles (IA) du futur. « En
+   biologie par exemple, séquencer un gène était un sujet de thèse
+   acceptable il y a quelques années, maintenant c’est entièrement
+   automatisable. Et dans la plupart des domaines de recherche, une grosse
+   partie du travail est déjà faite par les machines », abonde Gilles
+   Saint-Paul, également prêt à céder son fauteuil à une IA pondeuse de
+   modèles économiques. Mais alors quid de la créativité, nécessaire dans
+   ces activités intellectuelles ?
+   En biologie par exemple, séquencer un gène était un sujet de thèse
+   acceptable il y a quelques années, or maintenant c’est entièrement
+   automatisable.
+
+   « Les programmes d’échec ou de jeu de go jouent parfois des coups
+   créatifs auxquels les humains n’auraient pas forcément pensé. La
+   création n’est pas le but principal des machines actuellement, mais
+   avec des générateurs de nombres aléatoires, elles peuvent produire des
+   quantités pharaoniques de choses qui sont ensuite triées via des
+   mécanismes de sélection : la plupart partira à la poubelle mais dans le
+   lot, il y aura des idées intéressantes », répond Gilles Saint-Paul. «
+   D’ailleurs, il y a déjà des productions artistiques réalisées par des
+   machines, en arts graphiques, en écriture de scénarios, etc. La
+   question est plutôt : aura-t-on envie de lire le roman écrit par un
+   algorithme ? », interroge Serge Abiteboul.
+
+   Qui a dit que les machines n'avaient aucune créativité ? Deep Dream,
+   l'intelligence artificielle "artiste" de Google a réinterprété cette
+   photo d'un drône.
+
+   CNRS Le Journal (BUTTON)
+   Qui a dit que les machines n'avaient aucune créativité ? Deep Dream,
+   l'intelligence artificielle "artiste" de Google a réinterprété cette
+   photo d'un drône.
+   Photo Pixabay
+   Photo Pixabay
+   Partager
+   Partager
+   Une fois qu’on comprend bien une tâche, rien n'empêche de la
+   rendre routinière.
+
+   À long terme, il n’y aurait donc pas d’obstacle théorique à une
+   automatisation totale. Il y a ainsi 50 % de chance que l’IA soit plus
+   performante que nous en toutes tâches dans quarante-cinq ans en
+   moyenne, et automatise tous les métiers dans cent vingt ans, selon les
+   352 experts en IA interrogés par une équipe d’Oxford8, qui situent la
+   rédaction d’un best-seller et la maîtrise d’une chirurgie aux alentours
+   de l’an 2050.
+
+   Quant à la gaucherie des robots ambulants, c’est un faux problème : «
+   Certes, le plombier humain se contorsionne pour atteindre les bons
+   tuyaux et boulons, mais on peut repenser et standardiser l’organisation
+   spatiale de nos installations pour que ces mouvements complexes ne
+   soient plus nécessaires », estime Raja Chatila, directeur de l’Institut
+   des systèmes intelligents et de robotique (Isir)9, faisant remarquer
+   que la méthodologie de son lave-vaisselle est totalement différente de
+   la sienne pour arriver à un résultat identique…  Idem pour les robots
+   Kiva des entrepôts de la société Amazon. Comme le choix et la
+   préhension sur les étagères des objets à expédier est un vrai
+   casse-tête pour un robot avec des bras, la société de vente a changé la
+   nature de la tâche à accomplir : les robots, sortes de « coffres �
+   roulettes », se contentent de glisser sous les étagères et de les
+   soulever pour les apporter entières à un employé (humain), qui, en bout
+   de chaîne, n’a plus qu’à lever le bras pour y prendre le bon article �
+   expédier.
+
+Rendre automatisable n'importe quelle tâche
+
+   « Le processus est repensé pour que les tâches non routinières soient
+   remplacées par des tâches routinières automatisables, dans le même
+   esprit que la chaîne d’assemblage de Henry Ford », commente Gilles
+   Saint-Paul. Selon lui, toute tâche peut se découper en une suite
+   d’actions à accomplir strictement. « La distinction routinier/non
+   routinier n’est pas immuable. Une fois qu’on comprend bien une tâche,
+   toutes peuvent devenir routinières », affirme-t-il. Dans ce cas, ne
+   faudra-t-il pas garder un humain « dans la boucle » pour prendre les
+   décisions finales, notamment en médecine et dans le domaine de la
+   justice ?
+   Même s’il faut garder quelques humains au travail pour superviser les
+   machines et prendre les décisions finales, on peut imaginer qu’à long
+   terme, on sera plus proche d’un cas limite du type un humain pour cinq
+   cents machines.
+
+   Le besoin de maintenir ainsi la machine à un traditionnel rang de
+   simple outil, inévitable condition brandie par les cols blancs en voie
+   de remplacement, laisse Gilles Saint-Paul sceptique : « Je ne suis pas
+   certain que des arguments techniques le prouvent. En revanche, il
+   faudra bien entendu considérer les problèmes d’éthique et de
+   responsabilités juridiques ou morales que cela peut poser, ainsi que
+   l’acceptation des citoyens et des consommateurs. Même s’il faut garder
+   quelques humains au travail pour superviser les machines et prendre les
+   décisions finales, on peut imaginer qu’à long terme, on sera plus
+   proche d’un cas limite du type un humain pour cinq cents machines »,
+   projette l’économiste qui a élaboré six scénarios pour un tel monde.
+
+   Dans les entrepôts de la société Amazon, les robots Kiva (ici en rouge)
+   se glissent sous les étagères et les apportent entières à un employé,
+   qui, en bout de chaîne, n’a plus qu’à y sélectionner l'article �
+   expédier.
+
+   CNRS Le Journal (BUTTON)
+   Dans les entrepôts de la société Amazon, les robots Kiva (ici en rouge)
+   se glissent sous les étagères et les apportent entières à un employé,
+   qui, en bout de chaîne, n’a plus qu’à y sélectionner l'article �
+   expédier.
+   David Paul Morris/Bloomberg via Getty Images
+   David Paul Morris/Bloomberg via Getty Images
+   Partager
+   Partager
+
+Une taxe sur les machines ?
+
+   En attendant une potentielle « robolution » totale, revenons à notre
+   avenir imminent. Un consensus émerge clairement chez les chercheurs sur
+   une idée jugée contre-productive et pour l’instant retoquée par le
+   Parlement européen : taxer les machines « voleuses10 » d’emplois. « Les
+   robots et logiciels perfectionnés sont une opportunité considérable
+   pour la croissance et l’innovation. Les taxer alors qu’ils n’ont pas
+   encore été déployés serait stupide », affirme Gilles Saint-Paul. « Si
+   seule la France met en place une taxation, elle aura un désavantage
+   compétitif par rapport à d’autres pays », enchérit Gregory Verdugo. Une
+   telle mesure pourrait provoquer une sévère vague de « délocalisation
+   robotique », alors que notre pays est généralement jugé sous-équipé et
+   en retard : 32 000 robots, contre plus du double en Italie et du triple
+   en Allemagne11.
+
+   Ensuite, ce n’est pas parce qu’une activité est robotisée qu’elle
+   n’emploie plus d’humains : les industries automobiles outre-Rhin ont
+   100 000 salariés de plus qu’il y a vingt ans12. Beaucoup d’emplois non
+   qualifiés et qualifiés vont disparaître, mais d’autres devraient être
+   créés sur les nouveaux marchés des objets connectés, des transactions
+   sécurisées ou des dispositifs médicaux, dans lesquels la France a un
+   fort potentiel à exprimer. Enfin, les pays qui ont le plus de robots
+   (Japon, Corée du Sud, Allemagne et Suède) seraient aussi ceux qui ont
+   le moins de chômage et le plus d’emplois dans l’industrie.
+   Avant l’arrivée de l’informatique, les métiers de la banque étaient
+   faiblement qualifiés (donner des petites coupures, noter les dépenses,
+   etc.). Une fois déchargés de ces tâches, ils se sont spécialisés dans
+   des activités plus qualifiées de conseil.
+
+   La technologie transformerait l’emploi plus qu’elle ne le détruit (lire
+   l'encadré plus bas). «Regardez les métiers de la banque : avant
+   l’arrivée de l’informatique, ils étaient faiblement qualifiés (donner
+   des petites coupures, noter les dépenses, etc.), reprend Gregory
+   Verdugo. Une fois déchargés de ces activités routinières et mécaniques,
+   ils se sont spécialisés dans des activités plus qualifiées de
+   conseil.» Finalement, cela nous pousse à nous spécialiser là où se
+   trouve l’avantage comparatif de l’humain par rapport à la machine. Et
+   maintenant que les algorithmes de conseil sont sur le point de les
+   surclasser, que feront banquiers et assureurs ? « Ils trouveront autre
+   chose pour améliorer le service », suppose l’économiste. Il est vrai,
+   les humains sont très doués pour créer de nouveaux besoins, il suffit
+   de voir le nombre d’applications smartphone dont on ne peut plus se
+   passer...
+
+   Au Robot Restaurant de la ville de Kunshan, ouvert en Chine en 2014, ce
+   sont des robots qui servent les plats et accueillent les clients grâce
+   à 40 phrases types.
+
+   CNRS Le Journal (BUTTON)
+   Au Robot Restaurant de la ville de Kunshan, ouvert en Chine en 2014, ce
+   sont des robots qui servent les plats et accueillent les clients grâce
+   à 40 phrases types.
+   Ji haixin / Imaginechina/AFP
+   Ji haixin / Imaginechina/AFP
+   Partager
+   Partager
+
+   Selon le Conseil d’orientation pour l’emploi, il faut ainsi se préparer
+   à ce que la nature de 50 % des emplois mute sous l’influence de l’IA.
+   Et début 2016, le Forum économique mondial estimait que plus de 2
+   millions d’emplois seraient créés d’ici à 2020 dans les domaines
+   spécialisés, tels l’informatique, les mathématiques et l’ingénierie.
+   Mais « si tous les gens qui ne sont pas complémentaires de l’IA sont
+   mis sur le côté et qu’on leur donne des jeux et du cirque, dans
+   cinquante ans nous avons Metropolis, et dans un siècle nous avons
+   Matrix », prophétise le transhumaniste Laurent Alexandre13, qui n’a
+   peut-être pas tout à fait tort sur ce point-là…
+
+Protéger les individus plutôt que les emplois
+
+   « En tout cas, il vaut mieux aider les gens à se réallouer dans un
+   autre secteur plutôt que d’empêcher la mise en place des technologies,
+   sources de richesses », insiste Gregory Verdugo. Selon lui, le discours
+   de la préservation des emplois à tout prix, exercice obligatoire du
+   politique en visite dans une usine, est plutôt vain, surtout dans les
+   secteurs en déclin à cause d’une rupture technologique (comme le disque
+   laser face aux fichiers téléchargeables sur Internet) ou d’un
+   changement de goût des consommateurs. « Il vaut mieux protéger les
+   individus que les emplois, comme l’ont très bien fait à la fin des
+   années 1990 les pays scandinaves en mettant en place des politiques de
+   formation dites de flexisécurité », illustre le chercheur. À condition
+   bien sûr qu’un vrai volet sécurité compense les concessions en matière
+   de flexibilité…
+   Le problème ne sera plus de donner du travail à tout le monde mais de
+   se répartir des richesses produites grâce à la technologie.
+
+   Et si un revenu universel de base s’impose pendant les années de
+   transition, afin de maintenir la cohésion sociale, il ne doit pas
+   s’opposer à la transformation numérique mais l’accompagner. C’est le
+   filet de sécurité dont les travailleurs bénéficieront pour se former et
+   s’adapter tout au long de leur vie. Dans ce cas, qui devra mettre la
+   main au porte-monnaie ? « Comme le propose Thomas Piketty, on peut
+   taxer le capital en général plutôt que de taxer le travail, reprend
+   Gregory Verdugo. Surtout, taxer spécifiquement les robots au détriment
+   des autres technologies pousserait notre industrie à essayer de s’en
+   passer ». Économiquement suicidaire et franchement anachronique…
+
+   Le travail ne restera pas forcement le nœud autour duquel s’articulent
+   droits sociaux, intégration sociale et accomplissement de soi. «
+   Pousser des wagonnets au fond de la mine n’est pas un objectif pour
+   l’humanité », commente Serge Abiteboul. Robot vient du tchèque « robota
+   » qui signifie « travail forcé », et travail vient du latin « tripalium
+   », instrument de torture à trois pieux… Peut-être aboutira-t-on dans
+   cent ans à une société sans travail humain où les individus n’auront
+   comme inquiétude que d’occuper leur temps libre et se trouver un
+   nouveau rôle social. « Keynes voyait le progrès comme facteur
+   d’expansion du loisir. Le problème ne sera plus de donner du travail �
+   tout le monde mais de se répartir des richesses produites grâce à la
+   technologie », conclut Gregory Verdugo. « L’économiste Richard Freeman,
+   de l’université d’Harvard, encourage d’ailleurs travailleurs et
+   syndicats à investir dans la possession des machines et logiciels
+   sophistiqués. Pour que les gains en productivité qu’ils apporteront
+   soient effectivement redistribués et que les travailleurs ne deviennent
+   pas “les serfs des nouveaux seigneurs des robots”. » On nous aura
+   prévenus… ♦
+
+   Captures d'écran du jeu « Job Simulator » (2016), où l'on devient, tour
+   à tour et en réalité virtuelle, employé dans un fast-food, garagiste,
+   caissier... Si les machines nous remplacent, aura-t-on vraiment envie
+   de jouer à travailler ?
+
+   CNRS Le Journal (BUTTON)
+   Captures d'écran du jeu « Job Simulator » (2016), où l'on devient, tour
+   à tour et en réalité virtuelle, employé dans un fast-food, garagiste,
+   caissier... Si les machines nous remplacent, aura-t-on vraiment envie
+   de jouer à travailler ?
+   Job Simulator Game/OWLCHEMY
+   Job Simulator Game/OWLCHEMY
+   Partager
+   Partager
+
+
+
+« La technologie tue l’emploi » : une idée fausse
+
+   Pour sauvegarder l’emploi, l’empereur romain Vespasien avait
+   ponctuellement renoncé au progrès technique au Ier siècle. Les canuts
+   de Lyon, ouvriers tisserands de la soie, firent la peau à de
+   stakhanovistes machines à tisser dont la cadence leur faisait
+   concurrence dans les années 1830, tandis que leurs homologues
+   britanniques, les luddites, en auraient réduit en miettes plus d’un
+   millier en 1811. L’idée que le progrès technique détruit l’emploi a la
+   vie dure. Dans les années 1980, l’économiste Alfred Sauvy montra
+   qu’elle était fausse et que durant les deux siècles précédents,
+   production et productivité furent bouleversées et décuplées sans
+   provoquer d’augmentation durable du chômage. « C’est la thèse du
+   déversement », explique Gregory Verdugo. En bref, grâce à une meilleure
+   productivité, le progrès technologique permet de baisser le prix de
+   certains produits, ce qui provoque une hausse de la consommation de
+   produits déjà existants ou de nouveautés, créant de nouveaux emplois
+   pour les produire. « Le passage du cheval à la voiture a mis les
+   cochers au chômage mais a aussi créé toute une industrie automobile. Et
+   nous sommes passés de la société agricole à industrielle, puis au
+   tertiaire, dominé par les métiers de service, en consommant plus de
+   soins médicaux, de loisirs, de culture, etc. Il n’y a pas de modèle
+   économique qui le garantisse, mais jusqu’ici l’innovation technologique
+   n’a jamais tué l’emploi. »
+
+
+
+Qui seront les perdants de l’automatisation ?
+
+   Le progrès technologique n’a certes jamais tué l’emploi, mais il crée
+   toujours des inégalités. Ces quarante dernières années, les
+   travailleurs les plus qualifiés ont tiré les marrons du feu tandis que
+   les moins qualifiés se sont appauvris. Avec la prochaine « robolution
+   », les écarts devraient se réduire : en se reconvertissant dans les
+   métiers encore préservés, les cols blancs verront baisser leur revenus
+   (sauf les experts des nouvelles technologies), tandis que les personnes
+   peu qualifiées dont le travail est encore difficilement automatisable
+   (jardinier, plombier, nounou, etc.) vont gagner du pouvoir d’achat.
+   Jusqu’à ce que, imagine-t-on, tout le monde soit logé à la même
+   enseigne : plus de travail… Le seul véritable problème de l’humanité
+   serait alors la répartition des richesses produites. « Il faudra
+   prendre garde à ne pas aller vers un monde trop inégalitaire », imagine
+   Serge Abiteboul. « Aujourd’hui, quelques “ oligopoles ” du web se
+   partagent une très grande quantité de richesses et paient très peu
+   d’impôts. Les gouvernements doivent y réfléchir s’ils veulent sortir de
+   ce modèle délétère », alerte le chercheur. « Les créateurs de ces
+   empires ont du talent, mais cela justifie-t-il qu’ils accaparent en
+   totalité le produit du travail des machines ? Est-ce vraiment un choix
+   de société ou plutôt le résultat de systèmes politiques et de
+   considérations économiques devenus obsolètes ? », questionne Serge
+   Abiteboul. Nos modèles économiques fonctionnent en effet sur la
+   concurrence, or dans le monde du web la logique est inversée : « De
+   nouveaux concurrents n’ont quasiment aucune chance de détruire la
+   situation de monopole d’un acteur déjà bien développé, car plus il y a
+   de monde sur un réseau, plus il est attractif pour les consommateurs.
+   Par exemple, créer un concurrent à Internet est parfaitement illusoire
+   ! La nature des biens a changé et il faudrait revoir nos systèmes
+   économiques et politiques de A à Z… », conclut le chercheur.
+
+
+   À Lire sur notre site :
+   Six scénarios pour un monde sans travail (ou ce qui se pourrait se
+   passer au XXIIe siècle...)
+   Peut-on faire confiance à l'intelligence artificielle ?
+
+   Pour aller plus loin :
+   Le Temps des algorithmes, Serge Abiteboul et Gilles Dowek, Le Pommier,
+   2017.
+   Les Nouvelles Inégalités du travail. Pourquoi l’emploi se polarise,
+   Gregory Verdugo, Presses de Sciences Po, coll. « Sécuriser l’emploi »,
+   2017.
+
+   Cet article a été publié dans le numéro 3 de la revue « Carnets de
+   science »
+   Notes
+     * 1. La Planète des singes (1963).
+     * 2. Ce serait 47 % aux États-Unis, 42 % en France, 49 % au Japon et
+       54 % dans l’Union européenne (France Stratégie, « L’effet de
+       l’automatisation sur l’emploi : ce qu’on sait et ce qu’on ignore »,
+       La Note d’analyse, n° 49, juillet 2016).
+     * 3. Unité CNRS/Université Paris 1 Panthéon-Sorbonne.
+     * 4. Arntz, M., Gregory, T. & Zierahn, U., « The risk of automation
+       for jobs in OECD countries. A comparative analysis », OECD Social,
+       Employment and Migration Working Papers, no 189, mai 2016.
+     * 5. France Stratégie, La Note d’analyse, n° 49, juillet 2016.
+     * 6. Unité CNRS/Université Paris 1 Panthéon-Sorbonne/École des hautes
+       études en sciences sociales/École normale supérieure Paris/École
+       des Ponts ParisTech/Institut national de la recherche agronomique.
+     * 7. Unité CNRS/École normale supérieure Paris/Institut national de
+       recherche en informatique et en automatique.
+     * 8. Katja Grace et al., « When will AI exceed human performance ?
+       Evidence from AI experts », arXiv, 30 mai 2017.
+     * 9. Unité CNRS/Université Pierre et Marie Curie/Inserm.
+     * 10. La « taxe robot » était le deuxième volet de la résolution
+       adoptée le 16 février 2017, qui propose aussi l’attribution d’une
+       personnalité juridique aux machines.
+     * 11. France Stratégie, La Note d’analyse n° 49, juillet 2016, p.
+       5-6.
+     * 12. Ibid., p. 6.
+     * 13. Intervention au Sénat le 19 janvier 2017 au sujet de
+       l’intelligence artificielle.
+
+   Aller plus loin
+   3 commentaires
+
+Mots-clés
+
+   Intelligence artificielle Robot travail emplois Automatisation Aide �
+   la décision Watson amazon machine robolution Inégalités
+
+Partager cet article
+
+Auteur
+
+   Charline Zeitoun
+
+   Journaliste scientifique, autrice jeunesse et directrice de collection
+   (une vingtaine de livres publiés chez Fleurus, Mango et Millepages).
+
+   Formation initiale : DEA de mécanique des fluides + diplômes en
+   journalisme à Paris 7 et au CFPJ.
+   Plus récemment : des masterclass et des stages en écriture de scénario.
+
+   En savoir plus sur l'auteur
+   Voir l’invisible (1/3)Précédent
+   Le Paris du XVIIIe siècle comme si vous y étiez!Suivant
+
+Voir aussi
+
+   Sociétés
+   Article
+   07/12/2023
+   Carnets de science #15 : Addiction, le désordre du siècle
+   Article
+   04/12/2023
+   La créativité peut-elle être artificielle ?
+   Blog
+   29/11/2023
+   Un sceau personnel pour authentifier et protéger ses biens
+   Préparation du pemba © Guillaume Odonne
+   Blog
+   29/11/2023
+   Entre ethnomédecines et biomédecine en Guyane
+   Article
+   30/11/2023
+   Climat : « C'est aussi à l'échelle des villes que la...
+   Économie
+   Article
+   28/06/2023
+   Les cryptomonnaies par-delà le buzz
+   Article
+   14/02/2023
+   PIB et transition écologique sont-ils compatibles  ?
+   Article
+   22/02/2022
+   Comment sauver le pluralisme des médias ?
+   Article
+   30/11/2020
+   « C’est par l’innovation que nous sortirons de cette crise »
+   Point de vue
+   22/10/2020
+   Pourquoi les footballeuses sont-elles moins payées ?
+   Intelligence artificielle
+   Article
+   04/12/2023
+   La créativité peut-elle être artificielle ?
+   Blog
+   27/09/2023
+   L'intelligence artificielle au service de la biodiversité...
+   Blog
+   11/09/2023
+   Robots, Intelligence artificielle et société
+   Article
+   28/08/2023
+   « J’essaie de rendre l’humain plus créatif »
+   Blog
+   17/07/2023
+   Prédire les propriétés des matériaux grâce à l'intelligence...
+
+Commentaires
+
+   3 commentaires
+   Flux RSS
+
+Bien intéressant votre
+
+   Marcel Dehem le 23 Juillet 2018 à 19h06
+   Bien intéressant votre article car il laisse un petit espoir dans
+   lequel Futur ne rimera pas forcément avec chômage généralisé et émeutes
+   sociales.
+   Votre nom ______________________________
+   Comment *
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   Enregistrer
+   Leave this field blank ____________________
+     * Se connecter avec Google
+     * Se connecter avec Twitter
+     * Se connecter avec Facebook
+
+   Se connecter avec Facebook
+     * Connectez-vous ou inscrivez-vous pour publier un commentaire
+
+Il semble (mais c'est une
+
+   François Larmignola le 28 Juillet 2018 à 18h13
+   Il semble (mais c'est une question) que le développement des machines
+   doive s'accompagner d'une réduction de la population. Si on met de coté
+   le vieillissement, qui est un phénomène transitoire, forcément, on doit
+   pouvoir viser des populations réduites, du moins dans les pays
+   disposant de machines... La croissance démographique doit donc être
+   combattue.
+   Votre nom ______________________________
+   Comment *
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   Enregistrer
+   Leave this field blank ____________________
+     * Se connecter avec Google
+     * Se connecter avec Twitter
+     * Se connecter avec Facebook
+
+   Se connecter avec Facebook
+     * Connectez-vous ou inscrivez-vous pour publier un commentaire
+
+Ne plus travailler mais
+
+   linda laforge le 28 Septembre 2023 à 09h22
+   Ne plus travailler mais œuvrer, à repenser les systèmes économiques et
+   politiques pour répartir les richesses de manière équitable et à ne pas
+   produire plus que nécessaire pour ne pas piller les ressources
+   naturelles dont énergétiques tout en polluant.
+   Votre nom ______________________________
+   Comment *
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   Enregistrer
+   Leave this field blank ____________________
+     * Se connecter avec Google
+     * Se connecter avec Twitter
+     * Se connecter avec Facebook
+
+   Se connecter avec Facebook
+     * Connectez-vous ou inscrivez-vous pour publier un commentaire
+
+   Pour laisser votre avis sur cet article
+   Connectez-vous, rejoignez la communauté
+   du journal CNRS
+   Se connecter
+   Créer un compte
+
+     * À propos
+     * Newsletters
+     * Équipe / crédits
+     * Nous contacter
+     * Charte d'utilisation
+     * Plan du site
+     * Données personnelles
+     * Mentions légales
+
+Numéros papiers
+
+   CNRS Le journal - septembre 2023
+   n°313
+   Voir tous les numéros
+
+Nous suivre
+
+     * Twitter
+     * Facebook
+     * Google
+     * Dailymotion
+
+Partager
+
+     * Twitter
+     * Facebook
+     * Google
+     * Email
+
+   [logofondation.svg] Faites un don pour la recherche !
+   Centre National de la Recherche Scientifique
+   © 2023, CNRS
+     * Créer un compte
+     * Se connecter
+     * Mon compte
+     * Politique d'accessibilité
+     * Gestion des cookies
