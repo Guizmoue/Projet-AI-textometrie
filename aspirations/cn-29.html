@@ -2,17 +2,22 @@
 <!DOCTYPE html>
 <html lang="zh" dir="ltr" class="no-js">
 <head>
-<link href="/Content/responsive/VOA/zh-CN/VOA-zh-CN.css?&amp;av=0.1.0.0&amp;cb=270" rel="stylesheet"/>
+<link href="/Content/responsive/VOA/zh-CN/VOA-zh-CN.css?&amp;av=0.1.0.0&amp;cb=272" rel="stylesheet"/>
 <script src="//tags.tiqcdn.com/utag/bbg/voa-pangea/prod/utag.sync.js"></script> <script type='text/javascript' src='https://www.youtube.com/iframe_api'></script>
 <script type="text/javascript">
 //a general 'js' detection, must be on top level in <head>, due to CSS performance
 document.documentElement.className = "js";
-var cacheBuster = "270";
+var cacheBuster = "272";
 var appBaseUrl = "/";
 var imgEnhancerBreakpoints = [0, 144, 256, 408, 650, 1023, 1597];
 var isLoggingEnabled = false;
 var isPreviewPage = false;
 var isLivePreviewPage = false;
+if (!isPreviewPage) {
+window.RFE = window.RFE || {};
+window.RFE.cacheEnabledByParam = window.location.href.indexOf('nocache=1') === -1;
+window.history.replaceState(null, '', window.location.href.replace(new RegExp('[\&\?]nocache=1'), ''));
+}
 var pwaEnabled = false;
 var swCacheDisabled;
 </script>
@@ -45,8 +50,8 @@ var swCacheDisabled;
 <meta content="根据最近的一份报告，几乎所有美国的工作岗位，从卡车司机到提供托儿服务的人，再到软件开发人员，都可以通过生成式人工智能(GenAI)来完成或至少它能起到辅助作用。" name="twitter:description" />
 <link rel="amphtml" href="https://www.voachinese.com/amp/is-ai-about-to-steal-your-job-20231121/7365232.html" />
 <script type="application/ld+json">{"articleSection":"科技","headline":"人工智能会抢走你的工作吗？","inLanguage":"zh-CN","keywords":"美国, 科技, 劳工","author":{"@type":"Person","url":"https://www.voachinese.com/author/梅卡尔/iqm_y","description":"","image":{"@type":"ImageObject","url":"https://gdb.voanews.com/aa84b465-5161-42b7-ad34-cabbb87aaf68.jpg"},"name":"梅卡尔"},"datePublished":"2023-11-22 02:36:26Z","dateModified":"2023-11-22 02:36:26Z","publisher":{"logo":{"width":512,"height":220,"@type":"ImageObject","url":"https://www.voachinese.com/Content/responsive/VOA/zh-CN/img/logo.png"},"@type":"NewsMediaOrganization","url":"https://www.voachinese.com","sameAs":["https://www.facebook.com/voachinese","https://twitter.com/voachinese","https://www.youtube.com/voachinese","https://t.me/voachinese","https://www.instagram.com/voachinese/"],"name":"美国之音中文网","alternateName":""},"@context":"https://schema.org","@type":"NewsArticle","mainEntityOfPage":"https://www.voachinese.com/a/is-ai-about-to-steal-your-job-20231121/7365232.html","url":"https://www.voachinese.com/a/is-ai-about-to-steal-your-job-20231121/7365232.html","description":"根据最近的一份报告，几乎所有美国的工作岗位，从卡车司机到提供托儿服务的人，再到软件开发人员，都可以通过生成式人工智能(GenAI)来完成或至少它能起到辅助作用。","image":{"width":1080,"height":608,"@type":"ImageObject","url":"https://gdb.voanews.com/1A5FFF78-7A6F-472A-8632-634FD0896EDC_w1080_h608.jpg"},"name":"人工智能会抢走你的工作吗？"}</script>
-<script src="/Scripts/responsive/infographics.b?v=dVbZ-Cza7s4UoO3BqYSZdbxQZVF4BOLP5EfYDs4kqEo1&amp;av=0.1.0.0&amp;cb=270"></script>
-<script src="/Scripts/responsive/loader.b?v=R3LR59bI_QYIvBT1Uo8ClLBpzI0pAdZYweFWJofnu6U1?&amp;av=0.1.0.0&amp;cb=270"></script>
+<script src="/Scripts/responsive/infographics.b?v=dVbZ-Cza7s4UoO3BqYSZdbxQZVF4BOLP5EfYDs4kqEo1&amp;av=0.1.0.0&amp;cb=272"></script>
+<script src="/Scripts/responsive/loader.b?v=R3LR59bI_QYIvBT1Uo8ClLBpzI0pAdZYweFWJofnu6U1?&amp;av=0.1.0.0&amp;cb=272"></script>
 <link rel="icon" type="image/svg+xml" href="/Content/responsive/VOA/img/webApp/favicon.svg" />
 <link rel="alternate icon" href="/Content/responsive/VOA/img/webApp/favicon.ico" />
 <link rel="apple-touch-icon" sizes="152x152" href="/Content/responsive/VOA/img/webApp/ico-152x152.png" />
@@ -60,7 +65,9 @@ var swCacheDisabled;
 <meta name="msapplication-TileImage" content="/Content/responsive/VOA/img/webApp/ico-144x144.png" />
 <link rel="alternate" type="application/rss+xml" title="VOA - Top Stories [RSS]" href="/api/" />
 <link rel="sitemap" type="application/rss+xml" href="/sitemap.xml" />
-</head>
+
+                    <script>var w=window;if(w.performance||w.mozPerformance||w.msPerformance||w.webkitPerformance){var d=document;AKSB=w.AKSB||{},AKSB.q=AKSB.q||[],AKSB.mark=AKSB.mark||function(e,_){AKSB.q.push(["mark",e,_||(new Date).getTime()])},AKSB.measure=AKSB.measure||function(e,_,t){AKSB.q.push(["measure",e,_,t||(new Date).getTime()])},AKSB.done=AKSB.done||function(e){AKSB.q.push(["done",e])},AKSB.mark("firstbyte",(new Date).getTime()),AKSB.prof={custid:"169922",ustr:"",originlat:"0",clientrtt:"6",ghostip:"23.200.87.46",ipv6:false,pct:"10",clientip:"194.199.129.20",requestid:"b616b14",region:"20559",protocol:"h2",blver:14,akM:"dscb",akN:"ae",akTT:"O",akTX:"1",akTI:"b616b14",ai:"216581",ra:"false",pmgn:"",pmgi:"",pmp:"",qc:""},function(e){var _=d.createElement("script");_.async="async",_.src=e;var t=d.getElementsByTagName("script"),t=t[t.length-1];t.parentNode.insertBefore(_,t)}(("https:"===d.location.protocol?"https:":"http:")+"//ds-aksb-a.akamaihd.net/aksb.min.js")}</script>
+                    </head>
 <body class=" nav-no-loaded can-ff cc_theme pg-article print-lay-article js-category-to-nav nojs-images date-time-enabled">
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N8MP7P" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> <script type="text/javascript" data-cookiecategory="analytics">
 if (top.location === self.location) { //if not inside of an IFrame
@@ -72,7 +79,7 @@ if (renderGtm === "true") {
 </script>
 <!--Analytics tag js version start-->
 <script type="text/javascript" data-cookiecategory="analytics">
-var utag_data={entity:"VOA",pangea_version:"8.27.0.0.270",language:"Mandarin",language_service:"VOA Mandarin",short_language_service:"MAN",property_id:"521",platform:"responsive",platform_short:"R",runs_js:"Yes",page_title:"人工智能会抢走你的工作吗？",page_type:"article",page_name:"人工智能会抢走你的工作吗？",short_headline:"人工智能会抢走你的工作吗？",long_headline:"人工智能会抢走你的工作吗？",headline:"人工智能会抢走你的工作吗？",content_type:"article",subcontent_type:"article",enviro_type:"prod",url:"https://www.voachinese.com/a/is-ai-about-to-steal-your-job-20231121/7365232.html",domain:"www.voachinese.com",pub_year:"2023",pub_month:"11",pub_day:"22",pub_hour:"02",pub_minute:"36",pub_weekday:"Wednesday",dateline:"",byline:"梅卡尔",categories:"us,science-technology,labor",tags:"",slug:"is-ai-about-to-steal-your-job-20231121",section:"科技",english_section:"science-technology",article_uid:"7365232"};
+var utag_data={entity:"VOA",pangea_version:"8.28.0.0.272",language:"Mandarin",language_service:"VOA Mandarin",short_language_service:"MAN",property_id:"521",platform:"responsive",platform_short:"R",runs_js:"Yes",page_title:"人工智能会抢走你的工作吗？",page_type:"article",page_name:"人工智能会抢走你的工作吗？",short_headline:"人工智能会抢走你的工作吗？",long_headline:"人工智能会抢走你的工作吗？",headline:"人工智能会抢走你的工作吗？",content_type:"article",subcontent_type:"article",enviro_type:"prod",url:"https://www.voachinese.com/a/is-ai-about-to-steal-your-job-20231121/7365232.html",domain:"www.voachinese.com",pub_year:"2023",pub_month:"11",pub_day:"22",pub_hour:"02",pub_minute:"36",pub_weekday:"Wednesday",dateline:"",byline:"梅卡尔",categories:"us,science-technology,labor",tags:"",slug:"is-ai-about-to-steal-your-job-20231121",section:"科技",english_section:"science-technology",article_uid:"7365232"};
 if(typeof(TealiumTagFrom)==='function' && typeof(TealiumTagSearchKeyword)==='function') {
 var utag_from=TealiumTagFrom();var utag_searchKeyword=TealiumTagSearchKeyword();
 if(utag_searchKeyword!=null && utag_searchKeyword!=='' && utag_data["search_keyword"]==null) utag_data["search_keyword"]=utag_searchKeyword;if(utag_from!=null && utag_from!=='') utag_data["from"]=TealiumTagFrom();}
@@ -94,7 +101,7 @@ utag_data.platform_short = "R";
 <!--Analytics tag js version end-->
 <!-- Analytics tag management NoScript -->
 <noscript>
-<img style="position: absolute; border: none;" src="https://bbg.d1.sc.omtrdc.net/b/ss/bbgrvoamandarin-bbgprod-bbgentityvoa-bbgunitvoamandarin/1/G.4--NS/488114502?pageName=voa%3aman%3ar%3aarticle%3a%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd%e4%bc%9a%e6%8a%a2%e8%b5%b0%e4%bd%a0%e7%9a%84%e5%b7%a5%e4%bd%9c%e5%90%97%ef%bc%9f&amp;c6=%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd%e4%bc%9a%e6%8a%a2%e8%b5%b0%e4%bd%a0%e7%9a%84%e5%b7%a5%e4%bd%9c%e5%90%97%ef%bc%9f&amp;pangea_version=8.27.0.0.270&amp;v6=D=c6&amp;g=https%3a%2f%2fwww.voachinese.com&amp;c1=D=g&amp;v1=D=g&amp;events=event1&amp;c7=%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd%e4%bc%9a%e6%8a%a2%e8%b5%b0%e4%bd%a0%e7%9a%84%e5%b7%a5%e4%bd%9c%e5%90%97%ef%bc%9f&amp;v7=D=c7&amp;c16=voa%20mandarin&amp;v16=D=c16&amp;c5=science-technology&amp;v5=D=c5&amp;ch=mandarin&amp;v15=D=ch&amp;c15=D=ch&amp;c4=article&amp;v4=D=c4&amp;c14=7365232&amp;v14=D=c14&amp;c20=no&amp;c17=responsive&amp;v17=D=c17" alt="analytics" width="1" height="1" /></noscript>
+<img style="position: absolute; border: none;" src="https://bbg.d1.sc.omtrdc.net/b/ss/bbgrvoamandarin-bbgprod-bbgentityvoa-bbgunitvoamandarin/1/G.4--NS/125284700?pageName=voa%3aman%3ar%3aarticle%3a%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd%e4%bc%9a%e6%8a%a2%e8%b5%b0%e4%bd%a0%e7%9a%84%e5%b7%a5%e4%bd%9c%e5%90%97%ef%bc%9f&amp;c6=%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd%e4%bc%9a%e6%8a%a2%e8%b5%b0%e4%bd%a0%e7%9a%84%e5%b7%a5%e4%bd%9c%e5%90%97%ef%bc%9f&amp;pangea_version=8.28.0.0.272&amp;v6=D=c6&amp;g=https%3a%2f%2fwww.voachinese.com&amp;c1=D=g&amp;v1=D=g&amp;events=event1&amp;c7=%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd%e4%bc%9a%e6%8a%a2%e8%b5%b0%e4%bd%a0%e7%9a%84%e5%b7%a5%e4%bd%9c%e5%90%97%ef%bc%9f&amp;v7=D=c7&amp;c16=voa%20mandarin&amp;v16=D=c16&amp;c5=science-technology&amp;v5=D=c5&amp;ch=mandarin&amp;v15=D=ch&amp;c15=D=ch&amp;c4=article&amp;v4=D=c4&amp;c14=7365232&amp;v14=D=c14&amp;c20=no&amp;c17=responsive&amp;v17=D=c17" alt="analytics" width="1" height="1" /></noscript>
 <!-- End of Analytics tag management NoScript -->
 <div class="google-translate-container">
 <div id="google_translate_element" data-page-language="zh-CN" data-included-languages="zh-CN,zh-TW"></div>
@@ -444,7 +451,7 @@ nav2In.classList.add('hdr-20__inner--big')
 </div> <div class="date-time-area ">
 <div class="container">
 <span class="date-time">
-中国时间 5:25 2023年12月10日 星期日
+中国时间 16:52 2023年12月13日 星期三
 </span>
 </div>
 </div>
@@ -580,7 +587,7 @@ class="btn btn--rounded btn-line js-social-btn">
 </div>
 </li>
 <li class="share__item share__item--sharing-more">
-<a title="切换共享选项" class="btn btn--rounded btn--show-more hidden">
+<a title="切换共享选项" data-title-additional="Fewer options" class="btn btn--rounded btn--show-more hidden">
 <span class="ico ico--rounded ico-ellipsis ico--l"></span>
 </a>
 </li>
@@ -676,7 +683,7 @@ class="btn btn--rounded btn-line js-social-btn">
 </div>
 </li>
 <li class="share__item share__item--sharing-more">
-<a title="切换共享选项" class="btn btn--rounded btn--show-more hidden">
+<a title="切换共享选项" data-title-additional="Fewer options" class="btn btn--rounded btn--show-more hidden">
 <span class="ico ico--rounded ico-ellipsis ico--s"></span>
 </a>
 </li>
@@ -825,7 +832,7 @@ comments powered by Disqus.
 <noscript class="nojs-img">
 <img src="https://gdb.voanews.com/01000000-c0a8-0242-be3e-08dbeae7ecc0_w100_r1.jpg" alt="美跨党派议员推出立法 针对AI加强与五眼联盟合作 " />
 </noscript>
-<img data-src="https://gdb.voanews.com/01000000-c0a8-0242-be3e-08dbeae7ecc0_w33_r1.jpg" src="" alt="美跨党派议员推出立法 针对AI加强与五眼联盟合作 " />
+<img data-src="https://gdb.voanews.com/01000000-c0a8-0242-be3e-08dbeae7ecc0_w33_r1.jpg" src="" alt="美跨党派议员推出立法 针对AI加强与五眼联盟合作 " class=""/>
 </div>
 </a>
 <div class="media-block__content media-block__content--h">
@@ -844,7 +851,7 @@ comments powered by Disqus.
 <noscript class="nojs-img">
 <img src="https://gdb.voanews.com/01000000-0a00-0242-c517-08dbdbf0d32a_w100_r1.jpg" alt="英国首相：新人工智能模型将在发布前进行测试" />
 </noscript>
-<img data-src="https://gdb.voanews.com/01000000-0a00-0242-c517-08dbdbf0d32a_w33_r1.jpg" src="" alt="英国首相：新人工智能模型将在发布前进行测试" />
+<img data-src="https://gdb.voanews.com/01000000-0a00-0242-c517-08dbdbf0d32a_w33_r1.jpg" src="" alt="英国首相：新人工智能模型将在发布前进行测试" class=""/>
 </div>
 </a>
 <div class="media-block__content media-block__content--h">
@@ -863,7 +870,7 @@ comments powered by Disqus.
 <noscript class="nojs-img">
 <img src="https://gdb.voanews.com/fbd1198f-2bd9-486c-a7a8-9de2078691c9_cx0_cy5_cw0_w100_r1.jpg" alt="美中欧等共同签署AI治理宣言，但对如何确保AI不侵犯人权却没有共识" />
 </noscript>
-<img data-src="https://gdb.voanews.com/fbd1198f-2bd9-486c-a7a8-9de2078691c9_cx0_cy5_cw0_w33_r1.jpg" src="" alt="美中欧等共同签署AI治理宣言，但对如何确保AI不侵犯人权却没有共识" />
+<img data-src="https://gdb.voanews.com/fbd1198f-2bd9-486c-a7a8-9de2078691c9_cx0_cy5_cw0_w33_r1.jpg" src="" alt="美中欧等共同签署AI治理宣言，但对如何确保AI不侵犯人权却没有共识" class=""/>
 </div>
 </a>
 <div class="media-block__content media-block__content--h">
@@ -882,7 +889,7 @@ comments powered by Disqus.
 <noscript class="nojs-img">
 <img src="https://gdb.voanews.com/01000000-c0a8-0242-742e-08dbdbdb1ce7_w100_r1.jpg" alt="世界各国领导人就人工智能风险达成一致" />
 </noscript>
-<img data-src="https://gdb.voanews.com/01000000-c0a8-0242-742e-08dbdbdb1ce7_w33_r1.jpg" src="" alt="世界各国领导人就人工智能风险达成一致" />
+<img data-src="https://gdb.voanews.com/01000000-c0a8-0242-742e-08dbdbdb1ce7_w33_r1.jpg" src="" alt="世界各国领导人就人工智能风险达成一致" class=""/>
 </div>
 </a>
 <div class="media-block__content media-block__content--h">
@@ -901,7 +908,7 @@ comments powered by Disqus.
 <noscript class="nojs-img">
 <img src="https://gdb.voanews.com/442fa14a-34d5-4cc9-bcc1-4203b0ebfbef_w100_r1.jpg" alt="美中AI之争引人注目 英国主办全球AI安全峰会周三登场" />
 </noscript>
-<img data-src="https://gdb.voanews.com/442fa14a-34d5-4cc9-bcc1-4203b0ebfbef_w33_r1.jpg" src="" alt="美中AI之争引人注目 英国主办全球AI安全峰会周三登场" />
+<img data-src="https://gdb.voanews.com/442fa14a-34d5-4cc9-bcc1-4203b0ebfbef_w33_r1.jpg" src="" alt="美中AI之争引人注目 英国主办全球AI安全峰会周三登场" class=""/>
 </div>
 </a>
 <div class="media-block__content media-block__content--h">
@@ -920,7 +927,7 @@ comments powered by Disqus.
 <noscript class="nojs-img">
 <img src="https://gdb.voanews.com/01000000-0a00-0242-29a5-08dbd9994d5e_w100_r1.jpg" alt="拜登签署关于人工智能监督的范围广泛的行政命令" />
 </noscript>
-<img data-src="https://gdb.voanews.com/01000000-0a00-0242-29a5-08dbd9994d5e_w33_r1.jpg" src="" alt="拜登签署关于人工智能监督的范围广泛的行政命令" />
+<img data-src="https://gdb.voanews.com/01000000-0a00-0242-29a5-08dbd9994d5e_w33_r1.jpg" src="" alt="拜登签署关于人工智能监督的范围广泛的行政命令" class=""/>
 </div>
 </a>
 <div class="media-block__content media-block__content--h">
@@ -1060,7 +1067,7 @@ class="btn bg-transparent btn-twitter js-social-btn">
 <span class="share__count shares__twitter share__count--empty">&nbsp;</span>
 </li>
 <li class="share__item share__item--sharing-more">
-<a title="切换共享选项" class="btn bg-transparent btn--show-more hidden">
+<a title="切换共享选项" data-title-additional="Fewer options" class="btn bg-transparent btn--show-more hidden">
 <span class="ico fs-xl ico-ellipsis "></span>
 </a>
 </li>
@@ -1189,7 +1196,7 @@ class="btn bg-transparent btn-twitter js-social-btn">
 <noscript class="nojs-img">
 <img src="https://gdb.voanews.com/01000000-0aff-0242-c86a-08db523cfae2_w50_r5.jpg" alt="越洋电话" />
 </noscript>
-<img data-src="https://gdb.voanews.com/01000000-0aff-0242-c86a-08db523cfae2_w50_r5.jpg" alt="越洋电话" />
+<img data-src="https://gdb.voanews.com/01000000-0aff-0242-c86a-08db523cfae2_w50_r5.jpg" src="" class="" alt="越洋电话" />
 </div>
 </div>
 <div class="podcast-wg__overlay-content pos-abs">
@@ -1228,12 +1235,12 @@ class="btn bg-transparent btn-twitter js-social-btn">
 <h3 class="title podcast-sub__modal-title">订阅</h3>
 </div>
 <a class="podcast-sub__modal-link podcast-sub__modal-link--apple" href="https://podcasts.apple.com/us/podcast/越洋电话-美国之音/id1687732813" target="_blank" rel="noopener">
-<span class="ico ico-itunes"></span>
-Apple Podcast
+<span class="ico ico-apple-podcast"></span>
+Apple Podcasts
 </a>
 <a class="podcast-sub__modal-link podcast-sub__modal-link--google" href="https://podcasts.google.com/feed/aHR0cHM6Ly93d3cudm9hY2hpbmVzZS5jb20vcG9kY2FzdC8_em9uZUlkPTc0ODM" target="_blank" rel="noopener">
 <span class="ico ico-google-podcast"></span>
-Google Podcast
+Google Podcasts
 </a>
 <a class="podcast-sub__modal-link podcast-sub__modal-link--spotify" href="https://open.spotify.com/show/04iflSSqnnyGtosXj9vh2P" target="_blank" rel="noopener">
 <span class="ico ico-spotify"></span>
@@ -1260,18 +1267,18 @@ YouTube
 <ul>
 <li class="col-xs-12 col-sm-6 col-md-12 col-lg-12 mb-grid">
 <div class="media-block ">
-<a href="/a/ukraine-condemns-russia-election-20231209/7391315.html" class="img-wrap img-wrap--t-spac img-wrap--size-4 img-wrap--float" title="乌克兰谴责俄罗斯计划在乌克兰占领区举行总统选举">
+<a href="/a/ukraine-president-visits-us-congress-for-support-20231213/7396012.html" class="img-wrap img-wrap--t-spac img-wrap--size-4 img-wrap--float" title="泽连斯基赴美国国会请求更多金援 未得到确切承诺">
 <div class="thumb thumb16_9">
 <noscript class="nojs-img">
-<img src="https://gdb.voanews.com/bd8f811d-cd05-4055-a5ab-9c1089a0026c_w100_r1.jpg" alt="资料照片：四位乌克兰被占领地区由俄罗斯安插的负责人在莫斯科签署吞并条约后与俄罗斯总统普京共同庆祝。（2022年9月30日）" />
+<img src="https://gdb.voanews.com/c5f30f39-057b-45dd-b06b-b574feee6946_w100_r1.jpg" alt="乌克兰总统弗拉基米尔&#183;泽连斯基（Volodymyr Zelenskyy）2023年12月12日访问美国国会山。" />
 </noscript>
-<img data-src="https://gdb.voanews.com/bd8f811d-cd05-4055-a5ab-9c1089a0026c_w33_r1.jpg" src="" alt="资料照片：四位乌克兰被占领地区由俄罗斯安插的负责人在莫斯科签署吞并条约后与俄罗斯总统普京共同庆祝。（2022年9月30日）" />
+<img data-src="https://gdb.voanews.com/c5f30f39-057b-45dd-b06b-b574feee6946_w33_r1.jpg" src="" alt="乌克兰总统弗拉基米尔&#183;泽连斯基（Volodymyr Zelenskyy）2023年12月12日访问美国国会山。" class=""/>
 </div>
 </a>
 <div class="media-block__content media-block__content--h">
-<a href="/a/ukraine-condemns-russia-election-20231209/7391315.html">
-<h4 class="media-block__title media-block__title--size-4" title="乌克兰谴责俄罗斯计划在乌克兰占领区举行总统选举">
-乌克兰谴责俄罗斯计划在乌克兰占领区举行总统选举
+<a href="/a/ukraine-president-visits-us-congress-for-support-20231213/7396012.html">
+<h4 class="media-block__title media-block__title--size-4" title="泽连斯基赴美国国会请求更多金援 未得到确切承诺">
+泽连斯基赴美国国会请求更多金援 未得到确切承诺
 </h4>
 </a>
 </div>
@@ -1279,18 +1286,18 @@ YouTube
 </li>
 <li class="col-xs-12 col-sm-6 col-md-12 col-lg-12 mb-grid">
 <div class="media-block ">
-<a href="/a/rome-hospital-fire-kills-three-20231209/7391304.html" class="img-wrap img-wrap--t-spac img-wrap--size-4 img-wrap--float" title="罗马附近医院发生火灾，导致3人死亡，迫使病人紧急撤离">
+<a href="/a/lawmakers-concerned-about-chinese-technology-on-us-military-sites-20231213/7396007.html" class="img-wrap img-wrap--t-spac img-wrap--size-4 img-wrap--float" title="跨党派参众议员致函美防长 要求全面检视美军设施是否采用宁德时代产品">
 <div class="thumb thumb16_9">
 <noscript class="nojs-img">
-<img src="https://gdb.voanews.com/a8c244c8-239a-423e-b246-6f71d2df0ad4_w100_r1.jpg" alt="消防人员在意大利蒂沃利地区失火的圣约翰福音教会医院援救病人。（2023年12月8日）" />
+<img src="https://gdb.voanews.com/01000000-0a00-0242-605c-08dbf0070678_cx0_cy7_cw0_w100_r1.jpg" alt="中国新能源科技公司宁德时代在北京举行的中国国际供应链促进博览会上的展台。（2023年11月28日）" />
 </noscript>
-<img data-src="https://gdb.voanews.com/a8c244c8-239a-423e-b246-6f71d2df0ad4_w33_r1.jpg" src="" alt="消防人员在意大利蒂沃利地区失火的圣约翰福音教会医院援救病人。（2023年12月8日）" />
+<img data-src="https://gdb.voanews.com/01000000-0a00-0242-605c-08dbf0070678_cx0_cy7_cw0_w33_r1.jpg" src="" alt="中国新能源科技公司宁德时代在北京举行的中国国际供应链促进博览会上的展台。（2023年11月28日）" class=""/>
 </div>
 </a>
 <div class="media-block__content media-block__content--h">
-<a href="/a/rome-hospital-fire-kills-three-20231209/7391304.html">
-<h4 class="media-block__title media-block__title--size-4" title="罗马附近医院发生火灾，导致3人死亡，迫使病人紧急撤离">
-罗马附近医院发生火灾，导致3人死亡，迫使病人紧急撤离
+<a href="/a/lawmakers-concerned-about-chinese-technology-on-us-military-sites-20231213/7396007.html">
+<h4 class="media-block__title media-block__title--size-4" title="跨党派参众议员致函美防长 要求全面检视美军设施是否采用宁德时代产品">
+跨党派参众议员致函美防长 要求全面检视美军设施是否采用宁德时代产品
 </h4>
 </a>
 </div>
@@ -1298,18 +1305,18 @@ YouTube
 </li>
 <li class="col-xs-12 col-sm-6 col-md-12 col-lg-12 mb-grid">
 <div class="media-block ">
-<a href="/a/tragedy-of-china-coalmines-20231209/7391285.html" class="img-wrap img-wrap--t-spac img-wrap--size-4 img-wrap--float" title="中国煤矿工人的心酸故事：在悲剧中求生存">
+<a href="/a/us-house-select-committee-on-ccp-econ-policy-recommendations-20231212/7396001.html" class="img-wrap img-wrap--t-spac img-wrap--size-4 img-wrap--float" title="美众院委员会拟立法重置对华经济关系 涉及调整中国贸易地位">
 <div class="thumb thumb16_9">
 <noscript class="nojs-img">
-<img src="https://gdb.voanews.com/BC87A1A8-6FD8-4F73-8A66-8D6D58E4C36E_w100_r1.jpg" alt="资料照片：中国甘肃省白银市一个煤矿发生矿难，导致20名矿工死亡。(2012年9月25日）" />
+<img src="https://gdb.voanews.com/3eb454e6-29ac-44bd-b5e7-86e91800cbf1_cx3_cy8_cw96_w100_r1.jpg" alt="（资料照）美国国会众议员美国和中共战略竞争特设委员会主席迈克&#183;加拉格尔众议员（左）和委员会首席民主党人拉贾&#183;克里希纳莫提众议员在会议上交谈。（2023年2月28日，美联社）" />
 </noscript>
-<img data-src="https://gdb.voanews.com/BC87A1A8-6FD8-4F73-8A66-8D6D58E4C36E_w33_r1.jpg" src="" alt="资料照片：中国甘肃省白银市一个煤矿发生矿难，导致20名矿工死亡。(2012年9月25日）" />
+<img data-src="https://gdb.voanews.com/3eb454e6-29ac-44bd-b5e7-86e91800cbf1_cx3_cy8_cw96_w33_r1.jpg" src="" alt="（资料照）美国国会众议员美国和中共战略竞争特设委员会主席迈克&#183;加拉格尔众议员（左）和委员会首席民主党人拉贾&#183;克里希纳莫提众议员在会议上交谈。（2023年2月28日，美联社）" class=""/>
 </div>
 </a>
 <div class="media-block__content media-block__content--h">
-<a href="/a/tragedy-of-china-coalmines-20231209/7391285.html">
-<h4 class="media-block__title media-block__title--size-4" title="中国煤矿工人的心酸故事：在悲剧中求生存">
-中国煤矿工人的心酸故事：在悲剧中求生存
+<a href="/a/us-house-select-committee-on-ccp-econ-policy-recommendations-20231212/7396001.html">
+<h4 class="media-block__title media-block__title--size-4" title="美众院委员会拟立法重置对华经济关系 涉及调整中国贸易地位">
+美众院委员会拟立法重置对华经济关系 涉及调整中国贸易地位
 </h4>
 </a>
 </div>
@@ -1323,19 +1330,19 @@ YouTube
 <a href="https://www.youtube.com/user/voachina"><span class="ico ico-chevron-forward pull-right flip"></span>VOA卫视最新视频</a> </h2>
 <div class="media-block">
 <div class="media-pholder media-pholder--video ">
-<div class="c-sticky-container" data-poster="https://gdb.voanews.com/01000000-c0a8-0242-fb9d-08dbf78d808f_w250_r1_s.png">
+<div class="c-sticky-container" data-poster="https://gdb.voanews.com/01000000-0a00-0242-a408-08dbfa6da202_w250_r1_s.png">
 <div class="c-sticky-element" data-sp_api="pangea-video" data-persistent data-persistent-browse-out >
 <div class="c-mmp c-mmp--enabled c-mmp--loading c-mmp--video c-mmp--standard c-mmp--has-poster c-sticky-element__swipe-el"
-data-player_id="" data-title="时事大家谈：欧中“抉择峰会”：欧洲让步让什么？中国合作图什么？" data-hide-title="False"
+data-player_id="" data-title="时事大家谈：习近平访越 能拿出什么好处拉拢河内？" data-hide-title="False"
 data-breakpoint_s="320" data-breakpoint_m="640" data-breakpoint_l="992"
 data-hlsjs-src="/Scripts/responsive/hls.b"
 data-bypass-dash-for-vod="true"
 data-bypass-dash-for-live-video="true"
 data-bypass-dash-for-live-audio="false">
 <div class="c-mmp__poster js-poster c-mmp__poster--video">
-<img src="https://gdb.voanews.com/01000000-c0a8-0242-fb9d-08dbf78d808f_w250_r1_s.png" alt="时事大家谈：欧中“抉择峰会”：欧洲让步让什么？中国合作图什么？" title="时事大家谈：欧中“抉择峰会”：欧洲让步让什么？中国合作图什么？" />
+<img src="https://gdb.voanews.com/01000000-0a00-0242-a408-08dbfa6da202_w250_r1_s.png" alt="时事大家谈：习近平访越 能拿出什么好处拉拢河内？" title="时事大家谈：习近平访越 能拿出什么好处拉拢河内？" />
 </div>
-<a class="c-mmp__fallback-link" href="https://av.voanews.com/Videoroot/Pangeavideo/2023/12/5/5f/5f7a47bd-49e0-4d1e-a522-f08041eb23ea_240p.mp4">
+<a class="c-mmp__fallback-link" href="https://av.voanews.com/Videoroot/Pangeavideo/2023/12/1/16/164b8499-39fc-4845-8a77-c06ee79b0e58_240p.mp4">
 <span class="c-mmp__fallback-link-icon">
 <span class="ico ico-play"></span>
 </span>
@@ -1347,7 +1354,7 @@ data-bypass-dash-for-live-audio="false">
 <span class="ico ico-play"></span>
 </span>
 <div class="c-mmp__player">
-<video poster="https://gdb.voanews.com/01000000-c0a8-0242-fb9d-08dbf78d808f_w250_r1_s.png" src="https://voa-video-hls-ns.akamaized.net/Videoroot/Pangeavideo/2023/12/5/5f/5f7a47bd-49e0-4d1e-a522-f08041eb23ea_master.m3u8" data-fallbacksrc="https://av.voanews.com/Videoroot/Pangeavideo/2023/12/5/5f/5f7a47bd-49e0-4d1e-a522-f08041eb23ea.mp4" data-fallbacktype="video/mp4" data-type="application/x-mpegURL" data-info="Auto" data-sources="[{&quot;AmpSrc&quot;:&quot;https://av.voanews.com/Videoroot/Pangeavideo/2023/12/5/5f/5f7a47bd-49e0-4d1e-a522-f08041eb23ea_240p.mp4&quot;,&quot;Src&quot;:&quot;https://av.voanews.com/Videoroot/Pangeavideo/2023/12/5/5f/5f7a47bd-49e0-4d1e-a522-f08041eb23ea_240p.mp4&quot;,&quot;Type&quot;:&quot;video/mp4&quot;,&quot;DataInfo&quot;:&quot;240p&quot;,&quot;Url&quot;:null,&quot;BlockAutoTo&quot;:null,&quot;BlockAutoFrom&quot;:null},{&quot;AmpSrc&quot;:&quot;https://av.voanews.com/Videoroot/Pangeavideo/2023/12/5/5f/5f7a47bd-49e0-4d1e-a522-f08041eb23ea.mp4&quot;,&quot;Src&quot;:&quot;https://av.voanews.com/Videoroot/Pangeavideo/2023/12/5/5f/5f7a47bd-49e0-4d1e-a522-f08041eb23ea.mp4&quot;,&quot;Type&quot;:&quot;video/mp4&quot;,&quot;DataInfo&quot;:&quot;360p&quot;,&quot;Url&quot;:null,&quot;BlockAutoTo&quot;:null,&quot;BlockAutoFrom&quot;:null},{&quot;AmpSrc&quot;:&quot;https://av.voanews.com/Videoroot/Pangeavideo/2023/12/5/5f/5f7a47bd-49e0-4d1e-a522-f08041eb23ea_480p.mp4&quot;,&quot;Src&quot;:&quot;https://av.voanews.com/Videoroot/Pangeavideo/2023/12/5/5f/5f7a47bd-49e0-4d1e-a522-f08041eb23ea_480p.mp4&quot;,&quot;Type&quot;:&quot;video/mp4&quot;,&quot;DataInfo&quot;:&quot;480p&quot;,&quot;Url&quot;:null,&quot;BlockAutoTo&quot;:null,&quot;BlockAutoFrom&quot;:null},{&quot;AmpSrc&quot;:&quot;https://av.voanews.com/Videoroot/Pangeavideo/2023/12/5/5f/5f7a47bd-49e0-4d1e-a522-f08041eb23ea_720p.mp4&quot;,&quot;Src&quot;:&quot;https://av.voanews.com/Videoroot/Pangeavideo/2023/12/5/5f/5f7a47bd-49e0-4d1e-a522-f08041eb23ea_720p.mp4&quot;,&quot;Type&quot;:&quot;video/mp4&quot;,&quot;DataInfo&quot;:&quot;720p&quot;,&quot;Url&quot;:null,&quot;BlockAutoTo&quot;:null,&quot;BlockAutoFrom&quot;:null},{&quot;AmpSrc&quot;:&quot;https://av.voanews.com/Videoroot/Pangeavideo/2023/12/5/5f/5f7a47bd-49e0-4d1e-a522-f08041eb23ea_1080p.mp4&quot;,&quot;Src&quot;:&quot;https://av.voanews.com/Videoroot/Pangeavideo/2023/12/5/5f/5f7a47bd-49e0-4d1e-a522-f08041eb23ea_1080p.mp4&quot;,&quot;Type&quot;:&quot;video/mp4&quot;,&quot;DataInfo&quot;:&quot;1080p&quot;,&quot;Url&quot;:null,&quot;BlockAutoTo&quot;:null,&quot;BlockAutoFrom&quot;:null}]" data-lt-on-play="0" data-lt-url="" webkit-playsinline="webkit-playsinline" playsinline="playsinline" style="width:100%" title="时事大家谈：欧中“抉择峰会”：欧洲让步让什么？中国合作图什么？" data-sdkadaptive="true" data-sdkamp="false" data-sdktitle="时事大家谈：欧中“抉择峰会”：欧洲让步让什么？中国合作图什么？" data-sdkvideo="html5" data-sdkid="7389757" data-sdktype="Video ondemand">
+<video poster="https://gdb.voanews.com/01000000-0a00-0242-a408-08dbfa6da202_w250_r1_s.png" src="https://voa-video-hls-ns.akamaized.net/Videoroot/Pangeavideo/2023/12/1/16/164b8499-39fc-4845-8a77-c06ee79b0e58_master.m3u8" data-fallbacksrc="https://av.voanews.com/Videoroot/Pangeavideo/2023/12/1/16/164b8499-39fc-4845-8a77-c06ee79b0e58.mp4" data-fallbacktype="video/mp4" data-type="application/x-mpegURL" data-info="Auto" data-sources="[{&quot;AmpSrc&quot;:&quot;https://av.voanews.com/Videoroot/Pangeavideo/2023/12/1/16/164b8499-39fc-4845-8a77-c06ee79b0e58_240p.mp4&quot;,&quot;Src&quot;:&quot;https://av.voanews.com/Videoroot/Pangeavideo/2023/12/1/16/164b8499-39fc-4845-8a77-c06ee79b0e58_240p.mp4&quot;,&quot;Type&quot;:&quot;video/mp4&quot;,&quot;DataInfo&quot;:&quot;240p&quot;,&quot;Url&quot;:null,&quot;BlockAutoTo&quot;:null,&quot;BlockAutoFrom&quot;:null},{&quot;AmpSrc&quot;:&quot;https://av.voanews.com/Videoroot/Pangeavideo/2023/12/1/16/164b8499-39fc-4845-8a77-c06ee79b0e58.mp4&quot;,&quot;Src&quot;:&quot;https://av.voanews.com/Videoroot/Pangeavideo/2023/12/1/16/164b8499-39fc-4845-8a77-c06ee79b0e58.mp4&quot;,&quot;Type&quot;:&quot;video/mp4&quot;,&quot;DataInfo&quot;:&quot;360p&quot;,&quot;Url&quot;:null,&quot;BlockAutoTo&quot;:null,&quot;BlockAutoFrom&quot;:null},{&quot;AmpSrc&quot;:&quot;https://av.voanews.com/Videoroot/Pangeavideo/2023/12/1/16/164b8499-39fc-4845-8a77-c06ee79b0e58_480p.mp4&quot;,&quot;Src&quot;:&quot;https://av.voanews.com/Videoroot/Pangeavideo/2023/12/1/16/164b8499-39fc-4845-8a77-c06ee79b0e58_480p.mp4&quot;,&quot;Type&quot;:&quot;video/mp4&quot;,&quot;DataInfo&quot;:&quot;480p&quot;,&quot;Url&quot;:null,&quot;BlockAutoTo&quot;:null,&quot;BlockAutoFrom&quot;:null},{&quot;AmpSrc&quot;:&quot;https://av.voanews.com/Videoroot/Pangeavideo/2023/12/1/16/164b8499-39fc-4845-8a77-c06ee79b0e58_720p.mp4&quot;,&quot;Src&quot;:&quot;https://av.voanews.com/Videoroot/Pangeavideo/2023/12/1/16/164b8499-39fc-4845-8a77-c06ee79b0e58_720p.mp4&quot;,&quot;Type&quot;:&quot;video/mp4&quot;,&quot;DataInfo&quot;:&quot;720p&quot;,&quot;Url&quot;:null,&quot;BlockAutoTo&quot;:null,&quot;BlockAutoFrom&quot;:null},{&quot;AmpSrc&quot;:&quot;https://av.voanews.com/Videoroot/Pangeavideo/2023/12/1/16/164b8499-39fc-4845-8a77-c06ee79b0e58_1080p.mp4&quot;,&quot;Src&quot;:&quot;https://av.voanews.com/Videoroot/Pangeavideo/2023/12/1/16/164b8499-39fc-4845-8a77-c06ee79b0e58_1080p.mp4&quot;,&quot;Type&quot;:&quot;video/mp4&quot;,&quot;DataInfo&quot;:&quot;1080p&quot;,&quot;Url&quot;:null,&quot;BlockAutoTo&quot;:null,&quot;BlockAutoFrom&quot;:null}]" data-lt-on-play="0" data-lt-url="" webkit-playsinline="webkit-playsinline" playsinline="playsinline" style="width:100%" title="时事大家谈：习近平访越 能拿出什么好处拉拢河内？" data-sdkadaptive="true" data-sdkamp="false" data-sdktitle="时事大家谈：习近平访越 能拿出什么好处拉拢河内？" data-sdkvideo="html5" data-sdkid="7394830" data-sdktype="Video ondemand">
 </video>
 </div>
 <div class="c-mmp__overlay c-mmp__overlay--title c-mmp__overlay--partial c-mmp__overlay--disabled c-mmp__overlay--slide-from-top js-c-mmp__title-overlay">
@@ -1366,7 +1373,7 @@ data-bypass-dash-for-live-audio="false">
 </span>
 <div class="c-mmp__overlay-title js-overlay-title">
 <h5 class="c-mmp__overlay-media-title">
-<a class="js-media-title-link" href="/a/7389757.html" target="_blank" rel="noopener" title="时事大家谈：欧中“抉择峰会”：欧洲让步让什么？中国合作图什么？">时事大家谈：欧中“抉择峰会”：欧洲让步让什么？中国合作图什么？</a>
+<a class="js-media-title-link" href="/a/7394830.html" target="_blank" rel="noopener" title="时事大家谈：习近平访越 能拿出什么好处拉拢河内？">时事大家谈：习近平访越 能拿出什么好处拉拢河内？</a>
 </h5>
 </div>
 </div>
@@ -1385,7 +1392,7 @@ data-bypass-dash-for-live-audio="false">
 </span>
 </span>
 <div class="c-mmp__overlay-tabs">
-<div class="c-mmp__overlay-tab c-mmp__overlay-tab--disabled c-mmp__overlay-tab--slide-backward js-tab-embed-overlay" data-trigger="js-btn-embed-overlay" data-embed-source="//www.voachinese.com/embed/player/0/7389757.html?type=video" role="form">
+<div class="c-mmp__overlay-tab c-mmp__overlay-tab--disabled c-mmp__overlay-tab--slide-backward js-tab-embed-overlay" data-trigger="js-btn-embed-overlay" data-embed-source="//www.voachinese.com/embed/player/0/7394830.html?type=video" role="form">
 <div class="c-mmp__overlay-body c-mmp__overlay-body--centered-vertical">
 <div class="column">
 <div class="c-mmp__status-msg ta-c js-message-embed-code-copied" role="tooltip">
@@ -1419,7 +1426,7 @@ data-bypass-dash-for-live-audio="false">
 >
 <ul class="share__list">
 <li class="share__item">
-<a href="https://facebook.com/sharer.php?u=https%3a%2f%2fwww.voachinese.com%2fa%2f7389757.html"
+<a href="https://facebook.com/sharer.php?u=https%3a%2f%2fwww.voachinese.com%2fa%2f7394830.html"
 data-analytics-text="share_on_facebook"
 title="分享到脸书" target="_blank"
 class="btn bg-transparent btn-facebook js-social-btn">
@@ -1429,7 +1436,7 @@ class="btn bg-transparent btn-facebook js-social-btn">
 <span class="share__count share__count--facebook share__count--empty">&nbsp;</span>
 </li>
 <li class="share__item">
-<a href="https://twitter.com/share?url=https%3a%2f%2fwww.voachinese.com%2fa%2f7389757.html&amp;text=%e6%97%b6%e4%ba%8b%e5%a4%a7%e5%ae%b6%e8%b0%88%ef%bc%9a%e6%ac%a7%e4%b8%ad%e2%80%9c%e6%8a%89%e6%8b%a9%e5%b3%b0%e4%bc%9a%e2%80%9d%ef%bc%9a%e6%ac%a7%e6%b4%b2%e8%ae%a9%e6%ad%a5%e8%ae%a9%e4%bb%80%e4%b9%88%ef%bc%9f%e4%b8%ad%e5%9b%bd%e5%90%88%e4%bd%9c%e5%9b%be%e4%bb%80%e4%b9%88%ef%bc%9f&amp;via=voachinese "
+<a href="https://twitter.com/share?url=https%3a%2f%2fwww.voachinese.com%2fa%2f7394830.html&amp;text=%e6%97%b6%e4%ba%8b%e5%a4%a7%e5%ae%b6%e8%b0%88%ef%bc%9a%e4%b9%a0%e8%bf%91%e5%b9%b3%e8%ae%bf%e8%b6%8a+%e8%83%bd%e6%8b%bf%e5%87%ba%e4%bb%80%e4%b9%88%e5%a5%bd%e5%a4%84%e6%8b%89%e6%8b%a2%e6%b2%b3%e5%86%85%ef%bc%9f&amp;via=voachinese "
 data-analytics-text="share_on_twitter"
 title="分享到推特" target="_blank"
 class="btn bg-transparent btn-twitter js-social-btn">
@@ -1439,12 +1446,12 @@ class="btn bg-transparent btn-twitter js-social-btn">
 <span class="share__count shares__twitter share__count--empty">&nbsp;</span>
 </li>
 <li class="share__item share__item--sharing-more">
-<a title="切换共享选项" class="btn bg-transparent btn--show-more hidden">
+<a title="切换共享选项" data-title-additional="Fewer options" class="btn bg-transparent btn--show-more hidden">
 <span class="ico fs-xl ico-ellipsis "></span>
 </a>
 </li>
 <li class="share__item share__item--sharing-more">
-<a href="/a/7389757.html" title="分享" class="btn bg-transparent" target="_blank" rel="noopener">
+<a href="/a/7394830.html" title="分享" class="btn bg-transparent" target="_blank" rel="noopener">
 <span class="ico ico-ellipsis "></span>
 </a>
 </li>
@@ -1456,7 +1463,7 @@ class="btn bg-transparent btn-twitter js-social-btn">
 网址已复制到剪贴板
 </div>
 <div class="c-mmp__form-group ta-c audio-fl-bwd xs-hidden s-hidden">
-<input type="text" name="share_url" class="c-mmp__input-text js-share-url" value="https://www.voachinese.com/a/7389757.html" dir="ltr" readonly />
+<input type="text" name="share_url" class="c-mmp__input-text js-share-url" value="https://www.voachinese.com/a/7394830.html" dir="ltr" readonly />
 <span class="c-mmp__input-btn js-btn-copy-share-url" title="复制到剪贴板"><span class="ico ico-content-copy"></span></span>
 </div>
 </div>
@@ -1494,7 +1501,7 @@ class="btn bg-transparent btn-twitter js-social-btn">
 <div class="c-mmp__cpanel-progress-controls">
 <span class="c-mmp__cpanel-progress-controls-current-time js-current-time" dir="ltr">0:00</span>
 <span class="c-mmp__cpanel-progress-controls-duration js-duration" dir="ltr">
-0:21:36
+0:32:11
 </span>
 <span class="c-mmp__indicator c-mmp__indicator--horizontal" dir="ltr">
 <span class="c-mmp__indicator-lines js-progressbar">
@@ -1540,7 +1547,7 @@ class="btn bg-transparent btn-twitter js-social-btn">
 <div class="c-mmp__expander-content js-sources"></div>
 </div>
 </div>
-<a href="/embed/player/Article/7389757.html?type=video&amp;FullScreenMode=True" target="_blank" rel="noopener" class="c-mmp__cpanel-btn c-mmp__cpanel-btn--fullscreen js-btn-fullscreen" title="全屏">
+<a href="/embed/player/Article/7394830.html?type=video&amp;FullScreenMode=True" target="_blank" rel="noopener" class="c-mmp__cpanel-btn c-mmp__cpanel-btn--fullscreen js-btn-fullscreen" title="全屏">
 <span class="ico ico-fullscreen m-0"></span>
 </a>
 </div>
@@ -1551,9 +1558,9 @@ class="btn bg-transparent btn-twitter js-social-btn">
 </div>
 </div>
 <div class="media-block__content">
-<a href="/a/7389757.html" >
+<a href="/a/7394830.html" >
 <h4 class="media-block__title media-block__title--size-2">
-时事大家谈：欧中“抉择峰会”：欧洲让步让什么？中国合作图什么？ </h4>
+时事大家谈：习近平访越 能拿出什么好处拉拢河内？ </h4>
 </a>
 </div>
 </div>
@@ -1566,8 +1573,8 @@ class="btn bg-transparent btn-twitter js-social-btn">
 <li class="col-xs-12 col-sm-6 col-md-12 col-lg-12 mb-grid">
 <div class="media-block ">
 <div class="media-block__content">
-<h4 class="media-block__title media-block__title--size-4" title="《纵深视角》：北京为何能挑战华盛顿，美国认知中共世纪之错？ 美国之音 《纵深视角》节目专访夏威夷大学政治学教授周晓博士 。美东时间12月9日上午8点播出，敬请收看。 ">
-《纵深视角》：北京为何能挑战华盛顿，美国认知中共世纪之错？ 美国之音 《纵深视角》节目专访夏威夷大学政治学教授周晓博士 。美东时间12月9日上午8点播出，敬请收看。
+<h4 class="media-block__title media-block__title--size-4" title="12/13 【时事大家谈】高耀洁这一生：“国家的罪人”还是“亚洲英雄”？&#160;舆论漩涡中的哈佛和MIT校长是否该辞职？嘉宾：“中国人权”执行主任周锋锁先生；“对华援助协会”创始人傅希秋博士; 独立时评人马聚先生；主持人：陈小平">
+12/13 【时事大家谈】高耀洁这一生：“国家的罪人”还是“亚洲英雄”？&#160;舆论漩涡中的哈佛和MIT校长是否该辞职？嘉宾：“中国人权”执行主任周锋锁先生；“对华援助协会”创始人傅希秋博士; 独立时评人马聚先生；主持人：陈小平
 </h4>
 </div>
 </div>
@@ -1579,17 +1586,9 @@ class="btn bg-transparent btn-twitter js-social-btn">
 <h2 class="section-head">
 七天以来最受关注内容 </h2>
 <div class="row trends-wg">
-<a href="/a/7381851.html" class="col-xs-12 col-sm-6 col-md-12 col-lg-12 trends-wg__item mb-grid">
-<span class="trends-wg__item-inner">
-<span class="trends-wg__item-number">1</span>
-<h4 class="trends-wg__item-txt">
-二十届三中全会一推再推为何引关注？了解一下“三中全会”和中共会议体系
-</h4>
-</span>
-</a>
 <a href="/a/china-on-twitter-qin-dead-20231207/7388749.html" class="col-xs-12 col-sm-6 col-md-12 col-lg-12 trends-wg__item mb-grid">
 <span class="trends-wg__item-inner">
-<span class="trends-wg__item-number">2</span>
+<span class="trends-wg__item-number">1</span>
 <h4 class="trends-wg__item-txt">
 推特上的中国：秦刚已自杀或被折磨致死？美国媒体新爆料真实性引猜疑
 </h4>
@@ -1597,25 +1596,33 @@ class="btn bg-transparent btn-twitter js-social-btn">
 </a>
 <a href="/a/italy-tells-china-it-is-leaving-belt-and-road-initiative-20231206/7386665.html" class="col-xs-12 col-sm-6 col-md-12 col-lg-12 trends-wg__item mb-grid">
 <span class="trends-wg__item-inner">
-<span class="trends-wg__item-number">3</span>
+<span class="trends-wg__item-number">2</span>
 <h4 class="trends-wg__item-txt">
 意大利正式通知中国退出一带一路
 </h4>
 </span>
 </a>
-<a href="/a/hong-kong-dissident-refuses-to-go-back-to-hk-to-report-to-police-20231203/7382450.html" class="col-xs-12 col-sm-6 col-md-12 col-lg-12 trends-wg__item mb-grid">
+<a href="/a/china-central-economic-work-conference-20231209/7390834.html" class="col-xs-12 col-sm-6 col-md-12 col-lg-12 trends-wg__item mb-grid">
 <span class="trends-wg__item-inner">
-<span class="trends-wg__item-number">4</span>
+<span class="trends-wg__item-number">3</span>
 <h4 class="trends-wg__item-txt">
-“一辈子不会回去了”：香港民主活动人士周庭宣布流亡加拿大
+习近平欲扭转经济颓势，即将召开的中央经济工作会议有解吗？
 </h4>
 </span>
 </a>
-<a href="/a/china-constitution-day-20231204/7383665.html" class="col-xs-12 col-sm-6 col-md-12 col-lg-12 trends-wg__item mb-grid">
+<a href="/a/former-us-national-security-advisor-warns-chinas-xi-could-invade-taiwan-as-report-to-strengthen-taiwan-released-20231208/7390472.html" class="col-xs-12 col-sm-6 col-md-12 col-lg-12 trends-wg__item mb-grid">
+<span class="trends-wg__item-inner">
+<span class="trends-wg__item-number">4</span>
+<h4 class="trends-wg__item-txt">
+等待“第三只鞋”掉下来？美前国安顾问对习近平侵台可能性发出警告
+</h4>
+</span>
+</a>
+<a href="/a/vietnam-lukewarm-to-china-20231211/7393807.html" class="col-xs-12 col-sm-6 col-md-12 col-lg-12 trends-wg__item mb-grid">
 <span class="trends-wg__item-inner">
 <span class="trends-wg__item-number">5</span>
 <h4 class="trends-wg__item-txt">
-中共党媒用习近平修宪连任宣誓宣传“国家宪法日”
+专家：习宣扬“人类命运共同体”，但越南反应冷淡
 </h4>
 </span>
 </a>
@@ -1645,7 +1652,7 @@ class="btn bg-transparent btn-twitter js-social-btn">
 <noscript class="nojs-img">
 <img src="https://gdb.voanews.com/EE918412-7B53-43ED-AFFC-EFF2931481B6_cx14_cy27_cw79_w100_r1.jpg" alt="Wilbur J. Cohen Federal Building Voice of America" />
 </noscript>
-<img data-src="https://gdb.voanews.com/EE918412-7B53-43ED-AFFC-EFF2931481B6_cx14_cy27_cw79_w33_r1.jpg" src="" alt="Wilbur J. Cohen Federal Building Voice of America" />
+<img data-src="https://gdb.voanews.com/EE918412-7B53-43ED-AFFC-EFF2931481B6_cx14_cy27_cw79_w33_r1.jpg" src="" alt="Wilbur J. Cohen Federal Building Voice of America" class=""/>
 </div>
 </a>
 <div class="media-block__content media-block__content--h">
@@ -1896,7 +1903,7 @@ document.getElementsByTagName("body")[0].className += " is-not-mobile";
 }
 }
 </script>
-<script src="/conf.js?x=270" type="text/javascript"></script>
+<script src="/conf.js?x=272" type="text/javascript"></script>
 <div class="responsive-indicator">
 <div class="visible-xs-block">XS</div>
 <div class="visible-sm-block">SM</div>

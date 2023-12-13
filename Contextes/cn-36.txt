@@ -1,91 +1,683 @@
-
-   华为云计算 云知识 人工智能的定义？人工智能的基本概念是什么？
-   [1.jpg]
---
-   1元/天
-   人工智能的定义？人工智能的基本概念是什么？
-   时间: 2021-08-02 20:09:22
---
-
-   自从人类发明了计算机或机器人，它们执行各种任务的能力都有了相对的增长，人类已经可以开发出计算机系统的很多功能，涉及各种工作领域，人工智能的定义
-   ，简单来说，就是要通过智能的机器，达到人与机器和谐共处的一个社会。逐渐延伸了人类改造自然和治理社会的能力。
-
-   人工智能的定义是什么？
-
-   人工智能（Artificial
-   Intelligence），英文缩写为AI。它是研究、开发用于模拟、延伸和扩展人的智能的理论、方法、技术及应用系统的一门新的技术科学。
-   人工智能是计算机科学的一个分支，它企图了解智能的实质，并生产出一种新的能以人类智能相似的方式做出反应的智能机器。
-
-   人工智能的定义？人工智能的基本概念是什么？
-
-   人工智能的定义
-
-   人工智能的基本概念（AI）
-
-   根据人工智能之父约翰麦卡锡的说法，它是“制造智能机器的科学与工程，特别是智能计算机程序”。
-
-   人工智能是一种使计算机，计算机控制的机器人或软件智能地思考的方式，其方式与智能人类的思维方式类似。人工智能是通过研究人类大脑如何思考以及人类在
-   尝试解决问题时如何学习，决定和工作，然后将本研究的结果用作开发智能软件和系统的基础来实现的。
+□
+3 . 13 AI 与 管理
+•
+4 强 人工智能 和 弱 人工智能
+切换 强 人工智能 和 弱 人工智能 小节
+□
+4 . 1 强 人工智能
+□
+4 . 2 弱 人工智能
+□
+4 . 3 对 强 人工智能 的 哲学 争论
+•
 --
 
-   因此，人工智能的发展始于在我们发现并在人类中高度重视的机器中创造类似的智能。
+人工智能
 
-   人工智能的定义？人工智能的基本概念是什么？
-
-   人工智能的定义
-
-   学习人工智能的必要性
-
-   我们知道AI追求创造像人类一样聪明的机器。我们研究AI的原因有很多。
+--
+维基 百科 ， 自由 的 百科全书
+● 此 条目 介绍 的 是 人工智能 。 关于 其他 用法 ， 请 见 “ AI ” 。
 
 --
 
-   在我们的日常生活中，我们处理的是大量的数据，人类的大脑无法跟踪这么多的数据。这就是我们需要自动化的原因。为了实现自动化，我们需要研究AI，因为
-   它可以从数据中学习，并且可以准确无误地完成重复性任务。
-
-   AI可以自学
-
-   系统应该自学，因为数据本身不断变化，并且必须不断更新从这些数据中获得的知识。我们可以使用AI来实现这一目的，因为启用AI的系统可以自学。
-
-   AI可以实时响应
-
-   借助神经网络的人工智能可以更深入地分析数据。由于这种能力，AI可以根据实时情况思考和响应情况。
-
-   AI实现准确性
-
-   在深度神经网络的帮助下，AI可以实现极高的准确性。AI帮助医学领域从患者的MRI中诊断癌症等疾病。
-
-   AI可以组织数据以最大限度地利用它
-
-   数据是使用自学习算法的系统的知识产权。我们需要AI以一种始终提供最佳结果的方式索引和组织数据。
+“ 人工智能 ” 的 各地 常用 别名
 
 --
 
-   使用AI，可以构建智能系统。我们需要了解智力的概念，以便我们的大脑可以构建像自己这样的另一个智能系统。
+中国 大陆 人工智能
 
-   人工智能的定义其实是一个非常广泛的领域。这些领域虽然目前不是非常集中，但是它们正在交叉发展中，很多的未知的领域处在研究之中，并且逐渐走向统一。
-   人工智能的最终目标是希望变成一门真正的科学，形成一个完整的科学体系。
+台湾 人工 智慧
 
---
+港 澳 人工智能
 
-AI开发平台ModelArts
-
-   ModelArts是面向开发者的一站式AI开发平台，为机器学习与深度学习提供海量数据预处理及半自动化标注、大规模分布式Training、自动化
-   模型生成，及端-边-云模型按需部署能力，帮助用户快速创建和部署模型，管理全周期AI工作流。
+马 新 人工智能 、 人工智慧
 
 --
 
-     * AI平台ModelArts入门
-     * Serverless应用中心_函数工作流-华为云
+人工智能 系列 内容
+[ 150 p x - A rtificial _ ]
 --
-   云服务器0元领取 | 免费试用云产品
-   人工智能的定义？人工智能的基本概念是什么？
+• 机器人 学
+• 强 人工智能
+• 弱 人工智能
+• 生成式 人工智能
 
 --
 
-   【AI数字人】
+• 符号 人工智能
+• 深度 学习
+--
+
+人工智能 哲学
+
+• 伦理 （ 英语 ： Ethics of artificial intelligence ）
+• 人工智能 安全 （ 英语 ： AI safety ）
+□ 幻觉
+--
+• 中文 房间
+• 可 解释 人工智能
+• 友好 的 人工智能 （ 英语 ： Friend ly artificial intelligence ）
+• 人工智能 监管 （ 英语 ： Regulation of artificial intelligence ）
 
 --
-     * CDN是什么意思_CDN域名配置_CDN基本概念
-     * 人工智能学习入门
-     * CCI基本概念_华为云CCI概念_云容器实例基本概念
+
+• 时间轴 （ 英语 ： Timeline of artificial intelligence ）
+• 发展 （ 英语 ： Progress in artificial intelligence ）
+• 人工智能 低谷
+• 人工智能 热潮
+
+--
+
+• 应用 （ 英语 ： Applications of artificial intelligence ）
+• 项目 （ 英语 ： List of artificial intelligence projects ）
+• 编程 语言 （ 英语 ： List of programming languages for artificial intelligence ）
+
+--
+
+• 术语 （ 英语 ： Glossary of artificial intelligence ）
+
+--
+
+人工智能 （ 英语 ： artificial intelligence ， 缩写 为 AI ） 亦 称 机器 智能 ， 指 由 人 制造 出 来
+的 机器 所 表现 出 来 的 智能 。 通常 人工智能 是 指 通过 普通 计算机 程序 来 呈现 人类 智能 的 技术
+。 该词 也 指出 研究 这样 的 智能 系统 是 否 能够 实现 ， 以及 如何 实现 。 同时 ， 通过 医学 、 神经
+--
+
+人工智能 于 一 般 教材 中 的 定义 领域 是 “ 智能 主体 （ intelligent agent ） 的 研究 与 设计 ” ^ [ 3 ]
+， 智能 主体 指 一个 可以 观察 周遭 环境 并 作出 行动 以 达致 目标 的 系统 ^ [ 4 ] 。 约翰 · 麦卡锡 于
+1955年 的 定义 是 ^ [ 5 ] “ 制造 智能 机器 的 科学 与 工程 ” ^ [ 6 ] 。 安德烈亚斯 · 卡普兰 和 迈克尔 · 海
+恩莱 因 （ Michael Haenlein ） 将 人工智能 定义 为 “ 系统 正确 解释 外部 数据 ， 从 这些 数据 中学
+习 ， 并 利用 这些 知识 通过 灵活 适应 实现 特定 目标 和 任务 的 能力 ” 。 ^ [ 7 ] 人工智能 可以 定义
+为 模仿 人类 与 人类 思维 相关 的 认知 功能 的 机器 或 计算机 ， 如 学习 和 解决 问题 。 人工智能 是
+计算机 科学 的 一个 分支 ， 它 感知 其 环境 并 采取 行动 ， 最 大 限度 地 提高 其 成功 机会 。 此外 ，
+人工智能 能够 从 过去 的 经验 中 学习 ， 做出 合理 的 决策 ， 并 快速 回应 。 因此 ， 人工智能 研究
+人员 的 科学 目标 是 通过 构建 具有 象征 意义 的 推理 或 推理 的 计算机 程序 来 理解 智能 。 人工智
+--
+
+人工智能 的 研究 是 高度 技术性 和 专业 的 ， 各 分支 领域 都 是 深入 且 各 不 相通 的 ， 因而 涉及 范
+围极 广 ^ [ 9 ] 。 人工智能 的 研究 可以 分为 几 个 技术 问题 。 其 分支 领域 主要 集中 在 解决 具体 问
+题 ， 其中 之一 是 ， 如何 使用 各种 不 同 的 工具 完成 特定 的 应用 程序 。
+
+AI 的 核心 问题 包括 建构 能够 跟 人 类似 甚至 超卓 的 推理 、 知识 、 计划 、 学习 、 交流 、 感知 、
+移动 、 移物 、 使用 工具 和 操控 机械 的 能力 等 ^ [ 10 ] 。 通用 人工智能 （ GAI ） 目前 仍然 是 该领
+域 的 长远 目标 ^ [ 11 ] 。 目前 弱 人工智能 已经 有 初步 成果 ， 甚至 在 一些 影像 识别 、 语言 分析 、
+棋类 游戏 等等 单方面 的 能力 达到 了 超越 人类 的 水平 ， 而且 人工智能 的 通用性 代表 着 ， 能 解
+决 上述 的 问题 的 是 一样 的 AI程序 ， 无须 重新 开发 算法 就 可以 直接 使用 现有 的 AI 完成 任务 ，
+与 人类 的 处理 能力 相同 ， 但 达到 具备 思考 能力 的 统合 强 人工智能 还 需要 时间 研究 ， 比较 流
+行 的 方法 包括 统计 方法 ， 计算 智能 和 传统 意义 的 AI 。 目前 有 大量 的 工具 应用 了 人工智能 ，
+其中 包括 搜索 和 数学 优化 、 逻辑 推演 。 而 基于 仿生学 、 认知 心理学 ， 以及 基于 概率论 和 经
+--
+
+人工智能 的 定义 可以 分为 两 部分 ， 即 “ 人工 ” 和 “ 智能 ” 。 “ 人工 ” 即 由 人 设计 ， 为人 创造 、 制
+造 。
+--
+自身 智能 的 理解 都 非常 有限 ， 对 构成 人 的 智能 必要 元素 的 了解 也 很 有限 ， 所以 就 很 难 定义
+什 么 是 “ 人工 ” 制造 的 “ 智能 ” 。 因 此 人工智能 的 研究 往往 涉及 对 人 智能 本身 的 研究 。 其它 关
+于 动物 或 其它 人造 系统 的 智能 也 普遍 被 认为 是 人工智能 相关 的 研究 课题 。
+
+人工智能 目前 在 电脑 领域 内 ， 得到 了 愈加 广泛 的 发挥 。 并 在 机器人 、 经济 政治 决策 、 控制
+系统 、 仿真 系统 中 得到 应用 。
+
+人工智能 也 广泛 应用 于 许多 不 同 领域 。 机器人 经营 餐馆 和 商店 并 修复 城市 基础 设施 。 人工
+智能 管理 运输 系统 和 自动 驾驶 车辆 。 智能 平台 管理 多 个 城市 领域 ， 例如 垃圾 收集 和 空气 质
+量监测 。 事实上 ， 城市 人工智能 体现 在 城市 空间 、 基础 设施 和 技术 中 ， 将 我们 的 城市 变成
+了 无 人 监督 的 自治 实体 。 可以 方便 地 实时 实现 数字化 支持 的 智能 响应 服务 。 许多 城市 现在
+主动 利用 大 数据 和 人工智能 ， 通过 为 我们 的 基础 设施 提供 更 好 的 能源 、 计算 能力 和 连 接性
+来 提高 经济 回报 ^ [ 12 ] 。
+
+最近 ， 由于 人工智能 减少 了 行政 成本 和 时间 ， 许多 政府 开始 将 人工智能 用于 各种 公共 服务
+。 例如 ， 移民 流程 的 机器人 自动化 减少 了 处理 时间 并 提高 了 效率 。 人工智能 为 地方 政府 服
+务带 来 技术 突破 。 人工智能 代理 协助 城市 规划者 基于 目标 导向 的 蒙特卡 罗 树 搜索 进行 场景
+规划 。 目标 推理 人工智能 代理 提供 最佳 的 土地 利用 解决 方案 ， 帮助 我们 制定 民主 的 城市 土
+地 利用 规划 。 人工智能 利用 在 线 数据 来 监控 和 修改 环境 威胁 政策 。 在 2019 年 水 危机 期间 ，
+潜在 狄利克雷 分配 方法 确定 了 Twitter ( X ) 中 讨论 最 多 的 主题 ， 这 是 一 种 朴素 的 推文 分类
+方法 ， 对 干旱 的 影响 和 原因 、 政府 响应 和 潜在 解决 方案 等 主题 进行 了 分类 。 人工智能 工具
+与 司法部门 的 人类 法官 相辅相成 ， 提供 客观 、 一致 的 风险 评估 ^ [ 13 ] 。
+--
+
+主条目 ： 人工智能史
+
+--
+
+目前 人工智能 的 研究 方向 已经 被 分成 几 个 子领域 ， 研究 人员 希望 一个 人工智能 系统 应该 具
+有 某些 特定 能力 ， 以下 将 这些 能力 列出 并 说明 。 ^ [ 10 ]
+--
+
+早期 的 人工智能 研究 人员 直接 模仿 人类 进行 逐步 的 推理 ， 就 像 是 玩 棋盘 游戏 或 进行 逻辑 推
+理时 人类 的 思考 模式 。 ^ [ 14 ] 到 了 1980 和 1990 年代 ， 利用 概率 和 经济学 上 的 概念 ， 人工智能
+研究 还 发展 了 非常 成功 的 方法 处理 不 确定 或 不 完整 的 信息 。 ^ [ 15 ]
+--
+过 一定 的 规模 时 ， 电脑会 需要 天文数量级 的 存储器 或是 运算 时间 。 寻找 更 有效 的 算法 是 优
+先 的 人工智能 研究 项目 。 ^ [ 16 ]
+
+人类 解决 问题 的 模式 通常 是 用 最 快捷 、 直观 的 判断 ， 而 不 是 有意识 的 、 一 步 一 步 的 推导 ，
+早期 人工智能 研究 通常 使用 逐步 推导 的 方式 。 ^ [ 17 ] 人工智能 研究 已经 于 这种 “ 次 表征性 的 ”
+解决 问题 方法 获取 进展 ： 实体化 Agent 研究 强调 感知 运动 的 重要性 。 神经 网络 研究 试图 以 模
+--
+
+知识 表示 是 人工智能 领域 的 核心 研究 问题 之一 ， 它 的 目标 是 让 机器 存储 相应 的 知识 ， 并且
+能够 按照 某种 规 则 推理 演绎 得到 新 的 知识 。 有 许多 需要 解决 的 问题 需要 大量 的 对 世界 的 知
+--
+， 这个 例子 中 没有 太阳 就是 阴天 ， 这个 命题 是 不 严谨 的 、 比较 笼统 的 ， 因为 没有 太阳 可能
+是 下雨 ， 也 可能 下雪 。 另外 如果 人工智能 能 看出 太阳 ， 除 了 该 如何 判断 的 这 件 问题 ， 在 这
+个 前提 之下 ， 应该 也 能 判断 出 阴天 与 晴天 的 差异 。 逻辑 命题 表示 在 知识 表示 中 非常 重要 ，
+--
+判断 和 输出 相应 的 结果 。 这 一 方 法 可以 帮助 解决 更 多 问题 、 减少 错误 ， 提高 解决 问题 的 效
+率 。 对于 人工智能 来 说 ， 机器 学习 从 一 开始 就 很 重要 。 1956年 ， 在 最初 的 达特茅斯 夏季 会
+议 上 ， 雷蒙德 · 索洛莫诺夫 ^ [ 来 源 请求 ] 写 了 一 篇 关于 不 监视 的 概率性 机器 学习 ： 一个 归纳
+--
+
+一个 人工智能 的 子领域 ， 代表 了 理论 （ 从 哲学 和 心理学 的 角度 ） 和 实际 （ 通过 特定 的 实现
+产生 的 系统 的 输出 是 可以 考虑 的 创意 ， 或 系统 识别 和 评估 创造力 ） 所 定义 的 创造力 。 相关
+--
+史蒂芬 · 霍金 、 比尔 盖茨 、 埃隆 · 马斯克 、 Jaan Tallinn 以及 Nick Bostrom 等 人 都 对于 人工
+智能 技术 的 未 来 公开 表示 忧心 ^ [ 28 ] ， 人工智能 若 在 许多 方面 超越 人类 智能 水平 的 智能 、 不
+断 更新 、 自我 提升 ， 进而 获取 控制 管理权 ， 人类 是 否 有 足够 的 能力 及时 停止 人工智能 领域
+的 “ 军备 竞赛 ” ， 能 否 保 有 最高 掌控权 ， 现有 事实 是 ： 机器常 失控 导致 人员 伤亡 ， 这样 的 情
+况是 否 会 更加 扩大 规模 出现 ， 历史 显然 无法 给 出 可靠 的 乐观 答案 。 特斯拉 电动 车马斯克 （
+Elon Musk ） 在 麻省 理工学院 （ MIT ） 航空 航天 部门 百年 纪念 研讨会 上 称 人工智能 是 “ 召唤 恶
+魔 ” 行为 ， 英国 发明 家 Clive Sinclair 认为 一旦 开始 制造 抵抗 人类 和 超越 人类 的 智能 机器 ，
+--
+
+DeepMind 的 人工智能 （ AI ） 系统 在 2016年 “ AlphaGo ” 对 战 韩国 棋王 李世乭 获胜 ， 开发商 表示
+在 内部 设立 伦理 委员会 ， 针对 人工智能 的 应用 制定 政策 ， 防范 人工智能 沦为 犯罪 开发者 。 ^
+[ 30 ]
+
+科技 进步 ， 人工智能 科技 产生 “ 自主 武器 ” 军备 竞赛 已 悄悄 展开 ， 英国 、 以色列 与 挪威 ， 都
+已 部署 自主 导弹 与 无 人 操控 的 无人机 ， 具 “ 射 后 不 理 ” （ fire - and - forget ） 能力 的 导弹 ， 多
+--
+战场 上 ， 且 并非 使用 人类 所 设计 的 程序 ， 而是 完全 利用 机器 自行 决策 。 霍金 等 人 在 英国 独
+立报 发表 文章 警告 未 来 人工智能 可能 会 比 人类 金融 市场 、 科学 家 、 人类 领袖 更 能 操纵人心
+、 甚至 研发 出 人们 无法 理解 的 武器 。 专 家 恐 发展 到 无法 控制 的 局面 ， 援引 联合国 禁止 研发
+某些 特定 武器 的 “ 特定 常规武器 公约 ” 加以 限制 。 ^ [ 31 ] 新南威尔士 大学 人工智能 的 托比 · 沃
+尔什 （ 英语 ： Toby _ Walsh ） 教授 认为 这 是 一 种 欺骗 ， 因为 机器 无 区别 战敌 和 平民 的 技术 。 ^
+--
+些 即将 被 机器人 取代 的 职业 ， 日本 野村 综合 研究所 也 与 英国 牛津 大学 的 研究 学者 共同 调查
+指出 ， 10 至 20 年 后 ， 日本 有 49 % 的 职业 （ 235 种 职业 ） 可能 会 被 机械 和 人工智能 取代 而 消失
+， 直接 影响 约 达 2500万 人 ^ [ 34 ] ， 例如 ： 超市 店员 、 一 般 事务员 、 计程车 司机 、 收费站 运营
+--
+工作 也 取代 旧 工作 ， 产生 了 新 的 输 家 和 赢 家 ， 若是 输 家 的 人数 太 多 将 造成 一 股 社会 不 稳 的
+能量 而 这 股 能量 被 有心人 利用 可能 导致 各种 事件 。 他 认为 各国 应该 强制 订定 规定 AI机器 只
+能 用于 人类 不 能 做 的 工作 ， 避免 短 时间 大量 人类 被 取代 的 失业 大潮 ， 但 马云 没有 提出 这种
+--
+
+数据 科学 和 人工智能 被 哈 佛 商业 评论 称为 《 二十一 世纪 最 Sexy 的 职业 》 ^ [ 37 ] ， 人工智能 需
+求量 大 ， 鼓励 了 不少 大学 诸如 伯克利 大学 专门 成立 数据 科学系 。 硅谷 和 纽约 为主 的 《 The
+Data Incubator （ 英语 ： The Data Incubator ） 》 公司 于 2012年 成立 ， 焦点 是 数据 科学 ，
+大 数据 ， 和 人工智能 企业 培训 ， 提供 国际 大 数据 培训 服务 。
+
+AI 对 人类 的 威胁 [ 编辑 ]
+
+参见 ： 源自 人工智能 的 生存 危机 （ 英语 ： Existential risk from artificial general
+intelligence ） 、 机器人 叛变 和 人工智能 对 齐
+
+--
+
+1 . AI会 遵循 科技 发展 的 加 速度 理论 。
+2 . AI 可能 会 有 自我 改造 创新 的 能力 。
+3 . AI 进步 的 速度 远远 超过 人类 。
+4 . 人类 会 有 被 灭绝 的 危机 。
+--
+
+主要 是 Google 、 Facebook 等 AI 的 主要 技术 发展者 ， 他们 对 AI 持 乐观 看法 的 理由 ：
+
+1 . 人类 只要 关掉 电源 就 能 除掉 AI 机器人 。
+2 . 任何 的 科技 都 会 有 瓶颈 ， 摩尔定律 到 目前 也 遇到 相当 的 瓶颈 ， AI 科技 也 不 会 无限 成长
+， 依然 存在 许多 难以 克服 的 瓶颈 。
+3 . 依 目前 的 研究 方向 ， 电脑 无法 突变 、 苏醒 、 产生 自我 意志 ， AI 也 不 可能 具有 创意 与 智
+能 、 同情心 与 审美 等 这 方面 的 能力 。
+
+AI 与 管理 [ 编辑 ]
+
+AI 逐渐 普及 后 ， 将 会 在 企业 管理 中 扮演 很 重要 的 角色 ， 而 人类 的 管理者 应 如何 适度 的 调整
+自己 的 工作 职能 ， 有 以下 几 点 建议 ：
+--
+2 . 退守 分析 预测 的 领域 而 强化 自己 的 综合 判断力 。
+3 . 把 AI 当作 同事 ， 形成 协同 合作 的 团队 。
+4 . 多 琢磨 在 创造力 以及 各种 流程 架构 设计师 角色 。
+--
+
+强 人工智能 和 弱 人工智能 [ 编辑 ]
+
+人工智能 的 一个 比较 流行 的 定义 ， 也 是 该 领域 较 早 的 定义 ， 是 由 当时 麻省 理工学院 的 约翰 ·
+麦卡锡 于 1956年 的 达特矛斯 会议 上 提出 的 ： 人工智能 就是 要 让 机器 的 行为 看起 来 就 像 是 人
+所 表现 出 的 智能 行为 一样 。 但是 这个 定义 似乎 忽略 了 强 人工智能 的 可能性 （ 见 下 ） 。 另 一
+个 定义 指 人工智能 是 人造 机器 所 表现 出 来 的 智能 。 总体 来 讲 ， 目前 对 人工智能 的 定义 大多
+可 划分 为 四 类 ， 即 机器 “ 像 人 一样 思考 ” 、 “ 像 人 一样 行动 ” 、 “ 理性 地 思考 ” 和 “ 理性 地 行动 ”
+--
+
+强 人工智能 [ 编辑 ]
+
+主条目 ： 强 人工智能
+
+强 人工智能 观点 认为 “ 有 可能 ” 制造 出 “ 真正 ” 能 推理 和 解决 问题 的 智能 机器 ， 并且 ， 这样 的
+机器 将 被 认为 是 具有 知觉 、 有 自我 意识 的 。 强 人工智能 可以 有 两 类 ：
+
+• 人类 的 人工智能 ， 即 机器 的 思考 和 推理 就 像 人 的 思维 一样 。
+• 非 人类 的 人工智能 ， 即 机器 产生 了 和 人 完全 不 一样 的 知觉 和 意识 ， 使用 和 人 完全 不 一
+样 的 推理 方式 。
+
+弱 人工智能 [ 编辑 ]
+
+主条目 ： 弱 人工智能
+
+弱 人工智能 观点 认为 “ 不 可能 ” 制造 出 能 “ 真正 ” 地 推理 和 解决 问题 的 智能 机器 ， 这些 机器 只
+不 过 “ 看 起 来 ” 像 是 智能 的 ， 但是 并 不 真正 拥有 智能 ， 也 不 会 有 自主 意识 。
+
+弱 人工智能 是 对比 强 人工智能 才 出现 的 ， 因为 人工智能 的 研究 一度 处于 停滞不前 的 状态 下
+， 直到 人工 神经 网络 有 了 强大 的 运算 能力 加以 模拟 后 ， 才 开始 改变 并 大幅 超前 。 但 人工智
+能 研究者 不 一定 同意 弱 人工智能 ， 也 不 一定 在乎 或者 了 解强 人工智能 和 弱 人工智能 的 内容
+与 差别 ， 对 定义 争论 不 休 。
+
+就 当下 的 人工智能 研究 领域 来 看 ， 研究者 已 大量 造 出 “ 看 起 来 ” 像 是 智能 的 机器 ， 获取 相当
+丰硕 的 理论 上 和 实质 上 的 成果 ， 如 2009年 康乃尔 大学 教授 Hod Lipson 和 其 博士 研究生
+--
+时 就 自己 重新 发现 牛顿力学 公式 ， 这 计算机 程序 也 能 用 来 研究 很多 其他 领域 的 科学 问题 上
+。 这些 所谓 的 弱 人工智能 在 神经 网络 发展 下 已经 有 巨大 进步 ， 但 对于 要 如何 集成 成强 人工
+智能 ， 现在 还 没有 明确 定论 。
+
+对 强 人工智能 的 哲学 争论 [ 编辑 ]
+
+主条目 ： 人工智能 哲学 、 图灵 测试 、 物理 符号 系统 、 皇帝 新脑 、 德雷福斯 对 人工智能 的 看
+法 （ 英语 ： Hubert Dreyfus ' s views on artificial intelligence ） 、 AI 效应 （ 英语 ： AI
+effect ）
+
+“ 强 人工智能 ” 一 词 最初 是 约翰 · 瑟尔 针对 电脑 和 其它 信息 处理 机器 创造 的 ， 其 定义 为 ：
+
+“ 强 人工智能 观点 认为 计算机 不 仅 是 用 来 研究 人 的 思维 的 一 种 工具 ； 相反 ， 只要 运行 适当 的
+程序 ， 计算机 本身 就是 有 思维 的 。 ” （ J Searle in Minds Brains and Program s . The
+--
+
+关于 强 人工智能 的 争论 ， 不 同 于 更 广义 的 一元论 和 二元论 的 争论 。 其 争论 要点 是 ： 如果 一
+台 机器 的 唯一 工作 原理 就 是 转换 编码 数据 ， 那 么 这 台 机器 是 不 是 有 思维 的 ？ 希尔勒 认为 这
+--
+
+有 的 哲学 家 认为 如果 弱 人工智能 是 可 实现 的 ， 那 么 强 人工智能 也 是 可 实现 的 。 比如 西蒙 · 布
+莱克本 （ 英语 ： Simon Blackburn ） （ Simon Blackburn ） 在 其 哲学 入门 教材 Think 里 说道 ，
+--
+道 另 一个 人 是 否 真 的 像 我 一样 是 智能 的 ， 还是说 她 ／ 他 仅仅 是 “ 看 起 来 ” 是 智能 的 。 基于 这
+个 论点 ， 既然 弱 人工智能 认为 可以 令 机器 “ 看起 来 ” 像 是 智能 的 ， 那 就 不 能 完全 否 定 这 机器
+是 真 的 有 智能 的 。 布莱克本 认为 这 是 一个 主观 认定 的 问题 。
+
+需要 指出 的 是 ， 弱 人工智能 并非 和 强 人工智能 完全 对立 ， 也 就是说 ， 即使 强 人工智能 是 可
+能 的 ， 弱 人工智能 仍然 是 有 意义 的 。 至少 ， 今日 的 计算机 能 做 的 事 ， 像 算术 运算 等 ， 在 一
+百 多 年 前 是 被 认为 很 需要 智能 的 。 并且 ， 即使 强 人工 智能 被 证明 为 可能 的 ， 也 不 代表 强人
+工智能 必定 能 被 研制 出 来 。
+--
+
+其中 几 个 长久 以 来 仍 没有 结论 的 问题 是 ： 是 否 应 从 心理 或 神经 方面 模拟 人工智能 ? 或者 像 鸟
+类 生物学 对于 航空 工程 一样 ， 人类 生物学 对于 人工智能 研究 是 没有 关系 的 ？ ^ [ 40 ] 智能 行为
+能 否 用 简单 的 原 则 （ 如 逻辑 或 优化 ） 来 描述 ？ 还是 必须 解决 大量 完全 无关 的 问题 ？ ^ [ 41 ]
+--
+智能 是 否 可以 使用 高级 符号 表达 ， 如 词 和 想法 ？ 还是 需要 “ 子符号 ” 的 处理 ？ ^ [ 42 ] 约翰 · 豪
+格兰德 （ John Haugel and ） 提出 了 GOFAI （ 出色 的 老式 人工智能 ） 的 概念 ， 也 提议 人工智能
+应 归类 为 synthetic intelligence （ 英语 ： synthetic intelligence ） ， ^ [ 43 ] 这个 概念 后
+--
+
+主条目 ： 符号 人工智能
+
+--
+。 研究 主要 集中 在 卡内基梅隆 大学 ， 斯坦福 大学 和 麻省 理工学院 ， 而 各自 有 独立 的 研究 风
+格 。 约翰 · 豪格兰德 （ John Haugel and ） 称 这些 方法 为 GOFAI （ 出色 的 老式 人工智能 ） ^ [ 47 ]
+。 60 年代 ， 符号 方法 在 小型 证明 程序 上 模拟 高级 思考 有 很 大 的 成就 。 基于 控制论 或 人工 神
+--
+• 认知 模拟 ： 经济学 家 赫伯特 · 西蒙 和 艾伦 · 纽厄尔 研究 人类 问题 解决 能力 和 尝试 将 其 形
+式化 ， 同时 他们 为 人工智能 的 基本 原理 打下 基础 ， 如 认知 科学 、 运筹学 和 经营 科学 。
+他们 的 研究 团队 使用 心理学 实验 的 结果 开发 模拟 人类 解决 问题 方法 的 程序 。 这 方法 一
+--
+用 原理 （ 如 逻辑 ） 能够 达到 所有 的 智能 行为 。 罗 杰 · 尚克 描述 他们 的 “ 反 逻辑 ” 方法 为
+“ scruffy ” ^ [ 41 ] 。 常识 知识库 （ 如 道格拉斯 · 莱纳特 的 Cyc ） 就是 “ scruffy ” AI 的 例子 ，
+因为 他们 必须 人工 一 次 编写 一个 复杂 的 概念 ^ [ 54 ] 。
+--
+构 造成 应用 软件 ^ [ 55 ] 。 这 场 “ 知识 革命 ” 促成 专 家 系统 的 开发 与 计划 ， 这 是 第一 个 成功
+的 人工智能 软件 形式 ^ [ 56 ] 。 “ 知识 革命 ” 同时 让 人们 意识 到 许多 简单 的 人工智能 软件 可
+能 需要 大量 的 知识 。
+--
+
+1980 年代 符号 人工智能 停滞不前 ， 很多 人 认为 符号 系统 永远 不 可能 模仿 人类 所有 的 认知 过
+程 ， 特别 是 感知 、 机器人 、 机器 学习 和 模式 识别 。 很多 研究者 开始 关注 子符号 方法 解决 特
+定 的 人工智能 问题 ^ [ 42 ] 。
+
+• 自下而上 、 接口 agent 、 嵌 入 环境 （ 机器人 ） 、 行为 主义 、 新式 AI ： 机器人 领域 相关 的
+研究者 ， 如 罗德尼 · 布鲁克斯 ， 否 定符 号 人工智能 而 专注 于 机器人 移动 和 求生 等 基本 的
+工程 问题 。 ^ [ 57 ] 他们 的 工作 再次 关注 早期 控制论 研究者 的 观点 ， 同时 提出 了 在 人工智
+--
+
+1990 年代 ， 人工智能 研究 发展 出 复杂 的 数学 工具 来 解决 特定 的 分支 问题 。 这些 工具 是 真正
+的 科学 方法 ， 即 这些 方法 的 结果 是 可 测量 的 和 可 验证 的 ， 同时 也 是 近期 人工智能 成功 的 原
+因 。 共享 的 数学 语言 也 允许 已 有 学科 的 合作 （ 如 数学 ， 经济 或 运筹学 ） 。 Stuart
+--
+相互作用 。 ^ [ 62 ] 一个 系统 中 包含 符号 和 子符号 部分 的 系统 称为 混合 智能 系统 ， 而 对 这
+种 系统 的 研究 则 是 人工智能 系统 集成 。 分级 控制 系统 则 给 反应 级别 的 子符号 AI 和 最高
+级别 的 传统 符号 AI 提供 桥梁 ， 同时 放宽 了 规划 和 世界 建模 的 时间 。
+
+--
+
+人工智能 基本 的 应用 可 分为 四 大 部分 ：
+
+--
+指 的 是 人类 通过 感官 所 收到 环境 的 刺激 ， 察觉 消息 的 能力 ， 简单 的 说 就 是 人类 五官 的 看 、
+听 、 说 、 读 、 写 等 能力 ， 学习 人类 的 感知 能力 是 AI 目前 主要 的 焦点 之一 ， 包括 ：
+
+--
+指 的 是 人类 通过 学习 、 判断 、 分析 等等 心理 活动 来 了解 消息 、 获取 知识 的 过程 与 能力 ， 对
+人类 认知 的 模仿 与 学习 也 是 目前 AI 第二 个 焦点 领域 ， 主要 包括 ：
+
+--
+侦测 、 信用 风险 分析 、 消费 行为 分析 等 。
+• 预测 能力 ： 例如 AI 执行 的 预防性 维修 （ Predictive Maintenance ） 、 智能 天然灾害 预
+测 与 防治 。
+• 判断 能力 ： 例如 AI 下 围棋 、 自动 驾驶车 、 健保 诈欺 判断 、 癌症 判断 等 。
+• 学习 能力 ： 例如 机器 学习 、 深度 学习 、 增强式 学习 等等 各种 学习 方法 。
+--
+合 知识 、 智力 、 能力 、 个性 及 潜意识 等 各种 因素 优化 而 成 ， 这个 领域 目前 人类 仍 遥遥领先
+AI ， 但 AI 也 试 着 急起直追 ， 主要 领域 包括 ： AI作曲 、 AI作诗 、 AI小说 、 AI 绘画 、 AI 设计 等
+。
+--
+指 的 是 人类 深刻 了 解人 、 事 、 物 的 真相 ， 能 探求 真实 真理 、 明辨是非 ， 指导 人类 可以 过 着
+有 意义 生活 的 一 种 能力 ， 这个 领域 牵涉 人类 自我 意识 、 自我 认知 与 价 值观 ， 是 目前 AI 尚未
+触及 的 一 部分 ， 也 是 人类 最 难以 模仿 的 一个 领域 。 ^ [ 63 ]
+--
+
+人工智能 是 一 门 边缘 学科 ， 属于 自然科学 和 社会科学 的 交叉 。
+
+--
+Sens ity 检测 到 的 相关 视频 数量 超过 8 . 5万 个 ^ [ 65 ] 。 而 恶用 该 技术 则 可能 涉嫌 违反 《 著作权
+法 》 等 法律 ， 日本 警 方便 多次 处理 过 使用 人工智能 技术 去除 色情 影片 中 的 马赛克 ^ [ 66 ] 、 替
+换 色情 影片 中 女 优容貌 ^ [ 67 ] 等 相关 案件 。
+--
+• 机器 学习
+• 人工智能 哲学
+• 认知 神经科学
+• 强 人工智能
+• 超 人工智能
+• 图灵 测试
+--
+• 生物 化学 计算机 （ 例 ： 人脑 ）
+• 国际 人工智能 联合 会议
+• 网络 本体 语言 （ OWL ）
+--
+• 联结主义
+• 人工智能 法案
+• 人工智能 热潮
+
+--
+
+1 . ^ 人工智能 （ AI ） 造福 社會 同 時 也 帶來威 脅 . [ 2021 - 02 - 17 ] . （ 原始 内容 存档 于
+2020 - 11 - 27 ） .
+2 . ^ 人工智能 「搶 飯 碗 」 2020年 會計 師將 被 AI取代 . [ 2021 - 02 - 17 ] . （ 原始 内容 存档 于
+2020 - 11 - 27 ） .
+3 . ^ 针对 研究 智能 代理 的 人工智能 定义 ：
+□ Poole , Mackworth & Goebel 1998 ， p . 1 其中 使用 " 计算 智能 " 作为 人工智能 的 同
+义 词 .
+--
+说 " 我 想 出 了 这个 词 " . （ Skillings 2006 ）
+6 . ^ McCarthy 对 人工智能 的 定义 ：
+□ McCarthy 2007
+--
+Fairest in the Land ? On the Interpretations , Illustrations and Implications
+of Artificial Intelligence , Business Horizons , 62 ( 1 ) , 15 - 2 5 . [ 2018 - 11 - 17 ] .
+（ 原始 内容 存档 于 2018 - 11 - 2 1 ） .
+8 . ^ Yigitcanlar , T . et a l . Artificial Intelligence Technologies and Related
+Urban Planning and Development Concepts : How Are They Perceived and
+--
+https : // doi . org / 10 . 3390 / joitmc 6040187
+9 . ^ Pamela McCorduck ( 2004 , p p . 424 ) writes of " the rough shattering of AI in
+subfields — vision , natural language , decision theory , genetic algorithms ,
+--
+□ Nilsson 1998
+11 . ^ 强 人工智能 常 出现 在 人工智能 的 导论 中 ：
+□ Kurzweil 1999 和 Kurzweil 2005
+12 . ^ ( 2023 ) Artificial Intelligence in Local Government Services : Public
+Perceptions from Australia and Hong Kong , Government Information Quarterly ,
+40 ( 3 ) , 101833
+13 . ^ ( 2023 ) Artificial Intelligence in Local Government Services : Public
+Perceptions from Australia and Hong Kong , Government Information Quarterly ,
+--
+□ Russell & Norvig 2003 ， 第885–892 页
+27 . ^ Kismet . MIT Artificial Intelligence Laboratory , Humanoid Robotics Grou p .
+[ 2012 - 10 - 12 ] . （ 原始 内容 存档 于 2014 - 10 - 17 ） .
+28 . ^ 人工 智慧 有 多 恐怖 ？ 聽聽 「天 才 」Demis Hassabis 怎 麼 說 ！ the guardian 《 The
+superhero of artificial intelligence : can this genius keep it in check ? 》 .
+inside / tech 2ipo . com . [ 2016 - 0 4 - 15 ] . （ 原始 内容 存档 于 2018 - 0 9 - 0 3 ） （ 中文 （ 台
+湾 ） ） .
+29 . ^ 人工智能 發展 是 繁榮 人 類 或 毀滅人 類 ？ . 大纪元 / 莫琳 综 . [ 2016 - 0 4 - 15 ] . （ 原始 内
+容 存档 于 2021 - 02 - 13 ） （ 中文 （ 台湾 ） ） .
+--
+] . （ 原始 内容 存档 于 2016 - 0 4 - 26 ） （ 中文 （ 台湾 ） ） .
+31 . ^ 專 家 憂 人工 智慧 武器 成 「殺人 機器 」 多 國 研商 限制 規 範 . 2014 / 11 / 13 The News
+Lens 关键 评论 Sid Weng . [ 2016 - 0 4 - 15 ] . （ 原始 内容 存档 于 2016 - 0 4 - 27 ） （ 中文 （ 台
+湾 ） ） .
+32 . ^ 別 再 讓 機器人 殺人 ！ 反對 團體 呼籲 勿 用 人工 智慧 參與 戰 爭 . 风 传媒 萧乔云 2015年 10
+月 22日 . [ 2016年 4月 15日 ] . （ 原始 内容 存档 于 2021年 2月 13日 ） （ 中文 （ 台湾 ） ） .
+--
+原始 内容 存档 于 2021 - 02 - 13 ） （ 中文 （ 台湾 ） ） .
+34 . ^ 日 近 半 職 業將 被 人工 智慧 取代 . 中国 时 报 . [ 2016 - 0 4 - 15 ] . （ 原始 内容 存档 于
+2021 - 02 - 13 ） （ 中文 （ 台湾 ） ） .
+35 . ^ 人工 智慧 ： 提前 到 來 的 職業 殺 手 . Evans Data 调查 April . [ 2016 - 0 4 - 15 ] . （ 原始
+内容 存档 于 2019 - 0 5 - 1 1 ） （ 中文 （ 台湾 ） ） .
+36 . ^ 中 時 - 馬 雲談AI 的 風險 . [ 2017 - 06 - 2 3 ] . （ 原始 内容 存档 于 2017 - 06 - 2 2 ） .
+37 . ^ 数据 科学 ： 二十一 世纪 最 Sexy 的 职业 . 哈 佛 商业 评论 . [ 2017 - 0 9 - 2 2 ] . （ 原始 内容
+--
+39 . ^ Nils Nilsson （ 英语 ： Nils Nilsson ( researcher ) ） 写道 ： " Simply put , there
+is wide disagreement in the field about what AI is all about " （ Nilsson
+1983 ， p . 10 ） .
+--
+□ McCorduck 2004 ， 第100 – 101 页 , who writes that there are " two major
+branches of artificial intelligence : one aimed at producing intelligent
+behavior regardless of how it was accomplioshed , and the other aimed at
+--
+□ Kolata 1982 , a paper in Science , which describes McCathy ' s indifference
+t o biological model s . Kolata quotes McCarthy as writing : " This is AI ,
+s o w e don ' t care if it ' s psychologically real " [ 1 ] （ 页面 存档 备份 ， 存 于
+互联网 档案馆 ） . McCarthy recent ly reiterated his position at the AI @ 50
+（ 英语 ： AI @ 50 ） conference where he said " Artificial intelligence is
+not , by definition , simulation of human intelligence " （ Maker 2006 ） .
+--
+□ Nilsson 1983 ， 第10 – 11 页
+42 . ^ ^ 42 . 0 ^ 42 . 1 Symbolic v s . sub - s ymbolic AI :
+□ Nilsson ( 1998 , p . 7 ) , who uses the term " sub - s ymbolic " .
+--
+（ 原始 内容 存档 于 2020 - 08 - 2 1 ） .
+46 . ^ AI ' s immediate precursors :
+□ McCorduck 2004 ， 第51 – 107 页
+--
+See also Template : See section . Among the researchers who laid the
+foundations of AI were Alan Turing , John Von Neumann , Norbert Wiener ,
+Claude Shannon , Warren McCullough , Walter Pitts and Donald Hebb .
+47 . ^ Haugel and 1985 ， 第112 – 117 页
+48 . ^ The most dramatic case of sub - s ymbolic AI being pushed into the
+background was the devastating critique of perceptrons by Marvin Mins ky and
+Seymour Papert in 1969 . See History of AI , AI winter , o r Frank Rosenblatt （
+英语 ： Frank Rosenblatt ） .
+49 . ^ Cognitive simulation , Newell and Simon , AI at CMU ( then called Carnegie
+Tech ) :
+--
+□ Crevier 1993 ， 第258 – 263 页
+51 . ^ McCarthy and AI research at SAIL （ 英语 ： Stanford Artificial Intelligence
+Laboratory ） and SRI International :
+--
+□ Crevier 1993
+52 . ^ AI research at Edinburgh and in France , birth of Prolog :
+□ Crevier 1993 ， 第193 – 196 页
+□ Howe 1994
+53 . ^ AI at MIT under Marvin Mins ky in the 1960 s :
+□ McCorduck 2004 ， 第259 – 305 页
+--
+□ Crevier 1993 ， 第145 – 62 , 197 – 203 页
+57 . ^ Embodied （ 英语 ： Embodied agent ） approaches t o AI :
+□ McCorduck 2004 ， 第454 – 462 页
+--
+978 - 957 - 511 - 1 12 - 0 .
+64 . ^ ^ 64 . 0 ^ 64 . 1 ^ 64 . 2 陈 根 . 人工智能 “ 脱衣 ” 再现 ， 技术 与 道德 的 撕裂 对立 . 澎湃 .
+2020 - 11 - 0 2 [ 2022 - 0 5 - 07 ] （ 中文 ） .
+--
+（ 美国 英语 ） .
+66 . ^ 「モ ザイ ク破 壊」AIでア ダル ト動 画を 加工 著作 権法 など違 反疑 いの 男 逮捕 ｜ 社会
+｜ 地域 のニ ュー ス｜ 京都 新 聞 . 京都 新闻 . [ 2022 - 0 5 - 07 ] . （ 原始 内容 存档 于
+--
+
+• 李开复 、 王咏刚 ； 《 人工智能 来 了 》
+• 李开复 ； 《 AI · 未 来 》
+
+--
+
+• Luger , George ; Stubblefield , William . Artificial Intelligence : Structures
+and Strategies for Complex Problem Solving 5 t h . The Benj amin / Cummings
+--
+2020 [ 2020 - 0 1 - 03 ] . （ 原始 内容 存档 于 2020 - 12 - 21 ） .
+• Luger , George . 人工智能 ： 复杂 问题 求解 的 结构 和 策略 . 由 史忠植 等 翻译 原 书 第4 版 .
+北京 : 机械 工业 出版社 . 2004 . ISBN 7 - 111 - 12944 - X （ 中文 ） .
+--
+档 于 2015 - 0 1 - 08 ） .
+• Nilsson , Nil s . Artificial Intelligence : A New Synthesis . Morgan Kaufmann
+Publisher s . 1998 . ISBN 978 - 1 - 55860 - 467 - 4 .
+--
+7 - 111 - 07885 - 3 （ 中文 ） .
+• Russell , Stuart J . ; Norvig , Peter . Artificial Intelligence : A Modern
+Approach 2nd . Upper Saddle River , New Jersey : Prentice Hal l . 2003 [
+2012 - 10 - 12 ] . ISBN 0 - 13 - 790395 - 2 . （ 原始 内容 存档 于 2011 - 0 2 - 28 ） .
+• Russell , Stuart J . ; Norvig , Peter . 人工智能 ： 一 种 现代 方法 . 由 姜哲 翻译 原 书第
+2 版 . 北京 : 人民 邮电 出版社 . 2004 [ 2012 - 10 - 12 ] . ISBN 9787115122285 . （ 原始 内
+--
+
+人工智能 历史
+
+• Crevier , Danie l . AI : The Tumultuous Search for Artificial Intelligenc e . New
+York , NY : BasicBooks . 1993 . ISBN 978 - 0 - 465 - 0 2997 - 6 .
+--
+2004 [ 2012 - 10 - 12 ] . ISBN 1 - 56881 - 205 - 1 . （ 原始 内容 存档 于 2020 - 03 - 0 1 ） .
+• Nils , Nilsson . The Quest for Artificial Intelligence : A History of Ideas
+and Achievement s . New York : Cambridge University Pres s . 2010 .
+--
+原始 内容 存档 ( PDF ) 于 2007 - 08 - 09 ） . .
+• Buchanan , Bruce G . A ( Very ) Brief History of Artificial Intelligence ( PDF ) .
+AI Magazine . 2005 : 53 – 60 [ 2007 - 08 - 30 ] . （ 原始 内容 ( PDF ) 存档 于 2007 - 0 9 - 26 ） .
+参数 | magazine = 与 模板 {{cite journal }}不匹配 （ 建议 改用 {{cite magazine }} 或 |
+--
+0 - 3 16 - 17232 - 4 .
+• Haugel and , Joh n . Artificial Intelligence : The Very Idea . Cambridge , Mas s . :
+MIT Pres s . 1985 . ISBN 0 - 2 62 - 08153 - 9 .
+--
+York , NY : Vint age Books . 1979 . ISBN 0 - 394 - 74502 - 7 .
+• Howe , J . Artificial Intelligence at Edinburgh University : a Perspectiv e .
+November 1994 [ 2007 - 08 - 30 ] . （ 原始 内容 存档 于 2019 - 0 8 - 25 ） . .
+--
+Addison - Wesle y . 1989 . ISBN 0 - 201 - 51752 - 3 .
+• Lighthill , Professor Sir James . Artificial Intelligence : a paper s ymposiu m .
+Science Research Council . 1973 . | contribution = 被 忽略 ( 帮助 )
+--
+Machine s . 1961 [ 2007 - 08 - 30 ] . （ 原始 内容 存档 于 2007 - 08 - 19 ） .
+• Maker , Meg Houston . AI @ 50 : AI Past , Present , Future . Dartmouth College .
+2006 [ 2008 - 10 - 16 ] . （ 原始 内容 存档 于 2008 - 10 - 08 ） .
+--
+463 – 502 [ 2007 - 08 - 30 ] . （ 原始 内容 存档 于 2007 - 08 - 10 ） .
+• McCarthy , Joh n . What Is Artificial Intelligence ? . 2007 - 11 - 12 [ 2012 - 10 - 12 ] .
+（ 原始 内容 存档 于 2015 - 11 - 18 ） . 引文格式 1 维护 ： 日期 与 年 ( link )
+--
+2012 - 10 - 12 ] . （ 原始 内容 存档 于 2008 - 10 - 07 ） . | contribution = 被 忽略 ( 帮助 ) .
+• Nilsson , Nils , Artificial Intelligence Prepares for 2001 ( PDF ) , AI
+Magazine , 1983 , 1 ( 1 ) [ 2012 - 10 - 12 ] , （ 原始 内容 存档 ( PDF ) 于 2009 - 11 - 06 ） ,
+--
+• Serenko , Alexander ; Detlor , Bria n . Intelligent agent s as innovations ( PDF ) .
+AI and Societ y . 2004 , 18 ( 4 ) : 364 – 381 [ 2012 - 10 - 12 ] . doi : 10 . 1007 /
+s00146 - 004 - 0310 - 5 . （ 原始 内容 ( PDF ) 存档 于 2012 - 03 - 0 1 ） .
+• Serenko , Alexander ; Ruhi , Umar ; Cocosila , Mihail . Unplanned effects of
+intelligent agent s on Internet use : Social Informatics approach ( PDF ) . AI
+and Societ y . 2007 , 21 ( 1 – 2 ) : 141 – 166 [ 2012 - 10 - 12 ] . doi : 10 . 1007 /
+--
+Fairest in the Land ? On the Interpretations , Illustrations and Implications
+of Artificial Intelligence , Business Horizons , 62 ( 1 )
+• Shapiro , Stuart C . Artificial Intelligenc e . Shapiro , Stuart C . ( 编 ) .
+Encyclopedia of Artificial Intelligence ( PDF ) 2nd . New York : John Wile y .
+1992 : 54 – 57 [ 2012 - 10 - 12 ] . ISBN 0 - 471 - 50306 - 1 . （ 原始 内容 存档 ( PDF ) 于
+--
+
+[ 40 p ] Scholia 上 有关 人工智能 （ Q11660 ） 的 信息
+
+--
+• Johnston , John ( 2008 ) " The Allure of Machinic Life : Cybernetics , Artificial
+Life , and the New AI " , MIT Press
+• Myers , Courtney Boyd e d . ( 2009 ) . The AI Report （ 页面 存档 备份 ， 存 于 互联网档
+案馆 ） . Forbes June 2009
+• Serenko , Alexander . The development of an AI journal ranking based on the
+revealed preference approach ( PDF ) . Journal of Informetric s . 2010 , 4 ( 4 ) :
+--
+了 解 更 多 有关
+“ Artificial Intelligence ” 的 内容
+搜索维基 词典 维基 词典 上 的 字 词 解释
+--
+
+• What Is AI ? — An introduction t o artificial intelligence by AI founder John
+McCarth y .
+• 开放式 目录 计划 中 和 AI相关 的 内容
+• AITopics — A large directory of links and other resources maintained by the
+Association for the Advancement of Artificial Intelligence , the leading
+organization of academic AI researcher s .
+• Artificial Intelligence Discussion group （ 页面 存档 备份 ， 存 于 互联网 档案馆 ）
+• 机器人 智能 机器人 智能
+• 研学 论坛 （ 页面 存档 备份 ， 存 于 互联网 档案馆 ） 关于 人工智能 ， 模式 识别 ， 科学 交流
+的 学术 论坛
+• 中国 人工 智能网 －人工智能 | 模式 识别 | 数字 图像 处理 ^ [ 永久 失 效链 接 ]
+• AI Depot — comm unity discussion , news , and articles
+• Loebner Prize website （ 页面 存档 备份 ， 存 于 互联网 档案馆 ）
+• Game AI — 计算机 游戏 开发者 的 AI 资源
+• Kurzweil CyberArt Technologies （ 页面 存档 备份 ， 存 于 互联网 档案馆 ） — 关于 人工智
+能 艺术 的 网 站 ， 里面 有 著名 的 人工智能 绘画 程序AARON
+• 关于 人工智能 ， 专 家 系统prolog 语言 全 介绍 的 wiki网站
+• 中华民国 人工 智能 学会 （ 页面 存档 备份 ， 存 于 互联网 档案馆 ） — 以 促进 中华民国 人工 智
+能 及 相关 领域 之 研究 、 发展 、 应用 与 交流 为 宗旨 的 民间 组织 。
+• MostAI — 关于 人工智能 的 网站 ， A I Fans 交流 平台
+• 智能 程序 自 进化 概念 （ 页面 存档 备份 ， 存 于 互联网 档案馆 ）
+--
+
+人工智能 相关 条目
+• 查
+--
+• 机器 学习
+• 人工智能
+• 数据 结构 与 算法
+--
+应用
+相关 计算 科学 · 人工智能 · 通用 人工智能 · 生成式 人工智能 · 提示 工程 · 统计
+领域 学 · 数据 科学 · 计算机 科学 · 信息 与 计算 科学 · 神经科学 · 认知 科学
+--
+• 计算机 视觉
+人工智能 • 进化 计算
+• 专 家 系统
+--
+应用 • 科学 计算
+• 人工智能
+• 语言 模型
+--
+• 文心 一 言
+• Chinchilla AI （ 英语 ： Chinchilla AI ）
+• PaLM （ 英语 ： PaLM ）
+--
+• Google Brain
+组织 • Meta AI （ 英语 ： Meta AI ）
+• Mila （ 英语 ： Mila ( research institute ) ）
+--
+• 人类 与 机器人 的 互动
+• 人工智能 竞赛 和 奖项 （ 英语 ： Competitions
+and prizes in artificial intelligence ）
+• 机器人 列表 （ 英语 ： List of robots ）
+--
+控制论 相关 领域
+• 人工智能
+• 生物 控制论 （ 英语 ： Biocybernetics ）
+--
+□ 物联网
+• 人工智能
+□ 人工智能 的 应用 （ 英语 ： Applications of
+artificial intelligence ）
+□ 人工智能 的 进展 （ 英语 ： Progress in
+artificial intelligence ）
+□ 机器 学习
+--
+*
+取 自 “ https : // z h . wikipedia . org / w / inde x . php ? title = 人工智能 & oldid = 80081851 ”
+分类 ： ​
+
+• 人工智能
+• 控制论

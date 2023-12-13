@@ -67,7 +67,7 @@ do
         if [ "${lang}" == "cn" ] # concordancier chinois
         then
             export LANG=zh_CN.UTF-8
-            ggrep -Po "(?:\p{Han}{1,}\s|[\x{3002}\x{FF0C}\x{FF1A}\x{FF01}\x{FF1F}\x{3010}\x{3011}\x{FF08}\x{FF09}]\s|\n){0,5}(人工 智能|人工 智慧)(\s\p{Han}{1,}|\s[\x{3002}\x{FF0C}\x{FF1A}\x{FF01}\x{FF1F}\x{3010}\x{3011}\x{FF08}\x{FF09}]|\n){0,5}" $TEXTFILE | LANG=C sed -E -r "s/(.*)(人工 智能|人工 智慧)(.*)/<tr><td>\1<\/td><td>\2<\/td><td>\3<\/td><\/tr>/" >> "../concordances/${lang}-${lineno}.html"
+            ggrep -Po "(?:\p{Han}{1,}\s|[\x{3002}\x{FF0C}\x{FF1A}\x{FF01}\x{FF1F}\x{3010}\x{3011}\x{FF08}\x{FF09}]\s|\n){0,5}(人工 智能|人工 智慧|AI|ai|Ai)(\s\p{Han}{1,}|\s[\x{3002}\x{FF0C}\x{FF1A}\x{FF01}\x{FF1F}\x{3010}\x{3011}\x{FF08}\x{FF09}]|\n){0,5}" $TEXTFILE | LANG=C sed -E -r "s/(.*)(人工 智能|人工 智慧|AI|ai|Ai)(.*)/<tr><td>\1<\/td><td>\2<\/td><td>\3<\/td><\/tr>/" >> "../concordances/${lang}-${lineno}.html"
             ggrep -Po "(?:\p{Han}{1,}\s|[\x{3002}\x{FF0C}\x{FF1A}\x{FF01}\x{FF1F}\x{3010}\x{3011}\x{FF08}\x{FF09}]\s|\n){0,5}(人工智能|人工智慧)(\s\p{Han}{1,}|\s[\x{3002}\x{FF0C}\x{FF1A}\x{FF01}\x{FF1F}\x{3010}\x{3011}\x{FF08}\x{FF09}]|\n){0,5}" $TEXTFILE | LANG=C sed -E -r "s/(.*)(人工智能|人工智慧)(.*)/<tr><td>\1<\/td><td>\2<\/td><td>\3<\/td><\/tr>/" >> "../concordances/${lang}-${lineno}.html"
         fi
         if  [ "${lang}" = "en" ] # concordancier anglais
