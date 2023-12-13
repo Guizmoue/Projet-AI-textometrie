@@ -159,9 +159,9 @@ Une IA, juge de beauté des poissons tropicaux
    beauté des espèces, perception et conservation, l’écologue Nicolas
    Mouquet du laboratoire Biodiversité marine, exploitation et
    conservation1 (Marbec) mène depuis plusieurs années un travail de
-   longue haleine sur la valeur esthétique que nous, humains, attribuons �
+   longue haleine sur la valeur esthétique que nous, humains, attribuons à
    différentes espèces de poissons. Une première étude parue en 2018 a
-   permis d’attribuer un score esthétique – du moins beau au plus beau – �
+   permis d’attribuer un score esthétique – du moins beau au plus beau – à
    140 espèces de poissons de récifs coralliens. Le dispositif était
    simple en apparence : demander à des centaines de volontaires de
    discriminer entre des paires de photos associant à chaque fois deux
@@ -238,12 +238,12 @@ Les "moches" plus nombreux, plus anciens et plus variés
    qu’elle attribue un score esthétique à chacun – un volume énorme qui
    aurait été impossible à traiter par de simples mortels.
 
-   Pour obtenir un bon score esthétique, comme les poissons situés �
+   Pour obtenir un bon score esthétique, comme les poissons situés à
    gauche dans ce schéma, mieux vaut avoir des couleurs contrastées et un
    corps arrondi.
 
    CNRS Le Journal (BUTTON)
-   Pour obtenir un bon score esthétique, comme les poissons situés �
+   Pour obtenir un bon score esthétique, comme les poissons situés à
    gauche dans ce schéma, mieux vaut avoir des couleurs contrastées et un
    corps arrondi.
    2022 Langlois et al. PLoS Biol 20(6): e3001640 (CC-BY 4.0) / images G.
@@ -322,7 +322,7 @@ Un « délit de sale gueule » jusque chez les scientifiques ?
 
    « Certains de nos biais de perception sont basés sur notre attirance
    pour les couleurs vives, les contrastes et les formes arrondies,
-   notamment. Mais on peut à terme modifier ce jugement en apprenant �
+   notamment. Mais on peut à terme modifier ce jugement en apprenant à
    mieux connaître les espèces, la façon dont elles vivent et leur rôle
    dans l’écosystème. Tout comme, en art contemporain, un apprentissage et
    une mise en contexte sont souvent nécessaires pour saisir toute la
@@ -353,6 +353,12 @@ Auteur
 Voir aussi
 
    Vivant
+   Blog
+   11/12/2023
+   Cellule souche cherche sa destinée
+   Diaporama
+   12/12/2023
+   Paludisme : des pistes pour enrayer la prolifération du parasite
    Article
    07/12/2023
    Carnets de science #15 : Addiction, le désordre du siècle
@@ -363,13 +369,6 @@ Voir aussi
    Article
    06/12/2023
    Ces plantes qui envahissent le monde
-   Vidéo
-   22/11/2023
-   Aux origines du sol
-   dessin de coronavirus © Starline sur Freepik
-   Blog
-   16/11/2023
-   Comment notre répertoire immunitaire s'adapte aux infections
    Ecologie
    hippopotame dans les jacinthes d’eau
    Article

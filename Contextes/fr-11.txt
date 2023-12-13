@@ -1,6 +1,6 @@
-
-   5Transparence du système d'IA ?
-
+     * 4Investissements financiers
+     * 5Transparence du système d'IA ?
+     * 6Vers une régulation, une réglementation et une gestion des risques
 --
 
 Intelligence artificielle générative
@@ -17,12 +17,12 @@ Intelligence artificielle générative
    discutée : l'IA générative est en effet aussi source d'inquiétudes et
    des défis éthiques, techniques et socioéconomiques à la hauteur des
 --
-   conscience, de la créativité, de la paternité^[6], et crée de nouvelles
-   interactions homme-machine. L'IA est encore peu régulée et la
-   difficulté d’évaluer la qualité et la fiabilité des contenus générés ou
-   l’impact sur la créativité et la propriété intellectuelle humaines est
-   croissante. Certains experts craignent que des IA génératives à venir
-   soient capables de manipuler les humains, d'accéder à des systèmes
+   nature de la conscience, de la créativité, de la paternité^[6], et crée
+   de nouvelles interactions homme-machine. L'IA est encore peu régulée et
+   la difficulté d’évaluer la qualité et la fiabilité des contenus générés
+   ou l’impact sur la créativité et la propriété intellectuelle humaines
+   est croissante. Certains experts craignent que des IA génératives à
+   venir soient capables de manipuler les humains, d'accéder à des
 --
    incontrôlable au point de menacer l'existence de l'humanité^[7]. Un
    premier sommet mondial en sûreté de l'IA est organisée début novembre
@@ -40,6 +40,7 @@ Intelligence artificielle générative
 --
 
    Les versions publiques de grands modèles d'IA générative disponibles en
+   2022/2023 produisent des contenus modulés et filtrés de manière à
 --
    ou sexuellement explicites^[12]^,^[13]^,^[14]^,^[15]. Au début des
    années 2020, la puissance de calcul de l’IA a doublé tous les six à dix
@@ -64,6 +65,7 @@ Intelligence artificielle générative
 --
    Les cadres technologiques et conceptuels les plus importants pour
    aborder l'IA générative sont en cours d’élaboration depuis un certain
+   temps^[6], mais ils n'ont vraiment abouti que dans les années 2020 à
    plusieurs types de modèles d'IA particulièrement efficaces :
      * les réseaux antagonistes génératifs (GAN), composés de deux
 --
@@ -151,6 +153,7 @@ Transparence du système d'IA ?[modifier | modifier le code]
    recherche en IA chez Meta) qui jugent ces craintes ridicules et
    déraisonnables, affirmant que les IAs comme ChatGPT ne sont pas encore
 --
+   DeepMind, d’OpenAI, d’Anthropic, de plusieurs organismes de recherche à
    but non lucratif sur l’IA et Yoshua Bengio (lauréat du prix Turing)
    suggèrent dans un article^[43] que les créateurs des modèles d'IA les
    plus puissants doivent pouvoir évaluer si leurs IAs ont des capacités
@@ -208,10 +211,10 @@ Transparence du système d'IA ?[modifier | modifier le code]
        (lire en ligne, consulté le 14 mars 2023)
     3. ↑ « Explainer: What is Generative AI, the technology behind
        OpenAI's ChatGPT? », Reuters,‎ 17 mars 2023 (lire en ligne,
---
-       Global, 8 janvier 2021 (consulté le 9 novembre 2023)
-    5. ↑ Ahona Rudra, « Risques de cybersécurité liés à l'IA générative »,
+       consulté le 17 mars 2023)
+    4. ↑ Ahona Rudra, « Risques de cybersécurité liés à l'IA générative »,
        sur powerdmarc.com, 26 juillet 2023 (consulté le 27 août 2023)
+--
     6. ↑ ^a b et c (en) Rachel Gordon, « MIT CSAIL (Laboratoire
        d’Informatique et d’Intelligence Artificielle) researchers discuss
        frontiers of generative AI », sur MIT News, 12 avril 2023 (consulté
@@ -323,62 +326,66 @@ Transparence du système d'IA ?[modifier | modifier le code]
    v · m
    Intelligence artificielle (IA)
    Concepts
-     * Histoire de l'IA
-     * Sûreté des IA(s)
-     * Intelligence artificielle : une approche moderne
-     * Hallucination (IA)
-     * Analyse prédictive
---
-           Organisation
-     * Agence francophone pour l'IA
-     * Partenariat sur l'IA
-
---
-     * Grand modèle de langage
-     * IA symbolique
-     * IA générative
-     * Réseau neuronal convolutif
---
-
-   Applications de l'IA
-     * Planification (IA)
-     * IA dans le jeu vidéo
-     * IA dans la santé
-     * Écriture assistée par IA
-     * Art créé par IA
-     * Véhicule autonome
-     * Diagnostic (IA)
-     * DeepL
---
-   Philosophie morale et éthique
-     * Philosophie de l'IA
-     * Lettre ouverte sur l'IA
-     * Éthique de l'IA
-     * IA faible
-     * IA digne de confiance
-     * I.A. La Plus Grande Mutation de l'Histoire
      * Effet IA
-     * Déclaration de Montréal pour un développement responsable de
-       l'intelligence artificielle
-     * Contrôle des capacités de l'IA
-     * Chambre chinoise
+     * Grand modèle de langage
+     * Hallucination (IA)
+     * IA générale
+     * IA générative
+
 --
+     * Modèle des croyances transférables
+     * IA symbolique
+     * Réseau bayésien
+--
+   Applications
+     * Art créé par IA
+     * ChatGPT
+     * DeepL
+     * Diagnostic (IA)
+     * Écriture assistée par IA
+     * IA dans la santé
+     * IA dans le jeu vidéo
+     * Perception artificielle
+     * Planification (IA)
+     * Robotique
+--
+   Enjeux et philosophie
+     * Alignement de l'IA
+     * Chambre chinoise
+     * Conscience artificielle
+     * Contrôle des capacités de l'IA
+     * Éthique de l'IA
+     * IA digne de confiance
+     * Philosophie de l'IA
+     * Sûreté de l'IA
+
    Histoire et événements
      * Histoire de l'intelligence artificielle
      * Logic Theorist (1955)
 --
    Science-fiction
+     * Anticipation (IA)
+     * IA-complet
      * IA générale
      * Risque de catastrophe planétaire lié à l'intelligence artificielle
        générale
-     * IA-complet
-     * Superintelligence
-     * Anticipation (IA)
-
-          Règlementation
+--
+       Règlementation
      * Législation sur l'IA
      * Réglementation de l'IA
 
+   Organisations
+     * Agence francophone pour l'IA
+     * Google DeepMind
+     * OpenAI
+     * Partenariat sur l'IA
+
+--
+     * Déclaration de Montréal pour un développement responsable de
+       l'intelligence artificielle
+     * Lettre ouverte sur l'IA
+     * Intelligence artificielle : une approche moderne
+     * I.A. La Plus Grande Mutation de l'Histoire
 --
      * Réseau de neurones artificiels
      * Intelligence artificielle

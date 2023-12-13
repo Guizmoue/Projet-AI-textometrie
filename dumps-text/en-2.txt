@@ -237,6 +237,22 @@ Do you want to be informed in real time?
      * Digital transition
 
    Cyber risks
+   Atos: the consequences for cybersecurity at the 2024 Olympic Games
+   12 December 2023
+
+Atos: the consequences for cybersecurity at the 2024 Olympic Games
+
+   By Stanislas Tarnowski
+   Atos, one of the main cybersecurity providers for the Olympic Games, is
+   in turmoil. Will the company split before the start of the Games? The
+   uncertainty and controversy surrounding the operation are ...
+   Use of generative AI growing in corporations without clear guidelines
+   05 December 2023
+
+Use of generative AI growing in corporations without clear guidelines
+
+   Fifty-eight percent of French employees who use generative AI for work
+   do so without employer authorization.
    The Software Defined Vehicle: a growing need for cybersecurity
    27 November 2023
 
@@ -270,23 +286,14 @@ How phishing scams utilize OSINT
    Open-source intelligence may be increasing the risks posed by phishing
    scams. Many people aren’t aware of how much may be available about them
    online, but scammers do, and they’re taking ...
-   Cyberscore: is France really taking the digital threat seriously?
-   07 November 2023
-
-Cyberscore: is France really taking the digital threat seriously?
-
-   By Alexandre Lazarègue, avocat spécialisé en droit du numérique
-   The cyberscore, introduced by law on March 3, 2022, aims to do for
-   cybersecurity what the nutriscore did for food. However, with its
-   limited scope and modest requirements, it is not certain that it ...
-   Ransomware: 40 countries make commitment to no longer pay ransoms
-   04 November 2023
-
-Ransomware: 40 countries make commitment to no longer pay ransoms
-
-   Alliance led by United States and supported by European Union seeks to
-   dry up funding for cybercriminal groups.
    Cyber industrial safety
+   Canada to strengthen energy sector cyber defense
+   04 December 2023
+
+Canada to strengthen energy sector cyber defense
+
+   Confidential meeting on issue with main industry players took place in
+   June 2023.
    Siemens launches industrial cybersecurity analysis tool
    21 October 2023
 
@@ -323,14 +330,14 @@ Wallix raises €10.5 million
 
    The French specialist in privileged access raised 5.5 million euros in
    one night only.
-   Despite improvements, OT cybersecurity remains a problem
-   04 July 2023
-
-Despite improvements, OT cybersecurity remains a problem
-
-   Fortinet’s latest report shows that 75% of manufacturers have suffered
-   at least one intrusion in the last 12 months.
    Security and Stability in Cyberspace
+   Instant messaging: Matignon to require Olvid for government employees
+   05 December 2023
+
+Instant messaging: Matignon to require Olvid for government employees
+
+   Ministries, state secretaries and cabinets prohibited from using
+   WhatsApp, Signal and Telegram.
    United States: SEC sues SolarWinds
    07 November 2023
 
@@ -371,16 +378,14 @@ Will the Moon soon get Internet?
    The new wave of lunar exploration programs that began with the Artemis
    1 mission last year will be very different than the program of the
    1960s. The missions that will take off in the coming years ...
-   Why is there so much misinformation about the Israel-Hamas war on X?
-   26 October 2023
-
-Why is there so much misinformation about the Israel-Hamas war on X?
-
-   By Fanny Tan
-   Since Hamas’s surprise attack against Israel on October 7, 2023, social
-   media has been inundated with false and misleading content, especially
-   X (formerly Twitter). How can we explain such a ...
    Cybercrime
+   New crackdown on ransomware gang responsible for Altran hack
+   05 December 2023
+
+New crackdown on ransomware gang responsible for Altran hack
+
+   Europol and Eurojust coordinate apprehension of five new suspects in
+   Ukraine, adding to 13 arrests in 2021.
    Data theft at PC cloud platform Shadow
    19 November 2023
 
@@ -418,15 +423,25 @@ Operation Triangulation reveals vulnerabilities at Apple
 Who unplugged the Mozi botnet?
 
    Mystery kill switch ended botnet in summer of 2023.
-   Reshipping service for goods bought with stolen bankcards falls prey to
-   hack
-   10 November 2023
-
-Reshipping service for goods bought with stolen bankcards falls prey to hack
-
-   Named SWAT USA Drop Service, cybercriminal enterprise employs 1,200
-   people in the United States.
    Operational security
+   Best practices in managing IT compliance
+   13 December 2023
+
+Best practices in managing IT compliance
+
+   By Fabrice Deblock
+   Some companies may see the proliferation of IT compliance regulations
+   as a difficult constraint to manage. But with the right method,
+   discipline and common sense, it is possible to handle these ...
+   Cybersecurity compliance: new technologies are on the rise
+   11 December 2023
+
+Cybersecurity compliance: new technologies are on the rise
+
+   By Camille Dal Ponte
+   Companies must get to grips with RegTech, LegalTech and SupTech. The
+   aim? To use digital tools to optimize their compliance and mitigate the
+   risks related to their activities.
    United States: Joe Biden signs first executive order on AI
    02 November 2023
 
@@ -457,22 +472,14 @@ Yves Bernaert, new CEO of Atos Group
 
    Yves Bernaert leaves Accenture management to head Eviden, tech giant’s
    cloud, cybersecurity, supercomputer, and quantum branch.
-   Threat detection and AI: Cisco acquires Splunk
-   27 September 2023
-
-Threat detection and AI: Cisco acquires Splunk
-
-   Cisco acquisition of data analysis solutions provider for 28 billion
-   dollars seeks to harness cybersecurity transformation brought on by AI
-   boom.
-   Thirty-eight TB of internal Microsoft data left unprotected for three
-   years
-   25 September 2023
-
-Thirty-eight TB of internal Microsoft data left unprotected for three years
-
-   Computer giant under fire for failing to protect sensitive data.
    Antifraud action
+   Okta data leak: company recognizes all customers concerned
+   11 December 2023
+
+Okta data leak: company recognizes all customers concerned
+
+   Cyberattack hit identity and access management company in September
+   2023.
    Europol takes down cyber-equipped betting fraud gang
    21 September 2023
 
@@ -509,13 +516,6 @@ United States: OpenAI under FTC investigation
 
    The US Federal Trade Commission is investigating ChatGPT over claims of
    misrepresentation.
-   Olympic Games: ANSSI argues for “healthy paranoia”
-   13 July 2023
-
-Olympic Games: ANSSI argues for “healthy paranoia”
-
-   Vincent Strubel, head of ANSSI, goes over security measures for Paris
-   2024 Games, as well as threats the event faces.
    Digital identity & KYC
    Interim agreement on European digital identity wallet
    14 November 2023
@@ -578,6 +578,21 @@ regulatory framework on the way?
    Imposing a binding set of global regulations is unrealistic, since it
    would require states to give up their legal autonomy. However, the
    positive influences of the GDPR are spreading, inspiring ...
+   European Union: no compromise in sight for AI Act
+   06 December 2023
+
+European Union: no compromise in sight for AI Act
+
+   France and Germany balk at overly restrictive rules that could hinder
+   their startups.
+   Cloud: European Union slightly loosens sovereignty criteria
+   05 December 2023
+
+Cloud: European Union slightly loosens sovereignty criteria
+
+   Latest version of EUCS, future European certification scheme for cloud
+   services, specifically reduces requirements for “impermeability” to
+   extraterritoriality of foreign legislation.
    AI Act: towards three-tiered generative AI regulation
    04 December 2023
 
@@ -601,23 +616,6 @@ Apple: must iMessage comply with the DMA?
 
    Google and four network providers want Apple instant messaging service
    to comply with “gatekeeper” interoperability requirements.
-   NIS2 on the horizon: companies need to get ready
-   08 November 2023
-
-NIS2 on the horizon: companies need to get ready
-
-   By Thomas Joos
-   The aim of this new European directive is to strengthen cybersecurity
-   in Europe. It is set to replace the NIS1 directive, whose requirements
-   are no longer up to the task of improving security, ...
-   AI: France, Germany and Italy want to strengthen EU’s strategic
-   autonomy
-   04 November 2023
-
-AI: France, Germany and Italy want to strengthen EU’s strategic autonomy
-
-   Economy ministers from three member States want to promote growth of
-   most innovative European companies.
    Digital transition
    Business intelligence faced with generative AI: overcoming fears
    06 December 2023
@@ -628,6 +626,12 @@ Business intelligence faced with generative AI: overcoming fears
    The current use of generative AI in the business intelligence sector
    raises a number of fears. These may be overcome by educating
    professionals.
+   Atos: Daniel Křetínský unlikely to become Eviden shareholder
+   05 December 2023
+
+Atos: Daniel Křetínský unlikely to become Eviden shareholder
+
+   IT group half-heartedly confirms information leaked in press.
    Digital assistants: a new team member joins manned flights
    04 December 2023
 
@@ -666,15 +670,6 @@ humans and machines…and much more
    This science fiction movie, directed by Alex Garland, is a “No Exit”
    that examines the possibilities of human empathy toward an artificially
    intelligent system. Moreover, it uses ...
-   Corporate cryptocurrency cashflow: balancing flexibility and security
-   20 November 2023
-
-Corporate cryptocurrency cashflow: balancing flexibility and security
-
-   By Agathe Laurent
-   The rise of cryptocurrencies is being felt in the business world.
-   Companies’ adoption of this technology raises specific issues of
-   governance and security. Here is a guide to the topic.
 
    InCyber
      * Linkedin
@@ -723,7 +718,7 @@ Corporate cryptocurrency cashflow: balancing flexibility and security
    spécifique explicitement demandé par l’abonné ou l’utilisateur, ou dans
    le seul but d’effectuer la transmission d’une communication sur un
    réseau de communications électroniques.
-   Préférence[ ]_] Préférences
+   Préférences [ ] Préférences
    Storage or technical access is necessary for the purpose of legitimate
    interest to store preferences that are not requested by the subscriber
    or user.

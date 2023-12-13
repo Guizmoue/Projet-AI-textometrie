@@ -1,7 +1,3 @@
-            growth
-          + Securing workers’ rights in the AI revolution
-     * Energy & Environment
---
 
           + Artificial Intelligence
           + Competition

@@ -176,12 +176,12 @@ Athénan, une IA joueuse multi-championne
 
    Les systèmes d’IA dédiées aux jeux de société consistent en des
    algorithmes qui permettent de formaliser une façon de réfléchir sur un
-   jeu donné, voire, comme dans le cas d’Athénan, d’apprendre lui-même �
+   jeu donné, voire, comme dans le cas d’Athénan, d’apprendre lui-même à
    jouer et s’auto-entraîner. Le développement de tels logiciels a
    toujours attiré les experts en IA. Et pour cause : mobilisant un large
    éventail de capacités intellectuelles humaines, les jeux de société
    (dits aussi « de réflexion ») représentent un terrain d’expérimentation
-   privilégié pour tester l’intelligence des machines et la comparer �
+   privilégié pour tester l’intelligence des machines et la comparer à
    l’intelligence humaine ; un des buts de l’IA étant de développer des
    machines qui surpassent le cerveau humain (et pourraient ainsi le
    remplacer) pour certaines tâches précises.
@@ -194,19 +194,19 @@ Une quête qui remonte aux origines de l’informatique
    Turing (1912-1954) et Claude Shannon (1916-2001) proposèrent des
    programmes rudimentaires capables de jouer aux échecs. « Mais ce n’est
    qu’en 1997 – soit près de 40 ans après –, qu’une machine, le
-   superordinateur Deep Blue de la société américaine IBM, réussit �
+   superordinateur Deep Blue de la société américaine IBM, réussit à
    battre pour la première fois, dans les conditions normales d’un
    tournoi, un champion du monde d’échecs, le Russe Garry Kasparov »,
    poursuit l’expert en IA.
 
    Le champion du monde d'échecs Garry Kasparov joue un coup pendant sa
-   quatrième partie contre l'ordinateur IBM Deep Blue. Le moniteur �
+   quatrième partie contre l'ordinateur IBM Deep Blue. Le moniteur à
    droite transmet le coup de l'ordinateur à un scientifique d'IBM qui
    déplace les pièces sur l'échiquier (New York, 7 mai 1997).
 
    CNRS Le Journal (BUTTON)
    Le champion du monde d'échecs Garry Kasparov joue un coup pendant sa
-   quatrième partie contre l'ordinateur IBM Deep Blue. Le moniteur �
+   quatrième partie contre l'ordinateur IBM Deep Blue. Le moniteur à
    droite transmet le coup de l'ordinateur à un scientifique d'IBM qui
    déplace les pièces sur l'échiquier (New York, 7 mai 1997).
    Stan HONDA / AFP
@@ -233,7 +233,7 @@ L’ère des IA « généralistes »
 
    Fin 2017, la société DeepMind présenta une autre avancée historique
    pour le monde de l’IA : AlphaZero4. Sa particularité ? Cette version
-   « généraliste » d’AlphaGo est capable de jouer non pas à un, mais �
+   « généraliste » d’AlphaGo est capable de jouer non pas à un, mais à
    plusieurs jeux : au go, mais aussi aux échecs et au shogi (échecs
    japonais). « Contrairement à son prédécesseur, AlpaZero a été développé
    pour apprendre à bien jouer à un jeu donné… en jouant contre lui-même ;
@@ -325,7 +325,7 @@ Utile dans d’autres domaines ?
    donnée (La Poste, etc.) ; ou encore déterminer la structure
    (“séquence”) d’une molécule d’ARN donnée (une molécule génétique, Ndlr)
    à partir de sa forme, pour faire avancer plus vite la recherche
-   biomédicale », illustre Tristan Cazenave. Athénan n’en est donc qu’�
+   biomédicale », illustre Tristan Cazenave. Athénan n’en est donc qu’à
    ses tout débuts. ♦
    Notes
      * 1. « Minimax Strikes Back », Q. Cohen-Solal et T. Cazenave, 19
@@ -368,6 +368,9 @@ Voir aussi
 
    Numérique
    Blog
+   11/12/2023
+   Cellule souche cherche sa destinée
+   Blog
    07/12/2023
    Les robots face à l’incertitude
    Article
@@ -380,10 +383,6 @@ Voir aussi
    Blog
    20/11/2023
    Faciliter l'étude d’un vaste corpus documentaire par la...
-   dessin de coronavirus © Starline sur Freepik
-   Blog
-   16/11/2023
-   Comment notre répertoire immunitaire s'adapte aux infections
    Informatique
    Article
    14/09/2023

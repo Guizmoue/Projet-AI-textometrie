@@ -425,6 +425,9 @@ The urgent need to establish a sustainable helium supply
 
 Latest Partners
 
+Akora Resources: Developing the Bekisopa project for the future of green...
+
+   11th December 2023
    Go2Lithium’s cDLE® technology
 
 Go2Lithium: Maximising the value of lithium brine assets with cDLE®
@@ -432,12 +435,29 @@ technology
 
    6th December 2023
 
-Proteum Energy®: Revolutionary hydrogen production technology creates a clean
-energy addition
-
-   30th November 2023
-
 Similar Articles
+
+European Commission approves revolutionary AI Act
+
+   Technology 12th December 2023
+   To regulate Artificial Intelligence and its potential impact on
+   society, the European Commission has announced the approval of the AI
+   Act.
+   Read more
+
+Groundbreaking portable AI system can turn thoughts into text
+
+   Technology 12th December 2023
+   In a world-first, researchers have developed a non-invasive, portable
+   AI system that can decode silent thoughts and turn them into text.
+   Read more
+
+ChatGPT: Only good for fairy tales or your new content guru?
+
+   Technology 11th December 2023
+   Is ChatGPT the answer to everything, or could it be spreading fake
+   news? Read more here to learn the ups and downs of the software.
+   Read more
 
 Demonstrating native AI for mobile network operation
 
@@ -445,6 +465,8 @@ Demonstrating native AI for mobile network operation
    Discover how the EU-funded DAEMON project has developed several
    practical solutions to integrate AI into mobile network architectures.
    Read more
+
+Similar Articles
 
 AI in business has its benefits – so why don’t more companies adopt it?
 
@@ -467,8 +489,6 @@ VEDLIoT: Next generation AIoT applications
    a wide range of IoT use cases. Discover more here.
    Read more
 
-Similar Articles
-
 High-density computing memory developed by scientists
 
    Technology 1st December 2023
@@ -476,56 +496,35 @@ High-density computing memory developed by scientists
    computing memory that is fast, dense, and low-power.
    Read more
 
-AI in businesses to grow with new government guidance
-
-   Technology 30th November 2023
-   The UK Government has released new guidance to increase the uptake of
-   AI in businesses and ensure workers have the necessary skills.
-   Read more
-
-Amazon to provide free AI training to two million people by 2025
-
-   Technology 29th November 2023
-   Amazon has revealed that they will provide free AI training to two
-   million people via the company’s ‘AI Ready’ initiative by 2025.
-   Read more
-
-UK drone superhighway will be completed by 2024
-
-   Technology 28th November 2023
-   The world’s largest and longest drone superhighway network, spearheaded
-   by Altitude Angel, is set to be complete by May 2024. Read more here.
-   Read more
-
 More from Innovation News Network
+
+European Commission approves revolutionary AI Act
+
+   Technology 12th December 2023
+   To regulate Artificial Intelligence and its potential impact on
+   society, the European Commission has announced the approval of the AI
+   Act.
+   Read more
+
+Groundbreaking portable AI system can turn thoughts into text
+
+   Technology 12th December 2023
+   In a world-first, researchers have developed a non-invasive, portable
+   AI system that can decode silent thoughts and turn them into text.
+   Read more
+
+ChatGPT: Only good for fairy tales or your new content guru?
+
+   Technology 11th December 2023
+   Is ChatGPT the answer to everything, or could it be spreading fake
+   news? Read more here to learn the ups and downs of the software.
+   Read more
 
 Demonstrating native AI for mobile network operation
 
    Technology 8th December 2023
    Discover how the EU-funded DAEMON project has developed several
    practical solutions to integrate AI into mobile network architectures.
-   Read more
-
-AI in business has its benefits – so why don’t more companies adopt it?
-
-   Technology 7th December 2023
-   Learn about the use of AI in business and MESH AI's groundbreaking
-   report, 'The State of AI in the Enterprise.'
-   Read more
-
-Creating a digital twin to simulate medical treatments
-
-   Medical Science 7th December 2023
-   Researchers have assessed the best treatment for a patient with a
-   cerebral haemorrhage by performing the procedure on their digital twin.
-   Read more
-
-About:Energy and Eatron Technologies awarded funding to accelerate AI battery
-management systems
-
-   Electric Vehicles 6th December 2023
-   About:Energy and Eatron Technologies have been awarded funding to
-   develop an AI-powered decision-engine for battery management systems.
    Read more
 
    Innovation News Network

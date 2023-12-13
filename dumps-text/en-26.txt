@@ -222,8 +222,6 @@ About Channels
        Florida-Jacksonville Neurosurgery
      * [channel_logo_1525976670-logo.png] University of Louisville
        Neurosurgery
-     * [channel_logo_1495046465-LMU-logo.jpg] University of Munich
-       Neurology
      * [channel_logo_1597339004-usf_logo_final.png] University of South
        Florida
      * [channel_logo_VCOM_4_multi_campus_logo_400x400.png] VCOM Clinical,
@@ -496,8 +494,6 @@ Channels
        Florida-Jacksonville Neurosurgery
        [channel_logo_1525976670-logo.png] University of Louisville
        Neurosurgery
-       [channel_logo_1495046465-LMU-logo.jpg] University of Munich
-       Neurology
        [channel_logo_1597339004-usf_logo_final.png] University of South
        Florida
        [channel_logo_VCOM_4_multi_campus_logo_400x400.png] VCOM Clinical,

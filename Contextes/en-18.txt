@@ -78,12 +78,29 @@ AI models should incorporate social cues
 
 --
 
+European Commission approves revolutionary AI Act
+
+   Technology 12th December 2023
+   To regulate Artificial Intelligence and its potential impact on
+   society, the European Commission has announced the approval of the AI
+   Act.
+--
+
+Groundbreaking portable AI system can turn thoughts into text
+
+--
+   In a world-first, researchers have developed a non-invasive, portable
+   AI system that can decode silent thoughts and turn them into text.
+   Read more
+--
+
 Demonstrating native AI for mobile network operation
 
 --
    Discover how the EU-funded DAEMON project has developed several
    practical solutions to integrate AI into mobile network architectures.
    Read more
+--
 
 AI in business has its benefits – so why don’t more companies adopt it?
 
@@ -97,18 +114,19 @@ AI in business has its benefits – so why don’t more companies adopt it?
    a wide range of IoT use cases. Discover more here.
 --
 
-AI in businesses to grow with new government guidance
+European Commission approves revolutionary AI Act
+
+   Technology 12th December 2023
+   To regulate Artificial Intelligence and its potential impact on
+   society, the European Commission has announced the approval of the AI
+   Act.
+--
+
+Groundbreaking portable AI system can turn thoughts into text
 
 --
-   The UK Government has released new guidance to increase the uptake of
-   AI in businesses and ensure workers have the necessary skills.
-   Read more
-
-Amazon to provide free AI training to two million people by 2025
-
-   Technology 29th November 2023
-   Amazon has revealed that they will provide free AI training to two
-   million people via the company’s ‘AI Ready’ initiative by 2025.
+   In a world-first, researchers have developed a non-invasive, portable
+   AI system that can decode silent thoughts and turn them into text.
    Read more
 --
 
@@ -117,19 +135,4 @@ Demonstrating native AI for mobile network operation
 --
    Discover how the EU-funded DAEMON project has developed several
    practical solutions to integrate AI into mobile network architectures.
-   Read more
-
-AI in business has its benefits – so why don’t more companies adopt it?
-
-   Technology 7th December 2023
-   Learn about the use of AI in business and MESH AI's groundbreaking
-   report, 'The State of AI in the Enterprise.'
-   Read more
---
-
-About:Energy and Eatron Technologies awarded funding to accelerate AI battery
-management systems
---
-   About:Energy and Eatron Technologies have been awarded funding to
-   develop an AI-powered decision-engine for battery management systems.
    Read more

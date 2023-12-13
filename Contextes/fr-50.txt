@@ -48,7 +48,9 @@ L’intelligence artificielle en roue libre
 --
    avant toute question d’éthique, ce sont les failles des modèles de
    langue d’intelligence artificielle sur lesquels s’appuient ChatGPT,
+   Bard et autre Bing qui devraient nous inquiéter. “Les utiliser à
 --
+   journalistes, celui du photojournaliste suisse Niels Ackermann. Face à
    l’essor d’IA comme Midjourney, capables de produire des images qui
    ressemblent à s’y méprendre à des photos prises par les humains, les
 --
@@ -63,8 +65,4 @@ L’intelligence artificielle en roue libre
 
    Vu de Suisse. Le double jeu d’Elon Musk sur l’intelligence artificielle
    ChatGPT Société Sciences & Techno Intelligence artificielle (IA)
-
---
-   Opinion. Les frappes “de précision” de Tsahal à Gaza ont tout d’un
-   “génocide assisté par l’IA”
 

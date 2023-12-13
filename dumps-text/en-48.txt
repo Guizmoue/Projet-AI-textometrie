@@ -1,9 +1,9 @@
    #alternate alternate National » Feed National » MoneyWatch Feed
 
-     * Israel-Hamas War
-     * Hunter Biden Indicted
-     * Porch Pirates
-     * QR Code Risks
+     * Harvard President
+     * Julia Roberts Interview
+     * Costly "American Dream"
+     * AI Detects Fake Products
      * CBS News Live
      * Managing Your Money
      * Newsletters
@@ -24,21 +24,23 @@
                o Essentials
           +
                o
-                    # Penn President Liz Magill resigns after
-                      controversial congressional hearing on antisemitism
-                    # Texas court temporarily halts ruling allowing woman
-                      to have emergency abortion
-                    # Shohei Ohtani signs record deal with Dodgers
-                    # Iran activist Narges Mohammadi to go on hunger
-                      strike when awarded Nobel
-                    # At least 3 killed after fire in hospital near Rome
-                    # Volunteers flock to Israel to harvest produce amid
-                      farm labor shortage
-                    # Minnesota man arrested after impaling grocery worker
-                      with golf club: Police
-                    # Legislation giving nature the same rights as humans
-                      gaining traction
-                    # Here's how experts say you can thwart porch pirates
+                    # Biden: Failure to pass Ukraine funding would be
+                      "Christmas gift" to Putin
+                    # COP28 climate summit OK's controversial "historic"
+                      pact
+                    # White House lays out offer on immigration changes in
+                      talks with Congress
+                    # Biden says Netanyahu's government needs to change
+                    # Andre Braugher, "Brooklyn Nine-Nine" actor, dead at
+                      61
+                    # Fla. school board asks member Bridget Ziegler to
+                      quit amid sex assault probe of husband
+                    # Pregnant woman suing over abortion learns embryo has
+                      no cardiac activity
+                    # New York's top court sides with Dems, orders
+                      redrawing of congressional maps
+                    # Body pulled from Chicago pond amid search for
+                      missing teen Brissa Romero
      *
      * Shows
           + cbs-mornings CBS Mornings
@@ -205,12 +207,19 @@ Need for guardrails
    this month, The Arena Group announced that it had merged with Bridge
    Media Networks, which produces news, sports and other content.
 
-More from CBS News
+Trending News
 
-   Volunteers flock to Israel to harvest produce amid farm labor shortage
-   Food makers focus on supplements, side dishes for those on Ozempic
-   Social Security clawbacks hit a million more people than agency said
-   McDonald's plans to add about 10,000 new stores worldwide by 2027
+   Ivy League Preview Football
+   How rich is Harvard? It's bigger than the economies of 120 nations.
+   cosmcsskyhero-2336x1040-hero-desktop.jpg
+   McDonald's is opening a new chain called CosMc's. Here's what to know.
+   Invictus Games 2023
+   Prince Harry and Meghan's foundation sees $11 million drop in donations
+   Row of Single Family Homes on Residential Street in Western New York
+   During Early Winter
+   The "American Dream" costs far more than most people will ever earn
+   gettyimages-832907262.jpg
+   Should you open a short-term CD this December?
    In:
      * Sports Illustrated
      * AI
@@ -235,13 +244,13 @@ More from CBS News
 
 More from CBS News
 
-Volunteers flock to Israel to harvest produce amid farm labor shortage
+Hackers had access to patient information for months in hospital cyberattack
 
-Food makers focus on supplements, side dishes for those on Ozempic
+Why dictionary.com's word of the year is "hallucinate"
 
-Social Security clawbacks hit a million more people than agency said
+Tucker Carlson is launching a $9 per month streaming service
 
-McDonald's plans to add about 10,000 new stores worldwide by 2027
+Report warns Taliban crackdown, abuse in schools harming girls and boys
 
    Copyright ©2023 CBS Interactive Inc. All rights reserved.
      * Privacy Policy

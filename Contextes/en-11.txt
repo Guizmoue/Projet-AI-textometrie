@@ -29,18 +29,6 @@
    such as whether to count future generations or the AI itself. These
    issues can be more important than the question of whether or not to use
 --
-
-A Unified Framework of Five Principles for AI in Society
-
---
-Participation, prediction, and publicity: avoiding the pitfalls of applying
-Rawlsian ethics to AI
-
---
-
-Artificial Intelligence and Ethical Principles
-
---
     1. Note that while consciousness may play a role in ethics learning
        among human children, it is not essential for AI. The essential
        feature is that ethics is learned via interaction with the

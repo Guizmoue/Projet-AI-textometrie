@@ -1,6 +1,17 @@
    #Medium alternate
 
+   Open in app
+
+   (BUTTON) Sign up
+
+   Sign in
    ____________________
+   Write
+
+   (BUTTON) Sign up
+
+   Sign in
+   (BUTTON)
 
    (BUTTON)
 

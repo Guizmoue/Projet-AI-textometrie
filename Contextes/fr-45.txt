@@ -38,6 +38,7 @@
 --
    énergivores pour accéder à la mémoire… C’est ainsi que le programme
    AlphaGo, l’IA de Google qui a récemment écrasé les plus grands
+   champions de go, consomme dix mille fois plus d’énergie qu’un humain à
 --
    composants artificiels mimant neurones et synapses biologiques, elles
    seront donc dédiées uniquement aux tâches d’IA où les excellents
@@ -55,7 +56,7 @@
    Les défis d’une IA frugale
    Blog
 --
-   Comment notre répertoire immunitaire s'adapte aux infections
+   Faciliter l'étude d’un vaste corpus documentaire par la...
    Intelligence artificielle
    réseau neuronal
 --

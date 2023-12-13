@@ -8,7 +8,7 @@
    Recherche (BUTTON) Mode Newsletters
 
    Photo
-   Zelensky : l'heure du doute
+   Habiter le monde autrement
    Je m’abonne à partir de 1€
 
    La France vue de l’étranger Géopolitique Économie Société Politique
@@ -16,8 +16,8 @@
    Podcasts Infographies Réveil Courrier Courrier Stories Application Tous
    les hebdos Tous les pays Nos sources Horoscope
 
-   Réveil Courrier Guerre Israël-Hamas Volodymyr Zelensky COP28 La France
-   vue de l'étranger L’hebdo Horoscope Courrier Stories
+   Réveil Courrier COP28 Bande de Gaza La France vue de l'étranger L’hebdo
+   Horoscope Courrier Stories
 
      * Société
      * Intelligence artificielle (IA)
@@ -56,7 +56,7 @@ L’intelligence artificielle en roue libre
    Lire aussi : Débat. “Il est beaucoup trop tard” pour un moratoire sur
    l’intelligence artificielle
 
-   “La folie ChatGPT”, titrait Courrier international le 16 février �
+   “La folie ChatGPT”, titrait Courrier international le 16 février à
    propos du robot conversationnel mis au point par la start-up OpenAI,
    ouvrant un dossier consacré à l’engouement pour ChatGPT, qui comptait
    déjà 100 millions d’utilisateurs dans le monde. “La course à l’IA est
@@ -104,7 +104,7 @@ L’intelligence artificielle en roue libre
    Dans un tout autre registre, la MIT Technology Review met en garde :
    avant toute question d’éthique, ce sont les failles des modèles de
    langue d’intelligence artificielle sur lesquels s’appuient ChatGPT,
-   Bard et autre Bing qui devraient nous inquiéter. “Les utiliser �
+   Bard et autre Bing qui devraient nous inquiéter. “Les utiliser à
    mauvais escient pour en faire de puissants outils d’hameçonnage ou
    d’arnaque est d’une facilité déconcertante”, écrit le magazine, qui
    explique qu’avec les robots conversationnels nos données, très vite, ne
@@ -113,7 +113,7 @@ L’intelligence artificielle en roue libre
    ChatGTP
 
    Autre point de vue, et qui nous concerne évidemment en tant que
-   journalistes, celui du photojournaliste suisse Niels Ackermann. Face �
+   journalistes, celui du photojournaliste suisse Niels Ackermann. Face à
    l’essor d’IA comme Midjourney, capables de produire des images qui
    ressemblent à s’y méprendre à des photos prises par les humains, les
    médias plus que jamais “doivent devenir des marchands de vrai,
@@ -169,17 +169,17 @@ L’intelligence artificielle en roue libre
 
    Les plus lus
 
-   Paléontologie. Un tyrannosaure retrouvé fossilisé avec son dernier
-   repas
+   Vu de l’étranger. Loi immigration : “La France bascule inopinément dans
+   la crise gouvernementale”
 
-   Reportage. Le dépit des routiers ukrainiens : “Votre solidarité
-   s’arrête là où commence votre portefeuille”
+   Polémique. Harvard, MIT : les universités d’élite américaines dans la
+   tourmente de l’antisémitisme
 
-   Guerre Israël-Hamas. Veto américain à une résolution du Conseil de
-   sécurité sur Israël
+   Antisémitisme. Au Parlement polonais, un élu d’extrême droite éteint
+   des bougies de Hanouka avec un extincteur
 
-   Opinion. Les frappes “de précision” de Tsahal à Gaza ont tout d’un
-   “génocide assisté par l’IA”
+   Vu du Japon. L’industrie automobile japonaise dépassée par la
+   concurrence chinoise
 
    Nos services
    Photo
@@ -211,7 +211,7 @@ L’intelligence artificielle en roue libre
 
    Newsletters (BUTTON) Applications
    Photo
-   Hebdo Zelensky : l'heure du doute
+   Hebdo Habiter le monde autrement
    Photo
    Hors-série Best-of 2023
 

@@ -43,32 +43,14 @@ Sommaire
    (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
      * Début
      * 1Capacités
-
-     2Principes sous-jacents
-
-     3Modalités
-
-     4Investissements financiers
-
-
-
-   5Transparence du système d'IA ?
-
-
-
-   6Vers une régulation, une réglementation et une gestion des risques
-
-
-
-   7Éléments de prospective
-
-
-
-   8Références
-
-
-
-   9Articles connexes
+     * 2Principes sous-jacents
+     * 3Modalités
+     * 4Investissements financiers
+     * 5Transparence du système d'IA ?
+     * 6Vers une régulation, une réglementation et une gestion des risques
+     * 7Éléments de prospective
+     * 8Références
+     * 9Articles connexes
 
    [ ] Basculer la table des matières
 
@@ -152,19 +134,18 @@ Intelligence artificielle générative
    discutée : l'IA générative est en effet aussi source d'inquiétudes et
    des défis éthiques, techniques et socioéconomiques à la hauteur des
    espoirs qu'elle suscite. Elle peut contribuer à des usages abusifs,
-   accidentels ou détournés, militaires notamment, à une suppression
-   massive d'emploi, à la création de nudges  Page d'aide sur l'homonymie
-   (nudging numérique)^[4], fausses nouvelles (fake news en anglais) ou de
-   deepfakes qui peuvent être utilisées pour tromper ou manipuler les
-   gens^[5]. Elle questionne aussi philosophiquement la nature de la
-   conscience, de la créativité, de la paternité^[6], et crée de nouvelles
-   interactions homme-machine. L'IA est encore peu régulée et la
-   difficulté d’évaluer la qualité et la fiabilité des contenus générés ou
-   l’impact sur la créativité et la propriété intellectuelle humaines est
-   croissante. Certains experts craignent que des IA génératives à venir
-   soient capables de manipuler les humains, d'accéder à des systèmes
-   d'armes, d'exploiter des failles de cybersécurité, voire peut-être
-   bientôt d'acquérir une forme de conscience et/ou de devenir
+   accidentels ou détournés (militaires notamment), à une suppression
+   massive d'emploi, à une manipulation de la population via la création
+   de fausses nouvelles (fake news en anglais), de deepfakes^[4] ou de
+   nudges numériques^[5]. Elle questionne aussi philosophiquement la
+   nature de la conscience, de la créativité, de la paternité^[6], et crée
+   de nouvelles interactions homme-machine. L'IA est encore peu régulée et
+   la difficulté d’évaluer la qualité et la fiabilité des contenus générés
+   ou l’impact sur la créativité et la propriété intellectuelle humaines
+   est croissante. Certains experts craignent que des IA génératives à
+   venir soient capables de manipuler les humains, d'accéder à des
+   systèmes d'armes, d'exploiter des failles de cybersécurité, voire
+   peut-être bientôt d'acquérir une forme de conscience et/ou de devenir
    incontrôlable au point de menacer l'existence de l'humanité^[7]. Un
    premier sommet mondial en sûreté de l'IA est organisée début novembre
    2023 à Londres, où la création d'un équivalent du GIEC pour informer
@@ -188,7 +169,7 @@ Capacités[modifier | modifier le code]
    de données d'apprentissage qu'on leur a fourni^[11].
 
    Les versions publiques de grands modèles d'IA générative disponibles en
-   2022/2023 produisent des contenus modulés et filtrés de manière �
+   2022/2023 produisent des contenus modulés et filtrés de manière à
    limiter leurs biais, les contenus mésinformant, dangereux, racistes,
    biaisés, choquants, haineux, non sollicités, les images pornographiques
    ou sexuellement explicites^[12]^,^[13]^,^[14]^,^[15]. Au début des
@@ -222,7 +203,7 @@ Principes sous-jacents[modifier | modifier le code]
 
    Les cadres technologiques et conceptuels les plus importants pour
    aborder l'IA générative sont en cours d’élaboration depuis un certain
-   temps^[6], mais ils n'ont vraiment abouti que dans les années 2020 �
+   temps^[6], mais ils n'ont vraiment abouti que dans les années 2020 à
    plusieurs types de modèles d'IA particulièrement efficaces :
      * les réseaux antagonistes génératifs (GAN), composés de deux
        parties : un réseau générateur créant de nouveaux échantillons de
@@ -381,7 +362,7 @@ modifier le code]
    conscientes et ne peuvent donc pas selon eux manipuler ou détruire
    l'humanité^[42]. Mais en 2023, des chercheurs d’Oxford, de Cambridge,
    de l’Université de Toronto, de l’Université de Montréal, de Google
-   DeepMind, d’OpenAI, d’Anthropic, de plusieurs organismes de recherche �
+   DeepMind, d’OpenAI, d’Anthropic, de plusieurs organismes de recherche à
    but non lucratif sur l’IA et Yoshua Bengio (lauréat du prix Turing)
    suggèrent dans un article^[43] que les créateurs des modèles d'IA les
    plus puissants doivent pouvoir évaluer si leurs IAs ont des capacités
@@ -464,11 +445,11 @@ Références[modifier | modifier le code]
     3. ↑ « Explainer: What is Generative AI, the technology behind
        OpenAI's ChatGPT? », Reuters,‎ 17 mars 2023 (lire en ligne,
        consulté le 17 mars 2023)
-    4. ↑ (en) Julia Dhar, Allison Bailey, Stéphanie Mingardon et Jennifer
+    4. ↑ Ahona Rudra, « Risques de cybersécurité liés à l'IA générative »,
+       sur powerdmarc.com, 26 juillet 2023 (consulté le 27 août 2023)
+    5. ↑ (en) Julia Dhar, Allison Bailey, Stéphanie Mingardon et Jennifer
        Tankersley, « The Persuasive Power of the Digital Nudge », sur BCG
        Global, 8 janvier 2021 (consulté le 9 novembre 2023)
-    5. ↑ Ahona Rudra, « Risques de cybersécurité liés à l'IA générative »,
-       sur powerdmarc.com, 26 juillet 2023 (consulté le 27 août 2023)
     6. ↑ ^a b et c (en) Rachel Gordon, « MIT CSAIL (Laboratoire
        d’Informatique et d’Intelligence Artificielle) researchers discuss
        frontiers of generative AI », sur MIT News, 12 avril 2023 (consulté
@@ -621,51 +602,51 @@ Articles connexes[modifier | modifier le code]
    v · m
    Intelligence artificielle (IA)
    Concepts
-     * Histoire de l'IA
-     * Sûreté des IA(s)
-     * Intelligence artificielle : une approche moderne
+     * Effet IA
+     * Grand modèle de langage
      * Hallucination (IA)
+     * IA générale
+     * IA générative
+
+   Techniques
      * Analyse prédictive
-
-           Organisation
-     * Agence francophone pour l'IA
-     * Partenariat sur l'IA
-
-   Capacités
-     * Perception artificielle
+     * Apprentissage automatique
+     * Apprentissage non supervisé
+     * Apprentissage profond
+     * Apprentissage supervisé
      * Modèle de fondation
      * Modèle des croyances transférables
-     * Grand modèle de langage
      * IA symbolique
-     * IA générative
+     * Réseau bayésien
+     * Réseau de neurones artificiels
      * Réseau neuronal convolutif
-     * Apprentissage automatique
-     * Apprentissage profond
+     * Transformeur
 
-   Applications de l'IA
-     * Planification (IA)
-     * IA dans le jeu vidéo
-     * IA dans la santé
-     * Écriture assistée par IA
+   Applications
      * Art créé par IA
-     * Véhicule autonome
-     * Diagnostic (IA)
-     * DeepL
-     * Traduction automatique
      * ChatGPT
+     * DeepL
+     * Diagnostic (IA)
+     * Écriture assistée par IA
+     * IA dans la santé
+     * IA dans le jeu vidéo
+     * Perception artificielle
+     * Planification (IA)
+     * Robotique
+     * Traduction automatique
+     * Traitement automatique du langage naturel
+     * Véhicule autonome
+     * Vision par ordinateur
 
-   Philosophie morale et éthique
-     * Philosophie de l'IA
-     * Lettre ouverte sur l'IA
-     * Éthique de l'IA
-     * IA faible
-     * IA digne de confiance
-     * I.A. La Plus Grande Mutation de l'Histoire
-     * Effet IA
-     * Déclaration de Montréal pour un développement responsable de
-       l'intelligence artificielle
-     * Contrôle des capacités de l'IA
+   Enjeux et philosophie
+     * Alignement de l'IA
      * Chambre chinoise
+     * Conscience artificielle
+     * Contrôle des capacités de l'IA
+     * Éthique de l'IA
+     * IA digne de confiance
+     * Philosophie de l'IA
+     * Sûreté de l'IA
 
    Histoire et événements
      * Histoire de l'intelligence artificielle
@@ -677,20 +658,33 @@ Articles connexes[modifier | modifier le code]
      * Match AlphaGo - Lee Sedol (2016)
 
    Science-fiction
+     * Anticipation (IA)
+     * IA-complet
      * IA générale
      * Risque de catastrophe planétaire lié à l'intelligence artificielle
        générale
-     * IA-complet
      * Superintelligence
-     * Anticipation (IA)
 
-          Règlementation
+       Règlementation
      * Législation sur l'IA
      * Réglementation de l'IA
 
+   Organisations
+     * Agence francophone pour l'IA
+     * Google DeepMind
+     * OpenAI
+     * Partenariat sur l'IA
+
+   Ouvrages
+     * Déclaration de Montréal pour un développement responsable de
+       l'intelligence artificielle
+     * Lettre ouverte sur l'IA
+     * Intelligence artificielle : une approche moderne
+     * I.A. La Plus Grande Mutation de l'Histoire
+
    Ce document provient de
    « https://fr.wikipedia.org/w/index.php?title=Intelligence_artificielle_
-   générative&oldid=210401634 ».
+   générative&oldid=210402889 ».
    Catégories :
      * Apprentissage automatique
      * Réseau de neurones artificiels
@@ -698,7 +692,6 @@ Articles connexes[modifier | modifier le code]
      * Culture Internet
 
    Catégories cachées :
-     * Page contenant un lien à préciser vers une page d'homonymie
      * Article à référence nécessaire
      * Portail:Informatique/Articles liés
      * Portail:Technologies/Articles liés
@@ -709,7 +702,7 @@ Articles connexes[modifier | modifier le code]
      * Portail:Imagerie numérique/Articles liés
 
      * La dernière modification de cette page a été faite le 9 décembre
-       2023 à 22:49.
+       2023 à 23:33.
      * Droit d'auteur : les textes sont disponibles sous licence Creative
        Commons attribution, partage dans les mêmes conditions ; d’autres
        conditions peuvent s’appliquer. Voyez les conditions d’utilisation

@@ -296,7 +296,7 @@ Tester in situ en Italie
    américain. Une solution ubuesque, impensable en effet d’attendre des
    gens, d’autant plus lorsqu’ils sont mineurs, de fournir à Facebook des
    médias intimes d’eux-mêmes. Une situation grotesque qui souligne bien
-   le manque d’outils adéquats et l’ampleur du travail restant �
+   le manque d’outils adéquats et l’ampleur du travail restant à
    accomplir. « On parle beaucoup d’intelligence artificielle en ce
    moment, conclut Serena Villata. Nos travaux sont un bel exemple d’une
    utilisation qui fait du bien à la société et qui aide les gens. » ♦
@@ -337,6 +337,9 @@ Voir aussi
 
    Numérique
    Blog
+   11/12/2023
+   Cellule souche cherche sa destinée
+   Blog
    07/12/2023
    Les robots face à l’incertitude
    Article
@@ -349,10 +352,6 @@ Voir aussi
    Blog
    20/11/2023
    Faciliter l'étude d’un vaste corpus documentaire par la...
-   dessin de coronavirus © Starline sur Freepik
-   Blog
-   16/11/2023
-   Comment notre répertoire immunitaire s'adapte aux infections
    Intelligence artificielle
    réseau neuronal
    Article

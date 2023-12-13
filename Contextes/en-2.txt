@@ -39,6 +39,15 @@ Artificial intelligence: the world is waking up to the risks
    humanity’s future in a world where AI performs better than humans?“.
    The common answer? “I don’t know.” But that is no reason not to think
 --
+   uncertainty and controversy surrounding the operation are ...
+   Use of generative AI growing in corporations without clear guidelines
+   05 December 2023
+
+Use of generative AI growing in corporations without clear guidelines
+
+   Fifty-eight percent of French employees who use generative AI for work
+   do so without employer authorization.
+--
    ever, and today’s on-board computer is a high-performance ...
    Artificial intelligence: the world is waking up to the risks
    16 November 2023
@@ -51,7 +60,7 @@ Artificial intelligence: the world is waking up to the risks
    prestigious institutions all examining the issue of AI and its ...
    Google’s Play Store promotes secure apps
 --
-   Operational security
+   risks related to their activities.
    United States: Joe Biden signs first executive order on AI
    02 November 2023
 
@@ -69,17 +78,14 @@ Can generative AI help break attack chains?
    cybersecurity? What could generative AI bring to this ...
    HarfangLab raises 25 million euros
 --
-   cloud, cybersecurity, supercomputer, and quantum branch.
-   Threat detection and AI: Cisco acquires Splunk
-   27 September 2023
-
-Threat detection and AI: Cisco acquires Splunk
-
-   Cisco acquisition of data analysis solutions provider for 28 billion
-   dollars seeks to harness cybersecurity transformation brought on by AI
-   boom.
---
    positive influences of the GDPR are spreading, inspiring ...
+   European Union: no compromise in sight for AI Act
+   06 December 2023
+
+European Union: no compromise in sight for AI Act
+
+--
+   extraterritoriality of foreign legislation.
    AI Act: towards three-tiered generative AI regulation
    04 December 2023
 
@@ -87,14 +93,6 @@ AI Act: towards three-tiered generative AI regulation
 
    Ongoing negotiations in Brussels could lead to requirements for AI
    models according to size and popularity.
---
-   are no longer up to the task of improving security, ...
-   AI: France, Germany and Italy want to strengthen EU’s strategic
-   autonomy
---
-
-AI: France, Germany and Italy want to strengthen EU’s strategic autonomy
-
 --
    Digital transition
    Business intelligence faced with generative AI: overcoming fears

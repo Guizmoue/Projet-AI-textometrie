@@ -94,6 +94,7 @@ Intelligence artificielle générale
    générale^[41]. La définition d'intelligence artificielle générale reste
    cependant suffisamment floue pour qu'il puisse être difficile ou
 --
+   souhaite^[54]. Une approche nommée l'« interprétabilité » consiste à
    tenter de comprendre le fonctionnement interne de ces modèles d'IA,
    notamment afin de pouvoir détecter des signes de manipulation, une
    tâche difficile vu la complexité et le nombre de paramètres de ces
@@ -114,6 +115,8 @@ Intelligence artificielle générale
      un futur avec beaucoup de trombones mais aucun humain. »
 --
 
+   La capacité des modèles d'IA à produire du contenu très rapidement et à
+   faible coût pourrait inonder internet de texte, d'images ou de vidéos
 --
 
     1. ↑ ^a et b Pitpitt, « Intelligence artificielle générale —
@@ -273,62 +276,66 @@ Intelligence artificielle générale
    v · m
    Intelligence artificielle (IA)
    Concepts
-     * Histoire de l'IA
-     * Sûreté des IA(s)
-     * Intelligence artificielle : une approche moderne
-     * Hallucination (IA)
-     * Analyse prédictive
---
-           Organisation
-     * Agence francophone pour l'IA
-     * Partenariat sur l'IA
-
---
-     * Grand modèle de langage
-     * IA symbolique
-     * IA générative
-     * Réseau neuronal convolutif
---
-
-   Applications de l'IA
-     * Planification (IA)
-     * IA dans le jeu vidéo
-     * IA dans la santé
-     * Écriture assistée par IA
-     * Art créé par IA
-     * Véhicule autonome
-     * Diagnostic (IA)
-     * DeepL
---
-   Philosophie morale et éthique
-     * Philosophie de l'IA
-     * Lettre ouverte sur l'IA
-     * Éthique de l'IA
-     * IA faible
-     * IA digne de confiance
-     * I.A. La Plus Grande Mutation de l'Histoire
      * Effet IA
-     * Déclaration de Montréal pour un développement responsable de
-       l'intelligence artificielle
-     * Contrôle des capacités de l'IA
-     * Chambre chinoise
+     * Grand modèle de langage
+     * Hallucination (IA)
+     * IA générale
+     * IA générative
+
 --
+     * Modèle des croyances transférables
+     * IA symbolique
+     * Réseau bayésien
+--
+   Applications
+     * Art créé par IA
+     * ChatGPT
+     * DeepL
+     * Diagnostic (IA)
+     * Écriture assistée par IA
+     * IA dans la santé
+     * IA dans le jeu vidéo
+     * Perception artificielle
+     * Planification (IA)
+     * Robotique
+--
+   Enjeux et philosophie
+     * Alignement de l'IA
+     * Chambre chinoise
+     * Conscience artificielle
+     * Contrôle des capacités de l'IA
+     * Éthique de l'IA
+     * IA digne de confiance
+     * Philosophie de l'IA
+     * Sûreté de l'IA
+
    Histoire et événements
      * Histoire de l'intelligence artificielle
      * Logic Theorist (1955)
 --
    Science-fiction
+     * Anticipation (IA)
+     * IA-complet
      * IA générale
      * Risque de catastrophe planétaire lié à l'intelligence artificielle
        générale
-     * IA-complet
-     * Superintelligence
-     * Anticipation (IA)
-
-          Règlementation
+--
+       Règlementation
      * Législation sur l'IA
      * Réglementation de l'IA
 
+   Organisations
+     * Agence francophone pour l'IA
+     * Google DeepMind
+     * OpenAI
+     * Partenariat sur l'IA
+
+--
+     * Déclaration de Montréal pour un développement responsable de
+       l'intelligence artificielle
+     * Lettre ouverte sur l'IA
+     * Intelligence artificielle : une approche moderne
+     * I.A. La Plus Grande Mutation de l'Histoire
 --
      * Réseau de neurones artificiels
      * Intelligence artificielle

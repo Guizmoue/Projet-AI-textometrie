@@ -295,7 +295,7 @@ Combien d’entre nous seront-ils concernés ?
    rime pas forcément avec peu qualifié. Jardiniers et plombiers tirent
    ainsi leur épingle du jeu, en partie grâce à la souplesse de leurs
    gestes et à leur facilité de déplacement, bien loin de celles des
-   robots. Tandis que les cols blancs ont de quoi trembler sérieusement, �
+   robots. Tandis que les cols blancs ont de quoi trembler sérieusement, à
    commencer par les comptables jugés à l’unanimité « très automatisables
    ».
 
@@ -375,10 +375,10 @@ Remplacer aussi les chercheurs...
    Kiva des entrepôts de la société Amazon. Comme le choix et la
    préhension sur les étagères des objets à expédier est un vrai
    casse-tête pour un robot avec des bras, la société de vente a changé la
-   nature de la tâche à accomplir : les robots, sortes de « coffres �
+   nature de la tâche à accomplir : les robots, sortes de « coffres à
    roulettes », se contentent de glisser sous les étagères et de les
    soulever pour les apporter entières à un employé (humain), qui, en bout
-   de chaîne, n’a plus qu’à lever le bras pour y prendre le bon article �
+   de chaîne, n’a plus qu’à lever le bras pour y prendre le bon article à
    expédier.
 
 Rendre automatisable n'importe quelle tâche
@@ -412,13 +412,13 @@ Rendre automatisable n'importe quelle tâche
 
    Dans les entrepôts de la société Amazon, les robots Kiva (ici en rouge)
    se glissent sous les étagères et les apportent entières à un employé,
-   qui, en bout de chaîne, n’a plus qu’à y sélectionner l'article �
+   qui, en bout de chaîne, n’a plus qu’à y sélectionner l'article à
    expédier.
 
    CNRS Le Journal (BUTTON)
    Dans les entrepôts de la société Amazon, les robots Kiva (ici en rouge)
    se glissent sous les étagères et les apportent entières à un employé,
-   qui, en bout de chaîne, n’a plus qu’à y sélectionner l'article �
+   qui, en bout de chaîne, n’a plus qu’à y sélectionner l'article à
    expédier.
    David Paul Morris/Bloomberg via Getty Images
    David Paul Morris/Bloomberg via Getty Images
@@ -532,7 +532,7 @@ Protéger les individus plutôt que les emplois
    cent ans à une société sans travail humain où les individus n’auront
    comme inquiétude que d’occuper leur temps libre et se trouver un
    nouveau rôle social. « Keynes voyait le progrès comme facteur
-   d’expansion du loisir. Le problème ne sera plus de donner du travail �
+   d’expansion du loisir. Le problème ne sera plus de donner du travail à
    tout le monde mais de se répartir des richesses produites grâce à la
    technologie », conclut Gregory Verdugo. « L’économiste Richard Freeman,
    de l’université d’Harvard, encourage d’ailleurs travailleurs et
@@ -666,7 +666,7 @@ Qui seront les perdants de l’automatisation ?
 
 Mots-clés
 
-   Intelligence artificielle Robot travail emplois Automatisation Aide �
+   Intelligence artificielle Robot travail emplois Automatisation Aide à
    la décision Watson amazon machine robolution Inégalités
 
 Partager cet article
@@ -695,16 +695,16 @@ Voir aussi
    Article
    04/12/2023
    La créativité peut-elle être artificielle ?
-   Blog
-   29/11/2023
-   Un sceau personnel pour authentifier et protéger ses biens
+   Article
+   30/11/2023
+   Climat : « C'est aussi à l'échelle des villes que la...
    Préparation du pemba © Guillaume Odonne
    Blog
    29/11/2023
    Entre ethnomédecines et biomédecine en Guyane
-   Article
-   30/11/2023
-   Climat : « C'est aussi à l'échelle des villes que la...
+   Blog
+   29/11/2023
+   Un sceau personnel pour authentifier et protéger ses biens
    Économie
    Article
    28/06/2023
