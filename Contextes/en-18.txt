@@ -78,6 +78,25 @@ AI models should incorporate social cues
 
 --
 
+Demonstrating native AI for mobile network operation
+
+--
+   Discover how the EU-funded DAEMON project has developed several
+   practical solutions to integrate AI into mobile network architectures.
+   Read more
+
+AI in business has its benefits – so why don’t more companies adopt it?
+
+   Technology 7th December 2023
+   Learn about the use of AI in business and MESH AI's groundbreaking
+   report, 'The State of AI in the Enterprise.'
+   Read more
+--
+   Technology 4th December 2023
+   The VEDLIoT project demonstrates efficient Artificial Intelligence for
+   a wide range of IoT use cases. Discover more here.
+--
+
 AI in businesses to grow with new government guidance
 
 --
@@ -93,41 +112,24 @@ Amazon to provide free AI training to two million people by 2025
    Read more
 --
 
-MIAI: Developing innovative AI systems for humans and the environment
-
-   Technology 28th November 2023
-   MIAI develops the next generation of AI systems, from hardware and
-   embedded architectures to software. Read more here.
---
-
-Genpact Launches AI Innovation Center in London
+Demonstrating native AI for mobile network operation
 
 --
-   Genpact has unveiled a groundbreaking initiative today with the
-   inauguration of the Genpact AI Innovation Center in London.
-   Read more
---
-   Technology 23rd November 2023
-   Discover how innovative technology like AI and Machine Learning will be
-   key drivers of the green energy transition.
---
-
-AI in businesses to grow with new government guidance
-
---
-   The UK Government has released new guidance to increase the uptake of
-   AI in businesses and ensure workers have the necessary skills.
+   Discover how the EU-funded DAEMON project has developed several
+   practical solutions to integrate AI into mobile network architectures.
    Read more
 
-Amazon to provide free AI training to two million people by 2025
+AI in business has its benefits – so why don’t more companies adopt it?
 
-   Technology 29th November 2023
-   Amazon has revealed that they will provide free AI training to two
-   million people via the company’s ‘AI Ready’ initiative by 2025.
+   Technology 7th December 2023
+   Learn about the use of AI in business and MESH AI's groundbreaking
+   report, 'The State of AI in the Enterprise.'
    Read more
+--
 
-MIAI: Developing innovative AI systems for humans and the environment
-
-   Technology 28th November 2023
-   MIAI develops the next generation of AI systems, from hardware and
-   embedded architectures to software. Read more here.
+About:Energy and Eatron Technologies awarded funding to accelerate AI battery
+management systems
+--
+   About:Energy and Eatron Technologies have been awarded funding to
+   develop an AI-powered decision-engine for battery management systems.
+   Read more

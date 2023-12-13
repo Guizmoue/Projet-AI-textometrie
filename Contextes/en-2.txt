@@ -51,16 +51,6 @@ Artificial intelligence: the world is waking up to the risks
    prestigious institutions all examining the issue of AI and its ...
    Google’s Play Store promotes secure apps
 --
-   Russia’s cross-hairs for a long time.
-   Ursula von der Leyen aims to establish “AI IPCC”
-   26 September 2023
-
-Ursula von der Leyen aims to establish “AI IPCC”
-
-   EU Chief wants to bring together scientists, businesses and experts to
-   guarantee responsible AI growth on a world level.
-   Cybercrime
---
    Operational security
    United States: Joe Biden signs first executive order on AI
    02 November 2023
@@ -89,14 +79,34 @@ Threat detection and AI: Cisco acquires Splunk
    dollars seeks to harness cybersecurity transformation brought on by AI
    boom.
 --
-   platform based on blockchain
-   DocuSign launches AI-assisted ID verification
-   16 May 2023
+   positive influences of the GDPR are spreading, inspiring ...
+   AI Act: towards three-tiered generative AI regulation
+   04 December 2023
 
-DocuSign launches AI-assisted ID verification
+AI Act: towards three-tiered generative AI regulation
+
+   Ongoing negotiations in Brussels could lead to requirements for AI
+   models according to size and popularity.
+--
+   are no longer up to the task of improving security, ...
+   AI: France, Germany and Italy want to strengthen EU’s strategic
+   autonomy
+--
+
+AI: France, Germany and Italy want to strengthen EU’s strategic autonomy
 
 --
    Digital transition
+   Business intelligence faced with generative AI: overcoming fears
+   06 December 2023
+
+Business intelligence faced with generative AI: overcoming fears
+
+   By Arnaud Marquant, directeur des opérations chez KB Crawl
+   The current use of generative AI in the business intelligence sector
+   raises a number of fears. These may be overcome by educating
+--
+   manned capsules, didn’t even have on-board computers, ...
    How AI is shaking up intellectual property
    23 November 2023
 
@@ -114,13 +124,3 @@ How AI is shaking up intellectual property
    By Marion Lefebvre
    Widespread access to generative artificial intelligence is shaking up
    how we work and create. However, the growing use of this technology has
---
-   Yet heads of privacy in corporations still deem resources insufficient.
-   OpenAI to fight AI’s “catastrophic risks”
-   10 November 2023
-
-OpenAI to fight AI’s “catastrophic risks”
-
-   ChatGPT publisher forms team of experts to assess most serious threats
-   associated with advanced AI models.
-

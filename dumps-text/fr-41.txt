@@ -1,0 +1,450 @@
+   #Commentaires pour "Athénan, une IA joueuse multi-championne"
+
+   Accéder à la navigation
+
+   Accueil
+   [gb.svg]
+   Se connecter
+   S'inscrire
+   ____________________ (Submit)
+   Thèmes
+     * Vivant
+     * Matière
+     * Numérique
+     * Sociétés
+     * Terre
+     * Univers
+
+   Formats
+     * Articles
+     * Audios
+     * Diaporamas
+     * Dossiers
+     * Infographies
+     * Points de vue
+     * Vidéos
+
+   CNRS Le Journal
+   Donner du sens à la science
+
+   [logofondation.svg]
+
+Suivre
+
+     * Twitter
+     * Facebook
+     * Google
+     * Dailymotion
+     * RSS
+
+     * Rechercher
+     * Se connecter
+     * S'inscrire
+     * Mon compte
+     * Nos blogs
+
+   English version Dossier spécial Covid-19
+     * Vivant
+     * Matière
+     * Sociétés
+     * Univers
+     * Terre
+     * Numérique
+     * Mes thèmes
+
+Personnalisez votre navigation
+       Sélectionnez vos mots clefs ou thématiques favorites et créez votre
+       rubrique personnalisée
+          + Créer un compte
+          + Se connecter
+       [ ] Stay
+     * Types
+          + Articles
+          + Audios
+          + Diaporamas
+          + Dossiers
+          + Infographies
+          + Points de vue
+          + Vidéos
+       [ ] Stay
+
+   CNRS Le Journal Haut de page [gb.svg] Read in English Nos blogs
+   ____________________ (Submit)
+   Partager l'article
+
+Sections
+
+Vous êtes ici
+
+   Accueil / Articles / Athénan, une IA joueuse multi-championne
+
+Athénan, une IA joueuse multi-championne
+
+   Dossier
+   Paru le 04.01.2022
+   Comment l’intelligence artificielle va changer nos vies
+   Voir le dossier
+   Article
+   L’art et l’archéologie, nouveaux horizons de l’IA
+   Article
+   Quand l’IA s’attaque à la sclérose en plaques
+   Article
+   Des logiciels experts en diagnostic médical
+   Article
+   Peut-on faire confiance à l'intelligence artificielle ?
+   Article
+   L’IA traque le harcèlement en ligne
+   Article
+   Six scénarios d'un monde sans travail
+   Article
+   À l’usine, au bureau, tous remplacés par des robots?
+   Article
+   Une IA, juge de beauté des poissons tropicaux
+   Point de vue
+   Le robot, un «animal» comme les autres ?
+   Article
+   Des machines enfin intelligentes ?
+   Article
+   Voiture autonome
+   Des voitures autonomes sans frontières ?
+   Point de vue
+   Voitures autonomes: par quoi serez-vous choqués ?
+   Point de vue
+   Armes létales autonomes: de quoi parle-t-on?
+   Article
+   Demain, un ordinateur inspiré de notre cerveau?
+   Article
+   La justice à l’heure des algorithmes et du big data
+   Article
+   Les androïdes de la saga Alien sont-ils pour 2093 ?
+   Point de vue
+   Jeu de Go
+   Jeu de go : l’ordinateur plus fort que l’humain?
+   Point de vue
+   Traduire comme on joue au Go ?
+
+Vous êtes ici
+
+   Accueil / Articles / Athénan, une IA joueuse multi-championne
+   [gb.svg] Read in English
+   0 commentaire
+   Numérique
+   Informatique
+   ^-A ^+A
+     * Imprimer
+
+   article
+
+Athénan, une IA joueuse multi-championne
+
+   26.11.2021, par
+   Kheira Bettayeb
+   Chan2545 /Stock.Adobe.com
+   Partager
+   Partager
+   Zoom sur un système français qui a raflé la mise lors de la récente 24e
+   Computer Olympiad, une compétition mondiale multijeux pour
+   intelligences artificielles.
+
+   Athénan est un nouveau système d’intelligence artificielle (IA) dédiée
+   aux jeux de société, qui a été créé par Quentin Cohen-Solal1, évalué et
+   amélioré ensuite avec Tristan Cazenave, au Laboratoire d'analyse et
+   modélisation de systèmes pour l'aide à la décision (Lamsade)2 à Paris.
+   Lors de la 24^e Computer Olympiad, c’est sous l’apparence de dames
+   canadiennes et brésiliennes, d’Othello, de Hex ou encore de Surakarta
+   qu’il a justifié son nom, qui signifie littéralement « disciple
+   d’Athéna » (la déesse grecque de la stratégie et de la sagesse). Il a
+   en effet battu tous ses concurrents à pas moins de 11 jeux de société
+   – sur les 23 représentés – ce qui lui a valu autant de médailles d’or !
+   « Habituellement, les meilleures équipes obtiennent 2 à 3 médailles
+   d'or. C’est dire l’avancée que représentent ces travaux », commente
+   Nicolas Jouandeau, directeur du Laboratoire d'intelligence Artificielle
+   et Sémantique des Données, à l’université Paris 8.
+
+   Capture d’écran des jeux de stratégie pour lesquels Athénan a gagné une
+   médaille d’or. De gauche à droite et de haut en bas : Hex, Amazons,
+   Othello, Brazilian, Surakarta et Breakthrough.
+
+   CNRS Le Journal (BUTTON)
+   Capture d’écran des jeux de stratégie pour lesquels Athénan a gagné une
+   médaille d’or. De gauche à droite et de haut en bas : Hex, Amazons,
+   Othello, Brazilian, Surakarta et Breakthrough.
+   Computer Olympiad
+   Computer Olympiad
+   Partager
+   Partager
+
+   Les systèmes d’IA dédiées aux jeux de société consistent en des
+   algorithmes qui permettent de formaliser une façon de réfléchir sur un
+   jeu donné, voire, comme dans le cas d’Athénan, d’apprendre lui-même �
+   jouer et s’auto-entraîner. Le développement de tels logiciels a
+   toujours attiré les experts en IA. Et pour cause : mobilisant un large
+   éventail de capacités intellectuelles humaines, les jeux de société
+   (dits aussi « de réflexion ») représentent un terrain d’expérimentation
+   privilégié pour tester l’intelligence des machines et la comparer �
+   l’intelligence humaine ; un des buts de l’IA étant de développer des
+   machines qui surpassent le cerveau humain (et pourraient ainsi le
+   remplacer) pour certaines tâches précises.
+
+Une quête qui remonte aux origines de l’informatique
+
+   « L’idée de développer des IA dédiées aux jeux de société a émergé dès
+   les débuts de l’informatique », raconte Tristan Cazenave. En effet, dès
+   la fin des années 1940, les pères fondateurs de l’informatique Alan
+   Turing (1912-1954) et Claude Shannon (1916-2001) proposèrent des
+   programmes rudimentaires capables de jouer aux échecs. « Mais ce n’est
+   qu’en 1997 – soit près de 40 ans après –, qu’une machine, le
+   superordinateur Deep Blue de la société américaine IBM, réussit �
+   battre pour la première fois, dans les conditions normales d’un
+   tournoi, un champion du monde d’échecs, le Russe Garry Kasparov »,
+   poursuit l’expert en IA.
+
+   Le champion du monde d'échecs Garry Kasparov joue un coup pendant sa
+   quatrième partie contre l'ordinateur IBM Deep Blue. Le moniteur �
+   droite transmet le coup de l'ordinateur à un scientifique d'IBM qui
+   déplace les pièces sur l'échiquier (New York, 7 mai 1997).
+
+   CNRS Le Journal (BUTTON)
+   Le champion du monde d'échecs Garry Kasparov joue un coup pendant sa
+   quatrième partie contre l'ordinateur IBM Deep Blue. Le moniteur �
+   droite transmet le coup de l'ordinateur à un scientifique d'IBM qui
+   déplace les pièces sur l'échiquier (New York, 7 mai 1997).
+   Stan HONDA / AFP
+   Stan HONDA / AFP
+   Partager
+   Partager
+
+   Près de deux décennies après ce premier coup de maître, en mai 2017,
+   une autre IA, AlphaGo3, développée par DeepMind (une filiale
+   britannique de Google), et dédiée cette fois au go (un jeu de réflexion
+   originaire de Chine), battait le numéro 1 mondial dans ce domaine, le
+   Chinois Ke Jie. « S’appuyant sur des techniques radicalement
+   différentes de celles de Deep Blue, AlphaGo utilise une technologie
+   représentant l’une des dernières évolutions dans le domaine de l’IA :
+   les réseaux neuronaux dits “profonds”. Lesquels consistent en un
+   système avec une conception à l'origine schématiquement inspirée du
+   fonctionnement des neurones humains. Cette technologie permet à AlphaGo
+   d’apprendre à “imiter” les joueurs humains, à partir d’une base de
+   données référençant les coups enregistrés lors de dizaines de milliers
+   de parties menées par des joueurs experts », développe Tristan
+   Cazenave.
+
+L’ère des IA « généralistes »
+
+   Fin 2017, la société DeepMind présenta une autre avancée historique
+   pour le monde de l’IA : AlphaZero4. Sa particularité ? Cette version
+   « généraliste » d’AlphaGo est capable de jouer non pas à un, mais �
+   plusieurs jeux : au go, mais aussi aux échecs et au shogi (échecs
+   japonais). « Contrairement à son prédécesseur, AlpaZero a été développé
+   pour apprendre à bien jouer à un jeu donné… en jouant contre lui-même ;
+   et non à partir d’une base de données, détaille ici l’expert en IA du
+   Lamsade. Après chaque partie, il analyse ses succès et ses erreurs pour
+   s’améliorer. Cela, grâce à une méthode d’apprentissage profond dite
+   “par renforcement” ».
+
+   Le joueur de go chinois Ke Jie affronte AlphaGo lors de la deuxième
+   partie du Google DeepMind Challenge Match pendant le Future of Go
+   Summit à Wuzhen town (Chine), le 25 mai 2017. La même année, DeepMind a
+   présenté AlphaZero.
+
+   CNRS Le Journal (BUTTON)
+   Le joueur de go chinois Ke Jie affronte AlphaGo lors de la deuxième
+   partie du Google DeepMind Challenge Match pendant le Future of Go
+   Summit à Wuzhen town (Chine), le 25 mai 2017. La même année, DeepMind a
+   présenté AlphaZero.
+   Stringer / Imaginechina / Imaginechina via AFP
+   Stringer / Imaginechina / Imaginechina via AFP
+   Partager
+   Partager
+
+   Athénan représente, lui, le deuxième système généraliste basé sur cette
+   technique. Cependant « il se distingue d’AlphaZero par plusieurs
+   aspects, qui le rendent original et très efficace », souligne Quentin
+   Cohen-Solal. Tout d’abord, si Athénan s’appuie, comme AlphaZero, sur un
+   réseau de neurones pour guider sa recherche de stratégie lors d’une
+   partie de jeu, il recourt à un algorithme différent pour anticiper ses
+   futurs coups. En effet, AlphaZero utilise ici une méthode dite « de
+   recherche Monte Carlo », qui fait des statistiques sur des parties
+   aléatoires (d'où son nom évoquant celui du célèbre casino) : pour
+   chaque coup analysé, le réseau de neurones calcule la valeur d’un
+   « état de jeu » (qui évalue à quel point il est près de la victoire)
+   ainsi qu’une probabilité pour qu’une action soit la meilleure dans cet
+   état. Or « l’esprit humain ne fonctionne pas ainsi… », fait remarquer
+   Quentin Cohen-Solal.
+
+Une façon de jouer plus humaine
+
+   D’où son idée de développer « une méthode permettant à une IA de jouer
+   de façon plus humaine, dite “Minimax en meilleur d'abord non borné”.
+   Grâce à cet algorithme – décrit en fait pour la première fois en 1996
+   5 et tombé dans l'oubli avant que je ne le redécouvre –, Athénan ne
+   calcule pas de probabilités ni n’en utilise. Et ce, sans que cela nuise
+   à ses performances », précise l’informaticien.
+   Alors qu’AlphaZero mémorise juste le coup qu’il va jouer, Athénan, lui,
+   retient aussi toutes les simulations produites lors de la réflexion qui
+   l’a amené à décider d’un coup.
+
+   Autre grand atout de cette méthode, elle permet un apprentissage plus
+   efficace : « Alors qu’AlphaZero mémorise juste le coup qu’il va jouer,
+   Athénan, lui, retient aussi toutes les simulations produites lors de la
+   réflexion qui l’a amené à décider d’un coup, explique-t-il. Résultat,
+   pour un même nombre de parties, il génère beaucoup plus de données. Or
+   pour bien apprendre, il faut beaucoup de données ». En outre, avec
+   AlphaZero la valeur d’un état est fortement déterminée par la fin de la
+   partie : si la partie est perdante, il va apprendre que toutes les
+   étapes de cette partie sont perdantes, alors que les actions réalisées
+   au début de cette partie ont pu être pertinentes, puis suivies de
+   mauvaises décisions.
+
+   Avec Athénan, la valeur d’un état s’actualise en tenant compte de ce
+   genre de retournements, ce qui permet de mieux capitaliser les
+   connaissances d’une partie à l’autre.
+
+Utile dans d’autres domaines ?
+
+   Enfin, « même si pour son dévellopement nous avons pu bénéficier d'un
+   accès aux moyens de calcul intensif de l'IDRIS, Athénan n’a besoin que
+   d’un ordinateur “classique” équipé d’une carte graphique (composants
+   informatiques assurant les fonctions de calcul de l'affichage, Ndlr) et
+   d’un nombre normal de processeurs pour "bien" jouer. Quand AlphaZero
+   nécessite généralement un super-calculateur équipé d’une centaine de
+   cartes graphiques et d’une centaine de processeurs », souligne Quentin
+   Cohen-Solal. Bref, Athénan permet de faire, au moins sur certains jeux,
+   aussi bien que ce qui existe, mais avec moins de ressources ! À
+   l’avenir, Quentin Cohen-Solal espère pouvoir mesurer son système à un
+   champion humain – « ou une IA qui a surpassé un tel expert » – dans un
+   jeu donné, par exemple les échecs. Cela, « afin d’obtenir un résultat
+   très fort, qui prouverait que notre logiciel peut atteindre un niveau
+   surhumain ».
+
+   Au-delà des jeux, l’équipe espère aussi tester Athénan dans d’autres
+   domaines, plus pratiques mais nécessitant également de réfléchir à des
+   solutions complexes : « il pourrait aider à fluidifier le routage des
+   connexions internet ; minimiser le nombre de kilométrages parcourus et
+   de véhicules utilisés lors des tournées des véhicules d’une entreprise
+   donnée (La Poste, etc.) ; ou encore déterminer la structure
+   (“séquence”) d’une molécule d’ARN donnée (une molécule génétique, Ndlr)
+   à partir de sa forme, pour faire avancer plus vite la recherche
+   biomédicale », illustre Tristan Cazenave. Athénan n’en est donc qu’�
+   ses tout débuts. ♦
+   Notes
+     * 1. « Minimax Strikes Back », Q. Cohen-Solal et T. Cazenave, 19
+       décembre 2020. arXiv preprint :
+       https://arxiv.org/pdf/2012.10700.pdf
+     * 2. Unité CNRS/Université Paris-Dauphine.
+     * 3. « Mastering the game of Go with deep neural networks and tree
+       search », D. Silver et al., Nature, 28 janvier 2016.
+       https://doi.org/10.1038/nature16961
+     * 4. « Mastering Chess and Shogi by Self-Play with a General
+       Reinforcement Learning Algorithm », D. Silver et al., 5 décembre
+       2017. arXiv preprint : https://arxiv.org/abs/1712.01815
+     * 5. « Best-first minimax search », E. Korf et D. Chickering,
+       Artificial Intelligence, juillet 1996. DOI
+       10.1016/0004-3702(95)00096-8
+
+   Aller plus loin
+   0 commentaire
+
+Mots-clés
+
+   Computer Olympiad jeux de stratégie Athénan Algorithmes échecs Jeu de
+   Go Deep Blue AlphaGo AlphaZero recherche Monte Carlo
+
+Partager cet article
+
+Auteur
+
+   Kheira Bettayeb
+
+   Journaliste scientifique freelance depuis dix ans, Kheira Bettayeb est
+   spécialiste des domaines suivants : médecine, biologie, neurosciences,
+   zoologie, astronomie, physique et nouvelles technologies. Elle
+   travaille notamment pour la presse magazine nationale.
+   En savoir plus sur l'auteur
+   Des « monstres » marins au temps des dinosauresPrécédent
+   Les Lumières brillent-elles encore au XXIe siècle ?Suivant
+
+Voir aussi
+
+   Numérique
+   Blog
+   07/12/2023
+   Les robots face à l’incertitude
+   Article
+   04/12/2023
+   La créativité peut-elle être artificielle ?
+   réseau neuronal
+   Article
+   24/11/2023
+   Les défis d’une IA frugale
+   Blog
+   20/11/2023
+   Faciliter l'étude d’un vaste corpus documentaire par la...
+   dessin de coronavirus © Starline sur Freepik
+   Blog
+   16/11/2023
+   Comment notre répertoire immunitaire s'adapte aux infections
+   Informatique
+   Article
+   14/09/2023
+   Penser des datacenters moins énergivores
+   Article
+   27/04/2023
+   Cryptoactifs : vers des alternatives éco-compatibles ?
+   Article
+   31/03/2023
+   Des mouchards dans les jeux mobiles
+   Article
+   23/01/2023
+   Quand le cloud se fait diffus
+   Article
+   18/01/2023
+   Un algorithme pour éviter les débris spatiaux
+
+Commentaires
+
+   0 commentaire
+   Flux RSS
+   Pour laisser votre avis sur cet article
+   Connectez-vous, rejoignez la communauté
+   du journal CNRS
+   Se connecter
+   Créer un compte
+
+     * À propos
+     * Newsletters
+     * Équipe / crédits
+     * Nous contacter
+     * Charte d'utilisation
+     * Plan du site
+     * Données personnelles
+     * Mentions légales
+
+Numéros papiers
+
+   CNRS Le journal - septembre 2023
+   n°313
+   Voir tous les numéros
+
+Nous suivre
+
+     * Twitter
+     * Facebook
+     * Google
+     * Dailymotion
+
+Partager
+
+     * Twitter
+     * Facebook
+     * Google
+     * Email
+
+   [logofondation.svg] Faites un don pour la recherche !
+   Centre National de la Recherche Scientifique
+   © 2023, CNRS
+     * Créer un compte
+     * Se connecter
+     * Mon compte
+     * Politique d'accessibilité
+     * Gestion des cookies

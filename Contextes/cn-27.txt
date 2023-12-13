@@ -1,0 +1,122 @@
+
+科技 行业 过于 关注 基础 人工智能 （ AI ） 模型 ， 却 忽视 了 开发 基于 人工智能 的 应用 程序 ， 尽
+管 这 是 一个 有 发展 前景 的 业务 领域 。
+
+百度 的 首席 执行官 李彦宏 认为 ， 大型 科技 公司 正在 开发 驱动 当前 人工智能 崛起 的 基础 模型
+， 但 它们 应该 将 注意力 放 到 其他 领域 。 它们 应该 专注 于 基于 这些 基础 模型 ， 开发 人工智能
+驱动 的 应用 。
+--
+李彦宏 在 深圳 举办 的 行业 活动 上 说 ： “ 不 断 地 重复 开发 基础 大模型 是 对 社会 资源 的 极大 浪费
+。 人工智能 原生 时代 ， 我们 需要 100万 量级 的 人工智能 原生 应用 ， 但是 不 需要 100 个 大 模型
+。 ”
+--
+
+今年 10月 ， 百度 发布 其 最新 AI模型 文心 一 言 4 . 0 ， 号称 可以 与 OpenA I 最新 发布 的 GPT - 4 相 媲
+美 。 2022年 11月 ， OpenA I 率先 发布 人工智能 驱动 聊天 机器人 ChatGPT ， 它 已经 成为 人工智能
+模型 领域 的 标杆 。 百 度 的 中国 同行 阿 里巴巴 也 发布 了 人工智能 模型 ， 并 全部 开源 ， 希望 与
+Meta 的 Llama 2 竞争 。 Meta 已经 成为 人工智能 领域 开源 创新 的 积极 支持者 。 （ 如果 有 公司 希
+望 使用 Llama 2 模型 ， Meta 依旧 要求 公司 必须 有 超过 7亿 月 活跃 用户 才 能够 获得 特别 许可 。
+--
+
+他 表示 ， 开发 人工智能 应该 效仿 智能 手机 革命 的 做法 。 在 智能 手机 普及 并且 变 得 价 格 实惠
+后 ， 公司 开始 推出 各种 应用 程序 ， 有些 应用 程序 凭借 一 己 之 力 使 其 背后 的 开发 公司 变成 了
+--
+
+李彦宏 称 ： “ 直到 今天 ， 无论是 中国 也 好 ， 美国 也 好 ， 我 认为 最 好 的 人工智能 原生 应用 还 没
+有 出现 。 ”
+--
+大模型 乱斗 的 局面 已经 开始 ” 。 分析 师 早已 开始 对 所有 竞争 对手 失去 兴趣 ， 认为 他们 过于 雷
+同 。 他们 还 担心 ， 面对 根深蒂固 的 大 竞争 对手 ， 新 公司 很 难 立足 。 百度 发布 人工智能 模型
+当天 ， 其 股 价 下跌 了 3 % 。
+--
+由于 开发 大模型 难度 大 而且 成本 高昂 ， 因此 它们 主要 集中 在 少数 科技 公司 手中 ， 这 引发 了
+外界 对 人工智能 开发 透明度 的 质疑 。 斯坦福 大学 （ Stanford University ） 的 研究 发现 ， 美
+国 10 家 规模 最 大 的 人工智能 开发 机构 ， 均 未能 通过 “ 透明度 测试 ” 。 测试 的 目 的 是 评 价 这些
+机构 的 数据 来 源 以及 它们 如何 使用 这些 数据 和 生成 的 模型 。
+
+中国 政府 也 寻求 对 人工智能 大模型 的 开发 和 使用 进行 监管 。 今年 7月 ， 中国 国 家 互联网 信息
+办公室 发布 了 针对 人工智能 使用 的 政府 法规 ， 这 是 全球 最 早 的 相关 法规 之一 。 这些 新 规 也
+可能 会 减少 中国 人工 智能 模型 的 数量 。 （ 财富 中文网 ）
+
+--
+
+科技 行业 过于 关注 基础 人工智能 （ AI ） 模型 ， 却 忽视 了 开发 基于 人工智能 的 应用 程序 ， 尽
+管 这 是 一个 有 发展 前景 的 业务 领域 。
+
+百度 的 首席 执行官 李彦宏 认为 ， 大型 科技 公司 正在 开发 驱动 当前 人工智能 崛起 的 基础 模型
+， 但 它们 应该 将 注意力 放 到 其他 领域 。 它们 应该 专注 于 基于 这些 基础 模型 ， 开发 人工智能
+驱动 的 应用 。
+--
+李彦宏 在 深圳 举办 的 行业 活动 上 说 ： “ 不 断 地 重复 开发 基础 大模型 是 对 社会 资源 的 极大 浪费
+。 人工智能 原生 时代 ， 我们 需要 100万 量级 的 人工智能 原生 应用 ， 但是 不 需要 100 个 大 模型
+。 ”
+--
+
+今年 10月 ， 百度 发布 其 最新 AI模型 文心 一 言 4 . 0 ， 号称 可以 与 OpenA I 最新 发布 的 GPT - 4 相 媲
+美 。 2022年 11月 ， OpenA I 率先 发布 人工智能 驱动 聊天 机器人 ChatGPT ， 它 已经 成为 人工智能
+模型 领域 的 标杆 。 百 度 的 中国 同行 阿 里巴巴 也 发布 了 人工智能 模型 ， 并 全部 开源 ， 希望 与
+Meta 的 Llama 2 竞争 。 Meta 已经 成为 人工智能 领域 开源 创新 的 积极 支持者 。 （ 如果 有 公司 希
+望 使用 Llama 2 模型 ， Meta 依旧 要求 公司 必须 有 超过 7亿 月 活跃 用户 才 能够 获得 特别 许可 。
+--
+
+他 表示 ， 开发 人工智能 应该 效仿 智能 手机 革命 的 做法 。 在 智能 手机 普及 并且 变 得 价 格 实惠
+后 ， 公司 开始 推出 各种 应用 程序 ， 有些 应用 程序 凭借 一 己 之 力 使 其 背后 的 开发 公司 变成 了
+--
+
+李彦宏 称 ： “ 直到 今天 ， 无论是 中国 也 好 ， 美国 也 好 ， 我 认为 最 好 的 人工智能 原生 应用 还 没
+有 出现 。 ”
+--
+大模型 乱斗 的 局面 已经 开始 ” 。 分析 师 早已 开始 对 所有 竞争 对手 失去 兴趣 ， 认为 他们 过于 雷
+同 。 他们 还 担心 ， 面对 根深蒂固 的 大 竞争 对手 ， 新 公司 很 难 立足 。 百度 发布 人工智能 模型
+当天 ， 其 股 价 下跌 了 3 % 。
+--
+由于 开发 大模型 难度 大 而且 成本 高昂 ， 因此 它们 主要 集中 在 少数 科技 公司 手中 ， 这 引发 了
+外界 对 人工智能 开发 透明度 的 质疑 。 斯坦福 大学 （ Stanford University ） 的 研究 发现 ， 美
+国 10 家 规模 最 大 的 人工智能 开发 机构 ， 均 未能 通过 “ 透明度 测试 ” 。 测试 的 目 的 是 评 价 这些
+机构 的 数据 来 源 以及 它们 如何 使用 这些 数据 和 生成 的 模型 。
+
+中国 政府 也 寻求 对 人工智能 大模型 的 开发 和 使用 进行 监管 。 今年 7月 ， 中国 国 家 互联网 信息
+办公室 发布 了 针对 人工智能 使用 的 政府 法规 ， 这 是 全球 最 早 的 相关 法规 之一 。 这些 新 规 也
+可能 会 减少 中国 人工 智能 模型 的 数量 。 （ 财富 中文网 ）
+
+--
+
+The tech industry is too focused on foundational AI models instead of the
+potentially booming business of developing artificial intelligence based apps .
+
+Baidu CEO Robin Li believes major tech players , working toward building the
+underlying models powering the current rise of AI should direct their efforts
+elsewhere . Namely , they should focus on developing A I - powered applications
+--
+of social resources . ” Li said at an industry event in Shenz he n . “ In the
+AI - native era , what w e need are A I - native applications at a scale of millions . ”
+
+--
+
+In October , Baidu unveiled its latest AI model , Ernie 4 . 0 , which it said could
+compete with OpenAI ’ s latest release , GPT - 4 . OpenA I became the benc hmark for AI
+models when it debuted its ChatGPT A I - powered chatbot in November 2022 .
+--
+
+He said AI development should follow in the footsteps of the smartphone
+revolution . After smartphones became popular and affordable , companies started
+--
+
+Chinese companies have created a number of competing AI foundation models , as
+startups and big tech firms try t o e lbow their way into the marke t . A n
+--
+agains t entrenched , bigger player s . Baidu ’ s stock dipped 3 % the day it released
+its AI model .
+
+--
+generally concentrated in the hands of a few tech companies , making them
+flashpoints for questions about transparenc y in AI development . A study from
+Stanford University found that 10 of the biggest AI developers in the U . S . all
+failed a “ transparenc y test ” meant t o evaluate the origin of their data and how
+--
+
+China ’ s government has also sought t o regulate how large AI models are built
+and regulate how they ’ re used . In July , China ’ s Cyberspace Administration
+released what were some of the world ’ s first government regulations governing
+the use of A I . Those new rules could also serve t o winnow the field of AI
+models in China .

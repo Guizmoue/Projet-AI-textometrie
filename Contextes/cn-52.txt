@@ -1,0 +1,294 @@
+
+Artificial Intelligence
+
+--
+
+UK AI Safety Summit
+Policy
+Streng thening the European AI Act
+Policy
+--
+1 . Home »
+2 . Benefits & Risks of Artificial Intelligence Chinese
+
+Benefits & Risks of Artificial Intelligence Chinese
+
+--
+
+人工智能 的 益处 和 风险
+
+
+“ 我们 对 文明 所 爱 的 一切 都 是 智慧 的 产物 ， 所以 用 人工智能 增强 人类 智能 有 促进 文明 走向 前
+所未有 的 兴盛 的 潜力 。 但 ， 前提 是 能 我们 保持 这项 技术 有利 无弊 。 ”
+--
+
+什 么 是 人工智能 ？
+
+
+从 SIRI 到 自动 驾驶 汽车 ， 人工智能 （ AI ） 正在 迅速 地 发展 。 虽然 科幻 小说 经常 将 人工智能
+描绘 成 具有 类人 特性 的 机器人 ， 但 人工智能 可以 涵盖 从 谷歌 （ Google ） 的 搜索 算法 ， IBM沃
+森 ( 人工智能 程序 ) ， 到 自动 武器 的 任何 科技 。
+
+当今 的 人工智能 被 正确 地 称为 专用 人工智能 （ 或 弱AI ） ， 因为 它 被 设计 来 执行 的 任务 范围
+狭窄 （ 例如 ， 仅 执行 面部 识别 ， 或 只 进行 互联网 搜索 ， 或 仅 驾驶 汽车 ） 。 然而 ， 许多 研究
+人员 的 长期 目标 是 创建 通用 人工智能 （ AGI 或 强AI ） 。 虽然 专用 人工智能 能 在 其 特定 的 任务
+上 超越 人类 ， 如 下棋 或 解方程 ， AGI 将 在 几乎 所有 认知 任务 上 超越 人类 。
+
+为何 研究 人工智能 的 安全性 ？
+
+
+在 短期 内 ， 保障 AI 对 社会 有益 的 科研 范畴 可 涵盖 诸多 领域 如 经济学 和 法学 ， 以及 验证法 、
+有效性 计算 、 安全性 和 控制论 等 技术 层面 课题 。 如果 安全 保障 仅 限于 防止 你 的 笔记本 电脑
+宕机 或 被 黑客 入侵 ， 就算 出 了 问题 也 只是 给 你 添点 小 麻烦 。 但 当 AI系统 控制 汽车 、 飞机 、
+心脏 起 搏器 、 自动 交易 系统 或 电网 时 ， 我们 必须 保证 该 系统 完全 遵照 我们 的 指令 ， 否则 后
+--
+从 长远 来 看 ， 一个 重要 的 问题 是 ， 如果 我们 成功 创造 了 能 在 所有 认知 功能 上 超过 人类 的 通
+用 人工智能 ， 将 会 发生 些 什 么 。 正 如 约翰 · 古德 （ Irving John Good ） 在 1965年 所 说 的 ， 设
+计 更 有 智慧 的 AI系统 本身 就 是 一个 认知 任务 。 这样 的 系统 有 潜力 执行 递归式 的 自我 完善 ，
+触发 智能 爆炸 ， 并 远远地 超越 人类 智力 。 通过 发明 革命性 的 新 技术 ， 这样 的 超级智能 可以
+帮助 我们 消除 战争 ， 疾病 和 贫困 。 因此 ， 创造 强AI 可能 是 人类 历史 上 最 重大 的 事件 。 然而
+， 一些 专 家 表示 担心 ， 人类 的 历史 也 会 随着 此类 的 超强 大AI 的 诞生 戛然而止 ， 除非 我们 学
+会 在 AI 成为 超级 智能 之前 即可 使 其 与 我们 同心所向 。
+
+有些 人 质疑 强AI 是 否 会 实现 ， 也 有些 人 坚信 创建 超级智能 对 人类 必定 是 有益 的 。 FLI 承认 这
+两 种 情形 皆 有 可能 ， 但 我们 更 意识 到 人工智能 系统 具有 有意 或 无意 造成 巨大 危害 的 潜力 。
+我们 相信 今日 的 研究 意 在 防患于未然 ， 使得 未 来 人们 受益 于 AI 的 同时 ， 规避 潜在 风险 隐患
+。
+
+人工智能 如何 可能 制造 危险 ？
+
+
+大多数 研究 人员 同意 ， 一个 超智能AI 不 可能 产生 人类 的 情感 ， 如 爱 或 恨 。 他们 也 认为 人们
+没有 理由 期望AI 有意识 地 趋善 向 恶 。 当 考虑 AI如何 成为 风险 时 ， 专 家 认为 有 两 种 情况 最 有
+可能 发生 ：
+
+1 . AI 被 设计 执行 毁灭性 任务 ： 自主 武器 （ autonomous weapon ） 是 为 杀戮而生 的 人工智能
+系统 。 若 落入 恶人 手中 ， 这些 武器 很 容易 便 可 造成 大量 伤亡 。 此外 ， AI军备 竞赛 也 可
+能 无意 中 引发 AI战争 ， 导致 大量 伤亡 。 为 了 避免 被 敌对 势力 从中 阻挠 ， 这些 武器 的 “ 关
+闭 ” 程式 将 被 设计 得 极为 复杂 ， 因而 人们 也 可能 对 这种 情况 失去 掌控 。 这种 风险 虽然 也
+存在 于 专用 人工智能 （ narrow AI ） 中 ， 但 随着 AI智能 和 自驱动 水平 的 提高 ， 风险 也 会
+跟着 增长 。
+2 . AI 被 开发 进行 有益 的 任务 ， 但 它 执行 的 过程 可能 是 具 破坏性 的 ： 这 可能 发生 在 我们 尚
+未 达到 人类 和 人工智能 目标 的 一致性 （ fully align ） ， 而 解决 人类 和 人工智能 目标 一
+致性 的 问题 并 不 是 一 件 容易 的 事 。 试想 ， 如果 你 召唤 一 辆 智能车 将 你 以 最 快 速度 送 到
+--
+
+以 这些 例子 来 看 ， 我们 对 高级 AI 的 担忧 并非 在于 其 可能 产生 恶意 ， 而是 它 可能 达到 的 能力
+。 超智能AI 将 非常 善于 完成 其 目标 ， 如果 这些 目标 不 与 我们 的 目标 形成 一致 ， 我们 麻烦 就
+大 了 。 正 比如 ， 你 可能 并非 对 蚂蚁 深恶痛绝 ， 也 没有 踩 死 蚂蚁 的 恶意 ， 但 如果 你 负责 水电
+绿色 能源 项目 ， 而 项目 开发 的 所在 地区 有 一个 蚁丘 会 因为 大 水 而 被 淹没 ， 那 只 能 说是 算蚂
+蚁倒霉 罢了 。 人工智能 安全 研究 的 一个 关键目 的 就 是 要 避免 将 人类 置于 和 这些 蚂蚁 同样 的
+位置 。
+
+为何 人们 最近 对 AI安全 感 兴趣 ？
+
+--
+史蒂芬 · 霍金 、 伊隆 · 马斯克 、 史蒂夫 · 沃兹尼亚克 、 比尔 · 盖茨 等 许多 科技 大腕 和 许多 领导
+AI 研究 的 科学 家 最近 在 媒体 和 公开信 中 对 AI 风险 表示 关心 。 为什 么 这个 话题 在 近期 会 突然
+出现 在 多 则 头 条 新闻 中 呢 ？
+
+强AI 的 成功 实现 一直 被 认为 是 天方夜谭 ， 即使 得以 达成 也 是 最 少 是 几千 年 以后 的 事情 。 然
+而 ， 由于 最近 的 突破性 研究 和 许多 AI里程碑 的 创造 ， 在 仅仅 五 年 前 被 专 家 认为 是 几十 年 后
+才 能 达到 的 技术 ， 现在 已经 实现 。 这 让 许多 专 家 认真 地 考虑 在 我们 整个 人生 中 出现 超级智
+能 的 可能性 。 虽然 一些 专 家 仍然 猜测 类 人 AI 在 几 个 世纪 以后 才 可能 发生 ， 大多数 AI 研究员
+在 2015年 波多黎各 会议 中 预测 人类 智能 级别 的 人工智能 在 2060年 之前 便 可能 产生 。 因为 A I
+安全 研究 可能 耗费 十几 年 才 能 完成 ， 所以 我们 应该 乘 现在 便 进行 这些 方面 的 研究 。
+
+由于 AI 有 可能 变 得 比 人类 更 聪明 ， 我们 并 没有 确实 的 方式 来 预测 它 的 行为 将 会 是 如何 。 对
+于 AI 的 发展 可能 衍生 出什 么 后果 ， 我们 不 能 把 过去 的 技术 发展 作为 参考 ， 因为 我们 从 来 没
+有 创造 出 任何 能够 在 智慧 上 超越 人类 的 科技 。 事实上 ， 我们 最 能 作为 参考 的 依据 便是 人类
+--
+FLI 的 立场 是 ， 只要 我们 管理 科技 的 智慧 比 技术 不 断 增长 的 力量 更加 强劲 ， 我们 的 文明 就 会
+持续 蓬勃 发展 。 针对 AI技术 ， FLI 的 立场 是 ， 我们 应该 在 不 阻碍 AI 发展 的 前提 下 ， 通过 支持
+人工智能 安全 研究 来 加速 对 AI 科技 的 管理 能力 。
+
+关于 高级 AI 的 误传
+
+
+关于 人工智能 的 未 来 以及 它 对 人类 意味着 什 么 的 对话 已经 正在 进行 。 当下 ， AI技术 有 许多
+连 顶尖 专 家 都 无法 达到 共识 的 争议 ， 例如 ： AI 对 就业 市场 未 来 的 影响 ; 人类 智能 级别 的 人
+工智能 是 否 / 何时 会 被 开发 ; AI 开发 是 否 会 导致 智力 爆炸 ; 以及 这 是 我们 应该 欢迎 还是 恐惧 的
+事情 。 但 当下 也 存在 着 许多 由 误解 或 人们 各 说 各话 所 引起 的 伪争论 。 为 了 帮助 我们 专注 于
+--
+
+一个 常见 的 误区 与 AI 的 时间表 有关 ： 那 就 是 人们 认为 他们 能 肯定 地 断定 机器 极大 地 取代 人
+类 智能 到底 需要 多 长 的 时间 。
+
+许多 人 误认为 我们 肯定 能 在 这个 世纪 内 制造 出 超越 人类 的 人工智能 。 事实上 ， 历史 充满 了
+人类 将 技术 夸大 的 例子 。 比如说 ， 从 前人 们 认为 一定 会 实现 的 聚变 发电厂 和 飞行 汽车 ， 现
+如今 却 从未 出现 过 。 AI 这 类 科技 也 在 过去 被 人们 ， 甚至 被 这个 领域 的 先锋 ， 一直 重复 地 过
+分夸大 。 比如说 ， 约翰 · 麦卡锡 （ “ 人工智能 ” 一 词 的 创造 人 ） ， 马文 · 明斯基 ， 纳撒尼尔 · 罗
+切斯特 和 克劳德 · 香农 曾 写 下 个 过于 乐观 的 预测 。 单 凭 当年 科技 陈旧 的 电脑 ， 他们 提出 ： 在
+1956年 夏天 的 2 个 月 之内 ， 他们 要 在 达特茅斯 学院 进行 一个 10 人 人工智能 的 研究 。 他们 企图
+了 解怎样 能 让 机器 使用 语言 ， 形式 抽象 和 概念 ， 来 解决 目前 只有 人类 能 应对 的 各种 问题 ，
+并 进行 AI自我 提升 。 他们 写道 ， 只要 有 一 组 精心 挑选 的 科学 家 们 在 一起 工作 一个 夏天 ， 就
+可以 在 一个 或 多 个 问题 上 取得 重大 进展 。 但 他们 的 预测 ， 并 没有 成 真 。
+--
+在 另一方面 ， 人们 之中 也 普遍 流传 着 另 一个 极面 的 预测 ， 那 就 是 我们 肯定 知道 超越 人类 的
+人工智能 不 会 在 本世纪 中 出现 。 研究 人员 对 我们 与 超越 人类 的 人工智能 的 距离 进行 了 广泛
+的 估计 ， 但是 我们 亦 不 能 断定 本世纪 出现 超越 人类 的 人工智能 的 概率 为 零 ， 因为 这种 对 科
+技 充满 质疑 的 预测 在 过去 很多 时候 都 是 错 的 。 例如 ， 伟大 的 核物理学 家 欧内斯特 · 卢瑟福 （
+--
+飘渺虚无 的 “ 月光 ” 。 皇 家 天文学 家 理查德 · 伍利 也 在 1956年 称行 星际 旅行 不 过 是 “ 一派胡言 “
+。 他们 负面 的 想法 显然 并 不 正确 。 对 AI最为 极端 的 预测 是 ， 超越 人类 的 人工智能 永远 不 会
+到达 ， 因为 它 在 物理 上 是 不 可能 实现 的 。 然而 ， 物理学 家 们 都 知道 ， 大脑 本身 是 由 夸克 和
+--
+
+目前 ， 已经 有 一些 调查 问卷 向 AI 研究 人员 询问 他们 对 制造 类 人 AI 至少 有 50％ 概率 的 时间 预
+测 。 所有 的 调查 都 有 相同 的 结论 ， 那 就 是 连 世界 上 领先 的 专 家 都 无法 达到 共识 ， 所以 不 要
+说 我们 ， 就 更 不 能 知道 到 底什 么 时候 才 会 出现 超越 人类 的 人工智能 。 例如 ， 在 2015年 波 多
+黎各AI会议 的 AI调查 中 ， 平均 （ 中值 ） 答案 是 在 2045年 ， 但 当中 也 有些 研究 人员 猜测 超越
+人类 的 人工智能 只 可能 在 数百 年 或 更 长 的 时间 后 发生 。
+
+还有 一个 相关 的 传言 就是 对 AI有所 担忧 的 人 认为 类 人 AI 在 几 年 内 就 会 发生 。 事实上 ， 大多
+数 担心 超越 人类 的 人工智能 会 带 来 隐忧 的 人 ， 但 凡 在 记录 上 曾 发言 过 的 ， 都 预测 超越 人类
+的 人工智能 至少 需要 几十 年 才 会 发生 。 但 他们 认为 ， 只要 我们 不 是 100％ 确定 超越 人类 的 人
+工智 能 不 会 在 本世纪 中 发生 ， 最 聪明 的 做法 就 是 乘 现在 便 开始 进行 安全 研究 ， 以 防范 于 未
+来 。 许多 与 人类 智能 级别 的 人工智能 相关 的 安全 问题 非常 艰难 ， 可能 需要 几十 年 才 能 解决
+。 所以 ， 与其 等 到 一 群 过度 操劳 的 程序员 不 小心 启动 问题 前 才 做出 对策 ， 现在 就 开始 针对
+--
+
+另 一个 常见 的 误解 是 ， 那些 对 人工智能 感到 担忧 和 提倡 人工智能 安全 研究 的 人事 实上 对 AI
+了 解 并 不 多 。 当 标准 AI教科书 作者 斯图尔特 ·罗素 在 波多黎各 会谈 中 提到 这 一 点 时 ， 他 逗 得
+观众 哄堂大笑 。 另 一个 相关 的 误解 是 ， 有些 人 认为 支持 人工智能 安全 研究 是 极 具 争议性 的
+。 事实上 ， 为 人工智能 安全 研究 能 得到 适当 的 投资 ， 人们 只 需要 理解 到 AI 可能 带 来 的 安全
+课题 不 可 被 忽视 ， 但 他们 并 不 需要 被 说服 认为 其 风险 非常 高 。 这 就 好比 为 房屋 投保 是 一样
+的 道理 ： 买 保险 并 不 是 因为 房屋 极大 的 可能 被 烧毁 ， 而是 因为 房屋 被 烧毁 拥有 不 可 忽略 的
+概率 。 为 了 安全 起见 ， 投入 AI 安全 研究 是 非常 合理 的 。
+
+或许 是 媒体 的 夸大 使 人工智能 的 安全 课题 看起 来 比 实际上 更 具 争议 。 毕竟 ， 在 文章 中 使用
+恐吓 的 语言 ， 并 利用 超出 语境 的 引言 来 宣扬 即将 来 临 的 危机 可以 比 发表 具 平衡 的 报告 引 来
+--
+英国 小报 中 所 叙述 的 立场 ， 便 可能 会 错误 地 认为 盖茨 认为 超级 智能 即将 来 临 。 同样 的 ， 参
+与 符合 共同 利益 的 人工智能 运动 的 人 或许 在 并 不 理解 吴恩达 博士 的 确实 立场 前 ， 就 因为 他
+对 火星 人口 过 多 的 发言 而 错误 地 认为 他 不 在乎 人工智能 的 安全 。 然而 事实上 ， 他 对 人工智
+能 安全 具有 一定 的 关心 。 他 的 发言 的 关键 是 因为 吴恩达 对 时间线 的 估计 更 长 ， 因此 他 自然
+地 倾向 于 优先 考虑 短期 内 AI 所 能 带 来 的 挑战 ， 多于 考虑 长期 中 可 出现 的 挑战 。
+
+关于 超越 人类 的 人工智能 风险 的 误解
+
+
+“ 斯蒂芬 · 霍金 警告 说 ， 机器人 的 兴起 可能 对 人类 带 来 灾难 。 ” 许多 AI 研究 人员 在 看到 这个 标
+题时 都 感到 不以为然 。 许多 人 甚至 已经 数 不 清 他们 看到 了 多少 相似 的 文章 。 很多 时候 ， 这
+--
+屠杀 人类 ， 因为 他们 已经 变 得 有意识 和 / 或 邪恶 。 但 往 另 一个 较为 轻松 的 层面 想 ， 这样 的 文
+章 实际上 是 相当 有意思 的 ， 因为 他们 简洁 地 总结 了 AI 研究 人员 不 担心 的 情况 。 这种 情况 结
+合 了 多 达 三 个 单独 的 ， 有 关于 机器 意识 ， 邪恶 本质 和 机器人 制造 的 误区 。
+--
+为 了 成为 一 部 自 驾车 ， 它 需要 对 任何 东西 有所 感受 吗 ？ 虽然 这种 意识 的 奥秘 本身 是 有趣 的
+， 但 它 与 AI 的 风险 无关 。 如果 你 被 无 人 驾驶 的 车 撞 到 ， 它 是 否 拥有 主观 感觉 对 你 一点 都 不
+重要 。 相同 的 ， 会 影响 我们 的 人类 是 超智能AI 所 做 的 事 ， 而 不 是 它 的 主观 感觉 。
+
+对 机器 变成 邪恶 的 恐惧 是 另 一个 分散 注意力 的 话题 。 人类 真正 该 担心 的 不 是 AI 的 恶意 ， 而
+是 能力 。 根据 定义 ， 超级 人工智能 非常 善于 实现 其 目标 ， 无论 这些 目标 是 什 么 ， 所以 我们
+需要 确保 其 目标 与 我们 的 目标 一致 。 人类 通常 不 讨厌 蚂蚁 ， 但 我们 比 他们 更 聪明 ， 所以 如
+--
+对 机器人 穷追猛打 ， 并 在 他们 的 文章 将 机器人 刻画 成 邪恶 的 、 拥有 血红双眼 的 金属 怪物 。
+事实上 ， 符合 共同 利益 的 人工智能 运动 主要 关注 的 不 是 机器人 ， 而是 智能 本身 ： 具体 来 说
+， 他们 关心 的 是 人工智能 的 目标 与 我们 的 目标 不 一致 。 这种 不 一致 的 超人类 智能 其实 不 需
+要 拥有 一 副 机器人 的 身躯 ， 而 只 需 通过 互联网 连 接 就 能 给 我们 带 来 麻烦 --- 如 超控 金融 市场
+， 取代 人类 研究 人员 ， 操纵 人类 领导人 ， 或 开发 我们 甚至 不 能 理解 的 武器 。 即使 建筑 机器
+人 在 物理 上 是 不 可能 达到 的 ， 一个 超智慧 和 超富裕 的 人工智能 可以 很 轻易 地 用 金钱 支付 或
+操纵 许多 不 知 情 的 人 听从 它 的 指示 。
+--
+们 是 否 会 控制 智能 机器 还是 由 它们 控制 我们 ？ 智能 机器 会 取代 我们 ， 与 我们 共存 还是 与 我
+们 合并 ？ 在 人工智能 的 时代 中 ， 身 为 人类 的 意义 是 什 么 ？ 你 希望 人类 拥有 什 么 样 的 意义 ，
+而 我们 又 如何 导向 那个 未 来 呢 ？ 在 此 ， 我们 恳请 您 参与 对话 与 讨论 ！
+--
+• Humans Need Not Apply
+• Nick Bostrom on Artificial Intelligence and Existential Risk
+• Stuart Russell Interview on the long - term future of AI
+• Value Alignment – Stuart Russell : Berkeley IdeasLab Debate Present ation at
+the World Economic Forum
+• Social Technology and AI : World Economic Forum Annual Meeting 2015
+• Stuart Russell , Eric Horvitz , Max Tegmark – The Future of Artificial
+--
+
+• Concerns of an Artificial Intelligence Pioneer
+• Transcending Complacenc y on Superintelligent Machines
+• Why We Should Think About the Threat of Artificial Intelligence
+• Stephen Hawking Is Worried About Artificial Intelligence Wiping Out
+Humanity
+• Artificial Intelligence could kill us al l . Meet the man who takes that risk
+seriously
+• Artificial Intelligence Poses ‘ Extinction Risk ’ To Humanity Says Oxford
+University ’ s Stuart Armstrong
+• What Happens When Artificial Intelligence Turns On Us ?
+• Can w e build an artificial superintelligence that won ’ t kill us ?
+• Artificial intelligence : Our final invention ?
+• Artificial intelligence : Can w e keep it in the box ?
+• Science Friday : Christof Koch and Stuart Russell on Machine Intelligence
+( transcript )
+• Transcendence : A n AI Researcher Enjoys Watching His Own Execution
+• Science Goes t o the Movies : ‘ Transcendence ’
+• Our Fear of Artificial Intelligence
+
+AI 研究 人员 的 论文
+
+--
+• Jacob Steinhardt : Long - Term and Short - Term Challenges t o Ensuring the
+Safety of AI Systems
+• Eliezer Yudkows ky : Why value - aligned AI is a hard engineering problem
+
+--
+• Intelligence Explosion and Machine Ethics ( Luke Muehlhauser , MIRI )
+• Artificial Intelligence as a Positive and Negative Factor in Global Risk
+( MIRI )
+• Basic AI drives
+• Racing t o the Precipice : a Model of Artificial Intelligence Development
+• The Ethics of Artificial Intelligence
+• The Superintelligent Will : Motivation and Instrument al Rationality in
+--
+
+• AI control
+• AI Impacts
+• No time like the present for AI safety work
+• AI Risk and Opportunity : A Strategic Analysis
+• Where We ’ re A t – Progress of AI and Related Technologies :
+对 开发 新 AI技术 的 研究 机构 的 进展 做出 介绍 。
+• AI safety
+• Wait But Why on Artificial Intelligence
+• Respons e t o Wait But Why by Luke Muehlhauser
+• Slate Star Codex on why A I - risk research is not that controversial
+• Less Wrong : A toy model of the AI control problem
+
+--
+• Superintelligence : Paths , Dangers , Strategies
+• Our Final Invention : Artificial Intelligence and the End of the Human Era
+• Facing the Intelligence Explosion
+• E - book about the AI risk （ 包括 比 电影 版本 更 真实 的 “ 终结者 ” 场景 ）
+
+--
+• Organizations Focusing on Existential Risks 关注 生存 风险 的 组织 ： 对 从事 生存 风
+险 工作 的 一些 组织 的 简要 介绍 。 80 , 000 Hours : 80 , 000 小时 ： AI 安全 研究 人员 的 职业
+指南 。
+--
+
+Other posts about AI , Translation
+
+--
+
+As Six - Mont h Pause Letter Expires , Experts Call for Regulation on Advanced AI
+Development
+--
+This week will mark six mont hs since the open letter calling for a six mont h
+pause on giant AI experiment s . Since then , a lot has happene d . Our signatories
+reflect on what needs t o happen ne x t .
+--
+
+Introductory Resources on AI Risks
+
+Why are people s o worried about AI ?
+September 18 , 2023
+--
+
+Robert Trager on International AI Governance and Cybersecurity at AI Companies
+
+--
+
+US Senate Hearing ' Oversight of AI : Principles for Regulation ' : Statement from
+the Future of Life Institute
+--
+
+• Artificial Intelligence
+• Biotechnology

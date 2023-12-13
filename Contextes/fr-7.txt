@@ -1,0 +1,1434 @@
+
+   3Intelligence artificielle générale
+
+   (BUTTON) Afficher / masquer la sous-section Intelligence artificielle
+   générale
+--
+
+   4Intelligence artificielle forte
+
+   (BUTTON) Afficher / masquer la sous-section Intelligence artificielle
+   forte
+--
+
+   5Intelligence artificielle faible
+
+   (BUTTON) Afficher / masquer la sous-section Intelligence artificielle
+   faible
+     * 5.1Distinction avec « narrow AI »
+
+--
+   (BUTTON) Afficher / masquer la sous-section Conception de systèmes
+     * 10.1Distinction entre intelligence artificielle, machine learning
+       et deep learning
+--
+
+   13.6Appels à des règles éthiques pour l'IA
+
+--
+
+   (BUTTON) Afficher / masquer la sous-section IA et emploi
+     * 14.1Intelligence artificielle et travail numérique
+
+--
+   (BUTTON) Afficher / masquer la sous-section Dans la science-fiction
+     * 15.1Quelques IA célèbres dans la science-fiction
+
+--
+
+Intelligence artificielle
+
+--
+
+   Pour les articles homonymes, voir A.I. Intelligence artificielle (film)
+   et IA  Ce lien renvoie vers une page d'homonymie .
+   Si ce bandeau n'est plus pertinent, retirez-le. Cliquez ici pour en
+--
+   E3%82%AB%E3%83%BC.jpg] Les assistants personnels intelligents sont
+   l'une des applications concrètes de l'intelligence artificielle dans
+   les années 2010.
+
+   L'intelligence artificielle (IA) est un ensemble de théories et de
+   techniques visant à réaliser des machines capables de simuler
+--
+
+   Les applications de l'IA incluent notamment moteurs de recherche,
+   systèmes de recommandation, compréhension du langage naturel, voitures
+--
+
+   Le terme « intelligence artificielle », créé par John McCarthy, est
+   souvent abrégé par le sigle « IA » (ou « AI » en anglais, pour
+   artificial intelligence). McCarthy définit l'IA ainsi : « C'est la
+   science et l'ingénierie de la fabrication de machines intelligentes, en
+--
+   la tâche similaire qui consiste à utiliser des ordinateurs pour
+   comprendre l'intelligence humaine, mais l'IA ne doit pas se limiter aux
+   méthodes qui sont biologiquement observables^[6]. »
+--
+   Même si elles respectent globalement la définition de Minsky, certaines
+   définitions de l'IA varient sur deux points fondamentaux^[8] :
+     * les définitions qui lient l'IA à un aspect humain de
+       l'intelligence, et celles qui la lient à un modèle idéal
+       d'intelligence, non forcément humaine, nommée rationalité ;
+     * les définitions qui insistent sur le fait que l'IA a pour but
+       d'avoir toutes les apparences de l'intelligence (humaine ou
+       rationnelle), et celles qui insistent sur le fait que le
+--
+
+   Article détaillé : Histoire de l'intelligence artificielle.
+
+--
+
+   Historiquement, l'idée d'intelligence artificielle semble émerger dans
+   les années 1950 quand Alan Turing se demande si une machine peut
+--
+       parties ;
+     * l'intelligence artificielle devient un domaine de recherche
+--
+   Les bornes de ce domaine varient, ainsi optimiser un itinéraire était
+   considéré comme un problème d'intelligence artificielle dans les années
+   1950 et n'est plus considéré aujourd’hui que comme un simple problème
+--
+
+   Vers 2015, le secteur de l'intelligence artificielle cherche à relever
+   quatre défis : la perception visuelle, la compréhension du langage
+--
+
+   Si les progrès de l’intelligence artificielle sont récents, ce thème de
+   réflexion est tout à fait ancien, et il apparaît régulièrement au cours
+--
+   difficultés de cette méthode, également rencontrée dans les travaux
+   modernes sur l’intelligence artificielle, est l’interconnexion de tous
+   les concepts, ce qui ne permet pas d’isoler une idée de toutes les
+--
+   formalisé, ce qui ramène au problème de la signification en
+   intelligence artificielle, et de la subjectivité des utilisateurs.
+
+--
+
+   L'intelligence artificielle est un sujet d'actualité au XXI^e siècle.
+   En 2004, le Singularity Institute a lancé une campagne Internet appelée
+--
+   des mammifères. Il s'agit d'une des méthodes envisagées pour réaliser
+   une IA. Ils annoncent de plus comme objectif de fabriquer en dix ans le
+   premier « vrai » cerveau électronique^[37]. En mars 2007, le
+--
+   Californie, dans une conférence organisée par l'Association for the
+   Advancement of Artificial Intelligence (AAAI), un groupe
+   d'informaticiens se demande s'il devrait y avoir des limites sur la
+--
+   informatiques par l'humanité. Il y abordent les progrès et le potentiel
+   de l'IA, ainsi que les risques associés aux armes léthales autonomes,
+   au chômage technologique et aux concepts d'explosion d'intelligence et
+--
+   En 2009, le Massachusetts Institute of Technology (MIT) a lancé un
+   projet visant à repenser la recherche en intelligence artificielle. Il
+   réunira des scientifiques qui ont eu du succès dans des domaines
+   distincts de l'IA. Neil Gershenfeld déclare « Nous voulons
+   essentiellement revenir 30 ans en arrière et revisiter certaines idées
+--
+   d’ici 2040, tous les avions de guerre américains soient pilotés par
+   intelligence artificielle, en plus des 10 000 véhicules terrestres et
+--
+   deux des trois manches du jeu télévisé Jeopardy! en battant largement
+   ses deux concurrents humains en gains cumulés. Pour cette IA, la
+   performance a résidé dans le fait de répondre à des questions de
+--
+   qu'un ordinateur classique^[45], ils espèrent ainsi faire progresser
+   l'intelligence artificielle, notamment l'apprentissage automatique.
+   Raymond Kurzweil est engagé en décembre 2012 par Google afin de
+--
+   learning, quelques scientifiques et membres de la communauté high tech
+   craignent que l'intelligence artificielle ne vienne à terme dépasser
+   les performances de l'intelligence humaine. Parmi eux, l'astrophysicien
+--
+
+   Les géants de l'Internet s'intéressent de plus en plus à l'IA^[50]. Le
+   Facebook Artificial Intelligence Research (FAIR), créé en 2013 et
+   dirigé par le chercheur français Yann Le Cun, annonce en 2015
+--
+
+   En janvier 2018, des modèles d'intelligence artificielle développés par
+   Microsoft et Alibaba réussissent chacun de leur côté à battre les
+--
+   En février 2019, l'institut de recherche OpenAI annonce la création du
+   programme d’intelligence artificielle GPT-2, capable de générer des
+   textes jugés suffisamment réalistes pour pouvoir représenter un
+--
+   Simon^[58]. Un congrès national annuel, « Reconnaissance de formes et
+   intelligence artificielle », est créé en 1979 à Toulouse^[59]. En lien
+   avec l'organisation de la conférence International Joint Conference on
+   Artificial Intelligence à Chambéry en 1993, et la création d'un
+   GRECO-PRC^[60] « intelligence artificielle », en 1983, il donne
+   naissance à une société savante, l'Association française pour
+   l'intelligence artificielle (AFIA) en 1989, qui, entre autres, organise
+   des conférences nationales en intelligence artificielle^[61].
+   [220px-Ai_for_humanity_logo.svg.png] Logo de la conférence « AI for
+   Humanity » organisée le 29 mars 2018 au Collège de France.
+--
+   artificielle^[62]. Le 19 janvier 2017, une audition se tient au Sénat :
+   « L'intelligence Artificielle menace-t-elle nos emplois ? »^[63]. Le 20
+   janvier 2017, Axelle Lemaire entend valoriser les potentiels
+   scientifiques et industriels français grâce au projet « France
+   IA »^[64].
+
+--
+   des libertés (CNIL) annonce l'organisation d'un débat public sur les
+--
+   l'Homme de garder la main ? »^[67] comprenant des recommandations pour
+   la construction d'un modèle éthique d'intelligence artificielle.
+
+--
+   (OPECST)^[68], est chargé de mener une consultation publique sur
+   l'intelligence artificielle^[69]. Il rend son rapport le 28 mars
+   2018^[70], à la veille d'une intervention du président de la République
+--
+   législation française pour permettre la mise en application de
+   l'intelligence artificielle, en particulier concernant la circulation
+   des véhicules autonomes^[72]. Parallèlement à ces annonces, il est
+--
+   artificielle, à savoir que les algorithmes utilisés par l'État doivent
+   être ouverts, que l'intelligence artificielle doit être encadrée par
+   des règles philosophiques et éthiques et qu'il faut s'opposer à l'usage
+--
+   licencier 217 employés sur 380 d’ici juin 2024, afin de les remplacer
+   par une intelligence artificielle^[75].
+
+Intelligence artificielle générale
+
+   Article détaillé : intelligence artificielle générale.
+
+--
+
+   L'intelligence artificielle générale (IAG) comprend tout système
+   informatique capable d'effectuer ou d'apprendre pratiquement n'importe
+--
+
+   L'intelligence artificielle générale a longtemps été considérée comme
+   un sujet purement spéculatif^[78]. Certains travaux de recherche ont
+--
+
+   L'intelligence artificielle n'a donné que des résultats mitigés sur les
+   ordinateurs typiques de 1970 effectuant 10^7 opérations logiques par
+--
+
+   Le matériel serait donc maintenant disponible, toutefois l'IA souligne
+   la difficulté à expliciter toutes les connaissances utiles à la
+--
+
+Intelligence artificielle forte
+
+   Article détaillé : Philosophie de l'intelligence artificielle.
+
+--
+
+   Le concept d’intelligence artificielle forte fait référence à une
+   machine capable non seulement de produire un comportement intelligent,
+--
+
+   Contrairement à l'intelligence artificielle générale, l'intelligence
+   artificielle forte fait donc le plus souvent intervenir des notions
+   philosophiques de conscience qui font que les capacités de
+   l'intelligence artificielle ne suffisent pas à dire si elle est
+   « forte ». Cela dit, aucune définition de la conscience pour une IA ne
+   fait consensus^[84]. Les termes « intelligence artificielle forte » et
+   « intelligence artificielle générale » sont parfois en pratique
+   utilisés de manière interchangeable^[76].
+--
+   intelligence consciente sur un support matériel autre que biologique.
+   Selon les tenants de l'IA forte, si à l'heure actuelle il n'y a pas
+   d'ordinateurs ou d'algorithmes aussi intelligents que l'être humain, ce
+--
+   Les principales opinions soutenues pour répondre à la question d’une
+   intelligence artificielle forte (c'est-à-dire douée d'une sorte de
+   conscience) sont les suivantes :
+--
+       un processus simulable^[89]. Cette dernière opinion constitue la
+       position la plus engagée en faveur de l'intelligence artificielle
+       forte.
+--
+   un doute sur la possibilité de faire la différence entre une
+   intelligence artificielle qui éprouverait réellement une conscience, et
+   une autre qui simulerait exactement ce comportement (voir Zombie
+--
+
+   Même si une intelligence artificielle forte n'était guère possible, une
+   IA peut être de plus en plus perçue comme forte par une majorité
+   d'individus parallèlement à l'arrivée des IA génératives, dont les LLM
+   (de l'anglais large language model) comme ChatGPT ou Google Bard, et
+--
+   humain de distinguer des créations humaines de celles provenant d’une
+   IA générative.
+
+--
+
+Intelligence artificielle faible
+
+   Article détaillé : Intelligence artificielle faible.
+
+   La notion d’intelligence artificielle faible constitue une approche
+   pragmatique d’ingénieur : chercher à construire des systèmes de plus en
+--
+
+   Les tenants de l'IA forte admettent que s'il y a bien dans ce cas
+   simple simulation de comportements intelligents, il est aisé de le
+--
+
+   Les tenants de l'IA faible arguent que la plupart des techniques
+   actuelles d’intelligence artificielle sont inspirées de leur paradigme.
+   Ce serait par exemple la démarche utilisée par IBM dans son projet
+   nommé Autonomic computing. La controverse persiste néanmoins avec les
+   tenants de l'IA forte qui contestent cette interprétation.
+
+   Simple évolution, donc, et non révolution : l’intelligence artificielle
+   s’inscrit à ce compte dans la droite succession de ce qu’ont été la
+--
+
+Distinction avec « narrow AI »
+
+   Si le terme intelligence artificielle peut désigner un système capable
+   de résoudre plusieurs problèmes de façon relativement autonome tout en
+--
+
+   Ces intelligences artificielles, nommées « narrow AI » (« intelligence
+   artificielle étroite »), sont conçues spécifiquement sur une tâche,
+   sans développement particulier pour la généraliser comme le ferait une
+   intelligence artificielle générale. Elles n'en gardent pas moins leur
+   utilité, et restent très utilisées dans l'industrie^[96], étant les
+   seuls systèmes d'IA utilisables jusqu'à ce qu'une intelligence
+   artificielle générale soit accessible et commercialisée.
+--
+   À l’orée des années 1950, entre la naissance de la cybernétique et
+   l’émergence quelques années plus tard de l’intelligence artificielle,
+   alors que les meilleurs esprits du temps s’interrogent sur la
+--
+   D'autres tests ont également été développés pour évaluer la performance
+   d'une intelligence artificielle :
+     * Le test du café^[101] : imaginé par Steve Wozniak, le test consiste
+--
+   Plusieurs prix Turing (ACM Turing Award) ont été attribués à des
+   pionniers de l'intelligence artificielle, notamment :
+     * Marvin Minsky (1969) ;
+--
+       artificielle du MIT.
+     * Jacques Pitrat, pionnier français en intelligence artificielle
+       symbolique.
+--
+   En 2023, le magazine Time publie une liste de 100 personnalités
+   influentes du domaine de l'IA et leurs biographies^[105].
+
+--
+   des systèmes, deux approches reprises par les sciences cognitives et de
+   ce fait l’intelligence artificielle : une approche par la décomposition
+   (du haut vers le bas) et une approche contraire par construction
+--
+
+   Le guide pratique de Linux sur l'intelligence artificielle v3.0^[106],
+   révisé le 15 décembre 2012, adopte pour la commodité du lecteur la
+--
+   On peut considérer différents dispositifs intervenant, ensemble ou
+   séparément, dans un système d’intelligence artificielle tels que :
+     * le dialogue automatique : se faire comprendre en lui parlant ;
+--
+
+   Les réalisations actuelles de l’intelligence artificielle peuvent
+   intervenir notamment dans les fonctions suivantes :
+--
+   médiatisés. ELIZA (le premier agent conversationnel, donc pas de la
+   « véritable » intelligence artificielle) tenait en trois pages de
+   SNOBOL. On utilise aussi, plus pour des raisons de disponibilité et de
+--
+
+Distinction entre intelligence artificielle, machine learning et deep
+learning
+
+   Bulles imbriquées pour positionner les notions d'IA, de machine
+   learning et de deep learning. La plus large est l'IA, l'intermédiare
+   est le machine learning et la plus petite est le deep learning Schéma
+   montrant le positionnement des notions d'IA, machine learning et deep
+   learning imbriquées les unes aux autres.
+--
+   Il y a une confusion fréquente dans le débat public entre
+   « intelligence artificielle », apprentissage automatique (machine
+   learning) et apprentissage profond (deep learning). Pourtant, ces
+   notions ne sont pas équivalentes, mais sont imbriquées :
+     * l'intelligence artificielle englobe le machine learning, qui
+       lui-même englobe le deep learning^[110] ;
+     * l'intelligence artificielle peut aussi englober plusieurs autres
+       types de briques logicielles, comme les moteurs de règles^[111].
+--
+   artificielle.
+   Article détaillé : Applications de l'intelligence artificielle.
+
+   L'intelligence artificielle a été utilisée (ou intervient) dans une
+   variété de domaines.
+--
+   telles technologies, avec des projets comme ceux de Bridgewater
+   Associates où une intelligence artificielle va gérer entièrement un
+   fonds^[113] ou encore la plateforme d'analyse prédictive Sidetrade.
+--
+
+   Une course aux armements à base d'IA est en cours, telle qu'illustrée
+   par le projet Maven aux États-Unis^[116].
+--
+   Jean-Christophe Noël, expert de l'Institut français des relations
+   internationales (IFRI), rapporte qu'une IA, surnommée ALPHA, a fait ses
+   premières classes en octobre 2015 en « affrontant des programmes
+--
+
+   En septembre 2019, la force opérationnelle IA du ministère des Armées
+--
+   l’intelligence artificielle au sein de l'Agence de l'innovation de
+   défense (AID), ainsi qu'une Cellule de coordination de l’intelligence
+--
+   prévoit un budget de 700 millions d'euros pour les missions en faveur
+   de l'IA, soit une moyenne de 100 millions par an^[118].
+
+--
+
+   Article détaillé : Intelligence artificielle dans la santé.
+
+--
+   En 2018, Google DeepMind, filiale de Google spécialisée dans la
+   recherche avancée en intelligence artificielle, a publié les résultats
+   d'une expérimentation d'intelligence artificielle pouvant détecter les
+   maladies oculaires. Les résultats indiquent que l'IA le fait avec une
+   marge d'erreur plus faible que les ophtalmologues^[121].
+--
+
+   Un usage de l'IA se développe dans le domaine de la prévention des
+   crimes et délits. La police britannique, par exemple, développe une IA
+   de ce genre, annoncée comme pouvant être opérationnelle dès mars
+   2019^[123]. Baptisée National Data Analytics Solution (Solution
+   nationale d'analyse de données ou NDAS), elle repose sur l'IA et des
+   statistiques et vise à estimer le risque qu'une personne commette un
+--
+
+   L'intelligence artificielle (IA) est de plus en plus exploitée dans le
+   domaine du cybercrime, comme le révèle une étude de la société
+   l'utilisation de l'IA pour commettre des crimes en ligne montre une
+   sophistication accrue des attaques. L'entreprise SlashNext a notamment
+   identifié l'usage de deux IA malicieuses, FraudGPT et WormGPT, tout en
+   suggérant que ces découvertes ne représentent que la partie visible
+--
+   cybercrime semblent insuffisantes, estime un rapport d'Immunefi, qui
+   souligne les limites de certaines IA, telles que ChatGPT, dans la
+   détection des exploits^[125].
+--
+
+   Le droit fait appel à l'IA dans la perspective de prédire les décisions
+   de justice, d'aider à la décision et de trancher les cas simples^[126].
+   L'Estonie a par exemple développé une intelligence artificielle capable
+   de prendre des décisions de justice sur des délits mineurs^[127]. Les
+--
+   Le domaine de la logistique a vu certains projets utilisant de
+   l'intelligence artificielle se développer notamment pour la gestion de
+   la chaîne logistique (supply chain) ou des problématiques de livraison
+--
+
+   L'intelligence artificielle est également fortement utilisée dans le
+   domaine des transports en commun, car elle permet de faciliter la
+--
+   base d'intelligence artificielle (voir le problème du voyageur de
+   commerce ou l'algorithme de Dijkstra), les avancées récentes, notamment
+--
+   matière de précision. Certains projets comme Google Maps utilisent par
+   exemple des systèmes d'IA en milieu urbain pour compenser la réflexion
+   du signal GPS sur les immeubles avoisinant^[131], ou pour cartographier
+--
+
+   La robotique a recours à l’intelligence artificielle à plusieurs
+   égards. Notamment pour la perception de l'environnement (objets et
+   visages), l'apprentissage et l'intelligence artificielle
+   développementale^[135]^,^[136].
+--
+   révolution n’est pas technologique, elle est culturelle ». D'ores et
+   déjà, travers les robots dotés d'intelligence artificielle, tel Google
+   Home, les utilisateurs combleraient un isolement social^[135].
+--
+
+   Article détaillé : Intelligence artificielle dans le jeu vidéo.
+
+   L'intelligence artificielle est par exemple utilisée pour animer les
+   personnages non-joueurs de jeux vidéo, qui sont conçus pour servir
+--
+   Un'emozione per sempre 2.0, dans laquelle il met en scène une Ornella
+   Muti virtuelle, recréée par une intelligence artificielle. Après
+   seulement quelques jours d’entraînement, l’intelligence artificielle
+   est capable d’animer le visage de l’actrice italienne pour réaliser des
+--
+   vente le tableau Portrait d'Edmond de Belamy réalisé par une
+   intelligence artificielle à l'aide de réseaux antagonistes génératifs.
+   La peinture est signée par la formule mathématique à l'origine de sa
+--
+   son statut de création artistique et sur l'auteur de l'œuvre : il peut
+   être l'intelligence artificielle elle-même ou les trois créateurs qui
+   l'ont programmée^[145]. L'œuvre est achetée pour 350 000 dollars^[146].
+--
+   antagonistes génératifs » en français), un mouvement artistique qui
+   utilise l’intelligence artificielle dans la création d'une œuvre
+   picturale^[146].
+--
+   ] Une fausse photo du jeune Elon Musk jouant au jeu vidéo Mars Marauder
+   en 1995, générée par l'IA
+
+--
+   D.A.I, en 2018, des cartes d'identités de multiples pays sont analysées
+   par une intelligence artificielle et aboutissent à de nouveaux papiers,
+   symbolisant un monde sans frontières.
+
+   Dès 2022 apparaissent des modèles d'intelligence artificielle qui sont
+   capables de créer des images réalistes à partir de descriptions
+--
+
+   En journalisme : des IA (appelées improprement « robots journalistes »)
+   pourraient à terme aider les journalistes en les débarrassant de
+--
+
+   Article détaillé : Réglementation de l'intelligence artificielle.
+
+   En 2017, les Émirats arabes unis sont le premier pays au monde à se
+   doter d'un ministre dédié à l'intelligence artificielle : Omar Sultan
+   Al Olama^[160].
+--
+   En 2019, l'OCDE et le G20 adoptent une série de principes sur
+   l'IA^[161]. Le Partenariat mondial sur l'intelligence artificielle est
+   lancé en juin 2020 pour promouvoir la conformité du développement de
+   l'IA aux droits de l'homme et aux valeurs démocratiques. Il est hébergé
+   par l'OCDE à Montréal et à Paris^[162]. Une plateforme de
+   communication, AI for Good (« l'IA pour le bien »), est créée pour
+   faciliter les échanges et faire avancer les objectifs de développement
+   durable de l'ONU grâce à l'IA^[163].
+
+--
+   la législation sur les services numériques et la législation sur les
+   marchés numériques. Pour l'intelligence artificielle en particulier, la
+   législation sur l'intelligence artificielle (Artificial Intelligence
+   Act, ou AI Act en anglais) définit quatre niveaux de risques pour les
+   applications d'IA et met en avant des exigences de transparence, de
+   protection des données, de sécurité et d'éthique^[165].
+--
+
+   Article connexe : Éthique de l'intelligence artificielle.
+
+   Les succès en IA encouragent les spéculations. Dans les milieux
+   technophiles, on verse en général dans l'enthousiasme, le mouvement
+--
+
+   Le développement de l'intelligence artificielle suscite un grand nombre
+   de questions, notamment en ce qui concerne la possibilité pour les IA
+   ou algorithmes d'accéder un jour à la conscience, d'éprouver des
+--
+   l'IA^[167].
+
+   Dans son essai Intelligence artificielle, intelligence humaine : la
+   double énigme, le philosophe Daniel Andler considère que le rêve d'une
+   intelligence artificielle qui rejoindrait celle de l'homme est une
+   chimère, pour des causes conceptuelles et non techniques.
+--
+
+   La définition du terme « intelligence artificielle » pose une question
+   fondamentale : Qu'est-ce que l'intelligence^[169] ?
+
+   Le chercheur en IA Yann Le Cun avance que le noyau de l'intelligence
+   est la faculté de prédire. En effet, les bases de la programmation des
+--
+   d'associations automatiques, notamment observables dans le big data.
+   Dans tous les cas, l'efficacité de l'intelligence artificielle consiste
+   à répondre aux objectifs donnés par les programmeurs et à tendre vers
+--
+   artificielle et les limites du test de Turing, par son expérience de la
+   chambre chinoise, concluant : « on ne devrait pas dire d'une IA qu'elle
+   comprend les informations qu'elle traite lorsqu'elle manipule des
+--
+   d'une véritable intelligence reste donc ouverte »^[169].
+   L'apprentissage automatique fonctionne cependant différemment de l'IA
+   symbolique^[170], qui était populaire à l'époque où Searle a conçu
+--
+
+   Une description d’un possible avenir de l’intelligence artificielle a
+   été faite par le statisticien anglais Irving John Good :
+--
+   [170px-Raymond_Kurzweil_Fantastic_Voyage.jpg] Pour l'Américain Ray
+   Kurzweil, l'intelligence artificielle dépassera bientôt l'intelligence
+   naturelle.
+--
+
+   Le développement de l'intelligence artificielle suscite l'enthousiasme
+   des transhumanistes, notamment celui de l'ingénieur américain Ray
+--
+   [220px-Bill_Gates_-_World_Economic_Forum_Annual_Meeting_Davos_2008_numb
+   er2.jpg] Le développement de l'intelligence artificielle suscite des
+   craintes, y compris au sein de la sphère high tech. En 2015, Bill
+--
+
+   Le développement de l'intelligence artificielle génère de
+   l'enthousiasme, mais aussi de vives inquiétudes. Certains auteurs de
+--
+   technologique Web Summit de Lisbonne la question suivante « Serons-nous
+   aidés par l’intelligence artificielle ou mis de côté, ou encore
+   détruits par elle ? »^[178].
+--
+   Elon Musk et Bill Joy^[179]. Selon le spécialiste américain de
+   l'informatique Moshe Vardi, l'intelligence artificielle pourrait mettre
+   50 % de l'humanité au chômage. « Nous approchons d'une époque où les
+--
+   Hilary Mason, directrice de la recherche à Cloudera, critique le
+   sensationnalisme entourant l'intelligence artificielle et prône une
+   vision utilitariste et technique de cette technologie^[181].
+
+   En mai 2023, une déclaration du Center for AI Safety (« Centre pour la
+   sûreté de l'IA ») affirme que réduire le risque d'extinction de
+   l'humanité lié à l'IA devrait être une priorité mondiale, au même titre
+   que pour d'autres risques civilisationnels tels les pandémies ou les
+   guerres nucléaires. Elle est signée par des dirigeants de laboratoires
+   d'IA comme OpenAI, Google DeepMind ou Anthropic, ainsi que par des
+   chercheurs en intelligence artificielle^[182]^,^[183].
+
+--
+   interruption dans une tâche. La firme développe ainsi un « bouton
+   rouge » intégré en bas niveau dans les IA et permettant de désactiver
+   les intelligences artificielles, sans possibilité de contournement par
+   celles-ci — au-delà de simplement « tuer » l'IA, l'objectif de ce
+   « bouton rouge » est aussi de la geler dans son process, en évitant de
+--
+   Cependant, un tel mécanisme d'arrêt pourrait ne pas suffire face à une
+   IA suffisamment avancée, qui pourrait être en mesure de cacher des
+   intentions dangereuses, de manipuler ses détenteurs, de désactiver le
+--
+     indéfiniment un génie superintelligent enfermé dans une bouteille.
+     Je crois que la réponse ici est de trouver comment créer une IA
+     superintelligente de sorte que si — ou plutôt quand — elle
+--
+   Roman V. Yampolskiy, professeur de science informatique à l'Université
+   de Louisville, évoque pourquoi et comment une IA obtient un résultat,
+   pour s'assurer qu'il corresponde bien à l'attendu, sans biais : « si
+   nous nous habituons à accepter les réponses de l’IA comme des paroles
+   d’oracles ne nécessitant pas d’explication, alors nous serons
+--
+   Parlement européen a demandé à une commission d'étudier la possibilité
+   qu'un robot doté d'une intelligence artificielle puisse être considéré
+   comme une personne juridique^[187]. Advenant un dommage causé à un
+   tiers par une intelligence artificielle, celle-ci pourrait être
+   condamnée à réparer ce dommage. Il serait envisageable de conférer une
+--
+   fondé une organisation religieuse qui fait la promotion d’une
+   « divinité » reposant sur une intelligence artificielle. Cette
+   organisation, appelée « Way of the Future » (« La voie de l’avenir »)
+--
+   Un autre problème est l'énorme quantité de ressources rares, de
+   serveurs et d'énergie consommée par l'informatique sous-jacente à l'IA.
+
+--
+   Comme l'explique l'historien François Jarrige, la critique de
+   l'intelligence artificielle trouve son origine dans celle - plus
+   ancienne et plus générale - des techniques et de la technologie, dont
+--
+   Dans un rapport en date de février 2018 intitulé The Malicious Use of
+   Artificial Intelligence 26 experts spécialistes en intelligence
+   artificielle mettent en garde contre les dangers d'un usage criminel de
+   l'IA : augmentation de la cybercriminalité, conduire à des utilisations
+   de drones à des fins terroristes, manipulation de masse, etc.^[198].
+--
+   vouloir investir 30 millions de dollars dans un projet baptisé
+   Mozilla.ai, qui est à la fois une startup et une communauté,
+   indépendante des géants de la tech et de la recherche académique^[199].
+   Le projet vise à créer, dans le respect des valeurs de son manifeste
+   (notamment transparence et responsabilité), un système d’IA « open
+   source, digne de confiance et indépendant » qui puisse faire
+   « contrepoids » aux IA privées en émergence^[200].
+
+Appels à des règles éthiques pour l'IA
+
+   Dans la seconde moitié des années 2010, des lanceurs d'alerte et des
+   enquêtes laissent penser que l'IA, encore émergente, est déjà utilisée
+   à des fins malveillantes pour faire basculer des processus électoraux.
+--
+   parce qu'elle a été au cœur du scandale Facebook-Cambridge
+   Analytica/Aggregate IQ). Cette IA a été, au moins durant quelques
+   années, dans les années 2010, utilisée pour tromper et manipuler un
+--
+   Le 18 juillet 2018, 2 400 chercheurs, ingénieurs et personnalités du
+   secteur de l'intelligence artificielle signent une lettre
+   ouverte^[206], s'engageant à « ne jamais participer ou soutenir le
+--
+   Conseil et le Comité directeur du Partenariat mondial sur
+   l'intelligence artificielle, avec la possibilité de participer
+   activement aux travaux de ces organes^[208].
+--
+   À la suite de la publication en février 2020 d'un Livre blanc sur
+   l’intelligence artificielle^[209], la Commission européenne pose en
+   2021 les bases de la législation sur l'intelligence artificielle,
+   visant à prévenir les risques et les problèmes éthiques inhérents à ces
+--
+
+     « Risque inacceptable : les systèmes d'IA considérés comme une
+     menace évidente pour la sécurité, les moyens de subsistance et les
+     droits des personnes seront interdits. Il s'agit notamment des
+     systèmes ou applications d'IA qui manipulent le comportement humain
+     pour priver les utilisateurs de leur libre arbitre (par exemple, des
+--
+
+   En décembre 2022, le « premier forum mondial sur l'éthique de l'IA »,
+   réunion ministérielle internationale, est réuni à Prague, sous l'égide
+--
+   les États de mettre en œuvre sa recommandation sur l'éthique de
+   l'intelligence artificielle^[213]. Ce texte^[214], adopté le 23
+   novembre 2021 et publié en 2022 vise à construire un cadre législatif
+   et éthique pour l'intelligence artificielle (IA). Il ne s'agit pas de
+   se priver de l'IA, mais de ne l'utiliser que quand les atouts qu'elle
+   peut offrir sont bien identifiés, et que quand on peut éviter, limiter,
+--
+   clivages) ; l'ONU, via cette recommandation invite à ne pas utiliser
+   l'IA quand elle met en péril la protection des données (tous les
+   individus devraient pouvoir accéder aux enregistrements de leurs
+--
+   des comptes incombent toujours aux êtres humains en dernier ressort et
+   que les technologies de l’IA ne devraient pas être dotées elles-mêmes
+   d’une personnalité juridique ». Les IA doivent être évaluées du point
+   de vue de leurs impacts éthiques sur les individus, la société et
+   l’environnement en créant une infrastructure juridique et technique ad
+   hoc, et en créant un responsable (indépendant) de l’éthique de l’IA ou
+   d'autre mécanisme pour surveiller les IA. Ceux qui créent des IA
+   devraient « privilégier les méthodes d’IA économes en données, en
+   énergie et en ressources » pour en faire un outil dans la lutte contre
+   le changement climatique et la dégradation de l'environnement. Les
+--
+   environnemental de l’extraction des matières premières pour soutenir la
+   fabrication des technologies d’IA », tout en cherchant à diminuer
+   l’impact environnemental du numérique, dont en investissant dans les
+   technologies vertes. « si les systèmes d’IA ont un impact négatif
+   disproportionné sur l’environnement, la Recommandation préconise de ne
+--
+   qui ont commencé à créer de tels garde-fous, pour notamment créer un
+   outil législatif capable d'encadrer et de surveiller les IA, tout en
+   veillant à la protection des données personnelles et sensibles, et en
+   sensibilisant la population mondiale à un usage responsable de
+   l'IA^[215].
+
+--
+   incluant : la création d'autorités réglementaires dédiées, des moyens
+   pour efficacement surveiller des IA et des systèmes les utilisant, la
+   mise à disposition de techniques permettant de mieux différencier le
+--
+   « perturbations économiques et politiques dramatiques (en particulier
+   pour la démocratie) que l'IA provoquera »^[215].
+
+IA et emploi
+
+--
+   et Michael A. Osborne, publient un rapport prospectif sur les impacts
+   de l'intelligence artificielle et de la robotisation sur l'emploi : The
+   Future of Employment: How Susceptible Are Jobs to
+--
+   dans le monde académique et nourrit les inquiétudes autour de l'impact
+   de l'intelligence artificielle sur l'emploi. Des critiques de ce
+   rapport se sont formées. Tout d'abord, Osborne et Frey raisonnent en
+--
+   et s'interroge ainsi plutôt sur les modifications de la structure du
+   marché de l'emploi due à l'intelligence artificielle^[217].
+
+Intelligence artificielle et travail numérique
+
+   Article connexe : Législation sur l'intelligence artificielle.
+
+   Malgré les progrès importants de l'intelligence artificielle ces
+   dernières années, l'hypothèse de la fin du travail ne semble pas encore
+   réalisée. Cependant, la structure du marché de l'emploi connaît de
+   grands changements à cause de l'intelligence artificielle. Selon le
+   sociologue Antonio Casilli, les différentes formes d'activités humaines
+   nécessaires à la production d'intelligence artificielle, ou « travail
+   numérique » (« digital labour »), concept forgé dans les années 2000
+--
+   Uber, Deliveroo, ou même Airbnb, etc. Dans le cas du travail à la
+   demande, l'intelligence artificielle ne remplace pas le travail humain
+   mais elle permet plutôt une optimisation de la rencontre de l'offre et
+   de la demande sur un certain marché. Cette forme de digital labour est
+   moins liée à la production d'intelligence artificielle que les deux
+   suivantes, en revanche, l'intelligence artificielle et l’algorithmique
+   bousculent la structure de l'emploi des secteurs d’activités concernés.
+--
+   travailleurs du statut de salarié. Dans ce cas-là les conséquences de
+   l'intelligence artificielle sur l'emploi concernent davantage une
+   modification du statut des travailleurs, qu'un remplacement de l'homme
+--
+   L'émergence du micro-travail est très étroitement liée à la production
+   d'intelligence artificielle, notamment dans la phase d’entraînement et
+   de calibrage des algorithmes. En effet, tous les algorithmes
+   d'intelligence artificielle (particulièrement ceux utilisant
+   l'apprentissage profond) ont besoin d'une vaste quantité de données
+--
+
+   Amazon, l'un des leaders mondiaux de l'intelligence artificielle,
+   possède la plus grande plateforme de micro-travail, Amazon Mechanical
+   Turk, créée en 2005. Les autres leaders de l'intelligence artificielle
+   utilisent également les services de plateformes de micro-travail :
+   Google se sert d'EWOK, Microsoft d'UHRS et IBM de Mighty IA^[221]. Ces
+   micro-tâches numériques sont en général : rédiger de courts
+--
+   mortel de début 2018^[229]. L'analyse du digital labour met en lumière
+   toute l'ambivalence actuelle de l'intelligence artificielle. Lorsque
+   les grandes plateformes du numérique et les ingénieurs annoncent le
+--
+   concrète nous montre que pour l'instant, le travail humain est
+   essentiel pour combler les lacunes de l'intelligence artificielle. Il
+   semble donc que derrière les promesses d'automatisation, se cache
+--
+   En 2016, des chercheurs du Future of Humanity Institute, de
+   l’Université Yale et d’AI Impact ont sondé 352 experts en apprentissage
+   automatique pour prédire la vitesse des progrès de l'IA dans
+   différentes capacités et professions, ainsi que les implications
+--
+   Article connexe : Liste d'ordinateurs de fiction.
+   Catégorie connexe : Intelligence artificielle dans l'art et la culture.
+
+--
+   Babbage^[233]. Le roman Le Miroir flexible de Régis Messac propose
+   quant à lui le principe d'une intelligence artificielle faible, mais
+   évolutive, avec des automates inspirés de formes de vie simples,
+   réagissant à certains stimuli tels que la lumière. Cette trame a
+   fortement inspiré le film A.I. Intelligence artificielle réalisé par
+   Steven Spielberg, sur la base d'idées de Stanley Kubrick, lui-même
+   inspiré de Brian Aldiss^[234]. L'œuvre de Dan Simmons, notamment le
+   cycle d'Hypérion, évoque l'intelligence artificielle. Destination vide,
+   de Frank Herbert, met en scène de manière fascinante l'émergence d'une
+   intelligence artificielle forte. Plus récemment, l'écrivain français
+   Christian Léourier a placé une intelligence artificielle au cœur de son
+   roman court Helstrid (2018), dans lequel cette IA laisse un être humain
+   mourir, contrevenant ainsi aux trois lois de la robotique instaurées
+--
+
+   Les androïdes faisant preuve d'intelligence artificielle dans la
+   fiction sont nombreux : le personnage de Data de la série télévisée
+--
+   ailleurs, les Terminators successifs sont envoyés dans le passé par
+   Skynet, une intelligence artificielle qui a pris conscience
+   d'elle-même, et du danger que représentent les humains envers
+--
+
+Quelques IA célèbres dans la science-fiction
+
+   IA dans la science-fiction
+     * 1968 : 2001, l'Odyssée de l'espace de Stanley Kubrick, inspiré de
+--
+     * 1969 : Le Cerveau d'acier, d’après le roman de Dennis Feltham
+       Jones (en) de 1967, montre un système d’IA militaire américain
+       contacter son homologue russe pour qu’ils coopèrent à leur mission
+--
+     * 1982 : Tron de Steven Lisberger, où le Maître contrôle principal
+       (MCP) est un programme d'échecs qui a évolué en IA et tente de
+       prendre le contrôle total du système.
+--
+     * 1999 : Matrix, trilogie cinématographique de science-fiction dans
+       laquelle les humains, enfermés dans un monde créé par l'IA, sont
+       asservis par les machines. Une petite poche de résistance humaine
+--
+       éponyme d'Isaac Asimov.
+     * 2001 : A.I. Intelligence artificielle de Steven Spielberg, inspiré
+       de la nouvelle de Brian Aldiss Les Supertoys durent tout l'été. Le
+--
+     * 2004 : I, Robot, inspiré de l’œuvre de Isaac Asimov et thème
+       semblable au film AI.
+     * 2008 : J.A.R.V.I.S. (Just A Rather Very Intelligent System) dans
+--
+     * 2011-2016 : la série télévisée Person of Interest met en scène un
+       groupe de personnes guidées par une intelligence artificielle
+       capable de prédire des crimes.
+--
+       imprévisibles^[236].
+     * 2023 : dans la mini-série Class of '09, l'IA est utilisée par le
+       FBI pour résoudre des enquêtes.
+--
+
+   Article détaillé : Intelligence artificielle dans le jeu vidéo.
+
+   Les jeux, notamment les jeux de stratégie, ont marqué l’histoire de
+   l’intelligence artificielle, même s’ils ne mesurent que des compétences
+   particulières, telles que la capacité de la machine en matière de
+--
+   Outre la capacité des jeux à permettre de mesurer les performances de
+   l'intelligence artificielle, que ce soit au travers d'un score ou d'un
+   affrontement face à un humain, les jeux offrent un environnement
+--
+   En 1968, le maître international anglais David Levy lança un défi à des
+   spécialistes en intelligence artificielle, leur pariant qu'aucun
+   programme informatique ne serait capable de le battre aux échecs dans
+--
+
+   En 2015, l'IA réalise des progrès significatifs dans la pratique du go,
+   plus complexe à appréhender que les échecs (entre autres à cause du
+--
+
+   En octobre 2015, AlphaGo, un logiciel d'IA conçu par DeepMind, filiale
+   de Google, bat pour la première fois Fan Hui, le triple champion
+   européen de go^[252] et ainsi relève ce qu'on considérait comme l'un
+   des plus grands défis pour l'intelligence artificielle. Cette tendance
+   se confirme en mars 2016 quand AlphaGo bat par trois fois consécutives
+--
+
+   En 2011, l'IA Watson conçue par IBM bat ses adversaires humains au jeu
+   télévisé américain Jeopardy!. Dans ce jeu de questions/réponses, la
+--
+   Artificielle : on monte la mise ») organisé dans un casino de
+   Pennsylvanie, l’intelligence artificielle Libratus, développée par des
+   chercheurs de l'université Carnegie-Mellon de Pittsburgh, est
+--
+   La victoire nette et sans bavure de la machine marque une nouvelle
+   étape dans le développement de l'intelligence artificielle et illustre
+   les progrès accomplis dans le traitement par l'IA des « informations
+   imparfaites », où la réflexion doit prendre en compte des données
+--
+   Auparavant, en 2015, le joueur professionnel Doug Polk (en) a remporté
+   la première édition de cet évènement contre une autre IA, baptisée
+   Claudico (en)^[256].
+--
+
+    1. ↑ « Intelligence artificielle », sur Larousse encyclopédique.
+    2. ↑ Ministère de l'Enseignement supérieur et de la Recherche,
+       « France intelligence artificielle »^(Archive.org • Wikiwix •
+       Archive.is • Google • Que faire ?) [PDF], 21 mars 2017
+--
+    3. ↑ « Les applications les plus populaires de l'Intelligence
+       Artificielle (IA) », sur PandIA, 15 mars 2023 (consulté le 27 mai
+       2023).
+    4. ↑ (en) « Rulers of the world, unite! The challenges and
+       opportunities of artificial intelligence », Business Horizons,
+       janvier 2020.
+    5. ↑ « Votre chat est plus intelligent qu'une IA », sur Slate.fr, 18
+       octobre 2019 (consulté le 19 octobre 2019).
+    6. ↑ « Qu'est-ce que l'intelligence artificielle (IA) ? », sur IBM
+       (consulté le 6 avril 2023).
+    7. ↑ « Intelligence artificielle », sur Larousse (consulté le 15 août
+       2020).
+    8. ↑ (en) Russell, S. et Norvig, P., Artificial Intelligence: A Modern
+       Approach (2nd ed.), Prentice Hall, 2003, 932 p.
+--
+       (ISBN 0-8371-8434-7, lire en ligne).
+   14. ↑ (en) Stuart J. Russell et John Canny, Artificial intelligence : a
+       modern approach (ISBN 0-13-790395-2, 978-0-13-790395-5 et
+       0-13-080302-2, OCLC 51325314), p. 19.
+   15. ↑ (en) Crevier, Daniel, 1947-, AI : the tumultuous history of the
+       search for artificial intelligence, Basic Books, 1993
+       (ISBN 0-465-02997-3, 978-0-465-02997-6 et 0-465-00104-1,
+--
+       8 septembre 2014 (lire en ligne, consulté le 25 juin 2020).
+   17. ↑ Jacques Henno, « 1956 : et l’intelligence artificielle devint une
+       science », sur Les Échos, 21 août 2017 (consulté le 30 juin 2020)
+   18. ↑ (en) Daniel Crevier, AI: The Tumultuous Search for Artificial
+       Intelligence, New York, BasicBooks, 1993, (ISBN 978-0-465-02997-6),
+--
+   20. ↑ Jean-Noël Lafargue, « Marvin Minsky : encombrant prophète de
+       l’intelligence artificielle », sur L'Obs (consulté le 27 juin 2020)
+   21. ↑ Crevier, Daniel, 1947-, AI : the tumultuous history of the search
+       for artificial intelligence, Basic Books, 1993 (ISBN 0-465-02997-3,
+       978-0-465-02997-6 et 0-465-00104-1, OCLC 26858345), p. 94
+--
+       le 27 juin 2020).
+   24. ↑ Le Monde Festival : Yann Le Cun et l’intelligence artificielle
+   25. ↑ ^a et b Intelligence Artificielle – État de l’art et perspectives
+       pour la France, Commissariat général à l'Égalité des territoires,
+--
+       résumé, lire en ligne [PDF]), p. 18.
+   26. ↑ « Le Point Sur L'investissement Dans Le Machine Learning Et l'IA
+       En 2017 », sur Forbes France, 11 juillet 2017 (consulté le 27 juin
+--
+       Times, 25 juillet 2009.
+   39. ↑ (en) « Science goes back to basics on AI », sur BBC News, 8
+       décembre 2009.
+--
+       FA8751-10-R-0003 », sur fbo.gov, 22 décembre 2009.
+   42. ↑ (en) « Air Force to use artificial intelligence and other
+       advanced data processing to hit the enemy where it hurts », sur
+--
+       attack and hunter/killer missions. ».
+   44. ↑ Morgane Tual, « Une intelligence artificielle peut-elle devenir
+       présidente des États-Unis ? », sur Le Monde, 17 février 2016.
+   45. ↑ Karyl-aka, « Google investit dans des recherches sur
+       l'intelligence artificielle quantique », sur CNET France, 17 mai
+       2013.
+   46. ↑ « Kurzweul Google AI », sur Wired, avril 2004.
+--
+       artificielle », sur Les Échos, 16 février 2016.
+--
+       Digitale,‎ 8 août 2016 (lire en ligne, consulté le 2 novembre 2023)
+   53. ↑ « Alibaba's AI Outguns Humans in Reading Test », Bloomberg.com,‎
+       15 janvier 2018 (lire en ligne, consulté le 16 janvier 2018).
+   54. ↑ Morgane Tual, « Fausses informations : un programme d’IA jugé
+       trop dangereux pour être rendu public », Le Monde,‎ 19 février 2019
+       (lire en ligne, consulté le 20 février 2019).
+   55. ↑ (en-GB) Hannah Jane Parkinson, « AI can write just like me. Brace
+       for the robot apocalypse », The Guardian,‎ 15 février 2019
+       (ISSN 0261-3077, lire en ligne, consulté le 20 février 2019).
+   56. ↑ Tom Simonite, « The AI Text Generator That's Too Dangerous to
+       Make Public », Wired,‎ 14 février 2019 (ISSN 1059-1028, lire en
+--
+   58. ↑ « Jean-Claude Simon sur le Mathematics Genealogy Project ».
+   59. ↑ Reconnaissance des formes et intelligence artificielle, congrès
+       AFCET-IRIA, Toulouse 12, 13, 14 septembre 1979. Il est intitulé
+--
+   62. ↑ Guillaume Bregeras, « Serena Capital crée un fonds big data et
+       intelligence artificielle », Les Échos,‎ 17 janvier 2017 (lire en
+       ligne).
+   63. ↑ « L’Intelligence artificielle menace-t-elle nos emplois ? »,
+       Public Sénat,‎ 20 janvier 2017 (lire en ligne, consulté le 22
+--
+   69. ↑ Johanna Diaz, « Lancement d’une consultation publique sur
+       l’intelligence artificielle par Cédric Villani », sur Actu IA, 7
+       décembre 2017.
+   70. ↑ Cédric Villani, Donner un sens à l'intelligence artificielle :
+       Pour une stratégie nationale et européenne, aiforhumanity.fr, mars
+--
+       [PDF]).
+   71. ↑ Vincent Fagot et Morgane Tual, « Intelligence artificielle : ce
+       qu'il faut retenir du rapport de Cédric Villani », sur Le Monde.fr,
+       28 mars 2018.
+   72. ↑ « Intelligence artificielle : Macron annonce un plan à 1,5
+       milliard d'euros », sur Le Parisien.fr, 29 mars 2018.
+   73. ↑ « Pour Emmanuel Macron, l’intelligence artificielle est aussi
+       "une révolution politique" », Le Monde (consulté le 1^er avril
+       2018).
+   74. ↑ (en) « Emmanuel Macron Talks to WIRED About France's AI
+       Strategy », Wired,‎ 31 mars 2018 (lire en ligne).
+   75. ↑ Jean-Baptiste Chabran, « Chez Onclusive, un des premiers plans
+       massifs de licenciement dus à l’IA en France », sur Libération, 14
+       septembre 2023 (consulté le 18 octobre 2023).
+   76. ↑ ^a et b Pitpitt, « Intelligence artificielle générale —
+       DataFranca », sur datafranca.org (consulté le 11 avril 2023).
+--
+   78. ↑ ^a et b (en) Philip Boucher pour le Scientific Foresight Unit
+       (STOA) au parlement Européen, « How artificial intelligence
+       works », sur Parlement européen, mars 2019 (consulté le 6 juillet
+--
+   80. ↑ Jaesa, « GPT-4 présente des étincelles d'intelligence
+       artificielle générale », sur Intelligence artificielle et
+       transhumanisme, 23 mars 2023 (consulté le 11 avril 2023).
+   81. ↑ (en-US) « 2022 Expert Survey on Progress in AI », sur AI Impacts,
+       4 août 2022 (consulté le 11 avril 2023).
+   82. ↑ ^a et b « Intelligence artificielle : pensée et calcul », sur
+       L'Internaute (consulté le 22 mai 2017).
+--
+       978-0-06-011082-6, OCLC 257056), p. 106
+   90. ↑ (en) George Musser, « How AI Knows Things No One Told It », sur
+       Scientific American, 1^er septembre 2023 (consulté le 3 décembre
+--
+       http://bayes.wustl.edu/etj/prob/book.pdf.
+   94. ↑ (en-US) « The Challenges Of Building AI Apps », sur TechCrunch
+       (consulté le 21 juillet 2020).
+--
+       Pour la science (consulté le 21 juillet 2020).
+   96. ↑ « L'IA déjà mise en oeuvre dans 37 % des entreprises - Le Monde
+       Informatique », sur LeMondeInformatique (consulté le 21 juillet
+       2020).
+   97. ↑ ^a et b « Turing et l’Intelligence Artificielle », sur cnrs.fr.
+   98. ↑ « L’intelligence artificielle et le test de Turing » [PDF], sur
+       culture.univ-lille1.fr, université de Lille.
+   99. ↑ « Intelligence artificielle: réussir le test de Turing est-il
+       vraiment important? », sur L'Expansion, 12 juin 2014 (consulté le
+--
+       (2^e éd.).
+   101. ↑ (en-GB) « Artificial intelligence: No humor, no coffee », sur
+       Invesforesight, 18 novembre 2018 (consulté le 10 août 2020).
+--
+       le 10 août 2020).
+   103. ↑ (en) Nils John Nilsson, « Human-Level Artificial Intelligence?Be
+       Serious! », AI Magazine,‎ 2005 (lire en ligne)
+   104. ↑ « Le prix Turing récompense trois pionniers de l’intelligence
+       artificielle (IA) », Le Monde,‎ 27 mars 2019 (lire en ligne,
+       consulté le 16 août 2022).
+   105. ↑ (en) « The 100 Most Influential People in AI 2023 », sur Time
+       (consulté le 6 novembre 2023).
+   106. ↑
+       http://www.ibiblio.org/pub/Linux/docs/HOWTO/other-formats/pdf/AI-Al
+       ife-HOWTO.pdf.
+   107. ↑ Corentin Durand, « Saurez-vous entendre la différence entre Bach
+       et l'IA musicale DeepBach ? », sur Numerama.com, 26 décembre 2016
+   108. ↑ (en-US) « Polyphonic music generation in the style of Bach »,
+--
+       (consulté le 7 juillet 2020)
+   110. ↑ « Intelligence artificielle, machine learning, deep learning :
+       kézako ? », sur ledigitalab.com, 2 octobre 2017
+   111. ↑ « L’Intelligence artificielle : 7 mythes mis à l’épreuve », sur
+       Nexworld.fr, 15 novembre 2018.
+--
+       by Year’s End », sur defense.gov, 21 juillet 2017.
+   117. ↑ « Les défis militaires de l’intelligence artificielle », Le
+       Monde,‎ 16 octobre 2018 (lire en ligne, consulté le 10 août 2020).
+   118. ↑ Task Force IA, L'intelligence artificielle au service de la
+       défense, septembre 2019, 40 p. (lire en ligne [PDF]).
+   119. ↑ Clément Poursain, « Les drones ukrainiens pilotés par l'IA
+       pourraient tuer sans qu'on leur en donne l'ordre », sur korii., 16
+       octobre 2023 (consulté le 23 octobre 2023).
+   120. ↑ « L’intelligence artificielle, as du diagnostic médical », Le
+       Monde,‎ 3 octobre 2018 (lire en ligne, consulté le 27 juin 2020)
+   121. ↑ « Maladies de l’œil : l'intelligence artificielle meilleure que
+       les médecins ? », Les Echos.fr,‎ 14 août 2018 (lire en ligne)
+   122. ↑ « FAQ », sur Healthdatahub (consulté le 10 août 2020)
+   123. ↑ Alexandre Boero, « La police britannique travaille sur une IA
+       qui sera capable de devancer votre crime », sur Clubic, 2 décembre
+--
+       Guardian, 9 aout 2017.
+   125. ↑ Romaric Saint-Aubert, « Quand l’IA devient l’arme du crime »
+       Accès libre , sur Business2Community.com, 1^er août 2023.
+--
+       rebondir », sur Atlantico.fr (consulté le 10 août 2020).
+   129. ↑ Vincent Bouquet, « Supply chain : l'intelligence artificielle,
+       une promesse de levier d'amélioration », sur Les Echos Executives,
+--
+   130. ↑ « Urbanloop – smart urban mobility » (consulté le 29 juin 2020).
+   131. ↑ « Google Maps roule à l'IA pour optimiser la navigation », sur
+       journaldunet.com (consulté le 10 juillet 2020).
+   132. ↑ Stéphanie Condon, « Vidéo : comment l'intelligence artificielle
+       a contribué à améliorer Google Maps », sur ZDNet France (consulté
+       le 10 juillet 2020).
+   133. ↑ Larry Dignan, « Facebook associe son service Map With AI au
+       projet OpenStreetMap », sur ZDNet France (consulté le 10 juillet
+--
+   134. ↑ Acatech 2011.
+   135. ↑ ^a b et c « Les enjeux de l’intelligence artificielle dans la
+       robotique », Journal Innovations et Technologies (JITEC), n^o 210,‎
+--
+       février 2019).
+   136. ↑ Amélie Cordier, Introduction à l’intelligence artificielle
+       développementale (cours), Laboratoire d'informatique en image et
+--
+       Wisdom, PubPub, 3 juin 2019 (lire en ligne).
+   144. ↑ « Obvious, les Français derrière la première peinture d’une IA
+       vendue aux enchères », sur France 24, 19 octobre 2018.
+   145. ↑ « Une peinture, réalisée par une Intelligence artificielle, mise
+       aux enchères », sur objetconnecte.net (consulté le 28 novembre
+       2018).
+   146. ↑ ^a et b « Quand l’intelligence artificielle affole le marché de
+       l’art », sur Contrepoints, 23 janvier 2019.
+   147. ↑ (en-GB) « Solimán López skinning Artificial Intelligence », sur
+       CLOT Magazine (consulté le 20 avril 2020).
+--
+   150. ↑ Victor Vasseur, « Les fausses images de Macron en éboueur et de
+       Trump en prison montrent l'incroyable potentiel de l'IA », sur
+       France Inter, 22 mars 2023 (consulté le 3 juin 2023).
+--
+       2023).
+   152. ↑ (en) Jordan Hart, The AI program used to generate fake viral
+       images of Pope Francis and Donald Trump just suspended free trials
+--
+       Business Insider, 30 mars 2023, Business Insider.
+   153. ↑ Clémentine Mercier, « Intelligence artificielle : «Le droit
+       d’auteur protège une création précise, mais pas une manière de
+--
+       2023)
+   154. ↑ Photos créées par des IA : une bascule vertigineuse et
+       dangereuse, Jonathan Bouchet-Petersen, 31 mars 2023, Libération :
+--
+       générées par des intelligences artificielles. »
+   155. ↑ « Comment l’intelligence artificielle va-t-elle changer notre
+       vie quotidienne ? », sur Robots & Cie, 30 novembre 2016 (consulté
+       le 27 janvier 2019).
+   156. ↑ « Quand l’IA aide les développeurs à programmer », sur
+       Mircrosoft (consulté le 27 janvier 2019).
+   157. ↑ Ivan Capecchi, « Médias, faites GAFA à l’IA ! », L’ADN.eu,‎ 11
+       mai 2017 (lire en ligne)
+--
+   160. ↑ (en) Dom Galeon, « The United Arab Emirates is the first country
+       in the world to hire a minister for artificial intelligence », sur
+       businessinsider.com, 16 décembre 2017
+   161. ↑ (en) « Appliquer les Principes de l’OCDE sur l’IA : progrès et
+       perspectives - OECD.AI », sur oecd.ai (consulté le 3 novembre
+       2023).
+--
+       (consulté le 3 novembre 2023).
+   163. ↑ (en) « AI for Good Global Summit 2018 », sur ITU (consulté le 3
+       novembre 2023).
+   164. ↑ Francis Donnat, « L'intelligence artificielle, une menace pour
+       la vie privée ? », Pouvoirs, Seuil, n^o 170,‎ septembre 2019,
+--
+       doi=libre, lire en ligne).
+   165. ↑ Lucie Lequier, « Tout comprendre à l’IA Act, le texte européen
+       de réglementation de l’intelligence artificielle », sur Numerama,
+       11 mai 2023 (consulté le 3 novembre 2023).
+   166. ↑ « Bill Gates », sur Universalis.fr (consulté le 16 octobre 2016)
+   167. ↑ « Intelligence artificielle, les défis actuels et l'action
+       d'Inria », sur Inria, 2016 (consulté le 15 décembre 2016).
+   168. ↑ « « Intelligence artificielle, intelligence humaine : la double
+       énigme », de Daniel Andler : chimériques machines qui pensent », Le
+--
+       2-89759-516-7, OCLC 1146545386).
+   170. ↑ « Quelles différences entre l'IA symbolique et l'apprentissage
+       automatique ? », sur ActuIA (consulté le 2 novembre 2023)
+   171. ↑ Jean Rohmer, « Comprendre l’intelligence artificielle
+       symbolique », sur The Conversation, 19 novembre 2018 (consulté le 2
+--
+       Transcend Biology, 2007).
+   175. ↑ « Intelligence artificielle : pourquoi Musk, Hawking et Gates
+       s'inquiètent ? », Les Échos, 30 janvier 2015.
+--
+       (consulté le 15 avril 2023)
+   177. ↑ « Selon Stephen Hawking, l’intelligence artificielle est un
+       danger pour l’humanité », sur Web Développement Durable (consulté
+       le 28 février 2016).
+   178. ↑ Alexandre Piquard, « Intelligence Artificielle Web Summit », Le
+       Monde, 10 novembre 2017.
+   179. ↑ L'intelligence artificielle inquiète les grands cerveaux
+       contemporains, France 24, 2 février 2015.
+   180. ↑ « L'intelligence artificielle pourrait mettre 50% de l'humanité
+       au chômage », sur L'Express, 13 février 2016 (version du 2 mai 2017
+       sur Internet Archive).
+   181. ↑ (en) Joe McKendrick, « Let's Make Artificial Intelligence
+       'Boring' Again », sur Forbes (consulté le 24 février 2023)
+   182. ↑ « L'IA pourrait poser un « risque d'extinction » pour
+       l'humanité, affirment 350 experts », sur Les Échos, 30 mai 2023
+       (consulté le 4 novembre 2023).
+   183. ↑ Kevin Roose, « Vie numérique: L’IA constitue un « risque
+       d’extinction » pour l’humanité », La Presse (traduit depuis The New
+--
+       shares our values. »
+   186. ↑ DR, « L’intelligence artificielle devient de plus en plus
+       incompréhensible », sur Paris Match, 8 novembre 2022.
+--
+   188. ↑ Mélinée Le Priol, « Une nouvelle religion fondée sur
+       l’intelligence artificielle suscite des inquiétudes », La Croix, 5
+       octobre 2017.
+--
+       2003, 2^e éd. (1^re éd. 1973), p. 316.
+   198. ↑ « Intelligence artificielle : les risques d'une utilisation
+       malveillante », Futura, 21 février 2018 (consulté le 21 février
+       2018).
+   199. ↑ Intelligence artificielle digne de confiance ; La majorité des
+       efforts de Mozilla pour donner de l’élan au mouvement sont orientés
+       vers le développement d’une intelligence artificielle (IA) digne de
+       confiance. La santé d’Internet ; Qu’entendons-nous par « santé
+--
+   200. ↑ Pierre Fontaine, « Comment la fondation Mozilla veut créer une
+       IA de confiance pour nous sauver des géants de la tech », sur
+       01net, 23 mars 2023 (consulté le 21 avril 2023).
+--
+       francetvinfo.fr, 28 mars 2018 (consulté le 28 mars 2018).
+   204. ↑ Morgane Tual, « Intelligence artificielle : les géants du Web
+       lancent un partenariat sur l'éthique », Le Monde,‎ 28 septembre
+       2016 (ISSN 1950-6244, lire en ligne).
+   205. ↑ « Intelligence artificielle : Google DeepMind se dote d'une
+       unité de recherche sur l'éthique », Le Monde,‎ 4 octobre 2017
+--
+       futureoflife.org (consulté le 13 août 2018).
+   207. ↑ « Des milliers d'experts en intelligence artificielle s'engagent
+       à ne pas participer à la création d'armes », Le Monde,‎ 18 juillet
+--
+       l'Union européenne, 19 février 2020 (consulté le 5 novembre 2023).
+   210. ↑ « Réglementation de l’Intelligence artificielle en Europe », sur
+       Devoteam France (consulté le 5 novembre 2023).
+--
+       propose de nouvelles règles et actions en faveur de l'excellence et
+       de la confiance dans l'intelligence artificielle », sur Commission
+       européenne, 21 avril 2021 (consulté le 21 avril 2023).
+   212. ↑ « Premier Forum mondial sur l'éthique de l’IA à Prague, un an
+       après l'adoption de la Recommandation de l'UNESCO », sur UNESCO, 9
+       décembre 2022.
+   213. ↑ « Intelligence artificielle : l'UNESCO appelle à mettre en œuvre
+       sans délai le cadre éthique mondial », sur ONU Info, 31 mars 2023
+--
+   215. ↑ ^a b et c « Ethique: l'Unesco appelle les États à appliquer sa
+       recommandation sur l'intelligence artificielle » [archive du 30
+       mars 2023], sur Techniques de l'Ingénieur (consulté le 30 mars
+--
+       travail du clic, Éditions du Seuil, 2019 (ISBN 978-2-0214-0188-2).
+   219. ↑ « Les travailleurs du clic et l’intelligence artificielle », sur
+       Laboratoire de cyberjustice (consulté le 7 juillet 2020)
+--
+       créent d'autres », sur 20minutes.fr (consulté le 7 juillet 2020).
+   221. ↑ (en) Site officiel de Mighty IA.
+   222. ↑ (en) John Joseph Horton et Lydia B. Chilton, « The labor
+--
+   231. ↑ (en) Katja Grace, John Salvatier, Allan Dafoe, Baobao Zhang,
+       Owain Evans, « When Will AI Exceed Human Performance? Evidence from
+       AI Experts », arXiv, 24 mai 2017.
+   232. ↑ « Quand l'écrivain de science-fiction Isaac Asimov prédisait le
+--
+       n^o 639, mars 2017.
+   238. ↑ Thibault Neveu, « Intelligence artificielle : démonstration en
+       direct des nouvelles performances de DeepMind », sur actuia.com, 24
+       janvier 2019.
+   239. ↑ « Les jeux et l'intelligence artificielle », sur u-picardie.fr
+       (consulté le 27 septembre 2016)
+--
+   251. ↑ ^a et b « Jeu de go : comment savoir si les programmes
+       d’intelligence artificielle sont vraiment… intelligents », Le
+       Monde.fr, 9 mars 2016.
+--
+       Comm.of the ACM, vol. 60, n^o 11,‎ 2017, p. 81
+   256. ↑ ^a b c et d « Comment une-intelligence artificielle ridiculise
+       les meilleurs joueurs de poker », sur Numerama, 27 janvier 2017.
+   257. ↑ Philippe Pionchon, « L'Intelligence Artificielle et le bridge ».
+
+--
+   Sur les autres projets Wikimedia :
+     * intelligence artificielle, sur le Wiktionnaire
+     * Département:Intelligence artificielle, sur Wikiversity
+
+--
+     * Stuart J. Russell et Peter Norvig (trad. de l'anglais),
+       Intelligence artificielle [« Artificial Intelligence: A Modern
+       Approach »], Pearson Education France, 2010, 3^e éd., 1198 p.
+--
+       l'Intelligence, p. 133–174
+     * Claire Rémy, L'Intelligence artificielle, Paris, Dunod, 1994,
+       158 p. (ISBN 2-10-002258-X)
+     * Jean-Marc Alliot et Thomas Schiex, Intelligence artificielle et
+       informatique théorique, Toulouse, CEPADUES, 2002, 543 p.
+--
+     * (en) Michael R. Genesereth et Nils J. Nilsson, Logical Foundations
+       of Artificial Intelligence, Los Altos, Californie, États-Unis,
+       Morgan Kaufmann, 1987, 405 p. [détail de l’édition]
+       (ISBN 0-934613-31-1)
+     * Jean-Louis Laurière, Intelligence Artificielle, Eyrolles, 1986
+     * Jean-Paul Delahaye, Outils logiques pour l'intelligence
+--
+       (ISBN 2-13-043164-X)
+     * (en) Kate Crawford, Atlas of AI : Power, Politics, and the
+       Planetary Costs of Artificial Intelligence, Yale University Press,
+       2021
+--
+   Aspects prospectifs
+     * Étude : CGET (2019) Intelligence artificielle – État de l’art et
+       perspectives pour la France ; 21 février 2019.
+--
+       (ISBN 978-2-11-152634-1) (ISSN 2491-0058)
+     * « Jusqu'où ira l'intelligence artificielle ? », Pour la science,
+       hors-série n^o 115,‎ mai-juin 2022, p. 4-119
+--
+   Aspects philosophiques
+     * Marie David et Cédric Sauviat, Intelligence artificielle, la
+       nouvelle barbarie, Éditions du Rocher, 2019, 313 p.
+--
+       Zurich, Éditions du Grand midi, 1987, 202 p. (ISBN 2-88093-105-3)
+     * Jacques Bolo, Philosophie contre intelligence artificielle, Paris,
+       Lingua Franca, 1996, 375 p. (ISBN 2-912059-00-3)
+--
+       la lumière de l'intelligence artificielle, Paris, Presses
+       universitaires de France, 1999, 370 p. (ISBN 2-13-050104-4)
+--
+   Fondements cognitifs, psychologiques et biologiques
+     * Hervé Chaudet et Liliane Pellegrin, Intelligence artificielle et
+       psychologie cognitive, Paris, Dunod, 1998, 179 p.
+--
+   Aspects linguistiques
+     * Gérard Sabah, L'Intelligence artificielle et le langage,
+       Représentations des connaissances, Processus de compréhension,
+       vol. 1, Hermès, 1989 (ISBN 2-86601-134-1)
+     * Gérard Sabah, L'Intelligence artificielle et le langage,
+       Représentations des connaissances, Processus de compréhension,
+--
+     * Daniel Crevier et Nathalie Bukcek (trad. de l'anglais), À la
+       recherche de l'intelligence artificielle, Paris, Flammarion, 1997,
+       438 p. (ISBN 2-08-081428-1), (traduction de (en) The Tumultuous
+--
+   Vulgarisation
+     * Gérard Tisseau et Jacques Pitrat, Intelligence artificielle :
+       problèmes et méthodes, Paris, Presses universitaires de France,
+       1996, 255 p. (ISBN 2-13-047429-2)
+     * Jack Challoner (trad. de l'anglais), L'Intelligence artificielle :
+       Un guide d'initiation au futur de l'informatique et de la
+--
+       artificielle, Paris, Ellipse, 2006, 192 p. (ISBN 2-7298-2813-3)
+     * Jean-Gabriel Ganascia, L'Intelligence artificielle, Paris, Éditions
+       du Cavalier bleu, coll. « Idees recues », 2007, 127 p.
+--
+     * Howard Selina (illustrations) et Henry Brighton (texte) (trad. de
+       l'anglais), L'Intelligence artificielle en images, Les Ulis, EDP
+       Sciences, coll. « Aperçu », 2015, 176 p. (ISBN 978-2-7598-1772-6)
+     * Marion Montaigne (dessin) et Jean-Noël Lafargue (scénario),
+       L'Intelligence artificielle : fantasmes et réalités, Bruxelles, Le
+       Lombard, coll. « La petite bédéthèque des savoirs », 2016, 72 p.
+       (ISBN 978-2-8036-3638-9)
+     * L'IA et l'efficacité, dans L'IA et moi sur Savoir média (2021,
+       30 minutes) Consulté le 31 mai 2022.
+--
+   Politique, relations internationales
+     * Daniel Ventre, Intelligence artificielle, cybersécurité et
+       cyberdéfense, ISTE, Londres, 246 pages, juin 2020 (ISBN papier :
+--
+     * Alignement des intelligences artificielles
+     * Applications de l'intelligence artificielle
+     * Automation
+--
+     * Déclaration de Montréal pour un développement responsable de
+       l'intelligence artificielle
+     * Effet IA
+     * Éthique de l'intelligence artificielle
+     * Explosion d'intelligence
+     * Histoire de l'intelligence artificielle
+     * Intelligence artificielle générale
+     * Interactions homme-machine
+     * Philosophie de l'intelligence artificielle
+     * Principaux projets et réalisations en intelligence artificielle
+     * Progrès
+--
+     * Inférence bayésienne
+     * Intelligence artificielle amicale
+     * Intelligence artificielle distribuée
+     * Intelligence artificielle faible
+     * Logique floue
+--
+
+   Chercheurs en intelligence artificielle (espace anglophone)
+     * Edward Feigenbaum
+--
+
+   Chercheurs en intelligence artificielle (espace francophone)
+     * Hugues Bersini
+--
+   artificielle
+     * Le Stanford Artificial Intelligence Laboratory (SAIL) (en), fondé
+       en 1963 par John McCarthy
+--
+       lancé le 1^er juillet 1963 et dirigé par Robert Fano
+     * Le laboratoire de recherche en intelligence artificielle (AILab) du
+       Massachusetts Institute of Technology, fondé en 1970 –pour remédier
+       au manque d'espace dont souffre le groupe IA du nouveau projet MAC–
+       et fusionné en 2003 avec le laboratoire de recherche en
+       informatique (LCS) ; à nouveau réunies, les deux entités prennent
+       le nom de MIT Computer Science and Artificial Intelligence
+       Laboratory (CSAIL)
+--
+          + Medical Subject Headings
+     * « Intelligence artificielle », publications en ligne, Interstices,
+       INRIA.
+     * (en) European Association for Artificial Intelligence (EurAI)
+       (Association européenne pour l'intelligence artificielle)
+     * Association française pour l'intelligence artificielle (AfIA).
+       l'intelligence artificielle (AFPSIA) (inaccessible).
+     * GdrIA, groupement de recherche du CNRS sur les aspects formels et
+       algorithmiques de l'intelligence artificielle.
+     * ActuIA, site présentant l'actualité de l'intelligence artificielle.
+     * Dossier sur l'Intelligence artificielle, savoirs.ens.fr
+       (conférences de l'École normale supérieure).
+     * Insideaiminds.com est un blogue spécialisé dans l'analyse des
+       opinions des plus grands experts de l'intelligence artificielle
+     * Sébastien Konieczny, « L'intelligence artificielle, menace ou
+       avancée ? », Huffington Post, 9 mars 2016.
+     * Juliette Demey, « À quoi sert l'intelligence artificielle ? », JDD,
+       19 juillet 2015.
+     * « Intelligence artificielle : en mon âme et conscience », La
+       Science, CQFD, France Culture, 1 juin 2023.
+--
+     * Capteur
+     * Intelligence artificielle
+     * Actionneur
+--
+     * Informatique ubiquitaire
+     * Intelligence artificielle
+          + Réseau de neurones artificiels
+--
+
+   Intelligence artificielle
+     * Traitement automatique des langues
+--
+     * Optimisation
+     * Philosophie de l'intelligence artificielle
+     * Intelligence artificielle distribuée
+
+--
+     * Holographie
+     * Intelligence artificielle
+     * Invisibilité
+--
+   Catégories :
+     * Intelligence artificielle
+     * Concept de la science-fiction

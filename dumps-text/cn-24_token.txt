@@ -1,0 +1,325 @@
+稀土 掘金 稀土 掘金
+
+• 首 页
+□ 首 页
+□ 沸点
+□ 课程
+□ 直播
+□ 活动
+□ 竞赛 商城 APP 插件
+□
+☆ [ ]
+搜索 历史 清空
+☆ 创作者 中心
+○
+写 文章
+○
+发沸点
+○
+写 笔记
+○
+写 代码
+○
+草稿 箱
+创作 灵感 查看 更 多
+□ vip
+会员
+□ 登录
+注册
+
+重磅 ： GPT - 4 API 全面 开放 使用
+
+coding 进阶
+2023 - 07 - 08 12 , 357
+
+背景
+
+相信 很多 申请 GPT - 4 API 的 开发者 都 收到 OpenA I 的 邮件 通知 了 ， 从 2023 . 07 . 06 开始 ， 所有
+OpenAI 的 API 付费 用户 都 可以 使用 GPT - 4 了 。
+
+目前 所有 大 语言 模型 的 评测 中 ， 毫无疑问 GPT - 4 是 最 亮眼 的 那 颗 星 。
+
+有 了 GPT - 4 的 API ， 意味着 开发者 可以 做出 功能 更 强大 、 体验 更 好 的 应用 。
+
+此外 ， OpenA I 官方 表示 要 废弃Completions API ， 该 API 目前 可以 使用 的 一些 Model会 在 2024
+年 1月 4 号 下线 。 后续 OpenAI 的 规划 是 让 开发者 都 使用 Chat Completions API 。
+
+另外 ， Embedding 的 部分 模型 以及 Edits API 也 会 在 2024年 1月 4 号 下线 。
+
+GPT - 4 API 全面 开放
+
+GPT - 4 是 目前 最 强大 的 大 语言 模型 ， 从 3月份 开放 API 以 来 ， 数百万 的 开发者 进行 了 申请 ， 有
+非常 多 成功 的 应用 是 基于 GPT - 4 API 开发 的 。
+
+从 2023 . 07 . 06 开始 ， 只要 有 过 API 付费 记录 的 开发者 都 可以 使用 GPT - 4 8 K 上下 文 版本 的 API
+了 。
+
+新 申请 的 开发者 预计 2023年 7月 底 会 审批 通过 ， 然后 OpenAI会 基于 已 有 的 计算 能力 来 降低
+API 的 使用 流控 限制 ( rate limit ) ， 让 开发者 可以 更 顺畅 地 使用 GPT - 4 API 。
+
+GPT - 3 . 5 Turbo , DALL . E 和 Whisper API 也 都 会 全部 开放 出 来 给 开发者 使用 。
+
+预计 2023年 下半年 ， 基于 GPT - 4 和 GPT - 3 . 5 Turbo 模型 的 微调 ( fine - t uning ) 也 会 开放 出 来 。
+
+废弃Completions API
+
+OpenA I 在 2023年 3月份 引入 了 Chat Completions API ， 现在 有 大约 97 % 的 API 使用量 都 来 源于
+Chat Completions API 。
+
+Completions API 是 在 2020年 6月份 引入 的 ， 当时 是 为 了 给 开发者 提供 和 OpenA I语言 模型 交
+互 的 能力 。
+
+现在 有 了 Chat Completions API 后 ， 完全 可以 覆盖 Completions API 的 功能 ， 而且 Chat
+Completions API 更为 强大 ， 可以 满足 非常 多 的 使用 场景 和 对话 需求 。
+
+下面 简单 介绍 几 种 Chat Completions API 的 使用 场景 ：
+
+• 文本 总结 ( Text su mmarization )
+
+System
+Summarize this message in max 10 words .
+
+User
+Jupiter is the fifth planet from the Sun and the largest in the Solar System . It is a gas giant with a mass one - thousandth that of the Sun , but two - and - a - half times that of all the other planets in the Solar System combine d . Jupiter is one of the brightest objects visible t o the naked eye in the night sky , and has been known t o ancient civilizations since before recorded histor y . It is named after the Roman god Jupiter . When viewed from Earth , Jupiter can be bright enough for its reflected light t o cast visible shadows , and is on average the third - b rightest natural object in the night sky after the Moon and Venu s .
+
+Assistant
+Jupiter : Largest planet , visible t o the naked eye at nigh t .
+
+• 代码 补 全 ( Code completion )
+
+System
+Complete the following code .
+
+
+User
+def fibonacci ( num ) :
+
+
+Assistant
+if num = = 0 :
+return 0
+elif num = = 1 :
+return 1
+else :
+fib = [ 0 , 1 ]
+for i in range ( 2 , num + 1 ) :
+fib . append ( fib [ i - 1 ] + fib [ i - 2 ] )
+return fib [ n um ]
+
+• 小 样本 学习 ( Few - shot learning )
+
+System
+You translate corporate jargon into plain Englis h .
+
+
+User
+New synergies will help drive top - l ine growt h .
+
+
+Assistant
+Working well together will make more mone y .
+
+
+User
+Let ’ s circle back when w e have more bandwidth t o touch base on opportunities for increased leverage .
+
+
+Assistant
+When we ’ re less busy , let ’ s talk about how t o d o better .
+
+
+User
+This late pivot means w e don ’ t have time t o boil the ocean for the client deliverabl e .
+
+
+Assistant
+Because of this sudden change , w e don ’ t have enough time t o complete the entire project for the client .
+
+We plan t o continue investing most of our platform efforts in this direction , as w e believe it will offer an increasingly capable and easy - t o - use experience for developers . We ’ re working on closing the last few remaining gaps of the Chat Completions API quickly , such as log probabilities for completion tokens and increased steerability t o reduce the “ chattiness ” of responses .
+
+废弃Completions API 的 旧 模型
+
+OpenA I 接 下 来 会 把 重点 放在 Chat Completions API ， 不 再 投入 精力 支持 Completions API 。
+
+从 2023年 1月 4日 开始 ， Completions API 目前 可以 使用 的 一些 模型 会 下线 ， 开发者 要 继续 使
+用 Completions API ， 得 使用 新 模型 ， 参考 如下 表格 ：
+
+Older model New model
+ada ada - 002
+babbage babbage - 002
+curie curie - 002
+davinci davinci - 002
+davinci - instruct - beta gpt - 3 . 5 - t urbo - instruct
+curie - instruct - beta
+text - ada - 001
+text - b abbage - 001
+text - curie - 001
+text - d avinci - 001
+text - d avinci - 002
+text - d avinci - 003
+
+• 如果 开发者 使用 的 是 基于 GPT - 3 模型 的 稳定 模型 版本 ， 例如 ada , babbage , curie ,
+davinci ， 那 代码 可以 不 用 修改 ， 这些 稳定 版本 的 模型 底层 会 在 2024年 1月 4日 后 自动 升
+级 为 上面 表格 里 右侧 的 新 模型 。
+
+右侧 的 新 模型 在 接下 来 几 周 开放 测试 ， 调用 API 的 时候 指定 新Model 的 名字 即可 ， 例如
+ada - 002 , babbage - 002 , curie - 002 , davinci - 002 。
+
+• 如果 开发者 使用 的 是 其他 旧 模型 名称 ， 例如 text - d avinci - 003 ， 那 就 需要 在 手工 修改
+API 里 调用 的 模型 名称 为 gpt - 3 . 5 - t urbo - instruct ， 这个 新 模型 也 会 在 接下 来 几 周 开放
+测试 。
+
+同时 ， OpenA I 也 把 Completions API 在 官网 的 API文档 里 标记 为 legacy ， 不 推荐 大 家 继续 使
+用 了 。
+
+所以 还 在 用 Completions API 的 赶紧 去 拥抱 Chat Completions API 吧 。
+
+废弃 Embedding 旧 模型
+
+从 2024年 1月 4日 开始 ， 只能 使用 text - e mbedding - ada - 002 这个 Embedding Model ， 其它
+Embedding Model 都 会 下线 ， 不 能 再 使用 。
+
+text - e mbedding - ada - 002 是 2022年 12月 上线 的 ， 比 其它 Embedding Model 更 强大 而且 成本 更
+低 。 现在 99 % 的 embedding API 调用 都 在 使用 这个 模型 。
+
+这 对 使用 旧 模型 来 做 embedding 的 开发者 来 说是 一个 痛苦 的 事情 ， 因为 不 同 模型 embedding
+的 结果 是 不 一样 的 ， 开发者 需要 在 旧 模型 下线 前 提前 做 好 适配 和 测试 。
+
+OpenA I官方 承诺会 补偿 旧 模型 的 用户 。
+
+Older model New model
+code - s earch - ada - code - 001 text - e mbedding - ada - 002
+code - s earch - ada - t ext - 001
+code - s earch - b abbage - code - 001
+code - s earch - b abbage - t ext - 001
+text - s earch - ada - doc - 001
+text - s earch - ada - query - 001
+text - s earch - b abbage - doc - 001
+text - s earch - b abbage - query - 001
+text - s earch - curie - doc - 001
+text - s earch - curie - query - 001
+text - s earch - d avinci - doc - 001
+text - s earch - d avinci - query - 001
+text - s imilarity - ada - 001
+text - s imilarity - b abbage - 001
+text - s imilarity - curie - 001
+text - s imilarity - d avinci - 001
+
+废弃Edits API
+
+目前 Edits API 可以 使用 text - d avinci - e dit - 001 和 code - d avinci - e dit - 001 这 2 个 模型 。
+
+从 2024年 1月 4日 开始 ， Edits API 不 能 使用 这 2 个 模型 ， 要 继续 使用 Edits API ， 得 使用
+GPT - 3 . 5 Turbo模型 。
+
+但是 官方 不 再 建议 大 家 使用 Edits API 了 ， 这个 API 也 会 废弃 。
+
+我们 建议 直接 使用 Chat Completions API 来 替代 Edits API ， 如 下例 所 示 ：
+
+System
+Apply the change requested by the user t o the code .
+
+
+User
+def fibonacci ( num ) :
+if num < = 1 :
+return num
+else :
+return fibonacci ( num - 1 ) + fibonacci ( num - 2 )
+print ( fibonacci ( 10 ) )
+
+
+User
+Rename the function t o fib .
+
+
+Assistant
+def fib ( num ) :
+if num < = 1 :
+return num
+else :
+return fib ( num - 1 ) + fib ( num - 2 )
+print ( fib ( 10 ) )
+
+相关 阅读
+
+• 手把手 教 会 你 如何 通过 ChatGPT API 实现 上下文 对话
+• ChatGPT API 重大 升级 - 必 知 必 会
+• ChatGPT 必 会 知识点
+• baichuan - 7 B : 开源 可 商用 支持 中英文 的 最 好 大模型
+• 轩辕 ： 首 个 千亿 级 中文 金融 对话 模型
+• 逼近 GPT - 4 ！ BLOOM Chat : 开源 可 商用 支持 多 语言 的 大 语言 模型
+• 一 文 汇总 开源 大 语言 模型 ， 人人 都 可以 拥有 自己 的 ChatGPT
+
+总结
+
+文章 和 示例 代码 开源 在 GitHub : GPT 实战 教程 ， 了 解主 流LLM 相关 知识 。
+
+公众号 ： coding 进阶 。
+
+个人 网站 ： Jincheng ' s Blog 。
+
+知乎 ： 无 忌 。
+
+References
+
+• opena i . com / blog / gpt - 4 - …
+
+
+avatar
+coding 进阶 创作 等级L V . 4
+公众号 ： coding 进阶
+
+90
+文章
+
+110 k
+阅读
+
+179
+粉丝
+目录
+收起
+
+• 背景
+• GPT - 4 API 全面 开放
+• 废弃Completions API
+• 废弃Completions API 的 旧 模型
+• 废弃 Embedding 旧 模型
+• 废弃Edits API
+• 相关 阅读
+• 总结
+• References
+
+相关 推荐
+
+完全 免费 白嫖 GPT - 4 的 终极 方案 ！
+65 k 阅读
+  ·  
+411点 赞
+
+GPT 4 A ll ： ChatGPT 本地 私有化 部署 , 终生 免费
+8 . 8k 阅读
+  ·  
+72 点 赞
+
+CentOS 8 都 发布 了 ， 你 还 不 会 用 nftables ？
+8 . 2 k 阅读
+  ·  
+9 点 赞
+
+两 个 奇技淫巧 ， 将 Docker 镜像 体积 减 小 99 %
+4 . 3 k 阅读
+  ·  
+30 点 赞
+
+chatGPT 的 49 种 应用 场景 ， 及 各 开发 语言 对接chatGPT 参考 指南
+6 . 3 k 阅读
+  ·  
+8点赞
+
+友情 链接 ：
+
+• js 判断 有 无 网络
+• vue 和 vue - c l i 关系
+

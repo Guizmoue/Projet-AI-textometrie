@@ -1,1 +1,318 @@
-   Please wait...
+立即打开
+
+最好的商业评论
+来自你的洞察
+
+[logo]
+
+  • 《财富》榜单
+      □ 全部榜单
+      □ 世界500强
+      □ 中国500强
+      □ 中国上市公司500强
+      □ 美国500强
+      □ 40位40岁以下商界精英
+      □ 中国最具影响力的50位商界领袖
+      □ 最受赞赏的中国公司
+      □ 中国最具影响力商界女性
+      □ 中国最具社会影响力的创业公司
+      □ 中国ESG影响力榜
+      □ 中国最佳设计榜
+  • 商业
+  • 科技
+  • 领导力
+  • 视频
+  • 播客
+  • ESG
+  • Plus专栏
+
+APP下载
+[h-qr2]
+
+  • 榜单申报
+      □ 全部申报入口
+      □ 世界500强申报
+      □ 中国500强申报
+      □ 中国ESG影响力榜申报
+      □ 中国40位40岁以下的商界精英申报
+      □ 最受赞赏的中国公司申报
+      □ 中国最具社会影响力的创业公司申报
+      □ 中国最具影响力的商界女性申报
+      □ 中国最佳设计榜申报
+      □ 最具影响力物联创新榜申报
+  • 活动
+      □ 全部活动
+      □ 财富世界500强峰会
+      □ 财富中国500强峰会
+      □ 财富MPW女性峰会
+      □ 财富40U40创想会
+      □ 财富ESG峰会
+      □ 财富全球论坛
+      □ 财富全球科技论坛
+      □ 财富全球可持续论坛
+      □ 财富设计头脑风暴大会
+  • 500强情报中心
+  • 杂志订阅
+  • 品牌中心
+      □ 2023值得关注的出海主力
+      □ 寻找未来500强
+
+[                    ]
+搜索 [搜索]
+  • 关注我们
+      □ [wechat-b]
+        [wechat]
+      □ [weibo-b]
+      □ [linkedin-b]
+
+李彦宏：不断重复开发大模型是极大浪费
+   
+  
+小号
+默认
+大号
+0条Plus  
+
+李彦宏：不断重复开发大模型是极大浪费
+
+Paolo Confino 2023-11-18
+呼吁大型科技公司将注意力转向应用
+
+                           [080027dbedf826c29a4d04]
+百度首席执行官李彦宏。图片来源：NELSON CHING—BLOOMBERG/GETTY IMAGES
+
+科技行业过于关注基础人工智能（AI）模型，却忽视了开发基于人工智能的应用程序，尽
+管这是一个有发展前景的业务领域。
+
+百度的首席执行官李彦宏认为，大型科技公司正在开发驱动当前人工智能崛起的基础模型
+，但它们应该将注意力放到其他领域。它们应该专注于基于这些基础模型，开发人工智能
+驱动的应用。
+
+李彦宏在深圳举办的行业活动上说：“不断地重复开发基础大模型是对社会资源的极大浪费
+。人工智能原生时代，我们需要100万量级的人工智能原生应用，但是不需要100个大模型
+。”
+
+基础模型有数亿甚至数十亿个数据点，因此即使对成熟的科技公司而言，基础模型的开发
+难度也极大，且成本高昂。
+
+李彦宏表示：“大模型本身是一个基础底座，类似于操作系统，那么最终开发者要依赖为数
+不多的大模型来开发出各种各样的原生应用。”
+
+百度并未答复置评请求。
+
+中美两国有多家规模最大的科技公司都已经发布了各自的基础模型。掌控未来操作系统的
+竞赛已经如火如荼地展开。
+
+今年10月，百度发布其最新AI模型文心一言4.0，号称可以与OpenAI最新发布的GPT-4相媲
+美。2022年11月，OpenAI率先发布人工智能驱动聊天机器人ChatGPT，它已经成为人工智能
+模型领域的标杆。百度的中国同行阿里巴巴也发布了人工智能模型，并全部开源，希望与
+Meta的Llama 2竞争。Meta已经成为人工智能领域开源创新的积极支持者。（如果有公司希
+望使用Llama 2模型，Meta依旧要求公司必须有超过7亿月活跃用户才能够获得特别许可。
+）亚马逊（Amazon）的策略则略有不同，它一方面发布了自己的模型Titan，同时还支持以
+订阅的方式使用其他开发者的模型。李彦宏认为，追赶这些在科技界占据主导地位的公司
+是不可能的，而且最终将徒劳无功。
+
+他表示，开发人工智能应该效仿智能手机革命的做法。在智能手机普及并且变得价格实惠
+后，公司开始推出各种应用程序，有些应用程序凭借一己之力使其背后的开发公司变成了
+大型科技公司。他列举了Uber和抖音（TikTok的中国姊妹版）的例子。
+
+李彦宏称：“直到今天，无论是中国也好，美国也好，我认为最好的人工智能原生应用还没
+有出现。”
+
+初创公司和大型科技公司都想进入这个市场，因此中国公司开发了大量相互竞争的人工智
+能基础模型。拥有热门通信应用程序微信的中国公司腾讯的一位高管表示，在中国“上百个
+大模型乱斗的局面已经开始”。分析师早已开始对所有竞争对手失去兴趣，认为他们过于雷
+同。他们还担心，面对根深蒂固的大竞争对手，新公司很难立足。百度发布人工智能模型
+当天，其股价下跌了3%。
+
+李彦宏的观点与OpenAI的首席执行官萨姆·奥尔特曼截然不同(编者注： OpenAI董事会已于
+11月17日意外解除了萨姆·奥特曼的CEO职务)。奥尔特曼认为，大模型将被针对特定使用案
+例定制的小模型取代。今年4月，奥尔特曼在麻省理工学院（MIT）举行的一次活动上说：“
+巨大模型的时代接近尾声，我们会用其他方式让这些模型变得更完善。”
+
+由于开发大模型难度大而且成本高昂，因此它们主要集中在少数科技公司手中，这引发了
+外界对人工智能开发透明度的质疑。斯坦福大学（Stanford University）的研究发现，美
+国10家规模最大的人工智能开发机构，均未能通过“透明度测试”。测试的目的是评价这些
+机构的数据来源以及它们如何使用这些数据和生成的模型。
+
+中国政府也寻求对人工智能大模型的开发和使用进行监管。今年7月，中国国家互联网信息
+办公室发布了针对人工智能使用的政府法规，这是全球最早的相关法规之一。这些新规也
+可能会减少中国人工智能模型的数量。（财富中文网）
+
+译者：刘进龙
+
+审校：汪皓
+
+科技行业过于关注基础人工智能（AI）模型，却忽视了开发基于人工智能的应用程序，尽
+管这是一个有发展前景的业务领域。
+
+百度的首席执行官李彦宏认为，大型科技公司正在开发驱动当前人工智能崛起的基础模型
+，但它们应该将注意力放到其他领域。它们应该专注于基于这些基础模型，开发人工智能
+驱动的应用。
+
+李彦宏在深圳举办的行业活动上说：“不断地重复开发基础大模型是对社会资源的极大浪费
+。人工智能原生时代，我们需要100万量级的人工智能原生应用，但是不需要100个大模型
+。”
+
+基础模型有数亿甚至数十亿个数据点，因此即使对成熟的科技公司而言，基础模型的开发
+难度也极大，且成本高昂。
+
+李彦宏表示：“大模型本身是一个基础底座，类似于操作系统，那么最终开发者要依赖为数
+不多的大模型来开发出各种各样的原生应用。”
+
+百度并未答复置评请求。
+
+中美两国有多家规模最大的科技公司都已经发布了各自的基础模型。掌控未来操作系统的
+竞赛已经如火如荼地展开。
+
+今年10月，百度发布其最新AI模型文心一言4.0，号称可以与OpenAI最新发布的GPT-4相媲
+美。2022年11月，OpenAI率先发布人工智能驱动聊天机器人ChatGPT，它已经成为人工智能
+模型领域的标杆。百度的中国同行阿里巴巴也发布了人工智能模型，并全部开源，希望与
+Meta的Llama 2竞争。Meta已经成为人工智能领域开源创新的积极支持者。（如果有公司希
+望使用Llama 2模型，Meta依旧要求公司必须有超过7亿月活跃用户才能够获得特别许可。
+）亚马逊（Amazon）的策略则略有不同，它一方面发布了自己的模型Titan，同时还支持以
+订阅的方式使用其他开发者的模型。李彦宏认为，追赶这些在科技界占据主导地位的公司
+是不可能的，而且最终将徒劳无功。
+
+他表示，开发人工智能应该效仿智能手机革命的做法。在智能手机普及并且变得价格实惠
+后，公司开始推出各种应用程序，有些应用程序凭借一己之力使其背后的开发公司变成了
+大型科技公司。他列举了Uber和抖音（TikTok的中国姊妹版）的例子。
+
+李彦宏称：“直到今天，无论是中国也好，美国也好，我认为最好的人工智能原生应用还没
+有出现。”
+
+初创公司和大型科技公司都想进入这个市场，因此中国公司开发了大量相互竞争的人工智
+能基础模型。拥有热门通信应用程序微信的中国公司腾讯的一位高管表示，在中国“上百个
+大模型乱斗的局面已经开始”。分析师早已开始对所有竞争对手失去兴趣，认为他们过于雷
+同。他们还担心，面对根深蒂固的大竞争对手，新公司很难立足。百度发布人工智能模型
+当天，其股价下跌了3%。
+
+李彦宏的观点与OpenAI的首席执行官萨姆·奥尔特曼截然不同(编者注： OpenAI董事会已于
+11月17日意外解除了萨姆·奥特曼的CEO职务)。奥尔特曼认为，大模型将被针对特定使用案
+例定制的小模型取代。今年4月，奥尔特曼在麻省理工学院（MIT）举行的一次活动上说：“
+巨大模型的时代接近尾声，我们会用其他方式让这些模型变得更完善。”
+
+由于开发大模型难度大而且成本高昂，因此它们主要集中在少数科技公司手中，这引发了
+外界对人工智能开发透明度的质疑。斯坦福大学（Stanford University）的研究发现，美
+国10家规模最大的人工智能开发机构，均未能通过“透明度测试”。测试的目的是评价这些
+机构的数据来源以及它们如何使用这些数据和生成的模型。
+
+中国政府也寻求对人工智能大模型的开发和使用进行监管。今年7月，中国国家互联网信息
+办公室发布了针对人工智能使用的政府法规，这是全球最早的相关法规之一。这些新规也
+可能会减少中国人工智能模型的数量。（财富中文网）
+
+译者：刘进龙
+
+审校：汪皓
+
+The tech industry is too focused on foundational AI models instead of the
+potentially booming business of developing artificial intelligence based apps.
+
+Baidu CEO Robin Li believes major tech players, working toward building the
+underlying models powering the current rise of AI should direct their efforts
+elsewhere. Namely, they should focus on developing AI-powered applications
+built on top of the models.
+
+“Constantly redeveloping foundational large models represents an enormous waste
+of social resources.” Li said at an industry event in Shenzhen. “In the
+AI-native era, what we need are AI-native applications at a scale of millions.”
+
+Foundational models have hundreds of millions, even billions, of data points,
+which make them difficult and costly to develop for all but the most
+sophisticated tech companies.
+
+“A large language model itself is a basic foundation akin to an operating
+system, but ultimately developers need to rely on a limited number of large
+models to develop various native applications,” Li said.
+
+Baidu did not respond to a request for comment.
+
+Many of the biggest tech companies in both China and the U.S. have already
+released their own foundational models. The race to own the operating system of
+the future is well underway.
+
+In October, Baidu unveiled its latest AI model, Ernie 4.0, which it said could
+compete with OpenAI’s latest release, GPT-4. OpenAI became the benchmark for AI
+models when it debuted its ChatGPT AI-powered chatbot in November 2022.
+Alibaba, Baidu’s peer in China, also has its own model, which it made open
+source in an effort to compete with Llama 2 from Meta, which has become a vocal
+supporter of open source innovation in AI. (Meta still requires companies with
+over 700 million monthly active users to get a special license if they wish to
+use its Llama 2 model). Amazon adopted a slightly different strategy, releasing
+its own model Titan, while also offering access to models from other developers
+via a subscription. Catching up with these companies, among the most dominant
+in tech, is improbable and ultimately fruitless, Li argued.
+
+He said AI development should follow in the footsteps of the smartphone
+revolution. After smartphones became popular and affordable, companies started
+introducing a wide variety of apps, some of which became major tech companies
+in their own right. He cited examples like Uber and Douyin, the Chinese version
+of TikTok.
+
+“To date neither in China nor the US have we witnessed the emergence of the
+best AI-native applications,” Li said.
+
+Chinese companies have created a number of competing AI foundation models, as
+startups and big tech firms try to elbow their way into the market. An
+executive from Tencent, the Chinese company that operates the popular messaging
+app WeChat, said the “war of a hundred models has begun” in China. Analysts
+have started to sour on all the rivals, which they consider too similar to each
+other. They’re also concerned new entrants will struggle to gain a foothold
+against entrenched, bigger players. Baidu’s stock dipped 3% the day it released
+its AI model.
+
+Li’s comments take a different approach than those of OpenAI CEO Sam Altman,
+who speculated that ever bigger models might be supplanted by smaller ones
+tailored to specific use cases. “I think we’re at the end of the era where it’s
+gonna be these giant models, and we’ll make them better in other ways,” Altman
+said at an MIT event in April.
+
+Because of the difficulty and expense of building these models, they are
+generally concentrated in the hands of a few tech companies, making them
+flashpoints for questions about transparency in AI development. A study from
+Stanford University found that 10 of the biggest AI developers in the U.S. all
+failed a “transparency test” meant to evaluate the origin of their data and how
+that data and the resulting models are used.
+
+China’s government has also sought to regulate how large AI models are built
+and regulate how they’re used. In July, China’s Cyberspace Administration
+released what were some of the world’s first government regulations governing
+the use of AI. Those new rules could also serve to winnow the field of AI
+models in China.
+
+分享到：
+   
+ 
+[ht1] [ht2] [ht3] [ht4] [ht5]
+0条 Plus
+精选评论
+撰写或查看更多评论, 请打开财富Plus APP
+热读文章
+
+  • [default202]
+     
+  • [default202]
+     
+  • [default202]
+     
+  • [default202]
+     
+  • [default202]
+     
+
+热门视频
+
+  •  
+    [default202]
+
+500强行业分布
+能源金融汽车相关 IT行业商业/零售房地产/建筑金属产品航空/航天食品相关电信保险行
+业铁路运输
+[logo-b]
+财富Plus
+财富Plus APP
+500强排行榜视界商业领导力科技生活
+财富活动财富榜单申报申请杂志订阅公司介绍隐私政策广告业务
+Copyright © 2022财富媒体知识产权有限公司
+版权所有，未经书面许可，任何机构不得转载
+扫描二维码下载财富APP

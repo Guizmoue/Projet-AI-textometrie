@@ -50,9 +50,9 @@ AWS and NVIDIA Expand Collaboration to Deliver Generative AI Infrastructure
    cloud computing, generative AI, News, NVIDIA, PYMNTS News, What's Hot
 
 --
-
-   This AI Pioneer Says the Tech’s Best Applications Are in Payments
-   Trustly October 2023 Survey
+   B2B ‘Personas’ Help Identify Payments Frictions and Solutions
+   Healthcare’s iPhone Moment: Why Scaling AI-Powered Care Requires a
+   Unified OS
 --
    [ ] PYMNTS Today
    [ ] Artificial Intelligence

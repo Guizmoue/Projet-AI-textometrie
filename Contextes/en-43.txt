@@ -109,13 +109,10 @@ Future of AI Design
      * OpenAI Contemplates Joining the AI Chipmaking League
 
 --
-     * DIRFA Transforms Audio Clips into Lifelike Digital Faces
-     * Physical Constraints Drive Evolution of Brain-Like AI
-     * 20 Best ChatGPT Prompts for Entrepreneurs
---
-       Mistral 7B
-     * 7 Ways Call Centers Use AI to Unlock Time for Their Agents and
-       Customers
+     * The Black Box Problem in LLMs: Challenges and Emerging Solutions
+     * Alex Ratner, CEO & Co-Founder of Snorkel AI – Interview Series
+     * Circleboom Review: The Best AI-Powered Social Media Tool?
+     * Stable Video Diffusion: Latent Video Diffusion Models to Large
 --
      * About Us
      * About Images.ai

@@ -165,7 +165,7 @@ Artificial Intelligence: Canada’s future of everything
    The New Reality, Mike Drolet explores some of the critical risks and
    the need for guardrails. And we take viewers inside how AI is improving
    our daily lives in ways that often remain undetectable – and certainly
-   unimaginable just a few years ago.
+   unimaginable just a few years ago – Nov 25, 2023
 
    Blink and you’ll get left behind.
 
@@ -685,14 +685,13 @@ Credits
      * Top video of smartARM
        Brent Rose
 
-     * Canada rolls out new 988 suicide crisis helpline. Here’s how it
-       works
+     * Unionized transit workers in Winnipeg vote to accept new contract
+       Canada
+     * Two new specialized eye care clinics open in Winnipeg
        Health
-     * TD Bank reports lower profit, revenues in Q4 but raises dividend
-       Money
-     * How Canadian companies are using AI as ChatGPT marks first
-       anniversary
-       Tech
+     * Mideast ministers to discuss resolution to Israel-Hamas war with
+       Joly, Trudeau in Ottawa
+       Canada
 
 Report an Error
 

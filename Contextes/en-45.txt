@@ -9,17 +9,3 @@ artificial intelligence and HPC markets: Report
    enthusiast PC tech news — and have for over 25 years. We'll send
    breaking news and in-depth reviews of CPUs, GPUs, AI, maker hardware
    and more straight to your inbox.
---
-   More about gpus
-   An image of a stripped-down RTX 3090 repurposed into a blower-style AI
-   accelerator card.
-
-   Desperate Chinese factories repurpose last-gen RTX 3090 GPUs into AI
-   accelerators to skirt US export ban
---
-   'GPUs still rule' asserts graphics guru Raja Koduri in response to
-   custom AI silicon advocate
-
-   By Anton ShilovNovember 26, 2023
-   Memory maker SK hynix booms during AI frenzy — now controls 35% of the
-   DRAM market
