@@ -1,5 +1,7 @@
    IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-MRVXSHQ
 
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-MRVXSHQ
+
    Skip to main content
 
    SpringerLink
@@ -26,9 +28,9 @@
 
      * Seth D. Baum^1
 
-     * 7635 Accesses
+     * 7672 Accesses
      * 48 Citations
-     * 6 Altmetric
+     * 7 Altmetric
      * Explore all metrics
 
    Cite this article
@@ -70,6 +72,23 @@ Access this article
    Rent this article via DeepDyve
 
    Institutional subscriptions
+
+Similar content being viewed by others
+
+A Unified Framework of Five Principles for AI in Society
+
+   Chapter © 2021
+
+Participation, prediction, and publicity: avoiding the pitfalls of applying
+Rawlsian ethics to AI
+
+   Article Open access 05 September 2023
+
+   Morten Bay
+
+Artificial Intelligence and Ethical Principles
+
+   Chapter © 2018
 
 Notes
 
@@ -440,7 +459,7 @@ Our imprints
      * Privacy policy
      * Help and support
 
-   92.184.96.13
+   109.7.196.119
 
    Not affiliated
    Springer Nature

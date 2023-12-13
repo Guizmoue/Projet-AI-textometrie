@@ -99,9 +99,9 @@
      * Regions
           + Africa
           + Americas
-          + South-East Asia
           + Europe
           + Eastern Mediterranean
+          + South-East Asia
           + Western Pacific
 
      * WHO in countries

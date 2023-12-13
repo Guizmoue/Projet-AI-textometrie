@@ -1,0 +1,172 @@
+   Accueil / Forums & événements
+   LibéCARE: interview
+
+Cédric Villani : «Les algorithmes ont déjà permis de sauver des vies»
+
+   LibéCARE. Pensez la santé demaindossier
+   Dossiers liés
+   Intelligence artificielle : de la fascination à l'inquiétude
+   Pour le mathématicien et spécialiste de l’IA, les progrès induits par
+   les outils de l’intelligence artificielle ne seront utiles qu’�
+   condition de les intégrer dans un cadre où «l’interdisciplinarité est
+   reine» et la mise en place d’une politique humaine efficace.
+   par Benjamin Leclercq
+   publié le 30 novembre 2023 à 17h27
+
+   Innovation, changement climatique, intelligence artificielle,
+   éco-anxiété : comment mieux réparer sa santé ? Rendez-vous à Rouen et �
+   Caen, les 30 novembre, 1er et 2 décembre 2023 au MoHo avec le LibéCare
+   pour débattre avec médecins, intellectuels et experts.
+
+   Invité du LibéCare, le mathématicien, ex-député et vulgarisateur
+   scientifique Cédric Villani, a fait de l’intelligence artificielle l’un
+   de ses sujets de prédilection. En 2018, ChatGPT n’existait pas encore
+   lorsqu’il a rédigé, sur commande du gouvernement Philippe, le premier
+   rapport public d’ampleur sur l’IA en France. Plus spécifiquement, le
+   médaillé Fields 2010 coanime depuis six ans un groupe de travail
+   conjoint entre l’Académie des sciences et celle de médecine sur
+   l’irruption de l’IA dans la santé.
+
+   L’IA pénètre rapidement dans l’univers la santé. Alors que sa diffusion
+   va s’accélérer, qu’attendre concrètement de ce bond technologique
+   annoncé ?
+
+   C’est bien simple : la santé est le domaine dans lequel l’IA a l’impact
+   le plus clair et le plus fondamental aujourd’hui. Dans l’analyse de
+   données et particulièrement de l’imagerie, dans la détection de signaux
+   faibles ou l’aide aux protocoles de prise en charge… Voilà des années
+   que les algorithmes font, sur certaines pathologies, des détections
+   plus fiables que les meilleurs experts ; et cette performance a déj�
+   permis de sauver des vies. Les applications sont nombreuses et vont se
+   multiplier.
+   Récit
+
+Avec l’intelligence artificielle, la médecine sort des santés balisées
+
+   Santé
+   19 juin 2023
+
+   A l’inverse, qu’est-ce que l’IA ne produira pas ? Quels fantasmes sur
+   ses capacités faut-il abandonner d’emblée ?
+
+   D’abord, un système médical, ce n’est pas seulement une science, c’est
+   avant tout une architecture humaine complexe, et ces humains ont leur
+   art, leurs recettes, leur empathie. C’est donc la première clé : les
+   progrès de l’IA ne peuvent être utiles que dans le cadre d’une
+   politique humaine – formations, carrières, compétences, etc. Ensuite,
+   la médecine prédictive, infaillible, utilisant les informations
+   génomiques ou environnementales pour prédire vos pathologies et votre
+   traitement, je n’y crois guère – d’ailleurs cela fait bien des années
+   qu’on nous promet la révolution de la médecine personnalisée, sans que
+   grand-chose ne se passe. En revanche, on voit émerger une médecine dont
+   les atouts sont de plus en plus nombreux, avec dans chaque spécialité
+   des progrès interdisciplinaires qui mêlent biomédecine et analyse
+   mathématique.
+
+   Ne va-t-on pas vers une «gadgétisation» des soins ?
+
+   Je ne crois pas. Bien sûr, certaines pistes technologiques seront
+   fausses, et bien sûr, c’est au savoir-faire humain de trancher et de
+   prendre la responsabilité… Mais allez parler de gadget à un diabétique
+   dont la pompe contrôle automatiquement le taux d’insuline sans qu’il
+   ait à y penser. Ou à une patiente dont l’opération a reçu, juste avant
+   le geste chirurgical crucial et dangereux, l’approbation d’un logiciel
+   indiquant au bloc opératoire que «l’image est conforme aux règles de
+   sécurité».
+
+   Les chercheurs cherchent, des IA naissent… Mais où en est-on de leur
+   usage réel ?
+
+   Les IA ne sont pas des outils sur une étagère qu’on peut utiliser tels
+   quels en médecine. La science en général non plus. D’ailleurs, on
+   estime qu’en matière médicale environ la moitié des découvertes
+   scientifiques ne sont jamais utilisées, simplement par défaillance de
+   la chaîne humaine. L’intégration aux procédures, complexe, demande de
+   la volonté et du temps – le temps du test, de l’appropriation, de
+   l’expérimentation. L’échec retentissant du programme Watson d’IBM [un
+   outil nourri de millions de données scientifiques et capable de
+   comprendre les subtilités du langage naturel, ndlr] tient certainement
+   à ce qu’il n’a pas réussi cette étape humaine. Aujourd’hui, nous sommes
+   globalement très en dessous de notre potentiel, mais je suis bien en
+   peine de vous donner une estimation précise.
+   Reportage
+
+Aux urgences de Rennes, l’intelligence artificielle comme «aide à la
+décision»
+
+   Santé
+   26 sept. 2023abonnés
+
+   Comment ne pas rater cette mise en œuvre ?
+
+   La façon de travailler ensemble sera au moins aussi importante que la
+   qualité des IA elle-même. L’interdisciplinarité est reine dans ce sujet
+   ! Mathématique, biologie, sciences cognitives, numériques et médicales…
+   Au niveau des équipes humaines aussi, sur le terrain, c’est une
+   condition indispensable.
+
+   Dans vos travaux, vous citez Israël comme pionnière de l’IA dans la
+   santé. Comment s’y est-elle prise ?
+
+   Israël est l’un des pays les plus avancés en la matière, et en tout cas
+   un modèle sur ce sujet. Ce n’est pas par hasard, il y a plusieurs
+   facteurs qui ont aidé à cela. Une culture de collaboration
+   interdisciplinaire très marquée et une culture d’expérimentation
+   technologique décomplexée, pour un sujet qui est interdisciplinaire et
+   expérimental. Des bases de données nombreuses et bien construites, et
+   de longue date, pour la simple raison que les médecins, y compris de
+   ville, ont été contraints et forcés de passer aux actes numériques ; il
+   en a résulté un gros corpus de données exploitables. Il y a aussi eu un
+   travail patient pour faire dialoguer le monde de l’algorithmique avec
+   celui de la santé, c’est le professeur Ran Balicer qui a joué ce rôle.
+   Enfin, le tout est porté par une ambiance technophile, dépouillée des
+   craintes qui s’expriment ailleurs.
+
+   Vous pensez à la France, où vous trouvez la protection des données de
+   santé un peu jusqu’au-boutiste… ?
+
+   Algorithmes et IA ont besoin de régulation, c’est évident et toute
+   l’Europe en est convaincue. Cependant, la pratique démontre amplement
+   que la réglementation est aujourd’hui en France un frein au
+   développement des projets en IA de la santé. Dossiers lourds,
+   procédures fastidieuses, temps d’attente déraisonnables, contraintes
+   intenables : les laboratoires internationaux préfèrent réaliser leurs
+   études ailleurs qu’en France. La plateforme nationale de données de
+   santé (Health Data Hub) est un cas d’école en la matière : bonnes
+   équipes, bonne démarche, mais une lourdeur administrative qui pourrait
+   être fatale – il vous faut parfois dix mois pour obtenir l’accès aux
+   données qui permettent de tester votre idée – parfois vous ne les
+   obtenez jamais ! Et le gouvernement a reculé devant l’obstacle quand il
+   s’est agi de rendre plus simples les procédures d’interrogation des
+   grandes bases de données.
+
+   Quels risques le déploiement de l’IA fait-il peser sur le secteur des
+   soins ?
+
+   Toute transformation vient avec des risques, en premier lieu le risque
+   de processus humains perturbés, de désorganisation, surtout dans le
+   contexte de nos hôpitaux, marqués par les sous-effectifs, la surcharge
+   de travail, le manque d’attractivité de certains métiers clé. Il n’est
+   pas aisé d’adopter de nouvelles pratiques quand vous êtes déjà surmené.
+   La perte de compétence et de savoir-faire est un autre risque identifié
+   : en déléguant à la technologie un ensemble de gestes et de
+   connaissances, on en devient dépendant et l’on s’expose à des ruptures
+   de soin, en cas de panne ou de cyberattaque – un fléau qui touche
+   d’ailleurs de plus en plus les hôpitaux. Un risque plus insidieux, avec
+   l’IA, est le mélange de fascination et d’incompréhension des décideurs
+   à son égard : cela la rend potentiellement fragile, soumise aux modes,
+   avec des risques opposés (défiance ou confiance exagérée). Sans oublier
+   le risque de techno-blanchiment : croire que l’on va résoudre nos
+   problèmes de santé en investissant massivement sur la technologie de
+   l’IA, au détriment d’autres investissements de plus grand impact. L’IA
+   améliorera notre santé, certes, mais en aucun cas ce n’est elle qui va
+   sauver notre système de santé.
+
+Pour aller plus loin :
+
+   LibéCARE. Pensez la santé demainIntelligence artificielle : de la
+   fascination à l'inquiétude
+
+Dans la même rubrique
+
+Les plus lus

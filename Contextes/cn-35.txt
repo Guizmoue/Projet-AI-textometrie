@@ -1,46 +1,722 @@
+□
+2 . 1 符號 AI
+☆
+--
+☆
+2 . 1 . 4 符號 AI 問題
+□
+--
+□
+3 . 6 強 AI
+•
+--
 
-全球人工智能治理倡议
+人工智能
 
 --
 
-   人工智能是人类发展新领域。当前，全球人工智能技术快速发展，对经济社会发展和人类文明进步产生深远影响，给世界带来巨大机遇。与此同时，人工智能技术
-   也带来难以预知的各种风险和复杂挑战。人工智能治理攸关全人类命运，是世界各国面临的共同课题。
+● 搵緊 同名 電影 嘅話 ， 請睇 「 人工智能 ( 電影 ) 」 。
 
-   在世界和平与发展面临多元挑战的背景下，各国应秉持共同、综合、合作、可持续的安全观，坚持发展和安全并重的原则，通过对话与合作凝聚共识，构建开放、
-   公正、有效的治理机制，促进人工智能技术造福于人类，推动构建人类命运共同体。
+[ 270 p x - Sophia _ at _ the _ AI _ for _ Good _ ]
+2018 年 喺日 內瓦舉 行嘅 《 AI for Go od 》 峰會 嗰度 所 展示 嘅 機械人 蘇菲亞 （ Sophia ） ； 佢
+內置 AI ， 曉用 語言 同 人 傾偈 。
+《 食鬼 》 嘅 片段 ； 啲鬼 由 電腦 操控 ， 但 曉 追捕 玩 家 －展 現簡 單嘅 近 似 有 智能 行為 。
 
-   我们重申，各国应在人工智能治理中加强信息交流和技术合作，共同做好风险防范，形成具有广泛共识的人工智能治理框架和标准规范，不断提升人工智能技术的
-   安全性、可靠性、可控性、公平性。我们欢迎各国政府、国际组织、企业、科研院校、民间机构和公民个人等各主体秉持共商共建共享的理念，协力共同促进人工
+人工智能 jan4 gung 1 zi3 nang 4 （ 英文 ： artificial intelligence ， AI ； 粵拼 ： ei1 aai1
+） ， 又 有 叫 機械 智能 gei1 haai6 zi3 nang 4 （ machine intelligence ） ， 泛指 由 機械 展示
+嘅 智能 ， 相對 於人 同 第啲 動物 展示 嘅 自然 智能 。 喺科學 上 ， 「 人工智能 」 一 詞 亦 都 俾 人 攞
+嚟指 專門 研究 AI 嘅認 知 科學 同 電腦科 學 交界 領域 ^ [ 1 ] ， 呢 個 領域 嘅 研究 會關 注點 樣教 機
+械 做 推理 、 知識 表示 、 計劃 、 學習 、 自然 語言 處理 、 感知 以及 郁同 操控 物體 等 嘅作業 ^ [ 1 ]
+， 而 呢 啲 研究 其中 一 個 終極 目標 就 係 想 造 出 強 AI－即係 能 夠展 現出 同人 無異 嘅 智能 嘅 AI
+^ [ 2 ] 。
+
+AI 嘅理 論 基礎 建 基於 智能體 （ intelligent agent ） 嘅 概念 ： 喺 最 廣義 上 ， 一 嚿 物體 如果
+有 能力 感知 佢 四 圍 嘅 環境 ， 並且 運用 所 得 嘅資 訊嚟 提升 自己 達到目 的 嘅機會率 嘅話 ， 噉佢
+就算 係 一 個 智能 體－ 包括 人 在 內嘅 動物 都 符合 呢 個定義 。 AI 領域 嘅目標 就 係 研究 點樣 人工
+噉整 一 啲 智能 體出嚟 ， 最 常 見嘅 做法 係 參考 心理學 以及 神經科學 呢 啲 研究 自然 智能 嘅 領域
 --
 
-   ——发展人工智能应坚持“以人为本”理念，以增进人类共同福祉为目标，以保障社会安全、尊重人类权益为前提，确保人工智能始终朝着有利于人类文明进步的
-   方向发展。积极支持以人工智能助力可持续发展，应对气候变化、生物多样性保护等全球性挑战。
+除 咗科學 ， AI 研究 又 引起 咗唔 少 哲學 同 社科 上 嘅討論 ： 「人 可以 整 機械 嚟 模擬人 類智 能 」
+嘅 宣言 引起 咗 一 連 串 （ 到 咗廿 一 世紀 初仲 有 人 關 注嘅 ） 心靈哲學 問題 同 埋 「 人工 噉 創造 一
+個 有 人 類 水平 智能 嘅物 體係咪 合乎 道德」 等 嘅討 論 ^ [ 5 ] ； 亦 都 有 唔少 人 覺 得 AI 如果 唔 受
+控嘅 話會 對人 造成 威脅 ^ [ 6 ] ， 例子 可以 睇 吓廿 一 世紀 初科 幻故 仔常 見嘅 AI 叛變 橋段 ， 或
+者 有 人 擔心 AI 會 搞 到 有 大量 嘅人 失業 ^ [ 7 ] 。
 
-   ——面向他国提供人工智能产品和服务时，应尊重他国主权，严格遵守他国法律，接受他国法律管辖。反对利用人工智能技术优势操纵舆论、传播虚假信息，干涉
-   他国内政、社会制度及社会秩序，危害他国主权。
+AI 領域 誕生於 廿世 紀中 ： 喺 1956 年 ， 有班 工程師 宣稱 ， 因 為人 類 智能 可以 用科 學理 論描
+述 （ 睇認 知 科學 ） ， 所以 用 運算 機械 模擬人 類智 能係 有 可能 嘅 ^ [ 8 ] ， 引起 學界 熱議 ； 而 自
+從嗰 陣開 始 ， AI 領域 有 過好 幾波嘅 熱潮 ^ [ 9 ] ^ [ 10 ] ， 又 試過 因 為 研究 失敗 等 嘅 原因 搞 到 有
+排冇人 肯 出 錢 資助 （ 即 係 所 謂嘅 AI 低谷 ） ， 有 過幾 波唔 同 嘅 技術 革新 ^ [ 11 ] ^ [ 12 ] 。 到 咗
+廿一 世紀 ， AI 經 已 係 一 個 蓬勃 嘅獨 立 科學 領域 ， 有 得 按照 所 使用 嘅技術 或者 想 達 到 嘅目 的
+分 做 多 個唔 同 嘅子 領域 ， 而且 呢 啲子 領域 好多 時仲 要 專化 到 彼此 之 間 溝 通唔 到 ^ [ 13 ] ^ [ 14 ]
+--
 
-   ——发展人工智能应坚持“智能向善”的宗旨，遵守适用的国际法，符合和平、发展、公平、正义、民主、自由的全人类共同价值，共同防范和打击恐怖主义、极
-   端势力和跨国有组织犯罪集团对人工智能技术的恶用滥用。各国尤其是大国对在军事领域研发和使用人工智能技术应该采取慎重负责的态度。
-
-   ——发展人工智能应坚持相互尊重、平等互利的原则，各国无论大小、强弱，无论社会制度如何，都有平等发展和利用人工智能的权利。鼓励全球共同推动人工智
-   能健康发展，共享人工智能知识成果，开源人工智能技术。反对以意识形态划线或构建排他性集团，恶意阻挠他国人工智能发展。反对利用技术垄断和单边强制措
-   施制造发展壁垒，恶意阻断全球人工智能供应链。
-
-   ——推动建立风险等级测试评估体系，实施敏捷治理，分类分级管理，快速有效响应。研发主体不断提高人工智能可解释性和可预测性，提升数据真实性和准确性
-   ，确保人工智能始终处于人类控制之下，打造可审核、可监督、可追溯、可信赖的人工智能技术。
-
-   ——逐步建立健全法律和规章制度，保障人工智能研发和应用中的个人隐私与数据安全，反对窃取、篡改、泄露和其他非法收集利用个人信息的行为。
+定義 上 ， AI 領域 想 做 嘅 ， 就 係
 
 --
 
-   ——坚持伦理先行，建立并完善人工智能伦理准则、规范及问责机制，形成人工智能伦理指南，建立科技伦理审查和监管制度，明确人工智能相关主体的责任和权
-   力边界，充分尊重并保障各群体合法权益，及时回应国内和国际相关伦理关切。
+一 個 AI 程式 要 展示 自己 嘅 智能 ， 就 實 要 （ 好似 人 類 做 決策噉 ）
+
 --
-   ——坚持广泛参与、协商一致、循序渐进的原则，密切跟踪技术发展形势，开展风险评估和政策沟通，分享最佳操作实践。在此基础上，通过对话与合作，在充分
-   尊重各国政策和实践差异性基础上，推动多利益攸关方积极参与，在国际人工智能治理领域形成广泛共识。
 
-   ——积极发展用于人工智能治理的相关技术开发与应用，支持以人工智能技术防范人工智能风险，提高人工智能治理的技术能力。
+Output 嘅質素 會決 定個 AI 程式 嘅表 現 。 舉例 說明 ， 喺 一 個 AI 程式 捉 象棋 嗰陣 ， 個程式
+會係噉 收到 「個 棋盤 係乜 嘢 形勢 」嘅 資訊 （ input ） ， 跟 住 佢會 一 啲 運算 ， 決定 自己 要 行邊
+一 步 （ output ） ， 而 佢 所 行 嘅步 最 後 就 會 決定 佢贏 定輸 （ 表現 好 唔 好 ） 。 喺 成個 過程 當 中
+， 一 個 AI 程式 由 input 值 計 output 值 ， 即 係話 output 值 係 input 值 嘅函數 ，
 
-   ——增强发展中国家在人工智能全球治理中的代表性和发言权，确保各国人工智能发展与治理的权利平等、机会平等、规则平等，开展面向发展中国家的国际合作
-   与援助，不断弥合智能鸿沟和治理能力差距。积极支持在联合国框架下讨论成立国际人工智能治理机构，协调国际人工智能发展、安全与治理重大问题。
+--
+
+AI 史 上 出 名嘅 運算 方法 （ 可以 想 像 成 f {\displaystyle f } {\displaystyle f } 可能 嘅
+款 ） 有 以下 呢 啲 ^ [ 17 ] ^ [ 18 ] ^ [ 19 ] ：
+
+符號 AI [ 編 輯 ]
+
+內文 ： 符號 AI
+
+符號 AI （ symbolic AI ） ， 又 叫 老派 AI （ good old - fashioned AI ， GOFAI ） ^ [ 20 ] ， 係 最
+早期 （ 同 埋俾 好多 人 認為係 最 易明 ） 嘅 AI 運算 方法 ： 喺 1950 年代 AI 領域 啱啱 起步 嗰
+陣 ， 啲科 學 家 好多 都 認為人 類智能 只 不 過係 對邏 輯符 號嘅 玩弄 ^ [ 21 ] ， 而 符號 AI 做法 就 將
+所 受嘅 input 值 用 一 大 柞邏 輯符號 計算 ， 再 按照 呢 啲計 算 俾個 output 值 出 嚟睇 ； 舉例 說
+--
+
+即 係話 符號 AI 嘅 做法 建 基於 三 個 諗頭 ^ [ 22 ] ：
+
+--
+
+符號 AI 嘅 做法 可以 話係 比 較 原始 ， 而且 過咗 冇幾 耐啲 AI 研究者 就 發現 有 好多 問題 都 係
+符號 AI 搞 唔掂 嘅 ^ [ 23 ] ^ [ 24 ] 。
+
+--
+） 嚟表 達 ^ [ 22 ] ： 佢哋 會將 要 解決 嘅問題 想 像 為 一 柞 狀態 （ state ） ， 而 解決 問題嘅 過程 就
+係個 AI 嘗試 由 初始嗰 個狀 態變 到 佢目 的 狀態嘅 過程 ， 佢哋 認為人 類會 用 某 啲相對 簡單 －
+但 唔 一定 啱 －嘅認 知捷 徑嚟 判斷 點樣 由 一 個 狀態 移 去 下 一 個 狀態 ， 例如 係好 似「 如果 我 將
+--
+
+採取 呢 個 做法 嘅 研究者 認為 ， 要 令 AI 做到 好似 人 噉嘅 智能 ， 要 做 嘅 就 係用 認知 心理 學領
+域嘅 實驗 搵 出 人 思考 嗰陣 用 啲乜 嘢 啟發法 ， 並且 開發 出 一 啲 模擬人 腦用 嗰啲 啟發法 嘅演 算
+--
+
+又 有 好多 符號 AI 研究者 主張 ， AI 唔 使 模擬人 嘅認 知 功能 所 涉及 嘅啟 發法 ， 而 係應 該用 一
+啲實啱 （ 相對 於啟 發法 嘅「 通常 啱」 ） 嘅邏 輯法 則嚟 指定 「乜 嘢 係正確 答案 」 。 例如 係 如
+果 要 教 一 部 電腦 點樣 知道 兩個人 係咪 彼此 嘅 兄弟 姐妹 ， 運用 基於 邏輯 做法 嘅 AI 研究者 會
+教電 腦 以下 呢 條法 則 ^ [ 22 ] ：
+--
+兄弟 姐妹 嘅 關係 。 」 呢 類 思考 嘅 方式 唔 似 人 （ 好多 時用 直覺 多 過邏 輯嘅 ） 日常 思路 ， 但 就
+係 一 條 絕對 正確 同 合邏 輯嘅 思路 。 相比之下 ， 用 認知 模擬 嘅 AI 研究者 會 研究 吓 一 般 人 類
+用 乜 嘢 （ 無意 識 、 未必 完全 穩陣嘅 ） 法則 判斷 兩個人 係 兄弟 姐妹 嘅 機會率 ， 再 用 演算 法模
+--
+
+由 1970 年代 開始 ， 電腦 嘅記 憶量 開始 愈嚟 愈 大 ， 令 到 各 門嘅 AI 專 家 都 開始嘗 試將 「知
+識」嘅 成份 加落 去 AI 應用 嗰度 。 呢 股「 知識 革命」 引起 咗專 家 系統 （ expert system ） 嘅
+發展 ^ [ 28 ] 。
+
+專 家 系 統係 第一 種 真 係 成功 嘅 AI 軟件 ， 一 個 專 家 系 統會 建 基於 一 個 知識 基礎 之上 ， 並且
+運用 一 大 柞「if ... then ...」 嘅法 則嚟 做 推理 。 例如 係 一 個 用 嚟診斷 病人 嘅專 家 系 統噉 ，
+--
+等 嘅法 則嘗 試搵 出 一 個 診斷 。 但 要 整 一 個 專 家 系 統 就 實 要 有 個真 嘅人 類專 家 幫手 ， 而 吓吓
+都 逐條 逐條 法則 都 明文講 嗮俾 個 AI 程式 知會 好 嘥時 間 －專 家 往往 都 因 為 有人 需要 佢哋 嘅
+服務 而 好 唔 得 閒 ， 好 難請 佢哋 幫手 整專 家 系 統 ^ [ 29 ] ^ [ 30 ] 。
+
+符號 AI 問題 [ 編 輯 ]
+
+--
+
+符號 AI 最 大 問題係 ， 呢 種 做法 要求
+
+「 設計者 將個 AI 做 判斷 要 用 嘅 法則 ， 冚唪唥 都 明文噉 講嗮 俾部 電腦知 。 」
+
+但 由 1980 年代 開始 ， AI 學界 開始 留意 到 ， 呢 種 做法 喺 好多 情況 之下 根本 行唔通 ^ [ 20 ] ：
+首先 ， 噉嘅 AI 學 起 嘢 上 嚟 好 撈絞 －如果 個設計者 想 教 一 條 新法 則俾 個程式 聽 ， 佢 就 要 人
+手噉 由 （ 閒閒 地 成幾 萬行 長嘅 ） 源碼 當 中 搵嗮 所有 同 條新法 則衝 突嘅 法則 出嚟 ， 再 攞 走 呢
+啲舊法 則 ， 非常 嘥時 間 ^ [ 31 ] ； 而且 符號 AI 根本 唔 能 夠 模擬 到 自然 智能 －認 知 心理學 等 領
+域嘅 研究 清楚 噉 表明 咗 ， 人 類 智能 好多 時 都 會 依賴 直覺 等 無意識 、 難 以 明文噉 講 出 嚟嘅法
+則 （ 第一 型 過程 ） 。 所以 廿一 世紀 初嘅 AI 好 少 可 會 真 係齋 靠 用 符號性嘅 方法 ， 而 好多 時
+啲 新 嘅 AI 做 起 運算 上嚟 都 起 碼會 用 啲 混合型 方法 －即係 結合 符號 同 非符號 嘅 AI 做法 ^
+[ 32 ] ^ [ 33 ] 。
+--
+
+AI 解問 題嗰 陣成日 都 要 面對 不 確定性 （ uncertainty ） －意思 即 係話 ， 個程式 成日 都 焗 住
+要 喺唔 完全 知道 嗮 所 需 嘅資 訊嘅 情況 之下 行事 。 於 是 AI 專 家 就 運用 概率 論 同 經濟學 等 領
+域嘅 知識 ， 諗咗 一 柞 工具 出嚟 去 應付 呢 啲問 題 ^ [ 34 ] ：
+--
+式睇 ， 跟 住 叫 個程式 用 呢 啲過 往 嘅數據 ， 計 出 變數 同 變數 之 間 嘅 關係 係點 ， 而 個程式 就 可
+以 攞嚟 預測 未 來 ^ [ 38 ] 。 貝葉斯式 AI 有 相 當廣 泛嘅 用途 ， 例如 Xbox Live 噉 ， 喺幫 啲 打
+緊網 上 遊戲嘅 玩 家 搵比賽 加入 嗰陣 ， 就 會用 到 考慮 嗰個 玩 家 嘅贏率 嘅貝葉斯 網路 ^ [ 40 ] ： 一
+--
+
+同 符號 AI 比 起 上 嚟 ， 好似 貝葉斯 網路 啲噉 嘅貝葉斯式 AI 都 有 唔 好 處 ： 佢哋 內部 要 計 大
+量嘅 機會率 ， 搞 到 佢哋 喺運 算 上 撈絞 好多 （ computationally expens ive－ 做 起 運算 上嚟 要
+--
+內文 ： 人工 神經 網絡 同 神經 進化
+睇埋 ： 解釋 得 嘅 AI 同 埋 黑 盒
+
+--
+擅長 生存 同 繁殖 後代 ， 呢 啲個體 就 比較 有 機會將 自己 嘅 基因 傳俾 下 一代 ； 同一 道理 ， 用 GA
+整 AI 嘅 過程 係 一 開 始 嗰陣 複製 一 大 柞 彼此 之 間 相似 ， 但 彼此 之 間 （ 喺權 重值 等 方面 ） 有
+少少 差異 嘅神經 網絡 出嚟 ， 再 俾 啲 神經 網絡 各自 噉 做 幾次 個設計者 想 佢哋 做 嗰樣 作業 ， 表
+--
+
+AI 研究 其中 一 個 分類 法係 按 「想解啲 乜 嘢 問 題」 嚟分 ： 原則 上 ， AI 嘅終 極目 標係 要 創造
+出 能 夠令 電腦 同 第啲 機械 展示 出 智能 ； 最 大 嗰個 問題 －模擬 自然 智能 －有 得分 類 做 一 大 柞
+子問題 ， 包括 係學習 同 解難 等 嘅 能力 都 係 先 進嘅 自然 智能 嘅 必要 部件 ， 所以 AI 領域 就要
+將 呢 啲 能力 逐個 逐個 噉創 造 出 嚟 。 以下 係廿 一 世紀 初 AI 領域 當中 多 人 關 注嘅 問題 。
+
+--
+
+AI 其中 一 個 最 基本 嘅課題 係點 樣教 機械 解難 （ solve problem ） 。
+
+早期 嘅 AI 研究 興 集中 於整 一 啲 演算 法嚟 模仿人 類玩 解謎 遊戲 嗰陣 用 嘅 逐步 演繹 推理 （
+deductive reasoning ） ^ [ 54 ] ， 呢 啲演 算法 會 涉及 一 大 柞 嘅「 如果 ... 就 做 ...」 （ if ...
+then ... ） 指令 （ 睇返 上面 符號 AI ） ； 但 呢 種 做法 有 個問 題 －因 為 組合 爆發 等 嘅問題 ， 實
+際應 用 上 要 處理 嘅問題 好多 時 都 閒閒 地 有 成 幾千 幾 萬個 可能性 要 考慮 ， 冇 可能 吓 吓 都 靠 設
+計者 講明 俾部 電腦聽 要 做 乜 ^ [ 55 ] 。 所以 到 咗 1980 年代 晚期 同 1990 年代 ， AI 研究 開始
+運用 嚟自 概率 論 同 經濟學 等 領域 嘅 概念 （ 睇返 上面 貝葉斯 網絡 ） ， 並且 發 展出 用 嚟 應付 不
+--
+型嘅 智能 體 －人 同 第啲 動物 －冚 唪唥 都 曉 自己 用 眼 耳口鼻 等 嘅感 官嚟 接收 有 關佢哋 周圍環
+境嘅 資訊 同 埋 處理 分析 呢 啲資訊 ， 所以 如果 AI 要 做到 好似 人 噉嘅 智能 ， 就 一定 要 識 做 同
+樣嘅 嘢^ [ 60 ] 。
+--
+
+好似 係電腦 視覺 （ computer vision ） 噉 ， 就 係 指教 AI 處理 視覺資 訊嘅 領域 ^ [ 61 ] ， 個設
+計者 可以 （ 例如 ） 寫 一 個會 由 部電 腦嘅鏡 頭攞 數據 嘅程式 ， 而且 個程式 內置 一個 之前 事先
+--
+一 個 有 返咁 上下 智能 嘅智 能 體 一定 要 識 得 幫 自己 設目 的 並且 嘗試達 到 呢 啲目 的 ^ [ 64 ] 。 要 做
+到 呢 樣 嘢 ， 一 個 AI 就要 有 能力 想 像 未 來 －用 某啲 方式 （ 好似 係電腦 數據 ） 嚟 向 自己 表達
+周圍 環境 嘅狀態 以及 預測 自己 同 第啲 智能 體嘅行 動會 點樣 改變 周圍 環境 嘅狀態 ， 仲要 曉計
+--
+好似 係世 上 唯一 一 個 做 緊計 劃嘅系 統噉 ， 喺 呢 種 模型 入面 ， 個智 能體 可以 完美 噉 預測 佢嘅
+行動 嘅 結果 ^ [ 67 ] 。 但 現實 存在 嘅智能 體係 唔會 噉嘅 ， 無論人 定 AI 都 好 ， 佢哋 喺計 劃嗰 陣
+梗係 要 受 制於 身邊 其他 智能 體嘅 行動 ， 所以 實會 有 不 確 定性 。 噉即係 表示 ， 一 個 曉 好似 人
+噉計 劃嘅 AI 實 要 識 得 處理 不 確定性 以及 按 自己 行動 嘅 結果 評估 自己 嘅 進度 ^ [ 68 ] 。
+
+--
+Start # 初始化
+個 AI 內部 有 若干 個目 的 （ goal ） 同 若干 個行動 （ action ） ；
+
+--
+
+喺對 AI 嘅 研究 當 中 ， 要 點樣 應付 複雜 （ complexity ） 係 一 個 重要 嘅課 題 ^ [ 55 ] ^ [ 70 ] ：
+
+• 某 啲曉 學習 嘅 AI 程式 係理論 上 如果 有 無限 咁 多 嘅 數據 、 時間 同 記憶 嘅話 ， 係會 有 能
+力 完美 噉 接近 任何 嘅函數 ， 包括 任何 可以 準確噉 描述 成個 現實 世界 嘅函 數 －用 日常 用
+語講 ， 即 係話 只要 有 足夠嘅 數據 、 時間 同 記憶 ， 呢 啲 AI 程式 就 能 夠 學識 預測 任何 嘢
+。 呢 啲程式 理論 上 能 夠將 可能 嘅 假說 （ hypothesis ） 冚唪唥 考慮 嗮佢 ， 再 將啲 假 說逐
+--
+爆發性 嘅 增長 ） 嘅問題 ， 「考 慮嗮 所有 可能 嘅情 況」 通常 喺實 際應 用 上 都 係冇 可能 做
+到 嘅 ， 例如 係教 個 AI 程式 捉 棋噉 ， 國際 象棋 喺 兩個 棋手 都 行咗 第一 步 之 後 個棋 盤會
+有 400 個 可能 嘅形勢 ， 喺兩個 棋手 都 行咗 第二 步 之 後 個棋 盤會 有 197 , 742 個 可能 嘅
+--
+
+因 為 組合 爆發 嘅問題 ， AI 研究當 中 有 好多 都 集中 於 思考 點樣喺 有限嘅 數據 同 時間 之 內 盡 可
+能 令 AI 程式 學 最 多 嘅 嘢 ， 其中 一 個 方向 係 思考 ^ [ 55 ]
+
+--
+
+• 舉 個例 說明 ， 假想 而 家 有 一 架 內置 咗 AI 程式 嘅 自 駕車 ， 佢 主人 叫 佢搵 由 香港 去 廣州
+嘅 最 短 駕駛 路線 ， 喺絕 大多 數情況 之下 ， 個 AI 程式 喺 做 運算 嗰陣 都 大 可以 安心 噉略
+過 （ 例如 ） 嗰啲 由 香港 經 哈 爾濱 去 廣州 嘅駕 駛路線 （ 因 為 呢 啲路 線 基本 上冇 可能 會係
+--
+係揀 一 小 部份 出嚟 考慮 ^ [ 71 ] ；
+• 又 例如 因 為喺 2016 年 打 低咗 九 段 （ 即 係 最高 等 級 ） 圍棋 棋手 李世石 而 出 名嘅 AI 程
+式 AlphaGo 噉 ， 就 用 咗蒙 地 卡羅樹 搜索 （ Monte Carlo Tree Search ） 嘅 做法 ， 噉講
+--
+
+自然 語言 處理 （ natural language processing ， NLP ） 係指 研究 教 AI 理解 人 類語 言嘅領
+域 ^ [ 73 ] 。 一 個 夠 勁嘅 NLP 程式 會 令 人 類 可以 就 噉用 把 口講 或者 用 筆寫嚟 同 機械 溝通 ， 唔
+--
+
+強 AI [ 編 輯 ]
+
+內文 ： 強 AI
+睇埋 ： 圖靈 測試
+
+強 人工智能 （ strong AI ） 可以 話係 AI 領域 嘅終 極目標 ： 強 AI 係指 ^ [ 79 ]
+
+「 能 夠展 現出所有 自然 智能 有 嘅特性 嘅 AI ， 會 完美 噉 通過 圖靈 測試 （ Turing test ；
+睇 下面 ） 。 」
+
+廿世 紀嘅 學界 作出 咗 多次 創造 強 AI 嘅 嘗試 ， 但 次次 都 衰收尾 ， 遠遠噉 低估 咗 呢 個作 業嘅
+難度 ， 而 到 咗廿 一 世紀 ， 一 個 典型 嘅 AI 專 家 多 數 都 會 集中 於解決 一 至 兩個 問題 ， 而 唔會
+大 想 頭 到 諗住 創造 出 能 夠 好似 人 類噉 普遍 解決 問題 嘅 AI 程式 ^ [ 80 ] ^ [ 81 ] 。 有 好多 AI 專
+家 都 相信 ， 呢 啲淨 係曉 解決 一 至 兩個 問題 嘅 AI 程式 終 有 一 日 會俾 人 砌 埋 一 齊 做 一 個 強 AI
+^ [ 82 ] ^ [ 83 ] 。
+
+廿一 世紀 初嘅 AI 領域 有 「AI 欠缺 常識 」嘅 問題 ^ [ 84 ] ： 同廿 一 世紀 初嘅 AI 比 起 上嚟 ，
+人 好 擅長 喺冇 受 訓嘅 情況 之下 對 物理 或者 心理 現象 做 判斷 ，
+--
+• 又 例如人 能 夠易如反掌 噉 理解 「市 議員 拒絕 俾啲 請願者 攞允許 ， 因 為佢 哋主 張用 暴力
+」噉 嘅 句子 ， 但 一個廿 一 世紀 初嘅 AI 程式 好多 時會 唔明 呢 句 嘢 係話市 議員 主張 暴力
+定係 請願者 主張 暴力 ^ [ 85 ] 。
+
+廿一 世紀 初嘅 AI 喺常識 上嘅 缺乏 表示 咗佢 哋成日 都 會犯 一啲人 唔會犯 嘅錯 ， 而且 犯 錯嘅
+方式 對人 嚟講 好 匪夷所思 ， 例如 AlphaGo 可以 喺 圍棋 比 賽 嗰度 鍊贏人 類嘅 圍棋 國際 冠軍 ，
+而 Deepmind 仲喺 2010 年代 成功 發 展出 曉玩唔 同 Atari 2600 遊 戲嘅 AI ^ [ 82 ] ^ [ 86 ] ，
+不 過 呢 啲程式 答唔 到 好似 「點 樣知 一 杯 牛奶 滿唔 滿」 呢 啲 （ 對人 嚟講 ） 簡 單 得 好 交關 嘅問
+--
+
+機械 學習 （ machine learning ） 專 研究 點樣 令 AI 程式 隨經驗 自動 改善 自己 ^ [ 56 ] ^ [ 89 ] 。
+
+--
+displaystyle f } {\displaystyle f } 改變 ， 喺 下次 再 感知 到 個 刺激 嗰陣 反應 就 可能 會唔
+同咗 。 機械 學習 係 AI 嘅 一 個 重要子 領域 ， 指教 人造 智能 體學 習嘅 研究 ^ [ 93 ] ^ [ 94 ] 。
+
+喺 理想 嘅情況 下 ， 能 夠學 習嘅 程式 會 按 自己 所 經歷 嘅 嘢 改變 佢內部 嘅參數 （ parameter ） ，
+等 自己 下次 做 嘢 嗰陣 能 夠 更加 成功 。 舉個 簡單 例子 ： 想 像 而 家 有 架 內置 AI 程式 嘅 自 駕車
+， 佢個 程式 嘅設 定係 佢會 喺同 前面 架車 距 離 2 米 或者 以下 嗰陣 先耷 逼力 ， 呢 個「 2 米 」嘅
+--
+前者 指個 設計者 會特 登 俾 一 啲 數據 個程式睇 ， 同 埋明 文噉 話俾 佢知 乜 嘢 為止 啱嘅 答案 乜 嘢
+為止 錯嘅 答案 ^ [ 96 ] ； 而 後者 指個 設計者 唔會 噉樣 做 ^ [ 97 ] ， 例如 係教 AI 程式 將啲 嘢 分類
+噉 ， 用 監督式 學習 定非 監督式 學習 都 有 可能 做 得 到 ： 用 監督式 學習 嘅話 ， 個設 計員一 般 會
+--
+素 不 變 ， 一 個 學習者 會偏 好比 較簡 單啲 嘅理論 同 假說 ， 除非 比 較複 雜啲 嗰個 模型 （ 例如 ）
+解釋 同 預測現 實嘅 能力 勁 好多 」 。 當 一 個 AI （ 通常 因 為設 計 得 唔好 ） 喺學習 嗰陣 為咗 要 令
+自己 心目 中 嗰個「 描述 世界 點運 作 」嘅 數學 模型 完美 符合 過 去 數據 ， 而 選擇 一 個 太 複雜 嘅
+模型 ， 個 AI 就 有 過適 （ overfitting ） 嘅問題 ： 雖然 話 過度 複雜嘅 模型 解釋 過 去 數據嘅 能
+力比 較勁 ， 但 統計學 上嘅 研究 表明 ， 呢 啲 模型 解釋 將來數 據嘅 能力 通常 會渣 啲 。 為咗 防止
+過適 ， 設計 AI 嘅人 好多 時 都 會 想 鼓勵 個程式 學 一 啲 能 夠 充分 解釋 數據 得 嚟 又 唔係 太 複雜
+嘅 模型 ^ [ 99 ] 。
+--
+
+「 建立 能 夠用 嚟 做 預測嘅 數學 模型 」 呢 一 點 喺 AI 設計 上 相當 重要 ： 比 較複 雜嘅 智能 體會
+具有 「 描述 世界 嘅內部 模型 」 （ internal model of the world ） ， 意思 係個 智能 體對 「世
+--
+除此 ， 一 個 學習 緊嘅 智能 體仲 可以 有 「學 錯 嘢 」嘅 問題 。 舉 個例 說明 ， 假想 而 家 有 個設 計
+者 想 訓練 一 個 AI 程式 學識 分辨馬 同 貓嘅 圖片 ， 佢搵 一 大 柞啡色 嘅馬 同 黑貓嘅 圖片 返嚟 ，
+再 入 落 去 個程式 嗰度 訓練 個程式 ； 喺 呢 個情況 之下 ， 個程式 可能 會學 錯 嘢 ， 諗住 啡色 嘅物
+體 就 係「 馬」 ， 黑色 嘅物 體 就 係「 貓」 ^ [ 101 ] ^ [ 102 ] 。 「 要 點樣 防止 AI 學錯 嘢 」喺 圖形
+辨識 （ pattern recognition ） －專門 研究 點樣 教機器 分辨圖 像 嘅 AI 子 領域 －上係 一 個 相
+當 受關 注嘅 課題 ^ [ 103 ] ^ [ 104 ] 。
+--
+
+知識 表示 （ knowledge represent ation ） 係 古典 AI 研究 上 重要 嘅 一 環 ， 研究 點樣教 一 個
+AI 程式 組織 手上 嘅知識 ， 並且 用 呢 啲知 識解決 一 啲 複 雜嘅 作業 。 舉 個例 說明 ， 家 吓 有 個設
+計者 想 寫個 AI 程式 嚟 幫手 做 地理 學助教 ， 佢想 個程式 曉 解答 一 啲 簡 單嘅 地理 問題 ， 想 個
+程式 了 解北 美洲 喺 2020 年 有 邊幾 多 個 國 家 ， 於 是 佢喺 寫個 程式 嗰陣 ， 可以 用 以下 呢 段碼 ^
+--
+呢 段源 碼教 個程式 話「 北美洲 國 家 」 呢 個類別 包括 咗「 美 國」 、 「 加拿大 」同 「墨西哥 」
+三 個 內容 。 當 有 個學生 問個 程式 「 北美洲 喺 2020 年 有 邊幾 個國 家 」嗰陣 ， 個 AI 程式 會
+耖嗮 佢手 上 有 嘅資訊 ， 搵 出「 北美洲 國 家 」 呢 個類別 包含 嘅 內容 ， 再 將嗰 三 個 名俾 出嚟 做
+output 。 同一 道理 ， 呢 種 做法 可以 用 嚟教 任何 AI 程式 將啲 嘢 －例如 係將 動物 或者 語言 －
+分類 。 除咗 呢 種 分類性 嘅手法 ， 知識 表示 研究 仲有 好多 方法 教 AI 程式 組織 自己 手頭 上 嘅
+知識 ^ [ 107 ] ^ [ 108 ] 。
+--
+張 爛爛 地 嘅凳 」 －所以 喺 最 少 一方面 ， 純 等 級式 嘅知 識組 織法 唔 似 人 類 智能 ^ [ 112 ] ；
+• 除此之外 ， 如果 要 一 個 AI 程式 做到 人 做到 嘅 智能 ， 齋 靠 分類 係唔 夠嘅 －除 咗將 物件
+分類 ， 人仲會 識 得 描述 物件 嘅特性 （ 「美國 有 200 年 歷史 左右 ， 國旗 有 紅 、 藍 、 同 白
+--
+
+「 要 點樣 令 AI 展示 內隱 知識 （ tacit knowledge ） 」係 另 一 個 受 注目 嘅課題 。
+
+--
+內 隱知 識對人嘅 日常 生活 好 緊 要 ， 因 為人 冇 可能 吓 吓 做 決定 （ 例如 決定 行路 嗰陣 邊隻
+腳 踩 出去 先 ） 都 要 有意 識噉諗 過度 過先 做 。 所以 要 做出 好似 人 噉嘅 AI ， 噉 就 實 要 能 夠
+令 AI 具有 好似 內隱 知識噉 嘅行 為 ^ [ 115 ] 。
+
+--
+
+內文 ： 人工智能 嘅應 用
+
+AI 對於 任何 嘅智能 作業 嚟講 都 好 有用 ^ [ 116 ] 。 比 較廣為人 知嘅 AI 應用 例子 包括 咗識 揸 自
+己 嘅 交通 工具 （ 包括 咗車 同 埋無人 飛機 呀 噉 ） 、 醫療 診斷 、 數學 定理 證明 、 藝術 創作 、 玩
+--
+
+內文 ： 電子 遊戲 AI
+睇埋 ： 瓣 瓣 掂玩 遊戲
+
+電子 遊戲 AI 係指 電子 遊戲 用 嘅 AI ： 電子 遊 戲係 能 夠 同 玩 家 互動 、 以 娛樂 玩 家 為目 的 嘅電
+腦程式 ； 而 電子 遊戲 入面 好多 時會 涉及 由 電腦 控制 ， 同 玩 家 進行 對局 嘅 角色 （ NPC ） ^ [ 120 ]
+--
+夠為 玩 家 提供 一定 嘅 挑戰 （ 睇 埋心 流體驗 ） ^ [ 121 ] ； 噉即係 話佢 哋會 想 NPC 展現 一定 程度
+嘅 智能 ， 而 「教 電腦 程式 做出 類 似 有 智能 噉嘅 行為 」正正 就 係 AI 呢 個 領域 嘅重心 ^ [ 122 ] ^
+[ 123 ] 。
+--
+
+早期 －廿 世紀 中 －嘅 電子 遊 戲經 已 有 喺度 用 相 對簡 單嘅 AI ， 而 廿一 世 紀初 及 後 ， 電子 遊戲
+AI 仲成 為咗 遊戲 製 作 上 嘅 一 個 大 課題 。 遊戲製 作 專 家 會 研究 「用 乜 嘢 演算 法整 一 隻 遊戲 嘅
+AI 先 最 可以 令 玩 家 過癮」 ， 而且 AI 仲有 俾人 運用 嚟 做 控制 NPC 以 外嘅 工作 ， 例如 係 做
+遊戲 測試 （ 喺隻 遊戲 出 街 前 測試 隻遊 戲 玩 起 上 嚟點 ） 同 遊戲 分析 （ 對玩 家 嘅行為 作出 分析
+） 等 都 有用 到 AI 相 關嘅 技術 ^ [ 40 ] ^ [ 126 ] 。
+
+--
+• 自 駕車 （ driverless car ） ： 直至 2016 年 為止 ， 總 共有 30 間 主要 公司 都 有 喺度 用
+AI 整 自 駕車 ， 而 「AI 可以 點樣 幫助 自駕車 技術 」係 AI 領域 當 中 好 受關 注嘅 一 環 ^
+[ 127 ] ^ [ 128 ] ^ [ 129 ] －
+□ 自 駕車 AI 其中 一 個 最 緊 要 嘅部 份 係教 架車 了 解佢 周圍 環境 嘅佈局 。 一 般 嚟講 ，
+一 架 自駕 車會 內置 咗佢 會行 駛嘅 地 區嘅 地 圖 ， 會 包括 咗 交通 燈同 埋行人 路嘅 位置
+--
+問題 都 仲係 好 難 搞 ^ [ 131 ] ... 等等 。
+• 劑量 ： AI 程式 可以 幫手 評估 落藥 嗰陣 要 落幾 重 ； 喺醫療 上 ， 落藥 要 落幾 多 係 一 條 關乎
+人命嘅 問題 ， 例如 手術 麻醉噉 ， 如果 落嘅 麻醉藥 劑量 大 得 滯會 搞 出 人命 ， 而 喺 2016
+年 ， 有 份 喺加州 做嘅 研究 就 發現 ， 有 一 條 多 得 AI 先 搵 到 嘅數 學方 程式 可以 用嚟 評定
+要 落幾 大劑量 嘅 免疫 抑制 劑落 去 病人 身上 。 喺醫療 上 ， 評估 劑量 不 嬲 都 係 一 個 好 嘥時
+間 精神 嘅 程序 ， 所以 呢 種 AI 程式 幫醫 療界 慳 到 唔少 錢 ^ [ 132 ] 。
+□ 癌症 研究 ： AI 程式 可以 幫手 決定 點樣醫 癌症 ； 可以 用 嚟醫 癌症 嘅藥 同 疫苗 有 成 多
+個 800 種 ， 所以 對於 醫生 嚟講 ， 要 決定 點樣醫 一 個 癌症 病人 絕 非 易 事 。 微軟 發展
+咗 一 個 叫 Hanover 嘅 AI 程式 ， 呢 個程式 曉記 住 嗮所以 同 癌症 有 關嘅 研究 論文 ，
+知道 每 一 種 醫療 方法 喺邊 種情況 之下 最 有效 ， 並且 用 攞 到 嘅資訊 決定 某 一 個 特定
+--
+人 醫生 一 樣 咁 好 ^ [ 134 ] 。
+• 數碼 藝術 ： AI 甚至 仲 可以 攞嚟 整藝 術品 ； 人工 神經 網絡 嘅 input 層嘅 每 粒 神經 細胞
+可以 設 做 幅 input 圖像嘅 一 粒 像 素 ^ [ 135 ] ， 而 output 層嘅 每 一 粒 神經 細胞 同一 道理
+--
+幅 相變 做 印象派 作品 嘅 人工 神經 網絡 ^ [ 135 ] 。
+• 金融 ： 廿一 世 紀嘅 金融界 會用 AI 程式 嚟監察 買 家 同 賣 家 嘅活 動 。 呢 啲程式 喺見 到 某
+啲 異常 活 動嗰 陣會 通報 俾銀行 等 嘅機 構聽 ， 等 做 起 探測 詐騙 等 嘅罪行 嗰陣 容易 好多 ^
+[ 136 ] 。
+• 數碼 營銷 ： 有 啲 AI 程式 曉睇 一 個 人 上 啲乜 嘢 網站 ， 並且 靠 呢 啲資 訊嚟 賣幫 手賣 廣告
+： 例如 如果 個程式 探測 到 某 個用 家 零舍 鍾意 搜尋 有 關 打 機嘅 資訊 嘅話 ， 個程式 就 會俾
+--
+
+內文 ： AI 叛變 、 友好 嘅 AI 同 機械人 三定律
+睇 埋 ： 人工智能 ( 電影 ) 、 Cyberpunk 同 埋心 靈 哲學
+
+AI 早 喺 19 世紀 初經 已 喺 sci - f i 或者 類似 體裁 嘅創 作當 中 出現 ： 由 英國 作 家 瑪莉 雪萊 （
+Mary Shelley ） 寫嘅 經典 sci - f i 小說 《 科學怪人 》 講 及 一個人 類科 學 家 創造 咗 一 隻 有 血
+有 肉 、 有 智能 嘅 生命 體 （ 喺廣義 上 算 係 AI ） ， 而 呢 隻 生命 體仲 有 自己 嘅意志 ， 仇視佢 嘅創
+造者 同 埋對 佢嘅 創造者 造成 威脅 ， 可以 算係 早期 用 咗 AI 橋段 嘅 sci - f i 作品 ^ [ 138 ] 。
+
+• 一方面 ， A I 叛變 （ AI takeover ） 呢 條橋 喺 sci - f i 創作 （ 尤其 係 反 烏托 邦嘅
+cyberpunk ） 當 中 成日 出現 ^ [ 註 6 ] ， 廿世紀 尾嘅 《 未來戰士 》 （ Terminator ） 故仔 講
+--
+將人 嘅 精神 韞喺 虛擬 世界 入面 嚟攞 佢哋 嘅身 體 做 能源 、 廿一 世紀 初嘅 作品 《 智能 叛侶
+》 （ Ex Machina ） 嘅 其中 一 個 主要 角色 就 係 一 個 為 咗唔 想 俾人 韞住 而 呃 人 謀殺人 嘅 AI
+機械人 ；
+• 另一方面 ， 又 有 一 啲 作品 描繪 一 啲 對人 好 忠心 好 友善 嘅 AI ^ [ 註 7 ] ， 好似 係 日本 嘅 《
+叮噹 》 同 《 小 飛俠 阿 童木 》 噉 ， 都 係 以 對人 友好 嘅 AI 機械 人 做 主角 ^ [ 139 ] ^ [ 140 ] 。
+• 機械人 三定律 （ the Three Laws of Robotics ） 係 由 著名 美國 sci - f i 作 家 阿西莫夫
+--
+會 大 眾喺 有 關 機械 人 道德 嘅討論 上 常 見嘅 話題 ， 常見 到 俾人 當咗係 橋段 嘅 一 種 ^
+[ 註 8 ] ， 但 專業 嘅 AI 研究者 多 數 都 嫌 呢 三 條 定律 有 歧義 等 嘅問題 ， 好 少 可 會認
+真噉 看待 佢哋 ^ [ 142 ] 。
+--
+
+內文 ： AI 哲學
+睇埋 ： 圖靈 測試
+
+AI 哲學 （ philosophy of AI ） 係對 AI 嘅 哲學 探討 ： AI 同 哲學 －尤其 係心 靈 哲學 －相當
+有 關 ， 因 為兩個 領域 都 關注 智能 、 心靈 、 意識 以至 自由 意志 等 嘅 概念 。 再 加上 AI 嘅 技術
+理論 上 可以 引 致 人造心 靈嘅 出現 ， 而 噉做會 引起 唔 少 道德 上嘅 問題 ， 所以 道德 哲學 等 嘅領
+域 都 對 AI 嘅 相關 討論 有 興趣 ^ [ 143 ] 。
+
+AI 哲學 上 嘅 思考 會試圖 回答 以下 嘅問 題 ^ [ 144 ] ：
+
+• 機械 有 冇 可能 展現 智能 ？ 佢哋 有 冇 可能 解決 嗮 所有 人 曉 透過 思考 處理 嘅問題 ？
+• 人 類 智能 同 AI 本質 上 係咪 一 樣 ？ 人 腦同 電腦 有 乜異 同 ？
+• 機械 有 冇 可能 好似 人 類噉 ， 擁 有 自己 嘅 精神 、 意 識同 心理 狀態 ？
+--
+
+圖靈 測試 （ Turing test ， 簡稱 TT ） 係 AI 哲學 上 一 個 出 名嘅 議題 。 圖靈測 試係 由 英
+格蘭 數學 家 亞倫 圖靈 （ Alan Turing ） 喺 1950 年 諗 出 嚟嘅 一 個 測試 ， 用 嚟檢驗 一 部 機
+--
+
+圖 靈測 試喺 AI 哲學 上 引起 咗廣 泛討論 。 例如 有 學者 批評 圖靈 測試 指出 ， 嚴格 嚟講 ，
+就 算 一 部 機械 通過 咗圖靈 測試 ， 都 只 係 表示 佢曉喺 一 個 人工 環境 下 做 某啲 工作 ， 但 有
+--
+
+1 . ↑ 喺 呢 度 ， 設計者 好多 時 都 會加 啲演 算法 教個 AI 預測 未 來 。
+2 . ↑ 睇 埋強化 同 懲罰 。
+--
+搵 更 多 有 關
+Artificial intelligence
+喺維 基媒 體 兄弟 計劃 嘅 嘢
+--
+
+• AI 詞彙表
+• OpenA I
+• AI 史
+• 智能 放大
+--
+• Hutter , Marcus ( 2005 ) . Universal Artificial Intelligenc e . Berlin : Springer .
+• Jacks on , Philip ( 1985 ) . Introduction t o Artificial Intelligence ( 2nd e d . ) .
+Dover .
+• Luger , George ; Stubblefield , William ( 2004 ) . Artificial Intelligence :
+Structures and Strategies for Complex Problem Solving ( 5th e d . ) . Benj amin /
+Cumming s .
+• Neapolitan , Richard ; Jiang , Xia ( 2018 ) . Artificial Intelligence : With an
+Introduction t o Machine Learning . Chapman & Hall / CR C .
+• Nilsson , Nils ( 1998 ) . Artificial Intelligence : A New Synthesis . Morgan
+Kaufmann . ISBN 978 - 1 - 55860 - 467 - 4 .
+• Russell , Stuart J . ; Norvig , Peter ( 2003 ) , Artificial Intelligence : A Modern
+Approach ( 2nd e d . ) , Upper Saddle River , New Jersey : Prentice Hal l .
+• Russell , Stuart J . ; Norvig , Peter ( 2009 ) . Artificial Intelligence : A Modern
+Approach ( 3 r d e d . ) . Upper Saddle River , New Jersey : Prentice Hal l .
+--
+• Rich , Elaine ( 1983 ) . Artificial Intelligenc e . McGraw - Hil l .
+• Bundy , Alan ( 1980 ) . Artificial Intelligence : A n Introductory Course ( 2nd
+e d . ) . Edinburgh University Pres s .
+• Poole , David ; Mackworth , Alan ( 2017 ) . Artificial Intelligence : Foundations
+of Computational Agent s ( 2nd e d . ) . Cambridge University Pres s .
+--
+
+• Crevier , Daniel ( 1993 ) , AI : The Tumultuous Search for Artificial
+Intelligence , New York , NY : BasicBooks .
+--
+For Machines That Think . New York : Macmillan / SAMS .
+• Nilsson , Nils ( 2009 ) . The Quest for Artificial Intelligence : A History of
+Ideas and Achievement s . New York : Cambridge University Pres s .
+--
+• Boden , Margaret , Mind As Machine , Oxford University Press , 2006
+• Domingos , Pedro , " Our Digital Doubles : AI will serve our species , not
+control it " , Scientific American , v o l . 319 , n o . 3 ( September 2018 ) , p p .
+88 – 93 .
+• Gopnik , Alison , " Making AI More Human : Artificial intelligence has staged a
+revival by starting t o incorporate what w e know about how children learn " ,
+--
+• Jacovi , A . , Marasović , A . , Miller , T . , & Goldberg , Y . ( 2021 , March ) .
+Formalizing trust in artificial intelligence : Prerequisites , causes and
+goals of human trust in ai ( PDF ) . In Proceedings of the 2021 ACM conference
+on fairness , account ability , and transparenc y ( p p . 624 - 635 ) ， 呢 篇 文討 論人 點
+樣對 AI 產生 信任 。
+• Johnston , John ( 2008 ) . The Allure of Machinic Life : Cybernetics , Artificial
+Life , and the New AI , MIT Pres s .
+• Kurzweil , R . ( 2013 ) . How t o create a mind : The secret of human thought
+--
+• Marcus , Gary , " Am I Human ? : Researchers need new ways t o distinguish
+artificial intelligence from the natural kind " , Scientific American , v o l .
+316 , n o . 3 ( March 2017 ) , p p . 58 – 63 . Multiple tests of
+--
+and other disciplines that schoolchildren take . A s o far insuperable
+stumbling block t o artificial intelligence is an incapacity for reliable
+disambiguation . " [ V ] irtually every sentence [ that people generate ] is
+--
+Income , and Economic Democracy " ( 2018 ) . SSRN , part 2 ( 3 ) .
+• Myers , Courtney Boyd e d . ( 2009 ) . " The AI Report " . Forbes , June 2009 .
+• Raphael , Bertram ( 1976 ) . The Thinking Computer . W . H . Freeman and Company .
+• Serenko , Alexander ( 2010 ) . " The development of an AI journal ranking based
+on the revealed preference approach " ( PDF ) . Journal of Informetric s . 4 ( 4 ) :
+--
+citation impact journal ranking methods : Example from the field of
+Artificial Intelligence " ( PDF ) . Journal of Informetric s . 5 ( 4 ) : 629 – 649 .
+• Sun , R . & Bookman , L . ( ed s . ) , Computational Architectures : Integrating
+--
+• Tom Simonite ( 29 December 2014 ) . " 2014 in Computing : Breakthroughs in
+Artificial Intelligence " . MIT Technology Review .
+
+--
+1 . ↑ ^ 1 . 0 ^ 1 . 1 This list of intelligent traits is based on the topics covered
+by the major AI textbooks , including :
+□ Russell & Norvig 2003 .
+--
+□ Nilsson 1998 .
+2 . ↑ General intelligence ( strong AI ) is discussed in popular introductions t o
+AI :
+□ Kurzweil 1999 and Kurzweil 2005 .
+3 . ↑ ^ 3 . 0 ^ 3 . 1 ^ 3 . 2 ^ 3 . 3 Definition of AI as the study of intelligent agents :
+□ Poole , Mackworth & Goebel 1998 , p . 1 , which provides the version that
+--
+5 . ↑ This is a central idea of Pamela McCorduck ' s Machines Who Think . She
+writes : " I like t o think of artificial intelligence as the scientific
+apotheosis of a venerable cultural tradition . " ( McCorduck 2004 , p . 34 )
+" Artificial intelligence in one form o r another is an idea that has
+pervaded Western intellectual history , a dream in urgent need of being
+--
+attempts — nutty , eerie , comical , earnest , legendary and real — to make
+artificial intelligences , t o reproduce what is the essential us — bypassing
+the ordinary means . Back and forth between myth and reality , our
+--
+t o " forge the Gods . " ( McCorduck 2004 , p p . 340 – 400 ) .
+6 . ↑ " Stephen Hawking believes AI could be mankind ' s last accomplishment " .
+BetaNews .
+--
+jobs than they destroy ? " . The Guardian .
+8 . ↑ Solomon off , R . J . ( 1985 ) . The Time Scale of Artificial Intelligence ;
+Reflections on Social Effects , Human Systems Management , Vol 5 , P . 149 - 1 53 .
+9 . ↑ Optimism of early AI :
+□ Herbert Simon quote : Simon 1965 , p . 96 quoted in Crevier 1993 , p . 109 .
+--
+□ NRC 1999 , p p . 210 – 21 1 .
+11 . ↑ First AI Winter , Mansfield Amendment , Lighthill report
+□ Crevier 1993 , p p . 115 – 117 .
+--
+□ Howe 1994 .
+12 . ↑ Second AI winter :
+□ McCorduck 2004 , p p . 430 – 435 .
+--
+□ NRC 1999 , p p . 214 – 216 .
+13 . ↑ Pamela McCorduck ( 2004 , p p . 424 ) writes of " the rough shattering of AI in
+subfields — vision , natural language , decision theory , genetic algorithms ,
+--
+anything t o say t o each other . "
+14 . ↑ AI applications widely used behind the scenes :
+□ Russell & Norvig 2003 , p . 28 .
+--
+□ NRC 1999 , p p . 216 – 22 2 .
+15 . ↑ Artificial Intelligenc e . D o you know what AI can d o for your business ? .
+Mediu m .
+16 . ↑ AI ' s immediate precursors :
+□ McCorduck 2004 , p p . 51 – 107 .
+--
+they ever become what w e would call ' smart ' ? " . Scientific America n . 2018 .
+19 . ↑ " Algorithm in Artificial Intelligence 互 聯網 檔案 館嘅 歸檔 ， 歸檔 日期 2022年 3
+月 3號 ， .. " .
+20 . ↑ ^ 20 . 0 ^ 20 . 1 Understanding the difference between Symbolic AI & Non
+Symbolic A I . 互 聯網 檔案 館嘅 歸檔 ， 歸檔 日期 2018年 12月 5 號 ， .. Analytics India .
+21 . ↑ Haugel and , John ( 1985 ) , Artificial Intelligence : The Very Idea ,
+Cambridge , Mass : MIT Pres s .
+22 . ↑ ^ 22 . 0 ^ 22 . 1 ^ 22 . 2 ^ 22 . 3 Flasiński , M . ( 2016 ) . Symbolic Artificial
+Intelligenc e . In Introduction t o Artificial Intelligence ( p p . 15 - 2 2 ) .
+Springer , Cham .
+23 . ↑ Haugel and 1985 , p p . 112 - 117 .
+24 . ↑ The most dramatic case of sub - s ymbolic AI being pushed into the
+background was the devastating critique of perceptrons by Marvin Mins ky and
+Seymour Papert in 1969 . See History of AI , AI winter , o r Frank Rosenblatt .
+25 . ↑ What are heuristics ? 互 聯網 檔案 館嘅 歸檔 ， 歸檔 日期 2019年 8月 20 號 ， ..
+Conceptuall y .
+26 . ↑ McCarthy and AI research at SAIL and SRI International :
+□ McCorduck 2004 , p p . 251 - 259 .
+□ Crevier 1993 .
+27 . ↑ AI research at Edinburgh and in France , birth of Prolog :
+□ Crevier 1993 , p p . 193 - 196 .
+--
+Advanced matchmaking in ghost recon online . IEEE Transactions on
+Computational Intelligence and AI in Games , 4 ( 3 ) , 167 - 177 .
+41 . ↑ Domingos 2015 , Chapter 4 .
+--
+檔 日期 2018年 4月 14 號 ， . " . Fortune . 2016 .
+43 . ↑ " Google leads in the race t o dominate artificial intelligence " . The
+Economis t .
+--
+□ Nilsson 1998 , chpt . 3 . 3 .
+48 . ↑ ^ 48 . 0 ^ 48 . 1 " Artificial intelligence can ' evolve ' t o solve problems " .
+Science | AAAS .
+--
+歸檔 日期 2018年 6月 22 號 ， .. The Next Platfor m .
+51 . ↑ Trust , and don ' t verify : the AI black box problem 互 聯網 檔案 館嘅 歸檔 ， 歸
+檔 日期 2018年 7月 30 號 ， .. Mediu m .
+--
+□ Russell & Norvig 2003 , p p . 430 – 449 .
+69 . ↑ Building the AI of F . E . A . R . with Goal Oriented Action Planning . Gamasutra
+.
+--
+Intelligence Magazine . 9 ( 2 ) : 48 – 57 .
+79 . ↑ Sample , Ian ( 14 March 2017 ) . " Google ' s DeepMind makes AI program that can
+learn like a human " . the Guardian . Retrieved 26 April 2018 .
+--
+84 . ↑ Davis , Ernest ; Marcus , Gary ( 24 August 2015 ) . " Commonsens e reasoning and
+commonsens e knowledge in artificial intelligence " . Comm unications of the
+AC M . 58 ( 9 ) : 92 – 103 .
+--
+Cognitive Psycholog y . 3 ( 1 ) : 1 – 19 1 .
+86 . ↑ " The superhero of artificial intelligence : can this genius keep it in
+check ? " . The Guardian . 16 February 2016 . Retrieved 26 April 2018 .
+87 . ↑ It ' s Really Hard t o Give AI " Common Sens e " . Futuris m .
+88 . ↑ " Cultivating Common Sens e | DiscoverMagazine . com " . Discover Magazine .
+--
+classic paper " Computing Machinery and Intelligence " . ( Turing 1950 ) In 1956 ,
+at the original Dartmouth AI su mmer conference , Ray Solomon off wrote a
+report on unsupervised probabilistic machine learning : " A n Inductive
+--
+and evaluation . Frontiers in systems neuroscience , 10 , 109 .
+93 . ↑ Evolutionary algorithms are the living , breathing AI of the future . V B .
+94 . ↑ Domingos 2015 , Chapter 5 .
+--
+10 1 . ↑ Domingos 2015 , p . 286 .
+10 2 . ↑ " Single pixel change fools AI programs " . BBC News . 3 November 2017 .
+103 . ↑ " AI Has a Hallucination Problem That ' s Proving Tough t o Fix " . WIRED .
+2018
+--
+□ Dreyfus & Dreyfus 1986 ( Hubert Dreyfus is a philosopher and critic of
+AI who was among the first t o argue that most useful human knowledge
+was encoded sub - s ymbolicall y . See Dreyfus ' critique of AI )
+□ Gladwell 2005 ( Gladwell ' s Blink is a popular introduction t o
+--
+□ Hawkins & Blakeslee 2005 ( Hawkins argues that sub - s ymbolic knowledge
+should be the primary focus of AI research . )
+116 . ↑ Russell & Norvig 2009 , p . 1 .
+--
+12 1 . ↑ Yannakakis , G . N . , & Hallam , J . ( 2007 ) . Towards optimizing entertainment
+in computer games . Applied Artificial Intelligence , 21 ( 10 ) , 933 - 97 1 .
+12 2 . ↑ Yannakakis , Geogios N ( 2012 ) . " Game AI revisited " ( PDF ) . Proceedings of
+the 9 t h Conference on Computing Frontiers : 285– 29 2 .
+--
+12 4 . ↑ Pac - Man 互 聯網 檔案 館嘅 歸檔 ， 歸檔 日期 2021年 2月 11號 ， ..
+125 . ↑ Bogost , Ian ( March 2017 ) . " " Artificial Intelligence " Has Become
+Meaningless " . Retrieved 22 July 2017 .
+126 . ↑ Lu , F . , Yamamoto , K . , Nomura , L . H . , Mizuno , S . , Lee , Y . , & Thawonmas ,
+R . ( 2013 , October ) . Fighting game artificial intelligence competition
+platfor m . In 2013 IEEE 2nd Global Conference on Cons umer Electronics ( GCCE )
+--
+Innovation at Brooking s . N . p . , September 2016 . 12 November 2016 .
+12 9 . ↑ Teaching AI t o Predict Pedestrian Behavior . Machine Desig n .
+13 0 . ↑ McFarland , Matt . " Google ' s artificial intelligence breakthrough may have
+a huge impact on self - d riving cars and much more " . The Washington Post 25
+--
+t o Kil l . Retrieved 17 November 2017 .
+13 2 . ↑ " 10 Promising AI Applications in Health Care 互 聯網 檔案 館嘅 歸檔 ， 歸檔日
+期 2018年 12月 15號 ， . " . Harvard Business Review . 2018 - 0 5 - 10 .
+13 3 . ↑ Dina Bass ( 20 September 2016 ) . " Microsoft Develops AI t o Help Cancer
+Doctors Find the Right Treatment s " . Bloomber g .
+--
+， .. Mediu m .
+13 6 . ↑ " CTO Corner : Artificial Intelligence Use in Financial Services –
+Financial Services Roundtable ^ [ 失咗 效嘅 鏈 ] " . Financial Services Roundtabl e .
+--
+14 1 . ↑ Anderson , Susan Leig h . " Asimov ' s " three laws of robotics " and machine
+metaethics . " AI & Society 22 . 4 ( 2008 ) : 477 – 493 .
+14 2 . ↑ McCauley , Lee ( 2007 ) . " AI armageddon and the three laws of robotics " .
+Ethics and Information Technolog y . 9 ( 2 ) : 153 – 16 4 .
+--
+artificial intelligenc e . MIT pres s .
+14 4 . ↑ Russell & Norvig 2003 ， p . 947 , define the philosophy of AI as cons isting
+of the first two questions , and the additional question of the ethics of
+--
+Mind , 99 ( 393 ) , 53 - 6 5 .
+147 . ↑ Russell , Stuart J . ; Norvig , Peter ( 2010 ) , Artificial Intelligence : A
+Modern Approach ( 3 r d e d . ) , Upper Saddle River , NJ : Prentice Hall , p . 2 - 3 .
+--
+
+• 研學 論壇 －關 於 人工智能 、 模式 識別 、 科學 交流 嘅學術 論壇 。
+• ChinaA I . org －中國 人工智能 網 － 人工智能 、 模式 識別 、 數字圖 像 處理 。
+• AI Depot － comm unity discussion , news , and articles .
+• Loebner Prize websit e .
+• GameAI －關於 電子 遊戲 方面 嘅 AI 資源 。
+• Kurzweil CyberArt Technologies －關 於用 人工智能 整藝 術嘅網站 ， 有 人工智能 畫畫
+程式 「AARON」 。
+• 關 於 人工智能 ， 專 家 系 統 prolog 語言 全介 紹嘅 wiki 網 站 。
+• 中 華民 國 人工 智慧 學會 －為 咗 促進 中 華民 國 台灣 地 區 人工智能 同 相關 領域 嘅 研究 、 發
+展 、 應用 同 交流 為 宗旨 嘅民 間組織 。
+• MostAI －關 於 人工智能網站 ， A I Fans 交流 平台 。
+
+--
+
+人工智能 （ AI ）
+研究 「點 樣 人工 噉創 造 智能 體」 嘅學 問
+基本 智能 體 · 智能 （ 超 智能 ） · 演 算法 同 電腦 程式 編寫 ·
+概念 複雜 · 基於 規則 嘅 系 統 · AI 完全 · AI 詞彙表
+運算 符號 AI · 貝葉斯 網絡 · 神經 網絡 · 進化 演算法 （ 遺傳
+方法 演 算法 ） · 解釋 得 嘅 AI
+自動 推理 · 行動 選擇 同 自動 計劃 · 運動 規劃 · 群 體智
+--
+
+NLP （ 語音 識別 · 機械 翻譯 ） · 運算 創意 · 強 AI · 協
+作 智能 · 自動 資料 收集
+[ 180 p x - Anatomy - 1751201 ]
+AI 遊戲 AI · 專 家 系 統 · 自 駕車 · 傾偈 機械 人 · 認人 樣
+應用 系 統 · 虛擬 助理 · 聰明 玩具 · 智能 感應器 · 環境 智能
+AI 圖靈 測試 · 中文 房間 · AI 箱 · AI 叛變 · 友好 嘅 AI
+哲學 · 機械人 三定律
+AI 圖靈 · AI 低谷 · DeepMind · OpenA I · ChatGPT
+史
+--
+相關 宇宙 · Cyberpunk · 科技 奇異點 · 通用 心理 測量
+AI 類
+
+--
+
+AI AI 哲學 · 知識 表示 · 自動 計劃 · 電腦 視覺 · NLP · 機械
+學習 （ ANN · 監督式 學習 · 非 監督式 學習 · 強化 學習 ）
+--
+• 法證 科學
+• 電腦 科學 （ AI ）
+
+--
+相關 領域 • 電腦 科學
+• 人工智能
+• 製造 業
+--
+*
+由 「https : // zh - y u e . wikipedia . org / w / inde x . php ? title = 人工智能 & oldid = 2060002」收
+屬於 2 類 ：
+--
+• Pages using div col with small parameter
+• 人工智能
 

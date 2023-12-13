@@ -1,9 +1,9 @@
    #alternate alternate National » Feed National » MoneyWatch Feed
 
-     * Gaza Truce
-     * Henry Kissinger
-     * Military Aircraft Crash
-     * Shane MacGowan
+     * Israel-Hamas War
+     * Hunter Biden Indicted
+     * Porch Pirates
+     * QR Code Risks
      * CBS News Live
      * Managing Your Money
      * Newsletters
@@ -24,24 +24,21 @@
                o Essentials
           +
                o
-                    # 3 killed in Jerusalem after Israel and Hamas agree
-                      to extend Gaza truce
-                    # Henry Kissinger, influential and controversial
-                      diplomat, dies at age 100
-                    # Rep. George Santos remains defiant as House to vote
-                      on expulsion this week
-                    # EPA proposes rule to replace lead water pipes in
-                      U.S. within 10 years
-                    # Shane MacGowan, longtime front-man of The Pogues,
-                      dies at 65
-                    # Japan asks U.S. to ground Ospreys amid search for
-                      crew in deadly crash
-                    # Candy company uses cocoa harvested by child labor:
-                      CBS News investigation
-                    # Victim of "Scorecard Killer" identified as Iowa teen
-                      49 years after murder
-                    # 84-year-old man charged with wife's murder,
-                      allegedly over vet bills
+                    # Penn President Liz Magill resigns after
+                      controversial congressional hearing on antisemitism
+                    # Texas court temporarily halts ruling allowing woman
+                      to have emergency abortion
+                    # Shohei Ohtani signs record deal with Dodgers
+                    # Iran activist Narges Mohammadi to go on hunger
+                      strike when awarded Nobel
+                    # At least 3 killed after fire in hospital near Rome
+                    # Volunteers flock to Israel to harvest produce amid
+                      farm labor shortage
+                    # Minnesota man arrested after impaling grocery worker
+                      with golf club: Police
+                    # Legislation giving nature the same rights as humans
+                      gaining traction
+                    # Here's how experts say you can thwart porch pirates
      *
      * Shows
           + cbs-mornings CBS Mornings
@@ -107,7 +104,6 @@
                o A Moment With…
                o Innovators & Disruptors
           +
-               o Log In
                o Newsletters
                o Mobile
                o RSS
@@ -209,19 +205,12 @@ Need for guardrails
    this month, The Arena Group announced that it had merged with Bridge
    Media Networks, which produces news, sports and other content.
 
-Trending News
+More from CBS News
 
-   ev-charging-sign.jpg
-   EVs are less reliable than conventional vehicles, Consumer Reports says
-   IOS Update For IPhones
-   How to turn off iPhone's iOS 17 NameDrop feature
-   Leather wallet with dollar bills in male hands on a blurred nature
-   background.
-   Here's how much more you need to spend to maintain your living standard
-   gettyimages-1736291256.jpg
-   Will CD rates go higher in 2024?
-   COMBO-EU-US-DISINFORMATION-ISRAEL-PALESTINIAN-CONFLICT
-   Elon Musk says advertiser boycott at X could "kill the company"
+   Volunteers flock to Israel to harvest produce amid farm labor shortage
+   Food makers focus on supplements, side dishes for those on Ozempic
+   Social Security clawbacks hit a million more people than agency said
+   McDonald's plans to add about 10,000 new stores worldwide by 2027
    In:
      * Sports Illustrated
      * AI
@@ -246,14 +235,13 @@ Trending News
 
 More from CBS News
 
-How are colleges handling students' use of artificial intelligence?
+Volunteers flock to Israel to harvest produce amid farm labor shortage
 
-Elon Musk says advertiser boycott at X could "kill the company"
+Food makers focus on supplements, side dishes for those on Ozempic
 
-Michigan to join effort to regulate AI political ads as federal legislation
-pends
+Social Security clawbacks hit a million more people than agency said
 
-Amazon is using AI to deliver packages faster than ever this holiday season
+McDonald's plans to add about 10,000 new stores worldwide by 2027
 
    Copyright ©2023 CBS Interactive Inc. All rights reserved.
      * Privacy Policy

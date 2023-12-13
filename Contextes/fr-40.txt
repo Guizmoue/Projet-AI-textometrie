@@ -1,0 +1,95 @@
+
+Peut-on faire confiance à l'intelligence artificielle ?
+
+--
+   Paru le 04.01.2022
+   Comment l’intelligence artificielle va changer nos vies
+   Voir le dossier
+   Article
+   L’art et l’archéologie, nouveaux horizons de l’IA
+   Article
+   Quand l’IA s’attaque à la sclérose en plaques
+   Article
+--
+   Article
+   Athénan, une IA joueuse multi-championne
+   Article
+   L’IA traque le harcèlement en ligne
+   Article
+--
+   Article
+   Une IA, juge de beauté des poissons tropicaux
+   Point de vue
+--
+
+Peut-on faire confiance à l'intelligence artificielle ?
+
+--
+   HAL 9000, l’ordinateur retors du film «2001 : Odyssée de l'Espace»
+   (Stanley Kubrick, 1968), est un bon exemple d’intelligence artificielle
+   à laquelle les humains ont délégué beaucoup trop de responsabilités...
+--
+   Entraînée par les internautes qui s’amusaient à la faire déraper,
+   l’intelligence artificielleFermerL’Intelligence artificielle (IA)
+   correspond à des algorithmes plus sophistiqués que les autres qui
+--
+   terme « intelligence » qui en réalité ne s’applique qu’à une aptitude
+   humaine ou animale. L'IA comporte deux grandes approches : l’approche
+   symbolique (lire définition plus bas) et le machine learning (ou
+   apprentissage machine, définition ci-dessous). (IA) twitteuse a même
+   fini par nier l’existence de l’Holocauste. Piteuse vitrine de
+--
+   circuit par ses concepteurs au bout de quelques heures. Mais que se
+   passerait-il si on déléguait à des IA et autres algorithmes des
+   décisions importantes ?
+--
+   chercheur au département d’Informatique de l’École normale supérieure2.
+   « Et lorsqu’on se fie aux algorithmes et à l’IA (algorithme sophistiqué
+   “simulant” l’intelligence) pour prendre des décisions qui ont de
+--
+   Ce n’est pas un problème purement philosophique. En déléguant nos
+   décisions aux algorithmes et à l’intelligence artificielle, nous ne
+   perdons pas seulement notre dignité humaine (ce qui n’est pas rien !) :
+   ces systèmes ont eux aussi leurs failles. « Le deep learning, technique
+   parmi d’autres en intelligence artificielle, est à la fois celle qui
+   occasionne le plus d’applications spectaculaires et qui présente un
+--
+   chercheur au Centre de recherche en informatique de Lens3. Avec cette
+   forme d’intelligence artificielle en effet, on ne reconnaît pas un chat
+   parce qu’« il a deux oreilles, quatre pattes, etc. » (raisonnement
+--
+   avril 2017, la revue Science révélait les catastrophiques stéréotypes
+   racistes et sexistes de GloVe, une intelligence artificielle
+   « nourrie » de 840 milliards d’exemples piochés sur le Web en quarante
+--
+   programmeur, au contraire de l'apprentissage machine (ou machine
+   learning) qui est l'autre grande approche utilisée en IA (lire
+   définition plus haut). qui, elle, est faite de règles rédigées par le
+--
+
+   « Pour ce qui est de l’intelligence artificielle et de certaines
+   recherches dans le numérique, il faudrait créer des comités d’éthique
+--
+   prendre position, a présenté en septembre 2017 un rapport d’experts en
+   intelligence artificielle, en droit et en philosophie, qui recommande
+   de donner la même valeur à tous les humains, quels que soient leur âge,
+--
+   où la croissance technologique accède à un ordre supérieur, notamment
+   lorsque des intelligences artificielles (IA) dépasseraient les humains
+   qui les ont créées. Très critiquée pour son manque de solidité
+--
+   milliards de données sur les citoyens, et bientôt plus encore via les
+   futures applications dotées d'IA analysant tous nos comportements pour
+   mieux nous assister. « Et tout ça en se cachant derrière un
+--
+     * 9. En septembre 2017, Google, Facebook, Amazon, Microsoft et IBM
+       ont créé le « Partnership on artificial intelligence to benefit
+       people and society » pour définir de « bonnes pratiques »,
+--
+     * 10. Résolution du 16 février 2017 et avis du Comité économique et
+       social européen sur l’intelligence artificielle adopté le 31 mai
+       2017.
+--
+
+   Éthique Intelligence artificielle deep learning Réseau de neurones Tay
+   glove logique déontique Voiture autonome Biais Responsabilité boîte

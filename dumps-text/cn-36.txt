@@ -1,446 +1,2751 @@
-   检测到您已登录华为云国际站账号，为了您更好的体验，建议您访问国际站服务网站
-   https://www.huaweicloud.com/intl/zh-cn
-
-   不再显示此消息
-
-     中国站
-   中国站
-     * 简体中文
-
-   International
-     * English
-     * Bahasa Indonesia
-     * Español
-     * Português
-     * Türkçe
-     * عربي
-     * ไทย
-     * 简体中文
-     * 日本語
-
-   Europe
-     * English
-     * Deutsch
-     * Español
-
-     华为云App
-
-   [logo.svg]
-     * 活动
-     * 产品
-     * 解决方案
-     * 定价
-     * 云商店
-     * 合作伙伴
-     * 开发�
-     * 支持与服务
-     * 了解华为云
-
-   ____________________
-   (BUTTON)
-   清空最近搜索
-   热门搜索
-     * 云耀云服务器L实例
-     * 免费试用
-     * 云服务器
-     * 域名
-     * 云速建站
-
-   “”的所有结果
-   ____________________
-     *
-     *
-     * 备案
-     * 控制台
-     *
-          + 账号中心
-          + 费用与成本
-          +
-          + 待支付订单
-          + 待续费产品
-          + 未读消息
-          +
-          + 工单管理
-          + 管理控制台
-          +
-          + 注册 登录
-     * 登录
-     * 注册
-     * [shopping-cart.png] 购物车
-     * [shopping-cart.png]
-       admin
-          + 帐号中心
-            未实名认证
-            已实名认证
-          + 费用与成本
-          +
-          + 待支付订单0
-          + 待续费产品0
-          + 未读消息0
-          +
-          + 伙伴中心
-          + 云商店买家中心
-          + 云商店卖家中心
-          +
-          + 工单管理
-          +
-          + 开发者个人中心
-          +
-          + 个性化推荐管理
-          + 管理控制台
-          +
-          + admin 退出登录
-
-   ____________________
-   取消
-   清空最近搜索
-   热门搜索
-     * 云耀云服务器L实例
-     * 免费试用
-     * 云服务器
-     * 域名
-     * 云速建站
+跳到内容
+[ ] 主菜单
+主菜单
+移至侧栏隐藏
+导航
+
+  • 首页
+  • 分类索引
+  • 特色内容
+  • 新闻动态
+  • 最近更改
+  • 随机条目
+  • 资助维基百科
+
+帮助
+
+  • 帮助
+  • 维基社群
+  • 方针与指引
+  • 互助客栈
+  • 知识问答
+  • 字词转换
+  • IRC即时聊天
+  • 联络我们
+  • 关于维基百科
+
+语言
+语言链接位于页面顶部，标题的另一侧。
+[wikip] 维基百科自由的百科全书
+搜索
+[                    ]
+搜索
+
+  • 创建账号
+  • 登录
+
+[ ] 个人工具
+
+  • 创建账号
+  • 登录
+
+未登录编辑者的页面了解详情
+
+  • 贡献
+  • 讨论
+
+目录
+
+移至侧栏隐藏
+
+  •  
+    序言
+  •  
+    1概论
+  •  
+    2发展史
+  •  
+    3研究课题
+    切换研究课题小节
+      □  
+        3.1演绎、推理和解决问题
+      □  
+        3.2知识表示法
+      □  
+        3.3规划
+      □  
+        3.4机器学习
+      □  
+        3.5自然语言处理
+      □  
+        3.6运动和控制
+      □  
+        3.7知觉
+      □  
+        3.8社交
+      □  
+        3.9创造力
+      □  
+        3.10伦理管理
+      □  
+        3.11经济冲击
+      □  
+        3.12AI对人类的威胁
+          ☆  
+            3.12.1悲观学派
+          ☆  
+            3.12.2乐观学派
+      □  
+        3.13AI与管理
+  •  
+    4强人工智能和弱人工智能
+    切换强人工智能和弱人工智能小节
+      □  
+        4.1强人工智能
+      □  
+        4.2弱人工智能
+      □  
+        4.3对强人工智能的哲学争论
+  •  
+    5研究方法
+    切换研究方法小节
+      □  
+        5.1控制论与大脑模拟
+      □  
+        5.2符号处理
+      □  
+        5.3子符号方法
+      □  
+        5.4统计学方法
+      □  
+        5.5集成方法
+  •  
+    6基本应用
+    切换基本应用小节
+      □  
+        6.1感知能力（Perception）
+      □  
+        6.2认知能力（Cognition）
+      □  
+        6.3创造力（Creativity）
+      □  
+        6.4智能（Wisdom）
+  •  
+    7实际应用
+  •  
+    8学科范畴
+    切换学科范畴小节
+      □  
+        8.1涉及学科
+      □  
+        8.2研究范畴
+  •  
+    9电视剧
+  •  
+    10应用领域
+  •  
+    11滥用
+  •  
+    12参看
+  •  
+    13参考文献
+    切换参考文献小节
+      □  
+        13.1引用
+      □  
+        13.2来源
+  •  
+    14扩展阅读
+  •  
+    15外部链接
+
+[ ] 切换目录
+
+人工智能
+
+[ ] 146种语言
+
+  • Afrikaans
+  • Alemannisch
+  • አማርኛ
+  • Aragonés
+  • العربية
+  • الدارجة
+  • مصرى
+  • অসমীয়া
+  • Asturianu
+  • Azərbaycanca
+  • تۆرکجه
+  • Башҡортса
+  • Boarisch
+  • Žemaitėška
+  • Bikol Central
+  • Беларуская
+  • Беларуская (тарашкевіца)
+  • Български
+  • বাংলা
+  • བོད་ཡིག
+  • Brezhoneg
+  • Bosanski
+  • Буряад
+  • Català
+  • کوردی
+  • Qırımtatarca
+  • Čeština
+  • Чӑвашла
+  • Cymraeg
+  • Dansk
+  • Deutsch
+  • Zazaki
+  • Ελληνικά
+  • English
+  • Esperanto
+  • Español
+  • Eesti
+  • Euskara
+  • Estremeñu
+  • فارسی
+  • Suomi
+  • Võro
+  • Fɔ̀ngbè
+  • Français
+  • Nordfriisk
+  • Furlan
+  • Gaeilge
+  • 贛語
+  • Kriyòl gwiyannen
+  • Gàidhlig
+  • Galego
+  • Avañe'ẽ
+  • Gaelg
+  • עברית
+  • हिन्दी
+  • Hrvatski
+  • Kreyòl ayisyen
+  • Magyar
+  • Հայերեն
+  • Արեւմտահայերէն
+  • Interlingua
+  • Bahasa Indonesia
+  • Interlingue
+  • Igbo
+  • Ilokano
+  • Ido
+  • Íslenska
+  • Italiano
+  • 日本語
+  • Patois
+  • La .lojban.
+  • Jawa
+  • ქართული
+  • Қазақша
+  • ಕನ್ನಡ
+  • 한국어
+  • Ripoarisch
+  • Кыргызча
+  • Latina
+  • Limburgs
+  • Lombard
+  • Lietuvių
+  • Latviešu
+  • Madhurâ
+  • Malagasy
+  • Minangkabau
+  • Македонски
+  • മലയാളം
+  • Монгол
+  • मराठी
+  • Bahasa Melayu
+  • Malti
+  • မြန်မာဘာသာ
+  • Nedersaksies
+  • नेपाली
+  • नेपाल भाषा
+  • Nederlands
+  • Norsk nynorsk
+  • Norsk bokmål
+  • Occitan
+  • ଓଡ଼ିଆ
+  • ਪੰਜਾਬੀ
+  • Polski
+  • پنجابی
+  • پښتو
+  • Português
+  • Runa Simi
+  • Română
+  • Русский
+  • Русиньскый
+  • Саха тыла
+  • Scots
+  • سنڌي
+  • Srpskohrvatski / српскохрватски
+  • සිංහල
+  • Simple English
+  • Slovenčina
+  • Slovenščina
+  • Shqip
+  • Српски / srpski
+  • Svenska
+  • Kiswahili
+  • Ślůnski
+  • தமிழ்
+  • తెలుగు
+  • Тоҷикӣ
+  • ไทย
+  • Türkmençe
+  • Tagalog
+  • Türkçe
+  • Татарча / tatarça
+  • Reo tahiti
+  • ئۇيغۇرچە / Uyghurche
+  • Українська
+  • اردو
+  • Oʻzbekcha / ўзбекча
+  • Vèneto
+  • Tiếng Việt
+  • Walon
+  • Winaray
+  • 吴语
+  • მარგალური
+  • ייִדיש
+  • Bân-lâm-gú
+  • 粵語
+  • IsiZulu
+
+编辑链接
+
+  • 条目
+  • 讨论
+
+[ ] 大陆简体
+
+  • 不转换
+  • 简体
+  • 繁體
+  • 大陆简体
+  • 香港繁體
+  • 澳門繁體
+  • 大马简体
+  • 新加坡简体
+  • 臺灣正體
+
+  • 阅读
+  • 编辑
+  • 查看历史
+
+[ ] 工具
+工具
+移至侧栏隐藏
+操作
+
+  • 阅读
+  • 编辑
+  • 查看历史
+
+常规
+
+  • 链入页面
+  • 相关更改
+  • 上传文件
+  • 特殊页面
+  • 固定链接
+  • 页面信息
+  • 引用本页
+  • 获取短URL
+  • 维基数据项目
+
+打印/导出
+
+  • 下载为PDF
+  • 可打印版
+
+在其他项目中
+
+  • 维基共享资源
+  • 维基语录
+
+本页使用了标题或全文手工转换
+维基百科，自由的百科全书
+●  此条目介绍的是人工智能。关于其他用法，请见“AI”。
+
+      本条目存在以下问题，请协助改善本条目或在讨论页针对议题发表看法。
+
+           此条目翻译品质不佳。 (2018年9月21日)
+      翻译 翻译者可能不熟悉中文或原文语言，也可能使用了机器翻译。请协助翻译本条
+      标记 目或重新编写，并注意避免翻译腔的问题。明显拙劣的翻译请改挂{{d|G13}}
+           提交删除。
+
+[40p]       此条目可能包含原创研究。
+      [40p] 请协助补充参考资料、添加相关内联标签和删除原创研究内容以改善这篇条
+            目。详细情况请参见讨论页。
+
+              此条目可参照英语维基百科相应条目来扩充。 (2023年11月1日)
+      [50px-] 若您熟悉来源语言和主题，请协助参考外语维基百科扩充条目。请勿直接
+              提交机械翻译，也不要翻译不可靠、低品质内容。依版权协议，译文需在
+              编辑摘要注明来源，或于讨论页顶部标记{{Translated page}}标签。    
+
+  “人工智能”的各地常用别名
+
+[250px-Anatomy-1751201_1280]
+
+中国大陆  人工智能
+
+  台湾    人工智慧
+
+  港澳    人工智能
+
+  马新    人工智能、人工智慧
+
+  日韩    人工知能
+
+  越南    智慧人造
+
+                               人工智能系列内容
+[150px-Artificial_]
+主要目标
+
+  • 知识表示
+  • 自动规划（英语：Automated planning and scheduling）
+  • 机器学习
+  • 语言处理
+  • 电脑视觉
+  • 机器人学
+  • 强人工智能
+  • 弱人工智能
+  • 生成式人工智能
+
+实现方式
+
+  • 符号人工智能
+  • 深度学习
+  • 贝氏网络
+  • 进化算法
+  • 混合智能系统
+
+人工智能哲学
+
+  • 伦理（英语：Ethics of artificial intelligence）
+  • 人工智能安全（英语：AI safety）
+      □ 幻觉
+      □ 存在风险（英语：Existential risk from artificial general intelligence）
+  • 图灵测试
+  • 中文房间
+  • 可解释人工智能
+  • 友好的人工智能（英语：Friendly artificial intelligence）
+  • 人工智能监管（英语：Regulation of artificial intelligence）
+
+历史
+
+  • 时间轴（英语：Timeline of artificial intelligence）
+  • 发展（英语：Progress in artificial intelligence）
+  • 人工智能低谷
+  • 人工智能热潮
+
+技术
+
+  • 应用（英语：Applications of artificial intelligence）
+  • 项目（英语：List of artificial intelligence projects）
+  • 编程语言（英语：List of programming languages for artificial intelligence）
+
+术语
+
+  • 术语（英语：Glossary of artificial intelligence）
+
+  • 查
+  • 论
+  • 编
+
+人工智能（英语：artificial intelligence，缩写为AI）亦称机器智能，指由人制造出来
+的机器所表现出来的智能。通常人工智能是指通过普通计算机程序来呈现人类智能的技术
+。该词也指出研究这样的智能系统是否能够实现，以及如何实现。同时，通过医学、神经
+科学、机器人学及统计学等的进步，常态预测则认为人类的很多职业也逐渐被其取代。^
+[1]^[2]
+
+人工智能于一般教材中的定义领域是“智能主体（intelligent agent）的研究与设计”^[3]
+，智能主体指一个可以观察周遭环境并作出行动以达致目标的系统^[4]。约翰·麦卡锡于
+1955年的定义是^[5]“制造智能机器的科学与工程”^[6]。安德烈亚斯·卡普兰和迈克尔·海
+恩莱因（Michael Haenlein）将人工智能定义为“系统正确解释外部数据，从这些数据中学
+习，并利用这些知识通过灵活适应实现特定目标和任务的能力”。^[7] 人工智能可以定义
+为模仿人类与人类思维相关的认知功能的机器或计算机，如学习和解决问题。人工智能是
+计算机科学的一个分支，它感知其环境并采取行动，最大限度地提高其成功机会。此外，
+人工智能能够从过去的经验中学习，做出合理的决策，并快速回应。因此，人工智能研究
+人员的科学目标是通过构建具有象征意义的推理或推理的计算机程序来理解智能。人工智
+能的四个主要组成部分是：
+
+  • 专家系统：作为专家处理正在审查的情况，并产生预期或预期的绩效。
+  • 启发式问题解决：包括评估小范围的解决方案，并可能涉及一些猜测，以找到接近最
+    佳的解决方案。
+  • 自然语言处理：在自然语言中实现人机之间的交流。
+  • 计算机视觉：自动生成识别形状和功能的能力 ^[8]。
+
+人工智能的研究是高度技术性和专业的，各分支领域都是深入且各不相通的，因而涉及范
+围极广^[9]。人工智能的研究可以分为几个技术问题。其分支领域主要集中在解决具体问
+题，其中之一是，如何使用各种不同的工具完成特定的应用程序。
+
+AI的核心问题包括建构能够跟人类似甚至超卓的推理、知识、计划、学习、交流、感知、
+移动、移物、使用工具和操控机械的能力等^[10]。通用人工智能（GAI）目前仍然是该领
+域的长远目标^[11]。目前弱人工智能已经有初步成果，甚至在一些影像识别、语言分析、
+棋类游戏等等单方面的能力达到了超越人类的水平，而且人工智能的通用性代表着，能解
+决上述的问题的是一样的AI程序，无须重新开发算法就可以直接使用现有的AI完成任务，
+与人类的处理能力相同，但达到具备思考能力的统合强人工智能还需要时间研究，比较流
+行的方法包括统计方法，计算智能和传统意义的AI。目前有大量的工具应用了人工智能，
+其中包括搜索和数学优化、逻辑推演。而基于仿生学、认知心理学，以及基于概率论和经
+济学的算法等等也在逐步探索当中。
+
+概论[编辑]
+
+人工智能的定义可以分为两部分，即“人工”和“智能”。“人工”即由人设计，为人创造、制
+造。
+
+关于什么是“智能”，较有争议性。这涉及到其它诸如意识、自我、心灵，包括无意识的精
+神等等问题。人唯一了解的智能是人本身的智能，这是普遍认同的观点。但是我们对我们
+自身智能的理解都非常有限，对构成人的智能必要元素的了解也很有限，所以就很难定义
+什么是“人工”制造的“智能”。因此人工智能的研究往往涉及对人智能本身的研究。其它关
+于动物或其它人造系统的智能也普遍被认为是人工智能相关的研究课题。
+
+人工智能目前在电脑领域内，得到了愈加广泛的发挥。并在机器人、经济政治决策、控制
+系统、仿真系统中得到应用。
+
+人工智能也广泛应用于许多不同领域。机器人经营餐馆和商店并修复城市基础设施。人工
+智能管理运输系统和自动驾驶车辆。智能平台管理多个城市领域，例如垃圾收集和空气质
+量监测。事实上，城市人工智能体现在城市空间、基础设施和技术中，将我们的城市变成
+了无人监督的自治实体。可以方便地实时实现数字化支持的智能响应服务。许多城市现在
+主动利用大数据和人工智能，通过为我们的基础设施提供更好的能源、计算能力和连接性
+来提高经济回报^[12]。
+
+最近，由于人工智能减少了行政成本和时间，许多政府开始将人工智能用于各种公共服务
+。例如，移民流程的机器人自动化减少了处理时间并提高了效率。人工智能为地方政府服
+务带来技术突破。人工智能代理协助城市规划者基于目标导向的蒙特卡罗树搜索进行场景
+规划。目标推理人工智能代理提供最佳的土地利用解决方案，帮助我们制定民主的城市土
+地利用规划。人工智能利用在线数据来监控和修改环境威胁政策。在2019 年水危机期间，
+潜在狄利克雷分配方法确定了Twitter (X) 中讨论最多的主题，这是一种朴素的推文分类
+方法，对干旱的影响和原因、政府响应和潜在解决方案等主题进行了分类。人工智能工具
+与司法部门的人类法官相辅相成，提供客观、一致的风险评估^[13]。
+
+发展史[编辑]
+
+主条目：人工智能史
+
+     20世纪  20世纪  20世纪60年                     20世纪80  20世纪 21世  21世
+年代 40年代  50年代      代         20世纪70年代      年代    90年代 纪00  纪10
+                                                                     年代  年代
+计算 1945 电 1957
+ 机  脑（    FORTRAN
+     ENIAC） 语言
+             1953 博
+人工         弈论                1977 知识工程（英  1982 第五 1991   2007
+智能         1956 达             语：Knowledge      代电脑计  人工神 深度
+研究         特矛斯              engineering）宣言  划开始    经网络 学习
+             会议
+人工                 1960 LISP语
+智能                 言          1973 PROLOG语言
+语言
+知识                             1973 生产系统
+表示                             1976 框架理论
+                     1965 
+专家                 DENDRAL（英 1975 MYCIN（英语： 1980 Xcon
+系统                 语：Dendral Mycin）
+                     ）
+
+研究课题[编辑]
+
+目前人工智能的研究方向已经被分成几个子领域，研究人员希望一个人工智能系统应该具
+有某些特定能力，以下将这些能力列出并说明。^[10]
+
+演绎、推理和解决问题[编辑]
+
+早期的人工智能研究人员直接模仿人类进行逐步的推理，就像是玩棋盘游戏或进行逻辑推
+理时人类的思考模式。^[14]到了1980和1990年代，利用概率和经济学上的概念，人工智能
+研究还发展了非常成功的方法处理不确定或不完整的信息。^[15]
+
+对于困难的问题，有可能需要大量的运算资源，也就是发生了“可能组合爆增”：当问题超
+过一定的规模时，电脑会需要天文数量级的存储器或是运算时间。寻找更有效的算法是优
+先的人工智能研究项目。^[16]
+
+人类解决问题的模式通常是用最快捷、直观的判断，而不是有意识的、一步一步的推导，
+早期人工智能研究通常使用逐步推导的方式。^[17]人工智能研究已经于这种“次表征性的”
+解决问题方法获取进展：实体化Agent研究强调感知运动的重要性。神经网络研究试图以模
+拟人类和动物的大脑结构重现这种技能。
+
+知识表示法[编辑]
+
+[220px-GFO_taxonomy_tree]本体论将知识表示为一个领域内的一组概念以及这些概念之间
+的关系。
+主条目：知识表示和常识知识库
+
+知识表示是人工智能领域的核心研究问题之一，它的目标是让机器存储相应的知识，并且
+能够按照某种规则推理演绎得到新的知识。有许多需要解决的问题需要大量的对世界的知
+识,这些知识包括事先存储的先验知识和通过智能推理得到的知识。事先存储的先验知识指
+：人类通过某种方式告诉给机器的知识。通过智能推理得到的知识指：结合先验知识和某
+种特定的推理规则（逻辑推理）得到的知识。首先，先验知识可以指描述目标，特征，种
+类及物件之间的关系的知识，也可以描述事件，时间，状态，原因和结果，以及任何知识
+你想要机器存储的。比如：今天没有太阳，没有太阳就是阴天。那么以命题逻辑语言，这
+些知识可以被表示为：今天-->没有太阳，没有太阳-->阴天。这些知识是先验知识，那么
+通过推理可以得到新知识：今天-->阴天。由此例子可以看出，先验知识的正确性非常重要
+，这个例子中没有太阳就是阴天，这个命题是不严谨的、比较笼统的，因为没有太阳可能
+是下雨，也可能下雪。另外如果人工智能能看出太阳，除了该如何判断的这件问题，在这
+个前提之下，应该也能判断出阴天与晴天的差异。逻辑命题表示在知识表示中非常重要，
+逻辑推理规则是目前主要推理规则。可以在机器中用逻辑符号定义每一个逻辑命题，然后
+再让机器存储相应的逻辑推理规则，那么自然而然机器便可进行推理。目前知识表达有许
+多困境尚无法解决，比如：建立一个完备的知识库几乎不可能，所以知识库的资源受到限
+制；先验知识的正确性需要进行检验，而且先验知识有时候不一定是只有对或者错两种选
+择。
+
+规划[编辑]
+
+智能Agent必须能够制定目标和实现这些目标。^[18]他们需要一种方法来建立一个可预测
+的世界模型（将整个世界状态用数学模型表现出来，并能预测它们的行为将如何改变这个
+世界），这样就可以选择功效最大的行为。^[19] 在传统的规划问题中，智能Agent被假定
+它是世界中唯一具有影响力的，所以它要做出什么行为是已经确定的。^[20]但是，如果事
+实并非如此，它必须定期检查世界模型的状态是否和自己的预测相符合。如果不符合，它
+必须改变它的计划。因此智能代理必须具有在不确定结果的状态下推理的能力。^[21]在多
+Agent中，多个Agent规划以合作和竞争的方式去完成一定的目标，使用演化算法和群体智
+能可以达成一个整体的突现行为目标。^[22]
+
+机器学习[编辑]
+
+主条目：机器学习
+
+机器学习的主要目的是为了让机器从用户和输入数据等处获得知识，从而让机器自动地去
+判断和输出相应的结果。这一方法可以帮助解决更多问题、减少错误，提高解决问题的效
+率。对于人工智能来说，机器学习从一开始就很重要。1956年，在最初的达特茅斯夏季会
+议上，雷蒙德·索洛莫诺夫^[来源请求]写了一篇关于不监视的概率性机器学习：一个归纳
+推理的机器。
+
+机器学习的方法各种各样，主要分为监督学习和非监督学习两大类。监督学习指事先给定
+机器一些训练样本并且告诉样本的类别，然后根据这些样本的类别进行训练，提取出这些
+样本的共同属性或者训练一个分类器，等新来一个样本，则通过训练得到的共同属性或者
+分类器进行判断该样本的类别。监督学习根据输出结果的离散性和连续性，分为分类和回
+归两类。非监督学习是不给定训练样本，直接给定一些样本和一些规则，让机器自动根据
+一些规则进行分类。无论哪种学习方法都会进行误差分析，从而知道所提的方法在理论上
+是否误差有上限。
+
+自然语言处理[编辑]
+
+主条目：自然语言处理
+
+自然语言处理探讨如何处理及运用自然语言，自然语言认知则是指让电脑“懂”人类的语言
+。自然语言生成系统把计算机数据转化为自然语言。自然语言理解系统把自然语言转化为
+计算机程序更易于处理的形式。
+
+运动和控制[编辑]
+
+主条目：机器人学
+
+知觉[编辑]
+
+主条目：机器感知、计算机视觉和语音识别
+
+机器感知^[23]是指能够使用传感器所输入的资料（如照相机、麦克风、声纳以及其他的特
+殊传感器）然后推断世界的状态。电脑视觉^[24]能够分析影像输入。另外还有语音识别^
+[25]、人脸识别和物体识别。^[26]
+
+社交[编辑]
+
+主条目：情感计算
+[220px-Kismet_robot_at_MIT_]Kismet，一个具有表情等社交能力的机器人^[27]
+
+情感和社交技能对于一个智能agent是很重要的。首先，通过了解他们的动机和情感状态，
+代理人能够预测别人的行动（这涉及要素博弈论、决策理论以及能够塑造人的情感和情绪
+感知能力检测）。此外，为了良好的人机交互，智能代理人也需要表现出情绪来。至少它
+必须出现礼貌地和人类打交道。至少，它本身应该有正常的情绪。
+
+创造力[编辑]
+
+一个人工智能的子领域，代表了理论（从哲学和心理学的角度）和实际（通过特定的实现
+产生的系统的输出是可以考虑的创意，或系统识别和评估创造力）所定义的创造力。相关
+领域的研究包括了人工直觉和人工想像。
+
+伦理管理[编辑]
+
+史蒂芬·霍金、比尔盖茨、埃隆·马斯克、Jaan Tallinn以及Nick Bostrom等人都对于人工
+智能技术的未来公开表示忧心^[28]，人工智能若在许多方面超越人类智能水平的智能、不
+断更新、自我提升，进而获取控制管理权，人类是否有足够的能力及时停止人工智能领域
+的“军备竞赛”，能否保有最高掌控权，现有事实是：机器常失控导致人员伤亡，这样的情
+况是否会更加扩大规模出现，历史显然无法给出可靠的乐观答案。特斯拉电动车马斯克（
+Elon Musk）在麻省理工学院（MIT）航空航天部门百年纪念研讨会上称人工智能是“召唤恶
+魔”行为，英国发明家Clive Sinclair认为一旦开始制造抵抗人类和超越人类的智能机器，
+人类可能很难生存，盖茨同意马斯克和其它人所言，且不知道为何有些人不担忧这个问题
+。^[29]
+
+DeepMind的人工智能（AI）系统在2016年“AlphaGo”对战韩国棋王李世乭获胜，开发商表示
+在内部设立伦理委员会，针对人工智能的应用制定政策，防范人工智能沦为犯罪开发者。^
+[30]
+
+科技进步，人工智能科技产生“自主武器”军备竞赛已悄悄展开，英国、以色列与挪威，都
+已部署自主导弹与无人操控的无人机，具“射后不理”（fire-and-forget）能力的导弹，多
+枚导弹还可互相沟通，分享找到攻击目标。这些武器还未被大量投入，但很快就会出现在
+战场上，且并非使用人类所设计的程序，而是完全利用机器自行决策。霍金等人在英国独
+立报发表文章警告未来人工智能可能会比人类金融市场、科学家、人类领袖更能操纵人心
+、甚至研发出人们无法理解的武器。专家恐发展到无法控制的局面，援引联合国禁止研发
+某些特定武器的“特定常规武器公约”加以限制。^[31]新南威尔士大学人工智能的托比·沃
+尔什（英语：Toby_Walsh）教授认为这是一种欺骗，因为机器无区别战敌和平民的技术。^
+[32]
+
+经济冲击[编辑]
+
+CNN财经网数字媒体未来学家Amy Webb（英语：Amy Webb）、美国在线^[33]等纷纷预测一
+些即将被机器人取代的职业，日本野村综合研究所也与英国牛津大学的研究学者共同调查
+指出，10至20年后，日本有49%的职业（235种职业）可能会被机械和人工智能取代而消失
+，直接影响约达2500万人^[34]，例如：超市店员、一般事务员、计程车司机、收费站运营
+商和收银员、市场营销人员、客服人员、制造业工人、金融中间人和分析师、新闻记者、
+电话公司职员、麻醉师、士兵和保安、律师、医生、软件开发者和操盘手、股票交易员等
+等高薪酬的脑力职业将最先受到冲击^[35]。
+
+2017年6月份马云在美国底特律举行“链接世界”（Gateway 17）产业大会，会上提出人工智
+能可能导致第三次世界大战，因为前两次产业革命都导致两次大战，战争原因并非这些创
+新发明本身，而是发明对社会上许多人的生活方式冲击处理不当，新科技在社会上产生新
+工作也取代旧工作，产生了新的输家和赢家，若是输家的人数太多将造成一股社会不稳的
+能量而这股能量被有心人利用可能导致各种事件。他认为各国应该强制订定规定AI机器只
+能用于人类不能做的工作，避免短时间大量人类被取代的失业大潮，但马云没有提出这种
+世界性规定将如何实现并确保遵守的细节方案。^[36]
+
+数据科学和人工智能被哈佛商业评论称为《二十一世纪最Sexy的职业》^[37]，人工智能需
+求量大，鼓励了不少大学诸如伯克利大学专门成立数据科学系。硅谷和纽约为主的《The
+Data Incubator（英语：The Data Incubator）》公司于2012年成立，焦点是数据科学，
+大数据，和人工智能企业培训，提供国际大数据培训服务。
+
+AI对人类的威胁[编辑]
+
+参见：源自人工智能的生存危机（英语：Existential risk from artificial general
+intelligence）、机器人叛变和人工智能对齐
+
+此议题目前分成两个学派：
+
+悲观学派[编辑]
+
+此学派的代表是天文物理学家史蒂芬·霍金，以及特斯拉首席执行官伊隆·马斯克。霍金认
+为AI对人类将来有很大的威胁，主要有以下理由：
+
+ 1. AI会遵循科技发展的加速度理论。
+ 2. AI可能会有自我改造创新的能力。
+ 3. AI进步的速度远远超过人类。
+ 4. 人类会有被灭绝的危机。
+
+乐观学派[编辑]
+
+主要是Google、Facebook等AI的主要技术发展者，他们对AI持乐观看法的理由：
+
+ 1. 人类只要关掉电源就能除掉AI机器人。
+ 2. 任何的科技都会有瓶颈，摩尔定律到目前也遇到相当的瓶颈，AI科技也不会无限成长
+    ，依然存在许多难以克服的瓶颈。
+ 3. 依目前的研究方向，电脑无法突变、苏醒、产生自我意志，AI也不可能具有创意与智
+    能、同情心与审美等这方面的能力。
+
+AI与管理[编辑]
+
+AI逐渐普及后，将会在企业管理中扮演很重要的角色，而人类的管理者应如何适度的调整
+自己的工作职能，有以下几点建议：
+
+ 1. 放弃行政工作
+ 2. 退守分析预测的领域而强化自己的综合判断力。
+ 3. 把AI当作同事，形成协同合作的团队。
+ 4. 多琢磨在创造力以及各种流程架构设计师角色。
+ 5. 强化自己人际网络、沟通协调、谈判上的能力。
+ 6. 培养自身领导能力，能有效地带领一个士气高、团结及凝结力高的工作伙伴。
+
+^[38]
+
+强人工智能和弱人工智能[编辑]
+
+人工智能的一个比较流行的定义，也是该领域较早的定义，是由当时麻省理工学院的约翰·
+麦卡锡于1956年的达特矛斯会议上提出的：人工智能就是要让机器的行为看起来就像是人
+所表现出的智能行为一样。但是这个定义似乎忽略了强人工智能的可能性（见下）。另一
+个定义指人工智能是人造机器所表现出来的智能。总体来讲，目前对人工智能的定义大多
+可划分为四类，即机器“像人一样思考”、“像人一样行动”、“理性地思考”和“理性地行动”
+。这里“行动”应广义地理解为采取行动，或制定行动的决策，而不是肢体动作。
+
+强人工智能[编辑]
+
+主条目：强人工智能
+
+强人工智能观点认为“有可能”制造出“真正”能推理和解决问题的智能机器，并且，这样的
+机器将被认为是具有知觉、有自我意识的。强人工智能可以有两类：
+
+  • 人类的人工智能，即机器的思考和推理就像人的思维一样。
+  • 非人类的人工智能，即机器产生了和人完全不一样的知觉和意识，使用和人完全不一
+    样的推理方式。
+
+弱人工智能[编辑]
+
+主条目：弱人工智能
+
+弱人工智能观点认为“不可能”制造出能“真正”地推理和解决问题的智能机器，这些机器只
+不过“看起来”像是智能的，但是并不真正拥有智能，也不会有自主意识。
+
+弱人工智能是对比强人工智能才出现的，因为人工智能的研究一度处于停滞不前的状态下
+，直到人工神经网络有了强大的运算能力加以模拟后，才开始改变并大幅超前。但人工智
+能研究者不一定同意弱人工智能，也不一定在乎或者了解强人工智能和弱人工智能的内容
+与差别，对定义争论不休。
+
+就当下的人工智能研究领域来看，研究者已大量造出“看起来”像是智能的机器，获取相当
+丰硕的理论上和实质上的成果，如2009年康乃尔大学教授Hod Lipson 和其博士研究生
+Michael Schmidt 研发出的 Eureqa计算机程序，只要给予一些资料，这计算机程序自己只
+用几十个小时计算就推论出牛顿花费多年研究才发现的牛顿力学公式，等于只用几十个小
+时就自己重新发现牛顿力学公式，这计算机程序也能用来研究很多其他领域的科学问题上
+。这些所谓的弱人工智能在神经网络发展下已经有巨大进步，但对于要如何集成成强人工
+智能，现在还没有明确定论。
+
+对强人工智能的哲学争论[编辑]
+
+主条目：人工智能哲学、图灵测试、物理符号系统、皇帝新脑、德雷福斯对人工智能的看
+法（英语：Hubert Dreyfus's views on artificial intelligence）、AI效应（英语：AI
+effect）
+
+“强人工智能”一词最初是约翰·瑟尔针对电脑和其它信息处理机器创造的，其定义为：
+
+“强人工智能观点认为计算机不仅是用来研究人的思维的一种工具；相反，只要运行适当的
+程序，计算机本身就是有思维的。”（J Searle in Minds Brains and Programs. The
+Behavioral and Brain Sciences, vol. 3, 1980）
+
+关于强人工智能的争论，不同于更广义的一元论和二元论的争论。其争论要点是：如果一
+台机器的唯一工作原理就是转换编码数据，那么这台机器是不是有思维的？希尔勒认为这
+是不可能的。他举了个中文房间的例子来说明，如果机器仅仅是转换数据，而数据本身是
+对某些事情的一种编码表现，那么在不理解这一编码和这实际事情之间的对应关系的前提
+下，机器不可能对其处理的数据有任何理解。基于这一论点，希尔勒认为即使有机器通过
+了图灵测试，也不一定说明机器就真的像人一样有自我思维和自由意识。
+
+也有哲学家持不同的观点。丹尼尔·丹尼特在其著作《意识的解释（英语：Consciousness
+Explained）》（Consciousness Explained）里认为，人也不过是一台有灵魂的机器而已
+，为什么我们认为：“人可以有智能，而普通机器就不能”呢？他认为像上述的数据转换机
+器是有可能有思维和意识的。
+
+有的哲学家认为如果弱人工智能是可实现的，那么强人工智能也是可实现的。比如西蒙·布
+莱克本（英语：Simon Blackburn）（Simon Blackburn）在其哲学入门教材Think里说道，
+一个人的看起来是“智能”的行动并不能真正说明这个人就真的是智能的。我永远不可能知
+道另一个人是否真的像我一样是智能的，还是说她／他仅仅是“看起来”是智能的。基于这
+个论点，既然弱人工智能认为可以令机器“看起来”像是智能的，那就不能完全否定这机器
+是真的有智能的。布莱克本认为这是一个主观认定的问题。
+
+需要指出的是，弱人工智能并非和强人工智能完全对立，也就是说，即使强人工智能是可
+能的，弱人工智能仍然是有意义的。至少，今日的计算机能做的事，像算术运算等，在一
+百多年前是被认为很需要智能的。并且，即使强人工智能被证明为可能的，也不代表强人
+工智能必定能被研制出来。
+
+研究方法[编辑]
+
+目前没有统一的原理或范式指导人工智能研究。许多问题上研究者都存在争论。^[39]
+
+其中几个长久以来仍没有结论的问题是：是否应从心理或神经方面模拟人工智能?或者像鸟
+类生物学对于航空工程一样，人类生物学对于人工智能研究是没有关系的？^[40]智能行为
+能否用简单的原则（如逻辑或优化）来描述？还是必须解决大量完全无关的问题？^[41]
+
+智能是否可以使用高级符号表达，如词和想法？还是需要“子符号”的处理？^[42] 约翰·豪
+格兰德（John Haugeland）提出了GOFAI（出色的老式人工智能）的概念，也提议人工智能
+应归类为synthetic intelligence（英语：synthetic intelligence），^[43]这个概念后
+来被某些非GOFAI研究者采纳。^[44]^[45]
+
+控制论与大脑模拟[编辑]
+
+主条目：控制论和计算神经科学
+
+20世纪40年代到50年代，许多研究者探索神经学、信息理论及控制论之间的联系。其中还
+造出一些使用电子网络构造的初步智能，如威廉·格雷·沃尔特（英语：William Grey
+Walter）的乌龟（turtle）和约翰霍普金斯野兽。
+
+这些研究者还经常在普林斯顿大学和英国的Ratio Club举行技术协会会议^[46]。直到1960
+，大部分人已经放弃这个方法，尽管在80年代再次提出这些原理。
+
+符号处理[编辑]
+
+主条目：符号人工智能
+
+当20世纪50年代，数字计算机研制成功，研究者开始探索人类智能是否能简化成符号处理
+。研究主要集中在卡内基梅隆大学，斯坦福大学和麻省理工学院，而各自有独立的研究风
+格。约翰·豪格兰德（John Haugeland）称这些方法为GOFAI（出色的老式人工智能）^[47]
+。60年代，符号方法在小型证明程序上模拟高级思考有很大的成就。基于控制论或人工神
+经网络的方法则置于次要^[48]。60－70年代的研究者确信符号方法最终可以成功创造强人
+工智能的机器，同时这也是他们的目标。
+
+  • 认知模拟：经济学家赫伯特·西蒙和艾伦·纽厄尔研究人类问题解决能力和尝试将其形
+    式化，同时他们为人工智能的基本原理打下基础，如认知科学、运筹学和经营科学。
+    他们的研究团队使用心理学实验的结果开发模拟人类解决问题方法的程序。这方法一
+    直在卡内基梅隆大学沿袭下来，并在80年代于Soar发展到高峰^[49]^[50]。
+
+  • 基于逻辑：不像艾伦·纽厄尔和赫伯特·西蒙，约翰·麦卡锡认为机器不需要模拟人类的
+    思想，而应尝试找到抽象推理和解决问题的本质，不管人们是否使用同样的算法^[40]
+    。他在斯坦福大学的实验室致力于使用形式化逻辑解决多种问题，包括知识表示，智
+    能规划和机器学习^[51]。致力于逻辑方法的还有爱丁堡大学，而促成欧洲的其他地方
+    开发编程语言Prolog和逻辑编程科学^[52]。
+
+  • “反逻辑”: 斯坦福大学的研究者（如马文·闵斯基和西摩尔·派普特）^[53]发现要解决
+    计算机视觉和自然语言处理的困难问题，需要专门的方案：他们主张不存在简单和通
+    用原理（如逻辑）能够达到所有的智能行为。罗杰·尚克描述他们的“反逻辑”方法为
+    “scruffy”^[41]。常识知识库（如道格拉斯·莱纳特的Cyc）就是“scruffy”AI的例子，
+    因为他们必须人工一次编写一个复杂的概念^[54]。
+
+  • 基于知识：大约在1970年出现大容量内存计算机，研究者分别以三个方法开始把知识
+    构造成应用软件^[55]。这场“知识革命”促成专家系统的开发与计划，这是第一个成功
+    的人工智能软件形式^[56]。“知识革命”同时让人们意识到许多简单的人工智能软件可
+    能需要大量的知识。
+
+子符号方法[编辑]
+
+1980年代符号人工智能停滞不前，很多人认为符号系统永远不可能模仿人类所有的认知过
+程，特别是感知、机器人、机器学习和模式识别。很多研究者开始关注子符号方法解决特
+定的人工智能问题^[42]。
+
+  • 自下而上、接口agent、嵌入环境（机器人）、行为主义、新式AI：机器人领域相关的
+    研究者，如罗德尼·布鲁克斯，否定符号人工智能而专注于机器人移动和求生等基本的
+    工程问题。^[57]他们的工作再次关注早期控制论研究者的观点，同时提出了在人工智
+    能中使用控制理论。这与认知科学领域中的表征感知论点是一致的:更高的智能需要个
+    体的表征（如移动，感知和形象）。
+
+  • 计算智能：1980年代中David Rumelhart（英语：David_Rumelhart）等再次提出神经
+    网络和联结主义^[58]。这和其他的子符号方法，如模糊控制和进化计算，都属于计算
+    智能学科研究范畴^[59]。
+
+统计学方法[编辑]
+
+1990年代，人工智能研究发展出复杂的数学工具来解决特定的分支问题。这些工具是真正
+的科学方法，即这些方法的结果是可测量的和可验证的，同时也是近期人工智能成功的原
+因。共享的数学语言也允许已有学科的合作（如数学，经济或运筹学）。Stuart
+J.Russell（英语：Stuart_J._Russell）和彼德·诺米格指出这些进步不亚于“革命”和
+“neats的成功”^[60]。有人批评这些技术太专注于特定的问题，而没有考虑长远的强人工
+智能目标^[61]。
+
+集成方法[编辑]
+
+  • 智能agent范式：智能agent是一个会感知环境并作出行动以达致目标的系统。最简单
+    的智能agent是那些可以解决特定问题的程序。更复杂的agent包括人类和人类组织（
+    如公司）。这些范式可以让研究者研究单独的问题和找出有用且可验证的方案，而不
+    需考虑单一的方法。一个解决特定问题的agent可以使用任何可行的方法-一些agent用
+    符号方法和逻辑方法，一些则是子符号神经网络或其他新的方法。范式同时也给研究
+    者提供一个与其他领域沟通的共同语言--如决策论和经济学（也使用abstract agents
+    的概念）。1990年代智能agent范式被广泛接受。^[4]
+
+  • 代理架构和认知架构：研究者设计出一些系统来处理多agent系统中智能agent之间的
+    相互作用。^[62]一个系统中包含符号和子符号部分的系统称为混合智能系统，而对这
+    种系统的研究则是人工智能系统集成。分级控制系统则给反应级别的子符号AI和最高
+    级别的传统符号AI提供桥梁，同时放宽了规划和世界建模的时间。
+
+基本应用[编辑]
+
+人工智能基本的应用可分为四大部分：
+
+感知能力（Perception）[编辑]
+
+指的是人类通过感官所收到环境的刺激，察觉消息的能力，简单的说就是人类五官的看、
+听、说、读、写等能力，学习人类的感知能力是AI目前主要的焦点之一，包括：
+
+  • “看”：电脑视觉（Computer Vision）、图像识别（Image Recognition）、人脸识别
+    （Face Recognition）、物件侦测（Object Detection）。
+  • “听”：语音识别（Sound Recognition）。
+  • “说”：语音生成（Sound Generation）、文本转换语音（Text-to-Speech）。
+  • “读”：自然语言处理（Natural Language Processing，NLP）、语音转换文本（
+    Speech-to-Text）。
+  • “写”：机器翻译（Machine Translation）、文本生成（Text Generation）
+
+认知能力（Cognition）[编辑]
+
+指的是人类通过学习、判断、分析等等心理活动来了解消息、获取知识的过程与能力，对
+人类认知的模仿与学习也是目前AI第二个焦点领域，主要包括：
+
+  • 分析识别能力：例如医学图像分析、产品推荐、垃圾邮件识别、法律案件分析、犯罪
+    侦测、信用风险分析、消费行为分析等。
+  • 预测能力：例如AI执行的预防性维修（Predictive Maintenance）、智能天然灾害预
+    测与防治。
+  • 判断能力：例如AI下围棋、自动驾驶车、健保诈欺判断、癌症判断等。
+  • 学习能力：例如机器学习、深度学习、增强式学习等等各种学习方法。
+
+创造力（Creativity）[编辑]
+
+指的是人类产生新思想，新发现，新方法，新理论，新设计，创造新事物的能力，它是结
+合知识、智力、能力、个性及潜意识等各种因素优化而成，这个领域目前人类仍遥遥领先
+AI，但AI也试着急起直追，主要领域包括：AI作曲、AI作诗、AI小说、AI绘画、AI设计等
+。
+
+智能（Wisdom）[编辑]
+
+指的是人类深刻了解人、事、物的真相，能探求真实真理、明辨是非，指导人类可以过着
+有意义生活的一种能力，这个领域牵涉人类自我意识、自我认知与价值观，是目前AI尚未
+触及的一部分，也是人类最难以模仿的一个领域。 ^[63]
+
+实际应用[编辑]
+
+机器视觉、指纹识别、人脸识别、视网膜识别、虹膜识别、掌纹识别、专家系统、自动规
+划、无人载具等。
+
+学科范畴[编辑]
+
+人工智能是一门边缘学科，属于自然科学和社会科学的交叉。
+
+涉及学科[编辑]
+
+  • 认知科学
+  • 数学及统计学
+  • 物理学
+  • 逻辑学
+  • 控制论及决定论
+  • 社会学
+  • 犯罪学及智能犯罪学
+
+研究范畴[编辑]
+
+  • 自然语言处理
+  • 知识表现
+  • 智能搜索
+  • 推理
+  • 规划
+  • 机器学习
+  • 增强式学习
+  • 知识获取
+  • 感知问题
+  • 模式识别
+  • 逻辑程序设计
+  • 软计算
+  • 不精确和不确定的管理
+  • 人工生命
+  • 人工神经网络
+  • 复杂系统
+  • 遗传算法
+  • 数据捕捞
+  • 模糊控制
+
+电视剧[编辑]
+
+  • TVB电视剧《智能愛人》
+  • ViuTV电视剧《IT狗》
+  • 东映特摄剧《假面骑士ZERO-ONE》
+
+应用领域[编辑]
+
+  • 智能控制
+  • 机器人学
+  • 自动化技术
+  • 语言和图像理解
+  • 遗传编程
+  • 法学信息系统
+  • 下棋
+  • 医学领域
+
+滥用[编辑]
+
+参见：深伪技术和深伪色情
+
+2019年6月，基于神经网络技术DeepNude软件面世，该软件可以将人物照片的衣着褪去，显
+示出裸体^[64]。随后，经该软件处理后的色情图片在网络上泛滥并引发争议，此后该软件
+在批评声中被下架^[64]。据美国网络安全公司Sensity统计，DeepNude已经产生了68万以
+上女性的假裸照，其中70%的原照片来自社交网络中的真实女性^[64]，而经DeepFake技术
+处理的视频在以每6个月翻一番的数量增长^[65]。截至2020年12月 (2020-12)^[update]，
+Sensity检测到的相关视频数量超过8.5万个^[65]。而恶用该技术则可能涉嫌违反《著作权
+法》等法律，日本警方便多次处理过使用人工智能技术去除色情影片中的马赛克^[66]、替
+换色情影片中女优容貌^[67]等相关案件。
+
+参看[编辑]
+
+  • [32]计算机科学主题
+  • icon机器人学主题
+
+  • 人工生命
+  • 机器学习
+  • 人工智能哲学
+  • 认知神经科学
+  • 强人工智能
+  • 超人工智能
+  • 图灵测试
+  • 合成智能
+  • 电脑围棋
+  • 电脑象棋
+  • 电脑将棋
+  • 恐怖谷理论
+  • 计算机科学
+  • 认知科学
+  • 意识
+  • 语义学
+  • 技术奇异点
+  • 集体智能
+  • 控制论
+  • 心理学
+  • 生物化学计算机（例：人脑）
+  • 国际人工智能联合会议
+  • 网络本体语言（OWL）
+  • 游戏树
+  • 自动驾驶汽车
+  • 电子世界争霸战
+  • 联结主义
+  • 人工智能法案
+  • 人工智能热潮
+
+参考文献[编辑]
+
+引用[编辑]
+
+ 1. ^ 人工智能（AI）造福社會同時也帶來威脅. [2021-02-17]. （原始内容存档于
+    2020-11-27）. 
+ 2. ^ 人工智能「搶飯碗」 2020年會計師將被AI取代. [2021-02-17]. （原始内容存档于
+    2020-11-27）. 
+ 3. ^ 针对研究智能代理的人工智能定义：
+      □ Poole, Mackworth & Goebel 1998，p. 1其中使用"计算智能"作为人工智能的同
+        义词.
+      □ Russell & Norvig 2003 (主张"理性智能体"的概念)其中写道"完整智能体的观念
+        现在已经在领域内被广泛接受" Russell & Norvig 2003，第55页Russell &
+        Norvig 2004，第43页.
+      □ Nilsson 1998
+ 4. ^ ^4.0 ^4.1 智能代理范式：
+      □ Russell & Norvig 2003，第27, 32–58, 968–972页
+      □ Poole, Mackworth & Goebel 1998，第7–21页
+      □ Luger & Stubblefield 2004，第235–240页
+    此处使用的定义--目的，动作，感知与环境出自Russell & Norvig (2003).
+ 5. ^ 尽管这点上存在争论（见Crevier (1993, p. 50)）, McCarthy在一个访谈中明确的
+    说"我想出了这个词" . （Skillings 2006）
+ 6. ^ McCarthy对人工智能的定义：
+      □ McCarthy 2007
+ 7. ^ Andreas Kaplan; Michael Haenlein (2019) Siri, Siri in my Hand, who's the
+    Fairest in the Land? On the Interpretations, Illustrations and Implications
+    of Artificial Intelligence, Business Horizons, 62(1), 15-25. [2018-11-17].
+    （原始内容存档于2018-11-21）. 
+ 8. ^ Yigitcanlar, T.et al. Artificial Intelligence Technologies and Related
+    Urban Planning and Development Concepts: How Are They Perceived and
+    Utilized in Australia? J. Open Innov. Technol. Mark. Complex. 2020, 6, 187.
+    https://doi.org/10.3390/joitmc6040187
+ 9. ^ Pamela McCorduck (2004, pp. 424) writes of "the rough shattering of AI in
+    subfields—vision, natural language, decision theory, genetic algorithms,
+    robotics ... and these with own sub-subfield—that would hardly have
+    anything to say to each other."
+10. ^ ^10.0 ^10.1 这些智能的特征出自以下教材：
+      □ Russell & Norvig 2003
+      □ Luger & Stubblefield 2004
+      □ Poole, Mackworth & Goebel 1998
+      □ Nilsson 1998
+11. ^ 强人工智能常出现在人工智能的导论中：
+      □ Kurzweil 1999和Kurzweil 2005
+12. ^ (2023) Artificial Intelligence in Local Government Services: Public
+    Perceptions from Australia and Hong Kong, Government Information Quarterly,
+    40(3), 101833
+13. ^ (2023) Artificial Intelligence in Local Government Services: Public
+    Perceptions from Australia and Hong Kong, Government Information Quarterly,
+    40(3), 101833
+14. ^ Problem solving, puzzle solving, game playing and deduction:
+      □ Russell & Norvig 2003，chpt. 3–9,
+      □ Poole, Mackworth & Goebel 1998，chpt. 2,3,7,9,
+      □ Luger & Stubblefield 2004，chpt. 3,4,6,8,
+      □ Nilsson 1998，chpt. 7–12
+15. ^ Uncertain reasoning:
+      □ Russell & Norvig 2003，第452–644页,
+      □ Poole, Mackworth & Goebel 1998，第345–395页,
+      □ Luger & Stubblefield 2004，第333–381页,
+      □ Nilsson 1998，chpt. 19
+16. ^ Intractability and efficiency and the combinatorial explosion（英语：
+    combinatorial explosion）:
+      □ Russell & Norvig 2003，第9, 21–22页
+17. ^ Psychological evidence of sub-symbolic reasoning:
+      □ Wason & Shapiro (1966) showed that people do poorly on completely
+        abstract problems, but if the problem is restated to allow the use of
+        intuitive social intelligence, performance dramatically improves.（See
+        Wason selection task）
+      □ Kahneman，Slovic & Tversky (1982) have shown that people are terrible
+        at elementary problems that involve uncertain reasoning. (See list of
+        cognitive biases for several examples).
+      □ Lakoff & Núñez (2000) have controversially argued that even our skills
+        at mathematics depend on knowledge and skills that come from "the
+        body", i.e. sensorimotor and perceptual skills.（See Where Mathematics
+        Comes From（英语：Where Mathematics Comes From））
+18. ^ Planning（英语：automated planning and scheduling）:
+      □ ACM 1998，~I.2.8,
+      □ Russell & Norvig 2003，第375–459页,
+      □ Poole, Mackworth & Goebel 1998，第281–316页,
+      □ Luger & Stubblefield 2004，第314–329页,
+      □ Nilsson 1998，chpt. 10.1–2, 22
+19. ^ Information value theory（英语：Applied information economics）:
+      □ Russell & Norvig 2003，第600–604页
+20. ^ Classical planning:
+      □ Russell & Norvig 2003，第375–430页,
+      □ Poole, Mackworth & Goebel 1998，第281–315页,
+      □ Luger & Stubblefield 2004，第314–329页,
+      □ Nilsson 1998，chpt. 10.1–2, 22
+21. ^ Planning and acting in non-deterministic domains: conditional planning,
+    execution monitoring, replanning and continuous planning:
+      □ Russell & Norvig 2003，第430–449页
+22. ^ Multi-agent planning and emergent behavior:
+      □ Russell & Norvig 2003，第449–455页
+23. ^ Machine perception（英语：Machine perception）:
+      □ Russell & Norvig 2003，第537–581, 863–898页
+      □ Nilsson 1998，~chpt. 6
+24. ^ Computer vision:
+      □ ACM 1998，I.2.10
+      □ Russell & Norvig 2003，第863–898页
+      □ Nilsson 1998，chpt. 6
+25. ^ Speech recognition:
+      □ ACM 1998，~I.2.7
+      □ Russell & Norvig 2003，第568–578页
+26. ^ Object recognition（英语：Object recognition）:
+      □ Russell & Norvig 2003，第885–892页
+27. ^ Kismet. MIT Artificial Intelligence Laboratory, Humanoid Robotics Group. 
+    [2012-10-12]. （原始内容存档于2014-10-17）. 
+28. ^ 人工智慧有多恐怖？聽聽「天才」Demis Hassabis 怎麼說！the guardian《The
+    superhero of artificial intelligence: can this genius keep it in check?》.
+    inside / tech2ipo.com. [2016-04-15]. （原始内容存档于2018-09-03）（中文（台
+    湾））. 
+29. ^ 人工智能發展是繁榮人類或毀滅人類？. 大纪元/莫琳综. [2016-04-15]. （原始内
+    容存档于2021-02-13）（中文（台湾））. 
+30. ^ AlphaGo贏棋王靠兩大密技. 2016-03-19 04:01 经济日报记者彭慧明. [2016-04-15
+    ]. （原始内容存档于2016-04-26）（中文（台湾））. 
+31. ^ 專家憂人工智慧武器成「殺人機器」多國研商限制規範. 2014/11/13 The News
+    Lens关键评论 Sid Weng. [2016-04-15]. （原始内容存档于2016-04-27）（中文（台
+    湾））. 
+32. ^ 別再讓機器人殺人！反對團體呼籲勿用人工智慧參與戰爭. 风传媒萧乔云 2015年10
+    月22日. [2016年4月15日]. （原始内容存档于2021年2月13日）（中文（台湾））. 
+33. ^ 機器人威脅人類 10大類工作未來恐被取代. 大纪元 / 郑孝祺. [2016-04-15]. （
+    原始内容存档于2021-02-13）（中文（台湾））. 
+34. ^ 日近半職業將被人工智慧取代. 中国时报. [2016-04-15]. （原始内容存档于
+    2021-02-13）（中文（台湾））. 
+35. ^ 人工智慧：提前到來的職業殺手. Evans Data调查 April. [2016-04-15]. （原始
+    内容存档于2019-05-11）（中文（台湾））. 
+36. ^ 中時-馬雲談AI的風險. [2017-06-23]. （原始内容存档于2017-06-22）. 
+37. ^ 数据科学：二十一世纪最Sexy的职业. 哈佛商业评论. [2017-09-22]. （原始内容
+    存档于2017-06-14）. 
+38. ^ 林东清. 資訊管理 e化企業的核心競爭能力七版. 台北市: 智胜. 2019-06: 187.
+    ISBN 978-957-511-112-0. 
+39. ^ Nils Nilsson（英语：Nils Nilsson (researcher)）写道："Simply put, there
+    is wide disagreement in the field about what AI is all about" （Nilsson
+    1983，p.10）.
+40. ^ ^40.0 ^40.1 Biological intelligence vs. intelligence in general:
+      □ Russell & Norvig 2003，第2–3页, who make the analogy with aeronautical
+        engineering.
+      □ McCorduck 2004，第100–101页, who writes that there are "two major
+        branches of artificial intelligence: one aimed at producing intelligent
+        behavior regardless of how it was accomplioshed, and the other aimed at
+        modeling intelligent processes found in nature, particularly human
+        ones."
+      □ Kolata 1982, a paper in Science, which describes McCathy's indifference
+        to biological models. Kolata quotes McCarthy as writing: "This is AI,
+        so we don't care if it's psychologically real"[1] （页面存档备份，存于
+        互联网档案馆）. McCarthy recently reiterated his position at the AI@50
+        （英语：AI@50） conference where he said "Artificial intelligence is
+        not, by definition, simulation of human intelligence" （Maker 2006）.
+41. ^ ^41.0 ^41.1 Neats vs. scruffies（英语：Neats vs. scruffies）:
+      □ McCorduck 2004，第421–424, 486–489页
+      □ Crevier 1993，第168页
+      □ Nilsson 1983，第10–11页
+42. ^ ^42.0 ^42.1 Symbolic vs. sub-symbolic AI:
+      □ Nilsson (1998, p. 7), who uses the term "sub-symbolic".
+43. ^ Haugeland 1985，第255页.
+44. ^ 存档副本. [2012-10-13]. （原始内容存档于2017-11-05）. 
+45. ^ Pei Wang. Artificial general intelligence, 2008: proceedings of the First
+    AGI Conference. IOS Press. 2008: 63 [2011-10-31]. ISBN 978-1-58603-833-5.
+    （原始内容存档于2020-08-21）. 
+46. ^ AI's immediate precursors:
+      □ McCorduck 2004，第51–107页
+      □ Crevier 1993，第27–32页
+      □ Russell & Norvig 2003，第15, 940页
+      □ Moravec 1988，第3页
+    See also Template:See section. Among the researchers who laid the
+    foundations of AI were Alan Turing, John Von Neumann, Norbert Wiener,
+    Claude Shannon, Warren McCullough, Walter Pitts and Donald Hebb.
+47. ^ Haugeland 1985，第112–117页
+48. ^ The most dramatic case of sub-symbolic AI being pushed into the
+    background was the devastating critique of perceptrons by Marvin Minsky and
+    Seymour Papert in 1969. See History of AI, AI winter, or Frank Rosenblatt（
+    英语：Frank Rosenblatt）.
+49. ^ Cognitive simulation, Newell and Simon, AI at CMU (then called Carnegie
+    Tech):
+      □ McCorduck 2004，第139–179, 245–250, 322–323 (EPAM)页
+      □ Crevier 1993，第145–149页
+50. ^ Soar (history):
+      □ McCorduck 2004，第450–451页
+      □ Crevier 1993，第258–263页
+51. ^ McCarthy and AI research at SAIL（英语：Stanford Artificial Intelligence
+    Laboratory） and SRI International:
+      □ McCorduck 2004，第251–259页
+      □ Crevier 1993
+52. ^ AI research at Edinburgh and in France, birth of Prolog:
+      □ Crevier 1993，第193–196页
+      □ Howe 1994
+53. ^ AI at MIT under Marvin Minsky in the 1960s :
+      □ McCorduck 2004，第259–305页
+      □ Crevier 1993，第83–102, 163–176页
+      □ Russell & Norvig 2003，第19页
+54. ^ Cyc:
+      □ McCorduck 2004，第489页, who calls it "a determinedly scruffy
+        enterprise"
+      □ Crevier 1993，第239–243页
+      □ Russell & Norvig 2003，第363−365页
+      □ Lenat & Guha 1989
+55. ^ Knowledge revolution:
+      □ McCorduck 2004，第266–276, 298–300, 314, 421页
+      □ Russell & Norvig 2003，第22–23页
+56. ^ Expert systems:
+      □ ACM 1998，I.2.1,
+      □ Russell & Norvig 2003，第22–24页
+      □ Luger & Stubblefield 2004，第227–331页,
+      □ Nilsson 1998，chpt. 17.4
+      □ McCorduck 2004，第327–335, 434–435页
+      □ Crevier 1993，第145–62, 197–203页
+57. ^ Embodied（英语：Embodied agent） approaches to AI:
+      □ McCorduck 2004，第454–462页
+      □ Brooks 1990
+      □ Moravec 1988
+58. ^ Revival of connectionism:
+      □ Crevier 1993，第214–215页
+      □ Russell & Norvig 2003，第25页
+59. ^ Computational intelligence（英语：Computational intelligence）
+      □ IEEE Computational Intelligence Society （页面存档备份，存于互联网档案
+        馆）
+60. ^ 形式方法是当前首选的（"简约派的胜利"）:
+      □ Russell & Norvig 2003，第25–26页
+      □ McCorduck 2004，第486–487页
+61. ^ Pat Langley, "The changing science of machine learning"^[永久失效链接],
+    Machine Learning, Volume 82, Number 3, 275–279, doi:10.1007/
+    s10994-011-5242-y
+62. ^ Agent architecture（英语：Agent architecture）s, hybrid intelligent
+    system（英语：hybrid intelligent system）s:
+      □ Russell & Norvig (2003, pp. 27, 932, 970–972)
+      □ Nilsson (1998，chpt. 25)
+63. ^ 林, 东清. 資訊管理：e化企業的核心競爭力. 台北: 元照. 2019: 93. ISBN
+     978-957-511-112-0. 
+64. ^ ^64.0 ^64.1 ^64.2 陈根. 人工智能“脱衣”再现，技术与道德的撕裂对立. 澎湃.
+    2020-11-02 [2022-05-07] （中文）. 
+65. ^ ^65.0 ^65.1 Reports. Sensity. [2022-05-07]. （原始内容存档于2022-05-19）
+    （美国英语）. 
+66. ^ 「モザイク破壊」AIでアダルト動画を加工著作権法など違反疑いの男逮捕｜社会
+    ｜地域のニュース｜京都新聞. 京都新闻. [2022-05-07]. （原始内容存档于
+    2022-05-25）（日语）. 
+67. ^ IPPA | 宮城県警察本部サイバー犯罪対策課による『フェイク動画』ＤＶＤ販売摘
+    発に関するお知らせ. www.ippa.jp. [2022-05-07]. 
+
+来源[编辑]
+
+中文书
+
+  • 李开复、王咏刚；《人工智能来了》
+  • 李开复；《AI·未来》
+
+
+教材
+
+  • Luger, George; Stubblefield, William. Artificial Intelligence: Structures
+    and Strategies for Complex Problem Solving 5th. The Benjamin/Cummings
+    Publishing Company, Inc. 2004 [2012-10-12]. ISBN 0-8053-4780-1. （原始内容
+    存档于2021-01-15）. 
+  • Kaplan, Andreas; Haenlein, Michael. Rulers of the world, unite! The
+    challenges and opportunities of artificial intelligence. Business Horizons.
+    2020 [2020-01-03]. （原始内容存档于2020-12-21）. 
+  • Luger, George. 人工智能：复杂问题求解的结构和策略. 由史忠植等翻译原书第4版.
+    北京: 机械工业出版社. 2004. ISBN 7-111-12944-X （中文）. 
+  • Neapolitan, Richard; Jiang, Xia. Contemporary Artificial Intelligence.
+    Chapman & Hall/CRC. 2012 [2012-10-12]. ISBN 978-143984-469-4. （原始内容存
+    档于2015-01-08）. 
+  • Nilsson, Nils. Artificial Intelligence: A New Synthesis. Morgan Kaufmann
+    Publishers. 1998. ISBN 978-1-55860-467-4. 
+  • Nilsson, Nils. 人工智能. 郑扣根等译. 北京: 机械工业出版社. 2000. ISBN
+     7-111-07885-3 （中文）. 
+  • Russell, Stuart J.; Norvig, Peter. Artificial Intelligence: A Modern
+    Approach 2nd. Upper Saddle River, New Jersey: Prentice Hall. 2003 [
+    2012-10-12]. ISBN 0-13-790395-2. （原始内容存档于2011-02-28）. 
+  • Russell, Stuart J.; Norvig, Peter. 人工智能：一种现代方法. 由姜哲翻译原书第
+    2版. 北京: 人民邮电出版社. 2004 [2012-10-12]. ISBN 9787115122285. （原始内
+    容存档于2011-02-28）（中文）. 
+  • Poole, David; Mackworth, Alan; Goebel, Randy. Computational Intelligence: A
+    Logical Approach. New York: Oxford University Press. 1998 [2012-10-12].
+    ISBN 0-19-510270-3. （原始内容存档于2009-07-25）. 
+  • Winston, Patrick Henry. Artificial Intelligence. Reading, Massachusetts:
+    Addison-Wesley. 1984. ISBN 0-201-08259-4. 
+  • Winston, Patrick Henry. 人工智能. 由崔良沂、赵永昌翻译原书第3版. 北京: 清华
+    大学出版社. 2005. ISBN 9787302103271 （中文）. 
+
+人工智能历史
+
+  • Crevier, Daniel. AI: The Tumultuous Search for Artificial Intelligence. New
+    York, NY: BasicBooks. 1993. ISBN 978-0-465-02997-6. 
+  • McCorduck, Pamela. Machines Who Think 2nd. Natick, MA: A. K. Peters, Ltd.
+    2004 [2012-10-12]. ISBN 1-56881-205-1. （原始内容存档于2020-03-01）. 
+  • Nils, Nilsson. The Quest for Artificial Intelligence: A History of Ideas
+    and Achievements. New York: Cambridge University Press. 2010. 
+
+其他
+
+  • ACM Computing Classification System: Artificial intelligence. ACM. 1998 [
+    2007-08-30]. （原始内容存档于2007-10-12）. 
+  • Aleksander, Igor. Artificial Neuroconsciousness: An Update. IWANN. 1995 
+    [2012年10月12日]. （原始内容存档于1997年3月2日）.  BibTex（页面存档备份，存
+    于互联网档案馆） Internet Archive
+  • Brooks, Rodney. Elephants Don't Play Chess (PDF). Robotics and Autonomous
+    Systems. 1990, 6: 3–15 [2007-08-30]. doi:10.1016/S0921-8890(05)80025-9. （
+    原始内容存档 (PDF)于2007-08-09）. .
+  • Buchanan, Bruce G. A (Very) Brief History of Artificial Intelligence (PDF).
+    AI Magazine. 2005: 53–60 [2007-08-30]. （原始内容 (PDF)存档于2007-09-26）. 
+    参数|magazine=与模板{{cite journal}}不匹配（建议改用{{cite magazine}}或|
+    journal=） (帮助)
+  • Dennett, Daniel. Consciousness Explained（英语：Consciousness Explained）.
+    The Penguin Press. 1991. ISBN 0-7139-9037-6. 
+  • Dreyfus, Hubert. [[:What Computers Can't Do|What Computers Can't Do]]（英语
+    ：What Computers Can't Do]]）. New York: MIT Press. 1972. ISBN
+     0-06-011082-1.  网址－维基内链冲突 (帮助)
+  • Dreyfus, Hubert. What Computers Still Can't Do. New York: MIT Press. 1979.
+    ISBN 0-262-04134-0. 
+  • Dreyfus, Hubert; Dreyfus, Stuart. Mind over Machine: The Power of Human
+    Intuition and Expertise in the Era of the Computer. Oxford, UK: Blackwell.
+    1986. ISBN 0-02-908060-6. 
+  • Dreyfus, Hubert. What Computers Still Can't Do. New York: MIT Press. 1992.
+    ISBN 0-262-54067-3. 
+  • Edelman, Gerald. Gerald Edelman – Neural Darwinism and Brain-based Devices.
+    Talking Robots. 2007-11-23 [2012-10-12]. （原始内容存档于2009-10-08）. 
+  • Fearn, Nicholas. The Latest Answers to the Oldest Questions: A
+    Philosophical Adventure with the World's Greatest Thinkers. New York: Grove
+    Press. 2007. ISBN 0-8021-1839-9. 
+  • Forster, Dion. Self validating consciousness in strong artificial
+    intelligence: An African theological contribution (PDF). Pretoria:
+    University of South Africa. 2006 [2012-10-12]. （原始内容存档 (PDF)于
+    2021-01-15）. 
+  • Gladwell, Malcolm. Blink. New York: Little, Brown and Co. 2005. ISBN
+     0-316-17232-4. 
+  • Haugeland, John. Artificial Intelligence: The Very Idea. Cambridge, Mass.:
+    MIT Press. 1985. ISBN 0-262-08153-9. 
+  • Hawkins, Jeff; Blakeslee, Sandra. On Intelligence（英语：On Intelligence）.
+    New York, NY: Owl Books. 2005. ISBN 0-8050-7853-3. 
+  • Hofstadter, Douglas. Gödel, Escher, Bach: an Eternal Golden Braid. New
+    York, NY: Vintage Books. 1979. ISBN 0-394-74502-7. 
+  • Howe, J. Artificial Intelligence at Edinburgh University: a Perspective.
+    November 1994 [2007-08-30]. （原始内容存档于2019-08-25）. .
+  • Kahneman, Daniel; Slovic, D.; Tversky, Amos. Judgment under uncertainty:
+    Heuristics and biases. New York: Cambridge University Press. 1982. ISBN
+     0-521-28414-7. 
+  • Kolata, G. How can computers get common sense?. Science. 1982, 217 (4566):
+    1237–1238. PMID 17837639. doi:10.1126/science.217.4566.1237. 
+  • Kurzweil, Ray. The Age of Spiritual Machines（英语：The Age of Spiritual
+    Machines）. Penguin Books. 1999. ISBN 0-670-88217-8. 
+  • Kurzweil, Ray. The Singularity is Near. Penguin Books. 2005. ISBN
+     0-670-03384-7. 
+  • Lakoff, George. Women, Fire, and Dangerous Things: What Categories Reveal
+    About the Mind. University of Chicago Press. 1987. ISBN 0-226-46804-6. 
+  • Lakoff, George; Núñez, Rafael E. Where Mathematics Comes From: How the
+    Embodied Mind Brings Mathematics into Being（英语：Where Mathematics Comes
+    From）. Basic Books. 2000. ISBN 0-465-03771-2. .
+  • Lenat, Douglas; Guha, R. V. Building Large Knowledge-Based Systems.
+    Addison-Wesley. 1989. ISBN 0-201-51752-3. 
+  • Lighthill, Professor Sir James. Artificial Intelligence: a paper symposium.
+    Science Research Council. 1973.  |contribution=被忽略 (帮助)
+  • Lucas, John. Minds, Machines and Gödel. Anderson, A.R. (编). Minds and
+    Machines. 1961 [2007-08-30]. （原始内容存档于2007-08-19）. 
+  • Maker, Meg Houston. AI@50: AI Past, Present, Future. Dartmouth College.
+    2006 [2008-10-16]. （原始内容存档于2008-10-08）. 
+  • McCarthy, John; Minsky, Marvin; Rochester, Nathan; Shannon, Claude. A
+    Proposal for the Dartmouth Summer Research Project on Artificial
+    Intelligence. 1955 [2007-08-30]. （原始内容存档于2007-08-26）. .
+  • McCarthy, John; Hayes, P. J. Some philosophical problems from the
+    standpoint of artificial intelligence. Machine Intelligence. 1969, 4:
+    463–502 [2007-08-30]. （原始内容存档于2007-08-10）. 
+  • McCarthy, John. What Is Artificial Intelligence?. 2007-11-12 [2012-10-12].
+    （原始内容存档于2015-11-18）.  引文格式1维护：日期与年 (link)
+  • Minsky, Marvin. Computation: Finite and Infinite Machines. Englewood
+    Cliffs, N.J.: Prentice-Hall. 1967. ISBN 0-13-165449-7. 
+  • Minsky, Marvin. The Emotion Machine（英语：The Emotion Machine）. New York,
+    NY: Simon & Schusterl. 2006. ISBN 0-7432-7663-9. 
+  • Moravec, Hans. The Role of Raw Power in Intelligence. 1976 [2007-08-30]. （
+    原始内容存档于2016-03-03）. 
+  • Moravec, Hans. Mind Children. Harvard University Press. 1988. ISBN
+     0-674-57616-0. 
+  • NRC, (United States National Research Council). Developments in Artificial
+    Intelligence. Funding a Revolution: Government Support for Computing
+    Research. National Academy Press. 1999. 
+  • Needham, Joseph. Science and Civilization in China: Volume 2. Caves Books
+    Ltd. 1986. 
+  • Newell, Allen; Simon, H. A. GPS: A Program that Simulates Human Thought.
+    Feigenbaum, E.A.; Feldman, J. (编). Computers and Thought. New York:
+    McGraw-Hill. 1963. 
+  • Newell, Allen; Simon, H. A. Communications of the ACM 19 (3). 1976 [
+    2012-10-12]. （原始内容存档于2008-10-07）.  |contribution=被忽略 (帮助).
+  • Nilsson, Nils, Artificial Intelligence Prepares for 2001 (PDF), AI
+    Magazine, 1983, 1 (1) [2012-10-12], （原始内容存档 (PDF)于2009-11-06） ,
+    Presidential Address to the Association for the Advancement of Artificial
+    Intelligence.
+  • Penrose, Roger. The Emperor's New Mind: Concerning Computer, Minds and The
+    Laws of Physics. Oxford University Press. 1989. ISBN 0-19-851973-7. 
+  • Searle, John. Minds, Brains and Programs. Behavioral and Brain Sciences.
+    1980, 3 (3): 417–457 [2012-10-12]. doi:10.1017/S0140525X00005756. （原始内
+    容存档于2010-01-18）. 
+  • Searle, John. Mind, language and society. New York, NY: Basic Books. 1999.
+    ISBN 0-465-04521-9. OCLC 811501434. 
+  • Serenko, Alexander; Detlor, Brian. Intelligent agents as innovations (PDF).
+    AI and Society. 2004, 18 (4): 364–381 [2012-10-12]. doi:10.1007/
+    s00146-004-0310-5. （原始内容 (PDF)存档于2012-03-01）. 
+  • Serenko, Alexander; Ruhi, Umar; Cocosila, Mihail. Unplanned effects of
+    intelligent agents on Internet use: Social Informatics approach (PDF). AI
+    and Society. 2007, 21 (1–2): 141–166 [2012-10-12]. doi:10.1007/
+    s00146-006-0051-8. （原始内容 (PDF)存档于2012-06-20）. 
+  • Andreas Kaplan; Michael Haenlein (2018) Siri, Siri in my Hand, who's the
+    Fairest in the Land? On the Interpretations, Illustrations and Implications
+    of Artificial Intelligence, Business Horizons, 62(1)
+  • Shapiro, Stuart C. Artificial Intelligence. Shapiro, Stuart C. (编).
+    Encyclopedia of Artificial Intelligence (PDF) 2nd. New York: John Wiley.
+    1992: 54–57 [2012-10-12]. ISBN 0-471-50306-1. （原始内容存档 (PDF)于
+    2019-05-13）. 
+  • Simon, H. A. The Shape of Automation for Men and Management. New York:
+    Harper & Row. 1965. 
+  • Skillings, Jonathan. Getting Machines to Think Like Us. cnet. 2006-07-03 [
+    2011-02-03]. （原始内容存档于2011-11-16）. 
+  • Tecuci, Gheorghe. Artificial Intelligence. Wiley Interdisciplinary Reviews:
+    Computational Statistics (Wiley). March/April 2012, 4 (2): 168–180.
+    doi:10.1002/wics.200.  请检查|date=中的日期值 (帮助); 使用|accessdate=需要
+    含有|url= (帮助)
+  • Turing, Alan. Computing Machinery and Intelligence LIX. October 1950:
+    433–460 [2008-08-18]. ISSN 0026-4423. doi:10.1093/mind/LIX.236.433. （原始
+    内容存档于2008-07-02）.  |journal=被忽略 (帮助); |issue=被忽略 (帮助) 引文
+    格式1维护：日期与年 (link)
+  • van der Walt, Christiaan; Bernard, Etienne. Data characteristics that
+    determine classifier performance (PDF). 2006<!––year is presumed based on
+    acknowledgements at the end of the article––> [2009-08-05]. （原始内容 
+    (PDF)存档于2009-03-25）.  请检查|date=中的日期值 (帮助)
+  • Vinge, Vernor. The Coming Technological Singularity: How to Survive in the
+    Post-Human Era. 1993 [2012-10-12]. （原始内容存档于2007-01-01）. 
+  • Wason, P. C.; Shapiro, D. Reasoning. Foss, B. M. (编). New horizons in
+    psychology. Harmondsworth: Penguin. 1966. 
+  • Weizenbaum, Joseph. Computer Power and Human Reason（英语：Computer Power
+    and Human Reason）. San Francisco: W.H. Freeman & Company. 1976. ISBN
+     0-7167-0464-1. 
+
+[40p] Scholia上有关人工智能（Q11660）的信息
+
+扩展阅读[编辑]
+
+  • TechCast Article Series, John Sagi, Framing Consciousness
+  • Boden, Margaret, Mind As Machine, Oxford University Press, 2006
+  • Johnston, John (2008) "The Allure of Machinic Life: Cybernetics, Artificial
+    Life, and the New AI", MIT Press
+  • Myers, Courtney Boyd ed. (2009). The AI Report （页面存档备份，存于互联网档
+    案馆）. Forbes June 2009
+  • Serenko, Alexander. The development of an AI journal ranking based on the
+    revealed preference approach (PDF). Journal of Informetrics. 2010, 4 (4):
+    447–459 [2012-10-12]. doi:10.1016/j.joi.2010.04.001. （原始内容 (PDF)存档于
+    2012-07-24）. 
+  • Sun, R. & Bookman, L. (eds.), Computational Architectures: Integrating
+    Neural and Symbolic Processes. Kluwer Academic Publishers, Needham, MA.
+    1994.
+
+外部链接[编辑]
+
+从维基百科的姊妹计划
+了解更多有关
+“Artificial Intelligence”的内容
+搜索维基词典     维基词典上的字词解释
+搜索维基共享资源 维基共享资源上的多媒体资源
+搜索维基新闻     维基新闻上的新闻
+搜索维基语录     维基语录上的名言
+搜索维基文库     维基文库上的原始文献
+搜索维基教科书   维基教科书上的教科书和手册
+搜索维基学院     维基学院上的学习资源
+
+  • What Is AI?—An introduction to artificial intelligence by AI founder John
+    McCarthy.
+  • 开放式目录计划中和AI相关的内容
+  • AITopics—A large directory of links and other resources maintained by the
+    Association for the Advancement of Artificial Intelligence, the leading
+    organization of academic AI researchers.
+  • Artificial Intelligence Discussion group （页面存档备份，存于互联网档案馆）
+  • 机器人智能机器人智能
+  • 研学论坛（页面存档备份，存于互联网档案馆）关于人工智能，模式识别，科学交流
+    的学术论坛
+  • 中国人工智能网－人工智能|模式识别|数字图像处理^[永久失效链接]
+  • AI Depot—community discussion, news, and articles
+  • Loebner Prize website（页面存档备份，存于互联网档案馆）
+  • Game AI—计算机游戏开发者的AI资源
+  • Kurzweil CyberArt Technologies（页面存档备份，存于互联网档案馆）—关于人工智
+    能艺术的网站，里面有著名的人工智能绘画程序AARON
+  • 关于人工智能，专家系统prolog语言全介绍的wiki网站
+  • 中华民国人工智能学会（页面存档备份，存于互联网档案馆）—以促进中华民国人工智
+    能及相关领域之研究、发展、应用与交流为宗旨的民间组织。
+  • MostAI—关于人工智能的网站，AI Fans交流平台
+  • 智能程序自进化概念（页面存档备份，存于互联网档案馆）
+  • 进化论（页面存档备份，存于互联网档案馆）
+
+                                       
+                              人工智能相关条目
+                                     • 查
+                                     • 论
+                                     • 编
+
+                               主要的数学领域
+  • 历史
+  • 纲要（英语：Outline of mathematics）
+  • 列表（英语：Lists of mathematics topics）
+  • 符号表
+
+          • 范畴论
+数学基    • 集合论
+  础      • 数理逻辑
+          • 数学哲学
+
+          • 抽象
+          • 交换
+          • 群论
+ 代数     • 初等代数
+          • 线性代数
+          • 多重线性代数
+          • 泛代数
+
+          • 微积分
+          • 实变函数
+数学分    • 复变函数
+  析      • 微分方程
+          • 泛函分析
+          • 调和分析
+
+          • 组合数学
+离散数    • 图论
+  学      • 序理论
+          • 博弈论
+
+          • 代数几何
+          • 解析几何
+          • 微分几何
+几何学    • 离散几何学
+          • 欧几里得几何
+          • 非欧几里得几何
+          • 有限几何学
+
+          • 算术
+          • 代数数论
+          • 解析数论
+ 数论     • 几何数论
+          • 算术几何
+          • 丢番图几何
+                                                                   [80px-Mat]
+          • 点集拓扑
+          • 代数拓扑
+拓扑学    • 微分拓扑
+          • 几何拓扑
+
+          • 测度与概率
+          • 数理统计学
+          • 数据科学
+          • 统计推断
+统计学    • 回归分析
+          • 统计学习理论
+          • 机器学习
+          • 人工智能
+          • 数据结构与算法
+
+          • 计算机科学
+          • 计算理论
+计算数    • 数值分析
+  学      • 最优化
+          • 计算机代数
+
+          • 控制论
+          • 信息论
+          • 计算化学
+          • 数理生物学
+应用数    • 数理经济学
+  学      • 计量经济学
+          • 数理金融学
+          • 数学心理学
+          • 数学物理学
+          • 生物统计学
+
+          • 娱乐数学
+ 其它     • 数学与艺术（英语：Mathematics and art）
+          • 数学教育
+
+          • 数学的领域也可根据“MSC分类标准”或“中国学科分类国家标准
+ 注释       ”进行分类。
+
+  • 分类分类
+  • 主题主题
+  • 共享资源页面共享资源
+  • 专题专题
+
+                                     • 查
+                                     • 论
+                                     • 编
+
+                                   统计学
+                                            • 平均数
+                                                □ 平方
+                                                □ 算术
+                                                □ 几何
+                                                □ 调和
+                                                □ 算术-几何
+                       集中趋势                 □ 几何-调和
+                                                □ 希罗／平
+                                                  均数不等
+                                                  式
+                                            • 中位数
+                                            • 众数
+
+                                            • 全距
+       连续                                 • 变异系数
+       概率                                 • 百分位数
+描述统                                      • 四分位距
+ 计学                                       • 四分位数
+                                            • 标准差
+                       离散程度             • 方差
+                                            • 平均差
+                                            • 标准分数
+                                            • 切比雪夫不等
+                                              式
+                                            • 基尼系数
+
+                                            • 中心极限定理
+             分布形态（英语：Shape of the   • 矩
+                    distribution）              □ 偏态
+                                                □ 峰态
+
+       离散    • 次数（英语：Count data）
+       概率    • · 列联表（英语：Contingency table）
+
+                            • 置信区间
+                            • 区间估计（英语：Interval
+                              estimation）
+           推论统计学       • 显著性差异
+                            • 元分析
+                            • 贝叶斯推断
+
+                            • 总体
+                            • 抽样
+                            • 重抽样
+                                □ 刀切法
+                                □ 自助法
+                                □ 交叉验证
+            实验设计        • 重复（英语：Replication
+                              (statistics)）
+                            • 阻碍
+                            • 灵敏度和特异度
+                            • 区集（英语：Blocking
+                              (statistics)）
+                            • 缺失数据
+
+                            • 标准误
+                            • 零假设
+         样本量（英语：     • 备择假设
+推论统   Sample size）      • 第一类错误与第二类错误
+ 计学                       • 统计功效
+和假说                      • 效应值
+ 检定
+                            • 贝叶斯推断
+                            • 区间估计（英语：Interval
+                              estimation）                    [120px-Fisher_]
+                            • 最大似然估计
+            常规估计        • 最小距离估计（英语：Minimum
+                              distance estimation）
+                            • 矩估计
+                            • 最大间距
+
+                            • Z检验
+                            • 学生t检验
+                            • F检验
+                            • 卡方检验
+            假设检验        • Wald检验（英语：Wald test）
+                            • 曼-惠特尼检验（英语：
+                              Mann–Whitney U test）
+                            • 秩和检验
+
+                            • 生存函数
+                            • 乘积极限估计量
+            生存分析        • 对数秩和检验
+                            • 失效率
+                            • 危险比例模式
+
+                • 干扰因素
+                • 皮尔逊积矩相关系数
+                • 等级相关（英语：Rank correlation） (斯皮尔
+                  曼等级相关系数
+       相关性   • 肯德等级相关系数（英语：Kendall tau rank
+                  correlation coefficient）)
+                • 自由度
+                • 误差和残差
+
+                • 线性模型（英语：Linear model）
+                • 一般线性模型
+相关及          • 广义线性模型
+回归分          • 简单线性回归
+  析   线性回   • 普通最小二乘法
+         归     • 贝叶斯回归（英语：Bayesian linear
+                  regression）
+                • 方差分析
+                • 协方差分析（英语：Analysis of covariance）
+
+                • 非参数回归模型（英语：Nonparametric
+                  regression）
+       非线性   • 半参数回归模型（英语：Semiparametric
+        回归      regression）
+                • 逻辑斯谛回归
+
+         • 饼图
+         • 条形图
+         • 双标图
+         • 箱形图
+         • 管制图
+         • 森林图（英语：Forest plot）
+统计图   • 直方图
+  形     • 分位图
+         • 趋势图
+         • 散点图
+         • 茎叶图
+         • 雷达图（英语：Radar chart）
+         • 示意地图
+
+         • 统计类型（维基数据所列：Q47103999）
+ 其他    • 回应过程效度
+         • 统计误用
+
+  • 分类分类
+  • 主题主题
+  • 共享资源页面共享资源
+  • 专题专题
+
+                                     • 查
+                                     • 论
+                                     • 编
+
+                           机器学习同数据挖掘主题
+基本  学习 · 图灵测试 · 运算学习论
+概念
+数学  回归模型 · 人工神经网络（深度学习） · 生成对抗网络 · Transformer模型 ·
+模型  大语言模型 · 决策树 · 贝氏网络 · 支持向量机 · 关联规则学习
+学习  机器学习 · 深度学习 · 迁移学习 · 微调 (深度学习) · 监督学习 · 无监督学
+范型  习 · 强化学习 · Q学习 · 遗传算法
+主要  统计分类 · 表征学习 · 降维 · 聚类分析 · 异常检测
+应用
+相关  计算科学 · 人工智能 · 通用人工智能 · 生成式人工智能 · 提示工程 · 统计
+领域  学 · 数据科学 · 计算机科学 · 信息与计算科学 · 神经科学 · 认知科学
+                                  • 查
+                                  • 论
+                                  • 编
+
+                         计算机科学的主要领域
+注：该模板大致遵循ACM 电脑分类系统。
+                 • 印刷电路板
+                 • 外部设备
+                 • 集成电路
+  计算机硬件     • 超大规模集成电路
+                 • 绿色计算
+                 • 电子设计自动化
+
+                 • 电脑系统架构
+ 系统架构组织    • 嵌入式系统
+                 • 实时计算
+
+                 • 网络传输协议
+                 • 路由
+     网络        • 网络拓扑
+                 • 网络服务
+
+                 • 解释器
+                 • 中间件
+   软件组织      • 虚拟机
+                 • 操作系统
+                 • 软件质量
+
+                 • 编程范型
+                 • 编程语言
+                 • 编译器
+                 • 领域特定语言
+软件符号和工具   • 软件框架
+                 • 集成开发环境
+                 • 软件配置管理
+                 • 函式库
+
+                 • 软件开发过程
+                 • 需求分析
+                 • 软件设计
+   软件开发      • 软件部署
+                 • 软件维护
+                 • 开源模式
+
+                 • 自动机
+                 • 可计算性理论
+                 • 计算复杂性理论
+   计算理论      • 量子计算
+                 • 数值计算方法
+                 • 计算机逻辑
+                 • 形式语义学
+
+                 • 算法分析
+                 • 算法设计
+     算法        • 算法效率
+                 • 随机化算法
+                 • 计算几何
+
+                 • 离散数学
+                 • 信息与计算科学
+                 • 统计学
+                 • 数学软件
+                 • 数理逻辑
+                 • 集合论
+   计算数学      • 数论
+                 • 图论
+                 • 类型论
+                 • 范畴论
+                 • 信息论
+                 • 数值分析
+                 • 数学分析
+
+                 • 数据库管理系统
+                 • 电脑数据
+                 • 企业信息系统（英语：Enterprise information system）
+                 • 社会性软件
+                 • 地理信息系统
+                 • 决策支持系统
+   信息系统      • 过程控制
+                 • 数据挖掘
+                 • 数字图书馆
+                 • 系统平台
+                 • 数字营销
+                 • 万维网
+                 • 信息检索
+
+                 • 密码学
+                 • 形式化方法
+     安全        • 入侵检测系统
+                 • 网络安全
+                 • 信息安全
+
+                 • 计算机辅助功能
+                 • 用户界面
+                 • 可穿戴计算机
+   人机交互      • 普适计算
+                 • 虚拟现实
+                 • 聊天机器人
+
+                 • 并发计算
+                 • 并行计算
+    并发性       • 分布式计算
+                 • 多线程
+                 • 多元处理
+
+                 • 自动推理
+                 • 计算语言学
+                 • 计算机视觉
+   人工智能      • 进化计算
+                 • 专家系统
+                 • 自然语言处理
+                 • 机器人学
+
+                 • 监督式学习
+                 • 无监督学习
+   机器学习      • 强化学习
+                 • 交叉验证
+
+                 • 计算机动画
+                 • 可视化
+                 • 渲染
+                 • 修饰照片
+                 • 图形处理器
+ 计算机图形学    • 混合现实
+                 • 虚拟现实
+                 • 图像处理
+                 • 图像压缩
+                 • 实体造型
+
+                 • 电子商务
+                 • 企业级软件
+                 • 计算数学
+                 • 计算物理学
+                 • 计算化学
+                 • 计算生物学
+                 • 计算社会科学
+                 • 医学信息学
+                 • 数字艺术
+   应用计算      • 电子出版
+                 • 网络战
+                 • 电子游戏
+                 • 文字处理器
+                 • 运筹学
+                 • 教育技术学
+                 • 生物信息学
+                 • 认知科学
+                 • 文件管理系统（英语：Document management system）
+
+  • 分类分类
+  • 主题主题
+  • 专题专题
+  • 共享资源页面维基共享
+
+                                    • 查
+                                    • 论
+                                    • 编
+
+                                可微分计算
+         • 可微分编程
+         • 自动微分
+         • 张量微积分（英语：Tensor calculus）
+         • 信息几何
+ 概论    • 统计流形
+         • 神经形态工程（英语：Neuromorphic engineering）
+         • 模式识别
+         • 运算学习理论（英语：Computational learning theory）
+         • 归纳偏置
+
+         • 梯度下降
+             □ SGD（英语：Stochastic gradient descent）
+         • 聚类
+         • 回归
+             □ 过拟合
+         • 幻觉
+         • 对抗（英语：Adversarial machine learning）
+         • 注意力
+         • 卷积
+ 概念    • 损失函数
+         • 反向传播
+         • 激活函数
+             □ softmax
+             □ sigmoid
+             □ ReLU
+         • 正则化
+         • 数据集
+         • 扩散（英语：Diffusion process）
+         • 自回归
+
+         • 机器学习
+         • 人工神经网络
+             □ 深度学习
+ 应用    • 科学计算
+         • 人工智能
+         • 语言模型
+             □ 大型语言模型
+
+         • TPU
+         • VPU
+ 硬件    • IPU（英语：Graphcore）
+         • 忆阻器
+         • SpiNNaker（英语：SpiNNaker）
+
+         • TensorFlow
+             □ Keras
+         • PyTorch
+软件库   • Theano
+         • JAX
+         • Flux.jl（英语：Flux (machine-learning framework)）
+
+                   • AlexNet
+                   • WaveNet
+                   • 人像合成
+                   • 手写识别
+                   • OCR
+                   • 语音合成
+       视觉·语音   • 语音识别
+                   • 人脸识别
+                   • AlphaFold
+                   • DALL-E
+                   • Midjourney
+                   • Stable Diffusion
+                   • Whisper（英语：Whisper (speech recognition system)）
+
+                   • Word2vec
+                   • Seq2seq
+                   • BERT
+                   • LaMDA
+                       □ Bard
+                   • NMT
+                   • 辩手项目（英语：Project Debater）
+ 实现              • 沃森
+                   • GPT-1
+       自然语言    • GPT-2
+                   • GPT-3
+                   • GPT-4
+                   • GPT-J（英语：GPT-J）
+                   • ChatGPT
+                   • 文心一言
+                   • Chinchilla AI（英语：Chinchilla AI）
+                   • PaLM（英语：PaLM）
+                   • BLOOM（英语：BLOOM (language model)）
+                   • LLaMA
+
+                   • AlphaGo
+                   • Q学习
+                   • SARSA
+                   • OpenAI Five（英语：OpenAI Five）
+         决策      • 自动驾驶
+                   • MuZero
+                   • 行动选择（英语：Action selection）
+                       □ Auto-GPT
+                   • 机器人控制（英语：Robot control）
+
+         • 约书亚·本希奥
+         • 杰弗里·辛顿
+         • 杨立昆
+         • 艾力克斯·格雷夫斯
+         • 伊恩·古德费洛
+ 人物    • 吴恩达
+         • 杰米斯·哈萨比斯
+         • 大卫·席尔瓦
+         • 李飞飞
+         • 于尔根·施密德胡伯
+         • 伊尔亚·苏茨克维
+
+         • Anthropic
+         • DeepMind
+         • EleutherAI（英语：EleutherAI）
+         • Google Brain
+ 组织    • Meta AI（英语：Meta AI）
+         • Mila（英语：Mila (research institute)）
+         • MIT CSAIL
+         • OpenAI
+         • Hugging Face
+
+         • 多层感知器（MLP）
+         • 循环神经网络（RNN）
+         • 长短期记忆（LSTM）
+         • 门控循环单元（英语：Gated recurrent unit）（GRU）
+         • 卷积神经网络（CNN）
+         • 残差神经网络（英语：Residual neural network）（ResNet）
+         • 变换器
+ 架构    • 自编码器
+         • 变分自编码器（VAE）
+         • 生成对抗网络（GAN）
+         • 图神经网络（英语：Graph neural network）（GNN）
+         • 回响状态网络（英语：Echo state network）（ESN）
+         • 神经图灵机（英语：Neural Turing machine）（NTM）
+         • 可微分神经计算机（英语：Differentiable neural computer）（DNC）
+
+  • 主题主题
+      □ 计算机编程
+      □ 技术
+  • 分类分类
+      □ 人工神经网络
+      □ 机器学习
+
+                                     • 查
+                                     • 论
+                                     • 编
+
+                                  机器人学
+                    • 机器人
+                    • 纲要（英语：Outline of robotics）
+                    • 术语（英语：Glossary of robotics）
+                    • 索引（英语：Index of robotics articles）
+                    • 历史（英语：History of robots）
+                    • 未来
+                    • 世界机器人学（英语：Robotics worldwide）
+                    • 机器人名人堂
+    主要文章        • 机器人伦理学
+                    • 机器人法则
+                    • 人类与机器人的互动
+                    • 人工智能竞赛和奖项（英语：Competitions
+                      and prizes in artificial intelligence）
+                    • 机器人列表（英语：List of robots）
+                    • 虚构机器人列表（英语：List of fictional
+                      robots and androids）
+
+                            • 类人型
+                            • 人型
+                            • 女性
+                            • 改造人
+                            • 六足（英语：Hexapod (robotics)）
+                  依外型    • 关节（英语：Articulated robot）
+                              （机械手臂）
+                            • 仿生
+                            • 微型（英语：Microbotics）
+                            • 纳米
+
+                            • 家用（英语：Domestic robot）
+                            • 娱乐（英语：Entertainment robot
+                              ）
+                            • 军用
+                            • 医疗
+                            • 服务（英语：Service robot）
+                            • 残疾（英语：Disability robot）
+                  依用途    • 义肢
+                            • 农业
+                            • 餐馆（英语：Automated restaurant
+                              ）
+                            • 工业
+                            • 社交
+      类型                  • 性爱
+
+                            • 固定
+                            • 地面
+                            • 水下
+                            • 空中
+                  依使用    • 太空
+                   环境     • 移动机器人（英语：Mobile robots   [100px-Shado]
+                              ）
+                            • 极地机器人（英语：Mobile robots#
+                              Classification）
+
+                            • 脚
+                  依移动    • 轮子
+                   方式     • 履带
+                            • 飞
+
+                            • 跑步
+                            • 游泳
+                            • 旋翼
+                  依运动    • 攀登
+                   行为     • 跳跃
+                            • 爬行形类
+                            • 摆
+
+                    • 动力源
+      部件          • 驱动
+                    • 感应
+
+                    • 手动遥控（英语：Mobile robot#Manual
+                      remote or tele-op）、遥控操作（英语：
+                      Remote operation）或远控自主
+                    • 避障遥控（英语：Mobile robot#Guarded
+                      tele-op）
+                    • 线控机器人（英语：Mobile robot#
+  导航（英语：        Line-following robot）
+  Mobile robot      • 自主随机机器人（英语：Mobile robot#
+  navigation）        Autonomously randomized robot）
+                    • 自动引导机器人（英语：Mobile robot#
+                      Autonomously guided robot）
+                    • 滑动自主（英语：Mobile robot#Sliding
+                      autonomy）
+                    • 自主机器人
+
+                    • 机器人学家
+                    • 机器人的领域（英语：Areas of robotics）
+                    • 机器人演化（英语：Evolutionary robotics）
+                    • 机器人工具组（英语：Robot kit）
+                    • 机器人模拟器（英语：Robotics simulator）
+                    • Suite（英语：Robotics suite）
+      研究          • 开源（英语：Open-source robotics）
+                    • 软件（英语：Robot software）
+                    • 适应性（英语：Adaptable robotics）
+                    • 开发（英语：Developmental robotics）
+                    • 范式（英语：Robotic paradigms）
+                    • 普适（英语：Ubiquitous robot）
+
+  • 分类分类
+  • 共享资源页面共享资源
+  • 主题主题
+  • 专题专题
+
+                                     • 查
+                                     • 论
+                                     • 编
+
+                               控制论相关领域
+                           • 人工智能
+                           • 生物控制论（英语：Biocybernetics）
+                           • 生物医学控制论（英语：Biomedical cybernetics）
+                           • 生物机器人
+                           • * 生物符号学（英语：Biosemiotics）
+                           • 脑机接口
+                           • 灾难理论（英语：Catastrophe theory）
+                           • 计算神经科学
+                           • 联结主义
+                           • 控制理论
+                           • 苏联的控制论（英语：Cybernetics in the Soviet
+                             Union）
+        分支领域           • 决策理论
+                           • 涌现
+                           • 工程控制论
+                           • 决定论
+                           • 稳态
+                           • 信息论
+                           • 管理控制论（英语：Management cybernetics）
+                           • 医学控制论（英语：Medical cybernetics）
+                           • 二阶控制论（英语：Second-order cybernetics）
+                           • 符号学
+                           • 社会控制论（英语：Sociocybernetics）
+                           • 多义性
+                           • 协同效应
+
+                           • Alexander Lerner（英语：Alexander Lerner）
+                           • Alexey Lyapunov（英语：Alexey Lyapunov）
+                           • 阿弗烈·芮克里夫-布朗
+                           • Allenna Leonard（英语：Allenna Leonard）
+                           • Anthony Wilden（英语：Anthony Wilden）
+                           • 巴克敏斯特·富勒
+                           • Charles François（英语：Charles François
+                             (systems scientist)）
+                           • Genevieve Bell（英语：Genevieve Bell）
+                           • 玛格丽特·A·博登
+                           • 克洛德·贝尔纳
+                           • Cliff Joslyn（英语：Cliff Joslyn）
+                           • Erich von Holst（英语：Erich von Holst）
+                           • Ernst von Glasersfeld（英语：Ernst von
+                             Glasersfeld）
+                           • Francis Heylighen（英语：Francis Heylighen）
+                           • 弗朗西斯科·瓦雷拉
+                           • Frederic Vester（英语：Frederic Vester）
+                           • Charles Geoffrey Vickers（英语：Geoffrey
+                             Vickers）
+                           • Gordon Pask（英语：Gordon Pask）
+                           • Gordon S. Brown（英语：Gordon S. Brown）
+                           • 格雷戈里·贝特森
+                           • 海因茨·冯·福斯特
+                           • Humberto Maturana（英语：Humberto Maturana）
+                           • 瑞恰慈
+                           • Igor Aleksander（英语：Igor Aleksander）
+                           • 雅克·法斯科
+                           • Jakob von Uexküll（英语：Jakob Johann von
+                             Uexküll）
+                           • Jason Jixuan Hu（英语：Jason Jixuan Hu）
+                           • Jay Wright Forrester（英语：Jay Wright
+    控制论者（英语：         Forrester）
+    Cyberneticist）        • Jennifer Wilby（英语：Jennifer Wilby）
+                           • John N. Warfield（英语：John N. Warfield）
+                           • 凯文·沃威克
+                           • 卡尔·路德维希·冯·贝塔郎非
+                           • Maleyka Abbaszadeh（英语：Maleyka Abbaszadeh）
+                           • 曼菲德·克莱恩斯
+                           • 玛格丽特·米德
+                           • Marian Mazur（英语：Marian Mazur）
+                           • 南希·凯瑟琳·海尔斯
+                           • 娜塔莉亚·贝赫捷列娃
+                           • 尼克拉斯·卢曼
+                           • 诺伯特·维纳
+                           • Pyotr Grigorenko（英语：Petro Grigorenko）
+                           • 钱学森
+                           • Ranulph Glanville（英语：Ranulph Glanville）
+                           • Robert Trappl（英语：Robert Trappl）
+                           • Sergei P. Kurdyumov（英语：Sergei P. Kurdyumov
+                             ）
+                           • Anthony Stafford Beer（英语：Stafford Beer）
+                           • 斯图亚特·考夫曼
+                           • Stuart Umpleby（英语：Stuart Umpleby）
+                           • 塔尔科特·帕森斯
+                           • Ulla Mitzdorf（英语：Ulla Mitzdorf）
+                           • Valentin Turchin（英语：Valentin Turchin）
+                           • Valentin Braitenberg（英语：Valentino
+                             Braitenberg）
+                           • W·罗斯·艾希比
+                           • 沃尔特·布拉德福·坎农
+                           • 沃尔特·皮茨
+                           • Warren McCulloch（英语：Warren Sturgis
+                             McCulloch）
+                           • William Grey Walter（英语：William Grey Walter
+                             ）
+
+                           • Behavioral psychology（英语：Behavioral
+                             psychology）
+        相关领域           • 博弈论
+                           • 政治学
+                           • 社会学
+
+                                     • 查
+                                     • 论
+                                     • 编
+
+                                  新兴技术
+技术
+                          • 农业机器人
+                          • 封闭生态系统
+                          • 试管肉
+           农业           • 基因改造食品
+                          • 精准农业
+                          • 垂直农法
+
+                          • 建筑生态学
+                          • 建筑打印（英语：Building printing）
+           建筑               □ Contour crafting（英语：Contour crafting）
+                              □ D-Shape（英语：D-Shape）
+                          • 圆顶城市（英语：Domed city）
+
+                          • 人造子宫
+                          • Ampakine（英语：Ampakine）
+                          • 脑部移植
+                          • 人体冷冻技术
+                              □ 冷冻保护剂
+                              □ 深低温保存
+                              □ 醛稳定冷冻保存
+                              □ 玻璃化（英语：Vitrification）
+                              □ 暂停生命
+                          • 去灭绝
+                          • 器官芯片
+                          • 基因工程
+                              □ 基因治疗
+                          • 头部移植
+                          • 孤立脑
+   生物医学技术（英语：   • 生命延续
+        Biomedical            □ 掌控可忽略衰老
+       technology）       • 纳米医学
+                          • 纳米传感器（英语：Nanosensor）
+                          • 个体化医疗（英语：Personalized medicine）
+                          • 再生医学
+                              □ 干细胞治疗
+                              □ 组织工程学
+                          • 机器人辅助手术（英语：Robot-assisted surgery）
+                          • 合成生物学
+                              □ 合成基因组学（英语：Synthetic genomics）
+                          • 病毒疗法
+                              □ 溶瘤病毒（英语：Oncolytic virus）
+                          • Tricorder（英语：Medical tricorder）
+                          • 全基因组测序
+                          • 基因改造细菌
+                          • 基因改造病毒
+
+                                                  • FED
+                                                  • FLCD（英语：Ferro
+                                                    Liquid Crystal Display
+                                                    ）
+                                                  • iMoD（英语：
+                                                    Interferometric
+                                                    modulator display）
+                                                  • Laser（英语：Laser
+                                                    video display）
+                          次世代（英语：Next      • LPD（英语：
+                         generation of display      Laser-powered phosphor
+                             technology）           display）
+                                                  • OLED
+                                                  • OLET
+                                                  • QD-LED
+                                                  • SED
+                                                  • TPD
+                                                  • TDEL
+                                                  • TMOS（英语：
+                                                    Time-multiplexed
+                                                    optical shutter）
+
+          显示器                                  • 仿生隐形眼镜（英语：
+                                                    Bionic contact lens）
+                                                  • 头戴式显示器
+                                                  • 抬头显示器
+                            去屏幕（英语：        • 光学头戴式显示器（英语
+                             Screenless）           ：Optical head-mounted
+                                                    display）
+                                                  • 虚拟视网膜显示器（英语
+                                                    ：Virtual retinal
+                                                    display）
+
+                                                  • 裸眼3D
+                                                  • 柔性显示器
+                                                  • 全息显示器（英语：
+                                                    Holographic display）
+                                                      □ 计算机生成全息（英
+                                                        语：
+                                 其他                   Computer-generated
+                                                        holography）
+                                                  • 多原色显示技术
+                                                  • Ultra HD
+                                                  • 体积显示器（英语：
+                                                    Volumetric display）
+
+                          • 电子鼻
+                          • 电子纺织品（英语：E-textiles）
+                          • 柔性印刷电路板
+                          • 分子电子学
+         电子产品         • 纳机电系统
+                          • 忆阻器
+                          • 自旋电子学
+                          • Thermal copper pillar bump（英语：Thermal
+                            copper pillar bump）
+
+                              • 高空风力发电机
+                              • 人工光合作用
+                              • 生物燃料
+                              • 碳中性燃料（英语：Carbon-neutral fuel）
+                              • 聚光太阳能热发电
+                              • 聚变能
+                        生    • 家用燃料电池（英语：Home fuel cell）
+                        产    • 氢经济
+                              • 甲醇经济
+                              • 熔盐堆
+                              • 光学整流天线（英语：Nantenna）
+                              • 光伏路面（英语：Photovoltaic pavement）
+                              • 太空太阳能
+                              • 涡流发动机（英语：Vortex engine）
+
+           能源               • 磷酸铁锂电池
+                              • 压缩空气能源存储（英语：Compressed air
+                                energy storage）
+                              • 飞轮储能
+                              • 电网能源存储（英语：Grid energy storage）
+                              • 锂空气电池
+                        存    • 熔盐电池（英语：Molten salt battery）
+                        储    • 纳米线电池
+                              • 锂离子电池研究（英语：Research in
+                                lithium-ion batteries）
+                              • 硅气电池（英语：Silicon–air battery）
+                              • 热能储存（英语：Thermal energy storage）
+                              • 超级电容
+
+                        其    • 智能电网
+                        他    • 无线供电
+
+                          • 环境智能
+                              □ 物联网
+                          • 人工智能
+                              □ 人工智能的应用（英语：Applications of
+                                artificial intelligence）
+                              □ 人工智能的进展（英语：Progress in
+                                artificial intelligence）
+                              □ 机器学习
+                              □ 深度学习
+                              □ 强化学习
+                              □ 机器翻译
+                              □ 机器视觉
+                              □ 语义网
+                              □ 语音识别
+                          • 区块链
+                              □ 加密货币
+                                  ☆ 比特币
+                                  ☆ 以太币
+                              □ 非同质化代币
+                              □ 智能合约
+                          • 元宇宙
+                          • 原子电子学（英语：Atomtronics）
+                          • 碳纳米管场效应晶体管（英语：Carbon nanotube
+      信息及通信技术        field-effect transistor）
+                          • Cybermethodology
+                          • 第四代光盘
+                              □ 3D光学数据存储（英语：3D optical data
+                                storage）
+                              □ 全息存储
+                          • GPGPU
+                          • 内存
+                              □ CBRAM
+                              □ FRAM
+                              □ Millipede
+                              □ MRAM
+领                            □ NRAM
+域                            □ PRAM
+                              □ 赛道存储器
+                              □ RRAM
+                              □ SONOS
+                          • 光子计算机
+                          • 量子计算机
+                          • 量子密码学
+                          • RFID
+                              □ 无芯片RFID（英语：Chipless RFID）
+                          • 软件无线电
+                          • 三维芯片
+
+                          • 3D打印
+                              □ 3D生物打印
+                              □ 3D食物打印
+           制造           • 电子粘土（英语：Claytronics）
+                          • 分子汇编器（英语：Molecular assembler）
+                          • 实用雾（英语：Utility fog）
+
+                          • 气凝胶
+                          • 非晶态金属
+                          • 人造肌肉
+                          • 导电聚合物
+                          • Femtotechnology（英语：Femtotechnology）
+                          • 富勒烯
+                          • 石墨烯
+                          • 高温超导
+                          • 高温超流体
+                          • 线性炔碳
+                          • 超材料
+                              □ 超材料隐形（英语：Metamaterial cloaking）
+         材料科学         • 金属泡沫（英语：Metal foam）
+                          • 多功能结构（英语：Multi-function structure）
+                          • 纳米技术
+                              □ 碳纳米管
+                              □ 分子纳米技术（英语：Molecular
+                                nanotechnology）
+                              □ 纳米材料
+                          • 皮米技术（英语：Picotechnology）
+                          • 可编程物质（英语：Programmable matter）
+                          • 量子点
+                          • 硅烯
+                          • 高温合金
+                          • 合成钻石
+
+                          • 反物质武器
+                          • 无壳弹
+                          • 定向能量武器
+                              □ 激光
+                              □ 激微波
+                              □ 粒子束武器
+      军事技术与装备          □ 声波武器
+                              □ 线圈炮
+                              □ 磁道炮
+                          • 等离子武器
+                          • 纯聚变武器（英语：Pure fusion weapon）
+                          • 低可侦测性技术
+                          • 涡环枪（英语：Vortex ring gun）
+
+                          • 人造脑
+                              □ 蓝脑项目
+                          • 脑机接口
+                          • 脑电图
+                          • 意识上传
+                              □ 读脑（英语：Brain-reading）
+         神经科学             □ 神经信息学
+                          • 神经假体
+                              □ 仿生眼
+                              □ 脑植入（英语：Brain implant）
+                              □ 外部皮层
+                              □ 视网膜植入（英语：Retinal implant）
+
+                          • 家庭自动化
+                          • 纳米机器人
+                          • 动力服
+         机器人学         • 自重构模块化机器人（英语：Self-reconfiguring
+                            modular robot）
+                          • 群体机器人（英语：Swarm robotics）
+                          • 无人机
+
+                                          • 核聚变火箭
+                                          • 非火箭航天发射
+                                              □ 质量投射器
+                                              □ 轨道环（英语：Orbital ring
+                                                ）
+                         发射（英语：         □ 太空电梯
+                        Space launch）        □ 空间喷泉（英语：Space
+                                                fountain）
+                                              □ 太空缆索
+                                          • 可重用发射系统（英语：Reusable
+                                            launch system）
+
+                                          • 光束推进（英语：Beam-powered
+                                            propulsion）
+                                          • 离子推力器
+         空间科学                         • 激光推进（英语：Laser
+                                            propulsion）
+                                          • 等离子推进发动机
+                                              □ 螺旋双层推进器（英语：
+                          航天器推进            Helicon double-layer
+                                                thruster）
+                                              □ 可变比冲磁等离子体火箭
+                                          • 猎户座项目（英语：Project
+                                            Orion）
+                                          • 核脉冲推进
+                                          • 太阳帆
+
+                                          • 恒星际旅行
+                             其他         • 推进剂库（英语：Propellant
+                                            depot）
+
+                                            • 自适应柔性变形机翼（英语：
+                                              Adaptive compliant wing）
+                                            • Aeroscraft（英语：Worldwide
+                                              Aeros Corp）
+                                            • 背包直升机（英语：Backpack
+                                              helicopter）
+                                            • 送货无人机（英语：Delivery
+                                              drone）
+                                            • 飞行车
+                              航空          • 高空平台（英语：
+                                              High-altitude platform）
+                                            • 喷气式飞行包
+                                            • 脉冲爆震引擎（英语：Pulse
+                                              detonation engine）
+                                            • 超音速燃烧冲压发动机
+                                            • 太空飞机
+                                                □ 云霄塔
+                                            • 超音速客机
+                                            • 飞天车
+
+                                            • 无气轮胎（英语：Airless tire
+                                              ）
+   运输（英语：Outline                          □ Tweel（英语：Tweel）
+      of transport）                        • 新能源汽车
+                                                □ 氢动力汽车
+                                            • 自动驾驶汽车
+                                            • 地面效应列车（英语：Ground
+                                              effect train）
+                        陆路运输（英语：    • 磁悬浮列车
+                        Land transport）    • 个人快速运输系统
+                                            • 真空管道高速交通
+                                                □ ET3全球联盟（英语：ET3
+                                                  Global Alliance）
+                                                □ 超回路列车
+                                            • 车载通信系统（英语：
+                                              Vehicular communication
+                                              systems）
+
+                                            • 气动运输（英语：Pneumatic
+                                              tube）
+                                                □ 自动化真空收集（英语：
+                              管道                Automated vacuum
+                                                  collection）
+                                                □ 食品管道（英语：
+                                                  Foodtubes）
+
+                          • 反重力
+                          • 隐身斗篷（英语：Cloak of invisibility）
+                          • 数字香水技术（英语：Digital scent technology）
+                          • 力场 (小说)（英语：Force field (fiction)）
+                              □ 等离子窗（英语：Plasma window）
+                          • 沉浸 (虚拟现实)（英语：Immersion (virtual
+           其他             reality)）
+                              □ 虚拟球（英语：VirtuSphere）
+                          • 磁性制冷（英语：Magnetic refrigeration）
+                          • 相控阵光学（英语：Phased-array optics）
+                          • 量子技术
+                              □ 量子隐形传态
+
+     • 科林格里奇困境
+     • 差异化技术开发（英语：Differential technological development）
+     • Ephemeralization（英语：Ephemeralization）
+     • 技术伦理学（英语：Ethics of technology）
+         □ 生物伦理学
+         □ 网络伦理
+         □ 神经伦理学（英语：Neuroethics）
+         □ 机械伦理学
+     • 探索性工程（英语：Exploratory engineering）
+     • 虚构科技
+     • 行事原则（英语：Proactionary principle）
+理   • 技术革新
+念       □ 技术失业（英语：Technological unemployment）
+     • 技术融合
+     • 技术演进（英语：Technological evolution）
+     • 技术范例（英语：Technological paradigm）
+     • 科技预测
+         □ 加速变化（英语：Accelerating change）
+         □ 摩尔定律
+         □ 技术奇异点
+         □ Technology scouting（英语：Technology scouting）
+     • 技术就绪指数
+     • 技术路线
+     • 超人类主义
+
+  • 分类分类
+  • 列表级条目列表
+
+                           • AAT: 300251574
+                           • BNE: XX4659822
+                           • BNF: cb11932084t (data)
+                           • GND: 4033447-8
+规范控制编辑维基数据链接   • J9U: 987007294969105171
+                           • LCCN: sh85008180
+                           • LNB: 000050010
+                           • NDL: 00574798
+                           • NKC: ph116536
+
+*
+取自“https://zh.wikipedia.org/w/index.php?title=人工智能&oldid=80081851”
+分类：​
+
+  • 人工智能
+  • 控制论
+  • 形式科学
+  • 技术与社会
+  • 计算神经科学
+  • 新兴技术
+  • 计算机科学中未解决的问题
+
+隐藏分类：​
+
+  • 自2020年2月带有失效链接的条目
+  • 条目有永久失效的外部链接
+  • CS1美国英语来源 (en-us)
+  • CS1日语来源 (ja)
+  • 自2018年9月粗劣翻译
+  • 可能带有原创研究的条目
+  • 拒绝当选首页新条目推荐栏目的条目
+  • 自2023年11月需要从英语维基百科翻译的条目
+  • 需要从英语维基百科翻译的条目
+  • 含有多个问题的条目
+  • 含有英语的条目
+  • 有未列明来源语句的条目
+  • 有蓝链却未移除内部链接助手模板的页面
+  • 引文格式1错误：periodical系列参数与模板类型不匹配
+  • 引文格式1错误：网址－维基内链冲突
+  • 引文格式1错误：章节参数被忽略
+  • 引文格式1维护：日期与年
+  • 引文格式1错误：日期
+  • 含有访问日期但无网址的引用的页面
+  • 引文格式1错误：已知参数被忽略
+  • 自2017年11月带有失效链接的条目
+  • 包含AAT标识符的维基百科条目
+  • 包含BNE标识符的维基百科条目
+  • 包含BNF标识符的维基百科条目
+  • 包含GND标识符的维基百科条目
+  • 包含J9U标识符的维基百科条目
+  • 包含LCCN标识符的维基百科条目
+  • 包含LNB标识符的维基百科条目
+  • 包含NDL标识符的维基百科条目
+  • 包含NKC标识符的维基百科条目
+  • 使用ISBN魔术链接的页面
+
+  • 本页面最后修订于2023年12月11日 (星期一) 16:25。
+  • 本站的全部文字在知识共享署名-相同方式共享 4.0协议 之条款下提供，附加条款亦
+    可能应用。（请参阅使用条款）
+    Wikipedia®和维基百科标志是维基媒体基金会的注册商标；维基™是维基媒体基金会的
+    商标。
+    维基媒体基金会是按美国国内税收法501(c)(3)登记的非营利慈善机构。
+
+  • 隐私政策
+  • 关于维基百科
+  • 免责声明
+  • 行为准则
+  • 开发者
+  • 统计
+  • Cookie声明
+  • 手机版视图
+
+  • Wikimedia Foundation
+  • Powered by MediaWiki
+
+  • 开关有限宽度模式
 
-     * 特惠专区
-     * 云专题
-     * 云百科
-     * 在线视频
-     * 免费试用
-     * 企业应用
-     * 售前咨询
-     * 客户案例
-
-   华为云计算 云知识 人工智能的定义？人工智能的基本概念是什么？
-   [1.jpg]
-
-   HECS云服务器 1核2G
-
-   64.5元/年限时秒杀
-   [3.jpg]
-
-   云耀云服务器L实例 2核2G 3M
-
-   低至89.1元/年
-   [2.jpg]
-
-   云耀云服务器L实例 2核4G 5M
-
-   230元/年
-   [4.jpg]
-
-   网站搭建 买3年送2年
-
-   1元/天
-   人工智能的定义？人工智能的基本概念是什么？
-   时间: 2021-08-02 20:09:22
-   猜你想看：
-   华为云耀L实例 实时语音识别 云服务器配置 CDN是什么意思 视频点播加速 什么是云桌面
-
-   【热门云产品免费试用活动】| 【最新活动】| 【企业应用优惠】
-
-   免费试用专区
-
-   自从人类发明了计算机或机器人，它们执行各种任务的能力都有了相对的增长，人类已经可以开发出计算机系统的很多功能，涉及各种工作领域，人工智能的定义
-   ，简单来说，就是要通过智能的机器，达到人与机器和谐共处的一个社会。逐渐延伸了人类改造自然和治理社会的能力。
-
-   人工智能的定义是什么？
-
-   人工智能（Artificial
-   Intelligence），英文缩写为AI。它是研究、开发用于模拟、延伸和扩展人的智能的理论、方法、技术及应用系统的一门新的技术科学。
-   人工智能是计算机科学的一个分支，它企图了解智能的实质，并生产出一种新的能以人类智能相似的方式做出反应的智能机器。
-
-   人工智能的定义？人工智能的基本概念是什么？
-
-   人工智能的定义
-
-   人工智能的基本概念（AI）
-
-   根据人工智能之父约翰麦卡锡的说法，它是“制造智能机器的科学与工程，特别是智能计算机程序”。
-
-   人工智能是一种使计算机，计算机控制的机器人或软件智能地思考的方式，其方式与智能人类的思维方式类似。人工智能是通过研究人类大脑如何思考以及人类在
-   尝试解决问题时如何学习，决定和工作，然后将本研究的结果用作开发智能软件和系统的基础来实现的。
-
-   在充分利用计算机系统的力量的同时，人类的好奇心使他想知道“机器能像人类一样思考和行为吗？”
-
-   因此，人工智能的发展始于在我们发现并在人类中高度重视的机器中创造类似的智能。
-
-   人工智能的定义？人工智能的基本概念是什么？
-
-   人工智能的定义
-
-   学习人工智能的必要性
-
-   我们知道AI追求创造像人类一样聪明的机器。我们研究AI的原因有很多。
-
-   AI可以通过数据学�
-
-   在我们的日常生活中，我们处理的是大量的数据，人类的大脑无法跟踪这么多的数据。这就是我们需要自动化的原因。为了实现自动化，我们需要研究AI，因为
-   它可以从数据中学习，并且可以准确无误地完成重复性任务。
-
-   AI可以自学
-
-   系统应该自学，因为数据本身不断变化，并且必须不断更新从这些数据中获得的知识。我们可以使用AI来实现这一目的，因为启用AI的系统可以自学。
-
-   AI可以实时响应
-
-   借助神经网络的人工智能可以更深入地分析数据。由于这种能力，AI可以根据实时情况思考和响应情况。
-
-   AI实现准确性
-
-   在深度神经网络的帮助下，AI可以实现极高的准确性。AI帮助医学领域从患者的MRI中诊断癌症等疾病。
-
-   AI可以组织数据以最大限度地利用它
-
-   数据是使用自学习算法的系统的知识产权。我们需要AI以一种始终提供最佳结果的方式索引和组织数据。
-
-   了解情报
-
-   使用AI，可以构建智能系统。我们需要了解智力的概念，以便我们的大脑可以构建像自己这样的另一个智能系统。
-
-   人工智能的定义其实是一个非常广泛的领域。这些领域虽然目前不是非常集中，但是它们正在交叉发展中，很多的未知的领域处在研究之中，并且逐渐走向统一。
-   人工智能的最终目标是希望变成一门真正的科学，形成一个完整的科学体系。
-
-   更多相关文章：
-
-   1. 域名 建站 专场
-
-   2. 商标特惠专场
-
-   5. SSL证书专场
-
-   6. 全球云服务专场
-
-   7. 云服务器 免费试用
-
-   8. 企业免费试用专区
-
-   9. 个人免费试用专区
-
-   10. 图片文字识别 OCR
-
-   11. 网站建设 自助建站
-
-   12. 企业应用专场
-
-   13. 域名注册 申请
-
-   14. 服务器和网关的关系是什么？网关的作用有哪些
-
-   15. 域名解析a记录是什么意思
-
-   16. 网址域名ip查询方式有哪些？域名和ip地址的区别是什么？
-
-   17. 域名和url的区别与联系是什么？
-
-   18. 域名和ip地址有什么关系？二者的含义是什么？
-
-   19. com域名和cn域名是什么意思？com和cn域名哪个好？
-     __________________________________________________________________
-
-   版权声明：本文章文字内容来自第三方投稿，版权归原始作者所有。本网站不拥有其版权，也不承担文字内容、信息或资料带来的版权归属问题或争议。如有侵权
-   ，请联系contentedit@huawei.com，本网站有权在核实确属侵权后，予以删除文章。
-   上一篇：CAXA PLM云商店登榜，为制造企业数字化转型“保驾护航” 下一篇：媒体加速FPGA解决方案是什么？
-
-AI开发平台ModelArts
-
-   ModelArts是面向开发者的一站式AI开发平台，为机器学习与深度学习提供海量数据预处理及半自动化标注、大规模分布式Training、自动化
-   模型生成，及端-边-云模型按需部署能力，帮助用户快速创建和部署模型，管理全周期AI工作流。
-
-   产品详情立即注册一元域名华为云桌面
-
-   [免费试用]80+款云产品，最长可无限期免费试用，0门槛助您轻松上云免费
-
-   猜你喜欢
-     * 专题
-     * 产品
-     * 解决方案
-
-     * RPA_RPA在银行的应用_RPA的全称是什么
-     * 便宜稳定的云硬盘_可靠免费的云硬盘_云硬盘EVS是什么
-     * GPU是什么_GPU是干什么的_GPU的作用_GPU简介
-     * CDN 购买_办理CDN的价格_CDN是什么功能
-     * 如何购买已备案域名_购买的方法是什么
-
-     * AI平台ModelArts入门
-     * Serverless应用中心_函数工作流-华为云
-     * 园区智能体
-     * EI智能体验馆
-     * 视频接入分析服务
-
-     * 教育行业解决方案
-     * 人才培养云解决方案-华为云
-     * 政府及公共事业解决方案
-     * 工业互联网区域平台
-     * 智慧气象解决方案
-
-最新文�
-
-     * 集群升级UpgradeCluster
-     * 获取集群升级任务详情ShowUpgradeClusterTask
-     * 重试集群升级任务RetryUpgradeClusterTask
-     * 暂停集群升级任务PauseUpgradeClusterTask
-     * 继续执行集群升级任务ContinueUpgradeClusterTask
-
-   云服务器0元领取 | 免费试用云产品
-   人工智能的定义？人工智能的基本概念是什么？
-
-   您找到想要的内容了吗?
-   是的 没有
-
-   意见反馈
-
-
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   0/200
-
-   提交 取消
-   [1619435461687005393.png] 提交成功！非常感谢您的反馈，我们会继续努力做到更好 反馈提交失败！请稍后重试！
-   [1619435461708089554.png]
-   推荐产品
-
-   【盘古大模型】
-
-   大模型重塑千行百业
-
-   【AI数字人】
-
-   基于华为自研的数字人大脑
-
-   【MetaStudio】
-
-   帮助客户实现向虚拟世界演进
-
-   相关专题
-     * BPM产品_BPM的概念_BPM定义
-     * ﻿公司邮箱如何申请_电子邮箱的定义和特点是什么
-     * MES的定义_SAAS MES_轻量MES
-     * CDN是什么意思_CDN域名配置_CDN基本概念
-     * 人工智能学习入门
-     * CCI基本概念_华为云CCI概念_云容器实例基本概念
-
-更多内容
-
-   怎么制作一个网站 商标注册流程及费用 Email注册网站 免费网站申请域名 新用户优惠 华为折扣券哪里领 云服务器代金券 文字识别平台
-   NPM镜像下载 Manjaro镜像下载
-
-     *
-
-7*24
-       多渠道服务支持
-     *
-
-ICP备案
-       提供免费备案服务
-     *
-
-专业服务
-       云业务全流程支持
-     *
-
-退订
-       享无忧退订服务
-     *
-
-建议反馈
-       优化改进建议
-
-   热门产品
-     * 云服务器
-     * 云速邮箱
-     * 域名注册
-     * 云速建站
-
-   华为云App
-
-售前咨询热线
-
-   950808转1
-     * 技术服务咨询
-     * 售前咨询
-       sales@huaweicloud.com
-     * 备案服务
-       beian@huaweicloud.com
-     * 云商店咨询
-       partner@huaweicloud.com
-
-   下载华为云App
-
-   关注我们
-
-   关注华为云
-          4000 955 988
-
-          950808
-
-          华为云微信
-
-          扫描二维码
-
-          华为云微博
-
-          扫描二维码
-
-          华为云App
-
-          扫描下载华为云App
-
-   售前咨询：950808转1
-     * 法律声明
-     * 隐私政策
-
-   [1619435461708089554.png]
-
-   长按/截图保存，微信识别二维码
-   或者关注公众号“华为云”
-
-   关于华为云
-          了解华为云
-          客户案例
-          信任中心
-          法律协议
-          新闻报道
-          华为云直播
-
-   热门产品
-          免费体验中心
-          云服务器
-          盘古大模型
-          SSL证书
-          华为云WeLink
-          云速建站
-
-   支持与服务
-          自助服务
-          服务公告
-          支持计划
-          智能客服
-          联系我们
-          举报中心
-
-   实用工具
-          文字识别
-          漏洞扫描
-          域名注册
-          华为云会议
-          定制建站
-          云服务健康看板
-
-   快速链接
-          华为官网
-          华为消费者业务
-          华为开发者联盟
-          华为企业业务
-          华为商城
-          花粉俱乐部
-
-     * 法律声明
-     * 隐私政策
-
-   ©2022 Huaweicloud.com 版权所有 黔ICP备20004760号-14 苏B2-20130048号
-   A2.B1.B2-20070312
-
-   域名注册服务机构许可：黔D3-20230001 代理域名注册服务机构：新网、西数
-   电子营业执照 贵公网安备 52990002000093号

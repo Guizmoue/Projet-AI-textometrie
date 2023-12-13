@@ -287,6 +287,21 @@ Ransomware: 40 countries make commitment to no longer pay ransoms
    Alliance led by United States and supported by European Union seeks to
    dry up funding for cybercriminal groups.
    Cyber industrial safety
+   Siemens launches industrial cybersecurity analysis tool
+   21 October 2023
+
+Siemens launches industrial cybersecurity analysis tool
+
+   During maintenance phases, software tests resilience of organization’s
+   IT/OT environment.
+   Energy: critical flaw in industrial surveillance machinery
+   04 October 2023
+
+Energy: critical flaw in industrial surveillance machinery
+
+   Nozomi Networks has identified three vulnerabilities, one critical,
+   with no available patches, in equipment widely used by energy
+   infrastructure.
    State-affiliated groups are main cyber threat to industry
    26 September 2023
 
@@ -315,22 +330,29 @@ Despite improvements, OT cybersecurity remains a problem
 
    Fortinet’s latest report shows that 75% of manufacturers have suffered
    at least one intrusion in the last 12 months.
-   Critical flaw in Siemens’ energy sector ICS
-   19 June 2023
-
-Critical flaw in Siemens’ energy sector ICS
-
-   The vulnerability enables complete takeover of devices and may
-   undermine power grids
-   Power grids: Mandiant warns about new malware CosmicEnergy
-   19 June 2023
-
-Power grids: Mandiant warns about new malware CosmicEnergy
-
-   It is said to be the product of a Russian cybersecurity team, Red Team,
-   which develops malicious tools to stress test industrial computer
-   systems
    Security and Stability in Cyberspace
+   United States: SEC sues SolarWinds
+   07 November 2023
+
+United States: SEC sues SolarWinds
+
+   The Securities and Exchange Commission (SEC), the US stock exchange
+   regulatory authority, filed a lawsuit at the end of October 2023,
+   against the SolarWinds software publisher and its CISO, Timothy ...
+   Canada bans WeChat and Kaspersky for government employees
+   02 November 2023
+
+Canada bans WeChat and Kaspersky for government employees
+
+   Federal administration will ban Chinese social network and Russian
+   antivirus on government devices.
+   Canada: Chinese disinformation campaign targets federal MPs
+   02 November 2023
+
+Canada: Chinese disinformation campaign targets federal MPs
+
+   Attacks meant to discredit Chinese-speaking Canadian personality
+   critical of People’s Republic of China.
    “We are at cyberwar!” Really?
    31 October 2023
 
@@ -358,27 +380,6 @@ Why is there so much misinformation about the Israel-Hamas war on X?
    Since Hamas’s surprise attack against Israel on October 7, 2023, social
    media has been inundated with false and misleading content, especially
    X (formerly Twitter). How can we explain such a ...
-   Mysterious Team Bangladesh hacktivists target France
-   08 October 2023
-
-Mysterious Team Bangladesh hacktivists target France
-
-   DDoS attacks hit airports and university to protest French presence in
-   Niger and Senegal, but also ban on abaya dress in French schools.
-   Cyberattack against International Court of Justice in The Hague
-   26 September 2023
-
-Cyberattack against International Court of Justice in The Hague
-
-   ICJ provides no details on cyberattack and perpetrator but has been in
-   Russia’s cross-hairs for a long time.
-   Ursula von der Leyen aims to establish “AI IPCC”
-   26 September 2023
-
-Ursula von der Leyen aims to establish “AI IPCC”
-
-   EU Chief wants to bring together scientists, businesses and experts to
-   guarantee responsible AI growth on a world level.
    Cybercrime
    Data theft at PC cloud platform Shadow
    19 November 2023
@@ -516,6 +517,20 @@ Olympic Games: ANSSI argues for “healthy paranoia”
    Vincent Strubel, head of ANSSI, goes over security measures for Paris
    2024 Games, as well as threats the event faces.
    Digital identity & KYC
+   Interim agreement on European digital identity wallet
+   14 November 2023
+
+Interim agreement on European digital identity wallet
+
+   European Parliament and Council pass first bill to regulate measures on
+   identification throughout European Union.
+   UN supports digital identity for developing nations
+   21 October 2023
+
+UN supports digital identity for developing nations
+
+   UNDP and SIA join forces to roll out digital identification solutions,
+   tech deemed “essential to furthering human rights.”
    Crypto theft linked to LastPass hack?
    13 September 2023
 
@@ -551,23 +566,25 @@ The Catholic Church in France gives priests digital IDs
    It is now possible to verify if priests are authorized to say Mass or
    hear confession, and thus make sure they are not accused of any sexual
    crimes
-   New fundraising round for Archipels, which welcomes shareholder IN
-   Group
-   19 June 2023
-
-New fundraising round for Archipels, which welcomes shareholder IN Group
-
-   Publicly owned French company Archipels develops digital identity
-   platform based on blockchain
-   DocuSign launches AI-assisted ID verification
-   16 May 2023
-
-DocuSign launches AI-assisted ID verification
-
-   Named “ID Verification for EU Qualified”, compliant with European Union
-   and United Kingdom regulatory requirements, this solution also relies
-   on human approval
    Digital Sovereignty
+   [2023 Montreal InCyber Forum] Thinking big: is a global data protection
+   regulatory framework on the way?
+   08 December 2023
+
+[2023 Montreal InCyber Forum] Thinking big: is a global data protection
+regulatory framework on the way?
+
+   By Jean-François Bélanger
+   Imposing a binding set of global regulations is unrealistic, since it
+   would require states to give up their legal autonomy. However, the
+   positive influences of the GDPR are spreading, inspiring ...
+   AI Act: towards three-tiered generative AI regulation
+   04 December 2023
+
+AI Act: towards three-tiered generative AI regulation
+
+   Ongoing negotiations in Brussels could lead to requirements for AI
+   models according to size and popularity.
    TikTok: an application under surveillance
    22 November 2023
 
@@ -577,6 +594,13 @@ TikTok: an application under surveillance
    The Chinese social network is under scrutiny by the American and
    European authorities, who want to know exactly how their citizens’ data
    is being used. This comes at a time when geostrategic ...
+   Apple: must iMessage comply with the DMA?
+   13 November 2023
+
+Apple: must iMessage comply with the DMA?
+
+   Google and four network providers want Apple instant messaging service
+   to comply with “gatekeeper” interoperability requirements.
    NIS2 on the horizon: companies need to get ready
    08 November 2023
 
@@ -586,32 +610,33 @@ NIS2 on the horizon: companies need to get ready
    The aim of this new European directive is to strengthen cybersecurity
    in Europe. It is set to replace the NIS1 directive, whose requirements
    are no longer up to the task of improving security, ...
-   Digital Services Act implemented for “very large platforms”
-   08 October 2023
+   AI: France, Germany and Italy want to strengthen EU’s strategic
+   autonomy
+   04 November 2023
 
-Digital Services Act implemented for “very large platforms”
+AI: France, Germany and Italy want to strengthen EU’s strategic autonomy
 
-   Other services have until February 17, 2024, to comply.
-   Transatlantic data: Data Privacy Framework already challenged
-   08 October 2023
-
-Transatlantic data: Data Privacy Framework already challenged
-
-   French MP Philippe Latombe files suit with ECJ to cancel Privacy Shield
-   successor.
-   Tunisia expands scope of national cybersecurity agency
-   08 October 2023
-
-Tunisia expands scope of national cybersecurity agency
-
-   ANSI also becomes ANSC.
-   Digital Market Act update
-   03 October 2023
-
-Digital Market Act update
-
-   Definitive list of “gatekeepers” published on September 6, 2023.
+   Economy ministers from three member States want to promote growth of
+   most innovative European companies.
    Digital transition
+   Business intelligence faced with generative AI: overcoming fears
+   06 December 2023
+
+Business intelligence faced with generative AI: overcoming fears
+
+   By Arnaud Marquant, directeur des opérations chez KB Crawl
+   The current use of generative AI in the business intelligence sector
+   raises a number of fears. These may be overcome by educating
+   professionals.
+   Digital assistants: a new team member joins manned flights
+   04 December 2023
+
+Digital assistants: a new team member joins manned flights
+
+   By Antoine Meunier
+   Space, almost by definition, is undoubtedly the most technological
+   sector that exists. While early space-age machines, including the first
+   manned capsules, didn’t even have on-board computers, ...
    How AI is shaking up intellectual property
    23 November 2023
 
@@ -650,19 +675,6 @@ Corporate cryptocurrency cashflow: balancing flexibility and security
    The rise of cryptocurrencies is being felt in the business world.
    Companies’ adoption of this technology raises specific issues of
    governance and security. Here is a guide to the topic.
-   Privacy governance better accounted for throughout the world
-   14 November 2023
-
-Privacy governance better accounted for throughout the world
-
-   Yet heads of privacy in corporations still deem resources insufficient.
-   OpenAI to fight AI’s “catastrophic risks”
-   10 November 2023
-
-OpenAI to fight AI’s “catastrophic risks”
-
-   ChatGPT publisher forms team of experts to assess most serious threats
-   associated with advanced AI models.
 
    InCyber
      * Linkedin
@@ -711,7 +723,7 @@ OpenAI to fight AI’s “catastrophic risks”
    spécifique explicitement demandé par l’abonné ou l’utilisateur, ou dans
    le seul but d’effectuer la transmission d’une communication sur un
    réseau de communications électroniques.
-   Préférences [ ] Préférences
+   Préférence[ ]_] Préférences
    Storage or technical access is necessary for the purpose of legitimate
    interest to store preferences that are not requested by the subscriber
    or user.
