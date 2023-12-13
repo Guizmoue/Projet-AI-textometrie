@@ -331,11 +331,12 @@ Menl o Ventures 的 合伙 人文基 · 甘尼桑 （ Venk y Ganesan ） 说 ，
 
 同 话题 下 的 热门 内容
 
-让 工作流 更加 智能 的 五 款 AI 工具 Gemini vs ChatGPT ： 谷歌 最新 的 AI 和 ChatGPT 相比 ， 谁
-更 强 ? 构建 更 好 的 基于 LLM 的 应用 程序 的 四 大 秘诀 面向 AI 开发 的 六 种 最 重要 的 编程 语言
-Gemini 上 线 首日 ： 用户 褒贬 不 一 ， 演示 被 质疑 「造 假」 ， 谷歌 承认 了 谷歌 深夜 放复 仇杀器
-Gemini ， 最 强原生多 模态 史诗级 碾压 GPT - 4 ！ 语言 理解 首 超 人类 一 条 磁力链 接 席卷AI圈 ，
-87 G B 种子 直接 开源 8 x 7 B MoE 模型 如何 用 ChatGPT 分析 恶意 软件
+让 工作流 更加 智能 的 五 款 AI 工具 构建 更 好 的 基于 LLM 的 应用 程序 的 四 大 秘诀Gemini vs
+ChatGPT ： 谷歌 最新 的 AI 和 ChatGPT 相比 ， 谁 更 强 ? Gemini 上 线 首日 ： 用户 褒贬 不 一 ， 演示 被
+质疑 「造 假」 ， 谷歌 承认 了 谷歌 深夜 放复 仇杀器 Gemini ， 最 强原生多 模态 史诗级 碾压 GPT - 4
+！ 语言 理解 首 超 人类 一 条 磁力链 接 席卷AI圈 ， 87 G B 种子 直接 开源 8 x 7 B MoE 模型 如何 用
+ChatGPT 分析 恶意 软件 467亿 参数 MoE追平 GPT - 3 . 5 ！ 爆火 开源Mixtral 模型 细节 首 公开 ， 中 杯
+逼近 GPT - 4
 
 编辑 推荐
 
