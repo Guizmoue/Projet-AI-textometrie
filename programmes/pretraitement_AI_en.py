@@ -1,5 +1,5 @@
 '''
-Ce programme permet d'ouvrir un fichier texte et de remplacer "artificial intelligence" par "artificialintelligence"
+Ce programme permet d'ouvrir un fichier texte et de remplacer toutes les occurrences de "artificial intelligence" par "artificialintelligence"
 '''
 
 def replaceAI(source, destination) : 
