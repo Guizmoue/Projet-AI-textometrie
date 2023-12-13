@@ -94,3 +94,6 @@ do
     lineno=$(expr $lineno + 1)
 done < $URLS
 echo "</table>" >> $html_file
+
+# Créer les sources pour les nuages de mot
+cat "../Contextes/${lang}-*.txt >> "../itrameur/source_nuage_${lang}.txt"
