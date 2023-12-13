@@ -22,8 +22,7 @@ html_file="../tableaux/$lang.html"
 motif="(\bIA\b|intelligence\sartificielle|\bAI\b|artificial\sintelligence|人工(\s)?智能|人工(\s)?智慧)"
 
 
-#echo "<html><head></head><body>" > $html_file
-echo "<table class="table mt-4 table-striped table-hover" id="${lang}" >" >> $html_file
+echo "<table class="table mt-4 table-striped table-hover" id="${lang}">" >> $html_file
 echo "<tr><th>Ligne</th><th>URL</th><th>Code HTTP</th><th>Encodage</th><th>Aspiration</th><th>Dump</th><th>Compte</th><th>Contexte</th><th>Concordances</th></tr>" >> $html_file
 
 while read -r URL
@@ -50,7 +49,7 @@ do
         then
             w3m $URL > ../dumps-text/${lang}-${lineno}.txt
             TEXTFILE=../dumps-text/${lang}-${lineno}.txt
-            python -m thulac ${TEXTFILE} ../dumps-text/${lang}-${lineno}_token.txt -seg_only
+            python3 -m thulac ${TEXTFILE} ../dumps-text/${lang}-${lineno}_token.txt -seg_only
             TEXTFILE=../dumps-text/${lang}-${lineno}_token.txt
         fi
 
