@@ -73,3 +73,19 @@ L'autre imperfection de l'iTrameur est qu'il ne peut pas enquêter plusieurs mot
 ### Utiliser des scripts directement
 
 Afin de compléter le défaut de l'iTrameur, nous avons sollicité à des scripts complémentaires. Grâce au script "cooccurents.py", nous avons réussi à obtenir les cooccurrents d'"intelligence artificielle" ou d'autres termes composés de plusieurs mots en utilisant l'expression régulière. Pourtant, le script ne permet toujours pas de traiter les textes en chinois et il nous semble qu'il ne détecte pas les termes "AI" ou "IA". 
+
+
+
+## Semaine 12
+
+### Plan
+
+
+### Site Web
+
+Creation d'un script, nomme script_generateur_tableaux.sh, qui integre dans la page data.html les tableaux fr.html, en.html et cn.html.
+
+
+### Difficultés
+
+Les points noires sont les conflits entre local et serveur git. Dans le cas ou, suite a des mofifications en local alors que l'utilisateur a 2 commits de retards sur le serveur. Nous avons experiente la solution suivantes : premierement entrez la commande git stash qui va retirer et enregistrer les fichiers modifies non valides. Deuxiement, l'utilisateur doit mettre a jour son git pour rattraper son retard a l'aide des commandes : git add, git commit et git pull. Enfin, on reintegre les fichiers avec la commande git stash apply que l'on add et commit avant de push.
