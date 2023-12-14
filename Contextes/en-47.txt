@@ -50,6 +50,10 @@ AWS and NVIDIA Expand Collaboration to Deliver Generative AI Infrastructure
    cloud computing, generative AI, News, NVIDIA, PYMNTS News, What's Hot
 
 --
+   Klarna Pushes Deeper Into Travel Sector With CarTrawler Partnership
+   Relex Introduces AI-Driven Price Optimization for Retailers
+
+--
    [ ] PYMNTS Today
    [ ] Artificial Intelligence
    [ ] Cryptocurrency

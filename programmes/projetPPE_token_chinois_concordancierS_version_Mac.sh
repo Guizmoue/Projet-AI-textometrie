@@ -22,8 +22,10 @@ html_file="../tableaux/$lang.html"
 motif="(\bIA\b|intelligence\sartificielle|\bAI\b|artificial\sintelligence|人工(\s)?智能|人工(\s)?智慧)"
 
 
-echo "<table class="table mt-4 table-striped table-hover" id="${lang}">" >> $html_file
-echo "<tr><th>Ligne</th><th>URL</th><th>Code HTTP</th><th>Encodage</th><th>Aspiration</th><th>Dump</th><th>Compte</th><th>Contexte</th><th>Concordances</th></tr>" >> $html_file
+echo -e "\t\t\t<table class='table mt-4 table-striped table-hover' id='${lang}'>" > $html_file
+echo -e "\t\t\t\t<tr>
+                    <th>Ligne</th><th>URL</th><th>Code HTTP</th><th>Encodage</th><th>Aspiration</th><th>Dump</th><th>Compte</th><th>Contexte</th><th>Concordances</th>
+                </tr>" >> $html_file
 
 while read -r URL
 do
@@ -80,20 +82,31 @@ do
         echo "</table></body></html>" >> "../concordances/${lang}-${lineno}.html"
     fi
 
-    echo "<tr>
-    <td>$lineno</td>
-    <td>$URL</td>
-    <td>$response</td>
-    <td>$encoding</td>
-    <td><a href ="../aspirations/${lang}-${lineno}.html">Aspiration</a></td>
-    <td><a href ="../dumps-text/${lang}-${lineno}.txt">Dump</a></td>
-    <td>$compte</td>
-    <td><a href="../Contextes/${lang}-${lineno}.txt">Contextes</a></td>
-    <td><a href="../concordances/${lang}-${lineno}.html">Concordances</a></td>
-    </tr>" >> $html_file
+    echo -e "\t\t\t\t<tr>
+                    <td>$lineno</td>
+                    <td>$URL</td>
+                    <td>$response</td>
+                    <td>$encoding</td>
+                    <td><a href ="../aspirations/${lang}-${lineno}.html">Aspiration</a></td>
+                    <td><a href ="../dumps-text/${lang}-${lineno}.txt">Dump</a></td>
+                    <td>$compte</td>
+                    <td><a href="../Contextes/${lang}-${lineno}.txt">Contextes</a></td>
+                    <td><a href="../concordances/${lang}-${lineno}.html">Concordances</a></td>
+                </tr>" >> $html_file
     lineno=$(expr $lineno + 1)
 done < $URLS
+<<<<<<< Updated upstream
 echo "</table>" >> $html_file
 
 # Créer les sources pour les nuages de mot
 cat "../Contextes/${lang}-*.txt" >> "../itrameur/source_nuage_${lang}.txt"
+=======
+<<<<<<< HEAD
+echo -e "\t\t\t</table><br>" >> $html_file
+=======
+echo "</table>" >> $html_file
+
+# Créer les sources pour les nuages de mot
+cat "../Contextes/${lang}-*.txt" >> "../itrameur/source_nuage_${lang}.txt"
+>>>>>>> e1b7215e1934f04b3194b9faa805518a976a312f
+>>>>>>> Stashed changes

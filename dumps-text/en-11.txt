@@ -28,7 +28,7 @@
 
      * Seth D. Baum^1
 
-     * 7680 Accesses
+     * 7681 Accesses
      * 48 Citations
      * 7 Altmetric
      * Explore all metrics
@@ -63,13 +63,11 @@ Abstract
 Access this article
 
    Log in via an institution
-   (BUTTON) Buy article PDF 39,95 €
 
-   Price includes VAT (France)
+   We’re sorry, something doesn't seem to be working properly.
 
-   Instant access to the full article PDF.
-
-   Rent this article via DeepDyve
+   Please try refreshing the page. If that doesn't work, please contact
+   support so we can address the problem.
 
    Institutional subscriptions
 
@@ -344,6 +342,10 @@ Corresponding author
 
    Correspondence to Seth D. Baum.
 
+Rights and permissions
+
+   Reprints and Permissions
+
 About this article
 
    Check for updates. Verify currency and authenticity via CrossMark
@@ -384,13 +386,11 @@ Keywords
 Access this article
 
    Log in via an institution
-   (BUTTON) Buy article PDF 39,95 €
 
-   Price includes VAT (France)
+   We’re sorry, something doesn't seem to be working properly.
 
-   Instant access to the full article PDF.
-
-   Rent this article via DeepDyve
+   Please try refreshing the page. If that doesn't work, please contact
+   support so we can address the problem.
 
    Institutional subscriptions
 
@@ -439,11 +439,9 @@ Our imprints
      * Help and support
      * Cancel contracts here
 
-   194.199.129.20
+   109.222.17.166
 
-   Université Sorbonne Nouvelle BSN - sce periodiques (2000581253) -
-   Agence bibliographique de l’enseignement supérieur (ABES) (3000593105)
-   - Bibliotheque Ste I894 Genevieve (2000628389)
+   Not affiliated
    Springer Nature
 
    © 2023 Springer Nature

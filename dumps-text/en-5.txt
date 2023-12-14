@@ -265,7 +265,7 @@ Top 10 Benefits of Artificial Intelligence (AI)
 
    By 10xDS Team
    August 30, 2020
-   10.44k
+   10.45k
 
    Artificial Intelligence (AI) has been around for quite some time now.
    From quick suggestions on search engines and auto-focus in smartphones
@@ -426,6 +426,14 @@ Latest Blogs
 
      *
 
+The Intelligent Warehouse: AI’s Impact on Modern Inventory Strategies
+       December 13, 2023
+     *
+
+Streamlining Accounting and Finance through Robotic Process Automation
+       December 11, 2023
+     *
+
 Dynamics 365 for Supply Chain Management: Navigating the Future
        December 5, 2023
      *
@@ -441,15 +449,6 @@ Cyber Resilience
 
 The Generative AI Revolution in Supply Chain Operations
        November 20, 2023
-     *
-
-Revolutionize Your Enterprise: Unleashing AI-Infused Automation for Rapid ROI
-Acceleration
-       November 15, 2023
-     *
-
-Key Cybersecurity Threats Unveiled for 2024
-       November 1, 2023
 
 Digital Transformation: Procure to Pay [eBook]
 

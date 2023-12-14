@@ -96,25 +96,40 @@ AI’s Rapid Rise: A Double-Edged Sword
 
 --
 
-Nvidia to Support AI Development in Vietnam, What’s in The Pipeline?
+US All-in on AI, but Flying Blind Without a Comprehensive Plan, Says GAO
 
 --
 
-Google’s Edited Demo Video for Gemini AI Draws Backlash
-
---
-
-Spotify Slashes 17% Of Its Workforce as It Focuses on AI; Share Prices Soar
-
---
-
-EU Becomes First Major World Power To Introduce AI Laws
-
---
-   4 Google Loses Landmark Antitrust Trial Against Epic Games
-   5 Nvidia to Support AI Development in Vietnam, What’s in The Pipeline?
-
+Authors Accuse Meta of Using Copyrighted Books for AI Training Despite
+Knowing the Legal Implications
 --
 
 Nvidia to Support AI Development in Vietnam, What’s in The Pipeline?
 
+--
+
+   1 US All-in on AI, but Flying Blind Without a Comprehensive Plan, Says
+   GAO
+   2 Authors Accuse Meta of Using Copyrighted Books for AI Training
+   Despite Knowing the Legal Implications
+--
+
+   US All-in on AI, but Without a Comprehensive Plan, Says GAO US All-in
+   on AI, but Without a Comprehensive Plan, Says GAO
+   News
+
+US All-in on AI, but Flying Blind Without a Comprehensive Plan, Says GAO
+
+--
+   December 13, 2023
+   Meta Used Copyrighted Books for AI Training Despite Knowing the
+   Implications Meta Used Copyrighted Books for AI Training Despite
+   Knowing the Implications
+--
+
+Authors Accuse Meta of Using Copyrighted Books for AI Training Despite
+Knowing the Legal Implications
+--
+   Meta’s legal turmoil over the use of copyrighted material in training
+   its AI models only seems to be getting worse, with authors now alleging
+   that the company was well aware...

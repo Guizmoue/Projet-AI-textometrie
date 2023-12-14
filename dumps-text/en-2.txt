@@ -237,15 +237,6 @@ Do you want to be informed in real time?
      * Digital transition
 
    Cyber risks
-   Atos: the consequences for cybersecurity at the 2024 Olympic Games
-   12 December 2023
-
-Atos: the consequences for cybersecurity at the 2024 Olympic Games
-
-   By Stanislas Tarnowski
-   Atos, one of the main cybersecurity providers for the Olympic Games, is
-   in turmoil. Will the company split before the start of the Games? The
-   uncertainty and controversy surrounding the operation are ...
    Use of generative AI growing in corporations without clear guidelines
    05 December 2023
 
@@ -286,6 +277,15 @@ How phishing scams utilize OSINT
    Open-source intelligence may be increasing the risks posed by phishing
    scams. Many people aren’t aware of how much may be available about them
    online, but scammers do, and they’re taking ...
+   Cyberscore: is France really taking the digital threat seriously?
+   07 November 2023
+
+Cyberscore: is France really taking the digital threat seriously?
+
+   By Alexandre Lazarègue, avocat spécialisé en droit du numérique
+   The cyberscore, introduced by law on March 3, 2022, aims to do for
+   cybersecurity what the nutriscore did for food. However, with its
+   limited scope and modest requirements, it is not certain that it ...
    Cyber industrial safety
    Canada to strengthen energy sector cyber defense
    04 December 2023

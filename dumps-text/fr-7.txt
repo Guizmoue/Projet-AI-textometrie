@@ -3438,6 +3438,7 @@ Articles connexes
      * Interactions homme-machine
      * Philosophie de l'intelligence artificielle
      * Principaux projets et réalisations en intelligence artificielle
+     * Intelligence artificielle de remédiation
      * Progrès
      * Progrès technique
      * Réseau de neurones artificiels
@@ -4108,7 +4109,7 @@ Liens externes
 
    Ce document provient de
    « https://fr.wikipedia.org/w/index.php?title=Intelligence_artificielle&
-   oldid=210399015 ».
+   oldid=210512298 ».
    Catégories :
      * Intelligence artificielle
      * Concept de la science-fiction
@@ -4153,8 +4154,8 @@ Liens externes
      * Portail:Web sémantique/Articles liés
      * Article de qualité en tatar
 
-     * La dernière modification de cette page a été faite le 9 décembre
-       2023 à 21:04.
+     * La dernière modification de cette page a été faite le 13 décembre
+       2023 à 14:58.
      * Droit d'auteur : les textes sont disponibles sous licence Creative
        Commons attribution, partage dans les mêmes conditions ; d’autres
        conditions peuvent s’appliquer. Voyez les conditions d’utilisation

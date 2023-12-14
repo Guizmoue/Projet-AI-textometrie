@@ -1370,6 +1370,7 @@ Quelques IA célèbres dans la science-fiction
      * Interactions homme-machine
      * Philosophie de l'intelligence artificielle
      * Principaux projets et réalisations en intelligence artificielle
+     * Intelligence artificielle de remédiation
      * Progrès
 --
      * Inférence bayésienne
