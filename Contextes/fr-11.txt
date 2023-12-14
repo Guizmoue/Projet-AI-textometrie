@@ -1,6 +1,6 @@
-     * 4Investissements financiers
-     * 5Transparence du système d'IA ?
-     * 6Vers une régulation, une réglementation et une gestion des risques
+
+   5Transparence du système d'IA ?
+
 --
 
 Intelligence artificielle générative
@@ -21,8 +21,6 @@ Intelligence artificielle générative
    de nouvelles interactions homme-machine. L'IA est encore peu régulée et
    la difficulté d’évaluer la qualité et la fiabilité des contenus générés
    ou l’impact sur la créativité et la propriété intellectuelle humaines
-   est croissante. Certains experts craignent que des IA génératives à
-   venir soient capables de manipuler les humains, d'accéder à des
 --
    incontrôlable au point de menacer l'existence de l'humanité^[7]. Un
    premier sommet mondial en sûreté de l'IA est organisée début novembre
@@ -40,7 +38,6 @@ Intelligence artificielle générative
 --
 
    Les versions publiques de grands modèles d'IA générative disponibles en
-   2022/2023 produisent des contenus modulés et filtrés de manière à
 --
    ou sexuellement explicites^[12]^,^[13]^,^[14]^,^[15]. Au début des
    années 2020, la puissance de calcul de l’IA a doublé tous les six à dix
@@ -65,7 +62,6 @@ Intelligence artificielle générative
 --
    Les cadres technologiques et conceptuels les plus importants pour
    aborder l'IA générative sont en cours d’élaboration depuis un certain
-   temps^[6], mais ils n'ont vraiment abouti que dans les années 2020 à
    plusieurs types de modèles d'IA particulièrement efficaces :
      * les réseaux antagonistes génératifs (GAN), composés de deux
 --
@@ -153,7 +149,6 @@ Transparence du système d'IA ?[modifier | modifier le code]
    recherche en IA chez Meta) qui jugent ces craintes ridicules et
    déraisonnables, affirmant que les IAs comme ChatGPT ne sont pas encore
 --
-   DeepMind, d’OpenAI, d’Anthropic, de plusieurs organismes de recherche à
    but non lucratif sur l’IA et Yoshua Bengio (lauréat du prix Turing)
    suggèrent dans un article^[43] que les créateurs des modèles d'IA les
    plus puissants doivent pouvoir évaluer si leurs IAs ont des capacités

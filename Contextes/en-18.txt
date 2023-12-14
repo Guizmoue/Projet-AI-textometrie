@@ -78,6 +78,13 @@ AI models should incorporate social cues
 
 --
 
+Under the hood of creativity: Exploring Gen AI in branding
+
+   Technology 14th December 2023
+   Learn more about the use of Generative AI in the creative industry and
+   how it can enhance creative performance.
+--
+
 European Commission approves revolutionary AI Act
 
    Technology 12th December 2023
@@ -100,7 +107,6 @@ Demonstrating native AI for mobile network operation
    Discover how the EU-funded DAEMON project has developed several
    practical solutions to integrate AI into mobile network architectures.
    Read more
---
 
 AI in business has its benefits – so why don’t more companies adopt it?
 
@@ -114,6 +120,13 @@ AI in business has its benefits – so why don’t more companies adopt it?
    a wide range of IoT use cases. Discover more here.
 --
 
+Under the hood of creativity: Exploring Gen AI in branding
+
+   Technology 14th December 2023
+   Learn more about the use of Generative AI in the creative industry and
+   how it can enhance creative performance.
+--
+
 European Commission approves revolutionary AI Act
 
    Technology 12th December 2023
@@ -127,12 +140,4 @@ Groundbreaking portable AI system can turn thoughts into text
 --
    In a world-first, researchers have developed a non-invasive, portable
    AI system that can decode silent thoughts and turn them into text.
-   Read more
---
-
-Demonstrating native AI for mobile network operation
-
---
-   Discover how the EU-funded DAEMON project has developed several
-   practical solutions to integrate AI into mobile network architectures.
    Read more

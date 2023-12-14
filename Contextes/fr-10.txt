@@ -1,6 +1,6 @@
      * Début
      * 1L'IA pour le bien
-     * 2Aviation
+
 --
 
 Applications de l'intelligence artificielle
@@ -75,7 +75,6 @@ L'IA pour le bien[modifier | modifier le code]
    la marine en compétences techniques en un temps plus
    court.^[réf. nécessaire] Les universités ont tardé à adopter les
    technologies de l'IA en raison d'un manque de financement ou d'un
-   scepticisme quant à l'efficacité de ces outils, mais dans les années à
 --
 
    Le Trading algorithmique implique l'utilisation de systèmes d'IA
@@ -216,8 +215,7 @@ L'IA pour le bien[modifier | modifier le code]
    Article détaillé : Intelligence artificielle dans le jeu vidéo.
 
    Les années 1990 ont vu certaines des premières tentatives de produire
-   en masse des types d'intelligence artificielle de base destinés à
-   l'éducation ou aux loisirs. Cela a grandement prospéré avec la
+--
    révolution numérique, et a aidé à initier les gens, en particulier les
    enfants, à la gestion de différents types d'intelligence artificielle,
    notamment sous forme de Tamagotchis et Giga Pets, iPod Touch, Internet

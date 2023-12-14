@@ -43,42 +43,124 @@ Sommaire
    (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
      * Début
      * 1L'IA pour le bien
-     * 2Aviation
-     * 3Informatique
-     * 4Éducation
-     * 5Finance
-       (BUTTON) Afficher / masquer la sous-section Finance
-          + 5.1Trading algorithmique
-          + 5.2Analyse de marché et exploration de données
-          + 5.3Finances personnelles
-          + 5.4Management de porte-feuille
-          + 5.5Souscription
-     * 6Industrie lourde
-     * 7Hôpitaux et médecine
-     * 8Police et justice
-       (BUTTON) Afficher / masquer la sous-section Police et justice
-          + 8.1Police intelligente
-          + 8.2Droit
-     * 9Ressources humaines et recrutement
-     * 10Marketing
-     * 11Médias
-     * 12Arts
-       (BUTTON) Afficher / masquer la sous-section Arts
-          + 12.1Musique
-          + 12.2Arts visuels
-     * 13Actualités, publications et littérature
-     * 14Service client en ligne et par téléphone
-     * 15Maintenance des télécommunications
-     * 16Jeux
-     * 17Transports
-     * 18Robots conversationnels
-     * 19Autres
-     * 20Notes et références
-     * 21Voir aussi
-       (BUTTON) Afficher / masquer la sous-section Voir aussi
-          + 21.1Bibliographie
-          + 21.2Articles connexes
-     * 22Liens externes
+
+     2Aviation
+
+     3Informatique
+
+     4Éducation
+
+
+
+   5Finance
+
+   (BUTTON) Afficher / masquer la sous-section Finance
+     * 5.1Trading algorithmique
+
+
+
+   5.2Analyse de marché et exploration de données
+
+
+
+   5.3Finances personnelles
+
+
+
+   5.4Management de porte-feuille
+
+
+
+   5.5Souscription
+
+
+
+   6Industrie lourde
+
+
+
+   7Hôpitaux et médecine
+
+
+
+   8Police et justice
+
+   (BUTTON) Afficher / masquer la sous-section Police et justice
+     * 8.1Police intelligente
+
+
+
+   8.2Droit
+
+
+
+   9Ressources humaines et recrutement
+
+
+
+   10Marketing
+
+
+
+   11Médias
+
+
+
+   12Arts
+
+   (BUTTON) Afficher / masquer la sous-section Arts
+     * 12.1Musique
+
+
+
+   12.2Arts visuels
+
+
+
+   13Actualités, publications et littérature
+
+
+
+   14Service client en ligne et par téléphone
+
+
+
+   15Maintenance des télécommunications
+
+
+
+   16Jeux
+
+
+
+   17Transports
+
+
+
+   18Robots conversationnels
+
+
+
+   19Autres
+
+
+
+   20Notes et références
+
+
+
+   21Voir aussi
+
+   (BUTTON) Afficher / masquer la sous-section Voir aussi
+     * 21.1Bibliographie
+
+
+
+   21.2Articles connexes
+
+
+
+   22Liens externes
 
    [ ] Basculer la table des matières
 
@@ -86,7 +168,7 @@ Applications de l'intelligence artificielle
 
    [ ] 14 langues
      * العربية
-     * Català
+     * Catal�
      * English
      * Español
      * فارسی
@@ -191,7 +273,7 @@ Aviation[modifier | modifier le code]
    recevoir de l'aide en l'air pendant le combat par ordinateur. Les
    programmes intelligents artificiels peuvent trier les informations et
    fournir au pilote les meilleures manœuvres possibles, sans oublier de
-   se débarrasser de certaines manœuvres qui seraient impossibles à
+   se débarrasser de certaines manœuvres qui seraient impossibles �
    réaliser pour un être humain. Plusieurs aéronefs sont nécessaires pour
    obtenir de bonnes approximations de certains calculs afin que les
    pilotes simulés par ordinateur soient utilisés pour recueillir des
@@ -317,12 +399,12 @@ Informatique[modifier | modifier le code]
    la marine en compétences techniques en un temps plus
    court.^[réf. nécessaire] Les universités ont tardé à adopter les
    technologies de l'IA en raison d'un manque de financement ou d'un
-   scepticisme quant à l'efficacité de ces outils, mais dans les années à
+   scepticisme quant à l'efficacité de ces outils, mais dans les années �
    venir^[Quand ?], davantage de classes utiliseront des technologies
    telles que les STI pour apporter un complément aux cours des
    enseignants^[10]^[réf. incomplète].
 
-   Les avancées dans le traitement du langage naturel, combinées à
+   Les avancées dans le traitement du langage naturel, combinées �
    l'apprentissage automatique, ont également permis le classement
    automatique des tâches ainsi qu'une compréhension des besoins
    d'apprentissage individuels des étudiants. Cela a conduit à une
@@ -711,7 +793,7 @@ Jeux[modifier | modifier le code]
    Article détaillé : Intelligence artificielle dans le jeu vidéo.
 
    Les années 1990 ont vu certaines des premières tentatives de produire
-   en masse des types d'intelligence artificielle de base destinés à
+   en masse des types d'intelligence artificielle de base destinés �
    l'éducation ou aux loisirs. Cela a grandement prospéré avec la
    révolution numérique, et a aidé à initier les gens, en particulier les
    enfants, à la gestion de différents types d'intelligence artificielle,

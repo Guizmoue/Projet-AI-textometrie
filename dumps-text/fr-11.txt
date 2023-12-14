@@ -43,14 +43,32 @@ Sommaire
    (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
      * Début
      * 1Capacités
-     * 2Principes sous-jacents
-     * 3Modalités
-     * 4Investissements financiers
-     * 5Transparence du système d'IA ?
-     * 6Vers une régulation, une réglementation et une gestion des risques
-     * 7Éléments de prospective
-     * 8Références
-     * 9Articles connexes
+
+     2Principes sous-jacents
+
+     3Modalités
+
+     4Investissements financiers
+
+
+
+   5Transparence du système d'IA ?
+
+
+
+   6Vers une régulation, une réglementation et une gestion des risques
+
+
+
+   7Éléments de prospective
+
+
+
+   8Références
+
+
+
+   9Articles connexes
 
    [ ] Basculer la table des matières
 
@@ -142,7 +160,7 @@ Intelligence artificielle générative
    de nouvelles interactions homme-machine. L'IA est encore peu régulée et
    la difficulté d’évaluer la qualité et la fiabilité des contenus générés
    ou l’impact sur la créativité et la propriété intellectuelle humaines
-   est croissante. Certains experts craignent que des IA génératives à
+   est croissante. Certains experts craignent que des IA génératives �
    venir soient capables de manipuler les humains, d'accéder à des
    systèmes d'armes, d'exploiter des failles de cybersécurité, voire
    peut-être bientôt d'acquérir une forme de conscience et/ou de devenir
@@ -169,7 +187,7 @@ Capacités[modifier | modifier le code]
    de données d'apprentissage qu'on leur a fourni^[11].
 
    Les versions publiques de grands modèles d'IA générative disponibles en
-   2022/2023 produisent des contenus modulés et filtrés de manière à
+   2022/2023 produisent des contenus modulés et filtrés de manière �
    limiter leurs biais, les contenus mésinformant, dangereux, racistes,
    biaisés, choquants, haineux, non sollicités, les images pornographiques
    ou sexuellement explicites^[12]^,^[13]^,^[14]^,^[15]. Au début des
@@ -203,7 +221,7 @@ Principes sous-jacents[modifier | modifier le code]
 
    Les cadres technologiques et conceptuels les plus importants pour
    aborder l'IA générative sont en cours d’élaboration depuis un certain
-   temps^[6], mais ils n'ont vraiment abouti que dans les années 2020 à
+   temps^[6], mais ils n'ont vraiment abouti que dans les années 2020 �
    plusieurs types de modèles d'IA particulièrement efficaces :
      * les réseaux antagonistes génératifs (GAN), composés de deux
        parties : un réseau générateur créant de nouveaux échantillons de
@@ -362,7 +380,7 @@ modifier le code]
    conscientes et ne peuvent donc pas selon eux manipuler ou détruire
    l'humanité^[42]. Mais en 2023, des chercheurs d’Oxford, de Cambridge,
    de l’Université de Toronto, de l’Université de Montréal, de Google
-   DeepMind, d’OpenAI, d’Anthropic, de plusieurs organismes de recherche à
+   DeepMind, d’OpenAI, d’Anthropic, de plusieurs organismes de recherche �
    but non lucratif sur l’IA et Yoshua Bengio (lauréat du prix Turing)
    suggèrent dans un article^[43] que les créateurs des modèles d'IA les
    plus puissants doivent pouvoir évaluer si leurs IAs ont des capacités

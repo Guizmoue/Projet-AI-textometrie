@@ -1,7 +1,7 @@
    Please ensure Javascript is enabled for purposes ofwebsite
    accessibility
 
-   Wed, 13 Dec 2023 23:30:23 GMT (1702510223613)
+   Thu, 14 Dec 2023 14:40:25 GMT (1702564825377)
    f6fc55955e5ffa7448bd11fef75ae179a142df03
    09c0d38b7e569c93c948a4b856a81910d66b3f9c
    (BUTTON)
@@ -29,18 +29,7 @@
    (BUTTON) user account icon
    ____________________ (BUTTON) search icon
    CBS logo
-   Breaking News
-   House opens Biden impeachment inquiry
-   Show Less
    Close Alert
-   House opens Biden impeachment inquiry image
-   Breaking News
-   House opens Biden impeachment inquiry
-
-   The House voted 221-212 to formally open an impeachment inquiry into
-   Pres. Joe Biden over his family's foreign business dealings.
-     * HUNTER SKIPS DEPOSITION
-     * POTUS IMPEACHMENT INQUIRY
 
 Unmasking AI: Uncovering biases and the pursuit of unbiased artificial
 intelligence

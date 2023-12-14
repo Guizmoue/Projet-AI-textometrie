@@ -437,6 +437,13 @@ technology
 
 Similar Articles
 
+Under the hood of creativity: Exploring Gen AI in branding
+
+   Technology 14th December 2023
+   Learn more about the use of Generative AI in the creative industry and
+   how it can enhance creative performance.
+   Read more
+
 European Commission approves revolutionary AI Act
 
    Technology 12th December 2023
@@ -459,14 +466,14 @@ ChatGPT: Only good for fairy tales or your new content guru?
    news? Read more here to learn the ups and downs of the software.
    Read more
 
+Similar Articles
+
 Demonstrating native AI for mobile network operation
 
    Technology 8th December 2023
    Discover how the EU-funded DAEMON project has developed several
    practical solutions to integrate AI into mobile network architectures.
    Read more
-
-Similar Articles
 
 AI in business has its benefits – so why don’t more companies adopt it?
 
@@ -489,14 +496,14 @@ VEDLIoT: Next generation AIoT applications
    a wide range of IoT use cases. Discover more here.
    Read more
 
-High-density computing memory developed by scientists
-
-   Technology 1st December 2023
-   University of Rochester scientists have developed a new form of
-   computing memory that is fast, dense, and low-power.
-   Read more
-
 More from Innovation News Network
+
+Under the hood of creativity: Exploring Gen AI in branding
+
+   Technology 14th December 2023
+   Learn more about the use of Generative AI in the creative industry and
+   how it can enhance creative performance.
+   Read more
 
 European Commission approves revolutionary AI Act
 
@@ -518,13 +525,6 @@ ChatGPT: Only good for fairy tales or your new content guru?
    Technology 11th December 2023
    Is ChatGPT the answer to everything, or could it be spreading fake
    news? Read more here to learn the ups and downs of the software.
-   Read more
-
-Demonstrating native AI for mobile network operation
-
-   Technology 8th December 2023
-   Discover how the EU-funded DAEMON project has developed several
-   practical solutions to integrate AI into mobile network architectures.
    Read more
 
    Innovation News Network

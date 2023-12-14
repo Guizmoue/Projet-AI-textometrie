@@ -191,6 +191,7 @@ About Channels
      * [channel_logo_1561745716-nb_logo.png] NB Social Pediatrics Research
      * [channel_logo_Negida_Academy_Logo.png] Negida Research Academy
      * [channel_logo_NEMAgroup.png] NEMA Research Group
+     * [channel_logo_logo-color.png] Neuro Series
      * [channel_logo_Woodhull_400x400.png] NYC Health + Hospitals/Woodhull
      * [channel_logo_Logo-FPP.png] Paolo Procacci Foundation
      * [channel_logo_1459789770-penn-state-hershey-logo-square.png] Penn
@@ -463,6 +464,7 @@ Channels
        [channel_logo_1561745716-nb_logo.png] NB Social Pediatrics Research
        [channel_logo_Negida_Academy_Logo.png] Negida Research Academy
        [channel_logo_NEMAgroup.png] NEMA Research Group
+       [channel_logo_logo-color.png] Neuro Series
        [channel_logo_Woodhull_400x400.png] NYC Health + Hospitals/Woodhull
        [channel_logo_Logo-FPP.png] Paolo Procacci Foundation
        [channel_logo_1459789770-penn-state-hershey-logo-square.png] Penn

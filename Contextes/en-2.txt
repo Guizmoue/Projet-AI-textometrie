@@ -94,7 +94,9 @@ AI Act: towards three-tiered generative AI regulation
    Ongoing negotiations in Brussels could lead to requirements for AI
    models according to size and popularity.
 --
-   Digital transition
+   This science fiction film by Jérémie Périn, released in November 2023,
+   is a new variant on the topic of the search for the nature of AI
+   objects. In this version, humanity oscillates between the ...
    Business intelligence faced with generative AI: overcoming fears
    06 December 2023
 

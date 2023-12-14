@@ -122,7 +122,7 @@
 
 人工智能
 
-[ ] 146 種 語言
+[ ] 147 種 語言
 
 • Afrikaans
 • Alemannisch
@@ -177,6 +177,7 @@
 • Galego
 • Avañe ' ẽ
 • Gaelg
+• Hausa
 • עב רי ת
 • हि न् दी
 • Hrvatski

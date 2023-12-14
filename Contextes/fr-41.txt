@@ -50,7 +50,6 @@ Athénan, une IA joueuse multi-championne
    toujours attiré les experts en IA. Et pour cause : mobilisant un large
    éventail de capacités intellectuelles humaines, les jeux de société
 --
-   privilégié pour tester l’intelligence des machines et la comparer à
    l’intelligence humaine ; un des buts de l’IA étant de développer des
    machines qui surpassent le cerveau humain (et pourraient ainsi le
 --
@@ -75,7 +74,6 @@ L’ère des IA « généralistes »
 
    Fin 2017, la société DeepMind présenta une autre avancée historique
    pour le monde de l’IA : AlphaZero4. Sa particularité ? Cette version
-   « généraliste » d’AlphaGo est capable de jouer non pas à un, mais à
 --
    pour apprendre à bien jouer à un jeu donné… en jouant contre lui-même ;
    et non à partir d’une base de données, détaille ici l’expert en IA du

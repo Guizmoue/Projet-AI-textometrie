@@ -1,0 +1,507 @@
+   2019/3
+     * The Socio-Legal Relevance of Artificial Intelligence
+     * Suivre cet auteur Stefan Larsson
+--
+
+Introduction: Artificial Intelligence and Society
+
+   1In recent years, the field of artificial intelligence (AI), in
+   particular machine learning, has undergone significant
+--
+   self-learning thermostats, other “property technology” and virtual
+   assistants embodied in smart speakers. AI is also being applied
+   directly to actual life or death matters. Currently, self-driving cars
+   and other vehicles with various degrees of autonomy are under
+   development, as are AI-assisted tools used for cancer diagnoses,
+   predictive risk-analyses produced by insurance companies and creditors,
+--
+   autonomous technologies means for law and society,  [3] this article
+   outlines some of the legal and societal challenges that the use of AI
+   and machine learning entails. Specifically, the main argument is
+--
+   “nuances” or aspects of transparency, suggested as a socio-legal
+   contribution to the already present notion of explainability within AI
+   research (XAI).  [4] Thus, the focus in this article is not primarily
+   on clearly defining what AI is according to a computer scientific
+   perspective, but on pointing out the social significance of an everyday
+   and practically applied AI from a socio-legal perspective, stressing
+   the need for keeping society “in-the-loop”.  [5] This is of key
+--
+
+   3In conjunction with society’s increasing use of, and dependence on, AI
+   and machine learning, there is indeed a growing societal need to
+--
+   ethics often pertained to an imagined, somewhat unspecified form of
+   artificial intelligence that could, based in its instinctual and
+   analytical capacity, revoltagainst humanity. Today, such concerns are
+--
+   and a fear that technological progress could lead to an upgradable and
+   self-improving artificial intelligence—a sort of “singularity” in which
+   humanity, as we know it, basically becomes extinct.  [7]
+--
+   4This article does not, however, focus on a perceived
+   super-intelligence or general artificial intelligence, but rather, on
+   contemporary, everyday versions of artificial intelligence in order to
+   relate them to relevant legal and socio-legal challenges. Therefore, in
+   this article I adopt a broad definition of AI that covers a number of
+   technologies and analysis methods, such as machine learning, natural
+--
+   coined in 1959,  [8] the field has progressed from being a
+   sub-discipline with the ambition to develop artificial intelligence to
+   being applied to solve practical problems, with a focus on predictive
+   analyses based in training data. Today, this area is generally included
+   in the field of artificial intelligence, but it is also closely linked
+   to statistics and image recognition, where machine learning has proven
+   to be highly useful in a number of practical applications. A key
+   component of AI in general, and machine learning in particular, is the
+   algorithms used, developed and studied to create software with the
+   capacity to learn and produce probability assessments. The main
+   difference between earlier AI-related rules and ethical principles and
+   contemporary times is that, today, discussions on how they should be
+   regulated now concern everyday uses of AI and machine learning in a
+   digitalized and increasingly data-driven reality. The starting point,
+--
+   of news and knowledge and healthcare issues—are now mediated using
+   artificial intelligence. This raises a number of questions that need to
+   be examined from a socio-legal perspective and which are studied
+--
+   5
+     * How can fairness in AI be understood from a socio-legal
+       perspective? E.g. which social norms are reproduced or strengthened
+       by self-learning, autonomous systems, and how does normativity
+       relate to data-dependent AI?
+     * How can issues of accountability with regards to applied AI be
+       problematized from a socio-legal perspective, e.g. in relation to
+--
+     * What are the key interests at play in transparent and explainable
+       AI, from a multidisciplinary and socio-legally informed
+       perspective? This relates to a balancing of not necessarily
+       compatible interests, how society could or should supervise AI
+       applications and their implications, and how to formulate
+--
+   orientation by describing some of the legal and normative challenges
+   posed by applied AI. Recently, political discussions in many countries
+   as well as the EU have begun to address the challenges facing
+--
+   intelligence. In December 2018, the EU Commission’s High-Level Expert
+   Group on Artificial Intelligence (AI HLEG) published a draft of ethics
+   guidelines for trustworthy AI,  [9] that resulted in a final
+   publication after consultation, in April 2019.  [10] In May 2018, the
+   Swedish government, for example, published the National Approach for
+   Artificial Intelligence (Nationell inriktning för artificiell
+   intelligens), which, among other things, includes a section on the need
+   for Sweden to “develop rules, standards, norms and ethical principles
+   to guide ethical and sustainable AI, and the use of AI”.  [11] From a
+   theoretical standpoint, this terminology raises several questions
+--
+
+I. Socio-Legal Challenges of Artificial Intelligence: Fairness,
+Accountability and Transparency (FAT)
+--
+   7When it comes to data, algorithm-driven systems, and the potential
+   social consequences of artificial intelligence, a growing understanding
+   of the importance of legitimacy, fairness, ethical and human-centric
+--
+   9There are a number of examples where unintended social prejudices are
+   reproduced or automatically strengthened by AI systems which often only
+   become apparent following rigorous study. A few examples:
+--
+
+   12Value-based discussions surrounding machine learning and AI are often
+   conducted in terms of “ethics”, as in the report Ethically Aligned
+   Design, published by the global technical organization IEEE.  [21] Such
+   discussions on the topic of “ethics” and artificial intelligence, in
+   this context, reflect a broad understanding that we as a society need
+   to reflect on values and norms in AI developments, as well as—and this
+   understanding is gaining force in social scientific literature—the
+   impact AI is having on us, on society, and the values, culture, power
+   and opportunities that are reproduced and reinforced by autonomous
+   systems. Therefore the use of the concept of “ethics” in contemporary
+   AI governance discourse may arguably be seen as a kind of proxy; i.e.,
+   it represents a conceptual platform with the capacity to bring together
+--
+   scientific and humanities-oriented perspective, in order to gain a
+   better understanding of their impact. Discussions on ethics in AI will,
+   in time, likely be replaced by more clearly defined concepts in the
+--
+   Engines Reinforce Racism,  [31] that search engines, which are largely
+   automated and have self-learning and artificial intelligence
+   characteristics, interact, reproduce and are a product of social,
+--
+   standpoint that an overly homogeneous design community leads to blind
+   spots. For example, a report by AI research centre AI Now on “legacies
+   of bias” argues that:
+--
+
+   AI is not impartial or neutral. Technologies are as much products of
+   the context in which they are created as they are potential agents for
+   change. Machine predictions and performance are constrained by human
+   decisions and values, and those who design, develop, and maintain AI
+   systems will shape such systems within their own understanding of the
+   world. Many of the biases embedded in AI systems are products of a
+   complex history with respect to diversity and equality.  [35]
+--
+   19There are several, parallel approaches to questions of accountability
+   in the context of AI. Agency, it seems, is one of the crucial parts. An
+   important aspect of the delegation of legal responsibility deals with
+--
+   have legal implications, as companies and authorities develop
+   increasingly autonomous AI services that will unavoidably be subjected
+   to judicial proceedings. These might range from discriminatory outcomes
+--
+
+   20A governance approach on AI expressing principles or guidelines has a
+   long tradition but comes with a newfound vigour. Conventional AI
+   research has, as mentioned, previously referenced Asimov’s robotic
+--
+   developed a series of principles for robotics and machine learning.
+   Some companies have also laid out principles for their AI development
+   projects. The aforementioned IEEE report focuses on responsibility
+--
+   field have begun to express a growing awareness of harmful and
+   malicious implementations of AI that also addresses the
+   responsibilities of those involved in design and development.  [40] The
+--
+   vaccinations in the USA.  [42] From a security perspective, the field
+   of research that studies malicious uses of AI has called for AI
+   development teams to adopt a culture that takes more responsibility for
+--
+   architecture itself must be included when analysing norms and
+   behaviours.  [47] However, AI, it seems, comes with an additional layer
+   as the code does not singlehandedly reveal what steering model is being
+--
+   the digital architecture governing automated decisions, today on
+   digital platforms influencing billions. This is a newfound AI-driven
+   architecture layered on top of the code L. Lessig likely was aiming for
+--
+
+   25To demonstrate how AI and machine learning have become components of
+   complex areas in society which further highlight the need to recognize
+   AI as a social challenge, two examples can be mentioned, here: digital
+   platforms and autonomous vehicles.
+--
+   26Further elaboration on the problems of delegating responsibility in
+   an AI context leads us to study the important role of digital
+   platforms, which unavoidably brings up the issue of how to assess the
+--
+   responsibility when disseminating content. M. Zuckerberg repeatedly
+   argued that AI was a tool that could be used to combat unwanted content
+   such as hate speech, fake news, revenge porn, etc. His responses have
+   been criticised for expressing a simplistic ”AI solutionism”—in line
+   with Evgeny Morozov’s critical account on “technological solutionism”,
+--
+   transparency is often described in terms of a trust deficiency, e.g.,
+   the EU commission’s communiqué on artificial intelligence.  [59] The EU
+   Commission is conducting a study in 2018 and 2019 that analyses
+--
+   information is mediated online, especially on online platforms.”  [60]
+   There is a field of studies within AI research that focuses on the
+   explainability of algorithmic complex processes (see point 7 below).
+--
+   29Here I suggest an additional six nuances or aspects of transparency
+   to take into account for the analysis of applied AI on markets, as
+   aspects of AI governance. A challenge, from a societal and legal
+   perspective, lies in balancing opposing interests, where points 1 and 2
+--
+   practices.  [62] At worst, and according to Rashida Richardson of the
+   AI Now Institute, proprietary set-ups may ”inhibit necessary government
+   oversight and enforcement of consumer protection laws” in that it
+--
+   purpose of a process. This could apply for various types of processes
+   guided by AI where there is an incentive to manipulate the results;
+   such as search engines, trending topics in Twitter,  [65] welfare
+--
+
+   32For the everyday dispersion of new technologies, here applied AI, the
+   data literacy or algorithm literacy can be one additionally fruitful
+--
+   33The language, metaphors and symbolism inherent in explanations of
+   complex AI processes have a direct impact on how they are understood.
+   Explanations, however, can be phrased differently depending on the
+--
+   explanations (see also point 7 below). For example, when formulating an
+   explanation of how AI-generated decision-making works, a decision must
+   unavoidably be made regarding what symbols or metaphors are appropriate
+--
+   established concepts.  [69] The metaphors and symbolism used to explain
+   AI-generated processes will therefore likely have a strong impact on
+   how they are understood or accepted.
+--
+
+   34The lack of transparency can be related to how contemporary AI very
+   much depends on access to large amounts of data, that is collected,
+--
+   their methods if they are to discover structural irregularities or
+   illegal outcomes derived from automated AI-driven systems.  [73]
+
+7. Explainable Artificial Intelligence (XAI) and Algorithm Complexity
+
+   36As mentioned, there is an inherent problem in assessing individual
+   outcomes of complex AI tools. Within the area of AI research, a
+   specific field (XAI) that deals with explainability or interpretability
+--
+   for further dispute and a recurring point of discussions on the
+   implications of artificial intelligence. Mireille Hildebrandt argues
+   that a number of fundamental rights are at risk in a society that is
+--
+   many later researchers. This informal, contextual, and possibly fluid
+   notion of norms may help us understand that artificial intelligence not
+   only has the capacity to imitate behaviours and linguistic conventions
+--
+   moderation in social media platforms, as indicated above.  [81]
+   Choosing which norms to learn from, may be a key challenge as AI
+   engages and interacts with human social structures. In addition, as the
+--
+   current state or as we would prefer the world to be? And who gets to
+   decide which future is more desirable?  [82] Data-dependent AI that
+   learns from real world examples derived from human activities may be
+--
+   it thereby represents as it interacts with and reproduces a biased
+   society. Conversely, this means that AI-driven analytical methods may
+   reveal biases in already present and historical decision-making, which
+--
+   39There is an increasing awareness, as noted for example in the
+   aforementioned IEEE report and in several reports published by the AI
+   Now research centre, that cultural values and social biases are
+--
+   the scale of digital platforms operating with multiple billions of
+   users globally. For want of a truly neutral stance, AI developers will
+   have to adopt normative positions on issues they probably would prefer
+   to avoid, which lends weight to the argument that programs for training
+   AI engineers in image analyses and algorithms should also address the
+   issue of accountability and social or ethical consequences of the
+--
+   40Normativity in design, in this context, is a crucial issue. For many
+   AI applications, particularly those that interact with human values and
+   social structures, there is arguably no truly neutral position to find
+--
+
+Conclusions: Socio-Legal AI Studies
+
+--
+   socio-legal orientation by describing some of the legal and normative
+   challenges of AI. I have drawn on socio-legal theory in relation to
+   growing concerns of fairness, accountability and transparency of
+   applied AI and machine learning in society, to stress the need for AI
+   research and development to keep society “in-the-loop” by utilising
+--
+
+   42The argument that designing AI is a normative process recognizes that
+   knowledge of cultural values, norms and ethics must, in that case, be
+   implemented in AI developments and applications in order to be able to
+   address aforementioned risks. Since AI and machine learning, when
+   appropriately implemented, have indisputable potential social benefits,
+--
+   legitimacy already exist for many aspects and applications which use
+   data-driven artificial intelligence. Grounds for addressing
+   discriminatory practices, market laws, and data protection regulations
+--
+       crucial insight from recent research on FAT and working groups on
+       ethical guidelines for AI is that the combination of AI and society
+       demands multidisciplinary research to be responsibly developed into
+       trusted applications. Contemporary data-dependent AI should not be
+       developed in a technological isolation without continuous
+--
+       can be exemplified by the multidisciplinary approach on the
+       challenges of AI transparency described above. It means that we
+       need to increase our awareness in matters concerning values and
+--
+       fields that address ethical, legal and social issues be seen as a
+       superficial layer overlying current AI developments in computer
+       science or mathematical institutions, but rather, as important,
+       complementary fields of expertise that can contribute to AI
+       research, algorithm developments and machine learning. Some
+--
+     * Principles without processes are ineffectual: Albeit much effort
+       laudably is put into producing principles to govern applied AI,
+       recognizing that normativity is an important aspect also
+--
+       legal processes when it comes to establishing and implementing
+       principles for AI and machine learning; e.g., comparisons can be
+       made to how prosecution procedures need to comply with norms;
+--
+       necessary to develop methods for supervisory authorities in light
+       of the fact that automated AI and machine learning have the
+       potential to provide highly decentralised outcomes in which
+--
+       aforementioned “redlining” issue, as well as to standardise
+       societal impact assessments of AI processes in relation to consumer
+       markets and the public sector.
+     * The balancing of transparency: Arguably, while one of the core
+       challenges with applied AI is dealing with explainability and
+       opaqueness of so-called black box applications, AI transparency
+       opens for a complex set of interests to be balanced. The benefits
+--
+   potential. This means that it becomes all the more important to
+   strengthen fairness and trust in applied AI through well-advised
+   notions of accountability and transparency in multidisciplinary
+--
+   et Société. Il est conseiller scientifique de l’Agence suédoise de la
+   consommation ainsi que du Centre pour l’IA durable. Ses recherches
+   portent sur les questions de confiance et de transparence sur les
+   marchés numériques axés sur les données et l’impact sociojuridique des
+   technologies autonomes et sur l’IA. Il a notamment publié :
+   — “Algorithmic Governance and the Need for Consumer Empowerment in
+--
+       Global Bukowina”, Societas/Communitas, 15 (1), 2013, p. 281-295;
+       cf. Danièle Bourcier, “De l’intelligence artificielle à la personne
+       virtuelle : émergence d’une entité juridique ?”, Droit et Société,
+--
+       Or Biran and Courtenay Cotton, “Explanation and Justification in
+       Machine Learning: A Survey”, IJCAI-17 Workshop on Explainable AI
+       (XAI), 2017.
+--
+       Susan Leigh Anderson, “Asimov’s ‘Three Laws of Robotics’ and
+       Machine Metaethics”, AI & Society, 22 (4), 2008, p. 477-493.
+     * [7]
+--
+     * [9]
+       AI HLEG, “Draft Ethics Guidelines for Trustworthy AI,” 18 December
+       2018, <https://ec.europa.eu/
+--
+     * [10]
+       Id., Ethics Guidelines for Trustworthy AI, Brussels: The European
+       Commission. 2019.
+--
+       E.g., see <https://www.fatml.org>; For an overview of research on
+       ethical, social and legal consequences of AI, see Stefan Larsson,
+       Mikael Anneroth, Anna Felländeret al., Sustainable AI: An Inventory
+       of the State of Knowledge of Ethical, Social, and Legal Challenges
+       Related to Artificial Intelligence, Stockholm: AI Sustainability
+       Center, 2019.
+--
+       For an analysis on the conceptual origins and background of
+       “transparency” with regards to AI, see Stefan Larsson and Fredrik
+       Heintz, “AI Transparency”, Internet Policy Review, 2019
+       (forthcoming).
+--
+       and transparency, see Han-Wei Liu, Ching-Fu Lin and Yu-Jie Chen,
+       “Beyond State v Loomis: Artificial Intelligence, Government
+       Algorithmization and Accountability”, International Journal of Law
+--
+     * [27]
+       Cf. Stefan Larsson and Fredrik Heintz, “AI Transparency”, op. cit.;
+       Meredith Whittaker, Kate Crawford, Roel Dobb et al., AI Now Report
+       2018, New York: AI Now Institute, 2018.
+     * [28]
+--
+       Alex Campolo, Madelyn Sanfilippo, Meredith Whittaker and Kate
+       Crawford, AI Now 2017 Report, AI Now Institute at New York
+       University, 2017, p. 18.
+--
+     * [38]
+       Sundar Pichai, “AI at Google: Our Principles”, Google blog, 7 June,
+       2018. <https://www.blog.google/
+       topics/ai/ai-principles/>.
+     * [39]
+       The Verge, “Google Reportedly Leaving Project Maven Military AI
+       Program After 2019”, by Nick Statt, June 1, 2018,
+       <https://www.theverge.com/2018/6/1/17418406/google-maven-drone-imag
+       ery-ai-contract-expire> (last visited 10 June 2019).
+     * [40]
+       Miles Brundageet al., The Malicious Use of Artificial Intelligence:
+       Forecasting, Prevention, and Mitigation, 2018,
+--
+     * [43]
+       Miles Brundageet al., The Malicious Use of Artificial Intelligence:
+       Forecasting, Prevention, and Mitigation, op. cit., p. 7.
+--
+       Kirsten Gollatz, Felix Beer and Christian Katzenbach, “The Turn to
+       Artificial Intelligence in Governing Communication Online”, Social
+       Science Open Access Repository, 21, 2018. Cf. BuzzFeed News, “Why
+       Facebook Will Never Fully Solve Its Problems With AI”, by Davey
+       Alba, 11 April 2018, <https://www.buzzfeednews.com/
+--
+       European Council, the European Economic and Social Committee and
+       the Committee of the Regions, Artificial Intelligence for Europe,
+       SWD (2018) 137 final.
+--
+       Rashida Richardson, “Optimizing for Engagement: Understanding the
+       Use of Persuasive Technology on Internet Platforms”, AI Now
+       Institute: statement before the United States Senate Committee on
+--
+       Finale Doshi-Velez, Mason Kortz, Ryan Budishet al., “Accountability
+       of AI Under the Law: The Role Of Explanation”, arXiv preprint,
+       2017, arXiv:1711.01134.
+--
+     * [76]
+       Tim Miller, “Explanation in Artificial Intelligence: Insights from
+       the Social Sciences”, Artificial Intelligence, 267, 2019, p. 1-38,
+       <https://doi.org/10.1016/j.artint.2018.07.007>.
+--
+       E.g., as noted by researchers and published in Nature; James Zou
+       and Londa Schiebinger, “AI Can Be Sexist and Racist—It’s Time to
+       Make It Fair”, Nature, comment, 18 July 2018.
+     * [83]
+       Cf. Meredith Whittaker, Kate Crawford, Roel Dobb et al., AI Now
+       Report 2018, op. cit.
+--
+     * [87]
+       This is in line with for example AI HLEG’s Ethics guidelines for
+       trustworthy AI (2019); the IEEE’s Ethically Aligned Design, 2019;
+       and Luciano Floridi, Josh Cowls, Monica Beltramettiand al.,
+       “AI4People—An Ethical Framework for a Good AI Society:
+       Opportunities, Risks, Principles, and Recommendations”, Minds and
+--
+
+L’intelligence artificielle saisie par la sociologie du droit
+
+--
+   responsabilité et de transparence posées par les applications
+   d’intelligence artificielle (IA) employées actuellement dans nos
+   sociétés et de machine learning. Pour rendre compte de ces défis
+--
+   la transparence qui permettent de compléter les notions
+   d’explainable AI (XAI) dans la recherche en sciences informatiques.
+   L’article examine aussi l’effet de miroir normatif provoqué par l’usage
+--
+   plaidons pour une approche multidisciplinaire dans la recherche, le
+   développement et la gouvernance en matière d’IA.
+
+--
+     * Conception normative
+     * Explainable AI et transparence des algorithmes
+     * Intelligence artificielle appliquée
+     * Machine learning et droit
+--
+   concerns over fairness, accountability and transparency of societally
+   applied artificial intelligence (AI) and machine learning. The purpose
+   is to contribute to a broad socio-legal orientation by describing legal
+   and normative challenges posed by applied AI. To do so, the article
+   first analyzes a set of problematic cases, e.g., image recognition
+   based on gender-biased databases. It then presents seven aspects of
+   transparency that may complement notions of explainable AI (XAI) within
+   AI-research undertaken by computer scientists. The article finally
+   discusses the normative mirroring effect of using human values and
+--
+   concludes by arguing for the need for a multidisciplinary approach in
+   AI research, development, and governance.
+
+--
+     * Algorithmic accountability and normative design
+     * Applied artificial intelligence
+     * Explainable AI and algorithmic transparency
+     * Machine learning and law
+--
+
+    1. Introduction: Artificial Intelligence and Society
+    2. I. Socio-Legal Challenges of Artificial Intelligence: Fairness,
+       Accountability and Transparency (FAT)
+--
+              6. 6. Distributed, Personalised Outcomes
+              7. 7. Explainable Artificial Intelligence (XAI) and
+                 Algorithm Complexity
+    4. II. Discussion: Mirrors and Norms
+    5. Conclusions: Socio-Legal AI Studies
+
+--
+   ISO 690 FR Copier LARSSON Stefan, « The Socio-Legal Relevance of
+   Artificial Intelligence », Droit et société, 2019/3 (N° 103), p.
+   573-593. DOI : 10.3917/drs1.103.0573. URL :
+--
+   MLA FR Copier Larsson, Stefan. « The Socio-Legal Relevance of
+   Artificial Intelligence », Droit et société, vol. 103, no. 3, 2019, pp.
+   573-593.
+   APA FR Copier Larsson, S. (2019). The Socio-Legal Relevance of
+   Artificial Intelligence. Droit et société, 103, 573-593.
+   https://doi.org/10.3917/drs1.103.0573

@@ -1,9 +1,9 @@
    #alternate alternate National » Feed National » MoneyWatch Feed
 
-     * Abortion Pill Case
-     * American Hostage
+     * U.S. Terrorist Watchlist
+     * "Morning After" Pills
+     * Arizona Campus Attacks
      * Toxic Mushrooms
-     * Bear Attack
      * CBS News Live
      * Managing Your Money
      * Newsletters
@@ -24,24 +24,24 @@
                o Essentials
           +
                o
+                    # U.S. terrorist watchlist grows to 2 million people —
+                      nearly doubling in 6 years
                     # House votes to formalize Biden impeachment inquiry,
                       escalating GOP probe
-                    # Supreme Court to review obstruction law used to
-                      prosecute Jan. 6 defendants
-                    # Federal Reserve holds interest rate steady. Now when
-                      will it cut?
-                    # 4th graders fall ill after eating gummies with
-                      fentanyl
-                    # Hunter Biden defies House Republicans' subpoena for
-                      closed-door testimony
-                    # Amazon, Target, Walmart to stop sales of potentially
-                      lethal water beads
-                    # Judge pauses Trump's 2020 election case amid dispute
-                      over immunity
-                    # CBS News poll analysis: Some Democrats don't want
-                      Biden to run again. Why not?
-                    # 2023 Arctic Report Card proves "time for action is
-                      now," NOAA says
+                    # South Korea scrambles jets as Chinese and Russian
+                      warplanes approach
+                    # Suspect sought for abduction attempts of University
+                      of Arizona students
+                    # Senate passes contentious defense policy bill, sends
+                      it to House
+                    # Use of "morning after" pills doubles, teen sex
+                      declines in CDC survey
+                    # Mother's 20-year-old convictions for killing her 4
+                      kids tossed
+                    # In Giuliani trial, election worker testifies about
+                      threats, racist messages
+                    # Man charged in murder of Detroit synagogue president
+                      Samantha Woll
      *
      * Shows
           + cbs-mornings CBS Mornings
@@ -208,18 +208,13 @@ Need for guardrails
    this month, The Arena Group announced that it had merged with Bridge
    Media Networks, which produces news, sports and other content.
 
-Trending News
+More from CBS News
 
-   gettyimages-157743065.jpg
-   Should I move all of my money to a high-yield savings account?
-   cosmcsskyhero-2336x1040-hero-desktop.jpg
-   McDonald's is opening a new chain called CosMc's. Here's what to know.
-   morgatage-fed.jpg
-   Interest rates are paused. Here's why that's good news for homebuyers.
-   Kohl's Enters Purchase Negotiations With Franchise Group
-   Thieves ask for lesser charge because stolen Kohl's items were on sale
-   Multicolored water beads
-   Amazon, Target, Walmart to stop sales of potentially lethal water beads
+   Hackers had access to patient information for months in hospital
+   cyberattack
+   Why dictionary.com's word of the year is "hallucinate"
+   Tucker Carlson is launching a $9 per month streaming service
+   Sharp rise in antisemitic and anti-Muslim incidents in U.S., groups say
    In:
      * Sports Illustrated
      * AI
@@ -244,13 +239,13 @@ Trending News
 
 More from CBS News
 
-Meinerz "going to be fine," Broncos coach says, after trip to hospital
+Hackers had access to patient information for months in hospital cyberattack
 
-Coach doesn't provide any updates on Bonitto injury
+Why dictionary.com's word of the year is "hallucinate"
 
-University of Colorado creating course based on Deion Sanders
+Tucker Carlson is launching a $9 per month streaming service
 
-Surtain: Denver has what it takes to defy the odds
+Sharp rise in antisemitic and anti-Muslim incidents in U.S., groups say
 
    Copyright ©2023 CBS Interactive Inc. All rights reserved.
      * Privacy Policy

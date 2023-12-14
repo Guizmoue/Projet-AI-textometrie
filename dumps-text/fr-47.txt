@@ -263,7 +263,7 @@ Comment ça marche ?
 
    AlphaGo utilise aussi cette technique exploratoire qui a déjà permis
    les premières victoires contre des joueurs professionnels, en 2009, par
-   des chercheurs français (Rémi Coulom à Lille, puis l’équipe Tao à
+   des chercheurs français (Rémi Coulom à Lille, puis l’équipe Tao �
    l’Inria Saclay). Mais le logiciel de DeepMind y ajoute d’autres outils,
    à commencer par les réseaux de neurones, équivalents in silico des
    neurones biologiques. Les neurones « apprennent » à se connecter entre
@@ -286,7 +286,7 @@ Comment ça marche ?
    de coups joués par des professionnels !
 
    Ensuite, le réseau de neurones d’AlphaGo progresse en jouant contre
-   lui-même. La méthode utilisée est connue depuis 1992 et fait appel à
+   lui-même. La méthode utilisée est connue depuis 1992 et fait appel �
    l’apprentissage par renforcement. C’est ici que la puissance de calcul
    phénoménale de Google est utile.
 

@@ -617,6 +617,16 @@ Apple: must iMessage comply with the DMA?
    Google and four network providers want Apple instant messaging service
    to comply with “gatekeeper” interoperability requirements.
    Digital transition
+   “Mars Express”: when biological intelligence and computing products
+   clash
+   14 December 2023
+
+“Mars Express”: when biological intelligence and computing products clash
+
+   By Olivier Parent
+   This science fiction film by Jérémie Périn, released in November 2023,
+   is a new variant on the topic of the search for the nature of AI
+   objects. In this version, humanity oscillates between the ...
    Business intelligence faced with generative AI: overcoming fears
    06 December 2023
 
@@ -659,17 +669,6 @@ How AI is shaking up intellectual property
    Widespread access to generative artificial intelligence is shaking up
    how we work and create. However, the growing use of this technology has
    quickly raised two considerable legal issues: how to ...
-   “Ex Machina”: a film that explores the (intimate) relationships between
-   humans and machines…and much more
-   22 November 2023
-
-“Ex Machina”: a film that explores the (intimate) relationships between
-humans and machines…and much more
-
-   By Olivier Parent
-   This science fiction movie, directed by Alex Garland, is a “No Exit”
-   that examines the possibilities of human empathy toward an artificially
-   intelligent system. Moreover, it uses ...
 
    InCyber
      * Linkedin
@@ -718,7 +717,7 @@ humans and machines…and much more
    spécifique explicitement demandé par l’abonné ou l’utilisateur, ou dans
    le seul but d’effectuer la transmission d’une communication sur un
    réseau de communications électroniques.
-   Préférences [ ] Préférences
+   Préférence[ ]_] Préférences
    Storage or technical access is necessary for the purpose of legitimate
    interest to store preferences that are not requested by the subscriber
    or user.

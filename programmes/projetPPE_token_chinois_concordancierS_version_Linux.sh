@@ -87,26 +87,16 @@ do
                     <td>$URL</td>
                     <td>$response</td>
                     <td>$encoding</td>
-                    <td><a href ="../aspirations/${lang}-${lineno}.html">Aspiration</a></td>
-                    <td><a href ="../dumps-text/${lang}-${lineno}.txt">Dump</a></td>
+                    <td><a href ="./aspirations/${lang}-${lineno}.html">Aspiration</a></td>
+                    <td><a href ="./dumps-text/${lang}-${lineno}.txt">Dump</a></td>
                     <td>$compte</td>
-                    <td><a href="../Contextes/${lang}-${lineno}.txt">Contextes</a></td>
-                    <td><a href="../concordances/${lang}-${lineno}.html">Concordances</a></td>
+                    <td><a href="./Contextes/${lang}-${lineno}.txt">Contextes</a></td>
+                    <td><a href="./concordances/${lang}-${lineno}.html">Concordances</a></td>
                 </tr>" >> $html_file
     lineno=$(expr $lineno + 1)
 done < $URLS
-<<<<<<< Updated upstream
-echo "</table>" >> $html_file
-
-# Créer les sources pour les nuages de mot
-cat "../Contextes/${lang}-*.txt" >> "../itrameur/source_nuage_${lang}.txt"
-=======
-<<<<<<< HEAD
 echo -e "\t\t\t</table><br>" >> $html_file
-=======
-echo "</table>" >> $html_file
 
 # Créer les sources pour les nuages de mot
 cat "../Contextes/${lang}-*.txt" >> "../itrameur/source_nuage_${lang}.txt"
->>>>>>> e1b7215e1934f04b3194b9faa805518a976a312f
->>>>>>> Stashed changes
+

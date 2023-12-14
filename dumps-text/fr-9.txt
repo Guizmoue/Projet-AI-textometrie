@@ -43,25 +43,60 @@ Sommaire
    (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
      * Début
      * 1Terminologie
-     * 2Histoire
-     * 3Caractéristiques
-       (BUTTON) Afficher / masquer la sous-section Caractéristiques
-          + 3.1Sentience
-          + 3.2Explosion d'intelligence
-     * 4Faisabilité
-     * 5Bénéfices
-     * 6Risques
-       (BUTTON) Afficher / masquer la sous-section Risques
-          + 6.1Perte de contrôle
-          + 6.2Chômage de masse
-          + 6.3Désinformation et manipulation
-          + 6.4Cyberattaques et prolifération
-     * 7Références
-     * 8Voir aussi
-       (BUTTON) Afficher / masquer la sous-section Voir aussi
-          + 8.1Articles connexes
-          + 8.2Liens externes
-          + 8.3Bibliographie
+
+     2Histoire
+
+     3Caractéristiques
+   (BUTTON) Afficher / masquer la sous-section Caractéristiques
+     * 3.1Sentience
+
+     3.2Explosion d'intelligence
+
+
+
+   4Faisabilité
+
+
+
+   5Bénéfices
+
+
+
+   6Risques
+
+   (BUTTON) Afficher / masquer la sous-section Risques
+     * 6.1Perte de contrôle
+
+
+
+   6.2Chômage de masse
+
+
+
+   6.3Désinformation et manipulation
+
+
+
+   6.4Cyberattaques et prolifération
+
+
+
+   7Références
+
+
+
+   8Voir aussi
+
+   (BUTTON) Afficher / masquer la sous-section Voir aussi
+     * 8.1Articles connexes
+
+
+
+   8.2Liens externes
+
+
+
+   8.3Bibliographie
 
    [ ] Basculer la table des matières
 
@@ -71,7 +106,7 @@ Intelligence artificielle générale
      * Afrikaans
      * العربية
      * Bosanski
-     * Català
+     * Catal�
      * کوردی
      * Čeština
      * Deutsch
@@ -197,7 +232,7 @@ Terminologie[modifier | modifier le code]
    intellectuelles bien supérieures à celles de l'humain dans pratiquement
    tous les domaines^[13]. Les experts affichent une large incertitude sur
    le temps que cela prendrait de passer d'une IAG à une superintelligence
-   artificielle, les estimations pouvant aller de moins d'une heure à
+   artificielle, les estimations pouvant aller de moins d'une heure �
    plusieurs décennies, en supposant que ce soit possible^[14].
 
    Cela dit, ces termes peuvent avoir des définitions différentes, et ces
@@ -353,7 +388,7 @@ Faisabilité[modifier | modifier le code]
 
    Il y a quelques années, l'intelligence artificielle générale était
    perçu comme un sujet spéculatif et lointain. En 2015, Le vice-président
-   de Baidu, Andrew Ng, que s'inquiéter des risques existentiels liés à
+   de Baidu, Andrew Ng, que s'inquiéter des risques existentiels liés �
    l'IAG est « comme s'inquiéter de la surpopulation sur Mars alors que
    nous n'avons même pas encore mis le pied sur la planète »^[36].
 
@@ -413,7 +448,7 @@ Risques[modifier | modifier le code]
    elle-même, ou du comportement humain face à celle-ci^[49]. Certains
    risques sont déjà un problème aujourd'hui, comme le chômage, la
    désinformation ou les armes létales autonomes, mais pourraient être
-   exacerbés par l'IAG. En outre, la capacité de la société humaine à
+   exacerbés par l'IAG. En outre, la capacité de la société humaine �
    prédire et à contrôler le développement de l'IAG, ainsi que sa capacité
    à faire face aux risques potentiels font l'objet d'études^[49].
 
@@ -442,7 +477,7 @@ Perte de contrôle[modifier | modifier le code]
    l'humanité y travaille ensemble »^[52]. Une des difficultés vient du
    fait que si l'IAG est capable de manipuler des humains, il est très
    difficile de vérifier si ses intentions sont vraiment celles que l'on
-   souhaite^[54]. Une approche nommée l'« interprétabilité » consiste à
+   souhaite^[54]. Une approche nommée l'« interprétabilité » consiste �
    tenter de comprendre le fonctionnement interne de ces modèles d'IA,
    notamment afin de pouvoir détecter des signes de manipulation, une
    tâche difficile vu la complexité et le nombre de paramètres de ces
@@ -481,7 +516,7 @@ Perte de contrôle[modifier | modifier le code]
    l'attention de problèmes plus concrets et immédiats^[60].
 
    En 2023, Max Tegmark dresse une analogie entre la superintelligence non
-   alignée et la comète qui s'apprête à heurter la Terre dans le film à
+   alignée et la comète qui s'apprête à heurter la Terre dans le film �
    succès Don't Look Up^[61].
 
 Chômage de masse[modifier | modifier le code]
@@ -494,7 +529,7 @@ Chômage de masse[modifier | modifier le code]
    de bureau semblent être les plus concernés, par exemple les
    mathématiciens, comptables ou concepteurs de sites Web^[62].
 
-   L'IAG pourrait augmenter l'autonomie de ces systèmes, leur capacité à
+   L'IAG pourrait augmenter l'autonomie de ces systèmes, leur capacité �
    prendre des décisions, à s'interfacer avec d'autres outils
    informatiques, mais aussi à contrôler des corps robotisés.
 
@@ -520,7 +555,7 @@ Chômage de masse[modifier | modifier le code]
 
 Désinformation et manipulation[modifier | modifier le code]
 
-   La génération automatique d'images ou de textes crédibles est déjà
+   La génération automatique d'images ou de textes crédibles est déj�
    possible. Par exemple, une fausse image d'une explosion du Pentagone le
    22 mai 2023, partagée par des comptes financiers ainsi que par des
    médias russes, a entraîné une baisse momentanée de 0,3 % des cours
@@ -528,7 +563,7 @@ Désinformation et manipulation[modifier | modifier le code]
    meilleure compréhension du contexte, interagir avec d'autres outils et
    se montrer plus convaincante, stratégique, personnalisée et autonome.
 
-   La capacité des modèles d'IA à produire du contenu très rapidement et à
+   La capacité des modèles d'IA à produire du contenu très rapidement et �
    faible coût pourrait inonder internet de texte, d'images ou de vidéos
    générées automatiquement^[65]^,^[66]. Ce contrôle de l'information
    pourrait être également exploité par des régimes autoritaires à des

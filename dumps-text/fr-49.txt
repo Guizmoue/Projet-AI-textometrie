@@ -7,14 +7,14 @@ Cédric Villani : «Les algorithmes ont déjà permis de sauver des vies»
    Dossiers liés
    Intelligence artificielle : de la fascination à l'inquiétude
    Pour le mathématicien et spécialiste de l’IA, les progrès induits par
-   les outils de l’intelligence artificielle ne seront utiles qu’à
+   les outils de l’intelligence artificielle ne seront utiles qu’�
    condition de les intégrer dans un cadre où «l’interdisciplinarité est
    reine» et la mise en place d’une politique humaine efficace.
    par Benjamin Leclercq
    publié le 30 novembre 2023 à 17h27
 
    Innovation, changement climatique, intelligence artificielle,
-   éco-anxiété : comment mieux réparer sa santé ? Rendez-vous à Rouen et à
+   éco-anxiété : comment mieux réparer sa santé ? Rendez-vous à Rouen et �
    Caen, les 30 novembre, 1er et 2 décembre 2023 au MoHo avec le LibéCare
    pour débattre avec médecins, intellectuels et experts.
 
@@ -36,7 +36,7 @@ Cédric Villani : «Les algorithmes ont déjà permis de sauver des vies»
    données et particulièrement de l’imagerie, dans la détection de signaux
    faibles ou l’aide aux protocoles de prise en charge… Voilà des années
    que les algorithmes font, sur certaines pathologies, des détections
-   plus fiables que les meilleurs experts ; et cette performance a déjà
+   plus fiables que les meilleurs experts ; et cette performance a déj�
    permis de sauver des vies. Les applications sont nombreuses et vont se
    multiplier.
    Récit

@@ -362,7 +362,7 @@ Une grosse économie d’énergie
    redondances ». D’où, parfois, de terribles « embouteillages »
    énergivores pour accéder à la mémoire… C’est ainsi que le programme
    AlphaGo, l’IA de Google qui a récemment écrasé les plus grands
-   champions de go, consomme dix mille fois plus d’énergie qu’un humain à
+   champions de go, consomme dix mille fois plus d’énergie qu’un humain �
    la même table de jeu !
 
    Le programme AlphaGo, qui a récemment écrasé les plus grands champions
@@ -402,14 +402,14 @@ Une grosse économie d’énergie
 
    L’équipe d'Alain Cappy utilise des transistors pour fabriquer ses
    neurones artificiels. Assemblés en circuit (à gauche), ceux-ci
-   répondent à une excitation synaptique par des potentiels d’action (à
+   répondent à une excitation synaptique par des potentiels d’action (�
    droite, en vert) identiques à ceux obtenus avec des neurones
    biologiques.
 
    CNRS Le Journal (BUTTON)
    L’équipe d'Alain Cappy utilise des transistors pour fabriquer ses
    neurones artificiels. Assemblés en circuit (à gauche), ceux-ci
-   répondent à une excitation synaptique par des potentiels d’action (à
+   répondent à une excitation synaptique par des potentiels d’action (�
    droite, en vert) identiques à ceux obtenus avec des neurones
    biologiques.
    A. CAPPY/ICIRCA-IEMN
@@ -463,9 +463,9 @@ Une question de taille
    ferromagnétiques prenant en sandwich une fine couche d’isolant
    électrique. « Lorsqu’on le soumet à un courant continu, les électrons
    passent à travers l’isolant par effet tunnelFermerPhénomène observé en
-   mécanique quantique (c’est-à-dire à l’échelle des atomes) qui permet à
+   mécanique quantique (c’est-à-dire à l’échelle des atomes) qui permet �
    une particule de traverser une barrière a priori infranchissable : elle
-   franchit une barrière de potentiel même si son énergie est inférieure à
+   franchit une barrière de potentiel même si son énergie est inférieure �
    l’énergie minimale requise. et leur spin fait tourner l’aimantation de
    la couche supérieure. Cela produit en sortie des oscillations
    électriques comparables aux signaux émis par les neurones de notre
@@ -512,7 +512,7 @@ Imiter la plasticité des neurones
    ultra-mince d’un matériau ferroélectrique que les électrons traversent
    par effet tunnel : « Nous avons démontré que l’amplitude et la durée
    des impulsions que reçoit la synapse artificielle provoquent une
-   variation de la résistance du matériau, donc de sa capacité à
+   variation de la résistance du matériau, donc de sa capacité �
    transmettre le courant tunnel. Cette propriété est très similaire à la
    plasticité des synapses biologiques », détaille le chercheur.
 
@@ -554,7 +554,7 @@ Le défi des circuits intégrés
    obstacle : le passage à l’échelle. « Un composant seul peut présenter
    un comportement physique remarquable, mais ce bénéfice s’estompe
    parfois lorsque l’on en intègre des milliers », commente Damien
-   Querlioz. Il suffit par exemple que la tension électrique arrivant à
+   Querlioz. Il suffit par exemple que la tension électrique arrivant �
    l’entrée de chaque composant varie légèrement pour ruiner l’intérêt
    d’une puce neuromorphique complexe. Or, « des milliers, voire des
    centaines de milliers de composants à intégrer ensemble, c’est pourtant
@@ -696,7 +696,7 @@ L’homme sait L’ordinateur ne
    qu’il possède bel et bien une conscience, infime cela va de soi, et de
    type non-réflexive, il l’est sans le savoir. Appelons cela une
    conscience primaire faible. De là découle qu’être conscient et savoir
-   (pris dans le sens d’une mémoire recelant des informations) semblent à
+   (pris dans le sens d’une mémoire recelant des informations) semblent �
    priori deux choses différentes. Contrairement à un ordinateur, le
    savoir humain est un vrai savoir, en ce sens qu’il a du sens. Il
    signifie quelque chose pour l’intéressé, ça lui parle, il sait qu’il
@@ -719,7 +719,7 @@ L’homme sait L’ordinateur ne
    dépassera à jamais. Appelons conscience secondaire, au carré, ou
    puissance n, la conscience de savoir que l’on sait, qui est le substrat
    de tous les savoirs. Elle permet la réflexion qui est reflet, la
-   conscience se réfléchit elle-même comme dans un jeu de miroirs à
+   conscience se réfléchit elle-même comme dans un jeu de miroirs �
    l’infini. Elle s’assimile à un jeu de lentilles en optique concentrant
    ou dispersant la lumière et elle est typiquement humaine. Elle permet
    la conscience de soi radicalement différenciée de l’autre (le « même »
@@ -728,7 +728,7 @@ L’homme sait L’ordinateur ne
    L’instinct domine. Certes ils se battent mais ont-ils clairement
    conscience de se battre ? La conscience de l’espèce et l’automatisme
    étant plus développés, elle n’est pas réflexive, puisque la réflexion
-   est le discours intérieur implicite ou explicite que nous tenons à
+   est le discours intérieur implicite ou explicite que nous tenons �
    nous-même (le fameux « reflet »). La relation avec soi et
    l’environnement ne passe pas par les mêmes « circuits » Le cogito de
    l’homme est unique et n’est pas généré par le cerveau qui n’est qu’un
@@ -846,7 +846,7 @@ L’homme sait L’ordinateur ne
    sachant qu’elle n’a pas pu s’auto-engendrer comme nous le verrons plus
    bas, le seul corollaire possible est que son existence soit éternelle.
    En a-t-on la preuve ? Evidemment non, mais puisqu’elle est là et que
-   Dieu n’existe pas, alors forcément… Question : qu’est-ce qui autorise à
+   Dieu n’existe pas, alors forcément… Question : qu’est-ce qui autorise �
    éliminer l’hypothèse de Dieu ? Son inexistence est-elle démontrée ? Non
    pas plus que son existence excepté que l’intelligence penche plus en sa
    faveur. En effet il est beaucoup plus vraisemblable que ce qui est
@@ -864,7 +864,7 @@ L’homme sait L’ordinateur ne
    qu’entre la fin ultime d’un univers donc du temps et la naissance d’un
    nouveau, il y a un « non-temps » impossible à mesurer donc, que
    j’appelerai par analogie à la mythologie Hindo-tibétaine « Manvantara
-   ». Cette « période de non-temps » incommensurable et impossible à
+   ». Cette « période de non-temps » incommensurable et impossible �
    comprendre par le raisonnement, a pour corollaire que le temps et
    l’univers sont cycliques comme le pensaient les grecs à juste titre.
    C’est l’éternel retour. Un univers naît et avec lui le temps, puis il
@@ -881,7 +881,7 @@ L’homme sait L’ordinateur ne
    dernier manvantara ? Il n’y avait rien excepté un être. Par contre on
    peut se demander ce qu’il y avait, non avant le fameux big bang, mais
    avant le dernier manvantara, ce qui sera plus juste, et la réponse sera
-   : l’univers précédent. Ceci est comparable à une respiration à
+   : l’univers précédent. Ceci est comparable à une respiration �
    l’échelle cosmique. Rien ne peut être éternellement sans volonté (et le
    pouvoir de cette volonté) introduisant le nombre, la proportion,
    l’ordre, la loi immuable (mathématique, scientifique) qui réside dans
@@ -1001,7 +1001,7 @@ L’homme sait L’ordinateur ne
    un fait établi. Car si quelqu’un considère que l’existence d’une
    conscience (ou pensée) cosmique est invraisemblable, je ne peux rien
    pour lui, sauf le plaindre. D’où viennent la conscience et la vie ? On
-   fouille les tréfonds de la matière jusqu’aux limites puisque c’est là
+   fouille les tréfonds de la matière jusqu’aux limites puisque c’est l�
    et là seul, pensent-ils que doit se trouver la clé. Seulement on ne la
    trouve pas. Ils partent juste de ce postulat tout à fait arbitraire (si
    si) d’où ils tirent des hypothèses invérifiées, néanmoins présentées
@@ -1023,7 +1023,7 @@ L’homme sait L’ordinateur ne
    lorsqu’on reconnait son erreur, on s’achemine (un peu) vers la vérité.
    Lève-toi et marche Si l’âme humaine est produite par le cerveau (selon
    des propriétés quantiques ou ce que vous voulez comment se fait-il que
-   les singes ayant quasiment les mêmes neurones et sont antérieurs à
+   les singes ayant quasiment les mêmes neurones et sont antérieurs �
    l’homme dans l’évolution, (d’après la théorie officielle) ne soient
    capable des mêmes performances cognitives ? Réponse : néant personne ne
    le sait. Personne ne sait pourquoi l’homme est homme et le singe singe.
@@ -1098,10 +1098,10 @@ L’homme sait L’ordinateur ne
    Parler de laïcité c’est parler en creux de religion donc de Dieu. Or
    nous n’en avons jamais autant parlé depuis la loi de 1905. Les
    musulmans dans nos pays nous obligent à ce genre de débat qui
-   n’existait pas dans les années 60. Vous avez éliminé Dieu ? Le voilà
+   n’existait pas dans les années 60. Vous avez éliminé Dieu ? Le voil�
    qui revient vous chatouiller les orteils. André Malraux disait que le
-   21ème siècle serait spirituel ou ne serait pas… D’autres diront à
-   contrario que c’est justement s’il est spirituel qu’il ne sera pas, à
+   21ème siècle serait spirituel ou ne serait pas… D’autres diront �
+   contrario que c’est justement s’il est spirituel qu’il ne sera pas, �
    cause des guerres que les religions suscitent. C’est vrai il y aura des
    guerres, mais soyez certain que « Dieu » sera le seul vainqueur.
    L’hypothèse de Dieu est conforme à la raison Pourquoi avons-nous
@@ -1167,7 +1167,7 @@ L’homme sait L’ordinateur ne
    ne peut engendrer la vie et la non-conscience la conscience. Revenons
    aux machines : nous allons créer des ordinateurs qui auront une âme,
    grâce à certaines propriétés quantiques (non encore élucidées) de la
-   matière, lesquelles sont des propriétés de conscience. Ou encore, et là
+   matière, lesquelles sont des propriétés de conscience. Ou encore, et l�
    nous entrons de plein pied dans l’occultisme, nous allons créer des
    égrégores sur des supports logiciels, et ainsi les ordinateurs serons
    des êtres. Ou que sais-je encore. Pourquoi pas, mais je me demande s’il
@@ -1207,7 +1207,7 @@ L’homme sait L’ordinateur ne
    cela une conscience larvaire si on veut. Vivre c’est être doté de vie,
    c’est-à-dire d’une énergie vitale dont les sciences actuelles et la
    physique en particulier n’ont aucune connaissance. A ce jour, ce qu’est
-   la vie elle-même (à ne pas confondre avec les conditions nécessaires à
+   la vie elle-même (à ne pas confondre avec les conditions nécessaires �
    sa manifestation, le support, le fameux CHNOPS) reste un mystère. S’il
    y a de la conscience partout dans l’intimité de la terre de l’univers
    ou des multivers, si vous voulez, qu’est-ce d’autre que Dieu ?

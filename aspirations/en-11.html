@@ -307,7 +307,7 @@
 
             var headScripts = [
                 {'src': '/oscar-static/js/polyfill-es5-bundle-a5eb43b007.js', 'async': false},
-                {'src': '/oscar-static/js/airbrake-es5-bundle-1485f46955.js', 'async': false},
+                {'src': '/oscar-static/js/airbrake-es5-bundle-662bd9268a.js', 'async': false},
             ];
 
             var bodyScripts = [
@@ -793,7 +793,7 @@ exports.headerWidgetClientInit = headerWidgetClientInit;
                                     </svg>
                                 
                                     This is a preview of subscription content, <a id="test-login-banner-link"
-                                    href="//wayf.springernature.com?redirect_uri&#x3D;https%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs00146-017-0760-1%3Ferror%3Dcookies_not_supported%26code%3D0bd37f17-36fb-41cf-977f-b378e28c2c48"
+                                    href="//wayf.springernature.com?redirect_uri&#x3D;https%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs00146-017-0760-1%3Ferror%3Dcookies_not_supported%26code%3D52e328d6-42f4-46df-bf9d-90918db3899f"
                                     data-track="click" data-track-action="login" data-track-label="link" class="c-preview-message__link">log in via an institution</a>
                                 
                                 <svg width="16" height="16" focusable="false" role="img" aria-hidden="true" class="u-icon c-external-link__icon"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-eds-i-external-link-small"></use></svg> to check access.</p>
@@ -807,7 +807,7 @@ exports.headerWidgetClientInit = headerWidgetClientInit;
                                     
                                         
                                             <div class="u-ma-16 u-clear-both">
-                                                <a href="//wayf.springernature.com?redirect_uri&#x3D;https%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs00146-017-0760-1%3Ferror%3Dcookies_not_supported%26code%3D0bd37f17-36fb-41cf-977f-b378e28c2c48"
+                                                <a href="//wayf.springernature.com?redirect_uri&#x3D;https%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs00146-017-0760-1%3Ferror%3Dcookies_not_supported%26code%3D52e328d6-42f4-46df-bf9d-90918db3899f"
                                                    class="u-button u-button--full-width u-button--primary u-justify-content-space-between c-pdf-download__link"
                                                    data-track="click" data-track-action="institution access"
                                                    data-track-label="button">
@@ -820,8 +820,50 @@ exports.headerWidgetClientInit = headerWidgetClientInit;
                                         
                                     
                                     <div data-test="buy-box-mobile" class="c-article-buy-box">
-                                        <div id="fallback-article-buy-box" class="flash flash--danger">
-<p class="mb0" data-component='Article Buy Box'>We’re sorry, something doesn't seem to be working properly.</p><p> Please try refreshing the page. If that doesn't work, please contact support so we can address the problem.</p>
+                                        <div class="sprcom-buybox-articleDarwin" id="sprcom-buybox-articleDarwin">
+ <!-- rendered: 2023-12-14T14:38:18.218283 --><!-- Darwin version -->
+ <div class="buying-option" data-test-id="buy-article-darwin">
+  <div>
+   <div class="buybox__buy">
+    <form action="https://order.springer.com/public/cart" method="post">
+     <input type="hidden" name="type" value="article"><input type="hidden" name="doi" value="10.1007/s00146-017-0760-1"><input type="hidden" name="isxn" value="1435-5655"><input type="hidden" name="contenttitle" value="Social choice ethics in artificial intelligence"><input type="hidden" name="copyrightyear" value="2017"><input type="hidden" name="year" value="2017"><input type="hidden" name="authors" value="Seth D. Baum"><input type="hidden" name="title" value="AI &amp; SOCIETY"><input type="hidden" name="mac" value="F41FF9950321E48B813F1B31E8316446">
+     <div class="u-ma-16">
+      <button type="submit" class="u-button--small u-button u-button--secondary u-button--full-width" onclick="dataLayer.push({&quot;event&quot;:&quot;addToCart&quot;,&quot;ecommerce&quot;:{&quot;currencyCode&quot;:&quot;EUR&quot;,&quot;add&quot;:{&quot;products&quot;:[{&quot;name&quot;:&quot;Social choice ethics in artificial intelligence&quot;,&quot;id&quot;:&quot;1435-5655&quot;,&quot;price&quot;:39.95,&quot;brand&quot;:&quot;Springer London&quot;,&quot;category&quot;:&quot;Computer Science&quot;,&quot;variant&quot;:&quot;ppv-article&quot;,&quot;quantity&quot;:1}]}}});"><span>Buy article PDF 39,95 €</span></button>
+     </div>
+    </form>
+    <p class="c-notes__text c-notes__vat">Price includes VAT (France)<br></p>
+    <p class="c-notes__text c-notes__usp">Instant access to the full article PDF.</p>
+   </div>
+  </div>
+  <script>dataLayer.push({"ecommerce":{"currency":"EUR","impressions":[{"name":"Social choice ethics in artificial intelligence","id":"1435-5655","price":39.95,"brand":"Springer London","category":"Computer Science","variant":"ppv-article","quantity":1}]}});</script>
+ </div>
+ <article class="u-ma-16 buybox__rent-article" id="deepdyve" style="display: none" data-test-id="journal-subscription">
+  <div class="c-box__body">
+   <div class="buybox__info">
+    <p>Rent this article via <a class="deepdyve-link" target="deepdyve" rel="nofollow" data-track="click" data-track-action="rent article" data-track-label="rent action, new buybox">DeepDyve</a>
+     <svg focusable="false" role="img" aria-hidden="true" class="u-icon">
+      <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-eds-i-external-link-small"></use>
+     </svg></p>
+   </div>
+  </div>
+  <script>
+            function deepDyveResponse(data) {
+                if (data.status === 'ok') {
+                    [].slice.call(document.querySelectorAll('.u-ma-16.buybox__rent-article')).forEach(function (article) {
+                        article.style.display = 'flex'
+                        var link = article.querySelector('.deepdyve-link')
+                        if (link) {
+                            link.setAttribute('href', data.url)
+                        }
+                    })
+                }
+            }
+
+            var script = document.createElement('script')
+            script.src = '//www.deepdyve.com/rental-link?docId=10.1007/s00146-017-0760-1&journal=1435-5655&fieldName=journal_doi&affiliateId=springer&format=jsonp&callback=deepDyveResponse'
+            document.body.appendChild(script)
+          </script>
+ </article>
 </div>
                                     </div>
                                     <div class="app-article-access__subscriptions">
@@ -850,7 +892,7 @@ exports.headerWidgetClientInit = headerWidgetClientInit;
 
                     
 
-                    <section data-title="Notes"><div class="c-article-section" id="notes-section"><h2 class="c-article-section__title js-section-title js-c-reading-companion-sections-item" id="notes">Notes</h2><div class="c-article-section__content" id="notes-content"><ol class="c-article-footnote c-article-footnote--listed"><li class="c-article-footnote--listed__item" id="Fn1" data-counter="1."><div class="c-article-footnote--listed__content"><p>Note that while consciousness may play a role in ethics learning among human children, it is not essential for AI. The essential feature is that ethics is learned via interaction with the environment, regardless of whether that interaction involves consciousness.</p></div></li><li class="c-article-footnote--listed__item" id="Fn2" data-counter="2."><div class="c-article-footnote--listed__content"><p>One exception, in which social choice is (briefly) discussed in the context of CEV, is Tarleton (<a data-track="click" data-track-action="reference anchor" data-track-label="link" data-test="citation-ref" aria-label="Reference 2010" title="Tarleton N (2010) Coherent extrapolated volition: a meta-level approach to machine ethics. The Singularity Institute, Berkeley, CA" href="/article/10.1007/s00146-017-0760-1#ref-CR55" id="ref-link-section-d44012197e381">2010</a>). Keyword searches in Google Scholar identified no other discussions of social choice in CEV or bottom-up ethics. There is a more extensive study of “computational social choice” relating aspects of social choice theory and computer science (Brandt et al. <a data-track="click" data-track-action="reference anchor" data-track-label="link" data-test="citation-ref" aria-label="Reference 2015" title="Brandt F, Conitzer V, Endriss U, Lang J, Procaccia AD (2015) Handbook of computational social choice. Cambridge University Press, Cambridge" href="/article/10.1007/s00146-017-0760-1#ref-CR18" id="ref-link-section-d44012197e384">2015</a>).</p></div></li><li class="c-article-footnote--listed__item" id="Fn3" data-counter="3."><div class="c-article-footnote--listed__content"><p>This is similar to the “boundary problem” in democracy (Arrhenius <a data-track="click" data-track-action="reference anchor" data-track-label="link" data-test="citation-ref" aria-label="Reference 2005" title="Arrhenius G (2005) The boundary problem in democratic theory. In: Tersman F (ed) Democracy unbound: basic explorations I. Filosofiska Institutionen, Stockholm, pp 14–29" href="/article/10.1007/s00146-017-0760-1#ref-CR5" id="ref-link-section-d44012197e522">2005</a>).</p></div></li><li class="c-article-footnote--listed__item" id="Fn4" data-counter="4."><div class="c-article-footnote--listed__content"><p>Martin (<a data-track="click" data-track-action="reference anchor" data-track-label="link" data-test="citation-ref" aria-label="Reference 2017" title="Martin D (2017) Who should decide how machines make morally laden decisions? Sci Eng Ethics 23(4):951–967" href="/article/10.1007/s00146-017-0760-1#ref-CR37" id="ref-link-section-d44012197e564">2017</a>) also considers having AIs set their own ethics or the ethics of other AIs; more on this below.</p></div></li><li class="c-article-footnote--listed__item" id="Fn5" data-counter="5."><div class="c-article-footnote--listed__content"><p>Tay was programmed to learn from (and thus give standing to) Twitter users who interact with it, which quickly devolved into deviance and obscenity as Twitter users taught it to misbehave. Microsoft has since been wrestling with the question of how to give standing to a more appropriate mix of people.</p></div></li><li class="c-article-footnote--listed__item" id="Fn6" data-counter="6."><div class="c-article-footnote--listed__content"><p>There is a certain irony that some proponents of CEV speak in terms of giving standing only to humanity but also favor a transition to posthumanity (e.g., Bostrom <a data-track="click" data-track-action="reference anchor" data-track-label="link" data-test="citation-ref" aria-label="Reference 2008" title="Bostrom N (2008) Why I want to be a posthuman when I grow up. In: Gordijn B, Chadwick R (eds) Medical enhancement and posthumanity. Springer, Berlin, pp 107–136" href="/article/10.1007/s00146-017-0760-1#ref-CR16" id="ref-link-section-d44012197e671">2008</a>).</p></div></li><li class="c-article-footnote--listed__item" id="Fn7" data-counter="7."><div class="c-article-footnote--listed__content"><p>For an argument against Benatar’s views, see Baum (<a data-track="click" data-track-action="reference anchor" data-track-label="link" data-test="citation-ref" aria-label="Reference 2008" title="Baum SD (2008) Better to exist: a reply to Benatar. J Med Ethics 34(12):875–876" href="/article/10.1007/s00146-017-0760-1#ref-CR11" id="ref-link-section-d44012197e778">2008</a>).</p></div></li><li class="c-article-footnote--listed__item" id="Fn8" data-counter="8."><div class="c-article-footnote--listed__content"><p>This happened in 2000 and 2016, when Al Gore and Hillary Clinton, respectively, received more votes from individual voters, but George W. Bush and Donald Trump, respectively, received more votes in the electoral college.</p></div></li><li class="c-article-footnote--listed__item" id="Fn9" data-counter="9."><div class="c-article-footnote--listed__content"><p>There is no indication that Tay was designed with bottom–up ethics in mind, but the net result is the same in that Tay acquired its principles for behavior via input from the people it interacted with.</p></div></li></ol></div></div></section><div id="MagazineFulltextArticleBodySuffix"><section aria-labelledby="Bib1" data-title="References"><div class="c-article-section" id="Bib1-section"><h2 class="c-article-section__title js-section-title js-c-reading-companion-sections-item" id="Bib1">References</h2><div class="c-article-section__content" id="Bib1-content"><div data-container-section="references"><ul class="c-article-references" data-track-component="outbound reference"><li class="c-article-references__item js-c-reading-companion-references-item"><p class="c-article-references__text" id="ref-CR1">Adams FC (2008) Long-term astrophysical processes. In: Bostrom N, Ćirković MM (eds) Global catastrophic risks. Oxford University Press, Oxford, pp 33–47</p><p class="c-article-references__links u-hide-print"><a data-track="click" data-track-action="google scholar reference" data-track-label="link" rel="nofollow noopener" aria-label="Google Scholar reference 1" href="http://scholar.google.com/scholar_lookup?&amp;title=Long-term%20astrophysical%20processes&amp;pages=33-47&amp;publication_year=2008&amp;author=Adams%2CFC">
+                    <section data-title="Notes"><div class="c-article-section" id="notes-section"><h2 class="c-article-section__title js-section-title js-c-reading-companion-sections-item" id="notes">Notes</h2><div class="c-article-section__content" id="notes-content"><ol class="c-article-footnote c-article-footnote--listed"><li class="c-article-footnote--listed__item" id="Fn1" data-counter="1."><div class="c-article-footnote--listed__content"><p>Note that while consciousness may play a role in ethics learning among human children, it is not essential for AI. The essential feature is that ethics is learned via interaction with the environment, regardless of whether that interaction involves consciousness.</p></div></li><li class="c-article-footnote--listed__item" id="Fn2" data-counter="2."><div class="c-article-footnote--listed__content"><p>One exception, in which social choice is (briefly) discussed in the context of CEV, is Tarleton (<a data-track="click" data-track-action="reference anchor" data-track-label="link" data-test="citation-ref" aria-label="Reference 2010" title="Tarleton N (2010) Coherent extrapolated volition: a meta-level approach to machine ethics. The Singularity Institute, Berkeley, CA" href="/article/10.1007/s00146-017-0760-1#ref-CR55" id="ref-link-section-d1862653e381">2010</a>). Keyword searches in Google Scholar identified no other discussions of social choice in CEV or bottom-up ethics. There is a more extensive study of “computational social choice” relating aspects of social choice theory and computer science (Brandt et al. <a data-track="click" data-track-action="reference anchor" data-track-label="link" data-test="citation-ref" aria-label="Reference 2015" title="Brandt F, Conitzer V, Endriss U, Lang J, Procaccia AD (2015) Handbook of computational social choice. Cambridge University Press, Cambridge" href="/article/10.1007/s00146-017-0760-1#ref-CR18" id="ref-link-section-d1862653e384">2015</a>).</p></div></li><li class="c-article-footnote--listed__item" id="Fn3" data-counter="3."><div class="c-article-footnote--listed__content"><p>This is similar to the “boundary problem” in democracy (Arrhenius <a data-track="click" data-track-action="reference anchor" data-track-label="link" data-test="citation-ref" aria-label="Reference 2005" title="Arrhenius G (2005) The boundary problem in democratic theory. In: Tersman F (ed) Democracy unbound: basic explorations I. Filosofiska Institutionen, Stockholm, pp 14–29" href="/article/10.1007/s00146-017-0760-1#ref-CR5" id="ref-link-section-d1862653e522">2005</a>).</p></div></li><li class="c-article-footnote--listed__item" id="Fn4" data-counter="4."><div class="c-article-footnote--listed__content"><p>Martin (<a data-track="click" data-track-action="reference anchor" data-track-label="link" data-test="citation-ref" aria-label="Reference 2017" title="Martin D (2017) Who should decide how machines make morally laden decisions? Sci Eng Ethics 23(4):951–967" href="/article/10.1007/s00146-017-0760-1#ref-CR37" id="ref-link-section-d1862653e564">2017</a>) also considers having AIs set their own ethics or the ethics of other AIs; more on this below.</p></div></li><li class="c-article-footnote--listed__item" id="Fn5" data-counter="5."><div class="c-article-footnote--listed__content"><p>Tay was programmed to learn from (and thus give standing to) Twitter users who interact with it, which quickly devolved into deviance and obscenity as Twitter users taught it to misbehave. Microsoft has since been wrestling with the question of how to give standing to a more appropriate mix of people.</p></div></li><li class="c-article-footnote--listed__item" id="Fn6" data-counter="6."><div class="c-article-footnote--listed__content"><p>There is a certain irony that some proponents of CEV speak in terms of giving standing only to humanity but also favor a transition to posthumanity (e.g., Bostrom <a data-track="click" data-track-action="reference anchor" data-track-label="link" data-test="citation-ref" aria-label="Reference 2008" title="Bostrom N (2008) Why I want to be a posthuman when I grow up. In: Gordijn B, Chadwick R (eds) Medical enhancement and posthumanity. Springer, Berlin, pp 107–136" href="/article/10.1007/s00146-017-0760-1#ref-CR16" id="ref-link-section-d1862653e671">2008</a>).</p></div></li><li class="c-article-footnote--listed__item" id="Fn7" data-counter="7."><div class="c-article-footnote--listed__content"><p>For an argument against Benatar’s views, see Baum (<a data-track="click" data-track-action="reference anchor" data-track-label="link" data-test="citation-ref" aria-label="Reference 2008" title="Baum SD (2008) Better to exist: a reply to Benatar. J Med Ethics 34(12):875–876" href="/article/10.1007/s00146-017-0760-1#ref-CR11" id="ref-link-section-d1862653e778">2008</a>).</p></div></li><li class="c-article-footnote--listed__item" id="Fn8" data-counter="8."><div class="c-article-footnote--listed__content"><p>This happened in 2000 and 2016, when Al Gore and Hillary Clinton, respectively, received more votes from individual voters, but George W. Bush and Donald Trump, respectively, received more votes in the electoral college.</p></div></li><li class="c-article-footnote--listed__item" id="Fn9" data-counter="9."><div class="c-article-footnote--listed__content"><p>There is no indication that Tay was designed with bottom–up ethics in mind, but the net result is the same in that Tay acquired its principles for behavior via input from the people it interacted with.</p></div></li></ol></div></div></section><div id="MagazineFulltextArticleBodySuffix"><section aria-labelledby="Bib1" data-title="References"><div class="c-article-section" id="Bib1-section"><h2 class="c-article-section__title js-section-title js-c-reading-companion-sections-item" id="Bib1">References</h2><div class="c-article-section__content" id="Bib1-content"><div data-container-section="references"><ul class="c-article-references" data-track-component="outbound reference"><li class="c-article-references__item js-c-reading-companion-references-item"><p class="c-article-references__text" id="ref-CR1">Adams FC (2008) Long-term astrophysical processes. In: Bostrom N, Ćirković MM (eds) Global catastrophic risks. Oxford University Press, Oxford, pp 33–47</p><p class="c-article-references__links u-hide-print"><a data-track="click" data-track-action="google scholar reference" data-track-label="link" rel="nofollow noopener" aria-label="Google Scholar reference 1" href="http://scholar.google.com/scholar_lookup?&amp;title=Long-term%20astrophysical%20processes&amp;pages=33-47&amp;publication_year=2008&amp;author=Adams%2CFC">
                     Google Scholar</a> 
                 </p></li><li class="c-article-references__item js-c-reading-companion-references-item"><p class="c-article-references__text" id="ref-CR2">Allen C, Varner G, Zinser J (2000) Prolegomena to any future artificial moral agent. J Exp Theor Artif Intell 12:251–261</p><p class="c-article-references__links u-hide-print"><a data-track="click" rel="nofollow noopener" data-track-label="link" data-track-action="math reference" href="http://www.emis.de/MATH-item?1008.68092" aria-label="MATH reference 2">MATH</a> 
     <a data-track="click" data-track-action="google scholar reference" data-track-label="link" rel="nofollow noopener" aria-label="Google Scholar reference 2" href="http://scholar.google.com/scholar_lookup?&amp;title=Prolegomena%20to%20any%20future%20artificial%20moral%20agent&amp;journal=J%20Exp%20Theor%20Artif%20Intell&amp;volume=12&amp;pages=251-261&amp;publication_year=2000&amp;author=Allen%2CC&amp;author=Varner%2CG&amp;author=Zinser%2CJ">
@@ -1015,7 +1057,7 @@ exports.headerWidgetClientInit = headerWidgetClientInit;
                                         
                                             
                                                 <div class="u-ma-16 u-clear-both">
-                                                    <a href="//wayf.springernature.com?redirect_uri&#x3D;https%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs00146-017-0760-1%3Ferror%3Dcookies_not_supported%26code%3D0bd37f17-36fb-41cf-977f-b378e28c2c48"
+                                                    <a href="//wayf.springernature.com?redirect_uri&#x3D;https%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs00146-017-0760-1%3Ferror%3Dcookies_not_supported%26code%3D52e328d6-42f4-46df-bf9d-90918db3899f"
                                                        class="u-button u-button--full-width u-button--primary u-justify-content-space-between c-pdf-download__link"
                                                        data-track="click" data-track-action="institution access"
                                                        data-track-label="button">
@@ -1029,8 +1071,50 @@ exports.headerWidgetClientInit = headerWidgetClientInit;
                                         
 
                                         <div data-test="buy-box-desktop" class="c-article-buy-box">
-                                            <div id="fallback-article-buy-box" class="flash flash--danger">
-<p class="mb0" data-component='Article Buy Box'>We’re sorry, something doesn't seem to be working properly.</p><p> Please try refreshing the page. If that doesn't work, please contact support so we can address the problem.</p>
+                                            <div class="sprcom-buybox-articleDarwin" id="sprcom-buybox-articleDarwin">
+ <!-- rendered: 2023-12-14T14:38:18.218283 --><!-- Darwin version -->
+ <div class="buying-option" data-test-id="buy-article-darwin">
+  <div>
+   <div class="buybox__buy">
+    <form action="https://order.springer.com/public/cart" method="post">
+     <input type="hidden" name="type" value="article"><input type="hidden" name="doi" value="10.1007/s00146-017-0760-1"><input type="hidden" name="isxn" value="1435-5655"><input type="hidden" name="contenttitle" value="Social choice ethics in artificial intelligence"><input type="hidden" name="copyrightyear" value="2017"><input type="hidden" name="year" value="2017"><input type="hidden" name="authors" value="Seth D. Baum"><input type="hidden" name="title" value="AI &amp; SOCIETY"><input type="hidden" name="mac" value="F41FF9950321E48B813F1B31E8316446">
+     <div class="u-ma-16">
+      <button type="submit" class="u-button--small u-button u-button--secondary u-button--full-width" onclick="dataLayer.push({&quot;event&quot;:&quot;addToCart&quot;,&quot;ecommerce&quot;:{&quot;currencyCode&quot;:&quot;EUR&quot;,&quot;add&quot;:{&quot;products&quot;:[{&quot;name&quot;:&quot;Social choice ethics in artificial intelligence&quot;,&quot;id&quot;:&quot;1435-5655&quot;,&quot;price&quot;:39.95,&quot;brand&quot;:&quot;Springer London&quot;,&quot;category&quot;:&quot;Computer Science&quot;,&quot;variant&quot;:&quot;ppv-article&quot;,&quot;quantity&quot;:1}]}}});"><span>Buy article PDF 39,95 €</span></button>
+     </div>
+    </form>
+    <p class="c-notes__text c-notes__vat">Price includes VAT (France)<br></p>
+    <p class="c-notes__text c-notes__usp">Instant access to the full article PDF.</p>
+   </div>
+  </div>
+  <script>dataLayer.push({"ecommerce":{"currency":"EUR","impressions":[{"name":"Social choice ethics in artificial intelligence","id":"1435-5655","price":39.95,"brand":"Springer London","category":"Computer Science","variant":"ppv-article","quantity":1}]}});</script>
+ </div>
+ <article class="u-ma-16 buybox__rent-article" id="deepdyve" style="display: none" data-test-id="journal-subscription">
+  <div class="c-box__body">
+   <div class="buybox__info">
+    <p>Rent this article via <a class="deepdyve-link" target="deepdyve" rel="nofollow" data-track="click" data-track-action="rent article" data-track-label="rent action, new buybox">DeepDyve</a>
+     <svg focusable="false" role="img" aria-hidden="true" class="u-icon">
+      <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-eds-i-external-link-small"></use>
+     </svg></p>
+   </div>
+  </div>
+  <script>
+            function deepDyveResponse(data) {
+                if (data.status === 'ok') {
+                    [].slice.call(document.querySelectorAll('.u-ma-16.buybox__rent-article')).forEach(function (article) {
+                        article.style.display = 'flex'
+                        var link = article.querySelector('.deepdyve-link')
+                        if (link) {
+                            link.setAttribute('href', data.url)
+                        }
+                    })
+                }
+            }
+
+            var script = document.createElement('script')
+            script.src = '//www.deepdyve.com/rental-link?docId=10.1007/s00146-017-0760-1&journal=1435-5655&fieldName=journal_doi&affiliateId=springer&format=jsonp&callback=deepDyveResponse'
+            document.body.appendChild(script)
+          </script>
+ </article>
 </div>
                                         </div>
                                         <div class="app-article-access__subscriptions">
@@ -1248,7 +1332,7 @@ exports.headerWidgetClientInit = headerWidgetClientInit;
         <div class="c-footer__user">
             <p class="c-footer__user-info">
                 
-                <span data-test="footer-user-ip">109.222.17.166</span>
+                <span data-test="footer-user-ip">193.49.236.121</span>
             </p>
             <p class="c-footer__user-info" data-test="footer-business-partners">Not affiliated</p>
         </div>
