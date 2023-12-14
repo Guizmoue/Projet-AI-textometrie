@@ -4,7 +4,7 @@ TAB_FR="../tableaux/fr.html"
 TAB_EN="../tableaux/en.html"
 TAB_CN="../tableaux/cn.html"
 
-PAGE_WEB="../data_tab.html"
+PAGE_WEB="../data.html"
 
 echo -e '<!DOCTYPE html>
 <html>
