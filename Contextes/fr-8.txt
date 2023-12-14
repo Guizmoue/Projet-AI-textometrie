@@ -1,40 +1,40 @@
-   (BUTTON) Afficher / masquer la sous-section Quelques précurseurs
-     * 2.1L'intelligence artificielle : mythes, fiction et spéculation
-
+       (BUTTON) Afficher / masquer la sous-section Quelques précurseurs
+          + 2.1L'intelligence artificielle : mythes, fiction et
+            spéculation
 --
-
-   2.4Intelligence artificielle et premiers ordinateurs
-
+          + 2.3Raisonnement formel
+          + 2.4Intelligence artificielle et premiers ordinateurs
+     * 3Naissance: 1943−1956
 --
-
-   3.2L'intelligence artificielle dans les jeux
-
+          + 3.1Cybernétique et premiers réseaux neuronaux
+          + 3.2L'intelligence artificielle dans les jeux
+          + 3.3Test de Turing
 --
-
-   5La première hibernation de l'intelligence artificielle (1974−1980)
-
-   (BUTTON) Afficher / masquer la sous-section La première hibernation de
-   l'intelligence artificielle (1974−1980)
-     * 5.1Les problèmes
+          + 3.6Conférence de Dartmouth de 1956 : naissance de
+            l'intelligence artificielle
+     * 4L'âge d'or 1956−1974
 --
-
-   7La crise : le second hiver de l'IA 1987−1993
-
-   (BUTTON) Afficher / masquer la sous-section La crise : le second hiver
-   de l'IA 1987−1993
-     * 7.1Une seconde hibernation
+          + 4.3Le financement
+     * 5La première hibernation de l'intelligence artificielle (1974−1980)
+       (BUTTON) Afficher / masquer la sous-section La première hibernation
+       de l'intelligence artificielle (1974−1980)
+          + 5.1Les problèmes
 --
-
-   7.2L'importance du corps : Nouvelle intelligence artificielle et
-   embodiment
+          + 6.4La renaissance du connexionnisme
+     * 7La crise : le second hiver de l'IA 1987−1993
+       (BUTTON) Afficher / masquer la sous-section La crise : le second
+       hiver de l'IA 1987−1993
+          + 7.1Une seconde hibernation
+          + 7.2L'importance du corps : Nouvelle intelligence artificielle
+            et embodiment
 --
-
-   8.4L'IA, travailleur de l'ombre
-
+          + 8.3« Victoire des élégants »
+          + 8.4L'IA, travailleur de l'ombre
+     * 92001 et HAL 9000
 --
-
-   13La recherche en intelligence artificielle en France
-
+     * 12Redéfinition dans les années 2020
+     * 13La recherche en intelligence artificielle en France
+     * 14Notes et références
 --
 
 Histoire de l'intelligence artificielle
@@ -53,7 +53,8 @@ Histoire de l'intelligence artificielle
    datent de la Protohistoire, où mythes, légendes et rumeurs dotent des
 --
    intelligence ou d'une conscience ; comme l'écrit Pamela McCorduck (en),
---
+   l'intelligence artificielle commence avec « le vieux souhait de jouer à
+   Dieu^[4] ».
 
    L'intelligence artificielle comme nous l'entendons aujourd'hui a été
    initiée par les philosophes classiques, dont Gottfried Wilhelm Leibniz
@@ -260,6 +261,8 @@ modifier le code]
    quand Kenneth Colby écrit DOCTOR, un agent conversationnel thérapeute.
 --
    informatique et raison humaine (en) qui explique que le mauvais usage
+   de l'intelligence artificielle peut potentiellement conduire à
+   dévaloriser la vie humaine^[105].
 --
    Un perceptron est un type de réseaux neuronaux introduit en 1958 par
    Frank Rosenblatt^[106]. Comme la plupart des chercheurs en IA de
@@ -327,6 +330,7 @@ La crise : le second hiver de l'IA 1987−1993[modifier | modifier le code]
    l'intelligence artificielle en 1987. Les ordinateurs de bureau d'Apple
    et IBM ont progressivement amélioré leur vitesse et leur puissance et
 --
+   la DARPA a complétement et abruptement coupé ses subsides à
    l'intelligence artificielle. Une nouvelle direction de la DARPA ayant
    conclu que l'intelligence artificielle n'est plus de « dernière mode »,
    elle a redirigé les subventions vers des projets plus propices à des

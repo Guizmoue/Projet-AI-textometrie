@@ -43,283 +43,102 @@ Sommaire
    (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
      * Début
      * 1Définition
-
-     2Histoire
-   (BUTTON) Afficher / masquer la sous-section Histoire
-     * 2.1Création et développement
-
-     2.2Précurseurs
-     * 2.2.1Automates
-
-     2.2.2Pensée automatique
-
-
-
-   2.3Faits marquants depuis les années 2000
-
-     * 2.3.1Années 2010
-
-
-
-   2.4En France
-
-
-
-   3Intelligence artificielle générale
-
-   (BUTTON) Afficher / masquer la sous-section Intelligence artificielle
-   générale
-     * 3.1Définition
-
-
-
-   3.2Estimation de faisabilité
-
-
-
-   4Intelligence artificielle forte
-
-   (BUTTON) Afficher / masquer la sous-section Intelligence artificielle
-   forte
-     * 4.1Définition
-
-
-
-   4.2Diversité des opinions
-
-
-
-   5Intelligence artificielle faible
-
-   (BUTTON) Afficher / masquer la sous-section Intelligence artificielle
-   faible
-     * 5.1Distinction avec « narrow AI »
-
-
-
-   6Test de Turing
-
-   (BUTTON) Afficher / masquer la sous-section Test de Turing
-     * 6.1Estimation de faisabilité
-
-
-
-   6.2Autres tests notables
-
-
-
-   7Personnalités
-
-   (BUTTON) Afficher / masquer la sous-section Personnalités
-     * 7.1Prix Turing
-
-
-
-   7.2Autres personnalités
-
-
-
-   8Courants de pensée
-
-   (BUTTON) Afficher / masquer la sous-section Courants de pensée
-     * 8.1Cognitivisme
-
-
-
-   8.2Connexionnisme
-
-
-
-   8.3Synthèse
-
-
-
-   9Différentes facettes
-
-
-
-   10Conception de systèmes
-
-   (BUTTON) Afficher / masquer la sous-section Conception de systèmes
-     * 10.1Distinction entre intelligence artificielle, machine learning
-       et deep learning
-
-
-
-   11Domaines d’application
-
-   (BUTTON) Afficher / masquer la sous-section Domaines d’application
-     * 11.1Finance et banques
-
-
-
-   11.2Militaire
-
-
-
-   11.3Médecine
-
-
-
-   11.4Renseignement policier
-
-
-
-   11.5Cybercrime
-
-
-
-   11.6Droit
-
-
-
-   11.7Logistique et transports
-
-
-
-   11.8Industrie
-
-
-
-   11.9Robotique
-
-
-
-   11.10Jeux vidéo
-
-
-
-   11.11Art
-
-
-
-   11.12Autres domaines
-
-
-
-   12Réglementation
-
-
-
-   13Questionnements
-
-   (BUTTON) Afficher / masquer la sous-section Questionnements
-     * 13.1Question de l'intelligence
-
-
-
-   13.2Espoirs et enthousiasme
-
-
-
-   13.3Critiques et inquiétudes
-
-     * 13.3.1Maitrise de la technologie
-
-
-
-   13.3.2Enjeux sociétaux
-
-
-
-   13.3.3Enjeux environnementaux
-
-
-
-   13.4Critique de la technique et de la technologie
-
-
-
-   13.5Vers des alternatives open source ?
-
-
-
-   13.6Appels à des règles éthiques pour l'IA
-
-
-
-   13.7Demandes de moratoire
-
-
-
-   14IA et emploi
-
-   (BUTTON) Afficher / masquer la sous-section IA et emploi
-     * 14.1Intelligence artificielle et travail numérique
-
-     * 14.1.1Travail à la demande
-
-
-
-   14.1.2Micro-travail
-
-
-
-   14.1.3Travail social en réseau
-
-
-
-   14.2Sondage
-
-
-
-   15Dans la science-fiction
-
-   (BUTTON) Afficher / masquer la sous-section Dans la science-fiction
-     * 15.1Quelques IA célèbres dans la science-fiction
-
-
-
-   16Utilisation dans les jeux
-
-   (BUTTON) Afficher / masquer la sous-section Utilisation dans les jeux
-     * 16.1Othello
-
-
-
-   16.2Échecs
-
-
-
-   16.3Go
-
-
-
-   16.4Jeopardy!
-
-
-
-   16.5Poker
-
-
-
-   16.6Bridge
-
-
-
-   17Notes et références
-
-   (BUTTON) Afficher / masquer la sous-section Notes et références
-     * 17.1Notes
-
-
-
-   17.2Références
-
-
-
-   18Voir aussi
-
-   (BUTTON) Afficher / masquer la sous-section Voir aussi
-     * 18.1Bibliographie
-
-
-
-   18.2Articles connexes
-
-
-
-   18.3Liens externes
+     * 2Histoire
+       (BUTTON) Afficher / masquer la sous-section Histoire
+          + 2.1Création et développement
+          + 2.2Précurseurs
+               o 2.2.1Automates
+               o 2.2.2Pensée automatique
+          + 2.3Faits marquants depuis les années 2000
+               o 2.3.1Années 2010
+          + 2.4En France
+     * 3Intelligence artificielle générale
+       (BUTTON) Afficher / masquer la sous-section Intelligence
+       artificielle générale
+          + 3.1Définition
+          + 3.2Estimation de faisabilité
+     * 4Intelligence artificielle forte
+       (BUTTON) Afficher / masquer la sous-section Intelligence
+       artificielle forte
+          + 4.1Définition
+          + 4.2Diversité des opinions
+     * 5Intelligence artificielle faible
+       (BUTTON) Afficher / masquer la sous-section Intelligence
+       artificielle faible
+          + 5.1Distinction avec « narrow AI »
+     * 6Test de Turing
+       (BUTTON) Afficher / masquer la sous-section Test de Turing
+          + 6.1Estimation de faisabilité
+          + 6.2Autres tests notables
+     * 7Personnalités
+       (BUTTON) Afficher / masquer la sous-section Personnalités
+          + 7.1Prix Turing
+          + 7.2Autres personnalités
+     * 8Courants de pensée
+       (BUTTON) Afficher / masquer la sous-section Courants de pensée
+          + 8.1Cognitivisme
+          + 8.2Connexionnisme
+          + 8.3Synthèse
+     * 9Différentes facettes
+     * 10Conception de systèmes
+       (BUTTON) Afficher / masquer la sous-section Conception de systèmes
+          + 10.1Distinction entre intelligence artificielle, machine
+            learning et deep learning
+     * 11Domaines d’application
+       (BUTTON) Afficher / masquer la sous-section Domaines d’application
+          + 11.1Finance et banques
+          + 11.2Militaire
+          + 11.3Médecine
+          + 11.4Renseignement policier
+          + 11.5Cybercrime
+          + 11.6Droit
+          + 11.7Logistique et transports
+          + 11.8Industrie
+          + 11.9Robotique
+          + 11.10Jeux vidéo
+          + 11.11Art
+          + 11.12Autres domaines
+     * 12Réglementation
+     * 13Questionnements
+       (BUTTON) Afficher / masquer la sous-section Questionnements
+          + 13.1Question de l'intelligence
+          + 13.2Espoirs et enthousiasme
+          + 13.3Critiques et inquiétudes
+               o 13.3.1Maitrise de la technologie
+               o 13.3.2Enjeux sociétaux
+               o 13.3.3Enjeux environnementaux
+          + 13.4Critique de la technique et de la technologie
+          + 13.5Vers des alternatives open source ?
+          + 13.6Appels à des règles éthiques pour l'IA
+          + 13.7Demandes de moratoire
+     * 14IA et emploi
+       (BUTTON) Afficher / masquer la sous-section IA et emploi
+          + 14.1Intelligence artificielle et travail numérique
+               o 14.1.1Travail à la demande
+               o 14.1.2Micro-travail
+               o 14.1.3Travail social en réseau
+          + 14.2Sondage
+     * 15Dans la science-fiction
+       (BUTTON) Afficher / masquer la sous-section Dans la science-fiction
+          + 15.1Quelques IA célèbres dans la science-fiction
+     * 16Utilisation dans les jeux
+       (BUTTON) Afficher / masquer la sous-section Utilisation dans les
+       jeux
+          + 16.1Othello
+          + 16.2Échecs
+          + 16.3Go
+          + 16.4Jeopardy!
+          + 16.5Poker
+          + 16.6Bridge
+     * 17Notes et références
+       (BUTTON) Afficher / masquer la sous-section Notes et références
+          + 17.1Notes
+          + 17.2Références
+     * 18Voir aussi
+       (BUTTON) Afficher / masquer la sous-section Voir aussi
+          + 18.1Bibliographie
+          + 18.2Articles connexes
+          + 18.3Liens externes
 
    [ ] Basculer la table des matières
 
@@ -349,7 +168,7 @@ Intelligence artificielle
      * Brezhoneg
      * Bosanski
      * Буряад
-     * Catal�
+     * Català
      * کوردی
      * Qırımtatarca
      * Čeština
@@ -591,7 +410,7 @@ Définition
    souvent abrégé par le sigle « IA » (ou « AI » en anglais, pour
    artificial intelligence). McCarthy définit l'IA ainsi : « C'est la
    science et l'ingénierie de la fabrication de machines intelligentes, en
-   particulier de programmes informatiques intelligents. Elle est liée �
+   particulier de programmes informatiques intelligents. Elle est liée à
    la tâche similaire qui consiste à utiliser des ordinateurs pour
    comprendre l'intelligence humaine, mais l'IA ne doit pas se limiter aux
    méthodes qui sont biologiquement observables^[6]. »
@@ -620,7 +439,7 @@ Définition
      * les définitions qui insistent sur le fait que l'IA a pour but
        d'avoir toutes les apparences de l'intelligence (humaine ou
        rationnelle), et celles qui insistent sur le fait que le
-       fonctionnement interne du système d'IA doit ressembler également �
+       fonctionnement interne du système d'IA doit ressembler également à
        celui de l'être humain et être au moins aussi rationnel.
 
 Histoire
@@ -661,12 +480,12 @@ Création et développement
        Garry Kasparov au jeu d'échecs^[16] lors d'un match revanche de six
        parties ;
      * l'intelligence artificielle devient un domaine de recherche
-       international, marquée par une conférence au Dartmouth College �
+       international, marquée par une conférence au Dartmouth College à
        l’été 1956^[17]^,^[18] à laquelle assistaient ceux qui vont marquer
        la discipline ;
      * depuis les années 1960, la recherche se fait principalement aux
        États-Unis, notamment à l'université Stanford sous l'impulsion de
-       John McCarthy^[19], au MIT sous celle de Marvin Minsky^[20], �
+       John McCarthy^[19], au MIT sous celle de Marvin Minsky^[20], à
        l'université Carnegie-Mellon sous celle de Allen Newell et Herbert
        Simon^[21] et à l'université d'Édimbourg sous celle de Donald
        Michie^[22], en Europe et en Chine, ainsi qu'au Japon avec le
@@ -726,7 +545,7 @@ Automates
 
    Vitruve, architecte romain, décrit l’existence entre le III^e et le
    I^er siècle avant notre ère, d’une école d’ingénieurs fondée par
-   Ctesibius à Alexandrie, et concevant des mécanismes destinés �
+   Ctesibius à Alexandrie, et concevant des mécanismes destinés à
    l’amusement tels des corbeaux qui chantaient. Héron L'Ancien décrit
    dans son traité « Automates », un carrousel animé grâce à la vapeur et
    considéré comme anticipant les machines à vapeur. Les automates
@@ -832,7 +651,7 @@ Pensée automatique
    Kurt Gödel démontre au contraire que les mathématiques resteront une
    construction ouverte, en publiant en 1931 un article intitulé « Des
    propositions formellement indécidables contenues dans les Principia
-   mathematica et autres systèmes similaires ». Sa démonstration est qu’�
+   mathematica et autres systèmes similaires ». Sa démonstration est qu’à
    partir d’une certaine complexité d’un système, on peut y créer plus de
    propositions logiques qu’on ne peut en démontrer vraies ou fausses.
    L’arithmétique, par exemple, ne peut trancher par ses axiomes si on
@@ -873,7 +692,7 @@ Faits marquants depuis les années 2000
 
    L'intelligence artificielle est un sujet d'actualité au XXI^e siècle.
    En 2004, le Singularity Institute a lancé une campagne Internet appelée
-   3 Laws Unsafe (« 3 lois dangereuses »), pour sensibiliser �
+   3 Laws Unsafe (« 3 lois dangereuses »), pour sensibiliser à
    l'insuffisance des trois lois d'Asimov avant la sortie du film I,
    Robot^[35]^,^[36].
 
@@ -925,7 +744,7 @@ Années 2010
    2 500 avions militaires, commenceront à être équipés de sorte que,
    d’ici 2040, tous les avions de guerre américains soient pilotés par
    intelligence artificielle, en plus des 10 000 véhicules terrestres et
-   des 7 000 dispositifs aériens commandés d'ores et déjà �
+   des 7 000 dispositifs aériens commandés d'ores et déjà à
    distance^[source insuffisante]^[43].
 
    Le 16 février 2011, Watson, le superordinateur conçu par IBM, remporte
@@ -1005,10 +824,10 @@ En France
    enjeux éthiques et les questions de société soulevés par les
    technologies numériques, la Commission nationale de l'informatique et
    des libertés (CNIL) annonce l'organisation d'un débat public sur les
-   algorithmes et l'intelligence artificielle^[65]. Le 15 décembre 2017, �
+   algorithmes et l'intelligence artificielle^[65]. Le 15 décembre 2017, à
    l'issue d'un débat ayant mobilisé 60 partenaires (institutions
    publiques, associations, entreprises, acteurs du monde de la recherche,
-   société civile)^[66], elle publie son rapport « Comment permettre �
+   société civile)^[66], elle publie son rapport « Comment permettre à
    l'Homme de garder la main ? »^[67] comprenant des recommandations pour
    la construction d'un modèle éthique d'intelligence artificielle.
 
@@ -1056,7 +875,7 @@ Définition
    artificielle affichent de larges désaccords et incertitudes quant à la
    date potentielle de conception des premières intelligences
    artificielles générales (parfois appelées « intelligences artificielles
-   de niveau humain »), leur impact sur la société, et leur potentiel �
+   de niveau humain »), leur impact sur la société, et leur potentiel à
    déclencher une « explosion d'intelligence »^[81].
 
 Estimation de faisabilité
@@ -1090,7 +909,7 @@ Estimation de faisabilité
    temps de relaxation, permettait beaucoup plus de traitements logiques
    par unité de temps (10^13 opérations logiques par seconde)^[82]. Ce
    handicap technique précis n'existe plus sur les ordinateurs depuis les
-   années 2000, travaillant en 64 bits et suivant des horloges cadencées �
+   années 2000, travaillant en 64 bits et suivant des horloges cadencées à
    4 GHz environ, pour des processeurs destinés aux particuliers.
    Concernant des supercalculateurs comme Summit ou Fugaku 415-PFLOPS, le
    rapport du nombre de comparaisons par seconde entre ordinateur et
@@ -1185,7 +1004,7 @@ Diversité des opinions
      * impossible car la pensée n'est pas un phénomène calculable par des
        processus discrets et finis. Cette théorie est notamment avancée
        par le philosophe John Searle et son expérience de la chambre
-       chinoise^[88]. Une conscience est donc nécessaire pour accéder �
+       chinoise^[88]. Une conscience est donc nécessaire pour accéder à
        l'intelligence, mais un système informatique ne serait capable que
        d'en simuler une, sans pour autant la posséder, renvoyant au
        concept philosophique du zombie ;
@@ -1289,7 +1108,7 @@ Intelligence artificielle faible
    unificatrice n'existe pour le moment (2011)^[Passage à actualiser]. Le
    théorème de Cox-Jaynes indique toutefois, ce qui est un résultat fort,
    que sous cinq contraintes raisonnables, tout procédé d'apprentissage
-   devra être soit conforme à l'inférence bayésienne, soit incohérent �
+   devra être soit conforme à l'inférence bayésienne, soit incohérent à
    terme, donc inefficace^[93].
 
 Distinction avec « narrow AI »
@@ -1472,7 +1291,7 @@ Cognitivisme
        transvasements successifs, il intègre le fait que la notion de
        hauteur du liquide dans le verre entre en compétition avec celle du
        diamètre du verre, et arbitre de son mieux entre les deux.
-     * Il vit ensuite une expérience analogue en manipulant de la pâte �
+     * Il vit ensuite une expérience analogue en manipulant de la pâte à
        modeler : la réduction de plusieurs objets temporairement
        représentés à une même boule de pâte l’incite à dégager un concept
        de conservation de la quantité de matière.
@@ -1629,15 +1448,15 @@ Militaire
    2015 »^[117].
 
    En septembre 2019, la force opérationnelle IA du ministère des Armées
-   français rend un rapport détaillant la stratégie de l'armée face �
-   cette technologie, notamment la création d’une unité consacrée �
+   français rend un rapport détaillant la stratégie de l'armée face à
+   cette technologie, notamment la création d’une unité consacrée à
    l’intelligence artificielle au sein de l'Agence de l'innovation de
    défense (AID), ainsi qu'une Cellule de coordination de l’intelligence
    artificielle de défense (CCIAD). La loi de programmation militaire
    prévoit un budget de 700 millions d'euros pour les missions en faveur
    de l'IA, soit une moyenne de 100 millions par an^[118].
 
-   Des drones tueurs pilotés par l'intelligence artificielle sont �
+   Des drones tueurs pilotés par l'intelligence artificielle sont à
    l'œuvre sur le théâtre du conflit ukraino-russe^[119].
 
 Médecine
@@ -1683,7 +1502,7 @@ Cybercrime
 
    L'intelligence artificielle (IA) est de plus en plus exploitée dans le
    domaine du cybercrime, comme le révèle une étude de la société
-   spécialisée en cybersécurité SlashNext. Cette tendance croissante �
+   spécialisée en cybersécurité SlashNext. Cette tendance croissante à
    l'utilisation de l'IA pour commettre des crimes en ligne montre une
    sophistication accrue des attaques. L'entreprise SlashNext a notamment
    identifié l'usage de deux IA malicieuses, FraudGPT et WormGPT, tout en
@@ -1727,7 +1546,7 @@ Logistique et transports
    dans la ville de Nancy^[130].
 
    Même si les problèmes d'optimisation de temps de trajet ou de
-   transports font partie des plus anciennes applications de solutions �
+   transports font partie des plus anciennes applications de solutions à
    base d'intelligence artificielle (voir le problème du voyageur de
    commerce ou l'algorithme de Dijkstra), les avancées récentes, notamment
    en apprentissage profond, ont permis des progrès significatifs en
@@ -1929,7 +1748,7 @@ Questionnements
    ou algorithmes d'accéder un jour à la conscience, d'éprouver des
    émotions ou de finalement se substituer aux humains. Certaines
    réactions sont ouvertement optimistes, d'autres sont au contraire
-   pessimistes. En 2016, l'INRIA publie un premier Livre blanc consacré �
+   pessimistes. En 2016, l'INRIA publie un premier Livre blanc consacré à
    l'IA^[167].
 
    Dans son essai Intelligence artificielle, intelligence humaine : la
@@ -2006,7 +1825,7 @@ Espoirs et enthousiasme
 
    Good estimait à un peu plus d'une chance sur deux la mise au point
    d'une telle machine avant la fin du XX^e siècle. La prédiction ne s’est
-   toujours pas réalisée, en 2012, mais elle a imprégné le public �
+   toujours pas réalisée, en 2012, mais elle a imprégné le public à
    l'époque, notamment lors de la victoire de Deep Blue sur Garry
    Kasparov. Une partie du grand public était en effet persuadée qu’IBM
    venait de mettre au point le vecteur d’une telle explosion de
@@ -2254,7 +2073,7 @@ Appels à des règles éthiques pour l'IA
    devraient « privilégier les méthodes d’IA économes en données, en
    énergie et en ressources » pour en faire un outil dans la lutte contre
    le changement climatique et la dégradation de l'environnement. Les
-   gouvernements sont invités, lors du cycle de vie du système d’IA �
+   gouvernements sont invités, lors du cycle de vie du système d’IA à
    analyser son « empreinte carbone, sa consommation d’énergie et l’impact
    environnemental de l’extraction des matières premières pour soutenir la
    fabrication des technologies d’IA », tout en cherchant à diminuer
@@ -2269,7 +2088,7 @@ Appels à des règles éthiques pour l'IA
    tous transposent ce cadre sous la forme de stratégies et de
    réglementations nationales. Nous devons traduire les engagements en
    actes » a commenté Audrey Azoulay (directrice générale de
-   l'Unesco)^[215]. L'ONU appelle ainsi les États qui ne l'ont pas déj�
+   l'Unesco)^[215]. L'ONU appelle ainsi les États qui ne l'ont pas déjà
    fait à rejoindre les plus de 40 pays « de toutes les régions du monde »
    qui ont commencé à créer de tels garde-fous, pour notamment créer un
    outil législatif capable d'encadrer et de surveiller les IA, tout en
@@ -2548,7 +2367,7 @@ Quelques IA célèbres dans la science-fiction
        personnage central est un enfant-robot doué d’émotions et de
        sentiments.
      * 2003 - 2007 : Code Lyoko dessin animé où une I.A appelée X.A.N.A
-       tente de prendre le contrôle du réseau mondial après avoir accédé �
+       tente de prendre le contrôle du réseau mondial après avoir accédé à
        la conscience.
      * 2004 : I, Robot, inspiré de l’œuvre de Isaac Asimov et thème
        semblable au film AI.
@@ -2564,7 +2383,7 @@ Quelques IA célèbres dans la science-fiction
      * 2015 : Ex Machina de Alex Garland, dans lequel un test de Turing
        d'une semaine va dégénérer en faveur d'un robot féminin (gynoïde)
        révolutionnaire.
-     * 2016 : la série télévisée Westworld met en scène des androïdes �
+     * 2016 : la série télévisée Westworld met en scène des androïdes à
        l'apparence humaine qui commencent à adopter des comportements
        imprévisibles^[236].
      * 2023 : dans la mini-série Class of '09, l'IA est utilisée par le
@@ -2581,7 +2400,7 @@ Utilisation dans les jeux
    calcul de probabilités, de prise de décision mais aussi
    d’apprentissage.
 
-   Hans Berliner (1929-2017), docteur en science informatique �
+   Hans Berliner (1929-2017), docteur en science informatique à
    l'université Carnegie-Mellon et joueur d'échecs, fut l'un des pionniers
    de la programmation pour les ordinateurs de jeu. Ses travaux
    commencèrent par un programme capable de battre un humain professionnel
@@ -2728,7 +2547,7 @@ Poker
    Pennsylvanie, l’intelligence artificielle Libratus, développée par des
    chercheurs de l'université Carnegie-Mellon de Pittsburgh, est
    confrontée à des adversaires humains dans le cadre d'une partie
-   marathon étalée sur 20 jours^[255]. Les joueurs humains opposés �
+   marathon étalée sur 20 jours^[255]. Les joueurs humains opposés à
    Libratus, tous professionnels de poker, affrontent successivement la
    machine dans une partie en face à face (heads up (en)) selon les règles
    du « No Limit Texas hold'em » (no limit signifiant que les mises ne
@@ -2908,7 +2727,7 @@ Références
        l'intelligence artificielle quantique », sur CNET France, 17 mai
        2013.
    46. ↑ « Kurzweul Google AI », sur Wired, avril 2004.
-   47. ↑ « Hawking : « L'intelligence artificielle pourrait mettre fin �
+   47. ↑ « Hawking : « L'intelligence artificielle pourrait mettre fin à
        l'humanité » », sur Le Monde, 3 décembre 2014.
    48. ↑ « Bill Gates est « préoccupé par la superintelligence »
        artificielle », sur Le Monde, 29 janvier 2015.
@@ -2916,7 +2735,7 @@ Références
        artificielle », sur Le Monde, 6 juillet 2015.
    50. ↑ Benoît Georges, « Pourquoi les rois du net rêvent d’intelligence
        artificielle », sur Les Échos, 16 février 2016.
-   51. ↑ « Facebook ouvre un laboratoire d’intelligence artificielle �
+   51. ↑ « Facebook ouvre un laboratoire d’intelligence artificielle à
        Paris », Le Monde,‎ 2 juin 2015 (lire en ligne, consulté le 2
        novembre 2023)
    52. ↑ Julien Bergounhoux, « Apple rachète la start-up d'intelligence
@@ -2939,7 +2758,7 @@ Références
    59. ↑ Reconnaissance des formes et intelligence artificielle, congrès
        AFCET-IRIA, Toulouse 12, 13, 14 septembre 1979. Il est intitulé
        « 2^e congrès » et prend la suite du congrès AFCET-IRIA
-       Reconnaissance des formes et traitement des images en 1978 �
+       Reconnaissance des formes et traitement des images en 1978 à
        Châtenay-Malabry.
    60. ↑ Un GRECO est un ancêtre des actuels GDR du CNRS et un PRC est un
        « programme de recherche concertée ».
@@ -3530,7 +3349,7 @@ Bibliographie
      * Alan Ross Anderson (trad. de l'anglais), Pensée et machine,
        Seyssel, Éditions Champ Vallon, 1983 (réimpr. 1993), 150 p.
        (ISBN 2-903528-28-4, lire en ligne)
-     * Jean Sallantin et Jean-Jacques Szczeciniarz, Le Concept de preuve �
+     * Jean Sallantin et Jean-Jacques Szczeciniarz, Le Concept de preuve à
        la lumière de l'intelligence artificielle, Paris, Presses
        universitaires de France, 1999, 370 p. (ISBN 2-13-050104-4)
      * Jean-Gabriel Ganascia, L'Âme-machine, les enjeux de l'intelligence
@@ -3735,7 +3554,7 @@ Liens externes
      * (en) European Association for Artificial Intelligence (EurAI)
        (Association européenne pour l'intelligence artificielle)
      * Association française pour l'intelligence artificielle (AfIA).
-     * Association française pour la promotion et la sensibilisation �
+     * Association française pour la promotion et la sensibilisation à
        l'intelligence artificielle (AFPSIA) (inaccessible).
      * GdrIA, groupement de recherche du CNRS sur les aspects formels et
        algorithmiques de l'intelligence artificielle.
@@ -4165,7 +3984,7 @@ Liens externes
      * Hugo
      * Seiun
 
-   Cinéma et télévision
+     Cinéma et télévision
      * Curt-Siodmak
      * Ray-Bradbury
      * Saturn

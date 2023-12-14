@@ -1,39 +1,33 @@
-
-   3Intelligence artificielle générale
-
-   (BUTTON) Afficher / masquer la sous-section Intelligence artificielle
-   générale
+          + 2.4En France
+     * 3Intelligence artificielle générale
+       (BUTTON) Afficher / masquer la sous-section Intelligence
 --
-
-   4Intelligence artificielle forte
-
-   (BUTTON) Afficher / masquer la sous-section Intelligence artificielle
-   forte
+          + 3.2Estimation de faisabilité
+     * 4Intelligence artificielle forte
+       (BUTTON) Afficher / masquer la sous-section Intelligence
 --
-
-   5Intelligence artificielle faible
-
-   (BUTTON) Afficher / masquer la sous-section Intelligence artificielle
-   faible
-     * 5.1Distinction avec « narrow AI »
-
+          + 4.2Diversité des opinions
+     * 5Intelligence artificielle faible
+       (BUTTON) Afficher / masquer la sous-section Intelligence
+       artificielle faible
+          + 5.1Distinction avec « narrow AI »
+     * 6Test de Turing
 --
-   (BUTTON) Afficher / masquer la sous-section Conception de systèmes
-     * 10.1Distinction entre intelligence artificielle, machine learning
-       et deep learning
+       (BUTTON) Afficher / masquer la sous-section Conception de systèmes
+          + 10.1Distinction entre intelligence artificielle, machine
+            learning et deep learning
 --
-
-   13.6Appels à des règles éthiques pour l'IA
-
+          + 13.5Vers des alternatives open source ?
+          + 13.6Appels à des règles éthiques pour l'IA
+          + 13.7Demandes de moratoire
+     * 14IA et emploi
+       (BUTTON) Afficher / masquer la sous-section IA et emploi
+          + 14.1Intelligence artificielle et travail numérique
+               o 14.1.1Travail à la demande
 --
-
-   (BUTTON) Afficher / masquer la sous-section IA et emploi
-     * 14.1Intelligence artificielle et travail numérique
-
---
-   (BUTTON) Afficher / masquer la sous-section Dans la science-fiction
-     * 15.1Quelques IA célèbres dans la science-fiction
-
+       (BUTTON) Afficher / masquer la sous-section Dans la science-fiction
+          + 15.1Quelques IA célèbres dans la science-fiction
+     * 16Utilisation dans les jeux
 --
 
 Intelligence artificielle
@@ -73,6 +67,8 @@ Intelligence artificielle
      * les définitions qui insistent sur le fait que l'IA a pour but
        d'avoir toutes les apparences de l'intelligence (humaine ou
        rationnelle), et celles qui insistent sur le fait que le
+       fonctionnement interne du système d'IA doit ressembler également à
+       celui de l'être humain et être au moins aussi rationnel.
 --
 
    Article détaillé : Histoire de l'intelligence artificielle.
@@ -84,6 +80,7 @@ Intelligence artificielle
 --
        parties ;
      * l'intelligence artificielle devient un domaine de recherche
+       international, marquée par une conférence au Dartmouth College à
 --
    Les bornes de ce domaine varient, ainsi optimiser un itinéraire était
    considéré comme un problème d'intelligence artificielle dans les années
@@ -129,6 +126,7 @@ Intelligence artificielle
 --
    d’ici 2040, tous les avions de guerre américains soient pilotés par
    intelligence artificielle, en plus des 10 000 véhicules terrestres et
+   des 7 000 dispositifs aériens commandés d'ores et déjà à
 --
    deux des trois manches du jeu télévisé Jeopardy! en battant largement
    ses deux concurrents humains en gains cumulés. Pour cette IA, la
@@ -174,6 +172,8 @@ Intelligence artificielle
 
 --
    des libertés (CNIL) annonce l'organisation d'un débat public sur les
+   algorithmes et l'intelligence artificielle^[65]. Le 15 décembre 2017, à
+   l'issue d'un débat ayant mobilisé 60 partenaires (institutions
 --
    l'Homme de garder la main ? »^[67] comprenant des recommandations pour
    la construction d'un modèle éthique d'intelligence artificielle.
@@ -377,13 +377,16 @@ learning
 --
 
    En septembre 2019, la force opérationnelle IA du ministère des Armées
---
+   français rend un rapport détaillant la stratégie de l'armée face à
+   cette technologie, notamment la création d’une unité consacrée à
    l’intelligence artificielle au sein de l'Agence de l'innovation de
    défense (AID), ainsi qu'une Cellule de coordination de l’intelligence
 --
    prévoit un budget de 700 millions d'euros pour les missions en faveur
    de l'IA, soit une moyenne de 100 millions par an^[118].
 
+   Des drones tueurs pilotés par l'intelligence artificielle sont à
+   l'œuvre sur le théâtre du conflit ukraino-russe^[119].
 --
 
    Article détaillé : Intelligence artificielle dans la santé.
@@ -406,6 +409,7 @@ learning
 
    L'intelligence artificielle (IA) est de plus en plus exploitée dans le
    domaine du cybercrime, comme le révèle une étude de la société
+   spécialisée en cybersécurité SlashNext. Cette tendance croissante à
    l'utilisation de l'IA pour commettre des crimes en ligne montre une
    sophistication accrue des attaques. L'entreprise SlashNext a notamment
    identifié l'usage de deux IA malicieuses, FraudGPT et WormGPT, tout en
@@ -429,6 +433,7 @@ learning
    L'intelligence artificielle est également fortement utilisée dans le
    domaine des transports en commun, car elle permet de faciliter la
 --
+   transports font partie des plus anciennes applications de solutions à
    base d'intelligence artificielle (voir le problème du voyageur de
    commerce ou l'algorithme de Dijkstra), les avancées récentes, notamment
 --
@@ -519,6 +524,7 @@ learning
    de questions, notamment en ce qui concerne la possibilité pour les IA
    ou algorithmes d'accéder un jour à la conscience, d'éprouver des
 --
+   pessimistes. En 2016, l'INRIA publie un premier Livre blanc consacré à
    l'IA^[167].
 
    Dans son essai Intelligence artificielle, intelligence humaine : la
@@ -693,7 +699,8 @@ Appels à des règles éthiques pour l'IA
    devraient « privilégier les méthodes d’IA économes en données, en
    énergie et en ressources » pour en faire un outil dans la lutte contre
    le changement climatique et la dégradation de l'environnement. Les
---
+   gouvernements sont invités, lors du cycle de vie du système d’IA à
+   analyser son « empreinte carbone, sa consommation d’énergie et l’impact
    environnemental de l’extraction des matières premières pour soutenir la
    fabrication des technologies d’IA », tout en cherchant à diminuer
    l’impact environnemental du numérique, dont en investissant dans les
@@ -947,8 +954,12 @@ Quelques IA célèbres dans la science-fiction
        l'intelligence artificielle quantique », sur CNET France, 17 mai
        2013.
    46. ↑ « Kurzweul Google AI », sur Wired, avril 2004.
+   47. ↑ « Hawking : « L'intelligence artificielle pourrait mettre fin à
+       l'humanité » », sur Le Monde, 3 décembre 2014.
 --
        artificielle », sur Les Échos, 16 février 2016.
+   51. ↑ « Facebook ouvre un laboratoire d’intelligence artificielle à
+       Paris », Le Monde,‎ 2 juin 2015 (lire en ligne, consulté le 2
 --
        Digitale,‎ 8 août 2016 (lire en ligne, consulté le 2 novembre 2023)
    53. ↑ « Alibaba's AI Outguns Humans in Reading Test », Bloomberg.com,‎
@@ -1301,6 +1312,7 @@ Quelques IA célèbres dans la science-fiction
      * Jacques Bolo, Philosophie contre intelligence artificielle, Paris,
        Lingua Franca, 1996, 375 p. (ISBN 2-912059-00-3)
 --
+     * Jean Sallantin et Jean-Jacques Szczeciniarz, Le Concept de preuve à
        la lumière de l'intelligence artificielle, Paris, Presses
        universitaires de France, 1999, 370 p. (ISBN 2-13-050104-4)
 --
@@ -1394,6 +1406,7 @@ Quelques IA célèbres dans la science-fiction
      * (en) European Association for Artificial Intelligence (EurAI)
        (Association européenne pour l'intelligence artificielle)
      * Association française pour l'intelligence artificielle (AfIA).
+     * Association française pour la promotion et la sensibilisation à
        l'intelligence artificielle (AFPSIA) (inaccessible).
      * GdrIA, groupement de recherche du CNRS sur les aspects formels et
        algorithmiques de l'intelligence artificielle.

@@ -48,21 +48,19 @@ L’intelligence artificielle en roue libre
 --
    avant toute question d’éthique, ce sont les failles des modèles de
    langue d’intelligence artificielle sur lesquels s’appuient ChatGPT,
+   Bard et autre Bing qui devraient nous inquiéter. “Les utiliser à
 --
+   journalistes, celui du photojournaliste suisse Niels Ackermann. Face à
    l’essor d’IA comme Midjourney, capables de produire des images qui
    ressemblent à s’y méprendre à des photos prises par les humains, les
 --
 
-   Opinion. Intelligence artificielle : cessons de jouer avec le feu !
-
+   Une du jour. Les progrès de l’IA doivent “raisonnablement” nous
+   inquiéter
 --
 
-   Entretien. “On en fait trop sur le potentiel de l’IA et les menaces
-   qu’elle représente”
---
-
-   Vidéo. L’intelligence artificielle peut-elle piéger votre mère en
-   imitant votre voix ?
+   Point de vue. Pour Slavoj Zizek, la toute-puissance de l’IA révèle nos
+   peurs d’un futur posthumain
 --
 
    Vu de Suisse. Le double jeu d’Elon Musk sur l’intelligence artificielle

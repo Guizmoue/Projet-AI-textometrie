@@ -94,6 +94,7 @@ Intelligence artificielle générale
    générale^[41]. La définition d'intelligence artificielle générale reste
    cependant suffisamment floue pour qu'il puisse être difficile ou
 --
+   souhaite^[54]. Une approche nommée l'« interprétabilité » consiste à
    tenter de comprendre le fonctionnement interne de ces modèles d'IA,
    notamment afin de pouvoir détecter des signes de manipulation, une
    tâche difficile vu la complexité et le nombre de paramètres de ces
@@ -114,6 +115,8 @@ Intelligence artificielle générale
      un futur avec beaucoup de trombones mais aucun humain. »
 --
 
+   La capacité des modèles d'IA à produire du contenu très rapidement et à
+   faible coût pourrait inonder internet de texte, d'images ou de vidéos
 --
 
     1. ↑ ^a et b Pitpitt, « Intelligence artificielle générale —

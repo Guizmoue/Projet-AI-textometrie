@@ -38,6 +38,7 @@
 --
    énergivores pour accéder à la mémoire… C’est ainsi que le programme
    AlphaGo, l’IA de Google qui a récemment écrasé les plus grands
+   champions de go, consomme dix mille fois plus d’énergie qu’un humain à
 --
    composants artificiels mimant neurones et synapses biologiques, elles
    seront donc dédiées uniquement aux tâches d’IA où les excellents

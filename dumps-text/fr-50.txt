@@ -56,7 +56,7 @@ L’intelligence artificielle en roue libre
    Lire aussi : Débat. “Il est beaucoup trop tard” pour un moratoire sur
    l’intelligence artificielle
 
-   “La folie ChatGPT”, titrait Courrier international le 16 février �
+   “La folie ChatGPT”, titrait Courrier international le 16 février à
    propos du robot conversationnel mis au point par la start-up OpenAI,
    ouvrant un dossier consacré à l’engouement pour ChatGPT, qui comptait
    déjà 100 millions d’utilisateurs dans le monde. “La course à l’IA est
@@ -104,7 +104,7 @@ L’intelligence artificielle en roue libre
    Dans un tout autre registre, la MIT Technology Review met en garde :
    avant toute question d’éthique, ce sont les failles des modèles de
    langue d’intelligence artificielle sur lesquels s’appuient ChatGPT,
-   Bard et autre Bing qui devraient nous inquiéter. “Les utiliser �
+   Bard et autre Bing qui devraient nous inquiéter. “Les utiliser à
    mauvais escient pour en faire de puissants outils d’hameçonnage ou
    d’arnaque est d’une facilité déconcertante”, écrit le magazine, qui
    explique qu’avec les robots conversationnels nos données, très vite, ne
@@ -113,7 +113,7 @@ L’intelligence artificielle en roue libre
    ChatGTP
 
    Autre point de vue, et qui nous concerne évidemment en tant que
-   journalistes, celui du photojournaliste suisse Niels Ackermann. Face �
+   journalistes, celui du photojournaliste suisse Niels Ackermann. Face à
    l’essor d’IA comme Midjourney, capables de produire des images qui
    ressemblent à s’y méprendre à des photos prises par les humains, les
    médias plus que jamais “doivent devenir des marchands de vrai,
@@ -126,24 +126,23 @@ L’intelligence artificielle en roue libre
    Making of), et nous serons vigilants. Bonne lecture.
 
    Claire Carrard
-   Sur le même sujet
+   Nos lecteurs ont lu aussi
 
    Photo
 
-   Opinion. Intelligence artificielle : cessons de jouer avec le feu !
+   Une du jour. La débauche des touristes russes à Bali
 
    Photo
 
-   Entretien. “On en fait trop sur le potentiel de l’IA et les menaces
-   qu’elle représente”
+   Une du jour. Les progrès de l’IA doivent “raisonnablement” nous
+   inquiéter
 
    Photo
 
-   Vidéo. L’intelligence artificielle peut-elle piéger votre mère en
-   imitant votre voix ?
+   Point de vue. Pour Slavoj Zizek, la toute-puissance de l’IA révèle nos
+   peurs d’un futur posthumain
 
-   Elon Musk lors d’une conférence sur les partenariats de Twitter, en
-   Floride, le 18 avril 2023.
+   Photo
 
    Vu de Suisse. Le double jeu d’Elon Musk sur l’intelligence artificielle
    ChatGPT Société Sciences & Techno Intelligence artificielle (IA)
@@ -170,10 +169,10 @@ L’intelligence artificielle en roue libre
 
    Les plus lus
 
+   Vu des États-Unis. Timothée Chalamet, français, vraiment ?
+
    Guerre en Ukraine. L’Occident chercherait à “remplacer” Zelensky, selon
    le renseignement russe
-
-   Vu des États-Unis. Timothée Chalamet, français, vraiment ?
 
    Vu de Russie. Plusieurs millions de Russes sommés de rendre leur
    passeport par une nouvelle loi

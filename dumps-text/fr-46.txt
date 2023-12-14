@@ -176,7 +176,7 @@ La justice à l’heure des algorithmes et du big data
    Partager
    Partager
    Les logiciels et les robots remplaceront-ils un jour les avocats, les
-   notaires et les juges ? Pour les experts, si la tendance �
+   notaires et les juges ? Pour les experts, si la tendance à
    l’automatisation et à l’accélération technologique change la donne,
    certaines prédictions relèvent encore de la science-fiction.
 
@@ -193,7 +193,7 @@ La justice à l’heure des algorithmes et du big data
 Une justice « prédictive »
 
    D’une manière générale, le code informatique et l’intelligence
-   artificielle paraissent encore loin de pouvoir se substituer �
+   artificielle paraissent encore loin de pouvoir se substituer à
    l’expertise humaine, mais ils ne sont pas pour autant sans impact sur
    les métiers juridiques et judiciaires. « C’est une question
    d’équilibre », résume Bruno Dondero, agrégé des facultés de droit et
@@ -203,7 +203,7 @@ Une justice « prédictive »
    tâches paraissant pouvoir être automatisées. « Lorsqu’un avocat rédige
    un contrat par exemple, il se fonde généralement sur des modèles qu’il
    adapte en fonction des cas particuliers. On peut envisager qu’un
-   logiciel, auquel on fournirait quelques informations spécifiques �
+   logiciel, auquel on fournirait quelques informations spécifiques à
    l’affaire, génère lui-même ce document. » De fait, de nombreuses
    start-up ont récemment développé des solutions pour rédiger des
    documents juridiques, analyser une affaire à partir d’une recherche
@@ -230,7 +230,7 @@ Une justice « prédictive »
    principe. Ces dernières années, plusieurs systèmes ont été développés,
    permettant de déterminer les probabilités de succès d’une affaire et de
    calculer les éventuels dommages et intérêts, en tenant notamment compte
-   des décisions antérieures du juge appelé à statuer. « Contrairement �
+   des décisions antérieures du juge appelé à statuer. « Contrairement à
    ce qu’on entend, il ne s’agit pas de “remplacer” les avocats », tempère
    Thomas Saint-Aubin, chercheur associé à l’Institut de recherche
    juridique de la Sorbonne et directeur de la recherche et du
@@ -275,7 +275,7 @@ Le code informatique : un langage trop formel ?
    juridiques et judiciaires, bien qu’elle se heurte – au moins pour
    l’heure actuelle – à de nombreux écueils.
 
-   Je reste sceptique quant à la capacité qu’auront ces programmes �
+   Je reste sceptique quant à la capacité qu’auront ces programmes à
    interpréter l’ironie, une métaphore ou des allusions.
 
    « Je pense qu’il y a une différence fondamentale entre la logique du
@@ -304,7 +304,7 @@ Le code informatique : un langage trop formel ?
 
    Une récente étude du Bureau national de la recherche économique2, aux
    États-Unis, a ainsi comparé les décisions de juges et d’algorithmes,
-   lorsqu’un tribunal décidait si un accusé devait être assigné �
+   lorsqu’un tribunal décidait si un accusé devait être assigné à
    résidence ou placé en prison en attendant son procès. À première vue,
    le logiciel prédit mieux quel serait le comportement des accusés et
    pourrait ainsi permettre de prendre des décisions plus « objectives ».
@@ -347,7 +347,7 @@ Un impact trop peu évalué
    sociologue. On discutait des affaires en cours, on nouait des contacts,
    parfois on négociait discrètement un litige… Tout cela avait un impact
    sur l’exercice du droit. » Aujourd’hui, l’état des procédures pouvant
-   être contrôlé à distance via Internet, ces échanges tendent �
+   être contrôlé à distance via Internet, ces échanges tendent à
    disparaître. « Je ne sais pas si c’est bon ou mauvais pour la justice,
    mais nous devrions dès maintenant analyser les effets de cette
    transformation. » De même, s’il regarde avec circonspection l’essor

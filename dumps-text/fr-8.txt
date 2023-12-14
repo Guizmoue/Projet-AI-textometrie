@@ -43,207 +43,75 @@ Sommaire
    (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
      * Début
      * 1Introduction
-
-     2Quelques précurseurs
-   (BUTTON) Afficher / masquer la sous-section Quelques précurseurs
-     * 2.1L'intelligence artificielle : mythes, fiction et spéculation
-
-     2.2Automates
-
-     2.3Raisonnement formel
-
-
-
-   2.4Intelligence artificielle et premiers ordinateurs
-
-
-
-   3Naissance: 1943−1956
-
-   (BUTTON) Afficher / masquer la sous-section Naissance: 1943−1956
-     * 3.1Cybernétique et premiers réseaux neuronaux
-
-
-
-   3.2L'intelligence artificielle dans les jeux
-
-
-
-   3.3Test de Turing
-
-
-
-   3.4Raisonnement symbolique et le théoricien logique
-
-
-
-   3.5La traduction automatique des langages
-
-
-
-   3.6Conférence de Dartmouth de 1956 : naissance de l'intelligence
-   artificielle
-
-
-
-   4L'âge d'or 1956−1974
-
-   (BUTTON) Afficher / masquer la sous-section L'âge d'or 1956−1974
-     * 4.1Les percées
-
-     * 4.1.1Raisonnement par tâtonnements
-
-
-
-   4.1.2Langage naturel
-
-
-
-   4.1.3Micro-mondes
-
-
-
-   4.2L'optimisme
-
-
-
-   4.3Le financement
-
-
-
-   5La première hibernation de l'intelligence artificielle (1974−1980)
-
-   (BUTTON) Afficher / masquer la sous-section La première hibernation de
-   l'intelligence artificielle (1974−1980)
-     * 5.1Les problèmes
-
-     * 5.1.1Limites de la puissance de calcul
-
-
-
-   5.1.2Limites inhérentes : la complétude NP
-
-
-
-   5.1.3Raisonnement et base de connaissance de culture générale
-
-
-
-   5.1.4Le paradoxe de Moravec
-
-
-
-   5.1.5Le cadre et les problèmes de qualification
-
-
-
-   5.2La fin des investissements
-
-
-
-   5.3Critiques universitaires
-
-
-
-   5.4Perceptrons et la période sombre du connexionnisme
-
-
-
-   5.5Les élégants : calcul des prédicats, Prolog et systèmes experts
-
-
-
-   5.6Les brouillons : cadres et scripts
-
-
-
-   6Le boom 1980–1987
-
-   (BUTTON) Afficher / masquer la sous-section Le boom 1980–1987
-     * 6.1La montée des systèmes experts
-
-
-
-   6.2La révolution de la connaissance
-
-
-
-   6.3L'argent est de retour : projets de la cinquième génération
-
-
-
-   6.4La renaissance du connexionnisme
-
-
-
-   7La crise : le second hiver de l'IA 1987−1993
-
-   (BUTTON) Afficher / masquer la sous-section La crise : le second hiver
-   de l'IA 1987−1993
-     * 7.1Une seconde hibernation
-
-
-
-   7.2L'importance du corps : Nouvelle intelligence artificielle et
-   embodiment
-
-
-
-   81993-2000
-
-   (BUTTON) Afficher / masquer la sous-section 1993-2000
-     * 8.1Verrous qui sautent et loi de Moore
-
-
-
-   8.2Agents intelligents
-
-
-
-   8.3« Victoire des élégants »
-
-
-
-   8.4L'IA, travailleur de l'ombre
-
-
-
-   92001 et HAL 9000
-
-
-
-   102000 - 2009
-
-
-
-   11De 2009 à aujourd'hui
-
-
-
-   12Redéfinition dans les années 2020
-
-
-
-   13La recherche en intelligence artificielle en France
-
-
-
-   14Notes et références
-
-
-
-   15Références
-
-
-
-   16Annexes
-
-   (BUTTON) Afficher / masquer la sous-section Annexes
-     * 16.1Bibliographie
-
-
-
-   16.2Articles connexes
+     * 2Quelques précurseurs
+       (BUTTON) Afficher / masquer la sous-section Quelques précurseurs
+          + 2.1L'intelligence artificielle : mythes, fiction et
+            spéculation
+          + 2.2Automates
+          + 2.3Raisonnement formel
+          + 2.4Intelligence artificielle et premiers ordinateurs
+     * 3Naissance: 1943−1956
+       (BUTTON) Afficher / masquer la sous-section Naissance: 1943−1956
+          + 3.1Cybernétique et premiers réseaux neuronaux
+          + 3.2L'intelligence artificielle dans les jeux
+          + 3.3Test de Turing
+          + 3.4Raisonnement symbolique et le théoricien logique
+          + 3.5La traduction automatique des langages
+          + 3.6Conférence de Dartmouth de 1956 : naissance de
+            l'intelligence artificielle
+     * 4L'âge d'or 1956−1974
+       (BUTTON) Afficher / masquer la sous-section L'âge d'or 1956−1974
+          + 4.1Les percées
+               o 4.1.1Raisonnement par tâtonnements
+               o 4.1.2Langage naturel
+               o 4.1.3Micro-mondes
+          + 4.2L'optimisme
+          + 4.3Le financement
+     * 5La première hibernation de l'intelligence artificielle (1974−1980)
+       (BUTTON) Afficher / masquer la sous-section La première hibernation
+       de l'intelligence artificielle (1974−1980)
+          + 5.1Les problèmes
+               o 5.1.1Limites de la puissance de calcul
+               o 5.1.2Limites inhérentes : la complétude NP
+               o 5.1.3Raisonnement et base de connaissance de culture
+                 générale
+               o 5.1.4Le paradoxe de Moravec
+               o 5.1.5Le cadre et les problèmes de qualification
+          + 5.2La fin des investissements
+          + 5.3Critiques universitaires
+          + 5.4Perceptrons et la période sombre du connexionnisme
+          + 5.5Les élégants : calcul des prédicats, Prolog et systèmes
+            experts
+          + 5.6Les brouillons : cadres et scripts
+     * 6Le boom 1980–1987
+       (BUTTON) Afficher / masquer la sous-section Le boom 1980–1987
+          + 6.1La montée des systèmes experts
+          + 6.2La révolution de la connaissance
+          + 6.3L'argent est de retour : projets de la cinquième génération
+          + 6.4La renaissance du connexionnisme
+     * 7La crise : le second hiver de l'IA 1987−1993
+       (BUTTON) Afficher / masquer la sous-section La crise : le second
+       hiver de l'IA 1987−1993
+          + 7.1Une seconde hibernation
+          + 7.2L'importance du corps : Nouvelle intelligence artificielle
+            et embodiment
+     * 81993-2000
+       (BUTTON) Afficher / masquer la sous-section 1993-2000
+          + 8.1Verrous qui sautent et loi de Moore
+          + 8.2Agents intelligents
+          + 8.3« Victoire des élégants »
+          + 8.4L'IA, travailleur de l'ombre
+     * 92001 et HAL 9000
+     * 102000 - 2009
+     * 11De 2009 à aujourd'hui
+     * 12Redéfinition dans les années 2020
+     * 13La recherche en intelligence artificielle en France
+     * 14Notes et références
+     * 15Références
+     * 16Annexes
+       (BUTTON) Afficher / masquer la sous-section Annexes
+          + 16.1Bibliographie
+          + 16.2Articles connexes
 
    [ ] Basculer la table des matières
 
@@ -254,7 +122,7 @@ Histoire de l'intelligence artificielle
      * العربية
      * Azərbaycanca
      * বাংলা
-     * Catal�
+     * Català
      * کوردی
      * Deutsch
      * Ελληνικά
@@ -333,7 +201,7 @@ Introduction[modifier | modifier le code]
    datent de la Protohistoire, où mythes, légendes et rumeurs dotent des
    êtres artificiels, réalisés par des maîtres-artisans, d'une
    intelligence ou d'une conscience ; comme l'écrit Pamela McCorduck (en),
-   l'intelligence artificielle commence avec « le vieux souhait de jouer �
+   l'intelligence artificielle commence avec « le vieux souhait de jouer à
    Dieu^[4] ».
 
    L'intelligence artificielle comme nous l'entendons aujourd'hui a été
@@ -476,7 +344,7 @@ Raisonnement formel[modifier | modifier le code]
    n'y a[it] pas plus de besoin de se disputer entre deux philosophes
    qu'entre deux comptables. Car il leur suffirait de prendre leur crayon
    et leur ardoise en main, et de se dire l'un l'autre (avec un ami en
-   témoin, au besoin) : Calculons !^[24] ». Ces philosophes ont commencé �
+   témoin, au besoin) : Calculons !^[24] ». Ces philosophes ont commencé à
    articuler les hypothèses d'un système de symboles physiques qui
    deviendra par la suite l'un des dogmes de la recherche en IA. Leibniz a
    toutefois mis en avant la difficulté liée à l’interconnexion des les
@@ -509,7 +377,7 @@ Raisonnement formel[modifier | modifier le code]
    chef-d'œuvre Principia Mathematica en 1913. Inspiré par le succès de
    Russell, David Hilbert a défié les mathématiciens des années 1920-1930
    de répondre à cette question fondamentale : « Le raisonnement
-   mathématique peut-il être entièrement formalisé^[18] ? » On répondit �
+   mathématique peut-il être entièrement formalisé^[18] ? » On répondit à
    sa question par les théorèmes d'incomplétude de Gödel, la machine de
    Turing et le lambda-calcul de Church^[18]^,^[26]. Leur réponse était
    surprenante à plusieurs titres. Tout d'abord, ils prouvèrent qu'il y
@@ -542,7 +410,7 @@ code]
 
    Les premiers ordinateurs modernes sont les machines massives de
    cryptanalyse de la Seconde Guerre mondiale (telles que le Z3, l'ENIAC
-   et le Colossus)^[29], conçues, en ce qui concerne les deux dernières, �
+   et le Colossus)^[29], conçues, en ce qui concerne les deux dernières, à
    partir des fondements théoriques établis par Alan Turing et développés
    par John von Neumann^[30].
 
@@ -586,7 +454,7 @@ Cybernétique et premiers réseaux neuronaux[modifier | modifier le code]
    simples opérations logiques. Ils ont été les premiers à évoquer ce que
    des chercheurs plus tard appelleraient un réseau neuronal^[35].
 
-   Un des étudiants inspirés par Pitts et McCulloch était Marvin Minsky, �
+   Un des étudiants inspirés par Pitts et McCulloch était Marvin Minsky, à
    l'époque jeune étudiant de 24 ans. En 1951 (avec Dean Edmonds), il
    construisit la première machine à réseau neuronal, le SNARC^[36].
    Minsky allait devenir l'un des plus importants leaders et innovateurs
@@ -624,7 +492,7 @@ Raisonnement symbolique et le théoricien logique[modifier | modifier le code]
    1950, des scientifiques, en petit nombre au début, ont compris qu'une
    machine qui pouvait manipuler des nombres pouvait aussi manipuler des
    symboles et que cette manipulation de symboles pouvait potentiellement
-   être l'essence-même de la pensée humaine. Cela a conduit �
+   être l'essence-même de la pensée humaine. Cela a conduit à
    l'élaboration des premières machines pensantes^[41].
 
    En 1955, Allen Newell et le futur prix Nobel d'économie, Herbert Simon,
@@ -684,7 +552,7 @@ L'âge d'or 1956−1974[modifier | modifier le code]
    croient que de tels comportements « intelligents » soient possibles
    pour des machines^[53]. Les chercheurs font preuve alors d'un optimisme
    intense dans le privé comme dans leurs articles, ils prédisent qu'une
-   machine complètement intelligente sera construite dans les 20 ans �
+   machine complètement intelligente sera construite dans les 20 ans à
    venir^[54]. Les agences gouvernementales comme la DARPA investissent
    massivement dans ce nouveau domaine^[55].
 
@@ -780,7 +648,7 @@ L'optimisme[modifier | modifier le code]
      * En 1967, Marvin Minsky : « dans une génération [...] le problème de
        la création d'une 'intelligence artificielle' [sera] en grande
        partie résolu^[69] ».
-     * En 1970, Marvin Minsky (dans le magazine Life) : « Dans trois �
+     * En 1970, Marvin Minsky (dans le magazine Life) : « Dans trois à
        huit ans nous aurons une machine avec l'intelligence générale d'un
        être humain ordinaire^[70] ».
 
@@ -845,7 +713,7 @@ Limites de la puissance de calcul[modifier | modifier le code]
    titre comme un véritable frein à des applications pratiques ; elles
    suffisaient à peine pour démontrer des modèles simplistes.
 
-   Ainsi, le travail de Ross Quillian sur le langage naturel est limité �
+   Ainsi, le travail de Ross Quillian sur le langage naturel est limité à
    un vocabulaire de vingt mots, car la mémoire ne peut pas en contenir
    plus^[82].
 
@@ -867,8 +735,8 @@ Limites de la puissance de calcul[modifier | modifier le code]
    capable d'environ 80 à 130 MIPS, et un ordinateur de bureau typique de
    l'époque n'atteint même pas 1 MIPS. En fait, son estimation,
    impressionnante pour l'époque, s'est avérée trop optimiste : en 2011,
-   les applications de vision par ordinateur concrètes ont besoin de dix �
-   mille fois plus de puissance, se situant plutôt entre 10 000 �
+   les applications de vision par ordinateur concrètes ont besoin de dix à
+   mille fois plus de puissance, se situant plutôt entre 10 000 à
    1 000 000 MIPS.
 
 Limites inhérentes : la complétude NP[modifier | modifier le code]
@@ -993,7 +861,7 @@ Critiques universitaires[modifier | modifier le code]
    situation empire quand Colby omet de mentionner la contribution de
    Weizenbaum au programme. En 1976, Weizenbaum publie Puissance
    informatique et raison humaine (en) qui explique que le mauvais usage
-   de l'intelligence artificielle peut potentiellement conduire �
+   de l'intelligence artificielle peut potentiellement conduire à
    dévaloriser la vie humaine^[105].
 
 Perceptrons et la période sombre du connexionnisme[modifier | modifier le
@@ -1052,7 +920,7 @@ modifier le code]
 
 Les brouillons : cadres et scripts[modifier | modifier le code]
 
-   Parmi les critiques de l'approche de McCarthy on trouve ses collègues �
+   Parmi les critiques de l'approche de McCarthy on trouve ses collègues à
    travers le pays au MIT Marvin Minsky, Seymour Papert et Roger Schank
    ont essayé de résoudre des problèmes comme la « compréhension d'une
    histoire » et la « reconnaissance d'objets » qui requièrent d'une
@@ -1115,7 +983,7 @@ La montée des systèmes experts[modifier | modifier le code]
    la configuration des ordinateurs VAX à livrer aux clients, est réalisé
    par Carnegie-Mellon pour DEC. Le succès est énorme, car l'entreprise
    peut économiser dès 1986 jusqu'à 40 millions de dollars par an^[119].
-   Dès lors, les sociétés de par le monde commencent à développer et �
+   Dès lors, les sociétés de par le monde commencent à développer et à
    déployer leurs systèmes experts et vers 1985 plus d'un milliard de
    dollars est dépensé en intelligence artificielle, majoritairement dans
    les centres industriels de recherche et développement. Tout un secteur
@@ -1232,7 +1100,7 @@ Une seconde hibernation[modifier | modifier le code]
    utiles, mais uniquement dans des contextes très spécifiques^[134].
 
    À la fin des années 1980, la Strategic Computing Initiative^[Note 7] de
-   la DARPA a complétement et abruptement coupé ses subsides �
+   la DARPA a complétement et abruptement coupé ses subsides à
    l'intelligence artificielle. Une nouvelle direction de la DARPA ayant
    conclu que l'intelligence artificielle n'est plus de « dernière mode »,
    elle a redirigé les subventions vers des projets plus propices à des
@@ -1325,7 +1193,7 @@ Verrous qui sautent et loi de Moore[modifier | modifier le code]
    Ces succès ne reposent pas sur de nouveaux paradigmes révolutionnaires,
    mais sur une application minutieuse des techniques d'ingénierie et sur
    la puissance phénoménale des ordinateurs^[148]. En effet, la machine
-   Deep Blue est 10 millions de fois plus rapide que la Ferranti Mark I �
+   Deep Blue est 10 millions de fois plus rapide que la Ferranti Mark I à
    qui Christopher Strachey a appris à jouer aux échecs en 1951^[Note 8].
    Cette augmentation spectaculaire suit la loi de Moore, qui prédit que
    la vitesse et la capacité de mémoire des ordinateurs doublent tous les
@@ -1345,7 +1213,7 @@ Agents intelligents[modifier | modifier le code]
    encore du module, le paradigme de l'agent intelligent s'installe.
 
    Un agent intelligent est un système qui perçoit son environnement et
-   entreprend des actions qui maximisent ses chances de réussite. Grâce �
+   entreprend des actions qui maximisent ses chances de réussite. Grâce à
    cette définition, de simple programmes qui résolvent des problèmes
    spécifiques sont des « agents intelligents », tout comme le sont des
    êtres humains et des organisations d'êtres humains comme les
@@ -1458,7 +1326,7 @@ L'IA, travailleur de l'ombre[modifier | modifier le code]
 
    L'intelligence artificielle est un sujet d'actualité au XXI^e siècle.
    En 2004, le Singularity Institute a lancé une campagne Internet appelée
-   3 Laws Unsafe (« 3 lois dangereuses »), pour sensibiliser �
+   3 Laws Unsafe (« 3 lois dangereuses »), pour sensibiliser à
    l'insuffisance des trois lois d'Asimov avant la sortie du film I,
    Robot^[174]^,^[175].
 
@@ -1529,7 +1397,7 @@ De 2009 à aujourd'hui[modifier | modifier le code]
 
    En 2012, un réseau de neurones utilisant 16 000 Microprocesseur cœurs
    de processeur de 1000 processeurs d'ordinateur est capable, après
-   entraînement, de reconnaître un chat sans qu'il lui ait été appris �
+   entraînement, de reconnaître un chat sans qu'il lui ait été appris à
    reconnaître un chat^[190].
 
    En 2012, un réseau neuronal convolutif nommé AlexNet affiche des
@@ -1667,7 +1535,7 @@ Notes et références[modifier | modifier le code]
           + les bases de connaissance de culture générale,
           + les méthodes de raisonnement imitant la pensée humaine
             (raisonnement à base de connaissances par défaut, raisonnement
-            rapide dans un large éventail de domaines, tolérance �
+            rapide dans un large éventail de domaines, tolérance à
             l'incertitude, prise de décisions sous connaissance incomplète
             et correction a posteriori quand les connaissances
             s'améliorent),
@@ -1682,7 +1550,7 @@ Notes et références[modifier | modifier le code]
        progrès en matière de traitement du langage.
     6. ↑ Advice Taker (« Preneur de conseils » en français) est un
        programme informatique hypothétique décrit par MacCarthy dans son
-       Programs with Common Sense, 1958. C'est le premier programme �
+       Programs with Common Sense, 1958. C'est le premier programme à
        utiliser la logique en tant qu'outil de représentation et non en
        tant que matière d'étude.
     7. ↑ La Strategic Computing Initiative (« Initiative Informatique
@@ -1699,7 +1567,7 @@ Notes et références[modifier | modifier le code]
     9. ↑ Reconnaissance des formes et intelligence artificielle, congrès
        AFCET-IRIA, Toulouse 12, 13, 14 septembre 1979. Il est intitulé
        « 2^e congrès » et prend la suite du congrès AFCET-IRIA
-       Reconnaissance des formes et traitement des images en 1978 �
+       Reconnaissance des formes et traitement des images en 1978 à
        Chatenay-Malabry.
    10. ↑ Un GRECO est un ancêtre des actuels GDR du CNRS et un PRC est un
        programme de recherche concertée

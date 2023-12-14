@@ -260,7 +260,7 @@ Peut-on faire confiance à l'intelligence artificielle ?
    apprentissage machine, définition ci-dessous). (IA) twitteuse a même
    fini par nier l’existence de l’Holocauste. Piteuse vitrine de
    l’apprentissage machineFermerL'apprentissage machine ou machine
-   learning est une classe d’algorithmes d’apprentissage automatique, �
+   learning est une classe d’algorithmes d’apprentissage automatique, à
    partir de données, sans production explicite de règles. C’est pourquoi
    on les qualifie souvent de « boîte noire » : la raison pour laquelle
    l’algorithme parvient au résultat est inconnue., Tay a été mise hors
@@ -329,7 +329,7 @@ Une aide à la décision
    ressemblances font tilt pour celle-ci, mystère et boule de gomme.
 
    « Or, il serait bon d’expliquer les raisons qui président aux choix
-   importants, afin d’être en mesure de les justifier. Et garantir ainsi �
+   importants, afin d’être en mesure de les justifier. Et garantir ainsi à
    chacun un traitement équitable », rappelle Raja Chatila, directeur de
    l’Institut des systèmes intelligents et de robotique4. Pourrait-on
    rendre ces systèmes plus transparents ? « Il y a des recherches sur
@@ -366,8 +366,8 @@ Les machines « contaminées » par nos préjugés
    Partager
    Partager
 
-   Même problème pour les prêts bancaires. « Le système peut apprendre �
-   partir des dix années précédentes à qui l’on a accordé un prêt et �
+   Même problème pour les prêts bancaires. « Le système peut apprendre à
+   partir des dix années précédentes à qui l’on a accordé un prêt et à
    quel taux, selon son salaire, sa situation familiale, etc. Mais il
    reproduira les biais des décisions humaines de cette période : alors si
    les minorités ethniques payaient des intérêts plus élevés par exemple,
@@ -410,7 +410,7 @@ Les machines « contaminées » par nos préjugés
    Autre question à résoudre : qui décidera des règles à implémenter ?
    « Certainement pas les informaticiens, répond Serge Abiteboul. « Ce ne
    devrait pas être à eux de décider comment mettre au point l’algorithme
-   qui calcule le sort des bacheliers, tout comme ce ne devrait pas être �
+   qui calcule le sort des bacheliers, tout comme ce ne devrait pas être à
    Google de décider d’interdire des sites extrémistes ou de fake news,
    déplore le chercheur. Le monde numérique s’est développé si vite qu’il
    en est encore au stade du western : les injustices foisonnent, l’État
@@ -445,7 +445,7 @@ Les machines « contaminées » par nos préjugés
    Raja Chatila, qui est aussi membre de la Cerna7. Mais le temps de la
    réflexion est souvent plus long que celui de l’innovation
    technologique. Au sujet de la très médiatique voiture autonome, une
-   logique utilitariste (sauver le plus de personnes possible quitte �
+   logique utilitariste (sauver le plus de personnes possible quitte à
    sacrifier le conducteur), elle-même discutable, aura sans doute du mal
    à faire le poids face aux logiques de vente : en 2016, un responsable
    de Mercedes annonçait ainsi qu’il fallait protéger les passagers en
@@ -470,13 +470,13 @@ Maintenir la responsabilité du côté des humains
 
    «Le véritable danger, c’est nous  ! Lorsque (...) nous déléguons les
    décisions et notre autonomie à la machine. Laisser les agents autonomes
-   ultra–rapides aux commandes de la Bourse a ainsi sans doute conduit �
+   ultra–rapides aux commandes de la Bourse a ainsi sans doute conduit à
    la crise de 2008», commente Jean-Gabriel Ganascia.
 
    CNRS Le Journal (BUTTON)
    «Le véritable danger, c’est nous  ! Lorsque (...) nous déléguons les
    décisions et notre autonomie à la machine. Laisser les agents autonomes
-   ultra–rapides aux commandes de la Bourse a ainsi sans doute conduit �
+   ultra–rapides aux commandes de la Bourse a ainsi sans doute conduit à
    la crise de 2008», commente Jean-Gabriel Ganascia.
    Photographer is my life/GETTY IMAGES
    Photographer is my life/GETTY IMAGES
@@ -521,7 +521,7 @@ Maintenir la responsabilité du côté des humains
    Le véritable danger, c’est nous ! Lorsque, par ignorance ou par
    facilité, nous déléguons les décisions et notre autonomie à la machine,
    martèle Jean-Gabriel Ganascia. Laisser les agents autonomes
-   ultra–rapides aux commandes de la Bourse a ainsi sans doute conduit �
+   ultra–rapides aux commandes de la Bourse a ainsi sans doute conduit à
    la crise de 2008. Mais il y a une confusion à cause du terme
    “autonome” : au sens technique, cela ne veut pas dire qu’une machine
    définit ses propres objectifs. Cela veut seulement dire qu’elle peut
@@ -560,7 +560,7 @@ Des robots au banc des accusés ?
    explique-t-il, car les robots eux-mêmes sont évidemment sans le sou…
    « C’est vraiment la pire chose à faire, alerte le chercheur, car
    indemniser les victimes dans les cas mineurs a un effet pervers : on
-   fera l’économie d’une enquête destinée à identifier les causes et �
+   fera l’économie d’une enquête destinée à identifier les causes et à
    prévenir d’autres accidents, peut-être plus graves. Or, les machines
    autonomes impliquent des processus différents des produits
    classiques. » Par exemple, vous savez qu’en agitant frénétiquement un
@@ -640,7 +640,7 @@ Mots-clés
 
    Éthique Intelligence artificielle deep learning Réseau de neurones Tay
    glove logique déontique Voiture autonome Biais Responsabilité boîte
-   noire Transhumanisme Morale machine learning approche symbolique Aide �
+   noire Transhumanisme Morale machine learning approche symbolique Aide à
    la décision
 
 Partager cet article
@@ -676,9 +676,9 @@ Voir aussi
    Article
    04/12/2023
    La créativité peut-elle être artificielle ?
-   Blog
-   29/11/2023
-   Un sceau personnel pour authentifier et protéger ses biens
+   Article
+   30/11/2023
+   Climat : « C'est aussi à l'échelle des villes que la...
    Ethique
    Article
    24/04/2020
@@ -736,7 +736,7 @@ L’homme sait L’ordinateur ne
    qu’il possède bel et bien une conscience, infime cela va de soi, et de
    type non-réflexive, il l’est sans le savoir. Appelons cela une
    conscience primaire faible. De là découle qu’être conscient et savoir
-   (pris dans le sens d’une mémoire recelant des informations) semblent �
+   (pris dans le sens d’une mémoire recelant des informations) semblent à
    priori deux choses différentes. Contrairement à un ordinateur, le
    savoir humain est un vrai savoir, en ce sens qu’il a du sens. Il
    signifie quelque chose pour l’intéressé, ça lui parle, il sait qu’il
@@ -759,7 +759,7 @@ L’homme sait L’ordinateur ne
    dépassera à jamais. Appelons conscience secondaire, au carré, ou
    puissance n, la conscience de savoir que l’on sait, qui est le substrat
    de tous les savoirs. Elle permet la réflexion qui est reflet, la
-   conscience se réfléchit elle-même comme dans un jeu de miroirs �
+   conscience se réfléchit elle-même comme dans un jeu de miroirs à
    l’infini. Elle s’assimile à un jeu de lentilles en optique concentrant
    ou dispersant la lumière et elle est typiquement humaine. Elle permet
    la conscience de soi radicalement différenciée de l’autre (le « même »
@@ -768,7 +768,7 @@ L’homme sait L’ordinateur ne
    L’instinct domine. Certes ils se battent mais ont-ils clairement
    conscience de se battre ? La conscience de l’espèce et l’automatisme
    étant plus développés, elle n’est pas réflexive, puisque la réflexion
-   est le discours intérieur implicite ou explicite que nous tenons �
+   est le discours intérieur implicite ou explicite que nous tenons à
    nous-même (le fameux « reflet »). La relation avec soi et
    l’environnement ne passe pas par les mêmes « circuits » Le cogito de
    l’homme est unique et n’est pas généré par le cerveau qui n’est qu’un
@@ -886,7 +886,7 @@ L’homme sait L’ordinateur ne
    sachant qu’elle n’a pas pu s’auto-engendrer comme nous le verrons plus
    bas, le seul corollaire possible est que son existence soit éternelle.
    En a-t-on la preuve ? Evidemment non, mais puisqu’elle est là et que
-   Dieu n’existe pas, alors forcément… Question : qu’est-ce qui autorise �
+   Dieu n’existe pas, alors forcément… Question : qu’est-ce qui autorise à
    éliminer l’hypothèse de Dieu ? Son inexistence est-elle démontrée ? Non
    pas plus que son existence excepté que l’intelligence penche plus en sa
    faveur. En effet il est beaucoup plus vraisemblable que ce qui est
@@ -904,7 +904,7 @@ L’homme sait L’ordinateur ne
    qu’entre la fin ultime d’un univers donc du temps et la naissance d’un
    nouveau, il y a un « non-temps » impossible à mesurer donc, que
    j’appelerai par analogie à la mythologie Hindo-tibétaine « Manvantara
-   ». Cette « période de non-temps » incommensurable et impossible �
+   ». Cette « période de non-temps » incommensurable et impossible à
    comprendre par le raisonnement, a pour corollaire que le temps et
    l’univers sont cycliques comme le pensaient les grecs à juste titre.
    C’est l’éternel retour. Un univers naît et avec lui le temps, puis il
@@ -921,7 +921,7 @@ L’homme sait L’ordinateur ne
    dernier manvantara ? Il n’y avait rien excepté un être. Par contre on
    peut se demander ce qu’il y avait, non avant le fameux big bang, mais
    avant le dernier manvantara, ce qui sera plus juste, et la réponse sera
-   : l’univers précédent. Ceci est comparable à une respiration �
+   : l’univers précédent. Ceci est comparable à une respiration à
    l’échelle cosmique. Rien ne peut être éternellement sans volonté (et le
    pouvoir de cette volonté) introduisant le nombre, la proportion,
    l’ordre, la loi immuable (mathématique, scientifique) qui réside dans
@@ -1041,7 +1041,7 @@ L’homme sait L’ordinateur ne
    un fait établi. Car si quelqu’un considère que l’existence d’une
    conscience (ou pensée) cosmique est invraisemblable, je ne peux rien
    pour lui, sauf le plaindre. D’où viennent la conscience et la vie ? On
-   fouille les tréfonds de la matière jusqu’aux limites puisque c’est l�
+   fouille les tréfonds de la matière jusqu’aux limites puisque c’est là
    et là seul, pensent-ils que doit se trouver la clé. Seulement on ne la
    trouve pas. Ils partent juste de ce postulat tout à fait arbitraire (si
    si) d’où ils tirent des hypothèses invérifiées, néanmoins présentées
@@ -1063,7 +1063,7 @@ L’homme sait L’ordinateur ne
    lorsqu’on reconnait son erreur, on s’achemine (un peu) vers la vérité.
    Lève-toi et marche Si l’âme humaine est produite par le cerveau (selon
    des propriétés quantiques ou ce que vous voulez comment se fait-il que
-   les singes ayant quasiment les mêmes neurones et sont antérieurs �
+   les singes ayant quasiment les mêmes neurones et sont antérieurs à
    l’homme dans l’évolution, (d’après la théorie officielle) ne soient
    capable des mêmes performances cognitives ? Réponse : néant personne ne
    le sait. Personne ne sait pourquoi l’homme est homme et le singe singe.
@@ -1138,10 +1138,10 @@ L’homme sait L’ordinateur ne
    Parler de laïcité c’est parler en creux de religion donc de Dieu. Or
    nous n’en avons jamais autant parlé depuis la loi de 1905. Les
    musulmans dans nos pays nous obligent à ce genre de débat qui
-   n’existait pas dans les années 60. Vous avez éliminé Dieu ? Le voil�
+   n’existait pas dans les années 60. Vous avez éliminé Dieu ? Le voilà
    qui revient vous chatouiller les orteils. André Malraux disait que le
-   21ème siècle serait spirituel ou ne serait pas… D’autres diront �
-   contrario que c’est justement s’il est spirituel qu’il ne sera pas, �
+   21ème siècle serait spirituel ou ne serait pas… D’autres diront à
+   contrario que c’est justement s’il est spirituel qu’il ne sera pas, à
    cause des guerres que les religions suscitent. C’est vrai il y aura des
    guerres, mais soyez certain que « Dieu » sera le seul vainqueur.
    L’hypothèse de Dieu est conforme à la raison Pourquoi avons-nous
@@ -1207,7 +1207,7 @@ L’homme sait L’ordinateur ne
    ne peut engendrer la vie et la non-conscience la conscience. Revenons
    aux machines : nous allons créer des ordinateurs qui auront une âme,
    grâce à certaines propriétés quantiques (non encore élucidées) de la
-   matière, lesquelles sont des propriétés de conscience. Ou encore, et l�
+   matière, lesquelles sont des propriétés de conscience. Ou encore, et là
    nous entrons de plein pied dans l’occultisme, nous allons créer des
    égrégores sur des supports logiciels, et ainsi les ordinateurs serons
    des êtres. Ou que sais-je encore. Pourquoi pas, mais je me demande s’il
@@ -1247,7 +1247,7 @@ L’homme sait L’ordinateur ne
    cela une conscience larvaire si on veut. Vivre c’est être doté de vie,
    c’est-à-dire d’une énergie vitale dont les sciences actuelles et la
    physique en particulier n’ont aucune connaissance. A ce jour, ce qu’est
-   la vie elle-même (à ne pas confondre avec les conditions nécessaires �
+   la vie elle-même (à ne pas confondre avec les conditions nécessaires à
    sa manifestation, le support, le fameux CHNOPS) reste un mystère. S’il
    y a de la conscience partout dans l’intimité de la terre de l’univers
    ou des multivers, si vous voulez, qu’est-ce d’autre que Dieu ?
