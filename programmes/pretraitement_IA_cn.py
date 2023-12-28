@@ -2,6 +2,9 @@
 Ce programme permet d'ouvrir un fichier texte et de remplacer "intelligence artificielle" par "intelligenceartificielle"
 '''
 
+from os import replace
+
+
 def replaceAI(source, destination) : 
     with open(source, 'r', encoding='utf-8') as s : 
         content = s.read()
@@ -10,6 +13,14 @@ def replaceAI(source, destination) :
     modified_content = content.replace('人工 智能', '人工智能')
     modified_content = modified_content.replace('人工 智慧', '人工智慧')
     modified_content = modified_content.replace('人工智慧', '人工智能')
+
+    with open('./itrameur/stopwords-zh.txt', 'r', encoding='utf-8') as file:
+        stopwords = file.read().splitlines()
+    modified_content = modified_content.split()
+    for i in modified_content:
+        if i in stopwords:
+            modified_content.remove(i)
+    modified_content = ' '.join(modified_content)
     with open(destination, 'w') as d : 
         d.write(modified_content)
         
