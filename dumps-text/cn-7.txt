@@ -1,15 +1,19 @@
 Fujifilm FUJIFILM Business Innovation
+
+FUJIFILM BI Direct ●
+
+網上訂購 ●
+
+我的賬戶 ●
+
+[繁體字 ]
+ 
 [                    ]
-Language: [繁體字 ]
+
 Menu
+[                    ]
 
-  • FUJIFILM BI Direct
-  • 網上訂購
-  • 我的賬戶
-
-搜尋
-
-  • [fujifilm_c]
+[繁體字 ]
   • 解決方案與服務
     解決方案與服務
     解決方案與服務
@@ -209,27 +213,18 @@ banner
 
   • 業務韌性創新報告
 
-FUJIFILM Group
+  • 解決方案
 
-  • Fujifilm
-
-    富士膠片股份有限公司
-
-Facebook LinkedIn YouTube
-
-解決方案
-
-  • 
       □ 業務流程自動化方案
       □ 各行各業的解決方案
       □ 辦公室解決方案
-  • 服務
 
-  • 支援與驅動程式
+    服務
 
-產品
+    支援與驅動程式
 
-  • 
+  • 產品
+
       □ 打印機
       □ 多功能影印機
       □ 生產型印刷
@@ -237,15 +232,22 @@ Facebook LinkedIn YouTube
       □ 大圖輸出設備
       □ 互動顯示屏
       □ 耗材
+  • 關於我們
 
-關於我們
-
-  • 
       □ 關於富士膠片
       □ 可持續發展
       □ 富士膠片商業創新香港
+  • 聯絡我們
 
-聯絡我們
+  • Facebook
+  • LinkedIn
+  • YouTube
+
+Fujifilm Group
+
+  • 富士膠片股份有限公司
+
+FUJIFILM BUSINESS INNOVATION
 
   • 個人資料(私隱)條例 - 私隱政策聲明
   • 條款及細則/商標
@@ -253,5 +255,5 @@ Facebook LinkedIn YouTube
   • 無障礙聲明
   • 網站地圖
 
-Language: [繁體字 ]
 © 富士膠片商業創新香港有限公司
+

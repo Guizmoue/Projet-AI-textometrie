@@ -1008,35 +1008,27 @@ avatar
 
 相关 推荐
 
-【 ChatGPT｜AI 工具 】 使用 ChatPDF ， 实现 秒 读 论文
-1 . 8k 阅读
+如何 正确 使用 ChatGPT 的 Prompts
+1 . 5 k 阅读
   ·  
-1点 赞
+2 点 赞
 
-2023 - 03 - 15 来 聊 下 ChatGLM - 6 B 清华大学 开源版 ChatGPT 的 使用 感受
-4 . 3 k 阅读
+Prompt Tuning -- 让 人 工智能 更加 智能 的 秘密 武器
+871 阅读
   ·  
-1点 赞
+0点 赞
 
 ChatGPT Plus 深度 体验 ： 你 是 否 要 升级 呢
 1 . 9k 阅读
   ·  
 5 点 赞
 
-4 种 方法 让 你 上传 任何 文件 到 ChatGPT : 总 有 一 种 适合 你
-3 . 3 k 阅读
+ChatGPT 的 翻译 表现 以及 提示词 技巧
+1 . 9k 阅读
   ·  
-7点 赞
+3 点 赞
 
-Midjourney - api 接入 网页 【 附源码 ， 示例 】
-1 . 8k 阅读
+提示词 （ prompt ） 工程 指南 （ 六 ） ： 对抗 提示
+792 阅读
   ·  
-4 点 赞
-
-友情 链接 ：
-
-• js 随机 日期
-• eval 解析 不 了 json
-• js 报错 异常 插件
-• hbuilder ajax json
-
+2 点 赞

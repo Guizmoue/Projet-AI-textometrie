@@ -1008,35 +1008,27 @@ avatar
 
 相关推荐
  
-【ChatGPT｜AI 工具】使用 ChatPDF，实现秒读论文
-1.8k阅读
+如何正确使用ChatGPT的Prompts
+1.5k阅读
  · 
-1点赞
+2点赞
  
-2023-03-15 来聊下 ChatGLM-6B 清华大学开源版 ChatGPT 的使用感受
-4.3k阅读
+Prompt Tuning--让人工智能更加智能的秘密武器
+871阅读
  · 
-1点赞
+0点赞
  
 ChatGPT Plus深度体验：你是否要升级呢
 1.9k阅读
  · 
 5点赞
  
-4种方法让你上传任何文件到ChatGPT: 总有一种适合你
-3.3k阅读
+ChatGPT的翻译表现以及提示词技巧
+1.9k阅读
  · 
-7点赞
+3点赞
  
-Midjourney-api 接入网页【附源码，示例】
-1.8k阅读
+提示词（prompt）工程指南（六）：对抗提示
+792阅读
  · 
-4点赞
-
-友情链接：
-
-  • js 随机日期
-  • eval解析不了json
-  • js 报错异常插件
-  • hbuilder ajax json
-
+2点赞

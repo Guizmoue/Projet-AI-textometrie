@@ -25,9 +25,10 @@
 <link rel="alternate" href="https://www.fujifilm.com/fbhk/en/insights/article/ai-human-collaboration-empowers-hong-kongs-smart-workstyle" hreflang="en-hk" />
 <link rel="alternate" href="https://www.fujifilm.com/fbhk/zh-hk/insights/article/ai-human-collaboration-empowers-hong-kongs-smart-workstyle" hreflang="zh-hk" />
 <link rel="icon" type="image/ico" href="/favicon.ico" />
-<link rel="stylesheet" rel="preload" href="/fbhk/ffassets/fujifilm/css/fujifilm.min.css" />
-<link rel="stylesheet" rel="preload" href="/fbhk/ffassets/fujifilm/css/common.min.css" />
-<link rel="stylesheet" rel="preload" href="/fbhk/ffassets/fujifilm/css/local-css/hk/zh-HK/local.min.css" />
+<link rel="stylesheet" rel="preload" href="/fbhk/ffassets/fujifilm/css/fujifilm.css" />
+<link rel="stylesheet" rel="preload" href="/fbhk/ffassets/fujifilm/css/common.css" />
+<link rel="stylesheet" rel="preload" href="/fbhk/ffassets/fujifilm/css/local.css" />
+<link rel="stylesheet" rel="preload" href="/fbhk/ffassets/fujifilm/css/local-css/hk/zh-HK/local.css" />
 
 <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -115,10 +116,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     
 <script>
 
-function myFunction(event) {
+function myFunctionSP(event) {
 	event.preventDefault();
 	var opco = window.location.href.split('/').slice(3, 4).join('/');
-	
+
 	var lang = "/"+window.location.href.split('/').slice(4, 5).join('/');
 	if(lang=="/" && opco!="fbtw" && opco!="fbkr")
 	{
@@ -131,41 +132,77 @@ function myFunction(event) {
     if (opco == "fbkr") {
         lang = "/ko-KR";
     }
-	 
-	var searchtext = document.getElementById("search").value;
-	//check if search text contains blocked keywords
-	var regexInvalidCharacters = /[`!@#$%^*()+\=\[\]{};':"\\|,<>\/?~]/;
-	var alphabeticRegex = /^[\u0000-\u007F]*$/;
-	if((opco == "fbau" && !alphabeticRegex.test(searchtext)) || regexInvalidCharacters.test(searchtext) || searchtext.indexOf(".co") !== -1 || searchtext.indexOf("www") !== -1 ){
-	}
-	else{
-		window.localStorage.SearchTerm = searchtext;
-		window.location.href = "/"+opco+lang+"/search?q="+searchtext;
-	}
+
+    var searchtext = document.getElementById("search-sp").value;
+    //check if search text contains blocked keywords
+    var regexInvalidCharacters = /[`!@#$%^*()+\=\[\]{};':"\\|,<>\/?~]/;
+    if (regexInvalidCharacters.test(searchtext) || searchtext.indexOf(".co") !== -1 || searchtext.indexOf("www") !== -1) {
+    }
+    else {
+        window.localStorage.SearchTerm = searchtext;
+        window.location.href = "/" + opco + lang + "/search?q=" + searchtext;
+    }
 }
-	document.onreadystatechange = function () {
+
+function myFunctionPC(event) {
+	event.preventDefault();
+	var opco = window.location.href.split('/').slice(3, 4).join('/');
+
+	var lang = "/"+window.location.href.split('/').slice(4, 5).join('/');
+	if(lang=="/" && opco!="fbtw" && opco!="fbkr")
+	{
+		lang = "/en";
+	}
+	if(opco=="fbtw")
+	{
+		lang = "/zh-TW";
+    }
+    if (opco == "fbkr") {
+        lang = "/ko-KR";
+    }
+
+    var searchtext = document.getElementById("search-pc").value;
+    //check if search text contains blocked keywords
+    var regexInvalidCharacters = /[`!@#$%^*()+\=\[\]{};':"\\|,<>\/?~]/;
+    if (regexInvalidCharacters.test(searchtext) || searchtext.indexOf(".co") !== -1 || searchtext.indexOf("www") !== -1) {
+    }
+    else {
+        window.localStorage.SearchTerm = searchtext;
+        window.location.href = "/" + opco + lang + "/search?q=" + searchtext;
+    }
+}
+
+    document.onreadystatechange = function () {
         if ("") {
             document.getElementById('search').value = window.localStorage.SearchTerm;
         }
     }
+
 </script>
-<header class="site-header">
-    <div class="top-header">
-        <div class="site-header__wrapper container">
-            <div class="site-logo">
-                
-                    <a href="/fbhk/zh-hk">
-                        <img src="/fbhk/-/media/fujifilm_corporate_logo.svg?la=zh-HK&amp;hash=090874AFF14038975E92A263358B1EFE" alt="Fujifilm" />
-						 
-                    </a>
-                
-                <span class="m-global-header__region">FUJIFILM Business Innovation</span>
+<header class="m-header js-hamburger-menu-root is-set site-header">
+    <div class="m-header__head top-header">
+        <div class="m-header__head-inner">
+            <div class="m-header__title">
+                <a class="m-header__logo" href="/fbhk/zh-HK">
+                    <img src="/fbhk/-/media/fujifilm_corporate_logo.svg?h=42&amp;w=152&amp;la=zh-HK&amp;hash=C8D772C9E06D241EFE5B557E5A4C031E" height="42" width="152" alt="Fujifilm" />
+                </a>
+                <span class="m-header__region"><span class="m-header__region-txt">FUJIFILM Business Innovation</span><span class="m-header__region-txt"></span></span>
+                <!-- /.m-header__title -->
             </div>
-            <form method="post" onsubmit="myFunction(event)" class="search-bar">
-                <label for="site-search" class="visuallyHidden"></label>
-                <input name="searchbar" id="search" type="text" placeholder="搜尋" value="">
-                <button id="search-site" type="submit" class="btn-search"></button>
-				<script>
+            <div class="m-header__menu-pc">
+                                                    <p class="m-header__link">
+                        FUJIFILM BI Direct
+<a href="https://direct-fb.fujifilm.com/ap2/top" class="m-header__link-text" >                            <img src="/fbhk/ffassets/Fujifilm/images/icons/external-green.png" alt="" width="18" height="18" class="m-header__link-text-icon">
+</a>                    </p>
+                                    <p class="m-header__link">
+                        網上訂購
+<a href="https://onlineshop-fbhk.fujifilm.com/order/index.php?lang=tc" class="m-header__link-text" rel="noopener noreferrer" target="_blank" >                            <img src="/fbhk/ffassets/Fujifilm/images/icons/external-green.png" alt="" width="18" height="18" class="m-header__link-text-icon">
+</a>                    </p>
+                                                    <p class="m-header__link">
+                        我的賬戶
+<a href="https://ebilling-fbhk.fujifilm.com/chi/BillingUsers/login" class="m-header__link-text" rel="noopener noreferrer" target="_blank" >                            <img src="/fbhk/ffassets/Fujifilm/images/icons/external-green.png" alt="" width="18" height="18" class="m-header__link-text-icon">
+</a>                    </p>
+                <script>
     function showData(event) {
         window.location.href = event;
     }
@@ -174,35 +211,101 @@ function myFunction(event) {
 
 
     <div class="m-global-header__langs">
-        <label>
-            Language:
-            <select name="language-selecter" onchange="showData(this.value)" tabindex="20">
-                        <option  value="/fbhk/en/insights/article/ai-human-collaboration-empowers-hong-kongs-smart-workstyle">English</option>
-                        <option selected value="/fbhk/zh-hk/insights/article/ai-human-collaboration-empowers-hong-kongs-smart-workstyle">繁體字</option>
+        <select name="language-selecter" onchange="showData(this.value)" tabindex="20">
+                    <option  value="/fbhk/en/insights/article/ai-human-collaboration-empowers-hong-kongs-smart-workstyle">English</option>
+                    <option selected value="/fbhk/zh-hk/insights/article/ai-human-collaboration-empowers-hong-kongs-smart-workstyle">繁體字</option>
 
-            </select>
-        </label>
+        </select>
     </div>
 
 
-            </form>
+                <div class="m-header__search">
+                    <a class="m-header__search-btn search_icon_header js-header-dialog" href="#search-dialog">
+                        <svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" class="m-header__search-icon">
+                            <title>Search</title>
+                            <path d="M24.3624 25.9387L18.1005 19.6768C13.754 23.241 7.3145 22.9929 3.24237 18.9179C-1.08079 14.5976 -1.08079 7.58014 3.24238 3.24238C7.58014 -1.08079 14.5976 -1.08079 18.9179 3.24238C22.9929 7.3145 23.241 13.754 19.6768 18.1005L25.9387 24.3624C26.0204 24.4558 26.0204 24.6047 25.9387 24.6835L24.6835 25.9387C24.6047 26.0204 24.4558 26.0204 24.3624 25.9387ZM17.3708 17.3708C20.8357 13.9029 20.8357 8.28656 17.3708 4.81868C13.9029 1.35373 8.28656 1.35373 4.81868 4.81868C1.35373 8.28656 1.35373 13.9029 4.81868 17.3708C8.28656 20.8357 13.9029 20.8357 17.3708 17.3708Z" fill="black" />
+                        </svg>
+                    </a>
 
-            <button class="btn-nav-menu">
-                <span>Menu</span>
-            </button>
-            <div class="top-nav">
-                <ul>
-                    
-                                                                <li><a href="https://direct-fb.fujifilm.com/ap2/top" >FUJIFILM BI Direct</a></li>
-                                            <li><a href="https://onlineshop-fbhk.fujifilm.com/order/index.php?lang=tc" target="_blank" rel="noopener noreferrer" >網上訂購</a></li>
-                                                                <li><a href="https://ebilling-fbhk.fujifilm.com/chi/BillingUsers/login" target="_blank" rel="noopener noreferrer" >我的賬戶</a></li>
-                </ul>
+                    <dialog class="m-header__search-dialog" id="search-dialog" open>
+                        <div class="m-header__search-dialog-inner">
+                            <div class="m-header__search-pc">
+                                <form onsubmit="myFunctionPC(event)" name="SS_searchForm" class="m-header__search" id="search" method="post" role="search" aria-expanded="true" accept-charset="UTF-8" enctype="application/x-www-form-urlencoded">
+                                    <input type="hidden" name="site" value="PDSKNZZA">
+                                    <input type="hidden" name="charset" value="UTF-8">
+                                    <input type="hidden" name="ie" value="UTF-8">
+                                    <input type="hidden" name="page" value="1">
+                                    <input type="hidden" name="x-page-medical-flag">
+                                    <input type="text" name="q" value="" class="m-header__search-input" id="search-pc" placeholder="Search" title="Search" autocomplete="off">
+                                    <button class="m-header__search-button search_icon_header" id="SS_searchSubmit">
+                                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <title>Search</title>
+                                            <path d="M22.3624 23.9387L18.1005 19.6768C13.754 23.241 7.3145 22.9929 3.24237 18.9179C-1.08079 14.5976 -1.08079 7.58014 3.24238 3.24238C7.58014 -1.08079 14.5976 -1.08079 18.9179 3.24238C22.9929 7.3145 23.241 13.754 19.6768 18.1005L23.9387 22.3624C24.0204 22.4558 24.0204 22.6047 23.9387 22.6835L22.6835 23.9387C22.6047 24.0204 22.4558 24.0204 22.3624 23.9387ZM17.3708 17.3708C20.8357 13.9029 20.8357 8.28656 17.3708 4.81868C13.9029 1.35373 8.28656 1.35373 4.81868 4.81868C1.35373 8.28656 1.35373 13.9029 4.81868 17.3708C8.28656 20.8357 13.9029 20.8357 17.3708 17.3708Z" fill="black" />
+                                        </svg>
+                                    </button>
+                                    <script type="text/javascript">
+                                        SYNCSEARCH_SITE = "PDSKNZZA";
+                                        SYNCSEARCH_GROUP = 1;
+                                    </script>
+                                    <ul id="SS_suggest" class="SS_suggest" classname="SS_suggest" style="display: none;"></ul>
+                                </form>
+                            </div>
+                        </div>
+                    </dialog>
+                    <!-- /.m-header__search -->
+                </div>
             </div>
-            <button class="btn-mobile-search" type="button"><span>搜尋</span></button>
+            <button class="m-header__btn js-hamburger-menu-trigger" type="button">
+                <span class="m-header__btn-txt">Menu</span>
+            </button>
+            <!--/.m-header__head-inner-->
         </div>
+        <!--/.m-header__head-->
     </div>
-    <div class="site-header__wrapper_nav container">
-        
+    <div class="m-header__body js-hamburger-menu-content " style="height: 0px">
+        <div class="m-header__body-inner ">
+            <div class="m-header__search-sp">
+                <form onsubmit="myFunctionSP(event)" name="SS_searchForm" class="m-header__search search-bar open" id="search" method="post" role="search" aria-expanded="true" accept-charset="UTF-8" enctype="application/x-www-form-urlencoded">
+                    <input type="hidden" name="site" value="PDSKNZZA">
+                    <input type="hidden" name="charset" value="UTF-8">
+                    <input type="hidden" name="ie" value="UTF-8">
+                    <input type="hidden" name="page" value="1">
+                    <input type="hidden" name="x-page-medical-flag">
+                    <input type="text" name="q" value="" class="m-header__search-input" id="search-sp" placeholder="搜尋" title="Search" autocomplete="off">
+                    <button class="m-header__search-button btn-search" id="search-site" type="submit">
+                    </button>
+                    <script type="text/javascript">
+                        SYNCSEARCH_SITE = "PDSKNZZA";
+                        SYNCSEARCH_GROUP = 1;
+                    </script>
+                    <ul id="SS_suggest2" class="SS_suggest" classname="SS_suggest" style="display: none;"></ul>
+                    <div class="mobile-selector">
+                        <script>
+    function showData(event) {
+        window.location.href = event;
+    }
+</script>
+
+
+
+    <div class="m-global-header__langs">
+        <select name="language-selecter" onchange="showData(this.value)" tabindex="20">
+                    <option  value="/fbhk/en/insights/article/ai-human-collaboration-empowers-hong-kongs-smart-workstyle">English</option>
+                    <option selected value="/fbhk/zh-hk/insights/article/ai-human-collaboration-empowers-hong-kongs-smart-workstyle">繁體字</option>
+
+        </select>
+    </div>
+
+
+                    </div>
+                </form>
+                <!--/.m-header__search-sp-->
+
+            </div>
+
+            <nav class="m-global-menu js-global-menu-root ">
+                <div class="m-global-menu__inner">
+                    
 
 
 
@@ -213,23 +316,26 @@ function myFunction(event) {
     <!-- Main Navigation -->
     <div class="main-nav">
         <!-- Main Navigation Menu -->
-        <ul class="main nav-level1">
-            <li class="logo-fix desktop-only">
-                <a href="/">
-                    <img src="/fbhk/-/media/fujifilm_corporate_logo.svg" alt="">
-                </a>
-            </li>
+        <ul class="m-global-menu__list js-sub-menu-root main nav-level1">
+            <!--  <li class="logo-fix desktop-only">
+                  <a href="/">
+                      <img src="/fbhk/-/media/fujifilm_corporate_logo.svg" alt="">
+                  </a>
+              </li> -->
 
-      
-    <li class="has-children">
-        <a href="/fbhk/zh-hk/solutions-and-services">解決方案與服務<div class="separator"></div></a>
-        <div class="megamenu">
-            <div class="container">
-                <button class="handheld-only" type="button">解決方案與服務</button>
+
+    <li class="has-children m-global-menu__item js-global-menu-item typesquare_option">
+        <a class="m-global-menu__link js-global-menu-trigger typesquare_option" href="/fbhk/zh-hk/solutions-and-services">解決方案與服務<div class="separator"></div></a>
+        <div class="megamenu m-global-menu__contents js-global-menu-contents typesquare_option">
+            <div class="container m-global-menu__contents-inner typesquare_option">
+                <button class="m-global-menu__top-link-txt handheld-only" type="button">解決方案與服務</button>
+                <!-- <p class="m-global-menu__top-link typesquare_option">
+                    <a href="/fbhk/zh-hk/solutions-and-services" class="m-global-menu__top-link-txt typesquare_option handheld-only">解決方案與服務</a>
+                </p> -->
                 <div class="megamenu__title"><a href="/fbhk/zh-hk/solutions-and-services">解決方案與服務</a></div>
 
                 <div class="megamenu__nav">
-                            <div class="column col-sm-4">
+                            <div class="column col-sm-4 mobile-level3-col">
                                 <div class="nav-level2">
                                     <div class="nav-level2__link">
                                         <a href="https://product-fbhk.fujifilm.com/SmartWorkstyle/tc/">智‧型辦公</a>
@@ -242,7 +348,7 @@ function myFunction(event) {
                                         </ul>
                                 </div>
                             </div>
-                            <div class="column col-sm-4">
+                            <div class="column col-sm-4 mobile-level3-col">
                                 <div class="nav-level2">
                                     <div class="nav-level2__link">
                                         <a href="/fbhk/zh-hk/solutions-and-services/outsourcing-service">富士膠片商業創新全球服務</a>
@@ -285,7 +391,7 @@ function myFunction(event) {
                                         </ul>
                                 </div>
                             </div>
-                            <div class="column col-sm-4">
+                            <div class="column col-sm-4 mobile-level3-col">
                                 <div class="nav-level2">
                                     <div class="nav-level2__link">
                                         <a href="/fbhk/zh-hk/solutions-and-services/industry-solutions">各行各業的解決方案</a>
@@ -304,7 +410,7 @@ function myFunction(event) {
                                         </ul>
                                 </div>
                             </div>
-                            <div class="column col-sm-4">
+                            <div class="column col-sm-4 mobile-level3-col">
                                 <div class="nav-level2">
                                     <div class="nav-level2__link">
                                         <a href="/fbhk/zh-hk/solutions-and-services/small-and-medium-business-solutions">中小企業解決方案</a>
@@ -332,7 +438,7 @@ function myFunction(event) {
                                         </ul>
                                 </div>
                             </div>
-                            <div class="column col-sm-4">
+                            <div class="column col-sm-4 mobile-level3-col">
                                 <div class="nav-level2">
                                     <div class="nav-level2__link">
                                         <a href="/fbhk/zh-hk/solutions-and-services/intelligent-process-automation">業務流程自動化方案</a>
@@ -354,7 +460,7 @@ function myFunction(event) {
                                         </ul>
                                 </div>
                             </div>
-                            <div class="column col-sm-4">
+                            <div class="column col-sm-4 mobile-level3-col">
                                 <div class="nav-level2">
                                     <div class="nav-level2__link">
                                         <a href="/fbhk/zh-hk/solutions-and-services/security-solutions">Security Solutions</a>
@@ -370,7 +476,7 @@ function myFunction(event) {
                                         </ul>
                                 </div>
                             </div>
-                            <div class="column col-sm-4">
+                            <div class="column col-sm-4 mobile-level3-col">
                                 <div class="nav-level2">
                                     <div class="nav-level2__link">
                                         <a href="/fbhk/zh-hk/solutions-and-services/it-and-cloud-solutions">IT 和雲端解決方案</a>
@@ -378,7 +484,7 @@ function myFunction(event) {
 
                                 </div>
                             </div>
-                            <div class="column col-sm-4">
+                            <div class="column col-sm-4 mobile-level3-col">
                                 <div class="nav-level2">
                                     <div class="nav-level2__link">
                                         <a href="/fbhk/zh-hk/solutions-and-services/cost-control-solutions">成本控制解決方案</a>
@@ -404,16 +510,19 @@ function myFunction(event) {
             </div>
         </div>
     </li>
-    <li class="has-children">
-        <a href="/fbhk/zh-hk/products">產品介紹<div class="separator"></div></a>
-        <div class="megamenu megamenu__products">
-            <div class="container">
-                <button class="handheld-only" type="button">產品介紹</button>
+    <li class="has-children m-global-menu__item js-global-menu-item typesquare_option">
+        <a class="m-global-menu__link js-global-menu-trigger typesquare_option" href="/fbhk/zh-hk/products">產品介紹<div class="separator"></div></a>
+        <div class="megamenu m-global-menu__contents js-global-menu-contents typesquare_option megamenu__products">
+            <div class="container m-global-menu__contents-inner typesquare_option">
+                <button class="m-global-menu__top-link-txt handheld-only" type="button">產品介紹</button>
+                <!-- <p class="m-global-menu__top-link typesquare_option">
+                     <a href="/fbhk/zh-hk/products" class="m-global-menu__top-link-txt typesquare_option handheld-only">產品介紹</a>
+                 </p> -->
                 <div class="megamenu__title">
                     <a href="/fbhk/zh-hk/products">產品介紹</a>
                 </div>
-                <div class="megamenu__nav">
-                    <div class="column col-sm-6">
+                <div class="megamenu__nav product-nav">
+                    <div class="column col-sm-6 mobile-col">
                         <div class="nav-level2">
                             <div class="nav-level2__link">
                                 <span>產品</span>
@@ -465,11 +574,14 @@ function myFunction(event) {
             </div>
         </div>
     </li>
-    <li class="has-children">
-        <a href="/fbhk/zh-hk/services">服務<div class="separator"></div></a>
-        <div class="megamenu">
-            <div class="container">
-                <button class="handheld-only" type="button">服務</button>
+    <li class="has-children m-global-menu__item js-global-menu-item typesquare_option">
+        <a class="m-global-menu__link js-global-menu-trigger typesquare_option" href="/fbhk/zh-hk/services">服務<div class="separator"></div></a>
+        <div class="megamenu m-global-menu__contents js-global-menu-contents typesquare_option">
+            <div class="container m-global-menu__contents-inner typesquare_option">
+                <button class="m-global-menu__top-link-txt handheld-only" type="button">服務</button>
+                <!-- <p class="m-global-menu__top-link typesquare_option">
+                     <a  class="m-global-menu__top-link-txt typesquare_option handheld-only">服務</a>
+                 </p>  -->
                 <div class="megamenu__title"><a href="/fbhk/zh-hk/services">服務</a></div>
 
                 <div class="megamenu__nav">
@@ -494,11 +606,14 @@ function myFunction(event) {
             </div>
         </div>
     </li>
-    <li class="has-children">
-        <a href="https://support-fb.fujifilm.com/setupSupport.do?cid=4&amp;ctry_code=HK&amp;lang_code=zh_TW">支援與驅動程式<div class="separator"></div></a>
-        <div class="megamenu">
-            <div class="container">
-                <button class="handheld-only" type="button">支援與驅動程式</button>
+    <li class="has-children m-global-menu__item js-global-menu-item typesquare_option">
+        <a class="m-global-menu__link js-global-menu-trigger typesquare_option" href="https://support-fb.fujifilm.com/setupSupport.do?cid=4&amp;ctry_code=HK&amp;lang_code=zh_TW">支援與驅動程式<div class="separator"></div></a>
+        <div class="megamenu m-global-menu__contents js-global-menu-contents typesquare_option">
+            <div class="container m-global-menu__contents-inner typesquare_option">
+                <button class="m-global-menu__top-link-txt handheld-only" type="button">支援與驅動程式</button>
+                <!-- <p class="m-global-menu__top-link typesquare_option">
+                     <a  class="m-global-menu__top-link-txt typesquare_option handheld-only">支援與驅動程式</a>
+                 </p>  -->
                 <div class="megamenu__title"><a href="https://support-fb.fujifilm.com/setupSupport.do?cid=4&amp;ctry_code=HK&amp;lang_code=zh_TW">支援與驅動程式</a></div>
 
                 <div class="megamenu__nav">
@@ -520,11 +635,14 @@ function myFunction(event) {
             </div>
         </div>
     </li>
-    <li class="has-children">
-        <a href="/fbhk/zh-hk/sustainability">可持續發展<div class="separator"></div></a>
-        <div class="megamenu">
-            <div class="container">
-                <button class="handheld-only" type="button">可持續發展</button>
+    <li class="has-children m-global-menu__item js-global-menu-item typesquare_option">
+        <a class="m-global-menu__link js-global-menu-trigger typesquare_option" href="/fbhk/zh-hk/sustainability">可持續發展<div class="separator"></div></a>
+        <div class="megamenu m-global-menu__contents js-global-menu-contents typesquare_option">
+            <div class="container m-global-menu__contents-inner typesquare_option">
+                <button class="m-global-menu__top-link-txt handheld-only" type="button">可持續發展</button>
+                <!-- <p class="m-global-menu__top-link typesquare_option">
+                     <a  class="m-global-menu__top-link-txt typesquare_option handheld-only">可持續發展</a>
+                 </p>  -->
                 <div class="megamenu__title"><a href="/fbhk/zh-hk/sustainability">可持續發展</a></div>
 
                 <div class="megamenu__nav">
@@ -552,11 +670,14 @@ function myFunction(event) {
             </div>
         </div>
     </li>
-    <li class="has-children">
-        <a href="/fbhk/zh-hk/company">關於我們<div class="separator"></div></a>
-        <div class="megamenu">
-            <div class="container">
-                <button class="handheld-only" type="button">關於我們</button>
+    <li class="has-children m-global-menu__item js-global-menu-item typesquare_option">
+        <a class="m-global-menu__link js-global-menu-trigger typesquare_option" href="/fbhk/zh-hk/company">關於我們<div class="separator"></div></a>
+        <div class="megamenu m-global-menu__contents js-global-menu-contents typesquare_option">
+            <div class="container m-global-menu__contents-inner typesquare_option">
+                <button class="m-global-menu__top-link-txt handheld-only" type="button">關於我們</button>
+                <!-- <p class="m-global-menu__top-link typesquare_option">
+                     <a  class="m-global-menu__top-link-txt typesquare_option handheld-only">關於我們</a>
+                 </p>  -->
                 <div class="megamenu__title"><a href="/fbhk/zh-hk/company">關於我們</a></div>
 
                 <div class="megamenu__nav">
@@ -599,11 +720,14 @@ function myFunction(event) {
             </div>
         </div>
     </li>
-    <li class="has-children">
-        <a href="/fbhk/zh-hk/insights">營商匯智<div class="separator"></div></a>
-        <div class="megamenu">
-            <div class="container">
-                <button class="handheld-only" type="button">營商匯智</button>
+    <li class="has-children m-global-menu__item js-global-menu-item typesquare_option">
+        <a class="m-global-menu__link js-global-menu-trigger typesquare_option" href="/fbhk/zh-hk/insights">營商匯智<div class="separator"></div></a>
+        <div class="megamenu m-global-menu__contents js-global-menu-contents typesquare_option">
+            <div class="container m-global-menu__contents-inner typesquare_option">
+                <button class="m-global-menu__top-link-txt handheld-only" type="button">營商匯智</button>
+                <!-- <p class="m-global-menu__top-link typesquare_option">
+                     <a  class="m-global-menu__top-link-txt typesquare_option handheld-only">營商匯智</a>
+                 </p>  -->
                 <div class="megamenu__title"><a href="/fbhk/zh-hk/insights">營商匯智</a></div>
 
                 <div class="megamenu__nav">
@@ -612,11 +736,14 @@ function myFunction(event) {
             </div>
         </div>
     </li>
-    <li class="has-children">
-        <a href="/fbhk/zh-hk/contact">聯絡我們<div class="separator"></div></a>
-        <div class="megamenu">
-            <div class="container">
-                <button class="handheld-only" type="button">聯絡我們</button>
+    <li class="has-children m-global-menu__item js-global-menu-item typesquare_option">
+        <a class="m-global-menu__link js-global-menu-trigger typesquare_option" href="/fbhk/zh-hk/contact">聯絡我們<div class="separator"></div></a>
+        <div class="megamenu m-global-menu__contents js-global-menu-contents typesquare_option">
+            <div class="container m-global-menu__contents-inner typesquare_option">
+                <button class="m-global-menu__top-link-txt handheld-only" type="button">聯絡我們</button>
+                <!-- <p class="m-global-menu__top-link typesquare_option">
+                     <a  class="m-global-menu__top-link-txt typesquare_option handheld-only">聯絡我們</a>
+                 </p>  -->
                 <div class="megamenu__title"><a href="/fbhk/zh-hk/contact">聯絡我們</a></div>
 
                 <div class="megamenu__nav">
@@ -689,11 +816,14 @@ function myFunction(event) {
         </ul>
 
         <!-- End: Main Navigation Menu -->
-            <ul class="share-contact has-children">
-                <li class="small-nav">
-                    <a href="/fbhk/zh-hk/contact/enquiry">查詢</a>
+            <ul class="share-contact">
+                <li class="small-nav has-children m-global-menu__item js-global-menu-item typesquare_option">
+                    <a href="/fbhk/zh-hk/contact/enquiry" class="m-global-menu__link js-global-menu-trigger typesquare_option">查詢</a>
                 </li>
             </ul>
+            <!--	<p class="m-global-menu__item typesquare_option share-contact has-children">
+                    <a class="m-global-menu__link typesquare_option" href="/fbhk/zh-hk/contact/enquiry">查詢</a>
+                </p> -->
                     <ul class="share-header-menu top-nav-mobile">
 
                                                     <li><a href="https://direct-fb.fujifilm.com/ap2/top" >FUJIFILM BI Direct</a></li>
@@ -704,54 +834,55 @@ function myFunction(event) {
     </div>
     <!-- End: Main Navigation -->
 
+                </div>
+            </nav>
+            <!-- <div class="m-header__menu-sp">
+                <div class="m-header__select"> <select class="m-header__select-inner">
+                        <option>Japanese</option>
+                        <option>English</option>
+                    </select></div>
+                <p class="m-header__link"> </p>
+            </div>  -->
+        </div>
     </div>
-
 </header>
 
-    <div class="main-content layout-article">
+    <div class="main-content">
     
 <!-- Breadcrumb -->
-<div class="breadcrumb">
-	<ul>
-		<li><a href="/fbhk/zh-hk/">主頁</a></li>
-			<li><a href="/fbhk/zh-hk/insights"><span>營商匯智</span></a></li>
-		<li><span>人工智能與人類攜手 完善香港智能辦公模式</span></li>
-	</ul>
+<div class="m-breadcrumb m-breadcrumb--forHeader">
+    <ul class="m-breadcrumb__body">
+        <li><a href="/fbhk/zh-hk/">主頁</a></li>
+            <li><a class="m-breadcrumb__item" href="/fbhk/zh-hk/insights"><span>營商匯智</span></a></li>
+        <li class="-active"><span class="m-breadcrumb__item">人工智能與人類攜手 完善香港智能辦公模式</span></li>
+    </ul>
 </div>
 <!-- End: Breadcrumb -->
-
     <div class="top-banner">
         
-    <div class="hero-banner dark-blur">
-        <div>
-                <div class="col">
-                                                <h1 class="hdg-title">人工智能與人類攜手 完善香港智能辦公模式</h1>
 
-                    <div class="detail">
-                        <p> </p>
-                        
+        <div class="hero-banner dark-blur">
+            <div>
+                    <div class="col">
+                                                        <h1 class="hdg-title">人工智能與人類攜手 完善香港智能辦公模式</h1>
+
+                        <div class="detail">
+                            <p> </p>
+                            
+                        </div>
                     </div>
-                </div>
-                            <div class="background">
-                    <img src="/fbhk/-/media/fbhk/5,-d-,-company/5,-d-,5-newsletter/2022/oct/gettyimages-1146418696_m.jpg?h=544&amp;w=1000&amp;la=zh-HK&amp;hash=054F916EE91043380AE4B055CEEEBB06" alt="banner" />
-                </div>
+                                    <div class="background">
+                        <img src="/fbhk/-/media/fbhk/5,-d-,-company/5,-d-,5-newsletter/2022/oct/gettyimages-1146418696_m.jpg?h=544&amp;w=1000&amp;la=zh-HK&amp;hash=054F916EE91043380AE4B055CEEEBB06" alt="banner" />
+                    </div>
+            </div>
         </div>
-    </div>
 
     </div>
 
-    <aside class="layout-side layout-side--left article-aside">
-        <div class="social-aside">
+    <div class="l-components">
+        <div class="l-col-2 l-container container-wrapper">
+            <div class="l-main left-container">
                 
-
-
-
-
-        </div>
-    </aside>
-
-    <article class="layout-main">
-        
 
 <section class="section">
     <h2>人工智能與人類攜手 完善香港智能辦公模式&nbsp;</h2>
@@ -810,10 +941,9 @@ function myFunction(event) {
 
 </section>
 
-    </article>
-
-    <aside class="layout-side">
-        
+            </div>
+            <div class="l-side right-container right-container-wrapper">
+                
     <div class="aside">
         <h3><a href="/fbhk/zh-hk/insights">營商匯智</a></h3>
         <ul>
@@ -822,9 +952,12 @@ function myFunction(event) {
 
     </div>
 
-        
-    </aside>
-    
+                
+            </div>
+        </div>
+    </div>
+
+
 </div>
 <div class="layout-bottom">
     <section class="section">
@@ -833,207 +966,189 @@ function myFunction(event) {
     </section>
 </div>
 
+<script type="application/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 
-    
-<footer class="m-global-footer__wrap">
-    <div class="l-container">
-        <div class="m-container">
+<script>
 
-            <div class="bg-black m-paragraph">
-                <div class="m-paragraph__body">
-                    <p class="text-center">
-                        <small>
-                        </small>
-                    </p>
-                </div>
-            </div>
+    var rightContainer = document.querySelector(".right-container");
+    var childContainer = document.querySelector(".aside");
+    var childElementsExist = rightContainer.contains(childContainer);
+    var topicContainer = document.querySelector(".topics");
 
-            <div class="m-footer-links">
-                    <p class="m-footer-links__title">FUJIFILM Group</p>
-                <div class="m-column">
-                    <div class="m-column__body">
-                        <ul class="row">
-                                <li class="col col-xs-6 col-sm-3 col-md-3 pl-0">
-                                    <a class="m-footer-links__link" href="https://www.fujifilm.com/fbglobal/eng"
-                                       target="_blank">
-                                        <img src="/fbhk/-/media/footer-banner/bnr_fh_en_01-1.png?h=150&amp;w=600&amp;la=zh-HK&amp;hash=92172C921C7AE4183BE4904DA81D587C" alt="Fujifilm" />
-                                        <p class="m-footer-links__label">富士膠片股份有限公司</p>
-                                    </a>
-                                </li>
-
-                        </ul>
-                    </div>
-                </div>
-            </div>
-
-            <div class="m-sns-links text-center m-sns-links--size-small">
-                        <a class="m-sns-links__item" href="https://www.facebook.com/FUJIFILMBIHongKong" target="_blank" rel="noopener"><img src="/fbhk/-/media/footer-banner/icn_facebook_footer.png?h=80&amp;w=80&amp;la=zh-HK&amp;hash=38CA8267042EE9D8DA487C44F84703CC" alt="Facebook" /></a>
-                                        <a class="m-sns-links__item" href="https://www.linkedin.com/company/fbhk" target="_blank" rel="noopener"> <img src="/fbhk/-/media/footer-banner/icn_linkedin_footer.png?h=80&amp;w=80&amp;la=zh-HK&amp;hash=BC31A0410ED63DED9AA096D19E8B83DB" alt="LinkedIn" /> </a>
-                                        <a class="m-sns-links__item" href="https://www.youtube.com/channel/UCEb1RsHSQT-DVMN_T2J3dbA" target="_blank" rel="noopener"><img src="/fbhk/-/media/footer-banner/icn_youtube_footer.png?h=80&amp;w=80&amp;la=zh-HK&amp;hash=B41394EE9600F9CCA0612147D80E16C0" alt="YouTube" /></a>
-                                                            </div>
-
-            <div class="m-footer-sitemap">
-    <div class="m-column js-disclosure-root" data-disclosure-mode="sp-only">
-        <div class="m-column__body">
-            <div class="row">
-                        <div class="col col-sm-3 col-md-3">
-                            <div class="m-footer-sitemap__category js-disclosure-item">
-                                <p class="m-footer-sitemap__head">
-
-<a href="/fbhk/zh-hk/solutions-and-services" class="js-disclosure-trigger" >解決方案</a>                                </p>
-                                <ul class="m-footer-sitemap__body js-disclosure-contents">
-                                                <li class="m-footer-sitemap__group">
-                                                    <p class="m-footer-sitemap__head">
-                                                    </p>
-                                                    <ul>
-                                                                <li>
-<a href="/fbhk/zh-hk/solutions-and-services/intelligent-process-automation" >業務流程自動化方案</a>                                                                </li>
-                                                                <li>
-<a href="/fbhk/zh-hk/solutions-and-services/industry-solutions" >各行各業的解決方案</a>                                                                </li>
-                                                                <li>
-<a href="/fbhk/zh-hk/solutions-and-services/office-solutions" >辦公室解決方案</a>                                                                </li>
-                                                    </ul>
-                                                </li>
-                                                <li class="m-footer-sitemap__group">
-                                                    <p class="m-footer-sitemap__head">
-<a href="/fbhk/zh-hk/services" >服務</a>                                                    </p>
-                                                    <ul>
-                                                    </ul>
-                                                </li>
-                                                <li class="m-footer-sitemap__group">
-                                                    <p class="m-footer-sitemap__head">
-<a href="https://support-fb.fujifilm.com/setupSupport.do?cid=4&amp;ctry_code=HK&amp;lang_code=zh_TW" >支援與驅動程式</a>                                                    </p>
-                                                    <ul>
-                                                    </ul>
-                                                </li>
-                                </ul>
-
-                            </div>
-                        </div>
-                        <div class="col col-sm-3 col-md-3">
-                            <div class="m-footer-sitemap__category js-disclosure-item">
-                                <p class="m-footer-sitemap__head">
-
-<a href="/fbhk/zh-hk/products" class="js-disclosure-trigger" >產品</a>                                </p>
-                                <ul class="m-footer-sitemap__body js-disclosure-contents">
-                                                <li class="m-footer-sitemap__group">
-                                                    <p class="m-footer-sitemap__head">
-                                                    </p>
-                                                    <ul>
-                                                                <li>
-<a href="/fbhk/zh-hk/products/hk-printers" >打印機</a>                                                                </li>
-                                                                <li>
-<a href="/fbhk/zh-hk/products/hk-multifunction-printers" >多功能影印機</a>                                                                </li>
-                                                                <li>
-<a href="/fbhk/zh-hk/products/hk-production-print" >生產型印刷</a>                                                                </li>
-                                                                <li>
-<a href="/fbhk/zh-hk/products/hk-software" >軟件</a>                                                                </li>
-                                                                <li>
-<a href="/fbhk/zh-hk/products/hk-wide-format" >大圖輸出設備</a>                                                                </li>
-                                                                <li>
-<a href="" >互動顯示屏</a>                                                                </li>
-                                                                <li>
-<a href="/fbhk/zh-hk/products/hk-supplies" >耗材</a>                                                                </li>
-                                                    </ul>
-                                                </li>
-                                </ul>
-
-                            </div>
-                        </div>
-                        <div class="col col-sm-3 col-md-3">
-                            <div class="m-footer-sitemap__category js-disclosure-item">
-                                <p class="m-footer-sitemap__head">
-
-<a href="/fbhk/zh-hk/company" class="js-disclosure-trigger" >關於我們</a>                                </p>
-                                <ul class="m-footer-sitemap__body js-disclosure-contents">
-                                                <li class="m-footer-sitemap__group">
-                                                    <p class="m-footer-sitemap__head">
-                                                    </p>
-                                                    <ul>
-                                                                <li>
-<a href="https://holdings.fujifilm.com/en" >關於富士膠片</a>                                                                </li>
-                                                                <li>
-<a href="/fbhk/zh-hk/sustainability" >可持續發展</a>                                                                </li>
-                                                                <li>
-<a href="/fbhk/zh-hk/company/about-fujifilm-business-innovation-hong-kong" >富士膠片商業創新香港</a>                                                                </li>
-                                                    </ul>
-                                                </li>
-                                </ul>
-
-                            </div>
-                        </div>
-                        <div class="col col-sm-3 col-md-3">
-                            <div class="m-footer-sitemap__category js-disclosure-item">
-                                <p class="m-footer-sitemap__head">
-
-<a href="/fbhk/zh-hk/contact" class="js-disclosure-trigger" >聯絡我們</a>                                </p>
-                                <ul class="m-footer-sitemap__body js-disclosure-contents">
-                                </ul>
-
-                            </div>
-                        </div>
-            </div>
-        </div>
-    </div>
-</div> 
-
-
-
-
-
-        </div>
-    </div>
-
-    <nav class="m-global-footer">
-        <div class="l-container">
-            <div class="m-global-footer__body">
-                <div class="m-global-footer__body__inner">
-                    <ul>
-                            <li class="m-global-footer__item">
-                                <a href="/fbhk/zh-hk/privacy-policy" class="m-global-footer__anchor" title="Privacy Policy" >個人資料(私隱)條例 - 私隱政策聲明</a>
-                            </li>
-
-                            <li class="m-global-footer__item">
-                                <a href="/fbhk/zh-hk/terms-of-use" class="m-global-footer__anchor" title="Terms of Use" >條款及細則/商標</a>
-                            </li>
-                                                    <li class="m-global-footer__item">
-                                <a href="/fbhk/zh-hk/social-media-policy" class="m-global-footer__anchor" >社交媒體政策</a>
-                            </li>
-                                                    <li class="m-global-footer__item">
-                                <a href="/fbhk/zh-hk/accessibility-statement" class="m-global-footer__anchor" >無障礙聲明</a>
-                            </li>
-                                                    <li class="m-global-footer__item">
-                                <a href="/fbhk/zh-hk/sitemap" class="m-global-footer__anchor" >網站地圖</a>
-                            </li>
-                    </ul>
-                    <div class="m-global-footer__lang" style="display:none">
-                        <script>
-    function showData(event) {
-        window.location.href = event;
+    var leftContainer = document.querySelector(".left-container");
+    if (!childElementsExist) {
+        leftContainer.style.width = '100%';
+        topicContainer.style.width = '65%';
     }
+
 </script>
 
 
+    
+<footer class="m-footer">
+    <div class="m-footer__inner">
 
-    <div class="m-global-header__langs">
-        <label>
-            Language:
-            <select name="language-selecter" onchange="showData(this.value)" tabindex="20">
-                        <option  value="/fbhk/en/insights/article/ai-human-collaboration-empowers-hong-kongs-smart-workstyle">English</option>
-                        <option selected value="/fbhk/zh-hk/insights/article/ai-human-collaboration-empowers-hong-kongs-smart-workstyle">繁體字</option>
-
-            </select>
-        </label>
-    </div>
-
-
-                    </div>
-                </div>
-                    <small class="m-global-footer__copyright"><span>&copy;&nbsp;富士膠片商業創新香港有限公司</span><br></small>
+        <div class="m-paragraph">
+            <div class="m-paragraph__body">
+                <p class="text-center">
+                    <small>
+                    </small>
+                </p>
             </div>
         </div>
-    </nav>
-</footer><!-- /footer -->
+
+        <div class="m-footer__nav">
+    <ul class="m-footer__nav-list">
+            <li class="m-footer__nav-item js-footer-dropdown-root">
+<a href="/fbhk/zh-hk/solutions-and-services" class="m-footer__nav-btn js-footer-dropdown-trigger" >解決方案</a>                <div class="m-footer__nav-content js-footer-dropdown-content">
+                                <p class="m-footer__nav-title">
+                                </p>
+                                <ul class="m-footer_nav-child-list">
+                                            <li class="m-footer_nav-child-item">
+<a href="/fbhk/zh-hk/solutions-and-services/intelligent-process-automation" >業務流程自動化方案</a>                                            </li>
+                                            <li class="m-footer_nav-child-item">
+<a href="/fbhk/zh-hk/solutions-and-services/industry-solutions" >各行各業的解決方案</a>                                            </li>
+                                            <li class="m-footer_nav-child-item">
+<a href="/fbhk/zh-hk/solutions-and-services/office-solutions" >辦公室解決方案</a>                                            </li>
+                                </ul>
+                                <p class="m-footer__nav-title">
+<a href="/fbhk/zh-hk/services" class="m-footer__nav-link-text" >服務</a>                                </p>
+                                <ul class="m-footer_nav-child-list">
+                                </ul>
+                                <p class="m-footer__nav-title">
+<a href="https://support-fb.fujifilm.com/setupSupport.do?cid=4&amp;ctry_code=HK&amp;lang_code=zh_TW" class="m-footer__nav-link-text" >支援與驅動程式</a>                                </p>
+                                <ul class="m-footer_nav-child-list">
+                                </ul>
+                </div>
+        </li>
+            <li class="m-footer__nav-item js-footer-dropdown-root">
+<a href="/fbhk/zh-hk/products" class="m-footer__nav-btn js-footer-dropdown-trigger" >產品</a>                <div class="m-footer__nav-content js-footer-dropdown-content">
+                                <p class="m-footer__nav-title">
+                                </p>
+                                <ul class="m-footer_nav-child-list">
+                                            <li class="m-footer_nav-child-item">
+<a href="/fbhk/zh-hk/products/hk-printers" >打印機</a>                                            </li>
+                                            <li class="m-footer_nav-child-item">
+<a href="/fbhk/zh-hk/products/hk-multifunction-printers" >多功能影印機</a>                                            </li>
+                                            <li class="m-footer_nav-child-item">
+<a href="/fbhk/zh-hk/products/hk-production-print" >生產型印刷</a>                                            </li>
+                                            <li class="m-footer_nav-child-item">
+<a href="/fbhk/zh-hk/products/hk-software" >軟件</a>                                            </li>
+                                            <li class="m-footer_nav-child-item">
+<a href="/fbhk/zh-hk/products/hk-wide-format" >大圖輸出設備</a>                                            </li>
+                                            <li class="m-footer_nav-child-item">
+<a href="" >互動顯示屏</a>                                            </li>
+                                            <li class="m-footer_nav-child-item">
+<a href="/fbhk/zh-hk/products/hk-supplies" >耗材</a>                                            </li>
+                                </ul>
+                </div>
+        </li>
+            <li class="m-footer__nav-item js-footer-dropdown-root">
+<a href="/fbhk/zh-hk/company" class="m-footer__nav-btn js-footer-dropdown-trigger" >關於我們</a>                <div class="m-footer__nav-content js-footer-dropdown-content">
+                                <p class="m-footer__nav-title">
+                                </p>
+                                <ul class="m-footer_nav-child-list">
+                                            <li class="m-footer_nav-child-item">
+<a href="https://holdings.fujifilm.com/en" >關於富士膠片</a>                                            </li>
+                                            <li class="m-footer_nav-child-item">
+<a href="/fbhk/zh-hk/sustainability" >可持續發展</a>                                            </li>
+                                            <li class="m-footer_nav-child-item">
+<a href="/fbhk/zh-hk/company/about-fujifilm-business-innovation-hong-kong" >富士膠片商業創新香港</a>                                            </li>
+                                </ul>
+                </div>
+        </li>
+            <li class="m-footer__nav-item js-footer-dropdown-root">
+<a href="/fbhk/zh-hk/contact" class="m-footer__nav-btn js-footer-dropdown-trigger" >聯絡我們</a>                <div class="m-footer__nav-content js-footer-dropdown-content">
+                </div>
+        </li>
+    </ul>
+    <!--/.m-footer__nav-->
+</div>
+
+
+        <ul class="m-footer__sns-list">
+
+                <li class="m-footer__sns-item">
+                    <a class="m-footer__sns-link" href="https://www.facebook.com/FUJIFILMBIHongKong" target="_blank"
+                       rel="noopener">
+                        <img src="/fbhk/-/media/footer-banner/new-footer-icon/icn_facebook_footer.png?h=48&amp;w=48&amp;la=zh-HK&amp;hash=C0AFA8C3085099EBC0590C0EAAC357C3" class="m-footer__sns-icon" alt="Facebook" />
+                    </a>
+                </li>
+
+
+                <li class="m-footer__sns-item">
+                    <a class="m-footer__sns-link" href="https://www.linkedin.com/company/fbhk" target="_blank"
+                       rel="noopener">
+                        <img src="/fbhk/-/media/footer-banner/new-footer-icon/icn_linkedin_footer.png?h=48&amp;w=48&amp;la=zh-HK&amp;hash=B4AE95D2A59530D56887C14EF11D9017" class="m-footer__sns-icon" alt="LinkedIn" />
+                    </a>
+                </li>
+
+
+                <li class="m-footer__sns-item">
+                    <a class="m-footer__sns-link" href="https://www.youtube.com/channel/UCEb1RsHSQT-DVMN_T2J3dbA" target="_blank"
+                       rel="noopener">
+                        <img src="/fbhk/-/media/footer-banner/new-footer-icon/icn_youtube_footer.png?h=48&amp;w=48&amp;la=zh-HK&amp;hash=0D8D49669A8EAF31964D729FAD6BE9F9" class="m-footer__sns-icon" alt="YouTube" />
+                    </a>
+                </li>
+
+
+
+
+
+
+
+        </ul>
+
+        <div class="m-footer__group">
+                <p class="m-footer__group-title"><b class="m-footer__group-title-text">Fujifilm Group</b></p>
+                            <ul class="m-footer__group-list">
+                    <li class="m-footer__group-item">
+                        <a href="https://www.fujifilm.com/fbglobal/eng" class="m-footer__group-link" target="_blank">富士膠片股份有限公司</a>
+                    </li>
+                </ul>
+            <!--/.m-footer__group-->
+        </div>
+        <div class="m-footer__other">
+                <div class="m-footer__other-head">
+                    <a href="/fbhk/zh-HK"><img src="/fbhk/-/media/footer-banner/new-footer-icon/bnr_fh_en_01-1-new.svg?h=50&amp;w=180&amp;la=zh-HK&amp;hash=6D3FED8C958C889378413353C452A511" class="m-footer__logo" width="180" height="50" alt="FUJIFILM BUSINESS INNOVATION" /></a>
+                    <!--/.m-footer__other-head-->
+                </div>
+            <div class="m-footer__other-body">
+                <div class="m-footer__other-body-top">
+                    <ul class="m-footer__other-links">
+                            <li class="m-footer__other-links-item">
+                                <a href="/fbhk/zh-hk/privacy-policy" class="m-footer__other-links-link" title="Privacy Policy" >個人資料(私隱)條例 - 私隱政策聲明</a>
+                            </li>
+
+                            <li class="m-footer__other-links-item">
+                                <a href="/fbhk/zh-hk/terms-of-use" class="m-footer__other-links-link" title="Terms of Use" >條款及細則/商標</a>
+                            </li>
+                                                    <li class="m-footer__other-links-item">
+                                <a href="/fbhk/zh-hk/social-media-policy" class="m-footer__other-links-link" >社交媒體政策</a>
+                            </li>
+                                                    <li class="m-footer__other-links-item">
+                                <a href="/fbhk/zh-hk/accessibility-statement" class="m-footer__other-links-link" >無障礙聲明</a>
+                            </li>
+                                                    <li class="m-footer__other-links-item">
+                                <a href="/fbhk/zh-hk/sitemap" class="m-footer__other-links-link" >網站地圖</a>
+                            </li>
+                    </ul>
+                    <!--/.m-footer__other-body-top-->
+                </div>
+                <div class="m-footer__body-bottom">
+                        <p class="m-footer__copyright">
+                            <small class="m-footer__copyright-text"><span>&copy;&nbsp;富士膠片商業創新香港有限公司</span><br></small>
+                        </p>
+                    <!--/.m-footer__body-bottom-->
+                </div>
+                <!--/.m-footer__other-body-->
+            </div>
+            <!--/.m-footer__other-head-->
+        </div>
+        <!--/."m-footer__other-->
+    </div>
+</footer>
+<!-- /footer -->
 <div id="back-to-top" data-text=""></div>
 <script id="collapsibleFormLabels" type="application/json">
     {
@@ -1054,8 +1169,12 @@ function myFunction(event) {
 <script src="/fbhk/ffassets/sitecore%20modules/Web/ExperienceForms/scripts/form.conditions.js"></script>
 <script src="/fbhk/ffassets/sitecore%20modules/Web/ExperienceForms/scripts/formsextensions.validate.js"></script>
 <script src="/fbhk/ffassets/fujifilm/js/fujifilm.min.js"></script>
-<script src="/fbhk/ffassets/fujifilm/js/typesquare.min.js?auto_load_font=true"></script>
+<script src="/fbhk/ffassets/fujifilm/js/typesquare.js?auto_load_font=true"></script>
+<script src="/fbhk/ffassets/fujifilm/js/init.js"></script>
+<script src="/fbhk/ffassets/fujifilm/js/local.js"></script>
+<script src="/fbhk/ffassets/fujifilm/js/run.js"></script>
 <script src="/fbhk/ffassets/fujifilm/js/run-fb.js"></script>
+
 
 
 
