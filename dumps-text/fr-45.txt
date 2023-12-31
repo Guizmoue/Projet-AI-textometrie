@@ -1,1296 +1,178 @@
-   #Commentaires pour "Demain, un ordinateur inspiré de notre cerveau?"
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-59MW7L4
 
-   Accéder à la navigation
+   (BUTTON)
 
-   Accueil
-   [gb.svg]
-   Se connecter
-   S'inscrire
-   ____________________ (Submit)
-   Thèmes
-     * Vivant
-     * Matière
-     * Numérique
-     * Sociétés
-     * Terre
-     * Univers
+   (BUTTON) Menu
+   Rechercher ____________________ (BUTTON)
+   Epaper/PDF Newsletters
 
-   Formats
-     * Articles
-     * Audios
-     * Diaporamas
-     * Dossiers
-     * Infographies
-     * Points de vue
+   logo letemps S'abonner Mon compte
+     * En continu
+     * Monde
+     * Suisse
+     * Économie
+     * Opinions
+     * Culture
+     * Société
+     * Sciences
+     * Sport
+     * Data
+     * Événements
      * Vidéos
-
-   CNRS Le Journal
-   Donner du sens à la science
-
-   [logofondation.svg]
-
-Suivre
-
-     * Twitter
-     * Facebook
-     * Google
-     * Dailymotion
-     * RSS
-
-     * Rechercher
-     * Se connecter
-     * S'inscrire
-     * Mon compte
-     * Nos blogs
-
-   English version Dossier spécial Covid-19
-     * Vivant
-     * Matière
-     * Sociétés
-     * Univers
-     * Terre
-     * Numérique
-     * Mes thèmes
-
-Personnalisez votre navigation
-       Sélectionnez vos mots clefs ou thématiques favorites et créez votre
-       rubrique personnalisée
-          + Créer un compte
-          + Se connecter
-       [ ] Stay
-     * Types
-          + Articles
-          + Audios
-          + Diaporamas
-          + Dossiers
-          + Infographies
-          + Points de vue
-          + Vidéos
-       [ ] Stay
-
-   CNRS Le Journal Haut de page Nos blogs
-   ____________________ (Submit)
-   Partager l'article
-
-Sections
-
-Vous êtes ici
-
-   Accueil / Articles / Demain, un ordinateur inspiré de notre cerveau?
-
-Demain, un ordinateur inspiré de notre cerveau?
-
-   Dossier
-   Paru le 13.01.2023
-   Les mystères du cerveau
-   Voir le dossier
-   Vidéo
-   Des mini-cerveaux pour comprendre les troubles du développement
-   Article
-   Dans le cerveau, ce sont les connexions qui commandent !
-   Article
-   « Il n’y a pas de santé sans santé mentale »
-   Article
-   Quand l’IA s’attaque à la sclérose en plaques
-   Vidéo
-   Les confidences de l’odorat
-   Vidéo
-   « Fake news » : qu’est-ce qui trompe notre cerveau ?
-   Article
-   Cécile Charrier, des synapses plein la tête
-   Article
-   Bricoler pour mieux parler!
-   Article
-   Ocytocine : du philtre d’amour au médicament
-   Article
-   Comment mémorise-t-on le temps qui s’écoule ?
-   Article
-   La peur mise à nu
-   Article
-   Nouveaux regards sur la dépression
-   Article
-   Comment l’optogénétique a en partie rendu la vue à un aveugle
-   Article
-   Comment le cerveau gère notre appétit
-   Article
-   Connecter le cerveau et la machine
-   Article
-   Dépression, TOC, Parkinson… Des ultrasons pour guérir le cerveau
-   Article
-   Le rôle des inégalités dans la prise en charge des AVC
-   Vidéo
-   Tête de bébé
-   Comment les bébés apprennent à parler
-   Article
-   Julie Grollier, chercheuse (bio)inspirée
-   Article
-   Comment améliorer l’attention des gardiens de but ?
-   Article
-   Un nouveau régime pour freiner Alzheimer?
-   Article
-   « La méditation agit directement sur notre stress »
-   Article
-   Décoder le langage interne du cerveau
-   Point de vue
-   Nos souvenirs, c'est du solide !
-   Point de vue
-   Les abeilles sont-elles aussi victimes de leur intelligence ?
-   Point de vue
-   Jusqu’où utiliser l’imagerie cérébrale en justice?
-   Article
-   Ce que l'on sait de la douleur
-   Article
-   Dans la tête des bébés
-   Article
-   Notre raison est-elle rationnelle?
-   Article
-   Les derniers mystères du sommeil
-   Point de vue
-   S'incarner dans un corps virtuel
-   Article
-   Craquer le code des odeurs
-   Article
-   Alzheimer : où en est la recherche?
-   Vidéo
-   Demain, tous créatifs ?
-   Point de vue
-   Perturbateur endocrinien, test du quotient intellectuel
-   Perturbateurs endocriniens: une menace pour notre QI
-   Article
-   CRISPR-Cas9: des ciseaux génétiques pour le cerveau
-   Audio
-   Maladies mentales : des approches innovantes
-   Article
-   La fabrique du souvenir
-   Article
-   Le monde de Dory
-   Dans la tête de Dory, le poisson amnésique
-   Point de vue
-   Cogitez si vous voulez, les décisions sont irrationnelles
-   Article
-   Homme dormant
-   Lever le voile sur les rêves
-   Article
-   Aux sources de la conscience
-   Aux sources de la conscience
-   Diaporama
-   Du neurone à la pensée
-   Vidéo
-   Brain TV: en direct du cerveau
-   Article
-   Brain concept
-   Cerveau : se partager pour mieux penser
-   Point de vue
-   Pourquoi dormons-nous ?
-   Article
-   Le numérique nous fait-il perdre la mémoire ?
-   Article
-   Image d'un hémisphère cérébral atteint d'Alzheimer et d'un hémisphère
-   sain.
-   Ces protéines folles qui minent notre cerveau
-   Article
-   Plateforme VolBrain
-   Les IRM cérébrales ont leur traducteur automatique
-   Article
-   Apprentissage de la lecture
-   L’inhibition, c’est bon pour la lecture
-   Article
-   L’art et l’archéologie, nouveaux horizons de l’IA
-   Article
-   Quand l’IA s’attaque à la sclérose en plaques
-   Article
-   Des logiciels experts en diagnostic médical
-   Article
-   Peut-on faire confiance à l'intelligence artificielle ?
-   Article
-   Athénan, une IA joueuse multi-championne
-   Article
-   L’IA traque le harcèlement en ligne
-   Article
-   Six scénarios d'un monde sans travail
-   Article
-   À l’usine, au bureau, tous remplacés par des robots?
-   Article
-   Une IA, juge de beauté des poissons tropicaux
-   Point de vue
-   Le robot, un «animal» comme les autres ?
-   Article
-   Des machines enfin intelligentes ?
-   Article
-   Voiture autonome
-   Des voitures autonomes sans frontières ?
-   Point de vue
-   Voitures autonomes: par quoi serez-vous choqués ?
-   Point de vue
-   Armes létales autonomes: de quoi parle-t-on?
-   Article
-   La justice à l’heure des algorithmes et du big data
-   Article
-   Les androïdes de la saga Alien sont-ils pour 2093 ?
-   Point de vue
-   Jeu de Go
-   Jeu de go : l’ordinateur plus fort que l’humain?
-   Point de vue
-   Traduire comme on joue au Go ?
-   Article
-   Les capteurs tissent leur toile
-   Article
-   Des solutions pour une eau plus propre
-   Diaporama
-   Microalgues: les coulisses d’une révolution
-   Point de vue
-   Quels procédés pour l’usine du futur?
-   Article
-   L’essor des circuits courts énergétiques
-   Point de vue
-   Énergie : les promesses de l'hydrogène
-   Article
-   L’épopée des eaux corses
-   Article
-   L’Internet des objets doit mieux s'alimenter
-   Article
-   Le bois, matériau de demain ?
-   Vidéo
-   Cartes électroniques dans centre de tri
-   Recycler nos déchets avec de l'eau à 500 degrés
-   Audio
-   Papillon Myrtil, "Maniola jurtina"
-   Restaurer le vivant par le vivant
-   Point de vue
-   Canopea, Solar Decathlon Europe 2012, smart-building
-   Le bâtiment intelligent, clé de la transition énergétique
-   Article
-   Greffe de végétaux.
-   Ingénieuse écologie
-   Article
-   ZAC Clichy Batignolles
-   Les défis de la ville durable
-   Vidéo
-   Algosolis
-   Microalgues, le futur or vert ?
-
-Vous êtes ici
-
-   Accueil / Articles / Demain, un ordinateur inspiré de notre cerveau?
-   1 commentaire
-   Numérique
-   Intelligence artificielle
-   ^-A ^+A
-     * Imprimer
-
-   article
-
-Demain, un ordinateur inspiré de notre cerveau?
-
-   12.01.2018, par
-   Hugo Leroux
-   S. TARASOV/FOTOLIA
-   Partager
-   Partager
-   Et si l’on réinventait l’ordinateur en s’inspirant des neurones du
-   cerveau humain ? Grâce à des composants électroniques bio-inspirés, les
-   chercheurs mettent en avant de nouveaux modèles pour booster les
-   applications en intelligence artificielle.
-
-   Un neurone artificiel capable de reconnaître des chiffres prononcés par
-   différentes personnes faisait l’objet d’une présentation très remarquée
-   en septembre 2017. À l’heure des assistants intelligents de type Google
-   Home et de la voiture autonome, pourquoi une performance aussi sommaire
-   fut-elle annoncée comme une première mondiale par la célèbre revue
-   Nature ?1 Parce que la révolution réside dans le composant lui-même :
-   un neurone électronique, cylindre de métal mille fois plus fin qu’un
-   cheveu et implémentable en circuit. Bref, un nano-neurone artificiel
-   « en dur », à la différence de ces fameux réseaux de neuronesFermerUn
-   réseau de neurones est un algorithme simulant numériquement le
-   fonctionnement d’un réseau d’unités de calcul, les neurones formels,
-   reliées entre elles par des connexions modifiables. Représentation
-   simplifiée des neurones biologiques, ces neurones formels sont en fait
-   des fonctions mathématiques qui, à partir des valeurs numériques reçues
-   en entrée (connexions entrantes), calculent une valeur numérique de
-   sortie (connexion sortante). virtuels qui, s’ils permettent
-   actuellement de spectaculaires applications en intelligence
-   artificielle (IA), désignent en réalité des fonctions mathématiques,
-   des algorithmes, purement numériques et impalpables.
-
-   « D’autres nano-neurones artificiels “en dur” avaient déjà été mis au
-   point, mais nous avons été les premiers à les faire fonctionner au sein
-   d’une application », explique Julie Grollier, qui a dirigé ces travaux
-   au sein de l’Unité mixte de physique CNRS-Thales2. Quelques mois plus
-   tôt, en avril, un autre composant bio-inspiré était dévoilé dans Nature
-   Communications3 par Vincent Garcia, chercheur au sein de la même unité,
-   et ses collègues. Cette fois, il s’agissait d’une synapseFermerZones de
-   contact entre les neurones. Elles se comportent comme des « boutons de
-   connexion » et assurent la transmission des informations entre les
-   cellules nerveuses. artificielle, inspirée de celles qui relient les
-   neurones du cerveau.
-
-   Ce cylindre de métal, mille fois plus fin qu’un cheveu, est le premier
-   neurone artificiel «en dur» à avoir fonctionné au sein d'une
-   application (vue en microscopie électronique à balayage). Ces travaux
-   ont été dirigé par Julie Grollier, de l’Unité mixte de physique
-   CNRS-Thales.
-
-   CNRS Le Journal (BUTTON)
-   Ce cylindre de métal, mille fois plus fin qu’un cheveu, est le premier
-   neurone artificiel «en dur» à avoir fonctionné au sein d'une
-   application (vue en microscopie électronique à balayage). Ces travaux
-   ont été dirigé par Julie Grollier, de l’Unité mixte de physique
-   CNRS-Thales.
-   Laboratoire Spintronics Research Center, AIST Tsukuba, Japon
-   Laboratoire Spintronics Research Center, AIST Tsukuba, Japon
-   Partager
-   Partager
-
-Une grosse économie d’énergie
-
-   À quoi bon cette nouvelle quincaillerie électronique alors que les
-   réseaux de neurones virtuels font déjà merveille en intelligence
-   artificielle (IA) ? Parce que ces derniers, redoutables pour classifier
-   de gigantesques masses de données, sont aussi effroyablement gourmands
-   en énergie… Un gaspillage lié à la structure même des machines sur
-   lesquelles ils turbinent.
-
-   « Les ordinateurs traditionnels sur lesquels on les fait tourner sont
-   fondés sur une architecture datant des années 1950 qui sépare la
-   mémoire et le “centre de calcul” en deux blocs bien distincts, explique
-   ainsi Damien Querlioz, chercheur au Centre de nanosciences et de
-   nanotechnologies4. Dès lors, un calcul, même simple, nécessite parfois
-   d’aller chercher des données stockées très loin à l’échelle de la
-   microélectronique. Or, les réseaux de neurones virtuels ont la
-   particularité d’effectuer des calculs, certes très simples, mais en
-   quantité massive et de manière parallèle avec souvent beaucoup de
-   redondances ». D’où, parfois, de terribles « embouteillages »
-   énergivores pour accéder à la mémoire… C’est ainsi que le programme
-   AlphaGo, l’IA de Google qui a récemment écrasé les plus grands
-   champions de go, consomme dix mille fois plus d’énergie qu’un humain à
-   la même table de jeu !
-
-   Le programme AlphaGo, qui a récemment écrasé les plus grands champions
-   de go, consomme dix mille fois plus d’énergie qu’un humain à la même
-   table de jeu !
-
-   « Grâce à ses circuits neurone-synapse, notre cerveau, lui, dispose
-   d’une mémoire (“stockée” dans les synapses) placée au plus proche du
-   “centre de calcul” (que symbolisent les neurones) », explique Damien
-   Querlioz. Cette architecture très distribuée s’avère extrêmement
-   efficace pour traiter en parallèle la myriade d’opérations simples que
-   nécessite la reconnaissance de sons ou d’images. En revanche, elle est
-   moins adaptée au calcul classique : « Pour les opérations arithmétiques
-   par exemple, qui font appel à moins de calculs, mais plus complexes, et
-   exécutés les uns après les autres, l’architecture bien centralisée des
-   ordinateurs traditionnels reste imbattable en précision », poursuit le
-   chercheur.
-
-   Si l’on parvient à construire des puces neuromorphiques, assemblage de
-   composants artificiels mimant neurones et synapses biologiques, elles
-   seront donc dédiées uniquement aux tâches d’IA où les excellents
-   quoique trop dispendieux réseaux de neurones actuels sont cantonnés
-   (reconnaissances de formes, de sons, etc.). Et l’éventuel ordinateur du
-   futur qui en abriterait garderait précieusement ses microprocesseurs
-   classiques. « En intégrant une puce neuromorphique, dédiée aux
-   algorithmes de type réseau de neurones courants en IA, sur chaque
-   processeur d’ordinateur ou de téléphone, on disposerait de processeurs
-   moins énergivores », confirme Vincent Garcia.
-
-   Les géants de l’électronique ne s’y sont pas trompés : IBM, Intel,
-   Qualcomm, tous développent leur propre puce neuromorphique. Leur
-   approche peut sembler timide : neurones et synapses artificiels y sont
-   construits à partir de transistors classiques en silicium. C’est
-   également le parti pris d’Alain Cappy, de l’Institut de recherche sur
-   les composants logiciels et matériels pour l’information et la
-   communication avancée5.
-
-   L’équipe d'Alain Cappy utilise des transistors pour fabriquer ses
-   neurones artificiels. Assemblés en circuit (à gauche), ceux-ci
-   répondent à une excitation synaptique par des potentiels d’action (à
-   droite, en vert) identiques à ceux obtenus avec des neurones
-   biologiques.
-
-   CNRS Le Journal (BUTTON)
-   L’équipe d'Alain Cappy utilise des transistors pour fabriquer ses
-   neurones artificiels. Assemblés en circuit (à gauche), ceux-ci
-   répondent à une excitation synaptique par des potentiels d’action (à
-   droite, en vert) identiques à ceux obtenus avec des neurones
-   biologiques.
-   A. CAPPY/ICIRCA-IEMN
-   A. CAPPY/ICIRCA-IEMN
-   Partager
-   Partager
-
-   « L’avantage de n’utiliser que des composants déjà existants est de
-   pouvoir fabriquer plus rapidement des puces efficientes et
-   industrialisables », commente le chercheur. Ce qui ne le dispense pas
-   de toute originalité : là où les neurones de silicium mis en œuvre par
-   les industriels nécessitent 20 à 30 transistors, l’équipe d’Alain Cappy
-   a délibérément privilégié un modèle plus simple et économe de 6
-   transistors seulement. Résultat : « Il consomme cent fois moins
-   d’énergie que les autres neurones artificiels du même type », se
-   félicite le chercheur. Il fait également le pari d’une intégration
-   totalement bio-inspirée : « L’idée est d’imiter le système yeux/cortex
-   cérébral qui analyse si rapidement et efficacement l’image. Nous
-   tentons ainsi d’intégrer ces neurones à la fois dans des capteurs
-   visuels inspirés de la rétine biologique, et dans des puces de
-   traitement agencées comme les colonnes de neurones de notre cortex
-   cérébral », poursuit Alain Cappy. Cette architecture très
-   interconnectée pourrait s’avérer performante pour l’implémentation de
-   réseaux de neurones bien plus complexes et performants que les
-   possibilités offertes par les solutions actuelles sous forme
-   logicielle.
-
-Une question de taille
-
-   La plupart des chercheurs misent cependant sur une approche plus
-   révolutionnaire pour fabriquer les composants bio-inspirés eux-mêmes.
-   « Les neurones construits avec des transistors classiques mesurent 100
-   micromètres de côté tandis que le nôtre mesure à peine 100 nanomètres
-   de diamètre : c’est mille fois plus petit », se réjouit Julie Grollier.
-   Or, la question de la taille se posera de manière aiguë quand on voudra
-   les assembler par millions et fabriquer des puces valables. Pour
-   construire leur nano-neurone, les chercheurs de l’Unité mixte de
-   physique CNRS-Thales ont choisi la spintronique, une discipline
-   utilisant le spinFermerCaractéristique microscopique et purement
-   quantique de l’électron, comparable à une aimantation. On peut ainsi se
-   représenter, de manière schématique, un électron comme un petit aimant
-   pouvant prendre seulement deux orientations : un spin « vers le haut »
-   ou un spin « vers le bas ». des électrons comme unité d’information
-   (alors que l’électronique utilise la charge électrique des électrons).
-
-   Les neurones construits avec des transistors classiques mesurent 100
-   micromètres de côté tandis que le nôtre mesure à peine 100 nanomètres
-   de diamètre : c’est mille fois plus petit.
-
-    Le nano-neurone consiste en un empilement de deux couches de métaux
-   ferromagnétiques prenant en sandwich une fine couche d’isolant
-   électrique. « Lorsqu’on le soumet à un courant continu, les électrons
-   passent à travers l’isolant par effet tunnelFermerPhénomène observé en
-   mécanique quantique (c’est-à-dire à l’échelle des atomes) qui permet à
-   une particule de traverser une barrière a priori infranchissable : elle
-   franchit une barrière de potentiel même si son énergie est inférieure à
-   l’énergie minimale requise. et leur spin fait tourner l’aimantation de
-   la couche supérieure. Cela produit en sortie des oscillations
-   électriques comparables aux signaux émis par les neurones de notre
-   cerveau », résume Julie Grollier.
-
-   Pour développer leur propre nano-neurone, l’équipe de Laurent Cario, de
-   l’Institut des matériaux Jean-Rouxel6, a de son côté misé sur les
-   isolants de MottFermerMatériau isolant du fait d’une forte interaction
-   répulsive entre électrons : il se produit alors une « localisation » de
-   ces derniers qui restent « accrochés » aux atomes constituant le réseau
-   cristallin. Le transport de charge n’étant plus possible, le solide
-   devient un isolant. Cet état quantique échappe à la théorie des bandes
-   qui néglige les interactions entre les électrons. Il fut découvert en
-   1949 par le Britannique Nevill Mott.. Ce matériau, dont le comportement
-   physique est exploré dans le cadre de mémoires de nouvelles
-   générations, pourrait constituer une alternative aux matériaux
-   spintroniques : « Notre neurone a fait l’objet d’un brevet déposé en
-   2014 et nous essayons maintenant d’en améliorer la miniaturisation afin
-   de faciliter son transfert industriel », précise Laurent Cario.
-
-Imiter la plasticité des neurones
-
-   Présentes dans le cerveau en nombre dix mille fois plus important que
-   les neurones, les synapses ont un rôle tout aussi capital. En
-   particulier, les chercheurs tentent de reproduire une caractéristique
-   de ces canaux interneurones : leur plasticité, c’est-à-dire leur
-   capacité à se renforcer ou se déprécier au fil du temps pour favoriser
-   le « câblage » entre les neurones utiles.
-
-   Vue d'artiste d’une synapse électronique : les petites sphères
-   représentent les électrons circulant à travers l’oxyde, par analogie
-   avec les neurotransmetteurs dans les synapses biologiques.
-
-   CNRS Le Journal (BUTTON)
-   Vue d'artiste d’une synapse électronique : les petites sphères
-   représentent les électrons circulant à travers l’oxyde, par analogie
-   avec les neurotransmetteurs dans les synapses biologiques.
-   Sören Boyn/CNRS-Thales
-   Sören Boyn/CNRS-Thales
-   Partager
-   Partager
-
-   Pour y parvenir, Vincent Garcia et son équipe ont choisi une couche
-   ultra-mince d’un matériau ferroélectrique que les électrons traversent
-   par effet tunnel : « Nous avons démontré que l’amplitude et la durée
-   des impulsions que reçoit la synapse artificielle provoquent une
-   variation de la résistance du matériau, donc de sa capacité à
-   transmettre le courant tunnel. Cette propriété est très similaire à la
-   plasticité des synapses biologiques », détaille le chercheur.
-
-
-   L’amplitude et la durée des impulsions que reçoit la synapse
-   artificielle provoquent une variation de la résistance du matériau.
-   Cette propriété est très similaire à la plasticité des synapses
-   biologiques.
-
-   « De nombreux matériaux peuvent, sur application de certaines gammes de
-   tensions, présenter ce type de propriétés de changement de
-   résistivité », remarque Vincent Derycke, chercheur au sein du
-   laboratoire Nimbe7. Oxydes de métal, matériaux spintroniques,
-   ferroélectriques…, la palette de candidats « exotiques » (c’est-à-dire
-   marginaux par rapport à ceux utilisés en microélectronique classique,
-   fondée sur le silicium) est en effet très large. « Toute la question
-   est : leurs changements de résistivité sont-ils exploitables pour bâtir
-   des circuits efficaces ? Jusqu’ici, aucun matériau idéal ne s’est
-   encore détaché ».
-
-   Avec son équipe, il s’est spécialisé dans une voie originale :
-   l’électronique organique, qui vise à traiter l’information au sein de
-   molécules (assemblages de quelques atomes seulement), et ainsi réduire
-   encore les consommations énergétiques. « C’est comme cela que
-   l’industrie a pu remplacer les LED par des équivalents organiques, les
-   OLED, dans de nouvelles générations d’écrans plats », explique le
-   chercheur. Ce dernier ne cache pas le côté exploratoire de cette piste
-   : « Mis à part les OLED, l’électronique organique, qui promettait au
-   début des années 2000 de révolutionner l’électronique, n’a pas tenu
-   toutes ses promesses et demeure un domaine de recherche principalement
-   fondamental. Si d’éventuels neurones ou synapses organiques, très
-   économes en énergie, deviennent réalité, ce ne sera pas avant cinq ou
-   dix ans ».
-
-Le défi des circuits intégrés
-
-   Malgré une multitude de matériaux proposés pour l’ingénierie
-   neuromorphique, tous les chercheurs butent pour l’instant sur le même
-   obstacle : le passage à l’échelle. « Un composant seul peut présenter
-   un comportement physique remarquable, mais ce bénéfice s’estompe
-   parfois lorsque l’on en intègre des milliers », commente Damien
-   Querlioz. Il suffit par exemple que la tension électrique arrivant à
-   l’entrée de chaque composant varie légèrement pour ruiner l’intérêt
-   d’une puce neuromorphique complexe. Or, « des milliers, voire des
-   centaines de milliers de composants à intégrer ensemble, c’est pourtant
-   le minimum si l’on veut mettre au point de premières applications
-   commerciales », poursuit le jeune chercheur, médaille de bronze du CNRS
-   en 2017 pour ses travaux sur ces futures architectures neuromorphiques.
-
-   Vue en microscopie électronique de memristors organiques mis au point
-   par l’équipe de Vincent Derycke. Le halo sombre (sur la partie zoomée,
-   en bas) montre l’extension du film organique greffé.
-
-   CNRS Le Journal (BUTTON)
-   Vue en microscopie électronique de memristors organiques mis au point
-   par l’équipe de Vincent Derycke. Le halo sombre (sur la partie zoomée,
-   en bas) montre l’extension du film organique greffé.
-   V.DERYCKE/CEA
-   V.DERYCKE/CEA
-   Partager
-   Partager
-
-
-   Le contrôle fin de la tension d’entrée donne encore du fil à retordre
-   aux chercheurs. C’est l’un des défis que se propose de relever l’équipe
-   de Sylvain Saighi au sein du Laboratoire de l’intégration du matériau
-   au système8. À partir de la synapse ferroélectrique de Vincent Garcia,
-   dite « memristorFermer contraction de « memory » et « resistor »», les
-   chercheurs tentent de construire un circuit de 1024 x 100 éléments. À
-   travers le projet européen Ulpec, impliquant notamment IBM, Bosch et la
-   société parisienne Chronocam, ce circuit devrait ensuite être intégré
-   et testé au sein d’une caméra embarquée dans la voiture autonome.
-   Restera aussi à régler le problème de la production en série des
-   composants : « Il nous faut maintenant montrer que l’on peut produire
-   notre memristor sur les substrats silicium habituels des industriels de
-   la microélectronique pour envisager une production à grande échelle »,
-   prévoit Sylvain Saïghi. Même ambition pour Julie Grollier. D’ailleurs,
-   si son équipe a été la première à faire fonctionner des neurones
-   artificiels bio-inspirés au sein d’une application, c’est parce qu’elle
-   a usé d’un astucieux artifice : un seul nano-neurone a permis de
-   reconstituer un circuit de 400 neurones grâce à la méthode de
-   multiplexage temporel. « Un peu comme si un acteur s’enregistrait en
-   train de jouer les 400 rôles d’un même film et qu’on les superposait au
-   montage », illustre la chercheuse. Les circuits bien réels de centaines
-   ou de milliers de neurones sont donc aujourd’hui attendus de pied
-   ferme ! ♦
-
-   Lire aussi : « Des machines enfin intelligentes ? »
-   Notes
-     * 1. « Neuromorphic computing with nanoscale spintronic oscillators
-       », J. Torrejon et al., Nature, 2017, vol. 547 : 428-431 (publié en
-       ligne le 27 juillet 2017).
-       https://www.nature.com/articles/nature23011
-     * 2. Unité CNRS/Thales/Université Paris-Sud.
-     * 3. « Learning through ferroelectric domain dynamics in solid-state
-       synapses », S. Boyn et al., Nature Communications, 2017, vol. 8,
-       publié en ligne le 3 avril 2017.
-       https://www.nature.com/articles/ncomms14736
-     * 4. Unité CNRS/Université Paris-Sud/Université Paris-Saclay.
-     * 5. Unité CNRS/Université de Lille 1.
-     * 6. Unité CNRS/Université de Nantes.
-     * 7. Nanosciences et innovation pour les matériaux, la biomédecine et
-       l’énergie (CNRS/ CEA/Université Paris-Saclay).
-     * 8. Unité CNRS/Bordeaux INP/Université de Bordeaux.
-
-   Aller plus loin
-   1 commentaire
-
-Mots-clés
-
-   électronique organique nano-neurone Intelligence artificielle
-   bio-inspiré memristor Réseau de neurones neurones synapses cerveau
-   Ordinateur puce neuromorphique
-
-Partager cet article
-
-Auteur
-
-   Hugo Leroux
-
-   Journaliste scientifique.
-   En savoir plus sur l'auteur
-   Le tour du monde des microbesPrécédent
-   Dans la tête des bébésSuivant
-
-Voir aussi
-
-   Numérique
-   Blog
-   11/12/2023
-   Cellule souche cherche sa destinée
-   Blog
-   07/12/2023
-   Les robots face à l’incertitude
-   Article
-   04/12/2023
-   La créativité peut-elle être artificielle ?
-   réseau neuronal
-   Article
-   24/11/2023
-   Les défis d’une IA frugale
-   Blog
-   20/11/2023
-   Faciliter l'étude d’un vaste corpus documentaire par la...
-   Intelligence artificielle
-   réseau neuronal
-   Article
-   24/11/2023
-   Les défis d’une IA frugale
-   Article
-   08/11/2023
-   Une IA décèle les premiers signes de la sclérose en plaques
-   Article
-   30/05/2022
-   Quand l’IA s’attaque à la sclérose en plaques
-   Point de vue
-   24/04/2019
-   Le robot, un «animal» comme les autres ?
-   Article
-   04/01/2019
-   L’IA traque le harcèlement en ligne
-
-Commentaires
-
-   1 commentaire
-   Flux RSS
-
-L’homme sait L’ordinateur ne
-
-   fabienvenise le 4 Janvier 2019 à 17h45
-   L’homme sait L’ordinateur ne sait rien Comment est-il possible que d’un
-   ensemble de messages physico-chimiques, aussi aveugles que les zéros et
-   1 en informatique, émerge une conscience ? Nous sommes conscients de
-   nous-même, c’est le moi, et conscients d’être conscients. Nous savons
-   que nous savons ce que nous savons. Un ordinateur sait puisqu’il a
-   stocké en mémoire des millions d’informations. Mais il n’en est
-   aucunement conscient. Un ver de terre est conscient, mais n’en sait
-   rien et se limite à une perception de son environnement immédiat
-   relatif à sa survie. Mais peut-on parler de conscience dans ce cas ?
-   N’est-il pas qu’une sorte de robot biologique ? Oui et non, je postule
-   qu’il possède bel et bien une conscience, infime cela va de soi, et de
-   type non-réflexive, il l’est sans le savoir. Appelons cela une
-   conscience primaire faible. De là découle qu’être conscient et savoir
-   (pris dans le sens d’une mémoire recelant des informations) semblent à
-   priori deux choses différentes. Contrairement à un ordinateur, le
-   savoir humain est un vrai savoir, en ce sens qu’il a du sens. Il
-   signifie quelque chose pour l’intéressé, ça lui parle, il sait qu’il
-   sait et ce que cela signifie. L’homme comprend, c’est à dire qu’il
-   prend avec. Et avec quoi d’autre que son esprit ? Il saisit la chose en
-   conscience qui est science avec. Si bien que l’objet concret et
-   forcément peu ou prou abstrait qu’il saisit s’intègre à son
-   intelligence au point qu’il est impossible de les distinguer. Chez
-   l’homme, conscience et savoir sont la même chose à postériori, en ce
-   sens que sa conscience se nourrit et s’accroit avec son savoir. Sa
-   pensée alors dépasse le champ de ses expériences immédiates. Il peut se
-   représenter la planète Mars ou une galaxie lointaine en sachant ce dont
-   il s’agit, penser l’espace-temps, la gravitation et toutes sortes de
-   concepts. Un ordinateur ayant toutes ces données en mémoire, n’en sait
-   rien, ne se représente rien. Se re-présenter c’est présenter à soi-même
-   et pour cela encore faut-il qu’il y ait un « soi-même ». Parler
-   d’intelligence « artificielle » c’est comme parler de fleurs
-   artificielles ; ça ressemble mais ça n’en est pas. Il y a dans
-   l’intelligence humaine une profondeur infinie qui la dépasse et la
-   dépassera à jamais. Appelons conscience secondaire, au carré, ou
-   puissance n, la conscience de savoir que l’on sait, qui est le substrat
-   de tous les savoirs. Elle permet la réflexion qui est reflet, la
-   conscience se réfléchit elle-même comme dans un jeu de miroirs à
-   l’infini. Elle s’assimile à un jeu de lentilles en optique concentrant
-   ou dispersant la lumière et elle est typiquement humaine. Elle permet
-   la conscience de soi radicalement différenciée de l’autre (le « même »
-   et « l’autre » de Platon) ; c’est l’individualisation. Les animaux
-   supérieurs l’ont un peu aussi mais de façon beaucoup moins nette.
-   L’instinct domine. Certes ils se battent mais ont-ils clairement
-   conscience de se battre ? La conscience de l’espèce et l’automatisme
-   étant plus développés, elle n’est pas réflexive, puisque la réflexion
-   est le discours intérieur implicite ou explicite que nous tenons à
-   nous-même (le fameux « reflet »). La relation avec soi et
-   l’environnement ne passe pas par les mêmes « circuits » Le cogito de
-   l’homme est unique et n’est pas généré par le cerveau qui n’est qu’un
-   support permettant la relation terrestre et charnelle. Le non-être (qui
-   est chose) ne peut engendrer de l’être Car un ordinateur si puissant et
-   sophistiqué soit-il reste une chose et la conscience est du domaine de
-   l’être. Entre chose et être il y a un mur ontologique infranchissable.
-   Le non-être (qui est chose) ne peut engendrer de l’être, ainsi que de
-   rien rien ne peut naitre. Une chose est de conscience zéro. Entre
-   l’état zéro et une unité quelconque si petite soit-elle il y à l’
-   infini. Vieux rêve de Pygmalion que de rendre une statue vivante et
-   pensante, la science va le réaliser ! Nous allons créer des machines
-   (nous y sommes déjà) qui donneront l’impression, la presque parfaite
-   illusion, d’être vivantes et pensantes, mais ne le seront pas. Bien sûr
-   certains prétendent le contraire. « Et l’homme créa la machine à son
-   image » voilà la Bible du futur, mais elle ne sera pas. Car de tout ce
-   qui existe sur terre, dans l’univers, ou les multivers s’il y en a,
-   seul l’homme (ou des êtres plus évolués) possède une âme consciente
-   d’elle-même, et en son libre arbitre, capable d’opinions, d’idéaux, de
-   philosophies, de pensées abstraites etc. Conscient qu’il sait ce qu’il
-   sait et capable d’en faire ce qu’il veut. La conscience n’est pas un
-   phénomène de physique. Il est aujourd’hui question « d’une physique de
-   la conscience » sans se douter le moins du monde que cette expression
-   est un oxymore. C’est comme parler du corps de l’esprit. Il y a bien un
-   corps réceptacle de l’esprit mais l’esprit lui-même est par nature hors
-   de toute corporalité et de toute matière, onde, énergie, particule ou
-   ce que vous voulez, que la physique étudie, expérimente et manipule.
-   Ces phénomènes observés ou pas mais au minimum théorisables selon des
-   lois physiques, son des forces « aveugles » des choses de conscience
-   zéro. Or quel que soit l’organisation et la multiplication de ces «
-   choses » zéro puissance N fait toujours zéro. Une information physique,
-   du type de ce qui circule dans les tuyaux d’internet, ou au sein d’un
-   ordinateur, n’a rien à voir avec de la conscience, laquelle n’est pas
-   que de la simple information, Elle est infiniment plus que ça. Je
-   dirais avec Roger Penrose que la conscience ne peut se réduire à des
-   calculs et des algorithmes en bits ou cubits ni en champ d’énergie. A
-   moins de parler « d’énergie de conscience », concept qui n’existe pas
-   (par définition) en physique puisqu’elle n’étudie que des phénomènes
-   physiques, alors qu’il est question de phénomènes psychiques. Cependant
-   la conscience est nécessairement faite d’une substance mais qui ne peut
-   être assimilée à ce qui est tangible et observable. Tout ce qui existe
-   est fait d’une substance, seul le néant n’en a aucune. Mais cette
-   substance est au-delà de la physique elle est méta-physique, Il
-   faudrait découvrir une science de l’esprit, une « science de l’âme »,
-   (à ne pas confondre avec la psychologie) Pourtant certains chercheurs
-   s’obstinent. Ils ont tort mais cependant raison d’essayer. Il faut
-   aller au bout de son erreur pour s’apercevoir que s’en est une. A
-   défaut de percer le mystère insondable de la conscience, ce sera
-   certainement l’occasion de découvertes intéressantes, Objets inanimés
-   avez-vous donc une Âme ? De ce qui est 100% chose, aucune conscience ne
-   peut émerger. De même que de rien, rien ne peut naître. Mais la chose
-   absolue existe-t-elle ? Si de ce qui est chose peut émerger une
-   conscience, c’est qu’elle est plus qu’une simple chose, mais déjà le
-   commencement d’un être, qu’elle n’est pas de conscience zéro. La
-   matière renfermerait en son sein intime quelque propriété de conscience
-   si infime soit-elle ? Un caillou, une particule, une énergie, une onde
-   bref toutes ces choses de la nature physique, ne sont-elles pas des
-   formes de conscience, de volonté, au plus bas niveau, le niveau visible
-   et tangible ? De la conscience réduite à l’état de presque chose, mais
-   pas tout à fait. Dans ce cas il n’existe finalement que de l’esprit et
-   rien d’autre. La matière serait le stade ultime de sa manifestation,
-   une sorte de condensation. Il est vrai que la notion de matière ne
-   cesse d’évoluer. Il y a gros à parier que les lois physiques et
-   mathématiques soient l’expression d’une volonté. Il n’y aurait donc pas
-   de dualité entre esprit et matière, Ce serait deux états d’une même
-   réalité. Mais la physique en général se pose-t-elle la question de
-   savoir si telle ou telle particule, onde ou champ d’énergie relève de
-   l’être, de la chose ou de l’un et l’autre mélangés ? Pourtant c’est une
-   question absolument fondamentale. Savoir d’un « objet » quel est son
-   statut sur l’échelle de la conscience, est-ce zéro, ou un quantum
-   quelconque est vital pour une avancée vers une science de l’esprit.
-   D’ailleurs il semble bien qu’en physique quantique, des « objets » ne
-   se comportent pas comme étant de conscience zéro. Partons du principe
-   qu’une chose absolue n’existe pas. Que rien n’est de conscience zéro.
-   Qu’il y a en tout au moins une infime conscience, presque rien mais pas
-   rien. Il n’en reste pas moins qu’un problème majeur se pose à «
-   l’ordinateur conscient ». Quand bien même il n’y aurait pas de « mur »
-   entre esprit et matière, la transformation de l’un vers l’autre n’est
-   pas « ascendante » mais « descendant » La matière n’est pas le
-   commencement de l’esprit mais le contraire, sa fin ultime. On connait
-   la citation de Luis Pasteur « un peu de science éloigne de Dieu mais
-   beaucoup de science y ramène. L’esprit « descend » jusqu’à être
-   matière, celle-ci par contre ne peut être transformée, combinée ou
-   manipulée d’une façon quelconque pour « s’élever » vers l’esprit. En
-   fait ces deux états sont concomitants. Esprit et matière existent en
-   parallèles depuis au moins le big bang (si big bang il y a eu). Il n’y
-   a pas de transformation dans le temps. L’esprit ne devient pas matière,
-   il est de tout temps aussi matière. Ces deux états de la même chose
-   sont immuables depuis le « début ». Cependant l’essence précède
-   l’existence, et non le contraire. Ainsi de même que l’esprit ne devient
-   pas matière (dans le temps) la matière ne peut devenir ou engendrer de
-   l’esprit plus qu’elle n’en a déjà, c’est-à-dire infiniment peu ou pas
-   du tout. Cela aucune technologie ne le rendra possible. La matière
-   n’est pas éternelle Certains théoriciens n’hésitent pas à dire le plus
-   tranquillement du monde, comme si c’était banal et allait de soi, que
-   la matière a toujours existé, en ce sens qu’avant le big bang il y
-   aurait eu un autre univers et un autre big bang, ou encore qu’il y a
-   des multivers etc. Ceci à l’infini. Arrêtons-nous un instant sur cette
-   pensée : est-ce qu’on la mesure bien ? Dire que la matière est
-   éternelle (puisqu’elle a toujours existé sous une forme ou une autre,
-   onde, énergie etc..) relève du prodige, un prodige qui dépasse toute
-   science connue des hommes. C’est lui attribuer une propriété magique,
-   métaphysique. Car en physique tout ce qui est observé a un commencement
-   et une fin. Bien sûr il y a la fameuse citation « rien ne se perd rien
-   ne se crée tout se transforme » mais ce postulat s’applique dans un
-   intervalle de temps, fût-il très grand. Penser que la matière n’a aucun
-   commencement donne le vertige. Il y a de quoi devenir fou tant cela
-   heurte l’entendement, et ça le heurte à juste titre. Néanmoins certains
-   n’hésitent pas à se lancer dans cette spéculation surréaliste mais
-   néanmoins nécessaire si on élimine Dieu. Evidemment beaucoup diront que
-   ça n’est pas plus surréaliste que de croire en Dieu. Néanmoins croyants
-   et non-croyants seront d’accord pour reconnaître qu’il y a
-   nécessairement quelque chose d’éternel ; soit la matière, soit
-   l’esprit, soit les deux. Considérons la matière. Sans Dieu créateur et
-   sachant qu’elle n’a pas pu s’auto-engendrer comme nous le verrons plus
-   bas, le seul corollaire possible est que son existence soit éternelle.
-   En a-t-on la preuve ? Evidemment non, mais puisqu’elle est là et que
-   Dieu n’existe pas, alors forcément… Question : qu’est-ce qui autorise à
-   éliminer l’hypothèse de Dieu ? Son inexistence est-elle démontrée ? Non
-   pas plus que son existence excepté que l’intelligence penche plus en sa
-   faveur. En effet il est beaucoup plus vraisemblable que ce qui est
-   éternel c’est-à-dire hors du temps ou au-delà du temps, ne soit pas de
-   ce monde où tout ce qui existe est inséparable du temps. Oh temps
-   suspend ton vol L’éternité n’est pas une propriété physique, car
-   l’éternité est l’absence de temps. Le temps fixe le cadre et les
-   limites de la physique, celui du monde phénoménal. Je vois les choses
-   ainsi : en référence à Platon, il y a le cercle ou la sphère (cosmique
-   et purement intelligible) du « même » qui est par définition éternel ou
-   intemporel, et le cercle de « l’autre » qui est le devenir. Sa
-   concrétisation dans le monde matériel est le temps cyclique. L’idée
-   qu’avant le big bang, il y a eu une infinité d’autres big bangs et
-   d’univers, ceci à l’infini, me semble assez correcte. J’ajouterai
-   qu’entre la fin ultime d’un univers donc du temps et la naissance d’un
-   nouveau, il y a un « non-temps » impossible à mesurer donc, que
-   j’appelerai par analogie à la mythologie Hindo-tibétaine « Manvantara
-   ». Cette « période de non-temps » incommensurable et impossible à
-   comprendre par le raisonnement, a pour corollaire que le temps et
-   l’univers sont cycliques comme le pensaient les grecs à juste titre.
-   C’est l’éternel retour. Un univers naît et avec lui le temps, puis il
-   meurt et le temps cesse. Passe ensuite un manvatara au terme duquel un
-   nouvel univers apparaît et avec lui à nouveau le temps et ainsi de
-   suite. Le temps « naît » « meurt » et « renaît » comme tout ce qui est
-   dans la sphère du devenir. Ainsi ce monde et le temps sont synonymes.
-   La matière dans toutes ses variantes est faite de l’étoffe du temps. Or
-   l’univers que nous connaissons est en dissolution, évidemment sa fin
-   n’interviendra pas avant des milliards d’années. Si donc quelque chose
-   est éternel, c’est un être et il est impossible que la matière soit
-   incréée. S’il y a eu un big bang il y a bien eu un commencement et à la
-   fameuse question « qu’y avait-il avant » c’est-à-dire au cours du
-   dernier manvantara ? Il n’y avait rien excepté un être. Par contre on
-   peut se demander ce qu’il y avait, non avant le fameux big bang, mais
-   avant le dernier manvantara, ce qui sera plus juste, et la réponse sera
-   : l’univers précédent. Ceci est comparable à une respiration à
-   l’échelle cosmique. Rien ne peut être éternellement sans volonté (et le
-   pouvoir de cette volonté) introduisant le nombre, la proportion,
-   l’ordre, la loi immuable (mathématique, scientifique) qui réside dans
-   les choses et les consciences. Le théorème dit de Pythagore, par
-   exemple, établit une relation dont l’existence est hors du temps et
-   d’un espace réel. Point n’est besoin que l’homme la terre ou l’univers
-   existent ni qu’aucun triangle rectangle concret ne soit tracé. C’est un
-   principe que l’homme n’a pas inventé mais découvert, comme toutes les
-   propriétés des nombres et des lois de la science. Ce sont des choses
-   intelligibles qui se traduisent dans le sensible. D’aucuns diront que
-   l’intelligible est pensé donc engendré par l’intelligence humaine et
-   qu’en dehors de celle-ci, rien ne l’est, rendant ainsi l’homme tout
-   puissant, égal à un dieu, mais un dieu mortel. Pour ma part je prétends
-   que U=RI (autre exemple) existe en dehors de l’homme. Peu importe que
-   U, R, I, s’appellent autrement ou ne s’appellent pas ; la relation est
-   et sera toujours tant qu’il y aura un fluide que nous appelons
-   électricité et autre chose que nous appelons résistance dans la nature.
-   Mais encore quand bien même il n’y aurait jamais eu d’électricité ni de
-   résistance, la simple possibilité que ces choses existent a pour
-   corollaire le principe purement intelligible de leur relation. Ainsi
-   l’homme n’invente aucune loi des nombres et de la nature. Elles sont de
-   tout temps et en dehors de lui. Or s’il y a des lois, des rapports des
-   proportions, bref de l’éternellement intelligible, qu’il y ait ou non
-   des hommes pour les découvrir, c’est qu’il y a de l’intelligence
-   éternelle. « Le connaisseur, la connaissance et le connaissable ne sont
-   qu’un » (Patanjali) Sans Dieu le monde serait totalement
-   inintelligible, chaotique et tout simplement impossible, il est le
-   fruit d’une volonté ou n’est pas. Mais beaucoup disent que ces lois
-   sont le fruit du hasard. Ce sera sans commentaire tant la chose est
-   ridicule. Les philosophes patentés diront que ce genre de raisonnement
-   est quelque chose en isme, de l’idéalisme, du déisme, du déomorphisme
-   ou que sais-je. Peu importe les étiquettes ! L’imagination humaine a
-   besoin de classer et rationnaliser. Encore une preuve qu’un principe
-   ordonné existe ! Le corollaire de la volonté du « même » est l’absence
-   de temps, car le temps implique le devenir, ce qui devient « autre »,
-   donc le changement. Dans l’éternel présent rien ne « devient » ne se
-   transforme, l’être se maintient. Ces deux notions temps et éternité
-   sont antinomiques, et cependant coexistent. Le concept d’éternité
-   évoque quelque chose de surnaturel de métaphysique ou ce que vous
-   voulez du même ordre, en tout cas rien de naturel. Avant le big bang
-   (durant le manvantara) il n’y avait aucune énergie au sens de ce qui
-   relève de la physique. Néanmoins il y en avait une de nature
-   spirituelle. qui échappe et échappera pour longtemps aux physiciens en
-   tant que tels. Car nous sommes nous-même dans le temps et le devenir
-   comme des poissons dans l’eau. Pire nous sommes faits de cela. Par
-   conséquent nous voyons partout du temps et du devenir. En réalité le
-   temps n’existe pas et ne peut donc être ni plus court ni plus long. La
-   théorie de la relativité n’est possible que relativement à l’homme dont
-   les instruments de mesures, faits à son image, et sa pensée elle-même
-   sont eux aussi soumis au temps, mais dans une réalité supérieure, ce
-   n’est qu’un amusement d’école maternelle qui se révèle totalement faux.
-   L’hindouisme et le bouddhisme nomment cela avec raison, mirage et
-   illusion de ce monde. Par contre il est possible de dire que cet
-   univers est presque éternel, et ce presque change tout. Le temps est
-   l’image mobile de l’éternité (Platon) laquelle ne peut être que
-   l’attribut d’un être hors du devenir, non de la « chose » qu’est
-   l’univers, à moins qu’il n’en soit pas une. Celui que l’on appelle Dieu
-   ne pense pas dans le temps comme nous. Pas de discours intérieur, de
-   raisonnements allant d’un sujet à l’autre. Sa méditation, son vouloir
-   et sa connaissance sont immuables et d’une union parfaite. Il EST et sa
-   création devient A-t-il créé des êtres subalternes pour agir en son nom
-   et transmettre sa volonté dans ce monde temporel ? C’est tout à fait
-   possible. Ainsi il pourrait y avoir une hiérarchie, Dieu « le patron »
-   coexistant avec des dieux secondaires, les « cadres de direction » et
-   d’autres en dessous, etc. jusqu’à l’homme, les animaux, les plantes,
-   les minéraux. En tout cas si j’étais Dieu, c’est ce que j’aurais fait.
-   L’univers ressemble peut-être à une gigantesque entreprise, mais à but
-   non lucratif, disons spirituel, pour le bien, le beau, le vrai. Quoi ?
-   Si Dieu existait il se manifesterait ? Mais il ne fait que ça ! Il est
-   vrai qu’un aveugle de l’esprit ne voit rien. Quoi encore ? Il n’y
-   aurait pas tant de misère et d’horreurs ? Là je regrette mais dire cela
-   c’est être conditionné par les discours des religions à commencer par
-   le catholicisme. Quand j’emploie le mot « dieu », je n’y mets aucune
-   connotation religieuse c’est-à-dire que je ne l’anthropomorphise pas.
-   Je ne lui prête ni bonté, ni colère, ni quelque affection humaine que
-   ce soit. Je le crois bon et juste mais pas au sens que nous donnons
-   communément à ces mots ; ce serait plutôt un sens « mathématique ». Il
-   n’est quand-même pas si difficile que ça d’envisager que la conscience
-   qui crée et maintien un univers (ou des multivers si vous voulez) est
-   bien au-delà de nos pensées et affections humaine. Dieu pense et
-   connait par intellection pure et immuable, hors du temps. En tout cas
-   il est à la portée de quiconque de concevoir qu’il considère toute
-   chose AUTREMENT que nous. Pourquoi a-t-il créé l’homme dans ce cas ?
-   Sans doute pour le servir c’est-à-dire être ses yeux ses oreilles et
-   ses bras en ce monde temporel où sa conscience ne descend pas, bien
-   qu’il en ait connaissance, par la voie de consciences intermédiaires.
-   Mieux par exemple que le patron d’une entreprise dont le bureau est au
-   dernier étage sait ce qui se passe au rez de chaussée, sans jamais y
-   mettre les pieds. Etre suprême hors du temps il ne se commet pas dans
-   le temps. Le créateur laisse sa création suivre son cours tout en
-   contrôlant son évolution. Mais l’homme est d’abord au service de
-   lui-même, pire il prétend être dieu à la place de Dieu. Rien n’arrête
-   son orgueil et sa démesure, il se croit libre et maître de son destin,
-   mais vous saurez qu’il ne l’est pas. N’entrons pas dans un débat
-   théologique ni sociologique. Mais d’aucuns disent qu’interroger sa
-   conscience n’est pas une démarche scientifique. Pourtant les
-   scientifiques eux-aussi « interrogent leur conscience » comment faire
-   autrement ? Et certains entendent « je viens de tes neurones » Soit !
-   Pourtant les NDE et notamment celle de Paméla Reynold, infirment
-   totalement que le cerveau génère la conscience. Et c’est là que les «
-   Géo trouve tout » entrent en scène, « ce sont des propriétés quantiques
-   des neurones qui engendrent notre âme ». Euréka tout s’explique ! Enfin
-   presque car rien n’est prouvé, on cherche dans cette direction ce qui
-   n’est pas du tout la même chose. Quoi d’autre ? Dieu ? Une âme
-   immortelle ? C’est impossible disent-ils. Mais ne le démontrent
-   absolument pas. Eux dotés de conscience n’imaginent pas un instant
-   qu’il puisse y avoir une conscience plus vaste que la leur, plus
-   inclusive, excepté peut-être ce qu’on appelle l’inconscient ou même la
-   conscience, collective, ce qui est autre chose. Car on part du postulat
-   que pour qu’il y ait conscience, il faut un ou des cerveaux. Qu’il ne
-   peut exister de conscience sans corps, bien qu’en sa nature intrinsèque
-   elle ne soit rien de corporel. Une fois établi cela par postulat, reste
-   à explorer ce que la physique permet. Loin de moi l’idée de dénigrer la
-   science en son état actuel excepté qu’elle exclut systématiquement des
-   hypothèses jugées à priori farfelues irrationnelles et tout ce que vous
-   voudrez, au nom que cela leur parait ainsi, ce n’est qu’un jugement non
-   un fait établi. Car si quelqu’un considère que l’existence d’une
-   conscience (ou pensée) cosmique est invraisemblable, je ne peux rien
-   pour lui, sauf le plaindre. D’où viennent la conscience et la vie ? On
-   fouille les tréfonds de la matière jusqu’aux limites puisque c’est là
-   et là seul, pensent-ils que doit se trouver la clé. Seulement on ne la
-   trouve pas. Ils partent juste de ce postulat tout à fait arbitraire (si
-   si) d’où ils tirent des hypothèses invérifiées, néanmoins présentées
-   comme des acquis scientifiques. On nous berne à longueur d’émission TV
-   et de presse douteuse, bien que bon chic bon genre, en nous laissant
-   croire que nous savons ce que nous ne savons pas, sous prétexte que
-   ceux qui le disent ont pignon sur rue, des scientifiques des
-   intellectuels de tous poils, qui en réalité n’en savent pas plus que
-   vous et moi concernant ces mystères. Très peu d’entre eux n’ose dire «
-   je n’en sais rien, je cherche » car on les paye pour savoir, ou en tout
-   cas faire semblant, on boit leurs propos comme si ça sortait de la
-   bouche même de la Pythie ou de je ne sais quel gourou distingué. En ce
-   qui me concerne, je ne prouve rien non plus. Je ne décrète pas une
-   vérité ex-cathedra, je prétends juste faire réfléchir. Car à ce jour
-   nous ne pouvons pas appréhender ces questions autrement que par du
-   raisonnement. Aucune expérience n’est possible, nonobstant ceux qui
-   s’acharnent à s’y essayer quand-même et que d’ailleurs je ne critique
-   pas. C’est une étape nécessaire pour savoir qu’on se trompe or
-   lorsqu’on reconnait son erreur, on s’achemine (un peu) vers la vérité.
-   Lève-toi et marche Si l’âme humaine est produite par le cerveau (selon
-   des propriétés quantiques ou ce que vous voulez comment se fait-il que
-   les singes ayant quasiment les mêmes neurones et sont antérieurs à
-   l’homme dans l’évolution, (d’après la théorie officielle) ne soient
-   capable des mêmes performances cognitives ? Réponse : néant personne ne
-   le sait. Personne ne sait pourquoi l’homme est homme et le singe singe.
-   Mais bien entendu il y a pléthore de théorie fumeuses pour l’expliquer
-   (plus ou moins idéologiques, car l’athéisme et la sacralisation de
-   l’homme pure produit de la nature et rien d’autre l’est évidemment)
-   Quoi ? L’environnement, la nourriture, les besoins, que sais-je encore,
-   qui en réalité n’expliquent rien et ont pour preuve le niveau zéro du
-   néant qui n’en sortira jamais, car il manque une donnée essentielle.
-   Qu’il y ait quelque propriété quantique mystérieuse sorte de
-   pré-conscience au sein de la matière, non seulement je ne le nie pas,
-   mais pense l’avoir suffisamment évoqué ci-dessus. Cela dit la
-   conscience est un phénomène, un ver de terre est conscient, la
-   conscience-connaissance du « moi je sais que je sais» en est un autre.
-   L’âme humaine a des spécificités uniques, qu’aucune autre créature
-   consciente sur terre ne possède. Celle de se re-présenter,
-   conceptualiser l’expérience ou conceptualiser à partir d’autres
-   concepts. Aucun animal n’a cette faculté quand bien même vous lui
-   apprenez à compter ou reconnaître des formes abstraites. (Au passage
-   vous remarquerez que c’est vous qui le lui apprenez et non le contraire
-   bien que son âge sur la règle de temps de l’évolution soit censé être
-   plus ancien que le nôtre) Que se passe-t-il ? L’homme aurait quelques
-   gènes que le singe n’a pas. Et pourquoi les a-t-il ? Des mutations se
-   seraient produites ; mais ce sont-elles produites par hasard ou selon
-   les lois de l’évolution qui postulent que l’on développe selon
-   l’environnement et le besoin ? Admettons que ce soit l’évolution. Les
-   singes n’ont-ils pas les mêmes besoins que nous ? Leur environnement
-   n’était-il pas le même au début ? Nous aurions eu besoin de nous
-   redresser. Etait-ce un avantage ? Ce n’est pas sûr, car se redresser
-   permet de voir plus loin, mais ralentit la course. D’autre part si les
-   arbres disparaissent, le plus simple est de se chercher ailleurs un
-   environnement plus favorable, sans avoir nécessité de se redresser sauf
-   de temps à autre, comme le font les singes et de très nombreux autres
-   mammifères. Décidément cette théorie du singe qui se tient debout ne
-   tient pas. Dans ce cas n’importe quel animal qui se redresserait
-   deviendrait homme au fil du temps. Car il n’y a pas que le singe, bien
-   qu’il nous ressemble morphologiquement qui soit dotés d’une
-   intelligence disons pré-humaine. Le poulpe résout des problèmes
-   incroyables, le corbeau (qui se tient sur 2 pattes) fabrique des outils
-   de son invention (signe d’humanité d’après la théorie) etc.. Non il y a
-   autre chose. D’autres ont développé bien plus que les propos ci-dessus
-   (qui ne font qu’efflorer le sujet) les arguments selon lesquels la
-   théorie de l’animal qui se redresse et de ce fait développe son
-   intelligence et devient homme a sérieusement du plomb dans l’aile.
-   Alors ces mutations génétiques sont-elles dues au hasard ? Pourquoi pas
-   ? On dit que le hasard fait bien les choses. Il le fait même si bien
-   que l’on peut se demander si c’est vraiment le hasard. D’autant que
-   l’homme est la seule créature chez qui ces supposées mutations
-   favorables à l’intelligence abstraite ce sont produites. On nous dit
-   que manger de la viande est favorable au développement cérébral et
-   c’est entre autre ce qui a constitué un atout. Quel cerveau alors (et
-   quelle intelligence) devraient avoir les animaux carnivores ou même les
-   omnivores ! (ah j’oubliais, ils ne se sont pas redressés quoi que les
-   kangourous si et pourtant…) La seule question qui vaille est celle-ci :
-   à l’origine qu’avions-nous de spécial que les autres espèces n’ont pas
-   ? Des gènes sera la réponse des généticiens et consort. Peut-être mais
-   est-ce une cause première ? Sont-ce les gènes qui génèrent
-   l’intelligence ou l’intelligence (l’esprit) qui agit et modifie les
-   gênes ? (la fonction de penser crée l’organe et non le contraire) La
-   matière engendre-t-elle l’esprit ou l’esprit la matière ? Qui se pose
-   la question ? D’autres plus malins diront que c’est pareil que la poule
-   et l’œuf et ils auront peut-être quelque part un peu raison, mais en
-   partie seulement, car ils ont tous deux une cause antérieure. Alors le
-   plus simple est de dire « pourquoi pas » ou qu’il n’y a pas de
-   pourquoi. C’était ainsi c’était le hasard. Vous savez ce qu’Einstein
-   pensait du hasard ? Et Dieu que fait-il ? Il ne fait rien, car il
-   n’existe pas. Or nous voyons s’installer bruyamment la religion
-   musulmane dans nos espaces de vie, nous européens, qui sommes devenus
-   des sociétés sans Dieu. Voilà que la question de Dieu revient au centre
-   de nos débats de civilisation. L’Europe n’a pas de racines chrétiennes,
-   elle l’a décrété. Mais pourquoi a-t-elle eu besoin de le préciser ?
-   Parler de laïcité c’est parler en creux de religion donc de Dieu. Or
-   nous n’en avons jamais autant parlé depuis la loi de 1905. Les
-   musulmans dans nos pays nous obligent à ce genre de débat qui
-   n’existait pas dans les années 60. Vous avez éliminé Dieu ? Le voilà
-   qui revient vous chatouiller les orteils. André Malraux disait que le
-   21ème siècle serait spirituel ou ne serait pas… D’autres diront à
-   contrario que c’est justement s’il est spirituel qu’il ne sera pas, à
-   cause des guerres que les religions suscitent. C’est vrai il y aura des
-   guerres, mais soyez certain que « Dieu » sera le seul vainqueur.
-   L’hypothèse de Dieu est conforme à la raison Pourquoi avons-nous
-   éliminé Dieu ? D’abord parce que c’est plus commode, ensuite parce que
-   nous lui associons toutes les abominations l’instrument de pouvoir et
-   d’oppression qu’en ont fait la plupart des religions, « ces sales curés
-   et leur morale castratrice, empêcheurs de jouir » Sans Dieu, plus de
-   guerre, plus d’oppression, le bonheur sur terre, ici et maintenant,
-   etc. Darwin nous en a libéré, et tant d’autres… Autant d’arguments non
-   valides, car c’est confondre Dieu avec ce qu’en disent et en font les
-   religions. Cela ne prouve en rien son inexistence. Or si le « verbe se
-   fait chair » (et non « la chair se fait verbe » avouez que cette
-   expression semblerait bizarre même à un non-croyant) je postule que
-   c’est selon sa volonté, sinon quoi d’autre ? Et si la matière est chose
-   donc sans volonté, sans intention ni projet, comment aurait-elle pu se
-   créer de rien ? D’abord de rien, rien ne peut naître. Il faut au moins
-   une pensée, une volonté ayant quelque puissance mystérieuse pour faire
-   apparaître quelque chose de rien. Or l’esprit est quelque chose donc il
-   n’y a jamais « rien ». D’autre part si elle s’est engendrée elle-même,
-   elle se préexiste à elle-même, ce qui est absurde, elle n’a donc pas pu
-   se créer. Pourtant nous sommes là alors qu’au début nous n’y étions
-   pas. Tout porte à croire que de la masse informe d’une matière en
-   fusion soit sorti de la vie, des plantes des animaux et des hommes et
-   qu’ainsi tout ce qui vit soit le produit de la nature seule, de la
-   matière seule. Peut-être mais qu’est-ce que la matière ? Ne
-   renferme-t-elle pas quelques mystères non encore élucidés ? La réponse
-   est évidemment, oui sans cela le métier de chercheur dans ce domaine
-   n’existerait plus. Si la matière est une manifestation de Dieu
-   lui-même, toute création engendrée par elle est in fine création de
-   Dieu. Les lois de l’évolution seraient le projet que Dieu confère à sa
-   partie visible, la matière. Pure spéculation certes mais le contraire
-   l’est tout autant. Personne n’a encore prouvé que les lois de la
-   matière et de l’évolution ne sont pas en réalité les manifestations
-   d’une pensée divine, le projet d’un dieu. A ce jour nul n’en sais rien,
-   fût-il prix Nobel. Ce que je tente simplement de dire c’est que
-   l’hypothèse de Dieu est conforme à la raison et plus encore aujourd’hui
-   qu’à l’époque de la scholastique. Ainsi le cerveau ne génère aucune
-   conscience, c’est juste l’organe récepteur/ transmetteur. L’exemple le
-   plus banal est celui-ci : on peut être gravement malade de l’esprit,
-   avoir des hallucinations, être complètement déconnecté de ce que nous
-   appelons le réel, et pourtant posséder un cerveau en parfait état.
-   C’est d’ailleurs le cas la plupart du temps. Ceci montre bien qu’esprit
-   et cerveau sont deux choses différentes. Ce n’est pas d’hier que nous
-   savons cela, mais on glisse dessus comme l’eau sur les plumes d’un
-   canard. On ne s’y intéresse pas vraiment, on n’en parle pas. C’est
-   comme ça et c’est tout ! Faute de quoi il faudrait se poser des
-   questions dérangeantes que l’on préfère éviter. En effet si la
-   conscience humaine n’est qu’une généralisation, ou complexification de
-   sensations, on oublie l’essentiel. Pour qu’il y ait sensation il faut
-   qu’il y ait conscience. Car sentir c’est être conscient de quelque
-   chose, agréable désagréable ou neutre. Ce qui n’a aucune conscience
-   n’éprouve aucune sensation quelque soient les informations qui
-   circulent en lui. Ainsi cette théorie imaginée par les philosophes dit
-   « sensualistes » revient à dire ceci : pour qu’il y ait conscience il
-   faut qu’il y ait conscience ! Mais diraient-ils nous expliquons au
-   moins comment on peut passer de la conscience animale à la conscience
-   humaine. Admettons ! Mais reste qu’elle n’explique en rien comment on
-   passe de la conscience zéro à une conscience si minime soit-elle,
-   comment on passe de la chose à l’être. Mais si la nature a engendré des
-   êtres, (ne serait-ce que nous) elle est être aussi. Seul un être peut
-   engendrer un être. Tant que le contraire ne sera pas irréfutablement
-   prouvé (ce qui n’est pas demain la veille) je postulerai que la non-vie
-   ne peut engendrer la vie et la non-conscience la conscience. Revenons
-   aux machines : nous allons créer des ordinateurs qui auront une âme,
-   grâce à certaines propriétés quantiques (non encore élucidées) de la
-   matière, lesquelles sont des propriétés de conscience. Ou encore, et là
-   nous entrons de plein pied dans l’occultisme, nous allons créer des
-   égrégores sur des supports logiciels, et ainsi les ordinateurs serons
-   des êtres. Ou que sais-je encore. Pourquoi pas, mais je me demande s’il
-   faut en rire ou en pleurer (bien que selon moi ce qu’on appelle
-   égrégore soit pensable). Dans ces cas de figure, il y a de la
-   conscience quelque part au sein de la matière, sinon c’est impossible.
-   Vie et conscience sont inséparables Prenons par exemple un arbre, on le
-   dit vivant. S’agit-il de simples transformations physico-chimiques «
-   aveugles » qui donnent l’impression de vie, ou vit-il vraiment (comme
-   nous vivons) ? On dit qu’une chose est vivante parce qu’elle se
-   reproduit, se nourrit d’une façon ou d’une autre, et respire quel que
-   soit aussi son mode de respiration. Nous savons qu’on peut vivre et
-   être inconscient. Par exemple un homme plongé dans le coma. Cependant
-   être dans cet état ne signifie en rien que ce dernier ne possède aucune
-   conscience. Il en a une tant qu’il vit, simplement un dysfonctionnement
-   empêche toute relation consciente avec lui-même et son environnement.
-   On le dit inconscient et médicalement il l’est, mais spirituellement
-   non. Son âme est toujours présente ; dans le cas contraire il ne
-   vivrait plus. D’autre part comme le rappelle André Brack directeur de
-   recherche au CNRS, à partir d’une « soupe chimique » appelée CHNOPS
-   (carbone, hydrogène azote, oxygène, phosphore, souffre) qui est à la
-   base de tout ce qui vit, la science ignore comment apparaît la vie.
-   Nous sommes incapables à partir de ces éléments de créer le moindre
-   être vivant. Ce que nous savons faire c’est le cultiver le faire se
-   reproduire à partir d’au moins un organisme existant, par exemple une
-   bactérie, dans un milieu favorable. Ce mystère de l’apparition de la
-   vie, nous ne le connaîtrons jamais en prenant pour postulat les
-   théories de l’évolution et pour une raison : du non-vivant ne peut
-   naître du vivant. Seule la vie engendre la vie, d’où la nécessité de la
-   reproduction. Ainsi au « commencement » était la vie. (Et pas juste une
-   « soupe chimique ») donc au commencement était un être et non une
-   chose. Si un être vit véritablement, il est forcément aussi doté d’une
-   conscience, si infime soit-elle, sauf accident donnant l’apparence
-   d’une non-conscience, et c’est ce qui fait de lui un être et non une
-   simple chose. Il n’est peut-être pas abusif de dire que cet arbre est
-   conscient, mais à une échelle très en dessous de la nôtre, appelons
-   cela une conscience larvaire si on veut. Vivre c’est être doté de vie,
-   c’est-à-dire d’une énergie vitale dont les sciences actuelles et la
-   physique en particulier n’ont aucune connaissance. A ce jour, ce qu’est
-   la vie elle-même (à ne pas confondre avec les conditions nécessaires à
-   sa manifestation, le support, le fameux CHNOPS) reste un mystère. S’il
-   y a de la conscience partout dans l’intimité de la terre de l’univers
-   ou des multivers, si vous voulez, qu’est-ce d’autre que Dieu ?
-   Appelez-le autrement, collez une autre étiquette si le mot dieu vous
-   écorche la langue, cela ne change rien. Il y a un être et un être a une
-   volonté ; une chose n’en a aucune, pas même celle de durer. Admettons
-   qu’un jour l’ordinateur devienne conscient, donc vivant, d’ailleurs
-   peut-être l’est-il déjà bien que j’en doute très fortement ; en tout
-   cas à l’instar d’un arbre ou d’une plante, cela ne pourra être qu’une
-   conscience minimale, une presque non-conscience, donc une presque
-   non-vie. Si un ordinateur devenait conscient comme nous, chose
-   impossible, il serait aussi forcément vivant comme nous, agirait alors
-   comme nous, selon ses intérêts, ses opinions, ses valeurs, ses idéaux
-   etc., puisqu’il en aurait ; il pourrait haïr son créateur (tuer le
-   père) Ce serait une machine humaine que vous ne pourriez pas
-   programmer. Mais on objectera que l’on peut programmer un homme qui
-   pourtant a lui aussi son libre arbitre, ce qui est grandement faux. La
-   programmation humaine (type lavage de cerveau, conditionnement etc..) a
-   de gigantesques limites. Rien ne garantit contre les « dérapages » où
-   l’individu ne fait plus ce pourquoi on l’a « programmé ». Le libre
-   arbitre reste le libre arbitre, mais qui sait, avec quelques drogues,
-   tant qu’elles feront effet…. ? Encore une fois ce n’est pas demain la
-   veille que vous verrez cela. Cette idée est tout bonnement monstrueuse
-   (pas seulement d’un point de vue éthique mais aussi et surtout au sens
-   théorique) et montre jusqu’à quelle absurdité l’athéisme, c’est-à-dire
-   le matérialisme scientifique, ou scientisme, mène.
-   Votre nom ______________________________
-   Comment *
-
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   Enregistrer
-   Leave this field blank ____________________
-     * Se connecter avec Google
-     * Se connecter avec Twitter
-     * Se connecter avec Facebook
-
-   Se connecter avec Facebook
-     * Connectez-vous ou inscrivez-vous pour publier un commentaire
-
-   Pour laisser votre avis sur cet article
-   Connectez-vous, rejoignez la communauté
-   du journal CNRS
-   Se connecter
-   Créer un compte
+     * Podcasts
+     *
+
+   ____________________ (BUTTON)
+     * S'abonner
+     * Accueil
+     * En continu
+     * Monde
+     * Suisse
+     * Économie
+     * Opinions
+     * Culture
+     * Société
+     * Sciences
+     * Sport
+     * Data
+     * Événements
+     * Hyperlien
+     * Dossiers
+     * Grands formats
+     * En images
+     * Vidéos
+     * Podcasts
+     *
+     *
+     * Epaper/PDF
+     * Newsletters
+     * Magazine T
+     * Le Journal de l'Immobilier
+     * Blogs
+     * Archives
+     * Archives historiques
+     *
+     * Abonnements
+     * Services aux abonnés
+     * Questions fréquentes
+     *
+     * Régie Publicitaire
+     * Avis de décès
 
      * À propos
+     * Impressum
+     * Communication
+     * Emplois
+
+   Publicité
+
+    1. Accueil
+    2. Économie
+    3. Cyber
+    4. Réservé aux abonnés
+
+Les européens Mistral AI et Aleph Alpha peuvent-ils réellement concurrencer les
+             géants américains de l’intelligence artificielle?
+
+   La start-up française Mistral AI vient de lever 385 millions d’euros,
+   sa concurrente allemande Aleph Alpha 500 millions de dollars. Les
+   ambitions de ces start-up sont importantes alors que la Silicon Valley
+   domine le secteur de l’intelligence artificielle dans le monde
+   occidental
+
+   Arthur Mensch, cofondateur et directeur de Mistral AI, avait été convié
+   au récent sommet de Bletchley sur la régulation de l’IA. — © Toby
+   Melville / keystone-sda.ch Arthur Mensch, cofondateur et directeur de
+   Mistral AI, avait été convié au récent sommet de Bletchley sur la
+   régulation de l’IA. — © Toby Melville / keystone-sda.ch
+
+   Anouch Seydtaghia
+   Anouch Seydtaghia
+   Publié le 14 décembre 2023 à 05:45.
+     *
+     *
+     *
+     *
+     *
+
+   Les milliards pleuvent sur les sociétés qui misent sur l’intelligence
+   artificielle (IA). Pour celles actives dans la Silicon Valley, rien de
+   surprenant. Mais désormais, les investisseurs injectent des sommes
+   colossales dans des start-up européennes, à l’image de la française
+   Mistral AI et de l’allemande Aleph Alpha. Ces noms, quasi inconnus il y
+   a quelques semaines, arrivent sur le devant de la scène. Avec ces
+   nouveaux soutiens financiers titanesques, pourront-ils concurrencer
+   OpenAI, Microsoft, Google ou Meta? Le doute est permis.
+
+   Intéressons-nous d’abord à Mistral AI. C’est tout juste une petite
+   start-up: fondée en avril de cette année seulement, comptant à peine
+   une vingtaine d’employés, la firme basée à Paris est minuscule. Mais
+   elle a réussi à lever 385 millions d’euros (364 millions de francs) ce
+   dimanche, poussant sa valorisation à 2 milliards. Cette dernière
+   n’était que de 240 millions cet été lorsque Mistral AI levait ses 105
+   premiers millions.
+
+Cet article vous intéresse?
+
+   Ne manquez aucun de nos contenus publiés quotidiennement - abonnez-vous
+   dès maintenant pour accéder à tous nos articles, dossiers, et analyses
+
+   Jusqu’au 25 Décembre, profitez de 30% de rabais sur tous nos
+   abonnements
+   CONSULTER LES OFFRES
+   [subscribe-image-5407ab4c26e0b469edcb0ab95183f1d715cd55df26f2ea06ff1d94
+   13e3c8d643.svg]
+
+Les bonnes raisons de s’abonner au Temps:
+
+     * Consultez tous les contenus en illimité sur le site et
+       l’application mobile
+     * Accédez à l’édition papier en version numérique avant 7 heures du
+       matin
+     * Bénéficiez de privilèges exclusifs réservés aux abonnés
+     * Accédez aux archives
+
+   Déjà abonné(e) ? Se connecter
+
+le Temps
+
+     * Impressum
+     * À propos
+     * Communication
+     * Régie Publicitaire
+     * Avis de décès
+     * Événements
+     * Emplois
+
+Abonnements et Services
+
+     * Abonnements
+     * Services aux abonnés
+     * Epaper/PDF
      * Newsletters
-     * Équipe / crédits
-     * Nous contacter
-     * Charte d'utilisation
-     * Plan du site
-     * Données personnelles
-     * Mentions légales
+     * Magazine T
+     * Journal de l'immobilier
+     * Questions fréquentes
+     * Archives
+     * Archives historiques
 
-Numéros papiers
+Documents de références
 
-   CNRS Le journal - septembre 2023
-   n°313
-   Voir tous les numéros
-
-Nous suivre
-
-     * Twitter
-     * Facebook
-     * Google
-     * Dailymotion
-
-Partager
-
-     * Twitter
-     * Facebook
-     * Google
-     * Email
-
-   [logofondation.svg] Faites un don pour la recherche !
-   Centre National de la Recherche Scientifique
-   © 2023, CNRS
-     * Créer un compte
-     * Se connecter
-     * Mon compte
-     * Politique d'accessibilité
+     * Conditions générales d'utilisation
+     * Conditions générales de vente
+     * Politique de confidentialité
      * Gestion des cookies
+     * Charte rédactionnelle
+     * Charte des partenariats
+
+Suivez Le Temps
+
+     * Facebook
+     * Ex-Twitter
+     * Linkedin
+     * Instagram
+     * Youtube
+     * Tiktok
+
+     * Avenue du Bouchet 2, 1209 Genève | Service Clients: +41 22 539 10
+       75 | Contactez Le Temps

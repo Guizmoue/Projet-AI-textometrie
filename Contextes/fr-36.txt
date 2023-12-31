@@ -1,0 +1,58 @@
+
+Intelligence artificielle
+
+--
+   Vous êtes ici :
+    1. Intelligence artificielle
+
+     L'IA, c'est quoi
+
+                               L'IA, c'est quoi ?
+
+--
+
+   Si le terme d’« intelligence artificielle » (IA) est entré dans le
+   langage commun et son utilisation devenue banale dans les médias, il
+--
+   Au sens large, le terme désigne en effet indistinctement des systèmes
+   qui sont du domaine de la pure science-fiction (les IA dites « fortes
+   », dotées d’une forme conscience d’elles-mêmes) et des systèmes déjà
+--
+   (reconnaissance de visage ou de voix, conduite de véhicule – ces
+   systèmes sont qualifiés d’IA « faibles » ou « modérées »).
+
+   Cette confusion contribue à entretenir des craintes purement
+   spéculatives (des IA autonomes conscientes s’opposant aux humains) qui
+   resteraient anecdotiques si elles ne troublaient pas la mesure des
+--
+
+   L’IA est en réalité une discipline jeune d’une soixante d’années, qui
+   réunit des sciences, théories et techniques (notamment logique
+--
+   Après avoir connu deux périodes de fort développement (entre 1940 et
+   1960, puis entre 1980 et 1990), l’IA a connu un nouvel essor en 2010
+   grâce aux algorithmes dits d’apprentissage automatique. Deux facteurs
+--
+
+   L’actuelle « révolution » de l’IA ne vient donc pas d’une découverte de
+   la recherche fondamentale mais de la possibilité d’exploiter avec
+--
+   L’apprentissage automatique a opéré un changement complet de paradigme
+   par rapport à la précédente génération d’IA, les systèmes experts, avec
+   une approche voulue comme inductive : il ne s’agira plus pour un
+--
+Systèmes experts et apprentissage automatique : deux conceptions différentes
+de l’IA
+
+--
+
+Le futur de l’IA et ses enjeux
+
+   D’après certains experts comme Yann LeCun, chercheur en IA et pionnier
+   de l’apprentissage profond, l’ambition de parvenir à imiter une
+--
+
+www.coe.int/ai
+
+Vers une application de l'IA fondée sur
+les droits de l'homme, l'Etat de droit

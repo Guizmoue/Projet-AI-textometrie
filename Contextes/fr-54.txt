@@ -1,0 +1,7 @@
+   importe le résultat, ce sera un événement important dans l’histoire du
+   go. J’ai entendu que l’intelligence artificielle de DeepMind est
+   étonnamment forte, et le devient de plus en plus. Mais je suis confiant
+--
+   Quid des applications plus larges et générales de ces nouveaux systèmes
+   d’intelligence artificielle? L’expert rassure en disant que le logiciel
+   AlphaGo ne peut pas être simplement transféré dans n’importe quel autre

@@ -1,98 +1,42 @@
-   #Commentaires pour "Athénan, une IA joueuse multi-championne"
-
+   investisseur de ChatGPT d’avoir utilisé des millions d’articles pour
+   entraîner le logiciel d’intelligence artificielle sans autorisation. Il
+   estime le préjudice subi à «plusieurs milliards de dollars»
+--
+   soulevée par des artistes, traducteurs et écrivains, qui s’estimaient
+   copiés par l’intelligence artificielle (IA) générative, c’est au tour
+   du New York Times de porter l’affaire devant les tribunaux américains.
 --
 
-   Accueil / Articles / Athénan, une IA joueuse multi-championne
+   Lire aussi: Intelligence artificielle: l’accord européen est
+   historique, mais le plus dur est à venir
 
-Athénan, une IA joueuse multi-championne
-
+   En cause, selon la plainte, le modèle de développement des IA
+   génératives, et en particulier ChatGPT, qui «repose sur des modèles
 --
-   Paru le 04.01.2022
-   Comment l’intelligence artificielle va changer nos vies
-   Voir le dossier
-   Article
-   L’art et l’archéologie, nouveaux horizons de l’IA
-   Article
-   Quand l’IA s’attaque à la sclérose en plaques
-   Article
+   «Comme la plainte l’explique, Microsoft et OpenAI ont utilisé notre
+   travail pour développer et commercialiser leurs produits d’IA
+   générative sans avoir la permission du Times», a déclaré à l’AFP une
 --
-   Article
-   Peut-on faire confiance à l'intelligence artificielle ?
-   Article
-   L’IA traque le harcèlement en ligne
-   Article
---
-   Article
-   Une IA, juge de beauté des poissons tropicaux
-   Point de vue
+   Axel Springer, cependant l’accord ne concerne pas l’utilisation des
+   contenus des médias du groupe pour entraîner son IA générative mais
+   l’intégration de ces contenus dans les réponses aux requêtes des
 --
 
-   Accueil / Articles / Athénan, une IA joueuse multi-championne
-   [gb.svg] Read in English
+   Car les IA génératives, qu’il s’agisse de textes ou d’images produits
+   en réponses à des requêtes écrites, comme ChatGPT ou Midjourney, sont
 --
 
-Athénan, une IA joueuse multi-championne
-
+   Lire également: Faut-il réguler ou non l’intelligence artificielle? Un
+   débat explosif débute en Suisse
+--
+   de développer des outils capables de les créer. D’ores et déjà des
+   illustrateurs se retrouvent concurrencés par ces IA génératives
+   entraînées grâce à leur producteur et qui sont utilisés désormais pour
+--
+   en ont fait de même contre l’entreprise Anthropic, qu’ils accusent
+   d’avoir utilisé les paroles de chansons pour développer son IA
+   générative musicale.
 --
 
-   Athénan est un nouveau système d’intelligence artificielle (IA) dédiée
-   aux jeux de société, qui a été créé par Quentin Cohen-Solal1, évalué et
---
-   d'or. C’est dire l’avancée que représentent ces travaux », commente
-   Nicolas Jouandeau, directeur du Laboratoire d'intelligence Artificielle
-   et Sémantique des Données, à l’université Paris 8.
---
-
-   Les systèmes d’IA dédiées aux jeux de société consistent en des
-   algorithmes qui permettent de formaliser une façon de réfléchir sur un
---
-   jouer et s’auto-entraîner. Le développement de tels logiciels a
-   toujours attiré les experts en IA. Et pour cause : mobilisant un large
-   éventail de capacités intellectuelles humaines, les jeux de société
---
-   privilégié pour tester l’intelligence des machines et la comparer à
-   l’intelligence humaine ; un des buts de l’IA étant de développer des
-   machines qui surpassent le cerveau humain (et pourraient ainsi le
---
-
-   « L’idée de développer des IA dédiées aux jeux de société a émergé dès
-   les débuts de l’informatique », raconte Tristan Cazenave. En effet, dès
---
-   tournoi, un champion du monde d’échecs, le Russe Garry Kasparov »,
-   poursuit l’expert en IA.
-
---
-   Près de deux décennies après ce premier coup de maître, en mai 2017,
-   une autre IA, AlphaGo3, développée par DeepMind (une filiale
-   britannique de Google), et dédiée cette fois au go (un jeu de réflexion
---
-   différentes de celles de Deep Blue, AlphaGo utilise une technologie
-   représentant l’une des dernières évolutions dans le domaine de l’IA :
-   les réseaux neuronaux dits “profonds”. Lesquels consistent en un
---
-
-L’ère des IA « généralistes »
-
-   Fin 2017, la société DeepMind présenta une autre avancée historique
-   pour le monde de l’IA : AlphaZero4. Sa particularité ? Cette version
-   « généraliste » d’AlphaGo est capable de jouer non pas à un, mais à
---
-   pour apprendre à bien jouer à un jeu donné… en jouant contre lui-même ;
-   et non à partir d’une base de données, détaille ici l’expert en IA du
-   Lamsade. Après chaque partie, il analyse ses succès et ses erreurs pour
---
-
-   D’où son idée de développer « une méthode permettant à une IA de jouer
-   de façon plus humaine, dite “Minimax en meilleur d'abord non borné”.
---
-   l’avenir, Quentin Cohen-Solal espère pouvoir mesurer son système à un
-   champion humain – « ou une IA qui a surpassé un tel expert » – dans un
-   jeu donné, par exemple les échecs. Cela, « afin d’obtenir un résultat
---
-     * 5. « Best-first minimax search », E. Korf et D. Chickering,
-       Artificial Intelligence, juillet 1996. DOI
-       10.1016/0004-3702(95)00096-8
---
-   24/11/2023
-   Les défis d’une IA frugale
-   Blog
+   Intelligence artificielle
+     *

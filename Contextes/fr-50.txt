@@ -1,68 +1,42 @@
-     * Société
-     * Intelligence artificielle (IA)
 
---
+      Repenser la gestion de fortune: conjuguer IA, blockchain et big data
 
-L’intelligence artificielle en roue libre
-
---
-   Dans ce numéro, nous revenons sur les débats qui entourent les progrès
-   fulgurants de l’IA. Après l’engouement autour de ChatGPT, c’est
-   l’inquiétude qui prévaut aujourd’hui. Faut-il pour autant imposer un
---
-   dans 60 Minutes, sur CBS. L’émission a provoqué un tollé chez les
-   chercheurs en intelligence artificielle. Si même le patron d’Alphabet,
-   la maison mère de Google, en vient à douter…
---
-   Lire aussi : Débat. “Il est beaucoup trop tard” pour un moratoire sur
-   l’intelligence artificielle
-
---
-   ouvrant un dossier consacré à l’engouement pour ChatGPT, qui comptait
-   déjà 100 millions d’utilisateurs dans le monde. “La course à l’IA est
-   lancée chez les géants du Net”, écrivions-nous alors.
---
-   ce secteur, qui a récemment fait des progrès fulgurants : “Nous
-   appelons tous les laboratoires d’IA à suspendre immédiatement, pendant
-   au moins six mois, la formation des systèmes d’IA plus puissants que
-   GPT-4.”
---
-   magazines à l’étranger ces dernières semaines. L’Italie a
-   provisoirement interdit ChatGPT, la Chine veut s’assurer que les IA ne
-   propageront que des valeurs socialistes… Bref, la révolution promise
-   par l’intelligence artificielle s’emballe. Et c’est un peu le retour de
-   bâton.
-   Lire aussi : Une du jour. Les progrès de l’IA doivent “raisonnablement”
-   nous inquiéter
-
-   Faut-il pour autant s’affoler ? Comment encadrer les IA génératives et
-   composer avec elles ? En quoi cela risque-t-il de toucher nos vies, nos
+   Dans un monde en constante évolution, l’intelligence artificielle (IA),
+   la blockchain et le big data ouvrent de nouvelles perspectives
 --
 
-   “Cette panique qui se ressent dans la pétition sur l’IA, c’est la peur
-   de voir jusqu’à ceux qui auront pris le ‘train du progrès’ se révéler
+   La fusion de l’IA, de la blockchain et du big data ouvrira-t-elle un
+   nouveau chapitre dans l’histoire de la gestion de patrimoine? — ©
+   Lombard Odier La fusion de l’IA, de la blockchain et du big data
+   ouvrira-t-elle un nouveau chapitre dans l’histoire de la gestion de
 --
-   recherches en Russie, en Chine ou en Inde. Pour lui, la “fulgurante
-   montée en puissance de l’intelligence artificielle constitue, de fait,
-   une grave menace pour ceux qui ont le pouvoir. […] Elle annonce rien de
---
-   avant toute question d’éthique, ce sont les failles des modèles de
-   langue d’intelligence artificielle sur lesquels s’appuient ChatGPT,
-   Bard et autre Bing qui devraient nous inquiéter. “Les utiliser à
---
-   journalistes, celui du photojournaliste suisse Niels Ackermann. Face à
-   l’essor d’IA comme Midjourney, capables de produire des images qui
-   ressemblent à s’y méprendre à des photos prises par les humains, les
+   Dans cette sphère financière complexe, les projecteurs se tournent donc
+   vers le rôle central de la technologie. La fusion de l’IA, de la
+   blockchain et du big data ouvrira-t-elle un nouveau chapitre dans
 --
 
-   Une du jour. Les progrès de l’IA doivent “raisonnablement” nous
-   inquiéter
+Le pouvoir de l’IA
+
+   Star de l’ère digitale, l’IA est sur le point de redéfinir les règles
+   du jeu pour les gérants de fortune. Grâce à ses prouesses en matière
+   d’apprentissage automatique et à ses capacités de traitement des
+   données, l’IA permet aux gérants de fortune d’explorer des territoires
+   encore inexploités en matière de stratégies d’investissement et de
+   services à la clientèle. On peut par exemple imaginer des analyses
+   prédictives de pointe, alimentées par l’IA, qui affinent les décisions
+   d’investissement dans les moindres détails, offrant ainsi aux clients
 --
 
-   Point de vue. Pour Slavoj Zizek, la toute-puissance de l’IA révèle nos
-   peurs d’un futur posthumain
+   Mais le pouvoir de l’IA va bien au-delà de la gestion de portefeuille:
+   elle permet de réinventer l’expérience client, en donnant aux gérants
+   de fortune indépendants les moyens d’offrir un niveau de
+   personnalisation inégalé à leurs clients. En effet, l’IA peut analyser
+   de vastes ensembles de données pour mieux appréhender les préférences
 --
 
-   Vu de Suisse. Le double jeu d’Elon Musk sur l’intelligence artificielle
-   ChatGPT Société Sciences & Techno Intelligence artificielle (IA)
+   L’IA n’est pas seulement un buzzword; il s’agit d’une transformation
+   profonde du paysage financier, permettant d’entrer dans une nouvelle
+--
 
+   L’avenir des GFI s’inscrit donc à l’intersection de l’IA, de la
+   blockchain et du big data. La question n’est plus de savoir si leurs

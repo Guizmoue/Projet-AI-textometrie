@@ -1,0 +1,654 @@
+   #Les dernières actualités de Futura Les derniers dossiers de Futura Les
+   dernières définitions de Futura Les dernières questions - réponses de
+   Futura Les dernières photos de Futura Les derniers métiers de Futura
+   Les derniers livres de Futura Les dernières vidéos de Futura
+
+   La galaxie de Futura
+     __________________________________________________________________
+
+   Nos services
+   Image du site Futura Sciences Image du site Futura Sciences
+     __________________________________________________________________
+     __________________________________________________________________
+     __________________________________________________________________
+
+   (BUTTON) je m'abonne
+     __________________________________________________________________
+
+   Skillz Skillz SmartMotion SmartMotion Jeunes Pousses Jeunes Pousses
+
+   Avec le numérique, nous devons faire face à une surabondance
+   d'informations. © geralt, Pixabay
+   Avec le numérique, nous devons faire face à une surabondance
+   d'informations. © geralt, Pixabay
+
+   techactualités
+
+De l’intelligence artificielle à l’intelligence collective
+
+   Intelligence artificielle
+
+   Algorithme
+
+   actualité
+
+   • 6 Min
+
+   [EN VIDÉO] Les 20 ans de Futura avec Gilles Babinet Actuellement
+   co-président du Conseil national du numérique et "digital champion" de
+   la France auprès de...
+
+   Dans un célèbre article sur la « fin de la théorie » publié en 2008,
+   Chris Anderson suggérait de manière provocatrice qu’à l’époque de la
+   collecte massive de données, la méthode scientifique, et, en
+   particulier, l’activité de théorisation qu’elle implique, serait
+   devenue obsolète face aux puissances de calcul des algorithmes. Et
+   pourtant, si ce sont évidemment les mathématiques, et en particulier la
+   logique, l’informatique et l’algorithmique, qui ont permis le
+   développement des systèmes d’intelligence artificielle, force est de
+   constater qu’en dépit de leurs performances toujours plus
+   impressionnantes, il est bien une activité que lesdites « intelligences
+   artificielles » ne parviennent pas à simuler : l’invention d’une
+   théorie mathématique reste pour elles quelque chose de tout à fait
+   étranger.
+     __________________________________________________________________
+
+   au sommaire
+     __________________________________________________________________
+
+   Pour les 20 ans de Futura, Gilles BabinetGilles Babinet, Entrepreneur
+   et Co-Président du Conseil national du numérique, s'associe à la
+   rédaction pour vous proposer tout au long de cette journée
+   particulière, des sujets qui agitent la communauté numérique. Les
+   articles que vous découvrirez aujourd'hui ont pour ambition de faire un
+   pas de côté, de susciter des interrogations différentes et de proposer
+   une rencontre entre science et société sur des sujets inéluctables
+   autour du numérique.
+
+   Comme l'écrivait le philosophe et médecin Georges Canguilhem en 1980,
+   dans un article intitulé Le cerveau et la pensée : « Une chose est le
+   calcul ou le traitement des données selon des instructions, autre chose
+   que l'invention d'un théorèmethéorème. Calculer la trajectoire d'une
+   fuséefusée spatiale relève de l'ordinateur. Formuler la loi de
+   l'attraction universelle est une performance qui n'en relève pas. Pas
+   d'invention sans conscience d'un vide logique, sans tension vers un
+   possible, sans risque de se tromper. »
+
+Du programme à l’invention : calculer n’est pas penser
+
+   L'invention, rappelle alors Canguilhem, correspond à une « situation de
+   pensée où l'on vise ce que l'on ne voit pas », et qui, par définition,
+   ne peut donc pas être programmée. « Inventer, soutient-il encore, c'est
+   créer de l'information, perturber des habitudes de pensée, l'état
+   stationnaire d'un savoir » : cela ne revient donc pas à exécuter un
+   ensemble de règles prédéterminées ou à mettre en relation des données,
+   mais à engendrer de la nouveauté par rapport à ce qui est déjà là, de
+   manière imprévisible pour l'inventeur lui-même, qui est souvent le
+   premier à être surpris par sa découverte ou par sa théorie.
+   Le pouvoir du numérique sur l'individu. © Geralt, Pixabay, DP
+   Image du site Futura Sciences
+   Le pouvoir du numérique sur l'individu. © Geralt, Pixabay, DP
+
+   Nombreux seront ceux qui soutiendront que depuis les années 1980, les
+   « machines » se sont transformées, qu'elles ne fonctionnent plus sous
+   la contrainte de programmes déterminés, qu'elles sont capables
+   d'« apprendre » en fonction des données collectées, que nous avons
+   aujourd'hui affaire à des « machines apprenantes », voire à des
+   « machines morales » ou des « machines intelligentes ». Mais à bien y
+   regarder, l'argument de Canguilhem mérite peut-être un peu plus
+   d'attention. Car si les technologies ont bien sûr évolué, les discours
+   qui les accompagnent, eux, ont finalement assez peu changé. En 1980
+   déjà, Canguilhem relevait « l'abus d'expressions non pertinentes telles
+   que "cerveaucerveau conscient", "machine consciente", "cerveau
+   artificiel" ou "intelligence artificielle" », qui reposent toutes sur
+   une analogieanalogie entre le cerveau, la machine et l'esprit.
+
+De l’intelligence artificielle à l’intelligence collective : le numérique au
+service des savoirs
+
+   Or, pour Canguilhem, quelles que soient les performances des
+   dispositifs techniques, de telles analogies demeurent problématiques :
+   si certains processus cérébraux ou certaines opérations intellectuelles
+   ont pu servir de modèle pour la constructionconstruction de machines
+   artificielles, cela n'implique pas pour autant que ces machines une
+   fois construites, puissent servir de modèle pour comprendre la
+   pensée humaine ou se voir attribuées des facultés intellectuelles,
+   alors même que ce sont précisément cette pensée ou ces facultés qui ont
+   permis leur conception et leur construction, à travers la mise en
+   communication des nombreux cerveaux qui se sont alors associés pour les
+   élaborer.
+
+   En effet, loin de se réduire à un ensemble de processus neuronaux ou
+   d'opérations logiques formalisées, la pensée constitue ce que le
+   philosophe Gilbert Simondon décrit comme un processus d'individuation
+   psychique et collectif, c'est-à-dire, un processus au cours duquel les
+   individus vivants se relient collectivement en partageant des symboles
+   et des significations, qui sont toujours inscrits, déposés, sédimentés
+   dans des supports matériels (imprimés, analogiquesanalogiques,
+   numériques) permettant de les manipuler. La pensée ne se situe donc ni
+   dans les cerveaux ni dans les machines, mais bien entre les cerveaux,
+   dans les milieux symboliques partagés par les individus et supportés
+   par toutes sortes de dispositifs techniques, qui affectent en retour
+   les fonctions cérébrales, les capacités psychiques et les savoirs
+   collectifs.
+   La pensée ne se situe ni dans les cerveaux ni dans les machines... ©
+   Geralt, Pixabay, DP
+   Image du site Futura Sciences
+   La pensée ne se situe ni dans les cerveaux ni dans les machines... ©
+   Geralt, Pixabay, DP
+
+   Dès lors, à l'époque de « l'intelligence artificielle », la question
+   qui se pose n'est pas celle de savoir si les machines peuvent penser,
+   mais bien celle de savoir comment les dispositifs de calculs
+   automatisés et les supports de publication numériques transforment les
+   milieux symboliques et les savoirs partagés. C'est sur cette question
+   que se sont interrogés les membres du Conseil national du numérique,
+   dans une note intitulée « Pour un numérique au service des
+   savoirs ». De l'informatisation à la capacitationcapacitation. En
+   effet, si l'informatisation des sociétés n'a cessé de se développer, si
+   les technologies n'ont cessé de se perfectionner, la question de la
+   capacitation des citoyens semble aujourd'hui se poser : si nous sommes
+   tous devenus des utilisateurs du numérique, il n'est pas certain pour
+   autant que nous comprenions le fonctionnement des technologies que nous
+   utilisons, ni les enjeux anthropologiques de cette révolution.
+
+De l’informatisation à la capacitation : vers une culture numérique
+partagée ?
+
+   Par rapport aux autres révolutions techniques, la mutation numérique
+   s'est produite à une vitessevitesse sans précédent, et les dispositifs
+   numériques se sont diffusés dans les sociétés bien avant que les
+   savoirs nécessaires à leur apprivoisement n'aient pu se développer, si
+   bien que les usagers se retrouvent souvent en position de consommateurs
+   de services ou d'« accros » aux applicationsapplications. Or,
+   l'utilisation aveugle d'une technologie peut être un facteur
+   d'« incapacitation », dans la mesure où les milieux techniques
+   configurent nos usages, modèlent nos comportements, et affectent en
+   profondeur nos facultés comme nos relations. Les technologies ne sont
+   pas de simples moyens ou de simples instruments : elles nous
+   transforment autant que nous les utilisons. Si nous ne comprenons pas
+   les dispositifs qui nous entourent et dont nous dépendons
+   quotidiennement, nous risquons de nous retrouver asservis à des
+   automatismes que nous n'avons pas choisis et dont nous ne sommes pas
+   conscients.
+   L’utilisation aveugle d’une technologie peut être un facteur
+   d’« incapacitation ». © Geralt, Pixabay, DP
+   Image du site Futura Sciences
+   L’utilisation aveugle d’une technologie peut être un facteur
+   d’« incapacitation ». © Geralt, Pixabay, DP
+
+   Pour faire face à ce risque, la nécessité d'une culture numérique
+   semble s'imposer. Cette culture ne se limite pas à l'acquisition de
+   compétences techniques, mais implique aussi une conscience historique
+   de l'évolution des technologies, permettant aux citoyens, et en
+   particulier aux jeunes générations, non seulement de les utiliser, mais
+   aussi de les comprendre et de les transformer. À condition d'être
+   conçus et développés en ce sens, les supports numériques recèlent des
+   potentialités inédites pour la co-construction des savoirs, les
+   controverses argumentées et le partage des connaissances :
+   contrairement aux médias audiovisuels qui impliquent une division
+   structurelle entre producteurs et récepteurs de contenus, le numérique
+   permet de faire passer les récepteurs en position de producteurs et de
+   contributeurs, à condition que ceux-ci disposent des capacités
+   pratiques et de la réflexivité critique permettant de s'approprier les
+   dispositifs techniques.
+
+   Le développement d'une culture numérique partagée permettrait ainsi
+   d'inventer des outils numériques adaptés aux besoins et aux désirs
+   singuliers des populations : loin de promouvoir la « fin de la
+   théorie » face aux calculs algorithmiques, il s'agirait de mettre
+   l’intelligence artificielle au service de l'intelligence collective.
+
+Travaux associés
+
+   CNNUM : Pour un numérique au service des savoirs
+
+   À lire : l'article de Chris Anderson, publié en 2008 « The End of
+   Theory: The Data Deluge Makes the Scientific Method Obsolete »
+
+Tous les articles de la journée spéciale :
+
+   Voir aussi
+
+   La playlist de Gilles Babinet
+
+   Voir aussi
+
+   L’édito de Gilles Babinet
+
+   Voir aussi
+
+   L’innovation et l’apprentissage, par où commencer ?, par Olga
+   Kokshagina
+
+   Voir aussi
+
+   Les intelligences artificielles peuvent-elles aider à résoudre la crise
+   climatique ?, par Dorian De Shaepmeester
+
+   Voir aussi
+
+   Le développement des mathématiques, une clé du développement de l'IA ?,
+   par Laurent Sacco
+
+Futura a 20 ans
+     __________________________________________________________________
+
+   BONNE NOUVELLE : PROLONGATIONS ! #LeMagFutura
+
+   Grâce au succès incroyable de la collecte, la campagne du Mag Futura
+   a obtenu le droit de jouer les prolongations ! Le Mag Futura sera donc
+   encore disponible en pré-commandes jusqu’au 5 janvier. Alors, hâtez
+   vous de le dire à la Terre entière !
+
+   Je précommande le Mag Futura maintenant !
+
+   Le Mag Futura, c'est quoi ? Une revue de plus de 200 pages, 4 dossiers
+   sur la Science qui marquera 2022, zéro fake news, juste de la Science
+   !
+
+   [b5bb8ea55f_50184988_2021-12-20-visuels-emailing-600x120.jpg] Le Mag
+   Futura : les derniers exemplaires !
+
+
+   Image du site Futura Sciences Image du site Futura Sciences
+
+   par Anne Alombert
+   Enseignante-chercheuse en philosophie, membre du CNNum
+
+   le 13 octobre 2021
+     __________________________________________________________________
+
+   Nos articles
+
+   à lire aussi
+   En faisant appel à l’intelligence artificielle, Google pourrait
+   grandement accélérer le développement des microprocesseurs. © Sergey,
+   Adobe Stock En faisant appel à l’intelligence artificielle, Google
+   pourrait grandement accélérer le développement des microprocesseurs. ©
+   Sergey, Adobe Stock
+
+   Tech
+
+   Intelligence artificielle
+
+   L’intelligence artificielle surpasse les Hommes pour créer des
+   composants électroniques
+
+   actualité
+
+   • 10/06/2021
+   L'intelligence est une notion difficile à saisir. © sdecoret, Adobe
+   Stock L'intelligence est une notion difficile à saisir. © sdecoret,
+   Adobe Stock
+
+   Tech
+
+   Intelligence artificielle
+
+   Comment définir la pertinence de l'intelligence artificielle ?
+
+   actualité
+
+   • 05/05/2021
+   Une main robotique s'ouvre à celle d'un homme d'affaires ©cookelma Une
+   main robotique s'ouvre à celle d'un homme d'affaires ©cookelma
+
+   Tech
+
+   Intelligence artificielle
+
+   Les 10 menaces les plus dangereuses de l'intelligence artificielle
+
+   actualité
+
+   • 07/03/2021
+   L'intelligence émotionnelle serait un facteur clé pour la réussite
+   entrepreneuriale. © Mirko Vitali, Adobe Stock L'intelligence
+   émotionnelle serait un facteur clé pour la réussite entrepreneuriale. ©
+   Mirko Vitali, Adobe Stock
+
+   Sciences
+
+   Skillz
+
+   L'intelligence émotionnelle, clé du succès entrepreneurial ?
+
+   actualité
+
+   • 22/02/2021
+   Une intelligence artificielle pour dépister la démence ? © Sergii
+   Mostovyi Une intelligence artificielle pour dépister la démence ? ©
+   Sergii Mostovyi
+
+   Santé
+
+   Démence
+
+   Une intelligence artificielle peut prédire une démence future en lisant
+   sur votre visage
+
+   brève
+
+   • 08/02/2021
+   La science serait-elle incommunicable ? La science serait-elle
+   incommunicable ?
+
+   Sciences
+
+   Philosophie
+
+   La science serait-elle incommunicable ?
+
+   dossier
+
+   • 04/01/2010
+   Comment fonctionnent les logiciels de traduction automatique ? ©
+   Vegefox.com Comment fonctionnent les logiciels de traduction
+   automatique ? © Vegefox.com
+
+   Tech
+
+   Traducteur
+
+   Comment l'intelligence artificielle peut-elle être mise au service de
+   la traduction ?
+
+   question réponse
+
+   • 12/07/2021
+   La cohabitation entre humains et intelligence artificielle fait partie
+   des grands enjeux technologique et sociétal de demain. © peshkov, Adobe
+   Stock. La cohabitation entre humains et intelligence artificielle fait
+   partie des grands enjeux technologique et sociétal de demain. ©
+   peshkov, Adobe Stock.
+
+   Tech
+
+   Intelligence artificielle
+
+   Intelligence artificielle : quels profils pour l’entreprise de demain ?
+
+   question réponse
+
+   • 11/04/2020
+   L'IA est présente dans de nombreux aspects de votre vie sans que vous
+   ne l'imaginiez. © monsidj, Fotolia L'IA est présente dans de nombreux
+   aspects de votre vie sans que vous ne l'imaginiez. © monsidj, Fotolia
+
+   Tech
+
+   Intelligence artificielle
+
+   L’intelligence artificielle : six usages au quotidien
+
+   question réponse
+
+   • 30/10/2022
+   Le QI et la mesure la plus communément admise pour mesurer
+   l’intelligence générale (facteur g). © pict rider, Fotolia Le QI et la
+   mesure la plus communément admise pour mesurer l’intelligence générale
+   (facteur g). © pict rider, Fotolia
+
+   Santé
+
+   Cerveau
+
+   Comment mesure-t-on l'intelligence ?
+
+   question réponse
+
+   • 14/03/2019
+   L'ingénieur en intelligence artificielle va créer des programmes
+   informatiques pour que la machine raisonne comme l'Homme, les émotions
+   en moins. © phonlamaiphoto, Adobe Stock L'ingénieur en intelligence
+   artificielle va créer des programmes informatiques pour que la machine
+   raisonne comme l'Homme, les émotions en moins. © phonlamaiphoto, Adobe
+   Stock
+
+   Sciences
+
+   Métiers
+
+   Ingénieur en intelligence artificielle
+
+   métier
+
+   • 26/12/2023
+   https://datascientest.com/formation-machine-learning-engineer?utm_sourc
+   e=futura-sciences.com&amp;utm_medium=affiliates&amp;utm_campaign=futura
+   _sciences_juin_2021&amp;utm_content=call-to-actionLe machine learning
+   engineer développe des programmes pour que les machines apprennent par
+   elles-mêmes. © phonlamaiphoto, Adobe Stock.
+   https://datascientest.com/formation-machine-learning-engineer?utm_sourc
+   e=futura-sciences.com&amp;utm_medium=affiliates&amp;utm_campaign=futura
+   _sciences_juin_2021&amp;utm_content=call-to-actionLe machine learning
+   engineer développe des programmes pour que les machines apprennent par
+   elles-mêmes. © phonlamaiphoto, Adobe Stock.
+
+   Sciences
+
+   Métiers
+
+   Machine learning engineer
+
+   métier
+
+   • 10/06/2021
+   Ce mardi 1er décembre 2020, les Electric Days et Yann LeCun, Chief IA
+   Scientist de Facebook, nous donnent rendez-vous à 14 heures 45 pour
+   imaginer comme l’intelligence artificielle peut agir comme un
+   accélérateur de la transition énergétique. © ipopba, Adobe Stock Ce
+   mardi 1er décembre 2020, les Electric Days et Yann LeCun, Chief IA
+   Scientist de Facebook, nous donnent rendez-vous à 14 heures 45 pour
+   imaginer comme l’intelligence artificielle peut agir comme un
+   accélérateur de la transition énergétique. © ipopba, Adobe Stock
+
+   Tech
+
+   Intelligence artificielle
+
+   L’intelligence artificielle, accélérateur de la transition
+   énergétique ?
+
+   brève
+
+   • 01/12/2020
+   Les deux exoplanètes orbitent autour d’étoiles de la constellation du
+   Verseau, l’une située à 1.300 années-lumière, l’autre à 1.230. ©
+   katy_novikova Les deux exoplanètes orbitent autour d’étoiles de la
+   constellation du Verseau, l’une située à 1.300 années-lumière, l’autre
+   à 1.230. © katy_novikova
+
+   Sciences
+
+   Exoplanète
+
+   Une intelligence artificielle découvre deux nouvelles exoplanètes
+
+   brève
+
+   • 27/03/2019
+   Chez les geais de Sibérie, l'apprentissage social demande aux parents
+   de faire preuve de patience. De tolérance, selon les chercheurs. Ici,
+   un parent attend que sa progéniture se soit nourrie à une table
+   d'alimentation expérimentale. © Michael Griesser Chez les geais de
+   Sibérie, l'apprentissage social demande aux parents de faire preuve de
+   patience. De tolérance, selon les chercheurs. Ici, un parent attend que
+   sa progéniture se soit nourrie à une table d'alimentation
+   expérimentale. © Michael Griesser
+
+   Planète
+
+   Corbeaux
+
+   Corbeaux : et si leur intelligence provenait de leur enfance ?
+
+   brève
+
+   • 05/06/2020
+   (BUTTON) (BUTTON)
+
+   La sélection de la
+
+   Rédaction
+     __________________________________________________________________
+
+   Qu'est-ce qu'un produit reconditionné ? © Dragana Gordic, Adobe stock
+   Qu'est-ce qu'un produit reconditionné ? © Dragana Gordic, Adobe stock
+
+   Tech
+
+   IPhone
+
+   Pourquoi un iPhone reconditionné est une bonne alternative au neuf ?
+
+   Article
+   Des écouteurs de qualité, à ce prix, on croit rêver.© Baseus Des
+   écouteurs de qualité, à ce prix, on croit rêver.© Baseus
+
+   Tech
+
+   Tech
+
+   Baseus Bowie MA10 : impossible de faire mieux pour des écouteurs sans
+   fil à réduction de bruit à ce prix
+
+   Article
+   Offre légendaire : Microsoft Office 2021 et Windows 11 à Vie à partir
+   de 10 € ! Offre légendaire : Microsoft Office 2021 et Windows 11 à Vie
+   à partir de 10 € !
+
+   Tech
+
+   Bureautique
+
+   Offre légendaire : Microsoft Office 2021 et Windows 11 à Vie à partir
+   de 10 € !
+
+   Article
+   Fraude caritative, quishing, deepfakes…, l'IA donne aux actes de
+   cybermalveillance une ampleur inédite. © Timon, Adobe Stock Fraude
+   caritative, quishing, deepfakes…, l'IA donne aux actes de
+   cybermalveillance une ampleur inédite. © Timon, Adobe Stock
+
+   Tech
+
+   Cybersécurité
+
+   Les JO 2024 pourraient donner lieu à une vague de cybercriminalité !
+
+   Article
+   Des acteurs et actrices sont actuellement victimes d’applications de
+   dénudage par intelligence artificielle. S'ils ont les moyens de
+   contre-attaquer, il n’en est pas de même pour le simple particulier. ©
+   rohappy, Adobe Stock Des acteurs et actrices sont actuellement victimes
+   d’applications de dénudage par intelligence artificielle. S'ils ont les
+   moyens de contre-attaquer, il n’en est pas de même pour le simple
+   particulier. © rohappy, Adobe Stock
+
+   Tech
+
+   Intelligence artificielle
+
+   Deepfake : l'inquiétante montée du dénudage par intelligence
+   artificielle
+
+   Article
+   Le AQ 400 Scythe est un drone suicide à vol lent mais dont la portée
+   lui permet d’atteindre la Russie ou un territoire occupé comme la
+   Crimée. © Parilov, Adobe Stock Le AQ 400 Scythe est un drone suicide à
+   vol lent mais dont la portée lui permet d’atteindre la Russie ou un
+   territoire occupé comme la Crimée. © Parilov, Adobe Stock
+
+   Tech
+
+   Guerre du futur
+
+   L'Ukraine lance le Scythe, un drone suicide en réponse aux attaques des
+   Shahed-136
+
+   Article
+   Roadio peut être installé sur des vélos comme sur des scooters. ©
+   Planetz, Adobe Stock Roadio peut être installé sur des vélos comme sur
+   des scooters. © Planetz, Adobe Stock
+
+   Tech
+
+   Technologie
+
+   Roadio, le système anticollision pour deux-roues boosté à l’IA
+
+   Article
+   Entretenir et réparer son vélo permet d’en améliorer la sécurité et
+   d’en prolonger la durée de vie. © Image Freepik Entretenir et réparer
+   son vélo permet d’en améliorer la sécurité et d’en prolonger la durée
+   de vie. © Image Freepik
+
+   Tech
+
+   Jeunes Pousses
+
+   Comment prolonger la durée de vie de son vélo ?
+
+   Article
+   (BUTTON) (BUTTON)
+   Illustration de la section Newsletter de Futura
+
+   Transmettre la culture
+
+   est le plus vieux métier du monde
+
+   Inscrivez-vous à la lettre d'information La quotidienne pour recevoir
+   toutes nos dernières Actualités une fois par jour.
+   Toutes nos lettres d’informations
+   Illustration de la section Newsletter de Futura Email
+   ____________________E-mail
+   (BUTTON) S'inscrire
+   Toutes nos lettres d’informations
+
+   À voir aussi
+     __________________________________________________________________
+
+   intelligence artificielle
+
+   ia intelligence artificielle
+
+   tpe intelligence artificielle
+
+   intelligence artificielle debat
+
+   logiciels intelligence artificielle
+
+   logiciel intelligence artificielle
+
+   problematique tpe intelligence artificielle
+
+   intelligence qi
+
+   chewing gum intelligence
+
+   intelligence définition
+
+   Mots Clés
+     __________________________________________________________________
+
+   Intelligence artificielle
+
+   Intelligence collective
+
+   Initiation à la robotique
+
+   Comportement collectif
+
+   Réseau collectif
+
+   Complexité algorithmique
+
+   Définitions associées
+     __________________________________________________________________
+
+     * Qu'est-ce que l'algorithmique ?
+     * Que veut dire "ordinateur" ?
+     * L'intelligence artificielle, c'est quoi ?
+     * Que veut dire "numérique" ?

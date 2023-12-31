@@ -1,0 +1,496 @@
+   #Les dernières actualités de Futura Les derniers dossiers de Futura Les
+   dernières définitions de Futura Les dernières questions - réponses de
+   Futura Les dernières photos de Futura Les derniers métiers de Futura
+   Les derniers livres de Futura Les dernières vidéos de Futura
+
+   La galaxie de Futura
+     __________________________________________________________________
+
+   Nos services
+   Image du site Futura Sciences Image du site Futura Sciences
+     __________________________________________________________________
+     __________________________________________________________________
+     __________________________________________________________________
+
+   (BUTTON) je m'abonne
+     __________________________________________________________________
+
+   Skillz Skillz SmartMotion SmartMotion Jeunes Pousses Jeunes Pousses
+
+   Impressionnant, le procédé mis au point par Nvidia affiche les images
+   correspondantes au fil de l’écriture. © Nvidia
+   Impressionnant, le procédé mis au point par Nvidia affiche les images
+   correspondantes au fil de l’écriture. © Nvidia
+
+   techactualités
+
+Bluffant ! Cette Intelligence artificielle transforme les mots en images
+
+   Technologie
+
+   Intelligence artificielle
+
+   actualité
+
+   • 1 Min
+
+   Il suffit d'écrire quelques mots pour que l'IA de Nvidia affiche en
+   temps réel des images correspondantes. Impressionnant !
+     __________________________________________________________________
+
+   au sommaire
+     __________________________________________________________________
+
+   Cela vous intéressera aussi
+
+   Saisir une phrase et voir apparaitre à l'écran au fur et à mesure des
+   images photoréalistes l'illustrant, c'est la prouesse que parvient à
+   réaliser une Intelligence artificielle mise au point par Nvidia.
+   Baptisée GauGAN 2, il s'agit d'un version évoluée de cette IA, puisque
+   GauGAN avait déjà été présenté en 2019. À l'époque, l'IA savait déjà
+   transformer des croquis en images photoréalistes. Nvidia propose
+   d'ailleurs un logiciel baptisé Canvas pour utiliser ce procédé. La
+   seule contrainte est que le logiciel nécessite une carte graphique
+   puissante de la marque pour pouvoir fonctionner.
+
+   Pour transformer les mots en images, GauGAN 2 utilise un modèle d'IA
+   génératif particulier qui a été entraîné à partir de 10 millions
+   d'images de paysages. Il ne sait donc pas vraiment improviser si les
+   mots clés ont plusieurs sens ou s'ils sont trop subtiles, mais ce n'est
+   que le début.
+
+
+   IFRAME: https://www.youtube.com/embed/5Qdr8AUNYqU?rel=0
+
+   La version 2.0 de « Dessine-moi un mouton » avec ces simples mots «
+   Peignez-moi une image ». La recherche de NVIDIA montre que la démo
+   d'art GauGAN AI répond maintenant aux mots. © NVIDIA Developer
+
+Mixer les mots clés et les croquis
+
+   Mieux encore, il est possible de mixer les fonctions de Canvas et
+   celles des mots clés pour combiner le texte et des dessins. Le procédé
+   permet d'aller plus loin dans la personnalisation du rendu en
+   s'appuyant sur le croquis.
+
+   Sur son blogblog, le fondeur a publié une petite vidéo qui montre
+   GauGAN 2 à l'œuvre. Sur une page web, l'utilisateur saisi
+   progressivement des mots clés, tels que ocean waves hitting rocks on
+   the beach (« les vaguesvagues de l'océan frappent les rochers sur la
+   plage ») et l'on voit s'afficher les images correspondantes au fur et à
+   mesure de la frappe. Impressionnant ! Nvidia propose de tester l'IA
+   depuis un navigateurnavigateur mais lors de nos tentatives, la page ne
+   répondait pas.
+
+
+   Image du site Futura Sciences Image du site Futura Sciences
+
+   par Sylvain Biget
+   Journaliste
+
+   le 26 novembre 2021
+     __________________________________________________________________
+     __________________________________________________________________
+
+   Nos articles
+
+   à lire aussi
+   Cette scène de The Bistro est rendue possible grâce au ray tracing sur
+   une machine avec un processeur ARM. © Nvidia Cette scène de The Bistro
+   est rendue possible grâce au ray tracing sur une machine avec un
+   processeur ARM. © Nvidia
+
+   Tech
+
+   Jeux vidéo
+
+   Nvidia fait la démonstration du RTX sur une architecture ARM
+
+   actualité
+
+   • 20/07/2021
+   Les nouvelles cartes Geforce RTX 3080 Ti et 3070 Ti seront bridées pour
+   le minage de cryptomonnaies. © Nvidia Les nouvelles cartes Geforce RTX
+   3080 Ti et 3070 Ti seront bridées pour le minage de cryptomonnaies. ©
+   Nvidia
+
+   Tech
+
+   Jeux vidéo
+
+   Nvidia Geforce RTX 3080 Ti et 3070 Ti : deux nouvelles cartes malgré la
+   pénurie mondiale
+
+   actualité
+
+   • 02/06/2021
+   Le module Pascal a été dévoilé par Jen Hsun Huang, le PDG de NVidia,
+   lors de la conférence annuelle de l’entreprise. Cette nouvelle
+   architecture optimise le transfert des données entre le processeur
+   central et le processeur graphique et utilise un nouveau type de
+   mémoire vive disposée en trois dimensions. Selon NVidia, le module
+   présenté, qui ne fait qu’un tiers de la taille d’une carte graphique
+   PCIe, fait entrer la puissance d’un supercalculateur dans la surface
+   occupée par deux cartes de crédit. © NVidia Le module Pascal a été
+   dévoilé par Jen Hsun Huang, le PDG de NVidia, lors de la conférence
+   annuelle de l’entreprise. Cette nouvelle architecture optimise le
+   transfert des données entre le processeur central et le processeur
+   graphique et utilise un nouveau type de mémoire vive disposée en trois
+   dimensions. Selon NVidia, le module présenté, qui ne fait qu’un tiers
+   de la taille d’une carte graphique PCIe, fait entrer la puissance d’un
+   supercalculateur dans la surface occupée par deux cartes de crédit. ©
+   NVidia
+
+   Tech
+
+   Informatique
+
+   Pascal, un supercalculateur dans un processeur graphique NVidia
+
+   actualité
+
+   • 27/03/2014
+   La 3D photoréaliste, quand les pixels remplacent la chair. © AMD La 3D
+   photoréaliste, quand les pixels remplacent la chair. © AMD
+
+   Tech
+
+   Technologie
+
+   NVidia a la tête dans les nuages avec RealityServer
+
+   actualité
+
+   • 22/10/2009
+   L'ingénieur en intelligence artificielle va créer des programmes
+   informatiques pour que la machine raisonne comme l'Homme, les émotions
+   en moins. © phonlamaiphoto, Adobe Stock L'ingénieur en intelligence
+   artificielle va créer des programmes informatiques pour que la machine
+   raisonne comme l'Homme, les émotions en moins. © phonlamaiphoto, Adobe
+   Stock
+
+   Sciences
+
+   Métiers
+
+   Ingénieur en intelligence artificielle
+
+   métier
+
+   • 26/12/2023
+   https://datascientest.com/formation-machine-learning-engineer?utm_sourc
+   e=futura-sciences.com&amp;utm_medium=affiliates&amp;utm_campaign=futura
+   _sciences_juin_2021&amp;utm_content=call-to-actionLe machine learning
+   engineer développe des programmes pour que les machines apprennent par
+   elles-mêmes. © phonlamaiphoto, Adobe Stock.
+   https://datascientest.com/formation-machine-learning-engineer?utm_sourc
+   e=futura-sciences.com&amp;utm_medium=affiliates&amp;utm_campaign=futura
+   _sciences_juin_2021&amp;utm_content=call-to-actionLe machine learning
+   engineer développe des programmes pour que les machines apprennent par
+   elles-mêmes. © phonlamaiphoto, Adobe Stock.
+
+   Sciences
+
+   Métiers
+
+   Machine learning engineer
+
+   métier
+
+   • 10/06/2021
+   L’intelligence artificielle, un considérable potentiel d’exploitation
+   criminelle. © Denys Rudyi, Adobe Stock L’intelligence artificielle, un
+   considérable potentiel d’exploitation criminelle. © Denys Rudyi, Adobe
+   Stock
+
+   Tech
+
+   Intelligence artificielle
+
+   Les 20 menaces les plus dangereuses de l’intelligence artificielle
+
+   question réponse
+
+   • 17/06/2023
+   Qui sont les pères de l'intelligence artificielle (IA) ? ©
+   carloscastilla, fotolia Qui sont les pères de l'intelligence
+   artificielle (IA) ? © carloscastilla, fotolia
+
+   Tech
+
+   Intelligence artificielle
+
+   Qui sont les pionniers de l'intelligence artificielle ?
+
+   question réponse
+
+   • 13/10/2021
+   Le logiciel GauGAN de Nvidia transforme les dessins sommaires en
+   paysages photoréalistes. © Courtesy of Nvidia Le logiciel GauGAN de
+   Nvidia transforme les dessins sommaires en paysages photoréalistes. ©
+   Courtesy of Nvidia
+
+   Tech
+
+   Technologie
+
+   GauGAN, une application Nvidia qui transforme vos dessins en chefs
+   d'œuvre photoréalistes
+
+   brève
+
+   • 23/03/2019
+   La cohabitation entre humains et intelligence artificielle fait partie
+   des grands enjeux technologique et sociétal de demain. © peshkov, Adobe
+   Stock. La cohabitation entre humains et intelligence artificielle fait
+   partie des grands enjeux technologique et sociétal de demain. ©
+   peshkov, Adobe Stock.
+
+   Tech
+
+   Intelligence artificielle
+
+   Intelligence artificielle : quels profils pour l’entreprise de demain ?
+
+   question réponse
+
+   • 11/04/2020
+   Intelligence artificielle et données de santé : un mariage réussi. ©
+   Tex vector, Adobe Stock Intelligence artificielle et données de santé :
+   un mariage réussi. © Tex vector, Adobe Stock
+
+   Santé
+
+   Corps humain
+
+   Santé et intelligence artificielle : quelle révolution nous attend ?
+
+   question réponse
+
+   • 17/10/2020
+   Ce mardi 1er décembre 2020, les Electric Days et Yann LeCun, Chief IA
+   Scientist de Facebook, nous donnent rendez-vous à 14 heures 45 pour
+   imaginer comme l’intelligence artificielle peut agir comme un
+   accélérateur de la transition énergétique. © ipopba, Adobe Stock Ce
+   mardi 1er décembre 2020, les Electric Days et Yann LeCun, Chief IA
+   Scientist de Facebook, nous donnent rendez-vous à 14 heures 45 pour
+   imaginer comme l’intelligence artificielle peut agir comme un
+   accélérateur de la transition énergétique. © ipopba, Adobe Stock
+
+   Tech
+
+   Intelligence artificielle
+
+   L’intelligence artificielle, accélérateur de la transition
+   énergétique ?
+
+   brève
+
+   • 01/12/2020
+   Les deux exoplanètes orbitent autour d’étoiles de la constellation du
+   Verseau, l’une située à 1.300 années-lumière, l’autre à 1.230. ©
+   katy_novikova Les deux exoplanètes orbitent autour d’étoiles de la
+   constellation du Verseau, l’une située à 1.300 années-lumière, l’autre
+   à 1.230. © katy_novikova
+
+   Sciences
+
+   Exoplanète
+
+   Une intelligence artificielle découvre deux nouvelles exoplanètes
+
+   brève
+
+   • 27/03/2019
+   Une intelligence artificielle pour dépister la démence ? © Sergii
+   Mostovyi Une intelligence artificielle pour dépister la démence ? ©
+   Sergii Mostovyi
+
+   Santé
+
+   Démence
+
+   Une intelligence artificielle peut prédire une démence future en lisant
+   sur votre visage
+
+   brève
+
+   • 08/02/2021
+   Vers quel futur ? © DrSJS / Geralt CC0 - Domaine public Vers quel futur
+   ? © DrSJS / Geralt CC0 - Domaine public
+
+   Tech
+
+   Technologie
+
+   Vie artificielle : vers quel avenir ?
+
+   dossier
+
+   • 19/02/2012
+   (BUTTON) (BUTTON)
+
+   La sélection de la
+
+   Rédaction
+     __________________________________________________________________
+
+   Qu'est-ce qu'un produit reconditionné ? © Dragana Gordic, Adobe stock
+   Qu'est-ce qu'un produit reconditionné ? © Dragana Gordic, Adobe stock
+
+   Tech
+
+   IPhone
+
+   Pourquoi un iPhone reconditionné est une bonne alternative au neuf ?
+
+   Article
+   Des écouteurs de qualité, à ce prix, on croit rêver.© Baseus Des
+   écouteurs de qualité, à ce prix, on croit rêver.© Baseus
+
+   Tech
+
+   Tech
+
+   Baseus Bowie MA10 : impossible de faire mieux pour des écouteurs sans
+   fil à réduction de bruit à ce prix
+
+   Article
+   Offre légendaire : Microsoft Office 2021 et Windows 11 à Vie à partir
+   de 10 € ! Offre légendaire : Microsoft Office 2021 et Windows 11 à Vie
+   à partir de 10 € !
+
+   Tech
+
+   Bureautique
+
+   Offre légendaire : Microsoft Office 2021 et Windows 11 à Vie à partir
+   de 10 € !
+
+   Article
+   Fraude caritative, quishing, deepfakes…, l'IA donne aux actes de
+   cybermalveillance une ampleur inédite. © Timon, Adobe Stock Fraude
+   caritative, quishing, deepfakes…, l'IA donne aux actes de
+   cybermalveillance une ampleur inédite. © Timon, Adobe Stock
+
+   Tech
+
+   Cybersécurité
+
+   Les JO 2024 pourraient donner lieu à une vague de cybercriminalité !
+
+   Article
+   Des acteurs et actrices sont actuellement victimes d’applications de
+   dénudage par intelligence artificielle. S'ils ont les moyens de
+   contre-attaquer, il n’en est pas de même pour le simple particulier. ©
+   rohappy, Adobe Stock Des acteurs et actrices sont actuellement victimes
+   d’applications de dénudage par intelligence artificielle. S'ils ont les
+   moyens de contre-attaquer, il n’en est pas de même pour le simple
+   particulier. © rohappy, Adobe Stock
+
+   Tech
+
+   Intelligence artificielle
+
+   Deepfake : l'inquiétante montée du dénudage par intelligence
+   artificielle
+
+   Article
+   Le AQ 400 Scythe est un drone suicide à vol lent mais dont la portée
+   lui permet d’atteindre la Russie ou un territoire occupé comme la
+   Crimée. © Parilov, Adobe Stock Le AQ 400 Scythe est un drone suicide à
+   vol lent mais dont la portée lui permet d’atteindre la Russie ou un
+   territoire occupé comme la Crimée. © Parilov, Adobe Stock
+
+   Tech
+
+   Guerre du futur
+
+   L'Ukraine lance le Scythe, un drone suicide en réponse aux attaques des
+   Shahed-136
+
+   Article
+   Roadio peut être installé sur des vélos comme sur des scooters. ©
+   Planetz, Adobe Stock Roadio peut être installé sur des vélos comme sur
+   des scooters. © Planetz, Adobe Stock
+
+   Tech
+
+   Technologie
+
+   Roadio, le système anticollision pour deux-roues boosté à l’IA
+
+   Article
+   Entretenir et réparer son vélo permet d’en améliorer la sécurité et
+   d’en prolonger la durée de vie. © Image Freepik Entretenir et réparer
+   son vélo permet d’en améliorer la sécurité et d’en prolonger la durée
+   de vie. © Image Freepik
+
+   Tech
+
+   Jeunes Pousses
+
+   Comment prolonger la durée de vie de son vélo ?
+
+   Article
+   (BUTTON) (BUTTON)
+   Illustration de la section Newsletter de Futura
+
+   Transmettre la culture
+
+   est le plus vieux métier du monde
+
+   Inscrivez-vous à la lettre d'information La quotidienne pour recevoir
+   toutes nos dernières Actualités une fois par jour.
+   Toutes nos lettres d’informations
+   Illustration de la section Newsletter de Futura Email
+   ____________________E-mail
+   (BUTTON) S'inscrire
+   Toutes nos lettres d’informations
+
+   Liens externes
+     __________________________________________________________________
+
+     * ‘Paint Me a Picture’: NVIDIA Research Shows GauGAN AI Art Demo Now
+       Responds to Words
+
+   À voir aussi
+     __________________________________________________________________
+
+   intelligence artificielle
+
+   ia intelligence artificielle
+
+   tpe intelligence artificielle
+
+   intelligence artificielle debat
+
+   logiciels intelligence artificielle
+
+   logiciel intelligence artificielle
+
+   problematique tpe intelligence artificielle
+
+   Mots Clés
+     __________________________________________________________________
+
+   NVIDIA
+
+   Canvas
+
+   GauGAN
+
+   GPU
+
+   Algorithme d'apprentissage automatique
+
+   Processeur graphique
+
+   Processeur graphique Nvidia
+
+   Définitions associées
+     __________________________________________________________________
+
+     * Que signifie "carte graphique" ?
+     * Qu'est-ce qu'un logiciel ?
+     * Qu'est-ce que "intelligence artificielle" signifie ?

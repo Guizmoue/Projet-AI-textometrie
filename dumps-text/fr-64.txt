@@ -1,0 +1,366 @@
+   #alternate alternate alternate
+
+     * Accès direct au contenu
+     * Accès direct au menu principal
+
+   Logo Marianne République française
+   Retour à l'accueil (logo République française)
+   Logo Inserm Header
+   Retour à l'accueil (logo Inserm)
+
+     * English
+
+   (BUTTON) Recherche
+   Rechercher ____________________ (BUTTON) Recherche
+
+   (BUTTON) Menu Fermer
+     * Connaître
+       l’Inserm
+       Connaître l’Inserm
+          + L’Institut
+               o L’Inserm en un coup d’œil
+               o Missions
+               o Organigramme
+               o Infrastructures de recherche
+               o Documents stratégiques
+               o Budget
+               o Prix Inserm
+          + Notre écosystème
+               o Partenariats de recherche
+               o L’Inserm et les associations
+               o Coopération en Europe et à l’international
+               o Programme Investissements d’Avenir (PIA)
+               o France Relance
+          + Nos programmes
+               o Programmes de recherche
+               o Programme Atip–Avenir
+               o École de l’Inserm Liliane Bettencourt
+     * La recherche
+       à l’Inserm
+       La recherche à l’Inserm
+          + Du laboratoire jusqu’au patient
+               o Le continuum de la recherche
+               o La recherche fondamentale
+               o La recherche clinique
+               o La recherche en santé publique
+               o La recherche technologique
+               o Valorisation et transfert des découvertes
+               o La recherche participative
+          + Une recherche responsable
+               o Nos bonnes pratiques
+               o La science ouverte
+               o L’éthique à l’Inserm
+               o Les modèles animaux
+          + Portraits et reportages
+               o Portraits de chercheuses et de chercheurs
+               o Reportages en labo
+     * Information
+       en santé
+       Information en santé
+          + Pour tout public
+               o Dossiers thématiques
+               o C’est quoi ? Les mots de la science
+               o Magazine de l’Inserm
+               o Ouvrages coédités par l’Inserm
+               o Expositions et ressources pédagogiques
+          + Pour public avancé
+               o Expertises collectives
+               o Rapports thématiques
+               o Revue médecine/sciences
+     * Actualités & évènements
+       Actualités & évènements
+          + Nos actualités
+               o Actu science
+               o Actu institutionnelle
+               o Actu pro
+               o Toutes les actualités
+          + Nos évènements
+               o Évènéments
+     * Faire un don
+     *
+          + English
+     *
+
+    1. Accueil
+
+     Actualité
+
+     Science
+
+     Intelligence artificielle : va-t-elle remplacer le diagnostic
+   médical ?
+
+Intelligence artificielle : va-t-elle remplacer le diagnostic médical ?
+
+     * Publié le : 13/07/2023
+     * Temps de lecture : 5 min
+     * Actualité, Science
+
+   L’émergence des systèmes d’intelligence artificielle (IA) représente
+   une révolution dans le domaine médical. Les personnels de santé y ont
+   de plus en plus recours pour affiner leurs diagnostics et prendre des
+   décisions thérapeutiques. Mais ces outils peuvent-ils remplacer
+   l’expertise humaine ? Trois spécialistes exposent leur point de vue sur
+   l’intérêt et les limites de cette technologie.
+
+   Un article à retrouver dans le magazine de l’Inserm n°57
+
+   En radiologie, en dermatologie, ou encore en ophtalmologie, l’IA permet
+   de détecter des maladies invisibles à l’œil nu et d’établir des
+   prévisions. Elle peut aussi aider à adapter et à personnaliser les
+   traitements. Elle est même utilisée à titre expérimental aux urgences
+   pour orienter plus rapidement les patients. Mais cette technologie
+   amène aussi son lot de questionnements. Jusqu’où peut-on lui faire
+   confiance ? À partir de quelles données est-elle entrainée ? Peut-elle
+   remplacer l’expertise humaine ? Quels critères éthiques faut-il
+   respecter ? Enfin, que change-t-elle dans la relation patient-médecin ?
+   Les applications et les limites de ces systèmes intelligents dans le
+   diagnostic médical restent à définir, d’autant que leurs performances
+   semblent se décupler jour après jour.
+
+L’avis de Gabrielle Chenais : « Quid des responsabilités ? »
+
+   L’intelligence artificielle ne remplacera jamais le diagnostic humain.
+   Son objectif n’a jamais été de se substituer aux professionnels de
+   santé, mais de travailler de concert avec eux. Aux urgences, l’IA est
+   testée à titre expérimental pour imputer un degré de gravité sur les
+   patients qui se présentent, ce qui fait gagner du temps aux infirmiers
+   dans le tri des cas. Mais ce système aura du mal à capter les nuances
+   que seul un œil humain peut percevoir.
+
+   Par ailleurs, les systèmes intelligents soulèvent plusieurs questions
+   d’ordre éthique. D’une part, si une décision est prise avec l’aide d’un
+   système décisionnel automatique, le professionnel doit en informer son
+   patient, expliquer pourquoi il suit les recommandations et comment il
+   est arrivé à cette conclusion avec ce système. Ensuite, le soignant
+   doit avoir le droit de refuser de suivre les recommandations de l’IA
+   s’il pense qu’elle s’est trompée. De la même manière, le patient doit
+   être libre de refuser une décision qui émane de l’IA. Se pose aussi la
+   question de la responsabilité légale. Si un professionnel de santé suit
+   la préconisation d’une IA qui va à l’inverse des recommandations
+   générales : quid des responsabilités ?
+
+   Autre problématique, il faut bien déterminer quelles performances sont
+   attendues de l’IA. Si on prend le cas des urgences, la priorité est la
+   rapidité du diagnostic, au risque de mettre en danger le patient. Le
+   critère de performance n’est donc pas toujours uniquement la précision,
+   mais parfois aussi la vitesse. Dans tous les cas, il est crucial de se
+   poser la question de la formation des professionnels de santé à
+   l’utilisation de l’IA, car même si elle ne les remplace pas, c’est
+   quand même un outil avec lequel ils vont devoir travailler.
+
+   Gabrielle Chenais est doctorante-chercheuse au Bordeaux health research
+   center (unité 1219 Inserm/Université de Bordeaux)
+
+L’avis de Michel Dojat : « L’IA doit savoir dire “je ne sais pas” »
+
+   L’intelligence artificielle est un outil d’aide à la décision médicale.
+   Elle devient indispensable car il y a de plus en plus d’informations à
+   synthétiser, et elle permet de le faire efficacement. En imagerie
+   notamment, l’IA permet de quantifier et de localiser automatiquement
+   des modifications, par exemple la diminution du volume de la matière
+   grise ou l’apparition de lésions, et de détecter des changements
+   subtils non visibles à l’œil nu. S’appuyant sur de larges bases de
+   données, l’IA peut définir des profils typiques de normalité ou de
+   progression spécifique d’une pathologie permettant de faire des
+   prédictions et au clinicien d’affiner et d’individualiser la thérapie.
+   Pour être intégrés dans la pratique clinique, il est important que ces
+   assistants informatisés soient capables de reconnaître leurs limites
+   lorsque les images à analyser sont ambiguës ou hors des cas appris :
+   l’IA doit savoir dire « je ne sais pas ». Elle doit aussi pouvoir
+   apporter de la nuance à ses résultats et dire : « Ici, il y a une
+   lésion, j’en suis sûre à 80 % », en soulignant les 20 % d’incertitude.
+   Donc est-ce que l’IA peut prendre seule des décisions ?
+
+   Une chose est certaine, elle peut en proposer et distinguer les cas
+   faciles et difficiles. Et lorsqu’elle ne parvient pas à dégager une
+   analyse claire, alors l’humain peut se focaliser sur ces cas difficiles
+   et trancher. C’est d’ailleurs l’un des avantages de cet outil : en
+   proposant des diagnostics rapides sur les cas les plus simples, l’IA
+   permet au praticien de dégager du temps pour ses interactions avec le
+   patient. Enfin, pour que ces assistants soient fiables et bénéficient
+   au patient, je pense qu’il est impératif de mettre en place des
+   procédures robustes de test comme pour les médicaments, ce qu’on ne
+   sait pas encore très bien faire.
+
+   Michel Dojat est directeur de recherche Inserm dans l’unité
+   Neuro-imagerie fonctionnelle et perfusion cérébrale (unité1216),
+   cofondateur et conseiller scientifique de la start-up Pixyl.
+
+L’avis de Laurence Devilliers : « Pour l’instant nous ne sommes pas prêts à
+déléguer les décisions à ces systèmes »
+
+   Nous devons apprivoiser les systèmes d’intelligence artificielle pour
+   comprendre lorsqu’ils produisent un résultat juste, incertain ou
+   totalement faux. Dans la détection des cancers à l’aide de radios l’IA
+   peut par exemple générer des faux positifs. Or, il faut être
+   expérimenté pour repérer les erreurs du système. C’est ce qui peut être
+   difficile pour les jeunes médecins. Si le soignant suit
+   systématiquement les recommandations de la machine, le risque c’est de
+   demander des interventions et des biopsies supplémentaires qui ont un
+   coût pour la société, à défaut de donner des soins pour les patients
+   qui en ont réellement besoin. Pour l’instant nous ne sommes pas prêts à
+   déléguer les décisions à ces systèmes, d’autant plus quand la vie d’un
+   patient en dépend. En parallèle, il y a un besoin urgent de construire
+   une loi, des normes ainsi que des règles éthiques pour encadrer
+   l’utilisation de systèmes prédictifs, afin de minimiser les risques de
+   manipulation et de dépendance. Il s’agit de vérifier leur robustesse et
+   le respect de critères éthiques comme la liberté et l’autonomie de
+   décision des humains lors des usages de ces outils. Les soignants et
+   les patients doivent pouvoir comprendre les grands principes de ces
+   systèmes s’ils sont développés de façon à rendre plus transparent et
+   explicable leur fonctionnement. Il faut également pouvoir mutualiser
+   les expériences et suivre les usages de ces machines : mesurer les
+   risques, anticiper les erreurs, surveiller le système via des comités
+   d’éthique. Il y a tout un écosystème à créer afin d’encadrer au mieux
+   ces outils et de responsabiliser concepteurs et utilisateurs !
+
+   Laurence Devilliers est professeur en IA à Sorbonne Université,
+   chercheuse au LISN (CNRS), membre du Comité national pilote d’éthique
+   du numérique et de l’Afnor, présidente de la fondation Blaise Pascal.
+
+   Auteur : L. A.
+
+À lire aussi
+
+Intelligence artificielle et santé
+
+   L’intelligence artificielle (IA) est un domaine de recherche en pleine
+   expansion et promis à…
+
+Recevoir notre lettre d’information
+
+   Vous recevrez chaque mois les derniers articles publiés sur ce site.
+   Nous n’utiliserons pas votre e‑mail pour autre chose, et vous pourrez
+   vous désabonner à tout moment. En savoir plus sur vos données et vos
+   droits.
+
+Formulaire d’inscription
+
+   loader
+
+   Adresse e-mail (au format pbheevry@rkrzcyr.se) : ____________________
+   M'inscrire
+
+Nos délégations régionales
+
+     * Auvergne Rhône-Alpes
+     * Est
+     * Grand Ouest
+     * Île-de-France Centre Est
+     * Île-de-France Centre Nord
+     * Île-de-France Sud
+     * Nord-Ouest
+     * Nouvelle-Aquitaine
+     * Occitanie Méditerranée
+     * Occitanie Pyrénées
+     * PACA et en Corse
+
+Autres sites Inserm
+
+     * Professionnels de la recherche
+     * Ressources Humaines
+     * Marchés publics
+     * Évaluation
+     * Orphanet
+
+Accès direct
+
+     * Volontaire pour des tests
+
+Associés à l’Inserm
+
+     * ANRS | MIE
+     * Inserm Transfert
+
+     *
+     *
+     *
+     *
+     *
+     *
+     *
+
+     * Questions fréquentes
+     * Nous contacter
+     * Mentions légales
+     * Accessibilité (partiellement conforme)
+     * Données personnelles
+     * Gérer mes cookies
+     * © Inserm 2023
+
+   (BUTTON) Retour en haut de page
+
+   Ce site utilise des cookies. Vous pouvez changer d'avis à tout moment
+   en cliquant le menu "Gérer mes cookies" en bas de page.
+   AccepterRefuser
+   Paramétrer
+   Cookies
+   (BUTTON) Fermer
+
+Paramétrer les cookies
+
+   Liste des types de cookies utilisés sur ce site et de leurs finalités.
+   Certains cookies sont déposés quelle que soit la page que vous visitez,
+   d'autres uniquement si vous visitez une page qui en a besoin.
+   Nécessaire
+   [X] Nécessaire
+   Toujours activé
+   Ces cookies sont indispensables aux fonctionnalités de base du site et
+   à sa sécurité. Vous ne pouvez pas les refuser, car ils ne collectent
+   pas de données personnelles.
+   Cookie Durée Description
+   cerber_bjZJE-PQKeqAy 1 jour Déposé par l'extension de sécurité du site.
+   cerber_iEuaryZDFx 1 jour Déposé par l'extension de sécurité du site.
+   cerber_rmpcGFhB 1 jour Déposé par l'extension de sécurité du site.
+   cookielawinfo-checkbox-advertisement 1 an Déposé par l'extension de
+   gestion des cookies pour stocker le consentement du visiteur.
+   cookielawinfo-checkbox-analytics 1 an Déposé par l'extension de gestion
+   des cookies pour stocker le consentement du visiteur.
+   cookielawinfo-checkbox-embedded 1 an Déposé par l'extension de gestion
+   des cookies pour stocker le consentement du visiteur.
+   cookielawinfo-checkbox-necessary 11 mois Déposé par l'extension de
+   gestion des cookies pour stocker le consentement du visiteur.
+   cookielawinfo-checkbox-non-necessary 11 mois Déposé par l'extension de
+   gestion des cookies pour stocker le consentement du visiteur.
+   viewed_cookie_policy 11 mois Déposé par l'extension de gestion des
+   cookies pour stocker le statut du consentement du visiteur concernant
+   les cookies.
+   Contenu embarqué
+   [ ] embedded
+   Ces cookies sont liés à des contenus tiers embarqués sur le site
+   (vidéos, etc.). Ils ne sont déposés que sur certaines pages.
+   Cookie Durée Description
+   CONSENT 16 ans 5 mois 11 jours 11 heures Déposé via les vidéos YouTube
+   embarquées. Enregistre des statistiques anonymes, par exemple sur le
+   nombre d'affichages d'une vidéo. Aucune information sensible n'est
+   collectée, à moins que vous soyez connecté à un compte Google (dans ce
+   cas, vos actions sont liées à votre compte).
+   dmvk session Déposé par Dailymotion, pour collecter statistiques à
+   propos du comportement des visiteurs du site. Utilisé pour des
+   statistiques internes.
+   pll_language 1 an Déposé par l'extension de traduction. Stocke le code
+   langue de la dernière page consultée.
+   ts 1 an et 1 mois Déposé par Dailymotion.
+   usprivacy 1 an 1 mois Déposé par Dailymotion.
+   v1st 1 an 1 mois Déposé par Dailymotion.
+   VISITOR_INFO1_LIVE 5 mois 27 jours Déposé par YouTube pour collecter
+   des informations à propos des vidéos embarquées.
+   YSC session Déposé par YouTube pour comptabiliser le nombre de vues des
+   vidéos embarquées.
+   Publicité
+   [ ] advertisement
+   Le site n'affiche pas de publicité, mais certains contenus embarqués
+   peuvent déclencher le dépôt de cookies publicitaires. Ces cookies sont
+   utilisés pour fournir des publicités et des campagnes marketing
+   personnalisées. Ils pistent les visiteurs entre les sites et collectent
+   des données personnelles.
+   Cookie Durée Description
+   IDE 1 an 24 jours Déposé par Google DoubleClick pour stocker des
+   informations sur la façon dont les visiteurs utilisent les vidéos
+   YouTube et la publicité vue avant les vidéos. Il sert à afficher des
+   publicités pertinentes à l'utilisateur selon son profil.
+   test_cookie 15 minutes Déposé par Google DoubleClick pour déterminer si
+   le navigateur du visiteur supporte les cookies.
+   Enregistrer et accepter
+   Powered by CookieYes Logo

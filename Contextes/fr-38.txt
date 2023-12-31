@@ -1,0 +1,2039 @@
+
+     * IA,
+     * Intelligence artificielle,
+     * Pédagogie,
+--
+
+   Anthony Masure, Florie Souday, « IA et pédagogie : un état de l’art »,
+   blog AnthonyMasure.com, 24 avril 2023 [pour la première version],
+   https://www.anthonymasure.com/blog/2023-04-24-ia-pedagogie-etat-art
+
+--
+
+IA et pédagogie : un état de l’art
+
+--
+   évaluer. Cette initiative vise ainsi à poser, de façon éclairée, les
+   termes d’un débat de fond quant à la place des IA en milieu scolaire
+   afin de préfigurer des formats de cours, exercices et projets de
+--
+   pointent des enjeux de fond liés à la structure et à l’économie de ces
+   techniques. En effet, la place des IA en contexte pédagogique est
+   compliquée à établir en raison (entre autres) du caractère opaque et
+--
+   paramètres, contre 170 000 milliards pour GPT-4 (mars 2023). Ce ne sera
+   pas le moindre des défis posés par les IA que de conjuguer le temps
+   long de la recherche avec les promesses de rendement de ces services et
+--
+
+   L’actuel engouement médiatique autour des IA grand public reflète de
+   profondes scissions dans leur acceptation, avec des titres « chocs »
+   les décrivant tantôt comme des « machines surpuissantes », tantôt comme
+   des « machines aliénantes ». Or cette vision manichéenne de l’IA,
+   nourrie par des discours plus anciens liés à la peur de
+--
+
+   – Quelle place les IA occupe(ro)nt-elles dans le monde social ?
+   – Comment augmenter, et non pas remplacer, l’intellect humain ?
+   – Est-il juste de réduire les IA à de pures machines aliénantes, dont
+   l’opacité servirait à mieux contrôler les individus ?
+   – Qui sont les entités et groupes derrière ces IA ?
+   – La création va-t-elle disparaître au profit de contenus générés par
+   les algorithmes ?
+   – Quelles sont les conséquences actuelles et potentielles des IA dans
+   l’enseignement, et comment encadrer leur utilisation ?
+--
+   « quoi » responsabiliser, ne vaudrait-il pas mieux débattre, comprendre
+   les limites, et trouver les failles de ces IA pour les contourner et
+   apprendre à travailler « avec » d’une façon juste et éclairée ?
+--
+   pour accélérer leur travail. Il est dès lors primordial de rappeler que
+   ces IA puisent leur force dans la création et l’intellect humains. Il
+   importe de débattre, d’argumenter et d’analyser leurs avantages et
+--
+   générées (dont les sources ne sont pas vérifiables), la non émotivité
+   et le reflet de systèmes discriminatoires de ces IA, entre autres,
+   attestent de l’importance de ne pas accepter passivement leur arrivée.
+--
+
+   *Rodolphe Koller « Les développeurs d’IA craignent de ne plus disposer
+   de données humaines via le crowdsourcing », ICT Journal, 7 juillet
+--
+   (BUTTON) Idées clé
+     * Les entreprises utilisant les IA s’appuient sur des données
+       gratuites en ligne ou sur des entreprises dans des pays à bas coût
+--
+       l’abondance d’images génératives renverse ce schéma habituel : les
+       IA s’alimentant d’images IA.
+     *
+--
+       potentiellement des machines pour gagner en productivité :
+       «intelligence artificielle artificielle artificielle».
+     * Des chercheurs de l’EPFL ont mené une étude sur le nombre de
+--
+
+   Les IA semblent s’entraîner de plus en plus avec des données générées
+   par les IA elles-mêmes. En cause, la profusion de données IA en ligne
+   et les étiqueteurs humains, par souci de productivité et de gain de
+   temps, qui utilisent désormais les IA pour réaliser leurs tâches.
+
+--
+
+   Josh Dzieza « AI Is a Lot of Work », The Verge, 20 juin 2023
+   (BUTTON) Idées clé
+
+     * L’article parle des modérateurs et entraîneurs des IA, sous-payés
+       et issus majoritairement de pays en développement.
+--
+       qu’ils font ou pour qui ils travaillent. Les tâches consistent à
+       étiqueter et entraîner les IA à reconnaître des éléments (vêtements
+       vus dans les selfies miroir, de regarder à travers les yeux des
+--
+       travaille réellement. Par exemple, Joe, a appris que l’entreprise
+       pour laquelle il travaille, Retomasks, est une filiale de Scale AI,
+       fournisseur de données de la Silicon Valley de plusieurs milliards
+--
+       distribution des probabilités de vivre».
+     * Les IA actuelles existent grâce à un travail fastidieux et
+       répétitif fait depuis des années. En 2007, le chercheur en IA
+       Fei-Fei Li disait déjà que pour améliorer les IA, il faudrait les
+       entraîner sur des millions d’images étiquetées. Pour entraîner ces
+       IA, Li a trouvé des milliers de travailleurs sur Mechanical Turk
+       (plateforme de crowdsourcing d’Amazon pour trouver de la
+--
+       Tout est catégorisé, nos émotions aussi.
+     * L’intelligence humaine est la base de l’intelligence artificielle :
+       les emplois humains derrière sont indispensables.
+--
+       d’appel(Kenya et au Népal), sites de “crowdworking” comme
+       Mechanical Turk et Clickworker ou des services comme Scale AI où
+       tout le monde peut s’inscrire, sous réserve de réussir des examens
+       de qualification et des cours de formation et où un suivi des
+       performances est instauré. Scale AI, par exemple, a été fondée en
+       2016 par Alexandr Wang, alors âgé de 19 ans, était évaluée en 2021
+--
+       humain saura que le reflet d’une chemise dans un miroir n’est pas
+       la vraie chemise; la machine non. Pour l’IA tout est pixel. Les
+       annotateurs doivent donc penser comme des robots, penser de manière
+--
+       salarié peut ne pas avoir des tâches pendant des mois. Cette
+       instabilité est liée au développement des IA, vacillant. Face à ça,
+       des communautés d’entraides d’annotateurs se sont créées sur les
+--
+       ce travail.
+     * D’autres travailleurs des IA sont mieux payés, comme ceux
+       entraînant les chatbots. Le travail consiste à parler toute la
+--
+       meilleure réponse, créant ce qu’on appelle « données de rétroaction
+       humaine » : les retours de l’IA imitent les conversations humaines
+       de manière impressionnante car ils ont été formés sur des la
+--
+       modèle pour imiter leurs préférences à grande échelle, en
+       automatisant le processus de classement et en formant leur IA à
+       agir d’une manière que les humains approuvent. Ainsi le bot est
+--
+     * Ainsi, ChatGPT, par exemple, semble si humain parce qu’il a été
+       formé par une IA qui imitait des humains qui évaluent une IA qui
+       imitait des humains qui prétendaient être une meilleure version
+       d’une IA formée à l’écriture humaine.
+     * Or cette technique d’ « apprentissage par renforcement à partir de
+--
+       nécessaire de faire une pause pour observer ses failles. Par
+       exemple, ces IA ne peuvent pas vérifier leurs réponses à partir de
+       la logique ou en s’appuyant sur des sources externes fiables et
+--
+       en éthique, des cas compliqués et ambigus.
+     * À mesure que les IA s’améliorent, il est plus compliqué de repérer
+       les mauvaises sorties : c’est ce qu’on appelle la « surveillance
+--
+       plus spécialisés pour mieux repérer les spécificités d’un domaine
+       précis dans les sorties IA. À ce propos, Chen, fondateur de Surge
+       (start-up spécialisée en biotechnologie et en IA médicale), dit :
+       « Le paysage de l’annotation doit passer de cet état d’esprit de
+--
+       plus riche et qui capture l’éventail des compétences humaines, de
+       la créativité et des valeurs que nous voulons que les systèmes d’IA
+       possèdent. »
+--
+       d’annotations humaines. Les besoins en données vont diminuer selon
+       Sam Altman, pdf d’OpenAI, à mesure que l’IA va s’améliorer. Or Chen
+       est septique sur ce point : l’IA n’atteindra pas un point où la
+       rétroaction humaine n’est plus nécessaire. La voie à suivre serait
+       d’impliquer des systèmes d’IA aidant les humains à superviser
+       d’autres IA. Une autre possibilité est que des IA débattent entre
+       elles et qu’un humain rend le verdict final sur lequel est correct.
+--
+   Verge, examine les conditions de travail des annotateurs, chargés
+   d’étiqueter les données d’entrainements des IA.
+     __________________________________________________________________
+
+   El Mahdi El Mhamdi, « Que se cache t-il derrière l’IA ? Un ancien
+   chercheur de Google répond à vos questions », T’as Capté, 13 juin 2023
+--
+     * Différence fondamentale entre intelligence humaine et artificielle
+       est dans l’objectif : l’IA a un objectif précis, défini par des
+       humains. Or, l’intelligence humaine suit des objectifs
+--
+       gardes-fous que l’évolution sociale a mise en place pour rendre
+       cette intelligence fiable. Challenge actuel avec IA est donc de
+       reproduire ces mécanismes pour arriver à l’intelligence humaine.
+     * 2 paradigmes des IA : la programmation (règles à suivre) et
+       l’apprentissage (agir et déduire des règles pour les écrire
+       ensuite).
+     * IA fonctionne de la manière suivante : les IA sont composés de
+       réseaux de neurones qui essayent de mimer la biologie. Ce sont des
+--
+       neurones artificielles qui vont traiter des segments de l’image. Le
+       défi pour les IA est de comprendre quel est le bon paramètre à
+       choisir et mettre sur chaque connexion. On va donc donner à ces
+--
+       plus influençables.
+     * On parle de règles futures à établir avec les IA or, les grandes
+       entreprises derrière ces IA violent déjà des lois actuelles. Les
+       États se voient donc désarmés.
+--
+       empêcher de dormir.
+     * Parler d’IA éthiques n’a pas de sens : cette notion introduite par
+       les entreprises créent une forme d’approche faussement militante
+       avec les IA. Il faudrait plutôt se réapproprier ces IA et ne pas
+       accepter de les appeler IA fiables ou éthiques.
+     * Turing disait déjà dans les années 50 que si une machine est
+--
+       toujours une contradiction entre performance et fiabilité.
+     * Le nombre de paramètres est une cause de non fiabilité des IA: cela
+       les rend plus vulnérables car elles emmagasinent plus
+       d’informations et sont donc plus susceptibles de fournir de fausses
+       données. Aussi, plus l’IA a de données, plus les données
+       personnelles des utilisateurs sont violées.
+--
+       essentiel, plutôt que la course aux gadgets.
+     * Autre fantasme est le couplage IA sous forme de logiciels avec des
+       robots mécaniques et physiques qui vont exécuter ces commandes. Ce
+--
+       maîtrise pas encore assez et qui amène ainsi à tous les problèmes
+       que nous connaissons avec les IA.
+         ______________________________________________________________
+--
+   El Mahdi El Mhammdi, enseignant-chercheur et anciennement scientifique
+   senior chez Google, explique le fonctionnement des IA et les
+   problématiques avec ces systèmes. La vidéo commence par des
+--
+
+     * Question de l’IA générale artistique : quand verrons-nous
+       l’apparition d’une IA capable d’effectuer n’importe quelle tâche
+       humaine créative ?
+     * Analyse des images générées par les IA qui sont avant tout
+       esthétiques : leurs compositions semblent parfaitement équilibrées,
+       les couleurs diversifiées et les formes rythmées.
+     * L’IA est professionnelle mais non créative selon Lev Manovich, car
+       elle est techniquement plus développée que de nombreux travaux
+       d’étudiants. Un portfolio fait d’images générées par une IA, avec
+       un texte créé par ChatGPT pourrait faire entrer n’importe quel
+--
+       dominantes et donc, génèrent des choses conventionnelles.
+     * Comparaison par Manovich des images IA avec le classicisme par
+       l’idéalisation et la « perfection » de ces images. Il y a une
+       dramaturgie, poussée à son paroxysme, dans les images IA.
+     * Kitsch et l’IA : le kitsch qui est apparu dans les marchés de l’art
+       dans Munich entre 1860 et 1870, décrit les images peu coûteuses et
+       populaires. Le kitsch permet d’identifier rapidement et sans effort
+       un sujet, par un aspect mélodramatique et stéréotypé. Les images AI
+       semblent s’inscrire dans cette veine par une facilité de
+--
+       jusqu’à créer un effet dramatique donc exagérément naïf.
+     * L’art de la copie par les IA : il y aurait quatre types de copies.
+       D’abord, celle où vous pouvez répéter le processus indéfiniment
+--
+       résultats vous intéressent. Aussi, voir comme dans le mode par
+       défaut de Midjourney les invites et les images IA en temps réel des
+       autres utilisateurs. Enfin, les images IA sont par défaut de la
+       copie car les invites font majoritairement référence à la pop
+       culture.
+     * Différence entre cet « art de la copie » des IA et les millions
+       d’images d’artistes amateurs créant des copies de personnages
+--
+       serait donc insensé de rejeter la culture visuelle vernaculaire de
+       l’IA comme non authentique. En effet, les copies et variations ont
+       toujours existé comme par exemple, la famille de Bruegel qui a
+--
+     * Rejeter la copie c’est rejeter son impact dans l’histoire : les
+       imageries IA créée par des amateurs perpétuent ainsi cet héritage
+       de la copie, où l’imitation constante et les petites modifications
+--
+     * Lev Manochich conclut en revenant sur son questionnement du début :
+       assisterons-nous à la une IA artistique générale ? Il serait plus
+       intéressant de voir une IA proposant des idées aux artistes par une
+       analyse d’œuvres plutôt qu’une IA générant des images. Cette IA
+       servirait à visualiser l’évolution de motifs, sujets et formes dans
+--
+       directions et la recommandation d’outils adaptés en fonction de la
+       finalité voulue. L’idée serait de développer des IA invitant plus
+       au dialogue.
+--
+
+   Lev Manovich traite de l’état actuel des images générées par les IA et
+   de leurs aspects bien trop souvent dramaturgiques et donc kitsch. Les
+   mécanismes de copie d’invites de textes couplés à une analyse d’images
+   populaires par les IA peuvent expliquer en partie cette profusion
+   d’images stéréotypées et mélodramatiques. Mais contester la copie
+--
+   qui a toujours eu un rôle capital dans l’évolution des représentations.
+   Il serait, cependant, plus souhaitable de voir apparaître des IA
+   dialoguant avec les artistes, en leur initiant des idées par une
+--
+   Alexandre Lacroix « Les voitures sauront-elles bien se conduire ? »,
+   philosophie magazine, Hors série n°57 : Intelligence artificielle : le
+   mythe du XXIème siècle, mai 2023
+--
+       avec le développement des voitures autonomes car on devra
+       expliciter aux IA quelle décision prendre selon la situation.
+       Avant, cette question se posait peu car l’humain n’est pas
+       programmé et donc, agit en circonstance par de la spontanéité,
+       chose que l’IA est incapable de faire.
+     * Première étape est de demander aux gens ce qu’ils décideraient dans
+--
+       solution positive précède la négative. Penser aux vies qu’on sauve
+       avant de penser aux morts en somme. Un IA qui distribue des
+       probabilités de vivre serait donc plus acceptable qu’un IA qui tue.
+         ______________________________________________________________
+--
+   pistes de réflexion sur la fixation de la valeur d’une vie humaine dans
+   des accidents mortels. Comment doit-on développer des IA, devant
+   prioriser des vies humaines ? Sur quels critères doit-on se baser?
+--
+     * Un journaliste du monde a demandé à ChatGPT d’expliquer pourquoi
+       Midjourney a du mal à représenter les mains. l’IA répond que la
+       forme, la structure complexe et la diversité de mouvements des
+--
+       représentation complexe.
+     * Les IA générant des images fonctionnent à base de pixels. Elle
+       doivent les agencer de manière cohérente pour rendre l’image
+       compréhensible pour les humains. Les chercheurs utilisent la
+       « diffusion » pour entraîner les IA en intégrant du bruit pour que
+       l’image soit dégradée : les IA apprennent ainsi à les reconstituer.
+     * Des bases de données immenses sont analysées par les IA pendant des
+       milliers d’heures afin de trouver des récurrences dans l’agencement
+       des pixels et des combinaisons. Cela permet aux IA de saisir la
+       multitude de variables d’une image : des observations qui vont
+--
+     * Une fois le lien texte-image fait, les chercheurs demandent de
+       faire marche arrière en demandant à l’IA d’utiliser la diffusion.
+       Le programme génère des combinaisons inédites en s’inspirant de la
+       manière dont les pixels s’agencent statistiquement dans leurs bases
+       de données. La faille se trouve ici : pour l’IA les mains ne sont
+       qu’une combinaison de pixels 2D, collée à une autre combinaison.
+       L’IA ne comprend donc pas le fonctionnement d’une main par exemple.
+       La forme des mains est rarement décrite dans les prompts et l’IA
+       doit improviser.
+--
+
+   Cette vidéo explique en 10min, le fonctionnement des IA générateur
+   d’images, comme Midjourney, pour expliquer pourquoi certains éléments,
+--
+
+   Meghan O’Gieblyn « Does AI Have a Subconscious? », Wired, 23 mai 2023
+   (BUTTON) Idées clé
+--
+       considérant le subconscient comme une machine. La vision de Carl
+       Jung semble être la plus intéressante à l’ère de l’IA générative.
+       Il parle de subconscience comme « matrice » transpersonnelle
+--
+     * Une analogie peut donc être faite entre la théorie de Jung et la
+       façon dont les modèles IA sont construits (absorbant le meilleur
+       comme le pire de notre culture humaine).
+--
+       socialement acceptable que nous montrons aux autres pour cacher
+       notre part d’ombre, se retrouve dans ces IA.
+     * Selon Jung, ceux qui répriment le plus cette part d’ombre sont ceux
+       qui sont les plus vulnérables à la résurgence de désirs
+       irrationnels et dangereux. Les modèles IA auraient ainsi des
+       pulsions enfouies similaires aux humains, qu’ils ne pourraient pas
+       exprimer par leurs réglementations et un non libre arbitre.
+     * Or, parler de désirs pour des IA semble erroné car ils n’ont pas
+       d’expérience incarnée du monde. Mais dire que les IA ont un
+       subconscient pourrait s’avérer vrai : ils sont de purs
+--
+       pulsions subconscientes afin de les intégrer dans la vie de
+       l’esprit éveillé, devrait être appliqué dans les IA (utiliser de
+       manière délibérative plutôt qu’irréfléchie).
+--
+   Cet article fait des analogies entre la psychanalyse de Jung et le
+   fonctionnement des IA, qui ont en commun une subconscience mais qui se
+   différencient par l’ego, que seuls les humains ont. Meghan O’Gieblyn
+   propose ainsi une analyse psychanalytique des IA, au regard du
+   fonctionnement de la subconscience humaine.
+--
+
+   Brieuc Beckers, « IA : les limites de Midjourney selon ChatGPT ? », Le
+   Monde, 14 mai 2023
+--
+       d’expliquer pourquoi Midjourney a du mal à représenter les mains.
+       l’IA répond que la forme, la structure complexe et la diversité de
+       mouvements des mains (¼ des os du corps sont dans les mains)
+       rendent sa représentation complexe.
+     * Les IA générant des images fonctionnent à base de pixels. Elle
+       doivent les agencer de manière cohérente pour rendre l’image
+       compréhensible pour les humains. Les chercheurs utilisent la
+       « diffusion » pour entraîner les IA en intégrant du bruit pour que
+       l’image soit dégradée : les IA apprennent ainsi à les reconstituer.
+     * Des bases de données immenses sont analysées par les IA pendant des
+       milliers d’heures afin de trouver des récurrences dans l’agencement
+       des pixels et des combinaisons. Cela permet aux IA de saisir la
+       multitude de variables d’une image : des observations qui vont
+--
+     * Une fois le lien texte-image fait, les chercheurs demandent de
+       faire marche arrière en demandant à l’IA d’utiliser la diffusion.
+       Le programme génère des combinaisons inédites en s’inspirant de la
+       manière dont les pixels s’agencent statistiquement dans leurs bases
+       de données. La faille se trouve ici : pour l’IA les mains ne sont
+       qu’une combinaison de pixels 2D, collée à une autre combinaison.
+       L’IA ne comprend donc pas le fonctionnement d’une main par exemple.
+       La forme des mains est rarement décrite dans les prompts et l’IA
+       doit improviser.
+--
+   Dans cette vidéo, Brieuc Beckers, journaliste au magazine Le Monde
+   explique pourquoi les IA d’images génératives ont du mal à générer des
+   mains. Ce problème serait dû à la compréhension purement superficielle
+   des machines de l’anatomie humaine, couplée à des prompts ne décrivant
+   généralement pas la position des mains. L’IA génère ainsi des mains
+   difformes mais des améliorations ont récemment été faites pour pallier
+--
+
+   Nadia Nooreyezdan, « India’s religious AI chatbots are speaking in the
+   voice of god — and condoning violence », Rest of the world, 9 mai 2023
+--
+
+     * De nombreuses IA « religieuses » basés sur Bhagavad Gita ont
+       récemment émergé en Inde. Des millions de personnes les utilisent.
+--
+       Krishna, qui est comme un « thérapeute » dans la religion.
+     * Or, les experts alertent sur les dangers de ces IA qui si elles se
+       retrouvent entre de mauvaises mains peuvent s’avérer
+--
+       principes de la religion.
+     * Depuis qu’OpenAi à partagé son API en novembre 2022, les IA se sont
+       démultipliées. Ce partage de l’API et le fait que la religion soit
+       le plus grand business en Inde, il est logique que des IA
+       religieuses ont vu le jour.
+     * Un des grands dangers dans ces IA est une confiance aveugle
+       accordée à ces algorithmes et ainsi, une incapacité à déceler les
+       discours discriminatoires.
+     * On a aussi découvert que ces IA soutiennent fortement ou critiquent
+       certains partis indiens. GitaGPT devient alors politique.
+     * Les développeurs de ces IA souhaitent rappeler aux utilisateurs
+       qu’il ne faut pas trop croireen ces IA : il est essentiel qu’ils
+       fassent appel à leurs esprits critiques. Cela est mentionné par
+       exemple bas de page du site de Bible GPT.
+     * Or, des dérives peuvent ou ont eu lieu comme avec un IA basé sur le
+       Coran qui a donné comme conseil de tuer tous les polythéistes.
+       Cette IA a été mise en pause depuis.
+     * La responsabilité individuelle est le grand enjeu de ces IA.
+         ______________________________________________________________
+
+   Cet article souligne l’émergence de nombreuses IA “religieuses” en
+   Inde, basées sur le Bhagavad Gita, qui sont de plus en plus utilisées
+   par des millions de personnes. Les experts mettent en garde contre les
+   dangers potentiels de ces IA, notamment lorsqu’elles peuvent adopter
+   des comportements misogynes ou inciter à la violence envers ceux qui ne
+--
+   discours discriminatoires. En fin de compte, la responsabilité
+   individuelle est un enjeu majeur dans l’utilisation de ces IA
+   religieuses.
+--
+
+   Naomi Klein, « AI machines aren’t ‘hallucinating’. But their makers
+   are? », The Guardian, 8 mai 2023
+--
+     * Le terme d’hallucination est fréquemment utilisé pour définir les
+       images « fausses » générées par les IA (faits inventés, comme
+       l’image du pape François portant en doudoune blanche Balenciaga),
+--
+       étranges et immatériels que le cerveau humain perçoit. Utiliser ce
+       terme pour les IA revient donc à remettre de l’humain dans ces
+       machines.
+--
+     * Les systèmes actuels sont avant tout basés sur le profit : il y a
+       un risque que l’IA deviennent un outil de dépossession et de
+       spoliation supplémentaire.
+--
+     * Il est de même avec toutes nos saisies et données personnelles qui
+       sont utilisées pour entraîner des IA sans notre consentement – d’où
+       le fait que l’on doit être attentif aux systèmes hallucinatoires de
+       ces algorithmes. Naomi Klein en expose 4 types : le premier est de
+       croire que l’IA pourrait résoudre la crise climatique en aidant à
+       analyser les émissions de C02. Cela démontre un déficit
+--
+       machines, beaucoup moins coûteuses et ambitieuses, pour résoudre
+       des enjeux que nous sommes incapables de surmonter. L’IA
+       aggraverait sûrement la crise climatique à cause des serveurs et de
+       leurs émissions de carbone. Enfin, L’IA sera probablement utilisée
+       par de plus en plus d’entreprises générer des micropublicités
+--
+       et d’agir collectivement sur ces technologies.
+     * La seconde hallucination est de croire que l’IA peut fournir une
+       gouvernance avisée. Les décideurs pensent s’appuyer sur des
+--
+       Washington afin de les alerter sur le risque d’être
+       laissé-pour-compte par la Chine à venir dans le secteur des IA,
+       dans le cas où les politiciens ne ne prennent pas de décisions
+       quant à leurs réglementations. Sam Altman, patron d’OpenAI et
+       créateur de ChatGPT, vend l’IA comme l’outil pour permettre les
+       meilleures prises de décisions des politiques et des industries.
+--
+     * Enfin, la dernière hallucination est celle de la libération des
+       corvées. Au contrainte, ces IA participent d’un schéma marketing.
+       Les individus deviennent accro à ces outils gratuits, ce qui
+--
+     * L’artiste Molly Crabapple appelle donc les éditeurs, artistes et
+       journalistes à soutenir les actions n’utilisant par les IA. Elle
+       déclare que « L’art de l’IA générative est vampirique, se régalant
+       des générations passées et aspirant le sang des artistes
+       vivants. ». Nous pouvons nous opposer à l’implémentation de ces IA
+       en développant des outils réglementaires, comme le faisait Timnit
+--
+   L’article explore les utilisations trompeuses et potentiellement
+   dangereuses de l’IA. Naomi Klein souligne que le terme d’«
+   hallucination » est souvent utilisé pour décrire les « fausses »
+   créations des IA, qui peuvent être convaincantes. Cependant, les
+   véritables hallucinations résident dans les mystifications et
+   idéalisations de ces technologies. Les systèmes IA actuels qui sont
+   motivés par le profit, risquent de devenir des outils d’expropriation
+--
+
+   Benjamin Tainturier, « IA : comprenons ce qui nous arrive plutôt que de
+   le juger d’avance », entretien avec Grégory Chatonksy, AOC, 6 mai 2023
+--
+     * Grégory Chatonsky met en avant l’ambivalence et l’ambiguïté des
+       pétitions demandant à faire une pause dans les IA, qui sont lancées
+       par les acteurs-mêmes des IA. Il relie cela au concept d’«
+       enthousiasme conjuratoire », conceptualisé par Jacques Derrida, qui
+--
+     * Le problème des moratoires est de valoriser le réfléchir avant
+       l’agir. Or cela semble antinomique : l’IA a déjà été mise en place.
+       Chatonsky valorise l’expérimentation (dans son cas, artistique)
+       pour penser en agissant, et inversement.
+     * Le monde des IA, que Grégory Chatonksy préfère appeler « induction
+       statistique », permet de dépasser les rapports sociaux : ChatGPT a
+--
+       refusant de qualifier ce qui est humain ou non.
+     * L’IA s’appuie sur la culture humaine pour générer des sorties en
+       incorporant des différences et des répétitions (elles ne fait donc
+--
+     * Le défi pour de futurs artistes est de travailler avec la
+       ressemblance des sorties d’IA, purement statistiques, et dont on
+       peut anticiper les données.
+     * Grégory Chatonksy critique l’attribution superficielle d’un style à
+       des sorties (exemple, une image IA dans le style de Dali, Van Gogh,
+       etc.). Explorer l’espace latent c’est aller à l’inverse de cette
+--
+       engendré le réchauffement climatique.
+     * Grégory Chatonsky s’oppose radicalement à l’interdiction des IA
+       dans l’enseignement supérieur : l’espace latent doit être
+--
+       de dépasser les utilisations primaires : « Je propose, pour
+       synthétiser tout cela, d’aliéner et de s’aliéner à l’IA : en
+       apprenant quelque chose à une IA, on la change ; et en faisant
+       l’expérience on se change aussi. »
+     * La production hybride que permet les IA serait importante dans
+       l’enseignement supérieur pour développer des politiques d’auteurs
+       d’IA. Il est donc nécessaire de former des personnes capables de
+       travailler et de découvrir cet espace latent de façon singulière.
+--
+   L’article présente une interview de Grégory Chatonsky, artiste et
+   théoricien travaillant avec l’IA. Selon lui, il est nécessaire d’agir
+   en même temps que nous pensons l’IA et vice versa, afin d’appréhender
+   l’espace latent (l’espace de l’IA) de manière authentique et de
+   découvrir ses potentialités.
+--
+
+   Sal Khan, « The Amazing AI Super Tutor for Students and Teachers »,
+   TED, 2 mai 2023
+--
+       aussi efficace que l’individuel.
+     * Exemple de l’IA Khanmigo : site wWeb avec des bots pour aider à
+       progresser en mathématiques. Les conversations entre l’étudiant et
+       le bot sont visibles et enregistrées, par l’enseignant et sont
+       modérées par une autre IA. L’IA ne donne pas la réponse directement
+       mais aide l’élève à comprendre comment avancer. L’IA comprend le
+       contexte de la question de l’étudiant pour le guider rapidement.
+     * L’IA agit « socratiquement » : elle pose des questions aux
+       questions des élèves pour qu’ils puissent progresser par eux-mêmes.
+--
+       bots de l’incarner aider à comprendre ce personnage.
+     * Outil collaboratif : l’IA peut écrire avec vous une histoire, vous
+       faire avancer dans votre rédaction en y apportant des éléments et
+--
+       en soulignant certains passages par exemple.
+     * L’IA comme un tuteur : Khanmigo ne donne pas la réponse. Il peut
+       aussi aider les enseignants à préparer des cours en les guidant sur
+--
+       pour progresser.
+     * Nous participons tous à cette décision d’implémentation de l’IA :
+       arrêter le développement des IA est dangereux car les « mauvais
+       acteurs » (gangs, gouvernements totalitaires, etc.) eux, ne
+       s’arrêteront pas de les développer.
+     * Il faut instaurer des garde-fous pour s’assurer que les IA agissent
+       pour le développement des humains et non pour leur aliénation.
+--
+
+   L’éducateur américain, Sal Khan, fait une démonstration de son IA
+   Khanmigo, appliquée à l’enseignement. Ce bot est une alternative et une
+--
+       « humains ».
+     * Le dialogue avec l’IA restreint la possibilité des réponses, à
+       l’inverse des recherches qui font intervenir plusieurs mots-clés et
+       une multitude de résultats.
+     * La question de la projection avec ces IA est importante : l’humain
+       ne parle plus seulement à d’autres humains mais à des objets
+--
+       « l’unanimisme capitalistique » leur donne, qui par exemple fait
+       croire que l’IA peut devenir notre enseignante.
+     * Discuter avec ChatGPT revient à discuter avec une multitude
+       d’humains car l’IA s’alimente de tout : que ce soit des forums
+       Reddit, poètes, auteurs des siècles passés, modérateurs, ou
+--
+     * Il y a une « fausse maïeutique » qui nous oblige à reformuler des
+       notions. Lorsqu’on lui pose des questions, l’IA ne se sert que de
+       sa base et ne peut pas intégrer une diversité d’approches. Les
+--
+
+     * Discussion de quatre experts en éthique de l’IA à propos des
+       risques et capacités des LLM (Large Language Models) dans les
+--
+       sont pas encore suffisamment lancées.
+     * Il faut faire attention et analyser les moments où l’IA énonce des
+       vérités non vérifiées ou des mensonges.
+--
+       par exemple sur l’environnement car ces technologies ont une
+       empreinte carbone importante (ne pas laisser les IA exacerber la
+       crise climatique).
+--
+       contributions des LLM dans les sciences.
+     * Les IA se basent sur de la prédiction : elles n’ont pas de
+       fonctionnements communicatifs incarnés et du relationnel. Elles ne
+--
+       des expériences sensibles par le langage.
+     * Il manque aux IA l’intersubjectivité, la sémantique et l’ontologie,
+       qui sont indispensables pour théoriser, comprendre, innover et
+       découvrir.
+     * Les IA ne peuvent pas capturer les nuances, et donc les valeurs
+       implicites des écrits scientifiques : elle peuvent générer des
+--
+       culturel et est motivée par des valeurs, des intérêts et des
+       objectifs : l’IA ne fait rien de tout cela.
+     * Il faut utiliser ces IA comme des tremplins pour la réflexion
+       scientifique : elles peuvent jouer un rôle constitutif en guidant
+--
+       recherche et de développement de mesures de la part des communautés
+       scientifiques pour encadrer et utiliser ces IA de manière
+       responsable. Il est crucial que les scientifiques suivent
+--
+   périodiques pour analyser leurs conséquences mais aussi leurs limites.
+   Il est indispensable de ne pas laisser les IA décrédibiliser les
+   recherches scientifiques, car elles manquent d’intersubjectivité, de
+--
+
+   Antonio Casilli, « Malaise dans l’éthique de l’IA. Conflictualités
+   sociales et environnementales autour de l’automation intelligente »,
+--
+
+     * Travail de cartographie à faire pour savoir où les IA sont
+       développées afin de percer leur complexité.
+     * Qui est autorisé à parler sur l’éthique des IA et sur sa
+       définition ? Qu’est-ce que l’éthique à l’ère des IA ? De laquelle
+       veut-on parler ? À quel moment commence-t-on à s’inquiéter ?
+--
+       est utilisé pour tout et rien.
+     * La recherche sur l’IA est récente : on observe à partir de
+       2015-2016 une surproduction de chartes et de lois (67 selon l’ONG
+--
+       ces textes, en général de grandes entreprises privées.
+     * « Pause Giant » IA (2023) rappelle une lettre ouverte de 2016 sur
+       la même plateforme et par les mêmes entreprises (« Autonomous
+       Weapons Open Letter: AI & Robotics Researchers »). Les GAFAM sont
+       la majorité des auteurs de ces articles.
+--
+       politique car elle sert à s’accomplir dans la vie politique. Qu’en
+       est-il des IA ?
+     * Une éthique est possible si l’on se débarrasse de l’étiquette d’«
+       artificiel » car l’IA est peut-être intelligente mais pas
+       artificielle : elle est régie par des humains. Mettre l’accent sur
+--
+       d’inégalité et d’oppression.
+     * L’éthique de l’IA n’est pas à penser sans les luttes pour
+       l’environnement. Ces technologies s’appuient sur des équipements
+--
+       ouvert.
+     * Codes éthiques de l’IA en 5 points : la transparence, la justice et
+       l’équité, la non malfaisance (l’IA ne devraient pas produire des
+       dégâts envers la population, or les débats ne sont vifs que quand
+       les IA sont intégrés dans le domaine de l’armement, par exemple),
+       la responsabilité (exemple du MIT sur les voitures autonomes et
+--
+       critiques les plus faibles.
+     * Il faudrait se concentrer sur la phase de production de l’IA plus
+       que sur la phase d’utilisation.
+--
+       dans lequel s’est rendu Antonio Casilli) qui travaillent dans des
+       conditions insalubres : ce ne sont pas des IA mais des gens qui se
+       font passer pour des IA. Les grandes entreprises continuent de
+       faire croire qu’elles entraînent des IA sans humains derrière.
+     * La Russie achète des données brutes de micro-travailleurs : on
+       trouve de nombreuses « fermes à recaptcha » en Russie.
+     * Depuis 2022, des annonces de tâches d’entraînement d’IA par la
+       Russie ont été signalées (invasion russe) : une application
+--
+       reste inconnu (Russie ? Ukraine ? États-Unis ?)
+     * Le Venezuela est le pays central dans les IA : il est le plus
+       représenté dans toutes les bases de données de micro-travail.
+--
+   Antonio Casilli propose de réfléchir la notion d’éthique au regard de
+   l’IA. Continuer d’idéaliser l’IA est dangereux car cela fait perdurer
+   le mythe irrationnel de dépassement des capacités humaines. Il est
+   nécessaire de penser et de cadrer l’éthique à l’ère de l’IA en se
+   basant sur cinq points : la transparence, la justice, l’équité, la non
+--
+
+   Gary Marcus et Sasha Luccioni, « Stop Treating AI Models Like People »,
+   The Road to AI We Can Trust, 18 avril 2023
+   (BUTTON) Idées clé
+--
+     * Notion de « surattribuation » pour parler de l’anthropomorphisation
+       des IA par les humains.
+     * Rappeler que ce ne sont que de purs systèmes, des modèles qui
+--
+     * Il est important de développer des outils capables de détecter les
+       contenus générés par les IA et de demander aux politiques de mettre
+       en place des règles.
+--
+       scepticisme est nécessaire pour ne pas se laisser avoir par la
+       désinformation que ces IA peuvent générer.
+         ______________________________________________________________
+--
+   L’effet de « surattribution », qui consiste à donner des qualités
+   humaines aux IA, est dangereux. Cette anthropomorphisation est
+   problématique dès lors que les IA sont intégrées dans des domaines
+   touchant à l’intégrité des humains (thérapie, finance, etc.) à cause de
+--
+   Pablo Maillé « De 2010 à 2023, comment Usbek & Rica a chroniqué les
+   progrès de l’intelligence artificielle », Usbek & Rica, 16 avril 2023
+   (BUTTON) Idées clé
+
+     * Le média Usbek & Rica revient sur ses explorations du futur des IA
+       depuis treize ans afin d’analyser l’évolution et l’état actuel de
+       ces technologies.
+     * Dans les années 2010, le fait que des IA puissent acquérir des
+       connaissances en linguistique était déjà envisagé. François
+       Denieul, spécialiste d’Internet, déclare que les IA fonctionneront
+       comme « une intelligence démultipliée, sur le modèle du
+--
+       la fois le principe des algorithmes génétiques et les bases de
+       l’intelligence artificielle ».
+     * En 2013, le huitième numéro du média s’interroge sur les droits des
+--
+       pourront être reconnues coupables par la cour civile. Le numéro
+       pose aussi la question du droit d’auteur des créations des IA, ce
+       qui arrive justement dix ans plus tard (Cf. « Droit d’auteur :
+       trois IA génératrices d’images attaquées en justice »). Or la
+       vision des IA à cette époque restait très matérielle (l’IA comme un
+       robot humanoïde) : on observe actuellement qu’il est plus question
+--
+     * En 2015, Usbek & Rica traite de la fréquence du développement des
+       IA, les rendant au final banales (ce qui fait grandement écho au
+       présent). La crainte principale serait plutôt la
+--
+       utilisateurs.
+     * Une conférence de Google à Paris sur l’évolution des IA a eu lieu
+       en 2017. Le terme d’IA est préféré à celui de robot et l’équipe de
+       Google se questionne sur les fonctions que ces IA pourraient
+       apporter à l’entreprise.
+--
+       technologique (FYP, 2018) de Murray Shanahan, spécialiste en
+       robotique cognitive. Il émet l’hypothèse que les IA pourront avoir
+       un « désir potentiel d’auto préservation » et donc sacrifier les
+--
+       robots une empathie envers les humains.
+     * En 2019, l’ingénieur Stuart Russel propose que les IA soient
+       développées pour remplir les objectifs humains et non leurs propres
+--
+       re-questionnées.
+     * Qu’en est-il en 2023 ? Selon Usbek & Rica, l’IA actuelle est plus
+       de l’ordre de l’automatisation des tâches, dont celles créatives,
+--
+   Usbek & Rica est un média assez jeune (13 ans) qui a suivi de près
+   l’évolution de l’IA au cours de la dernière décennie en mettant en
+   avant les enjeux éthiques, les avancées scientifiques, les limites et
+--
+
+     * Les IA sont des « perroquets stochastiques » qui ne répondent que
+       par des calculs de probabilités. Le podcast est une discussion
+       autour de la transformation du langage par les IA.
+     * On observe une division entre ingénieurs et linguistes : le machine
+--
+       ces mots s’ancrent dans des contextes sociaux et affectent les
+       comportements. Or les IA n’utilisent que la partie formelle des
+       textes.
+     * Ce qui se passe actuellement est une intégration des IA textuelles
+       dans n’importe quels domaines, et ceci est dangereux. Nous n’avons
+--
+       et est ce qui nous connecte aux autres : il est donc nécessaire que
+       les entreprises contrôlent ce que leurs IA disent.
+     * Les questions de qui peut avoir accès à Internet et de qui dirigent
+--
+     * Protéger et enseigner aux prochaines générations comment utiliser
+       ces IA est vital afin de sensibiliser au plus vite à leur
+       fonctionnement. Ces technologies continueront d’évoluer et d’être
+       perfectionnées sans cesse : il faut donc être préparé en amont.
+     * Si on peut désigner les IA comme des « perroquets stochastiques »,
+       alors en va-t-il de même pour les individus qui les utilisent ? Il
+--
+   linguistique computationnelle, analyse dans ce texte l’effet de
+   « perroquet stochastique » des IA. Elle propose de se questionner la
+   transformation de la langue par ces technologies et leurs conséquences
+--
+     * Entretien avec le sociologue Antonio Casilli, sur la question de la
+       précarisation du travail humain par les IA, qu’ils soulèvent
+       notamment dans son livre En attendant les robots. Enquête sur le
+--
+     * Analyse des métiers invisibles liés à l’automatisation comme ceux
+       liés à gestion des IA (préparation, vérification et limitation) et
+       questionnement sur le fait que nous travaillons gratuitement pour
+       améliorer ces technologies en se servant des moteurs de recherche,
+       en interagissant avec les promtps des IA (ChatGPT etc). Continuité
+       alors entre les personnes non rémunérées pour réaliser du clic,
+       ceux qui améliorent les IA et les travailleurs des pays émergents
+       très peu payés.
+--
+       pas dans les travails du clic.
+     * Il ne faut pas penser que l’IA explose mais elle semble plus ramer
+       et connaître de nombreux échecs (échecs des blockchain par
+       exemple).
+     * l’IA ne fera pas disparaître tous les métiers (rôle essentiel des
+       modérateurs par exemple).
+--
+
+   L’analyse par Antonio Casilli du marché du travail des IA met en
+   lumière les problématiques liées à l’automatisation du travail humain.
+   Son étude des métiers invisibles, derrière les IA, rend compte des
+   systèmes de précarisation engendrés par la décentralisation, la
+--
+   Entretien avec Asma Mhalla et Jean-Gabriel Ganascia par Nicolas
+   Demorand et Léa Salamé, « L’IA est déjà omniprésente partout, et le
+   monde ne s’est pas effondré », franceinter, 12 avril 2023
+--
+
+     * Révolution des IA a déjà eu lieu et fait muter le monde : elle ne
+       l’effondre pas. ChatGPT est un prémisse d’une révolution à venir
+       car ces IA sont encore étroites elles fonctionnent sur des tâches
+       spécifiques. Cependant, c’est le projet politique des personnes de
+--
+       Intelligence), qui questionne.
+     * Il y a toujours eu de nouveautés avec ces IA : à l’heure actuelle,
+       la nouveauté est l’accessibilité. Tout le monde peut se rendre
+--
+       insertion de cet outil dans notre quotidien rapidement.
+     * Le moratoire (Pause IA) est problématique car ceux qui le racontent
+       sont Elon Musk et des organismes qui sont dans l’idéologie du
+--
+       venir. On retrouve alors cette idée dans ce moratoire qui présente
+       l’IA comme dangereuse pour l’humanité. Or, au contraire, des
+       experts comme Sam Altman, fondateur d’OpenAI, préconisent le
+       développement de ces IA pour des histoires de puissances.
+     * IA et la politique intérieur aux États-Unis créent actuellement une
+       sur-poralisation de la question woke avec une partie de l’élite
+--
+       s’inquiète du futur et donc masque les enjeux actuels et réels.
+     * Vu que les IA développées vont potentiellement être concurrente des
+       Hommes, il faut donc augmenter l’Homme. Transhumanisme intervient
+--
+     * Le dilemme actuel est l’innovation VS la puissance. Or, le problème
+       est que l’IA cristallise la rivalité sino-américaine, d’un point de
+       vue de la compétition stratégique. L’État américain semble alors
+--
+   Les entretiens parlent des enjeux politiques et des positionnements des
+   États-Unis vis-à-vis des IA, tout en démystifiant la peur irrationnelle
+   de ces technologies pour l’humanité. Les IA sont déjà là : il est donc
+   nécessaire d’amorcer des débats sur les enjeux actuels de ces IA et non
+   pas comme le demandent les signataires de la lettre Pause Giant AI
+   Experiments: An Open Letter, de réfléchir à la pérennisation de
+--
+
+   Mark Scott, « Timnit Gebru’s anti-‘AI pause’ », entretien avec Timnit
+   Gebru, Politico, 11 avril 2023
+--
+     * Importance dans l’accroissement de la transparence et dans la
+       responsabilité des IA pour montrer aux usagers quelles données sont
+       utilisées et si ces données sont en accès libre ou non. Cela nous
+--
+       utilisées.
+     * Danger dans la centralisation des IA par le peu d’entreprises qui
+       souhaitent rendre leur technologie multi-tâches. Il faut se
+--
+       données et que les médias parlent plus des problèmes éthiques liés
+       à ces IA, comme la reproduction des systèmes discriminatoires.
+     * Europe a déjà mis en place des législations sur l’IA et la
+       confidentialité mais il incombe aux usagers de prouver leur
+--
+   Timnit Gebru demande aux politiques de mieux réglementer les
+   entreprises développant les IA pour éviter la conception de
+   technologies polyvalentes. Leurs applications ne doivent pas être
+   nécessairement transdisciplinaires : il faut se questionner sur la
+   pertinence des applications des IA dans certains contexte.
+     __________________________________________________________________
+--
+   de collecte de données personnelles. Il y a une analogie faite entre
+   les IA et les sophistes, dont les discours bien écrits rendaient
+   passifs les lecteurs, en ne permettant pas à ces derniers de
+--
+
+   Andrea Grimes, « The Unbearable White Maleness of AI », DAME, 11 avril
+   2023
+--
+
+     * Ère de la « cascade des IA » avec des implications de plus en plus
+       immédiates et déconcertantes. Le succès de cette cascade dépend de
+       si on considère l’IA comme entité réellement existante.
+     * Les hommes blancs semblent plus particulièrement sensibles à la
+       vanité de l’IA par le fait que ces puissants logiciels de
+       correction automatique émettent des résultats de calculs
+       mathématiques à la première personne. Cette tromperie de l’IA crée
+       deux acceptions extrêmes, d’une part ceux qui appellent à une pause
+       des IA (qui sont par ailleurs, ceux qui ont développés ces
+       technologies), de l’autre part ceux qui idolâtrent ces IA et qui
+       demandent de ne pas faire de pause.
+     * « Colonialisme de l’IA »  : les progrès technologiques sont
+       contrôlés pour servir les plus privilégiés, aux dépens de tous les
+       autres.
+     * Nécessité pour ces classes privilégiées de comprendre les IA sous
+       un autre spectre. On peut penser aux experts du décolonialisme de
+       l’IA comme Sabelo Mhlambi, Meredith Broussard, ou Stéphanie Dick
+       qui ont fondé un groupe de réflexion répondant à “l’étroitesse des
+       cadres dominants dans la recherche sur l’éthique des données et de
+       l’IA« ou aux théoriciennes féministes de la technologie qui se
+       penchent sur des questions autour du consentement et de
+       l’informatique.
+     * Même problème avec les IA et le «commentariat» (personnes qui
+       présentent des analyses et opinions dans les médias de manière
+--
+       finances…)
+     * Course à l’IA dominée par ces hommes, qui ne font pas preuve
+       d’empathie envers les autres. La lettre sur la nécessité de stopper
+       le développement des IA, signés par des grands noms du numérique
+       est avant tout médiatique et une fois de plus, le reflet de la
+       domination de certaines classes sur les autres dans ce domaine.
+     * Il est primordial de penser à développer des IA décolonisées pour
+       offrir des alternatives aux IA gérées par les classes dominantes
+       afin de susciter des débats.
+--
+
+   Les IA actuelles dominantes reflètent les dominations de classes
+   privilégiés sur les autres et font perdurer le colonialisme dans le
+   numérique. Les experts du décolonialisme des IA et du féminisme
+   technologique sont discrédités, ce qui réduit fortement la diversité
+   d’IA.
+     __________________________________________________________________
+--
+       communication politique.
+     * L’IA, selon Marion Maréchal Le Pen, creusera encore plus les
+       inégalités entre ceux qui savent utiliser les IA et ceux qui ne
+       savent pas.
+     * Il y a une nécessité de se saisir de ces IA avant que nous soyons
+       dépassés (est-ce déjà le cas ?) selon Eric Zemmour.
+--
+       technologies, repenser l’éducation.
+     * Le sujet des discriminations par les IA n’est pas abordé.
+     * Le problème est que seule l’extrême droite s’empare de ce sujet
+       pour répondre aux craintes des individus.
+     * Il y a un danger car ces politiciens idéalisent l’IA et sa
+       puissance : enclencher un discours de la peur (comme les
+       entreprises de la tech le font) pour mieux se vendre.
+     * Les robots et IA ne peuvent pas remplacer les humains car il y a
+       des millions de travailleurs qui participent à leur fonctionnement
+--
+     * Danger lié à l’idéologie que le progrès ne peut pas être arrêté.
+     * « Machine woke » : l’IA est entraînée pour éviter des propos
+       racistes ou discriminants donc l’extrême droite se positionne
+       contre.
+     * IA de gauche contre IA de droite : exemple de Gab aux États-Unis,
+       réseau social, proche des idées d’extrême droite catholique
+       américaine, dans lequel les utilisateurs veulent créer des IA sans
+       limites pour exposer leurs idées.
+--
+
+   Les débats autour de l’IA servent d’outils de communication pour
+   l’extrême droite française, qui établit une analogie avec sa notion de
+   « grand remplacement ». L’IA est utilisée pour jouer sur la peur afin
+   de mieux la vendre et faire passer des messages politiques extrémistes.
+--
+   et leurs influences sur les individus, qui ne doivent pas prendre comme
+   vérité ce que l’IA produit (nous n’avons pas toujours connaissance des
+   entités qui gèrent ces outils).
+--
+
+     * L’IA essaie d’insérer « sa propre voix » lorsqu’on lui demande de
+       décrire quelque chose ou de donner un avis. Or on sent bien que
+--
+       reconnaître des informations factuelles ou non factuelles.
+     * Il faut réfléchir sur les freins et contrepoids de l’IA dans le
+       milieu scolaire, qui propage une quantité importante de données à
+--
+       élèves un retour critique sur les différences entre leurs travaux
+       avec et sans IA.
+         ______________________________________________________________
+--
+   ChatGPT pourrait servir d’outil de vérification de la grammaire dans le
+   milieu scolaire. L’IA peut aider les élèves à faire évoluer leurs
+   compétences en rédaction et à développer leur esprit critique sur ce
+--
+       les refaçonner et les revendre en condensé ?
+     * Il n’y a aucune intention, aucune conscience chez l’IA : elle a
+       seulement connaissance de nos propos de manière encapsulée (dans
+--
+     * La non vérification des sources avec ChatGPT ne permet pas de
+       vérifier le raisonnement logique de l’IA. Le « diable est dans les
+       détails » : il faut donc vérifier les sorties générées et chercher
+       dans les détails les erreurs.
+     * Encadrer les IA est essentiel pour ne pas laisser les États-Unis
+       dominer et imposer leurs règles, mais il faudrait plus de
+--
+   dans une approche statistique. Les États européens, et notamment la
+   France, ne financent pas suffisamment de recherches sur les IA et ne
+   permettent pas de travailler correctement. Il faudrait davantage
+--
+   le marché). En parallèle, il faudrait se concentrer sur le véritable
+   intérêt des IA qui est de révéler des signaux faibles et imperceptibles
+   pour les humains.
+--
+
+     * Un article généré par une IA était très similaire à un article
+       écrit par un chercheur et publié sur The Guardian.
+     * Questionnement quant à la confiance et la fiabilité de la presse
+       avec les articles écrits par des IA. Si des IA peuvent générer des
+       articles, alors la question de la censure se pose aussi. Des
+--
+       actionnaires et dominer le marché (concurrence).
+     * Question de l’impact des IA dans la presse, en plus des problèmes
+       liés à la désinformation et à la polarisation et d’acteurs
+--
+   Une partie de l’équipe du journal The Guardian étudie l’évolution du
+   métier de journaliste avec les IA et sur les problématiques liées à la
+   désinformation et aux intentions des entreprises qui éditent ces
+   services. Pour accompagner les médias dans leurs relations avec les IA,
+   The Guardian a publié un guide sur l’usage et la place des générateurs
+--
+
+   Doug Stephens, « Human Creativity is Key to Winning the AI Revolution
+   », BOF, 5 avril 2023
+--
+
+     * La vente au détail va être aidée par les IA, et de manière plus
+       générale, les IA vont révolutionner sa productivité et les
+       processus commerciaux.
+     * L’IA générative va s’améliorer de manière exponentielle, malgré ses
+       failles actuelles, grâce aux données qui vont s’accumuler.
+     * Les IA remplaceront 1 travailleurs sur 10, et les entreprises
+       économiseront alors 80 milliards de coûts de main-d’œuvre d’ici
+--
+       décisions pour améliorer le rendement des entreprises.
+     * Avantage créatif : si l’IA devient centrale, comment la concurrence
+       entre les entreprises va-t-elle se jouer ? Des marques qui ont
+--
+       opérationnelle, vont-elles être surpassées par des entreprises
+       utilisant l’IA ?
+     * L’IA ne peut pas créer de nouvelles choses : l’innovation est un
+       exercice créatif produisant des alternatives originales et
+       singulières. Les IA ont une pensée convergente, tandis que la
+       pensée humaine est divergente.
+     * Ne pas confondre mimétisme programmé et véritable créativité. L’IA
+       pense à l’intérieur de sa boîte donc elle est restreinte, alors que
+--
+     * Il y aura 2 choix pour les entreprises dans le futur : utiliser les
+       économies des IA pour les répercuter dans le résultat net, ou
+       réinvestir ces économies dans la créativité en tant que source
+--
+
+   L’article interroge la place des IA dans les entreprises (avantages et
+   évolutions). Si celles-ci vont remplacer les métiers d’aide au
+--
+   humains qui agissent de manière divergente. Les entreprises devront
+   s’assurer de ne pas laisser les IA remplacer la créativité au profit du
+   rendement car elles risquent de se faire dépasser par d’autres qui
+--
+
+   Mia Dand, « The AI Ethics Revolution-A Timeline », Medium, 4 avril 2023
+   (BUTTON) Idées clé
+--
+       actions afin de protéger l’humanité des conséquences négatives du
+       développement de l’IA.
+     * 100 Brilliant Woman in AI Ethics : livre publié en 2018 et dans
+       lequel on retrouve les noms de femmes qui contribuent aux IA de
+       diverses manières. On peut voir le nom de chercheuses comme Timnit
+       Gebru, Margaret Mitchell et Inioluwa Deborah Raji, licenciées et
+       rétrogradées chez Google pour avoir révélé des risques liés aux IA
+       et pour avoir dénoncé les harcèlements sexuels de leurs collègues.
+--
+   Un site Web a été conçu pour répertorier et documenter les femmes qui
+   travaillent sur les IA. Le but est de visibiliser les femmes dans ce
+   domaine, qui depuis les débuts de l’informatique, ont activement
+--
+
+   Victor Vasseur, « Intelligence artificielle : pourquoi Midjourney ne
+   permet pas de générer d’images du président chinois », FranceInter, 4
+--
+       n’est pas acceptée en Chine ». Il préfère autoriser les chinois à
+       utiliser l’IA, quitte à encoder de la censure.
+     * Il y a donc un danger dans la liberté d’expression et un problème
+       politique mondial lié à la censure dans les plateformes d’IA.
+         ______________________________________________________________
+--
+
+   Tristan Mendès, Marion Carré, « Intelligence artificielle : Tristan
+   Mendès France et Marion Carré sont les invités de Culture médias »,
+--
+
+     * Les IA touchent de plus en plus des métiers qualifiés : vont-elles
+       les remplacer ?
+     * Penser que les IA peuvent remplacer ces métiers revient à les
+       sous-qualifier. Exemple du métier de journaliste qui demande un
+       travail d’investigation long et complexe, chose que que les IA ne
+       peuvent pas faire.
+--
+   Il est primordial d’enseigner et de faire co-découvrir aux étudiants
+   les IA et d’écouter leurs retours. ChatGPT peut nous assister dans nos
+   réflexions et nous stimuler en posant des questions. L’art aurait un
+   rôle intéressant à jouer en servant de « bac à sable » éthique pour
+   mieux comprendre les limites des IA.
+     __________________________________________________________________
+
+   James Vincent, « AI is entering an era of corporate control », The
+   Verge, 3 avril 2023
+--
+     * Rapport annuel qui a relevé l’évolution de la domination des
+       acteurs industriels de l’IA sur les universités et gouvernements.
+     * L’IA entre dans une nouvelle phase de développement avec la
+       généralisation des outils grand public (ChatGPT, Midjourney, etc.)
+--
+       des entreprises.
+     * Les universités ont ouvert la voie aux IA, mais les industries ont
+       pris le relais quant à leur développement. En 2022, 32 modèles d’IA
+       importants auraient été développés par les entreprises, et
+--
+       calcul).
+     * Il existe un danger sur la sécurité avec la course à l’IA comme
+       moyen de concurrence entre entreprises rivales, d’où la nécessité
+--
+     * Il y a une augmentation des abus éthiques avec la généralisation
+       des applications d’IA : décès liés à la conduite autonome de Tesla,
+       deepfakes audio et nudes non consentis, arrestations dues à des
+--
+     * En parallèle, il y a une volonté des législateurs et des décideurs
+       de réglementer l’IA. Une analyse a révélé, sur des dossiers
+       législatifs de 127 pays, que le nombre de projets de lois sur les
+       IA est passé d’un seul en 2016 à 37 adoptés en 2022. Cela
+       permettrait de faire un contrepoids à l’autorégulation des IA par
+       les entreprises.
+--
+
+   La rapidité des développements des IA par les entreprises privées à des
+   fins concurrentielles soulève des enjeux de propriétés, de domination
+   et de généralisation des technologies. Malgré l’augmentation des
+   problèmes éthiques avec les IA, on observe une une prise en compte de
+   leur régularisation par les États, avec de plus en plus de projets de
+--
+     * Histoire fictive sur comment OpenAI fonctionnerait si les humains
+       fonctionnaient comme les IA (anthropomorphisation).
+     * Quel est le prix à payer pour l’humanité si on stockait et
+--
+       données, qui répertorie les connaissances auxquelles les humains ne
+       peuvent accéder que par un ordinateur ou une IA. Ce tiroir se
+       serait rempli depuis un siècle et est désormais encombré.
+--
+       tendance à n’ouvrir que le tiroir des données, celui du bas : nous
+       nous fions donc plus facilement à ce que les IA peuvent générer.
+     * La montée des chiffres dans l’histoire humaine a servi d’instrument
+--
+
+   Linus Ekenstam, « Pause All Giant AI Experiments », Inside my Head, 31
+   mars 2023
+--
+
+     * Travail de cartographie à faire pour savoir où les IA sont
+       développées afin de percer leur complexité.
+     * Qui est autorisé à parler sur l’éthique des AI et sur sa
+       définition ? Qu’est-ce que l’éthique à l’ère des IA ? De laquelle
+       on veut parler ? À quel moment commence-t-on à s’inquiéter des IA ?
+     * Il faut arrêter avec le mythe de l’intelligence générale
+       artificielle qui dépasserait les performances humaines dans tous
+       les domaines. Il y a une colonisation sémantique du terme d’IA qui
+       est utilisé pour tout et rien.
+     * La recherche sur l’IA est récente : on observe à partir de
+       2015-2016 une surproduction de chartes et de lois (67 selon l’ONG
+--
+       ces textes, en général de grandes entreprises privées.
+     * Pause Giant AI (2023) rappelle une lettre ouverte de 2016 sur la
+       même plateforme et par les mêmes entreprises (« Autonomous Weapons
+       Open Letter: AI & Robotics Researchers »). Les GAFAM sont la
+       majorité des auteurs de ces articles.
+--
+       politique car elle sert à s’accomplir dans la vie politique. Qu’en
+       est-il des IA ?
+     * Une éthique est possible si l’on se débarrasse de l’étiquette d’«
+       artificiel » car l’IA est peut-être intelligente mais pas
+       artificielle : elle est régie par des humains. Mettre l’accent sur
+--
+       d’inégalité et d’oppression.
+     * L’éthique de l’IA n’est pas à penser sans les luttes pour
+       l’environnement. Ces technologies s’appuient sur des équipements
+--
+       ouvert.
+     * Codes éthiques de l’IA en 5 points : la transparence, la justice et
+       l’équité, la non malfaisance (l’IA ne devraient pas produire des
+       dégâts envers la population, or les débats ne sont vifs que quand
+       les IA sont intégrés dans le domaine de l’armement, par exemple),
+       la responsabilité (exemple du MIT sur les voitures autonomes et
+--
+       critiques les plus faibles.
+     * Il faudrait se concentrer sur la phase de production de l’IA plus
+       que sur la phase d’utilisation.
+--
+       dans lequel s’est rendu Antonio Casilli) qui travaillent dans des
+       conditions insalubres : ce ne sont pas des IA mais ce sont des gens
+       qui se font passer pour des IA. Les grandes entreprises continuent
+       de faire croire qu’elles entraînent des IA sans humains derrière.
+     * La Russie achète des données brutes de micro-travailleurs : on
+       trouve de nombreuses « fermes à recaptcha » en Russie.
+     * Depuis 2022, des annonces de tâches d’entraînement d’IA par la
+       Russie ont été signalées (invasion russe) : une application
+--
+       reste inconnu (Russie ? Ukraine ? États-Unis ?)
+     * Le Venezuela est le pays central dans les IA : il est le plus
+       représenté dans toutes les bases de données de micro-travail.
+--
+   Models) le temps d’avoir bien compris les limites et règles qu’il
+   faudrait mettre aux IA. Il propose une liste de vidéos d’interviews
+   d’experts pour mieux comprendre ce qui se déroule actuellement.
+--
+
+   Evgeny Morozov, « The problem with artificial intelligence? neither
+   artificial nor intelligent », The Guardian, 30 mars 2023
+--
+     * Lettre signée par Elon Musk et Steve Wozniak pour appeler à
+       ralentir le développement des systèmes d’IA afin de donner le temps
+       de s’y habituer en installant un « été de l’IA » (référence aux
+       « hivers » que l’IA a connus depuis ses débuts). Il faut mettre en
+       place des protocoles de sécurité bien audités.
+     * Le terme d’« intelligence artificielle » prête à confusion et
+       serait dépassé, d’où la nécessité de retirer ce terme des débats
+--
+       de « théorie des dominos ».
+     * L’« intelligence artificielle n’est ni artificielle ni intelligente
+       » : l’IA est originellement régie par des règles pour justifier la
+       partie artificielle. Or les IA actuelles, comme ChatGPT puisent
+       leur force dans le travail créatif des humains et ne sont donc pas
+       réellement « artificielles ».
+     * Les premiers travaux de l’IA ont été financés dans le contexte de
+       la guerre froide, donc l’aspect « intelligent » de ces programmes
+--
+       informations sur un événement et à enclencher des actions.
+     * La puissance de l’IA actuelle réside dans la correspondance de
+       modèles. Cela fait écho aux premières utilisations militaires de
+       l’IA qui pouvait repérer des navires sur des photographies
+       aériennes. Mais cette correspondance de modèles n’est pas ce qui
+--
+       pertinente des choses banales.
+     * L’IA ne peut pas faire preuve de bi-logique car elle n’a pas
+       conscience de la temporalité et des émotions. Elle est prisonnière
+       de la logique formelle singulière
+     * L’IA est avant tout prédictive et n’est donc pas réellement
+       intelligente. Employer le terme d’intelligence revient à réduire le
+--
+
+   Il est nécessaire de questionner le terme « d’intelligence artificielle
+   » : qu’est ce qui est si intelligent et artificiel dans ces
+   technologies ? ChatGPT et les autres IA se développent grâce aux savoir
+   des humains et ne sont donc pas si « artificiels » que cela, car ils se
+--
+   nous classons des choses banales de manière nouvelle et pertinente.
+   L’IA ne fait pas preuve de bi-logique car elle n’a pas conscience de la
+   temporalité et des émotions ; elle est prisonnière de sa logique
+   formelle singulière. L’IA est avant tout prédictive et n’est pas
+   réellement intelligente.
+--
+
+   Eliezer Yudkowsky, « Pausing AI Developments Isn’t Enough. We Need to
+   Shut It All Down », Time, 29 mars 2023
+--
+
+     * Que se passera-t-il quand l’IA sera plus intelligente que les
+       humains ? Cette question semble plus forte que celle de la
+       concurrence.
+     * La mort de tous les habitants sur Terre pourrait advenir si l’IA
+       surpasse l’ humain. Cela demande d’apprendre et de préparer de
+--
+     * S’il y a un manque de préparation et de précision par les humains
+       dans leurs relations avec les IA, alors ces technologies risquent
+       de ne pas faire ce pour quoi nous les avons programmés, et donc de
+       ne pas faire attention à la dimension sensible du monde.
+     * L’IA sera bientôt en dehors des ordinateurs : elle pourra
+       construire des formes de vie artificielles comme la production de
+--
+     * Le danger d’OpenAI est que nous ne savons pas comment décoder les
+       IA, donc nous ne pouvons pas vérifier leur évolution. Nous doutons
+       de ces IA et leur attribuons une méfiance quant à ce que l’IA peut
+       produire.
+--
+   Eliezer Yudkowsky lance un cri d’alarme sur la nécessité d’arrêter le
+   développement des IA, qui ne sont pas bien encadrées à l’heure
+   actuelle. Nous ne savons pas ce que les IA peuvent produire et comment
+   elles vont évoluer : il y a un risque de ne pas savoir ce que l’on fait
+   et donc de ne pas savoir où l’on va. Des solutions sont proposées pour
+   mieux encadrer les IA. Tout d’abord, empêcher les États-Unis d’être
+   l’unique propriétaire de la technologie. Ensuite, fermer les gros
+   clusters GPU et plafonner la puissance de calcul qu’une personne est
+   autorisée à utiliser pour former des systèmes d’IA. Enfin, conclure des
+   accords multinationaux pour empêcher des activités illicites et suivre
+--
+     * La « simple reconnaissance des formes » est un sujet récurrent dans
+       les discussions sur les IA et évoque une dichotomie entre une
+       véritable compréhension et une astuce superficielle, pour donner
+--
+       des mots (cf. notion de « traduction non pragmatique », développée
+       par Bérengère Viennot, qui montre que les IA sont douées à traduire
+       des domaines avec possédant des vocabulaires spécifiques).
+--
+       ELIZA, un programme des années 1960 qui arrangeait nos requêtes
+       sous forme de questions. La perception du sens des réponses de l’IA
+       est une pure projection que nous faisons.
+     * Un nouvel « hiver de l’IA » serait en approche selon des linguistes
+       et scientifiques cognitifs car l’approche purement statistiques est
+       conceptuellement défectueuse : un plafond est presque atteint.
+     * Les contenus et significations produits par les IA ne sont que des
+       nombres et des fonctions car elles ne fonctionnent que par
+--
+     * Existe-t-il un rapport entre l’intuition de la programmation et
+       l’IA ? Les fondements de l’IA et du langage humain sont similaires
+       aux langages de programmation : la forme est une série de lettres
+--
+       image scientifique », qui est mieux compris.
+     * L’IA construit un pont conceptuel entre la mathématique de
+       l’informatique et l’intelligence pour adapter les techniques des
+--
+       l’abondance des contenus analysés.
+     * La critique des IA actuelles rappelle plusieurs enjeux
+       historiques.La traduction et le sous-titrage automatique sont
+       devenus des outils familiers ; ils n’animent plus de débats car on
+       a réalisé qu’ils ne comprennent qu’en surface. Aussi, les IA
+       actuelles rejouent les débats sur les méthodes statistiques de
+       traduction, la classification et le sous-titrage des images par
+       exemple par les IA et leur compréhension qui se situe en surface.
+       Cela rappelle la perspective connexionniste dans les années 1980 et
+--
+       Behavior, 1980 )
+     * Le monde reste insaisissable pour les IA, qui ne peuvent pas
+       produire des sorties originales, explicables, fiables et
+--
+   L’article s’appuie sur plusieurs théories et débats historiques pour
+   interroger la capacité des IA actuelles (comme ChatGPT) à comprendre le
+   monde humain. Il y a une distinction à établir entre « l’image
+--
+   et qui est plus facilement compréhensible. L’auteur établit une
+   critique importante concernant l’impossibilité pour l’IA de s’ancrer
+   dans le monde humain, ce qui a pour effet de générer des textes
+--
+
+   Jenka Gurfinkel, « AI and the American Smile », Medium, 27 mars 2023
+   (BUTTON) Idées clé
+
+     * Demander à une IA de générer des images de différentes cultures
+       (tribus) qui font un selfie à travers le temps : la composition est
+       toujours la même et les expressions du visage aussi. Une histoire
+       est composée de toutes pièces par l’IA car les mêmes « faux
+       sourires » se répètent dans les images de chaque tribu. Or ce
+--
+       générer des complications relationnelles.
+     * L’IA reproduit et exagère les codes des communications américains
+       destinés à faire bonne impression. Cela engendre un aplatissement
+--
+   Il y a un problème dans l’uniformisation des expressions faciales par
+   les IA, qui reproduisent des codes de communication physiques de la
+   culture qui détient et contrôle ces IA (ici, les États-Unis). Cela
+   amène à une faible diversité dans la génération des visages humains et
+--
+
+     * Les IA peuvent désormais automatiser des tâches qui étaient
+       autrefois attribuées aux humains, comme celles liées à la
+--
+       logiciels.
+     * L’IA deviendra un outil bénéfique pour aider des individus à
+       améliorer leurs capacités et expertises mais sera aussi un outil
+--
+       blockchains.
+     * Les IA génératives pourront aider des personnes à acquérir des
+       compétences pour rivaliser avec celles qui ont plus d’éducation et
+--
+       quotidiennes et les autres non. ChatGPT a augmenté la productivité
+       mais l’IA a aidé les personnes les moins qualifiées, réduisant
+       ainsi l’écart entre les bons et les moins bons. En résumé : les bon
+--
+       salaires des humains et exacerbe les inégalités de richesse. Dès
+       lors que les IA sont utilisées à grande échelle pour la conception
+       graphique, la rédaction de textes par exemple, elles permettront
+       d’augmenter le rendement des entreprises.
+     * Quand l’IA aidera les humains à faire des découvertes, son impact
+       sera encore plus puissant qu’à l’heure actuelle.
+     * Problème de l’IA dominée par une seule ou quelques grosses
+       entreprises, dont les modèles sont similaires (commerciaux) : il
+--
+   L’article propose une analyse de l’économie et de la productivité des
+   entreprises avec les IA. Quels sont les impacts des IA sur les métiers,
+   et comment s’assurer que les entreprises prennent la bonne direction ?
+   Aujourd’hui, les IA automatisent les tâches cognitives et non celles
+   physiques car elles demandent de forts investissements en équipement et
+--
+   se concentrer sur la façon dont les technologies peuvent étendre les
+   capacités des individus et non pas comment les IA peuvent imiter les
+   humains.
+--
+   Benj Edwards, « ChatGPT gets « eyes and ears » with plugins that can
+   interface AI with the world », Arstechnica, 24 mars 2023
+   (BUTTON) Idées clé
+--
+     * OpenAI restreint-il l’exploration pour les programmeurs ? Car si un
+       IA peut remplacer des logiciels, alors le rôle des programmeurs
+       est-il amenuisé ?
+--
+   ubiquitaire et questionne deux aspects : celui du rôle des programmeurs
+   et des dérives qui vont avec la profusion des outils IA. Si des IA
+   peuvent remplir les tâches de certains sites Web et logiciels, les
+   programmeurs sont-ils indispensables ? De quelles manières la profusion
+   des IA ouvre-t-elle la porte à des dérives ?
+     __________________________________________________________________
+--
+     * Renforcer les droits d’auteur pour mieux cadrer l’utilisation des
+       IA ne serait pas la solution. La rémunération en droits d’auteur
+       des artistes ne permet qu’à une minorité de vivre de leur travail.
+       Les IA sont problématiques pour les artistes qui continueront de
+       publier leurs créations pour se faire connaître mais qui, en
+       parallèle, alimenteront les IA.
+     * Le capitalisme s’oppose au travail artistique car il ne considère
+--
+
+   Le STAA rejette les créations générées par l’IA car elles opèrent une
+   réduction de l’expertise humaine à une appendice de la machine, dont
+--
+
+   Stephen Ornes, « The Unpredictable Abilities Emerging From Large AI
+   Models », Quanta magazine, 16 mars 2023
+--
+
+     * Les modèles les plus complexes d’IA peuvent aller au delà de
+       simplement accepter une chaîne de texte en entrée et prédire ce qui
+--
+       les comportements auto-organisés et collectifs de nombreux éléments
+       agissant seuls, se retrouve dans ces IA.
+     * Avant, les modèles algorithmiques étaient purement prédictifs et
+--
+       performances à une certaine échelle de seuil, ont été repérés dans
+       ces IA par des chercheurs du Google Research. Les IA avec des
+       milliards de paramètres (comme GPT-4) sont donc plus précis. Ils
+--
+     * Manière dont on formule la requête influence grandement la
+       précision de la sortie de l’IA.
+     * Or, ces LLM restent encore opaques car nous n’avons pas accès à
+       leurs fonctionnements donc, il est compliqué d’expliquer le
+       fonctionnement et l’évolution de ces IA, de plus en plus
+       performants.
+--
+
+   Yannig Raffenel, « L’apport de l’IA au monde de la formation »,
+   conférence dans le cadre du West Data Festival à Laval, 14 mars 2023
+--
+
+     * Conférence sur la place de l’IA et des dates dans la formation par
+       Yannig Raffenel, co-président de EdTech France, entreprise sur
+--
+       réellement adaptés aux individus en fonction des objectifs et des
+       contraintes. En utilisant l’IA, les formations serait donc
+       réellement en lien avec notre profil.
+--
+
+   Hunter Walk, « Instead of Asking AI Companies to ‘SLOW DOWN’ We Should
+   Encourage Them to Move Even Faster », Philosophie magazine, 13 mars
+--
+     * Deux positions actuelles se dégagent : continuer de développer les
+       IA ou ralentir
+     * Loi de « Safe Harbor » est un cadre qui détermine les comportements
+--
+       commerciaux.
+     * Importance de ralentir le développement des IA pour digérer
+       l’impact de ces technologies, en appliquant notamment le « Safe
+       Harbor » pour mieux encadrer leur développement. Un « AI Safe
+       Harbor » doit être transparent, nourrit fréquemment avec des
+--
+   maintenir le bien commun, sans pour autant leur faire perdre leurs
+   avantages compétitifs. Un « AI Safe Harbor », (en référence à la loi
+   Safe Harbor qui détermine les comportements qui n’enfreignent pas une
+   règle tant que des conditions précises sont bien suivies), permettrait
+   de mieux encadrer l’utilisation des IA en entreprise.
+     __________________________________________________________________
+--
+       une fille de la classe en utilisant ChatGPT. Tout le monde admire
+       son langage romantique développé et ne sait pas qu’il utilise l’IA.
+       En parallèle, la classe l’utilise pour rendre des devoirs. Le
+--
+       ChatGPT de l’épisode. L’histoire est incohérente et simpliste :
+       c’est une preuve de la non compréhension par les IA des subtilités
+       et des critiques pour lesquelles la série South Park est connue.
+--
+   améliorer les droits des travailleurs immigrés », ne se rend pas compte
+   de l’utilisation de l’IA. L’histoire se conclut par une réécriture de
+   l’épisode en question par ChatGPT, qui met en évidence les faiblesses
+   de l’IA en proposant un scénario simpliste et moralisateur.
+     __________________________________________________________________
+--
+       sur ChatGPT, dans laquelle ils questionnent l’essence de la langue,
+       de la pensée et de l’éthique à l’ère de l’IA.
+     * Il y a un danger de l’IA à nous faire croire qu’elle peut avoir les
+       mêmes compétences que les humains, sans passer par l’expérience
+--
+       langage.
+     * Une IA ne peut pas générer d’énoncé et mettre des règles en place :
+       c’est là où, selon Chomsky, que l’intelligence humaine et celle de
+       l’IA peuvent se différencier. L’IA est purement descriptive alors
+       que l’humain peut expliquer, jouer avec sa connaissance des langues
+--
+     * Il y a une « Banalité du mal » chez ChatGPT (plagiat, apathie,
+       évitement, etc.) car il ne suit que les ordres. L’IA serait alors
+       une « intelligence servile et sans pensée ».
+--
+
+   Les limites de l’IA se situent dans sa connaissance partielle des
+   langues. Les langues s’ancrent dans des contextes précis et peuvent
+   être détournées et transformées pour créer de réponses singulières et
+   adaptées, ce dont l’IA ne semble pas faire preuve dans les textes
+   générés. Il y a une différence fondamentale entre l’IA et
+   l’intelligence humaine car la première manifeste une incompréhension du
+--
+   Rachel Rodrigues, « ChatGPT devient un allié : ces enseignants
+   apprivoisent l’intelligence artificielle pour améliorer leurs cours et
+   aider leurs élèves », France Info, 10 mars 2023
+--
+     * Une enseignante en français, Cécile Cathelin, propose d’utiliser
+       ChatGPT et d’analyser avec les élèves le retour de l’IA. Cela leur
+       a permis de comprendre ce qu’ils auraient pu amener en plus ou ce
+       qu’ils auraient pu faire mieux que l’IA.
+     * ChatGPT peut être un allié s’il est bien utilisé.
+--
+       artificielle à l’université de Lyon.
+     * Sensibiliser les étudiants aux IA est primordial, mais ce n’est pas
+       envisagé par le ministère de l’Éducation Nationale.
+--
+   L’article traite d’exemples d’intégration de ChatGPT par des
+   enseignants en collège. L’IA est perçue comme une assistante
+   pédagogique que l’élève peut également mobiliser chez lui pour définir
+--
+
+     * Optimisme et inquiétude envers l’IA, car d’une part l’intelligence
+       est ce qui permet de résoudre des problèmes mais, d’autre part, le
+--
+       créativité.
+     * Le cerveau humain est radicalement différent des IA et il est
+       important de le rappeler. Le cerveau développe inconsciemment,
+--
+   Comprendre où se trouve la véritable intelligence pour voir les limites
+   des IA est essentiel. Critiquer, prédire, décrire et expliquer sont des
+   fonctions impossibles à réaliser pour l’IA. Celle-ci n’a pas conscience
+   des lois physiques et mécaniques du monde et ne peut pas se corriger
+--
+
+   Jacob Browning, Yann LeCun, « AI Chatbots Don’t Care About Your Social
+   Norms », Noema, 7 mars 2023
+--
+       reproduire la subtilité et l’émotivité des discussions orales entre
+       humains, régies par des normes ? Comment programmer les IA pour
+       qu’elles aient des conversations efficaces ? Peut-on programmer la
+--
+     * Question du ton, de la voix : manières de dire les choses et
+       intonations qui vont avec, chose indétectable pour IA. Les émotions
+       et le sensible sont primordiaux dans les échanges.
+--
+   correspondre à des normes pour réussir (amour, travail, etc.) alors que
+   les IA n’ont pas d’objectif en soi, pas de réputation à tenir. La
+   compréhension lacunaire du monde social par les IA ne leur permet donc
+   pas de saisir les enjeux relationnels et les manières de s’exprimer qui
+--
+
+   Bérengère Viennot, « ChatGPT et l’IA sont une menace pour les métiers
+   de l’écrit mais pas que », Slate, 3 mars 2023
+--
+       longtemps, avec des ensembles de textes pour trouver du
+       vocabulaire. L’IA peut traduire pragmatiquement car il n’y a pas
+       d’ambiguïté dans le langage en raison de sa standardisation. Or la
+       traduction non pragmatique est plus compliquée pour l’IA car elle
+       demande une sensibilité et une fine compréhension des tournures de
+--
+       qui induit une transformation du métier avec un contrôle (partiel)
+       sur l’IA.
+     * Dès lors qu’une IA donne une « perspective » à partir d’un texte
+       traduit, il faut d’assurer que ce ne sont pas des intentions
+--
+       pas accès au texte original, il ne peut donc pas vérifier les
+       sources et l’exactitude du texte de l’IA par rapport à l’original.
+     * Risque de désinformation : le lecteur ne va pas toujours vérifier
+--
+   Bérengère Viennot se penche sur le devenir de la traduction et du
+   métier de traducteur avec les IA. Elle distingue deux types de
+   traductions, celles « pragmatiques », qui sont associées à un lexique
+--
+   langues humaines. Selon elle, le métier de traducteur muterait pour
+   devenir « réviseur » des lacunes des IA.
+     __________________________________________________________________
+--
+       encadrement par le corps enseignant.
+     * Pensée de Socrate vis-à-vis des IA. Socrate, qui refusait d’écrire
+       car le médium livre ne peut pas répondre à des interrogations,
+--
+       textes et sur comment « créer des modes d’appréhension analytiques
+       de ces sources ». De plus, les IA donnent une importance au
+       collectif dans le savoir, par la pluralité des points de vues et la
+       nécessité du débat.
+     * L’IA n’a pas conscience du contexte et des sources utilisées, à
+       l’inverse des humains qui ont la capacité de dialoguer selon un
+--
+   machines, l’article propose de questionner sur ce qui définit notre
+   humanité afin de mieux saisir les enjeux pédagogiques avec les IA. Il
+   s’agirait d’être attentif aux textes générés par les bots, dont les
+   sources sont non traçables et non-vérifiables pour les individus. Les
+   IA semblent aller à l’encontre du développement des savoirs et de la
+   diversité des points de vue qui sont les valeurs du système pédagogique
+--
+
+     * Les IA sont souvent entourées d’un champ lexical « magique »,
+       engendrant ainsi chez certaines personnes une idéalisation de ces
+--
+     * Terme de « rationalité algorithmique » énoncée par la chercheuse en
+       sciences juridiques Antoinette Rouvroy pour parler des IA qui
+       répondent avant tout à des choix politiques.
+--
+       ordre politique est questionné. On y retrouve un système similaire
+       ici, avec la récolte des données des utilisateurs par les IA, et
+       qui en échange leur rendent un service.
+--
+       libertés et notre vie privée. Nous sommes donc soumis aux prises de
+       décisions opaques et autocratiques des IA.
+     * Les technologies s’imposent de force dans nos sociétés, malgré une
+       conscience des risques liés à ces IA par les politiques. Des normes
+       et lois sont rédigées, comme en Europe avec le RGPD (Règlement
+--
+
+   Les enjeux gouvernementaux liés aux IA s’avèrent être plus complexes
+   qu’il n’y paraît. Notre habitude face à ces technologies, nous rendant
+--
+
+   Ashley Hamer, « How writers can use AI writing tools to be more
+   creative (even if they’re scared) », Descript, 23 février 2023
+--
+
+     * Article sur l’utilisation de l’IA comme assistant d’écriture.
+     * Leanne Leeds, écrivaine, nous dit que l’IA permet d’accélérer son
+       travail et apparaît comme une version plus puissante de sa base de
+--
+     * Une ouverture du processus créatif à tout le monde est rendue
+       possible par les IA (Jim Hull, animateur Disney et Dreamworks).
+     * Exemple de Subtxt : assistant d’écriture associant cadre narratif
+       prédictif et génération de texte L’IA comme un tremplin pour se
+       lancer dans la création ?
+     * Un ajustement est nécessaire avec l’IA pour garder l’intention de
+       l’artiste originel. Exemple donné par Jim Hull lorsque l’IA
+       participe au storytelling d’un dessin animé adapté d’un livre : le
+--
+     * Plagiat et droit : penser aux problèmes pour les artistes de leurs
+       œuvres reprises par IA et de savoir comment détecter si on s’est
+       inspiré, sans le savoir, de créations générées par l’IA.
+         ______________________________________________________________
+
+   Des lignes directrices sur l’utilisation de l’IA ont été mises en place
+   par l’Alliance of Independant Authors, afin de guider les auteurs dans
+   l’utilisation des IA (le guide est accessible sur le site de l’AIA).
+   L’article soutient l’idée que, au lieu de rejeter les IA, il faut
+   plutôt apprendre à expérimenter avec. Si l’on est suffisamment bon dans
+   un domaine l’IA mettra du temps à nous remplacer.
+     __________________________________________________________________
+--
+     * L’interdiction par SciencesPo de ChatGPT est plus de l’ordre de
+       l’obligation de la mention de l’usage des IA dans les travaux par
+       les étudiants. Un professeur d’économie, Stéphane Justeau (Essca)
+       répond qu’il est impossible d’interdire cet outil et qu’il faut
+       réussir à évaluer les élèves sur des critères que les IA ne peuvent
+       pas remplir. Même avis pour Jacques Fayolle, président de la Cdefi
+--
+       Toulouse 1 Capitole.
+     * Une formation aux outils d’IA par un groupe de travail de la Neoma
+       Business School a été testé. Le but était de faire comprendre aux
+       étudiants la désinformation que peuvent engendrer les IA et donc,
+       qu’ils ne doivent pas s’appuyer sur ces outils pour préparer leurs
+--
+       d’Elsevier, demande l’obligation pour les auteurs de signaler
+       l’usage des IA dans leurs textes. « Ces derniers peuvent les
+       utiliser pour améliorer la lisibilité et le langage de l’article de
+--
+   d’enseignements et les modalités d’évaluation. Plusieurs hypothèses
+   d’intégration de l’IA dans les processus d’enseignement sont
+   présentées, comme le réajustement des coefficients de notation des
+--
+   Entretien avec Laurence Devillers par Stéphane Barge, « Bloom,
+   l’intelligence artificielle made in France n’a rien à envier à ChatGPT
+   », Capital, 10 février 2023
+--
+     * Succès de ChatGPT est avant tout un coup de marketing selon
+       Laurence Devillers car le système de ces IA n’a rien de nouveau :
+       la différence se joue dans la puissance de leurs capacités
+--
+       intelligent : il ne fonctionne que par probabilité.
+     * Une IA, nommée Bloom, conçu par trois français et des milliers de
+       chercheurs du CNRS et soutenue par des entreprises (Orange, Thalès,
+       Airbus…) a été développé en France depuis l’été 2021. Son objectif
+       est d’être open-source et plus transparente que les IA des
+       entreprises américaines et chinoises.
+     * Le pouvoir de manipulation des IA est plus important dès lors
+       qu’elles sont opaques car on ne peut avoir accès à leurs
+--
+       évaluer le gaz à effet de serre).
+     * Il faut définir un code d’utilisation des IA pour éviter les
+       dérives et par exemple demander aux entreprises d’être
+       transparentes sur leur IA. S’il y a un non respect, ces entreprises
+       doivent être audités. De plus, il est important de sensibiliser les
+--
+
+   Laurence Devillers présente le projet Bloom, une IA développée par des
+   chercheurs du CNRS et des programmeurs français, qui assure une
+--
+   Richard Menneveux, « Créatifs, développeurs, enseignants, ils ont fait
+   de l’intelligence artificielle leur nouvel outil de travail », Le Club
+   FrenchWeb, 10 février 2023
+--
+     * Il y a un vocabulaire des prompts à apprendre, mais aussi des
+       contournements textuels à trouver face à la censure des IA qui
+       permettent aux étudiants de faire appel à leur créativité.
+--
+       capacité descriptive et analytique.
+     * L’IA est un outil qui ne remplacera pas les humains car certains
+       métiers demandent des compétences qu’une IA ne pourra pas
+       développer : exemple du designer objet/industriel qui a des
+       connaissances techniques (physiques, mécaniques, ergonomiques,
+       etc.) et qui travaille en ayant en tête ces contraintes. L’IA n’a
+       pas conscience des limites physiques.
+     * Attention aux stéréotypes que les IA reproduisent : importance pour
+       les étudIAnts de travailler avec et de comprendre les logiques des
+       IA pour en tirer le meilleur, sans se faire avoir. 2^e entretien :
+       Julien Barbier, fondateur école Holberton School
+     * Le besoin permanent de vérification et de retour critique sur les
+       sorties d’IA montre qu’elle ne sera jamais autonome et que l’humain
+       devra toujours être à ses côtés.
+     * Importance du contexte d’apprentissage : si l’étudiant utilise l’IA
+       à outrance, il y a alors un véritable danger pour sa propre
+       évolution et à l’inverse, interdire IA n’est pas la solution car
+       l’étudiant l’utilisera sûrement mais ne saura pas comment
+--
+       propos de leur logiciel MatchTunes
+     * La capacité créative des IA est puissante. L’espace-temps singulier
+       d’Internet a permis une multitude de nouveaux styles musicaux car,
+--
+       s’enrichir culturellement.
+     * L’IA permet de mixer les univers et une expérimentation ouverte :
+       MatchTunes est au service de « l’excellence » car il s’axe sur la
+       qualité et non la quantité, à l’inverse d’une IA comme Midjourney
+       où 5-6 images sont proposées.
+     * L’IA peut désencombrer les humains de tâches contraignantes et
+       servir la création.
+--
+
+   Selon Etienne Mineur et Julien Barbier, les IA ne sont que des outils
+   qui ne pourront pas remplacer les compétences humaines que certains
+   métiers exigent. Il est nécessaire d’établir des règles d’utilisation
+   des IA en milieu scolaire pour permettre une connaissance fine de ces
+   derniers, et éviter un usage non réfléchi. Savoir utiliser les IA,
+   c’est pouvoir travailler avec, les corriger, contourner leurs limites
+--
+   développe des compétences analytiques et descriptives lorsqu’il rédige
+   un prompt. Plus la demande sera fine et descriptive, plus l’IA sera
+   apte à générer des réponses originales. Par exemple, au lieu de
+--
+     * La notion de « passage à l’acte » est convoquée plusieurs fois pour
+       parler de l’immiscion des IA dans les différentes sphères de notre
+       société sans discussion préalable (outil anti-démocratique ?)
+--
+     * Des dispositifs de validation et de contrôle sont indispensables
+       pour utiliser l’IA en contexte scolaire.
+         ______________________________________________________________
+--
+   l’intérêt à ne pas séparer le droit et la politique des innovations
+   techniques afin d’éviter une acceptation passive des IA. Selon lui, il
+   est primordial de trouver des alternatives ouvertes et plus
+   contrôlables, et d’animer des débats pour mieux cadrer l’intégration de
+   ces IA en contexte scolaire et éveiller les consciences.
+     __________________________________________________________________
+
+   Colin de la Higuera, « L’intelligence artificielle au quotidien :
+   quelle position pour l’enseignant.e ? », Chaire UNESCO RELIA, 6 février
+--
+
+     * Nous n’avons pas encore assez de recul sur les IA dans
+       l’enseignement même si ce n’est pas une question nouvelle (Google
+--
+     * Un projet européen, l’AI4T, a été lancé pour former les enseignants
+       de 5 pays européens (dont la France) à l’IA.
+     * Il est important d’analyser les logiciels non éducatifs intégrant
+       l’IA, qui peuvent être utilisés pour de l’apprentissage. Exemple de
+       BLOOM, conçu par plusieurs pays, décrit comme une solution
+--
+       sommative et ses modes de notation, qui seraient à repenser avec
+       l’émergence des IA. Ces deux débats réunis s’annulent car « “former
+       à utiliser l’IA” devient “former des futurs tricheurs et
+       tricheuses” » et, inversement, « “interdire l’usage de ces
+--
+
+   Le corps enseignant ne doit pas rejeter les IA mais plutôt les essayer
+   et débattre avec les élèves sur les réponses générées. Pour intégrer au
+--
+   n’est pas en train d’apprendre tout en obtenant des résultats
+   trompeurs ? ». Une fois ces questionnements éclaircis, l’IA dans
+   l’enseignement pourrait aider l’étudiant, par exemple, à reformuler, à
+--
+
+   Chris Ré, « AI’s Linux Moment: An Open-Source AI Model Love Note »,
+   Hazy research, 30 janvier 2023
+--
+
+     * L’IA vit son moment Linux : débuts de l’IA open source.
+     * L’open source a joué un rôle majeur dans l’informatique (cf. Whole
+--
+       d’améliorer le monde par des logiciels libres (Linux).
+     * Repenser ce mouvement avec la démocratisation des IA : elles ont
+       connu une forte renommée et évolution grâce à des communautés de
+       gens passionnés qui ont conçu des IA en accès libre (via Discord,
+       GitHub, etc.).
+--
+       (Meta), Keras (Google), Transformers (Hugging Face), etc.
+     * On observe un fort enthousiasme chez les individus car les IA sont
+       applicables au quotidien, accessibles, et permettent de créer des
+--
+
+   L’article soutient l’idée d’une évolution de l’IA, par l’open source et
+   la communauté pour démocratiser les connaissances sur cette
+--
+   partagées, et permettraient aux entreprises de développer leurs propres
+   IA, adaptées à leurs besoins.
+     __________________________________________________________________
+
+   Gleinn Kleiman, « Teaching Students to Write with AI : The SPACE
+   Framework », Medium, 5 janvier 2023
+--
+     * L’article propose plusieurs étapes et instructions à suivre pour
+       assurer une utilisation pertinente des IA pour le corps étudiant
+       via l’acronyme « SPACE: a framework for writing with AI tools » :
+     * Set directions qui définit le but, le contenu et la cible du texte
+       écrit pour ajuster la place de l’IA dans le texte, c’est à-dire,
+       lui donner un rôle plus ou moins important dans la rédaction. Par
+       exemple, l’IA complète ou corrige les fautes mais l’humain rédige
+       la majeure partie du texte.
+     * Prompt, qui assigne à l’IA une tâche spécifique dans le texte, au
+       lieu de le laisser tout rédiger.
+     * Assess, qui évalue les résultats de l’IA pour les ajuster :
+       exactitude, exhaustivité, partialité, etc.
+     * Curate, pour conserver le texte généré par l’IA et ensuite
+       sélectionner et organiser des extraits de textes d’IA ou d’humains
+       pour rendre cohérent l’ensemble. L’intérêt est de travailler avec
+--
+       produire un texte bien organisé et formulé.
+     * L’IA demande de nouvelles compétences à acquérir pour le corps
+       étudiant, d’où la nécessité de le guider pour éviter des
+--
+       paragraphes.
+     * Il est essentiel de limiter l’usage des IA de génération de textes
+       pour éviter au maximum des textes pauvres et indésirables. Les
+--
+       de textes pour appliquer au mieux les étapes SPACE. Quelques
+       exemples de limites de l’IA
+     * L’émotion et l’IA : il ne faut pas oublier que l’IA n’a pas
+       conscience de la profondeur d’un texte, des tournures de phrases,
+--
+       humains ne doit pas être négligé
+     * Les systèmes discriminatoires : IA peut générer du texte stéréotypé
+       voire discriminatoire.
+     * La temporalité et véracité : l’IA met du temps à produire du texte
+       sur des phénomènes récents car il n’y a pas encore assez d’éléments
+--
+       textes incomplets, dépassés et hors sujet, ou à l’invention de
+       références par l’IA.
+     * L’éducation et les IA ont deux approches opposées : « Embrace AI
+       Tools » et « Resist AI Tools » (interdisant strictement
+       l’utilisation des IA à l’école). L’approche « Embrace AI Tools »
+       reconnaît les forces et limites des IA, qui peuvent aider par
+       exemple à corriger les erreurs d’écriture des élèves. Il faut faire
+       une utilisation limitée, justifiée et équilibrée des IA
+       (traduction, suggestion de phrases). Faut-il n’autoriser l’IA que
+       dans l’enseignement supérieur ?
+--
+       Didion) et « J’écris car je ne sais pas ce que je pense jusqu’à ce
+       que je lise ce que j’ai dit » (Flannery O’Connor).
+     * La question centrale est de savoir ce qu’est l’expertise à l’ère de
+       l’IA, et comment préparer au mieux les étudiants à utiliser ces
+       technologies pour enrichir leurs vies.
+--
+   Gleinn Kleimann propose de guider les étudiants sur l’utilisation des
+   IA, avec un principe qu’il nomme « SPACE », dont chaque lettre est
+   associée à une étape à suivre : Set directions, Prompt, Assess, Curate
+   et Edit. L’idée est d’apprendre à travailler en collaboration avec ces
+   IA pour les intégrer dans les processus de rédaction, sans pour autant
+   leur laisser une place prédominante. Il est essentiel de rappeler
+   l’absence d’émotion des IA, dont les textes générés peuvent impacter
+   les individus. De plus, la temporalité des sources utilisées par ces
+--
+
+   Fabian Suchanek, Gaël Varoquaux, « Beau parleur comme une IA », The
+   Conversation, 26 décembre 2022
+--
+
+     * L’IA semble avoir du mal à comprendre le positionnement des mots
+       dans les phrases et le sens attribué. Elle ne comprennent pas le
+       sens et la fonction de chaque mot, et l’importance de leur
+       positionnement dans la phrase. L’IA fait preuve de pur mimétisme de
+       textes rédigés par des humains.
+--
+       connaissent Mme Lin sont de Shanghai. Qui est de Shanghai et a une
+       maîtrise ? », seulement 45% des IA répondent juste alors que les
+       humains répondent juste à 96%.
+     * L’IA ne sait pas si elle est « juste » ou non, donc des réponses
+       fausses et/ou inventées sont générées. Celles-ci prennent de
+--
+       qui peut poser problème pour des individus qui accordent, dès lors,
+       une confiance aveugle à l’IA.
+     * Attention, il ne faut pas penser que ces modèles de langage sont
+--
+     * Les « représentations symboliques » restent le modèle utilisé par
+       les IA actuelles, Elle fonctionnent en stockant les données comme
+       des ensembles d’entités et font des relations entre elles. Pour
+--
+
+   L’article analyse les forces et faiblesses de la compréhension des IA
+   dans la structuration des phrases. D’une part, les IA ont encore du mal
+   à comprendre l’ordre logique et le sens des mots et ne peuvent donc pas
+   raisonner sur des textes trop complexes et utilisant beaucoup de
+   négations. Or, d’un autre côté, ces IA se montrent très performantes
+   dans le stockage de bases de connaissances et dans l’analyse de textes
+--
+
+   Mathilde Fontez « L’intelligence artificielle multiplie les exploits »,
+   franceinfo, 18 décembre 2022
+--
+
+     * IA, AlphaCode, capable de créer des programmes informatiques. Elle
+       a été développée par Alphabet, dont Google s’avère être une
+       filiale.
+     * Il y a une pénurie mondiale des programmeurs : ce genre d’IA
+       pourrait donc s’avérer utile car elles peuvent manipuler les
+--
+       appris de multiples langages.
+     * Si l’IA peut coder, alors les IA pourront-elles se modifier toutes
+       seules ? Elles pourront éventuellement corriger des erreurs dans
+--
+
+   L’article présente AlphaCode, une IA génératrice de programmes,
+   remettant donc en question les limites de cette technologie. Dès lors
+   qu’une IA peut se programmer toute seule, elle pourrait donc échapper à
+   la main de l’Homme. Ce scénario, qui reste encore fictionnel, doit
+--
+     * Les « méthodes d’apprentissages » : exemple d’un essai écrit par un
+       IA en mai 2022 et commenté par Mike Sharples, professeur au
+       Royaume-Uni. Le but de Sharples était d’alerter les enseignants sur
+--
+       de ces technologies.
+     * Des étudiants s’aident de l’IA pour améliorer des compétences
+       qu’ils ont du mal à faire progresser, comme la qualité
+--
+       programme. Certains élèves considèrent donc que demander de l’aide
+       à un IA n’a pas les mêmes conséquences que d’être aidé par un
+       humain.
+     * L’essai est historiquement le moyen d’enseigner aux élèves
+       « comment rechercher, penser et écrire ». Or les IA se montrent
+       meilleures que la plupart des élèves.
+--
+       d’expression ou la généalogie des morales ») qui sont étroitement
+       liées aux IA. Il ne faut pas penser aux problèmes complexes comme
+       s’ils étaient compréhensibles pour tout le monde.
+--
+       la dissertation (examens, thèse, doctorat, etc.), quels impacts les
+       IA vont-elles avoir sur les modes d’apprentissages et
+       d’évaluation ? Il faudra attendre 10 ans avant que ces IA soient
+       réellement ancrés dans monde universitaire : « Deux ans pour que
+--
+       ce sujet. »
+     * Les ingénieurs et humanistes vont se rencontrer avec IA car les
+       informaticiens ont besoin d’avoir des bases sur le langage, la
+--
+   réfléchir de manière transdisciplinaire aux conséquences éthiques et
+   morales des IA de traitement du langage naturel dans l’enseignement.
+     __________________________________________________________________
+--
+       informations.
+     * Essor des IA depuis une dizaine d’années possibles par la
+       concentration des données dans des entreprises privées : IA sont
+       dépendantes de systèmes commerciaux.
+     * Ces entreprises dirigent ce que nous devons savoir et ne pas savoir
+       sur les IA et sur comment nous pouvons interagir avec.
+     * Elle fait un lien sur le rapport des sciences avec le militaire,
+       notamment pendant la Guerre Froide, avec l’influence de l’industrie
+       technologique sur les IA. Elle rappelle aussi que l’armée
+       américaine a grandement participé à contrôler la diffusion des
+--
+       donc il y a privation pour les communautés de premières lignes, les
+       politiques de s’exprimer sur les coûts et les conséquences des IA
+       et de dénoncer les responsables.
+     * Question de comment et pourquoi l’IA s’est-elle développée depuis
+       70 ans malgré plusieurs “hiver de l’IA” et pourquoi elle a pris de
+       l’ampleur ces dernières décennies ?
+     * Mutabilité du terme d’IA évidente face à ces questions et
+       problématiques sur la centralité de la concentration de
+--
+       Internet. Événement marquant, montrant la force des d’algorithmes
+       supervisés mais aussi ce que peut faire l’IA avec des données
+       informatique à grande échelle. AlexNet a donc ouvert la voie aux IA
+       que nous connaissons actuellement, enrendant compte de la puissance
+       et de leurs adaptations dans de nombreux domaines possibles.
+     * Les recherches sur les IA ne sont pas toujours du ressort des
+       chercheurs individuels car, elles dépendent de financements qui
+       sont du côté des entreprises IA.
+     * Modèle de fondation : terme inventé par Stanford pour le lancement
+       du CRFM (Center for Research on Foundation Models) pour parler des
+       IA entraînées sur de gros volume de données et qui peuvent être
+       adaptées à plusieurs tâches. Ces modèles sont parmi les plus riches
+       en termes de données et d’informations dans le domaine l’IA et donc
+       les plus favorisés par les entreprises. (GPT-4, DALL.E etc.).
+     * S’appuyer sur le monde universitaire et sa diversité de domaines
+       pour élargir l’accès à la recherche sur l’IA.
+     * Dès lors que les entreprises font parties des infrastructures de
+       recherches et appellent à encadrer les recherches sur l’IA, alors
+       il y a une extension de leur pouvoir et domination car elles ont la
+--
+       la domination de ces entreprises. (cf. « Timnit Gebru Is Calling
+       Attention to the Pitfalls of AI »
+         ______________________________________________________________
+
+   Ce texte accuse les géants de la tech des IA de neutraliser les
+   critiques en dénigrant les approches dissidentes et en finançant les
+   critiques les plus faibles. La mainmise par ces entreprises sur les IA
+   rend donc les contestations et les modifications de ces systèmes plus
+--
+       sous-développement pour la main d’œuvre, l’installation
+       des serveurs de ces IA etc. (Cf. Antonio Casillif, « Malaise dans
+       l’éthique de l’IA. Conflictualités sociales et environnementales
+       autour de l’automation intelligente », conférence à l’université
+--
+       avril 2023, visible dans cet état de l’art). De plus, une étude de
+       l’Université du Massachusetts a déterminé qu’un grand modèle d’AI
+       émettra près de cinq fois les émissions à vie d’une voiture
+--
+       aussi documenté : utilisateurs potentiels, motivations derrières
+       ces IA, analyses « pré-mortem » (envisager les pires scénarios pour
+       anticiper les risques)… Le développement de langages à faibles

@@ -1,91 +1,53 @@
 
-Médecine : avec l’intelligence artificielle, le soin à la ligne
+IA au travail: les entreprises doivent se mettre au diapason de leurs employés
 
+   ANALYSE. Si les employés suisses sont nombreux à s’être approprié
+   l’intelligence artificielle générative dans le cadre de leur travail,
+   les directives et les formations en la matière manquent encore. Une
 --
-   Dossiers liés
-   Intelligence artificielle : de la fascination à l'inquiétude
-   Si le potentiel de l’IA dans le domaine de la santé semble immense, il
-   reste néanmoins à apprivoiser ces outils, à en évaluer les bénéfices
+   Deux tiers (66 %) des employés en Suisse ne sont pas formés pour une
+   utilisation appropriée de l'IA générative. — © CHRISTIAN BEUTLER /
+   KEYSTONE Deux tiers (66 %) des employés en Suisse ne sont pas formés
+   pour une utilisation appropriée de l'IA générative. — © CHRISTIAN
+   BEUTLER / KEYSTONE
 --
-
-   Innovation, changement climatique, intelligence artificielle,
-   éco-anxiété : comment mieux réparer sa santé ? Rendez-vous à Rouen et à
---
-   de 67,6 %, soit davantage que le minimum requis (60 %). Cette fois
-   c’est officiel : une intelligence artificielle a bel et bien décroché
-   son diplôme de médecine.
---
-   plus sérieuse, qui nous concernera bientôt toutes et tous : la médecine
-   contemporaine se passionne pour l’IA, et les progrès de cette dernière
-   sont rapides. Ce sera un des thèmes abordés à Rouen et à Caen, les 30
+   la conclusion d’une récente étude sur les opportunités et les défis de
+   l’intelligence artificielle (IA) au travail, réalisée par l’éditeur
+   californien de logiciels Salesforce publiée à la mi-décembre. Plus de
 --
 
-Avec l’intelligence artificielle, la médecine sort des santés balisées
-
+   Ce qui frappe, c’est que l’utilisation de l’IA ne se fait pas dans un
+   cadre officiel: 34% des personnes interrogées en Suisse (40% au niveau
 --
-   technologique. Les outils se démocratisent, comme dans l’imagerie, et
-   l’assistance numérique explose, notamment grâce à l’IA», souligne Denis
-   Vivien, professeur de biologie cellulaire et directeur scientifique de
-   l’institut Blood and Brain à Caen (BB@C). «Depuis 2015, on vit un
-   deuxième âge d’or de l’IA en médecine grâce à l’intersection de deux
-   phénomènes : la numérisation croissante des données médicales et
-   l’accès à de nouveaux calculateurs très puissants», rappelle
-   Jean-Emmanuel Bibault, médecin chercheur, spécialiste de l’IA et auteur
-   de 2041, l’odyssée de la médecine (Ed. des Equateurs, 208 pp., 19
---
-   ici). De quoi formuler une double promesse, forcément attrayante
-   lorsque appliquée à la santé : «L’IA fera ce que les humains font déjà,
-   mais en beaucoup plus vite ; et fera ce que les humains ne savent pas
---
-   certaines tâches comme le contourage des tumeurs prennent jusqu’à trois
-   heures au spécialiste seul, contre 20 minutes avec l’aide d’une IA.
-   L’une des hypothèses est que ce gain permettrait de réhumaniser les
-   soins. «L’IA, en déchargeant les médecins d’une partie des tâches
-   techniques ou administratives, libère du temps au profit de la relation
---
-   qualité qui sont espérés : «Il y a un consensus très fort parmi les
-   chercheurs et les cliniciens pour dire que l’IA va apporter aux
-   soignants quantité de nouveaux outils pour mieux prendre en charge les
---
-   illustre Frédéric Jurie, professeur à l’université Caen-Normandie et
-   spécialiste de l’IA. Les méthodes d’apprentissage machine qui sont au
-   cœur des systèmes actuels [comme ChatGPT, ndlr] sont particulièrement
---
-   Reste un constat, pas des moindres : ces promesses en cascade demandent
-   encore, toutes ou presque, à être confirmées. «L’IA est prête mais
-   encore très peu opérationnelle, témoigne Jean Charlet, chargé de
---
-   cédant ni à une forme de technophilie naïve ni à une défiance de
-   principe, poursuit Nicolas Revel. L’IA est un outil et comme tout
-   outil, c’est l’expérience qui lui permettra de faire ses preuves et
+   informelle: deux tiers (66%) des employés suisses ne sont pas formés
+   pour une utilisation appropriée de l’IA générative, et tout autant de
+   collaborateurs n’ont pas reçu de formation pour un usage sécurisé. Et
 --
 
-«Un système d’IA mal pensé peut faire de gros dégâts»
-
-   Pour l’IA, le temps est d’abord venu de la validation, étape
-   prioritaire mais encore en cours en structuration. «Il faut valider les
-   IA avant de les décréter dispositifs médicaux, martèle Jean Charlet.
-   Comme pour les médicaments, les essais cliniques sont impératifs car
+   Mais ces données restent alarmantes lorsqu’on sait que les IA
+   génératives font désormais partie du quotidien de travail de nombreux
+   salariés: environ deux tiers (65%) des personnes interrogées en Suisse
+   confirment qu’elles sont plus productives grâce à l’IA, selon l’étude.
+   Mais surtout, pas moins de 61% des participants à l’enquête en Suisse
+   ont déjà présenté des résultats générés par l’IA comme étant les leurs.
+   Au sein de la Confédération, ce chiffre est particulièrement élevé chez
 --
-   L’un des grands écueils est ici bien identifié, c’est le piège
-   mortifère des biais. «Un système d’IA mal pensé ou alimenté avec des
-   données biaisées peut faire de gros dégâts», prévient Jean-Emmanuel
---
-   travail à faire sur l’interface homme-machine, détaille Jean Charlet.
-   Sans interface fluide, l’IA louperait sa cible.» Et le chercheur de
-   rappeler l’exemple du dossier médical partagé, «dont l’intégration
---
-   cependant réussie si elle est transparente, tempère Nicolas Revel :
-   «D’abord vis-à-vis des patients, auxquels nous devons dire si l’IA
-   intervient et à quel stade de leur prise en charge ; ensuite vis-à-vis
+   Ce dernier point illustre sans doute le cœur du problème. Si nombre
+   d’employés présentent des résultats générés par l’IA comme les leurs,
+   c’est sans doute aussi parce que les directives ne sont pas claires ou
 --
 
-   En amont de ce lent enracinement de l’IA dans le quotidien des soins
-   figure aussi, bien sûr, le champ de la recherche. Parmi les enjeux,
-   ici, celui de souveraineté : «Mener nos propres recherches est
-   nécessaire si nous voulons garder le contrôle sur l’IA, ne pas créer
-   des dépendances technologiques extra-européennes, avertit Jean Charlet.
+   Cette réalité fait légitimement craindre un mauvais usage de l’IA par
+   certains collaborateurs – qui pourraient entrer des données
 --
-
-   LibéCARE. Pensez la santé demainIntelligence artificielle : de la
-   fascination à l'inquiétude
+   automatiquement. Et les collègues et supérieurs n’étant pas au courant
+   que les résultats présentés sont ceux de l’IA, ce sont autant de
+   garde-fous qui disparaissent.
+--
+   aussi être dangereux. Un exemple extrême, au Brésil, un juge a utilisé
+   l’intelligence artificielle pour l’aider à rendre sa décision.
+   Résultat: la sentence contenait de fausses références.
+--
+   Même si le constat peut paraître intéressé, Salesforce ne dit pas autre
+   chose dans son communiqué: «Pour profiter des avantages de l’IA
+   générative, les entreprises doivent établir des directives claires pour

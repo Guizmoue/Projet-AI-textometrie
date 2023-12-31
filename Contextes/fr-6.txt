@@ -1,132 +1,449 @@
-    3. [23]Syst�mes d'information & management
-    4. [24]Num�ro 2023/1 (Volume 28)
-Intelligence artificielle
-
-   [25][SIM_231.jpg?fallback=true]
-   2023/1
-Intelligence artificielle
-       d'information : menace ou opportunit� ?
-     * [26]Suivre cet auteur [27]Fran�ois de Corbi�re, [28]Suivre cet
+     * Début
+     * 1L'IA pour le bien
+     * 2Aviation
 --
 
-   [47]1 Ces derniers mois ont vu l'apparition et l'adoption massive au
-intelligence artificielle
-   g�n�rative. Lanc� le 30 novembre 2022 par Open AI, ChatGPT (un agent
-intelligence artificielle
-   croissance fulgurante : d�s le 5 d�cembre 2022,ce prototype avait
-   atteint un million d'utilisateurs ; deux mois apr�s son lancement,
---
-   (Dwivedi et al., 2023). Alors que la cr�ativit�, le jugement,
-   l'intuition, les �motions ont toujours distingu� les �tres humains de
-IA
-   raisonner, d'apprendre, d'imaginer, rivalisant parfois avec l'humain
-   dans des domaines qui semblaient jusque-l� hors d'atteinte (comme l'art
+Applications de l'intelligence artificielle
+
 --
 
-   [48]2 S'il est encore difficile de comprendre exactement quels seront
-IA
-   rupture, et aura des cons�quences sur le monde du travail, les
-   organisations, la recherche, alors qu'elle s'int�gre tr�s rapidement
---
-   dans le domaine de la recherche en management, nous nous sommes pr�t�s
-   � un exercice particulier : interroger directement ChatGPT sur le r�le
-IA
-
-Encadr� 1 : Proposition de ChatGPT d'un �ditorial sur le r�le de
-intelligence artificielle
-
-intelligence artificielle
-IA
-   plus importante dans de nombreux domaines, y compris le management. Les
-IA
-   vastes, tels que la capacit� � traiter de grandes quantit�s de donn�es
-   et � identifier des mod�les qui seraient difficiles ou impossibles �
---
-   d�cision strat�gique et la conception des mod�les d'affaires (Liang,
-   Wu, & Shih, 2018 ; Teece, 2018).
-IA
-   dans la recherche en management. Par exemple, Wu et Shaffer (2021)
-   soulignent que la qualit� des r�sultats d�pend fortement de la qualit�
-   des donn�es utilis�es. De plus, les implications �thiques de
-IA
-   biais algorithmique doivent �tre soigneusement examin�es (Mithas et
-   al., 2019).
---
-   les probl�matiques soulev�e sur le r�le de l'IA dans la recherche en
-   management. De plus, au-del� des probl�matiques plus g�n�rales de
-IA
-   champ disciplinaire de lui-m�me : comportements des consommateurs,
-   analyse concurrentielle, prise de d�cision ou encore mod�le d'affaires.
---
-   Je ne retrouve pas toutes les r�f�rences propos�es dans Google Scholar.
-   Comment les as-tu trouv�es ?
-ai
-ai
-   pr�alables en mati�re de recherche sur l'IA et le management pour
-   identifier quelques-uns des principaux journaux scientifiques dans ce
-   domaine, tels que MIS Quarterly, Information Systems Research et JAIS.
-ai
-   sites web des journaux scientifiques pour trouver des articles
-   pertinents sur le r�le de l'IA dans la recherche en management.
---
-   Journal of Information Management, et Wiley Online Library pour Journal
-   of the Association for Information Systems.
-ai
-   je suis reconnaissant de pouvoir clarifier ces r�f�rences pour vous.
-   Pour Benbya et Belbaly il y a forc�ment une erreur, car sur le site de
---
-   Pour trouver des articles dans des revues scientifiques, j'utilise
-   souvent des bases de donn�es telles que Google Scholar, Web of Science
-ai
-ai
-   la source r�elle de l'article. Je vais �tre plus vigilant � l'avenir
-   pour �viter de telles erreurs.
---
-   Ces articles couvrent diff�rents aspects de l'utilisation de l'IA dans
-   la recherche en management, notamment les implications pour l'avenir de
-IA
-IA
-   et les risques et r�compenses de l'utilisation de l'IA en management.
-   Je ne trouve pas non plus l'article � An artificial intelligence
---
-   Business Research, Journal of Strategic Information Systems, et autres.
-   Ces revues ont une bonne r�putation dans le domaine de la recherche en
-IA
-
-   [58]11 Pour conclure, ChatGPT est un outil int�ressant pour aborder un
+   L'intelligence artificielle, définie comme intelligence présentée par
+   les machines, a de nombreuses applications dans la société actuelle.
+   Plus précisément, c'est l'IA faible, la forme d'IA avec laquelle les
+   programmes sont développés pour effectuer des tâches spécifiques, qui
 --
 
-     * [63]En ligneBenbya, H., Pachidi, S., & Jarvenpaa, S. L. (2021).
-Artificial intelligence
-       information systems research. Journal of Association for
-       Information Systems, 22(2), 281-303.
-     * Berente, N., Gu, B., Recker, J., & Santhanam, R. (2021). Managing
-artificial intelligence
-     * [64]En ligneCollins, C., Dennehy, D., Conboy, K., & Mikalef, P.
-Artificial intelligence
-       systematic literature review and research agenda. International
-       Journal of Information Management, 60, 102383.
+   L'IA a été utilisée pour développer et faire progresser de nombreux
+   domaines et industries, y compris la finance, la santé, l'éducation, le
 --
-       Jeyaraj, A., Kar, A. K., ... & Wright, R. (2023). "So what if
-       ChatGPT wrote it?" Multidisciplinary perspectives on opportunities,
-AI
-       research, practice and policy. International Journal of Information
-       Management, 71, 102642.
+
+L'IA pour le bien[modifier | modifier le code]
+
+   L'IA pour le bien est un mouvement dans lequel les institutions
+   emploient l'IA pour s'attaquer à certains des plus grands défis
+   économiques et sociaux du monde. Par exemple, l'Université de
+   Californie du Sud a lancé le Centre d'intelligence artificielle dans la
+   société, dans le but d'utiliser l'IA pour résoudre des problèmes
+   socialement pertinents tels que le sans-abrisme. À Stanford, des
+   chercheurs utilisent l'intelligence artificielle pour analyser les
+   images satellitaires afin d'identifier les zones où les niveaux de
 --
-       Management & Data Science.
-     * [66]En ligneHaefner, N., Wincent, J., Parida, V., & Gassmann, O.
-Artificial intelligence
-       review, framework, and research agenda. Technological Forecasting
-       and Social Change, 162, 120392.
+
+   La Division des opérations aériennes américaine (AOD) utilise l'IA pour
+   les systèmes experts basés sur des règles. L'AOD utilise l'intelligence
 --
-       capabilities. Long Range Planning, 51(1), 40-49.
-     * Vrontis D., Christofi M., Pereira V., Tarba S., Makrides A., &
-Artificial intelligence
-       technologies and human resource management: a systematic review.
-       The International Journal of Human Resource Management 33(6):
+
+   L'utilisation de l'intelligence artificielle dans les simulateurs
+   s'avère très utile pour l'AOD. Les simulateurs d'avions utilisent
+   l'intelligence artificielle pour traiter les données provenant des vols
+   simulés. À part le vol simulé, il y a aussi une simulation de guerre
 --
-   2023, pp. 3-9.
-   APA FR [78]Copier de Corbi�re, F., Elie-Dit-Cosaque, C. &
-Intelligence artificielle
-   recherche en management des syst�mes d'information : menace ou
-   opportunit� ?. Syst�mes d'information & management, 28, 3-9.
+
+   L'AOD utilise également l'intelligence artificielle dans un logiciel de
+   reconnaissance vocale. Les contrôleurs de la circulation aérienne
+--
+
+   L'AIDA, conception assistée par intelligence artificielle, est utilisée
+   pour aider les concepteurs dans le processus de création de conceptions
+--
+   endommagés. Le réseau de neurones utilisé dans le logiciel s'est avéré
+   efficace et a marqué un triomphe pour l'intelligence artificielle.
+
+--
+   College de Londres pour développer un système de pilote automatique
+   intelligent (IAS) basé sur l'intelligence artificielle conçu pour
+   enseigner à un système de pilotage automatique de se comporter comme un
+--
+
+   Les chercheurs en IA ont créé de nombreux outils pour résoudre les
+   problèmes les plus difficiles en informatique. Beaucoup de leurs
+   inventions ont été adoptées par l'informatique grand public et ne sont
+   plus considérées comme faisant partie de l'IA (voir effet IA). Selon
+   Russell & Norvig en 2003, tous les éléments suivants ont été
+   initialement développés dans les laboratoires d'IA : le partage du
+   temps, les interprètes interactifs, les interfaces utilisateur
+--
+
+   L'IA peut être utilisée pour potentiellement déterminer le développeur
+   de binaires anonymes^[pas clair]^[réf. nécessaire].
+
+   L'IA peut être utilisée pour créer une autre IA. Par exemple, vers
+   novembre 2017, le projet AutoML de Google visant à développer de
+--
+   Research Projects Agency (DARPA) américaine également, qui a utilisé
+   l'IA pour développer un tuteur numérique afin de former ses recrues de
+   la marine en compétences techniques en un temps plus
+   court.^[réf. nécessaire] Les universités ont tardé à adopter les
+   technologies de l'IA en raison d'un manque de financement ou d'un
+   scepticisme quant à l'efficacité de ces outils, mais dans les années à
+--
+
+   Le Trading algorithmique implique l'utilisation de systèmes d'IA
+   complexes pour prendre des décisions commerciales à des vitesses
+--
+   Plusieurs grandes institutions financières ont investi dans des moteurs
+   d'IA pour les aider dans leurs pratiques d'investissement. Le moteur IA
+   de BlackRock, Aladdin, est utilisé à la fois au sein de l'entreprise et
+--
+   et attribue un score. Des banques comme UBS et Deutsche Bank utilisent
+   un moteur AI appelé Sqreem (modèle de réduction et d'extraction
+   séquentielle quantique) qui peut extraire des données pour développer
+--
+
+   Plusieurs produits qui émergent utilisent l'IA pour aider les gens avec
+   leurs finances personnelles. Par exemple, Digit est une application
+   alimentée par l'intelligence artificielle qui aide automatiquement les
+   consommateurs à optimiser leurs dépenses et leurs économies en fonction
+--
+   les habitudes de dépenses, puis prendre ses propres décisions et
+   transférer de l'argent sur le compte d'épargne^[15]. Wallet.AI, une
+   start-up montante à San Francisco, construit des agents qui analysent
+--
+
+   Article détaillé : Intelligence artificielle dans la santé.
+   [220px-X-ray_of_hand%2C_where_bone_age_is_automatically_found_by_BoneXp
+--
+   D'autres tâches en médecine qui peuvent potentiellement être réalisées
+   par intelligence artificielle et qui commencent à être développées
+   comprennent :
+--
+
+   En 2016, on comptait plus de 90 startups d'IA dans l'industrie de la
+   santé travaillant dans ces domaines^[25].
+--
+   La première solution d'IDx, IDx-DR, est le premier système de
+   diagnostic autonome basé sur l'IA autorisé à la commercialisation par
+   la Food and Drug Administration.
+--
+   délits. Certaines polices, comme celle britannique, font développer une
+   IA de ce genre qui pourrait être opérationnelle dès mars 2019^[26].
+
+--
+
+   Une autre application de l'IA est dans la gestion des ressources
+   humaines (RH) et le domaine du recrutement. L'IA est utilisée de trois
+   façons par les professionnels des ressources humaines et du
+   recrutement. L'IA est utilisée pour filtrer les CV et classer les
+   candidats en fonction de leur niveau de qualification. L'IA est
+   également utilisée pour prédire le succès des candidats dans des rôles
+   donnés grâce à des plates-formes de recherche d'emploi. Et maintenant,
+   l'IA déploie des robots de discussion qui peuvent automatiser les
+   tâches de communication répétitives.
+--
+   De 2016 à 2017, la société de biens de consommation Unilever a utilisé
+   l'intelligence artificielle pour filtrer tous les employés de niveau
+   d'entrée. L'IA d'Unilever a utilisé des jeux exploitant les
+   neurosciences, des entretiens enregistrés et des analyses faciales et
+   de la parole pour prédire le succès de l'embauche. Unilever s'est
+   associé à Pymetrics et HireVue pour mettre au point cette IA et a
+   augmenté leurs demandeurs^[Quoi ?] de 15 000 à 30 000 en une seule
+   année. Le recrutement avec l'IA a également permis à Unilever d'obtenir
+   la « formation la plus diversifiée à ce jour »^[pas clair]. En outre,
+--
+
+   Un autre développement de l'IA est le recrutement de dialogueurs.
+   TextRecruit, un démarrage Bay Area^[pas clair], a ainsi développé un
+--
+
+   Certaines applications AI sont orientées vers l'analyse de contenu
+   multimédia audiovisuel tel que des films, des programmes télévisés, des
+--
+   solutions impliquent souvent la vision par ordinateur, qui est un
+   domaine d'application majeur de l'IA.
+
+--
+
+   Les sociétés d'analyse de média travaillant avec l'IA fournissent
+   souvent leurs services via une API REST qui permet un accès automatique
+--
+   automatique des résultats. Par exemple, IBM, Microsoft, Amazon et la
+   société d'IA vidéo Valossa^[28] permettent d'accéder à leur technologie
+   de reconnaissance multimédia en utilisant des API RESTful.
+--
+   Alors que l'évolution de la musique a toujours été affectée par la
+   technologie, l'intelligence artificielle a permis, à travers les
+   progrès scientifiques, d'imiter, dans une certaine mesure, la
+--
+
+   Parmi les premiers efforts remarquables, David Cope a créé une IA
+   appelée Emily Howell qui a réussi à se faire connaître dans le domaine
+--
+
+   L'IA Iamus a créé en 2012 la première œuvre classique pour piano
+   entièrement composé par un ordinateur^[32].
+
+   D'autres projets, comme AIVA (Artificial Intelligence Virtual Artist),
+   se concentrent sur la composition de musique symphonique,
+--
+   De plus, des initiatives telles que Google Magenta, menées par l'équipe
+   Google Brain, veulent savoir si une intelligence artificielle peut être
+   capable de créer un art irrésistible^[35].
+--
+
+   Un autre projet de composition musicale d'intelligence artificielle,
+   The Watson Beat, écrit par IBM Research, n'a pas besoin d'une énorme
+--
+
+   Article détaillé : Art créé par intelligence artificielle.
+   Cette section est vide, insuffisamment détaillée ou incomplète. Votre
+--
+
+   Une autre société, Yseop, utilise l'intelligence artificielle pour
+   transformer des données structurées en commentaires et recommandations
+--
+
+   Boomtrain's est un autre exemple d'IA conçu pour apprendre à impliquer
+   au mieux chaque lecteur avec les articles exacts - envoyés par le bon
+--
+
+   Il est possible que l'IA écrive des œuvres dans le futur. En 2016, une
+   IA japonaise a co-écrit une histoire courte et a presque gagné un prix
+   littéraire^[44].
+--
+
+   L'intelligence artificielle est utilisée dans des assistants en ligne
+   automatisés qui peuvent être vus comme des avatars sur des pages
+--
+
+   Actuellement, les grandes entreprises investissent dans l'IA pour gérer
+   des clients difficiles à l'avenir. Le développement le plus récent de
+--
+
+   Digital Genius, une start-up spécialisée dans l'IA, recherche plus
+   efficacement la base de données d'informations (à partir des
+--
+
+   Article détaillé : Intelligence artificielle dans le jeu vidéo.
+
+   Les années 1990 ont vu certaines des premières tentatives de produire
+   en masse des types d'intelligence artificielle de base destinés à
+   l'éducation ou aux loisirs. Cela a grandement prospéré avec la
+   révolution numérique, et a aidé à initier les gens, en particulier les
+   enfants, à la gestion de différents types d'intelligence artificielle,
+   notamment sous forme de Tamagotchis et Giga Pets, iPod Touch, Internet
+--
+   Des entreprises comme Mattel ont créé un assortiment de jouets
+   compatibles avec l'IA pour les enfants dès l'âge de trois ans. En
+   utilisant des moteurs IA exclusifs et des outils de reconnaissance
+   vocale, ils sont capables de comprendre les conversations, de donner
+--
+
+   L'intelligence artificielle a aussi été utilisée depuis longtemps dans
+   la conception de joueurs artificiels pour le jeu d'échecs, mais s'est
+--
+   principal des tâches graphiques. Le processeur principal peut désormais
+   être utilisé pour développer des systèmes d’IA plus perfectionnés. Par
+   exemple, l'intelligence artificielle peut être utilisée pour
+   « piloter » des bots (c'est-à-dire les personnages artificiels)
+--
+
+   Dans le domaine du jeu vidéo, l’IA caractérise toute prise de décision
+   d’un personnage (ou d’un groupe) géré par le jeu, et contraint par
+   l’intérêt ludique : une « meilleure » IA ne donne pas forcément un jeu
+   plus jouable^[50], l’objectif est de donner l’illusion d’un
+--
+   chemin, animation procédurale, planifications stratégiques…) sont
+   réalisables par des techniques classiques issues de l'IA symbolique
+   (automates, script, systèmes multi-agents…), fortement dépendante de
+   l’expertise humaine^[51]. Cette approche est préférée par rapport aux
+   techniques d'intelligence artificielle plus académiques (réseaux de
+   neurones, algorithmes génétiques), car mieux contrôlée^[52]. Ces
+--
+   temps de calcul, même si globalement ces ressources augmentent plus les
+   projets sont récents^[52]. Jusqu'à la fin des années 1990, l’IA dans
+   les jeux vidéo (plus particulièrement dans les jeux de stratégie en
+--
+   graphique des processeurs vers les cartes graphiques^[53], on constate
+   à cette période une augmentation des ressources investies dans l’IA
+   (temps de développement, ressource processeur)^[53]. Certains jeux sont
+   précurseurs (Creatures, Black and White) car l’IA y constitue l’élément
+   central ludique^[réf. nécessaire]. Partant d’une approche à base de
+   règles rigides (du type : « si le joueur a telle position, alors
+   j'exécute telle action »), les jeux utilisent alors des IA plus
+   flexibles, diversifiant les techniques mises en œuvre^[50]. Aujourd'hui
+--
+
+   Avec les jeux en réseau, le besoin d’IA a tout d’abord été
+   négligé^[53], mais, particulièrement avec l’apparition des jeux
+--
+   situations qui ne peuvent être prévues. Actuellement ces types de jeux
+   intéressent particulièrement des chercheurs en IA, qui y trouvent un
+   environnement adéquat pour éprouver différentes architectures
+--
+   Les voitures d'aujourd'hui ont maintenant des fonctions d'aide à la
+   conduite basées sur l'IA telles que le stationnement automatique et les
+   commandes de croisière avancées. L'intelligence artificielle a été
+   utilisée pour optimiser les applications de gestion du trafic, ce qui
+--
+   jusqu'à 25 %. À l'avenir, des voitures entièrement autonomes seront
+   développées. L'IA dans les transports devrait fournir un transport sûr,
+   efficace et fiable tout en minimisant l'impact sur l'environnement et
+   les communautés. Le principal défi pour développer cette IA est le fait
+   que les systèmes de transport sont intrinsèquement des systèmes
+--
+   Les techniques d'interprétation et de production de texte issues de
+   l'intelligence artificielle permettent la mise an point de robots
+   conversationnels toujours plus performants, évoqués plus haut.
+--
+
+   Divers outils d'intelligence artificielle sont également largement
+   déployés dans les domaines de la sécurité intérieure, de la
+--
+       Committee on Technology. Executive Office of the President,
+       Preparing for the future of artificial intelligence, 2016.
+    2. ↑ (en) Sean Gallagher, « AI bests Air Force combat tactics experts
+       in simulated dogfights », Ars Technica,‎ 29 juin 2016 (lire en
+--
+       Coulter, Patrick Kenny et Frank V. Koss, « Automated Intelligent
+       Pilots for Combat Flight Simulation », AI Magazine, vol. 20,
+       n^o 1,‎ 15 mars 1999, p. 27 (ISSN 0738-4602, lire en ligne).
+--
+    7. ↑ Russell et Norvig 2003, p. 15.
+    8. ↑ (en) « Google AI creates its own ‘child’ bot », The Independent,‎
+       5 décembre 2017 (lire en ligne, consulté le 5 février 2018).
+--
+       2021 (ISBN 9781800715042, lire en ligne).
+   11. ↑ (en) 2015-2016 Study Panel, Artificial intelligence and life in
+       2030, université Stanford, coll. « One hundred year study on
+       artificial intelligence », septembre 2016 (résumé, lire en ligne
+       [PDF]), « Education », p. 33.
+   12. ↑ (en) « Algorithmic Trading », sur Investopedia.
+   13. ↑ (en) « Beyond Robo-Advisers: How AI Could Rewire Wealth
+       Management ».
+   14. ↑ (en) « Kensho's AI For Investors Just Got Valued At Over $500
+       Million In Funding Round From Wall Street ».
+   15. ↑ (en) « Five Best AI-Powered Chatbot Apps ».
+   16. ↑ (en) « Is Artificial Intelligence the Way Forward for Personal
+       Finance? ».
+--
+       lire en ligne).
+   23. ↑ (en-US) « Artificial Intelligence Will Redesign Healthcare – The
+       Medical Futurist », The Medical Futurist,‎ 4 août 2016 (lire en
+       ligne, consulté le 18 novembre 2016).
+   24. ↑ (en) David D. Luxton, « Artificial Intelligence in Psychological
+       Practice: Current and Future Applications and Implication »,
+--
+       2016 (lire en ligne, consulté le 18 novembre 2016).
+   26. ↑ Alexandre Boero, « La police britannique travaille sur une IA qui
+       sera capable de devancer votre crime », sur Clubic, 1543779744
+--
+       2018).
+   29. ↑ Sylvain Biget, « Une intelligence artificielle pour mettre à jour
+       Wikipédia », sur Futura (consulté le 7 décembre 2023).
+--
+   36. ↑ (en) « Watson Beat », sur GitHub.
+   37. ↑ (en) Matt Jancer, « Songs in the Key of AI », Wired,‎ 17 mai 2018
+       (lire en ligne).
+--
+       but will you know it when you see it? », sur Poynter.
+   41. ↑ (en) Henry Williams, « AI online publishing service Echobox
+       closes $3.4m in fundin g », Startups.co.uk (en),‎ 4 juillet 2016
+--
+       mars 2013).
+   44. ↑ (en-US) « A Japanese AI program just wrote a short novel, and it
+       almost won a literary prize », Digital Trends,‎ 23 mars 2016 (lire
+--
+       future? », CNN, 12 janvier 2016 (consulté le 26 septembre 2016).
+   47. ↑ (en) Jack Clark jackclarkSF, « New Google AI Brings Automation to
+       Customer Service », Bloomberg.com,‎ 20 juillet 2016 (lire en ligne,
+--
+       2005 (version du 21 mars 2005 sur Internet Archive).
+   49. ↑ (en) « How artificial intelligence is moving from the lab to your
+       kid’s playroom », sur The Washington Post (consulté le 18 novembre
+       2016).
+   50. ↑ ^a b et c (en) Game AI: The State of the Industry, Part Two,
+       David C. Pottinger, John E. Laird, Gamasutra, 8 novembre 2000.
+--
+       (présentation en ligne).
+   52. ↑ ^a et b (en) Game AI: The State of the Industry, Steven Woodcock,
+       Gamasutra, 1^er novembre 2000.
+   53. ↑ ^a b et c (en) Game AI: The State of the Industry, Steve
+       Woodcock, Gamasutra, 1998.
+   54. ↑ Aiseek.
+   55. ↑ (en) Michael D. Meyer, « Artificial Intelligence in
+       Transportation Information for Application », Transportation
+--
+
+     * (en) Stuart J. Russell et Peter Norvig, Artificial Intelligence: A
+       Modern Approach, Prentice Hall, 2003 (ISBN 0-13-790395-2, lire en
+--
+     * Pierre Marquis, Odile Papini, Henri Prade (coordinateurs), Panorama
+       de l'Intelligence Artificielle - Ses bases méthodologiques, ses
+       développements, volume 3, « L'intelligence artificielle :
+       frontières et applications », 374 pages, Cèpaduès éditions, 2014,
+--
+
+     * Intelligence artificielle
+     * Apprentissage automatique
+--
+     *
+     * Applications de l'IA, sur aitopics.org
+
+--
+   v · m
+   Intelligence artificielle (IA)
+   Concepts
+     * Effet IA
+     * Grand modèle de langage
+     * Hallucination (IA)
+     * IA générale
+     * IA générative
+
+--
+     * Modèle des croyances transférables
+     * IA symbolique
+     * Réseau bayésien
+--
+   Applications
+     * Art créé par IA
+     * ChatGPT
+     * DeepL
+     * Diagnostic (IA)
+     * Écriture assistée par IA
+     * IA dans la santé
+     * IA dans le jeu vidéo
+     * Perception artificielle
+     * Planification (IA)
+     * Robotique
+--
+   Enjeux et philosophie
+     * Alignement de l'IA
+     * Chambre chinoise
+     * Conscience artificielle
+     * Contrôle des capacités de l'IA
+     * Éthique de l'IA
+     * IA digne de confiance
+     * Philosophie de l'IA
+     * Sûreté de l'IA
+
+   Histoire et événements
+     * Histoire de l'intelligence artificielle
+     * Logic Theorist (1955)
+--
+   Science-fiction
+     * Anticipation (IA)
+     * IA-complet
+     * IA générale
+     * Risque de catastrophe planétaire lié à l'intelligence artificielle
+       générale
+--
+       Règlementation
+     * Législation sur l'IA
+     * Réglementation de l'IA
+
+   Organisations
+     * Agence francophone pour l'IA
+     * Google DeepMind
+     * OpenAI
+     * Partenariat sur l'IA
+
+--
+     * Déclaration de Montréal pour un développement responsable de
+       l'intelligence artificielle
+     * Lettre ouverte sur l'IA
+     * Intelligence artificielle : une approche moderne
+     * I.A. La Plus Grande Mutation de l'Histoire
+--
+   Catégorie :
+     * Intelligence artificielle
+

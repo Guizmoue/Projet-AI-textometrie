@@ -1,79 +1,33 @@
-   Dossiers liés
-   Intelligence artificielle : de la fascination à l'inquiétude
-   Pour le mathématicien et spécialiste de l’IA, les progrès induits par
-   les outils de l’intelligence artificielle ne seront utiles qu’à
-   condition de les intégrer dans un cadre où «l’interdisciplinarité est
+
+OpenAI promet de suspendre des modèles dangereux d’intelligence artificielle
+
+--
+   OpenAI a créé une équipe dédiée à l’identification et à la prévention
+   des risques liés à l’intelligence artificielle (IA), qui pourra mener à
+   suspendre le lancement d’un modèle d’IA s’il est considéré comme trop
+   dangereux.
+--
+   accéléré d’OpenAI quitte à éluder certaines interrogations sur les
+   possibles dérives de l’IA.
+
+   Notre éditorial du 18 décembre 2023: Sans garde-fou, l’IA menace nos
+   sociétés
+--
+   capacités sont supérieures aux logiciels les plus aboutis en matière
+   d’IA.
+
+   «Nous pensons que l’étude scientifique des risques de catastrophe
+   découlant de l’IA n’est pas du tout à la hauteur», expliquent les
+   responsables d’OpenAI dans le document. La création de cadre doit
 --
 
-   Innovation, changement climatique, intelligence artificielle,
-   éco-anxiété : comment mieux réparer sa santé ? Rendez-vous à Rouen et à
---
-   Invité du LibéCare, le mathématicien, ex-député et vulgarisateur
-   scientifique Cédric Villani, a fait de l’intelligence artificielle l’un
-   de ses sujets de prédilection. En 2018, ChatGPT n’existait pas encore
-   lorsqu’il a rédigé, sur commande du gouvernement Philippe, le premier
-   rapport public d’ampleur sur l’IA en France. Plus spécifiquement, le
-   médaillé Fields 2010 coanime depuis six ans un groupe de travail
-   conjoint entre l’Académie des sciences et celle de médecine sur
-   l’irruption de l’IA dans la santé.
-
-   L’IA pénètre rapidement dans l’univers la santé. Alors que sa diffusion
-   va s’accélérer, qu’attendre concrètement de ce bond technologique
---
-
-   C’est bien simple : la santé est le domaine dans lequel l’IA a l’impact
-   le plus clair et le plus fondamental aujourd’hui. Dans l’analyse de
---
-
-Avec l’intelligence artificielle, la médecine sort des santés balisées
+   Retrouvez nos articles sur l'intelligence artificielle.
 
 --
 
-   A l’inverse, qu’est-ce que l’IA ne produira pas ? Quels fantasmes sur
-   ses capacités faut-il abandonner d’emblée ?
---
-   art, leurs recettes, leur empathie. C’est donc la première clé : les
-   progrès de l’IA ne peuvent être utiles que dans le cadre d’une
-   politique humaine – formations, carrières, compétences, etc. Ensuite,
+   A ce propos: OpenAI, numéro un mondial de l’intelligence artificielle,
+   plonge dans le chaos et son existence est menacée
 --
 
-   Les chercheurs cherchent, des IA naissent… Mais où en est-on de leur
-   usage réel ?
-
-   Les IA ne sont pas des outils sur une étagère qu’on peut utiliser tels
-   quels en médecine. La science en général non plus. D’ailleurs, on
---
-
-Aux urgences de Rennes, l’intelligence artificielle comme «aide à la
-décision»
---
-   La façon de travailler ensemble sera au moins aussi importante que la
-   qualité des IA elle-même. L’interdisciplinarité est reine dans ce sujet
-   ! Mathématique, biologie, sciences cognitives, numériques et médicales…
---
-
-   Dans vos travaux, vous citez Israël comme pionnière de l’IA dans la
-   santé. Comment s’y est-elle prise ?
---
-
-   Algorithmes et IA ont besoin de régulation, c’est évident et toute
-   l’Europe en est convaincue. Cependant, la pratique démontre amplement
-   que la réglementation est aujourd’hui en France un frein au
-   développement des projets en IA de la santé. Dossiers lourds,
-   procédures fastidieuses, temps d’attente déraisonnables, contraintes
---
-
-   Quels risques le déploiement de l’IA fait-il peser sur le secteur des
-   soins ?
---
-   d’ailleurs de plus en plus les hôpitaux. Un risque plus insidieux, avec
-   l’IA, est le mélange de fascination et d’incompréhension des décideurs
-   à son égard : cela la rend potentiellement fragile, soumise aux modes,
---
-   problèmes de santé en investissant massivement sur la technologie de
-   l’IA, au détriment d’autres investissements de plus grand impact. L’IA
-   améliorera notre santé, certes, mais en aucun cas ce n’est elle qui va
---
-
-   LibéCARE. Pensez la santé demainIntelligence artificielle : de la
-   fascination à l'inquiétude
+   Intelligence artificielle
+     *

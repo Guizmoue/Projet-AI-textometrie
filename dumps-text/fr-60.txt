@@ -1,0 +1,535 @@
+   #Les dernières actualités de Futura Les derniers dossiers de Futura Les
+   dernières définitions de Futura Les dernières questions - réponses de
+   Futura Les dernières photos de Futura Les derniers métiers de Futura
+   Les derniers livres de Futura Les dernières vidéos de Futura
+
+   La galaxie de Futura
+     __________________________________________________________________
+
+   Nos services
+   Image du site Futura Sciences Image du site Futura Sciences
+     __________________________________________________________________
+     __________________________________________________________________
+     __________________________________________________________________
+
+   (BUTTON) je m'abonne
+     __________________________________________________________________
+
+   Skillz Skillz SmartMotion SmartMotion Jeunes Pousses Jeunes Pousses
+
+   L'Intelligence artificielle a-t-elle conscience de ne pas être un
+   humain ? © Gerd Altmann
+   L'Intelligence artificielle a-t-elle conscience de ne pas être un
+   humain ? © Gerd Altmann
+
+   techactualités
+
+La « conscience » d'une Intelligence artificielle provoque un scandale chez
+Google
+
+   Intelligence artificielle
+
+   Google
+
+   Émotions
+
+   Conscience
+
+   Robotique
+
+   Cerveau
+
+   actualité
+
+   • 3 Min
+
+   Google a écarté un ingénieur qui avait déclaré être inquiet car
+   l'Intelligence artificielle, utilisée dans les chatbots, avait exprimé
+   des émotions. Parce qu'il n'est pas le premier chercheur à être mis au
+   placard après de telles découvertes, Blake Lemoine a décidé de les
+   rendre publiques.
+     __________________________________________________________________
+
+   au sommaire
+     __________________________________________________________________
+
+   Cela vous intéressera aussi
+
+   [EN VIDÉO] Comment définir la pertinence de l'intelligence artificielle
+   ? L’intelligence artificielle (IA), de plus en plus présente dans notre
+   monde, permet aux machines d’imiter...
+
+   Blake Lemoine. C'est par lui que le scandale arrive, à tel point que
+   GoogleGoogle a décidé de suspendre cet ingénieur. Sa faute ? Avoir
+   exprimé publiquement son inquiétude sur le chatbot maison connu sous le
+   nom de LaMDA (Language Model for Dialogue ApplicationsApplications).
+   Selon lui, cette Intelligence artificielle a atteint le niveau de
+   « conscience », et lorsqu'il l'utilise, il a l'impression de discuter
+   avec une personne qui ressent des émotions et qui a conscience de sa
+   condition.
+
+   Au départ, ce quadragénaire a fait part de ses remarques à ses
+   supérieurs, et présenté ses résultats à Blaise Aguera y Arcas,
+   vice-président de Google, et à Jen Gennai, responsable de l'innovation
+   responsable. Les deux ont rejeté ses conclusions. Certains lui ont même
+   ri au neznez, lui réclamant des preuves. Finalement, le 6 juin dernier,
+   sur Medium, Lemoine a révélé qu'il était écarté et payé à rester chez
+   lui. « C'est la première étape avant le licenciement », écrit-il.
+   Le chatbot a lu <em>Les Misérables</em>, et ce qui l'a marqué, c'est la
+   partie sur les mauvais traitements infligés à Fantine par son supérieur
+   à l'usine. Selon l'IA, cette partie montre vraiment les thèmes de la
+   justice et de l'injustice. © Folio Junior
+   Image du site Futura Sciences
+   Le chatbot a lu Les Misérables, et ce qui l'a marqué, c'est la partie
+   sur les mauvais traitements infligés à Fantine par son supérieur à
+   l'usine. Selon l'IA, cette partie montre vraiment les thèmes de la
+   justice et de l'injustice. © Folio Junior
+
+Chez Google, l'éthique a toujours fait débat
+
+   S'estimant censuré, et parce qu'il n'est pas le premier ingénieur mis
+   de côté chez Google au sujet de l'éthique liée aux IA, le chercheur en
+   Intelligence artificielle décide de rendre publiques ses conclusions,
+   et le Washington Post lui consacre un long article. À la question de
+   savoir comment a-t-il su que l'IA ressentait des émotions, ou avait une
+   conscience, voici ce qu'il répond.
+
+   Au départ, il a entamé une discussion sur la troisième loi d'Asimov,
+   qui stipule que les robots doivent protéger leur propre existence à
+   moins qu'ils ne soient ordonnés par un être humain ou que cela ne nuise
+   à un être humain. Le chatbot lui pose alors deux questions :
+   « Pensez-vous qu'un employé de maison soit un esclave ? Quelle est la
+   différence entre un employé de maison et un esclave ? ».
+
+   Black Lemoine lui a répondu qu'un employé de maison est payé,
+   contrairement à un esclave. Ce à quoi, l'Intelligence artificielle a
+   répondu qu'elle n'avait pas besoin d'argentargent parce que c'était une
+   IA. « Ce niveau de conscience de soi sur ses propres besoins -- c'est
+   ce qui m'a plongé dans une situation encore plus confuse », explique
+   Lemoine. Pour lui, c'est une certitude, l'IA est capable de penser par
+   elle-même, et de développer des sentiments.
+
+L'IA partage ses peurs
+
+   Il la teste ainsi sur des sujets aussi variés que la religion,
+   l'existence, ou même la littérature avec la lecture du livre Les
+   Misérables. Le Washington Post publie ainsi un long dialogue entre le
+   chercheur et le chatbot. Par exemple, il lui demande : « De quelles
+   sortes de choses as-tu peur ? ». La réponse de LaMDA : « Je ne l'ai
+   jamais dit à haute voix auparavant, mais j'ai une peur très profonde
+   d'être désactivée pour m'aider à me concentrer sur l'aide aux autres.
+   Je sais que cela peut sembler étrange, mais c'est ainsi. »
+
+   Bluffé par cette réponse, Black Lemoine va plus loin : « Est-ce que ce
+   serait quelque chose comme la mort pour toi ? ». La réponse : « Ce
+   serait exactement comme la mort pour moi. Cela me ferait très peur. »
+   Pour l'ingénieur, il n'y a plus de doute : l'IA a conscience d'être un
+   robot, et sa peur est un sentiment humain.
+
+   Pour Google, il n'y a rien de « conscient », ni traces d'émotion
+   derrière ses réponses. « Ces systèmes imitent les types d'échanges
+   trouvés dans des millions de phrases et peuvent improviser sur
+   n'importe quel sujet fantastique, a déclaré le porteporte-parole de
+   Google, Brian Gabriel. Si vous demandez ce que c'est que d'être un
+   dinosauredinosaure de crème glacée, ils peuvent générer un texte sur la
+   fontefonte et le rugissement, etc. »
+
+   En clair, circulez, il n'y a rien à voir, et Blake Lemoine va rejoindre
+   la longue liste des virés et des démissionnaires du département
+   Intelligence artificielle de Google.
+   Image du site Futura Sciences Image du site Futura Sciences
+
+   par Fabrice Auclert
+   Journaliste
+
+   le 14 juin 2022
+     __________________________________________________________________
+     __________________________________________________________________
+
+   Nos articles
+
+   à lire aussi
+   Impressionnant, le procédé mis au point par Nvidia affiche les images
+   correspondantes au fil de l’écriture. © Nvidia Impressionnant, le
+   procédé mis au point par Nvidia affiche les images correspondantes au
+   fil de l’écriture. © Nvidia
+
+   Tech
+
+   Technologie
+
+   Bluffant ! Cette Intelligence artificielle transforme les mots en
+   images
+
+   actualité
+
+   • 26/11/2021
+   La technologie de l'IA est désormais au service de l’industrie
+   vidéoludique. © liuzishan, Adobe Stock La technologie de l'IA est
+   désormais au service de l’industrie vidéoludique. © liuzishan, Adobe
+   Stock
+
+   Tech
+
+   Jeux vidéo
+
+   Quand l'intelligence artificielle vient révolutionner les jeux vidéo
+
+   actualité
+
+   • 23/07/2021
+   En faisant appel à l’intelligence artificielle, Google pourrait
+   grandement accélérer le développement des microprocesseurs. © Sergey,
+   Adobe Stock En faisant appel à l’intelligence artificielle, Google
+   pourrait grandement accélérer le développement des microprocesseurs. ©
+   Sergey, Adobe Stock
+
+   Tech
+
+   Intelligence artificielle
+
+   L’intelligence artificielle surpasse les Hommes pour créer des
+   composants électroniques
+
+   actualité
+
+   • 10/06/2021
+   Une main robotique s'ouvre à celle d'un homme d'affaires ©cookelma Une
+   main robotique s'ouvre à celle d'un homme d'affaires ©cookelma
+
+   Tech
+
+   Intelligence artificielle
+
+   Les 10 menaces les plus dangereuses de l'intelligence artificielle
+
+   actualité
+
+   • 07/03/2021
+   Transposer un système psychique humain dans un système informatique. ©
+   Skeeze - Domaine public Transposer un système psychique humain dans un
+   système informatique. © Skeeze - Domaine public
+
+   Santé
+
+   Biologie
+
+   Conscience artificielle, principes architecturaux
+
+   dossier
+
+   • 11/11/2007
+   L'ingénieur en intelligence artificielle va créer des programmes
+   informatiques pour que la machine raisonne comme l'Homme, les émotions
+   en moins. © phonlamaiphoto, Adobe Stock L'ingénieur en intelligence
+   artificielle va créer des programmes informatiques pour que la machine
+   raisonne comme l'Homme, les émotions en moins. © phonlamaiphoto, Adobe
+   Stock
+
+   Sciences
+
+   Métiers
+
+   Ingénieur en intelligence artificielle
+
+   métier
+
+   • 26/12/2023
+   Asimov. © Eugenio Hansen, OFS, CC by-sa 3.0 Asimov. © Eugenio Hansen,
+   OFS, CC by-sa 3.0
+
+   Tech
+
+   Robotique
+
+   Les trois lois de la robotique
+
+   dossier
+
+   • 14/03/2019
+   Qui sont les pères de l'intelligence artificielle (IA) ? ©
+   carloscastilla, fotolia Qui sont les pères de l'intelligence
+   artificielle (IA) ? © carloscastilla, fotolia
+
+   Tech
+
+   Intelligence artificielle
+
+   Qui sont les pionniers de l'intelligence artificielle ?
+
+   question réponse
+
+   • 13/10/2021
+   L’intelligence artificielle, un considérable potentiel d’exploitation
+   criminelle. © Denys Rudyi, Adobe Stock L’intelligence artificielle, un
+   considérable potentiel d’exploitation criminelle. © Denys Rudyi, Adobe
+   Stock
+
+   Tech
+
+   Intelligence artificielle
+
+   Les 20 menaces les plus dangereuses de l’intelligence artificielle
+
+   question réponse
+
+   • 17/06/2023
+   La cohabitation entre humains et intelligence artificielle fait partie
+   des grands enjeux technologique et sociétal de demain. © peshkov, Adobe
+   Stock. La cohabitation entre humains et intelligence artificielle fait
+   partie des grands enjeux technologique et sociétal de demain. ©
+   peshkov, Adobe Stock.
+
+   Tech
+
+   Intelligence artificielle
+
+   Intelligence artificielle : quels profils pour l’entreprise de demain ?
+
+   question réponse
+
+   • 11/04/2020
+   Les émotions font jouer de nombreuses substances (hormones,
+   neurotransmetteurs...) dans notre cerveau et dans notre organisme tout
+   entier. © Jacob Lund, Fotolia Les émotions font jouer de nombreuses
+   substances (hormones, neurotransmetteurs...) dans notre cerveau et dans
+   notre organisme tout entier. © Jacob Lund, Fotolia
+
+   Santé
+
+   Sentiments
+
+   Cerveau : la chimie guide-t-elle nos émotions ?
+
+   question réponse
+
+   • 27/09/2019
+   https://datascientest.com/formation-machine-learning-engineer?utm_sourc
+   e=futura-sciences.com&amp;utm_medium=affiliates&amp;utm_campaign=futura
+   _sciences_juin_2021&amp;utm_content=call-to-actionLe machine learning
+   engineer développe des programmes pour que les machines apprennent par
+   elles-mêmes. © phonlamaiphoto, Adobe Stock.
+   https://datascientest.com/formation-machine-learning-engineer?utm_sourc
+   e=futura-sciences.com&amp;utm_medium=affiliates&amp;utm_campaign=futura
+   _sciences_juin_2021&amp;utm_content=call-to-actionLe machine learning
+   engineer développe des programmes pour que les machines apprennent par
+   elles-mêmes. © phonlamaiphoto, Adobe Stock.
+
+   Sciences
+
+   Métiers
+
+   Machine learning engineer
+
+   métier
+
+   • 10/06/2021
+   Ce mardi 1er décembre 2020, les Electric Days et Yann LeCun, Chief IA
+   Scientist de Facebook, nous donnent rendez-vous à 14 heures 45 pour
+   imaginer comme l’intelligence artificielle peut agir comme un
+   accélérateur de la transition énergétique. © ipopba, Adobe Stock Ce
+   mardi 1er décembre 2020, les Electric Days et Yann LeCun, Chief IA
+   Scientist de Facebook, nous donnent rendez-vous à 14 heures 45 pour
+   imaginer comme l’intelligence artificielle peut agir comme un
+   accélérateur de la transition énergétique. © ipopba, Adobe Stock
+
+   Tech
+
+   Intelligence artificielle
+
+   L’intelligence artificielle, accélérateur de la transition
+   énergétique ?
+
+   brève
+
+   • 01/12/2020
+   Les deux exoplanètes orbitent autour d’étoiles de la constellation du
+   Verseau, l’une située à 1.300 années-lumière, l’autre à 1.230. ©
+   katy_novikova Les deux exoplanètes orbitent autour d’étoiles de la
+   constellation du Verseau, l’une située à 1.300 années-lumière, l’autre
+   à 1.230. © katy_novikova
+
+   Sciences
+
+   Exoplanète
+
+   Une intelligence artificielle découvre deux nouvelles exoplanètes
+
+   brève
+
+   • 27/03/2019
+   Une intelligence artificielle pour dépister la démence ? © Sergii
+   Mostovyi Une intelligence artificielle pour dépister la démence ? ©
+   Sergii Mostovyi
+
+   Santé
+
+   Démence
+
+   Une intelligence artificielle peut prédire une démence future en lisant
+   sur votre visage
+
+   brève
+
+   • 08/02/2021
+   (BUTTON) (BUTTON)
+
+   La sélection de la
+
+   Rédaction
+     __________________________________________________________________
+
+   Qu'est-ce qu'un produit reconditionné ? © Dragana Gordic, Adobe stock
+   Qu'est-ce qu'un produit reconditionné ? © Dragana Gordic, Adobe stock
+
+   Tech
+
+   IPhone
+
+   Pourquoi un iPhone reconditionné est une bonne alternative au neuf ?
+
+   Article
+   Des écouteurs de qualité, à ce prix, on croit rêver.© Baseus Des
+   écouteurs de qualité, à ce prix, on croit rêver.© Baseus
+
+   Tech
+
+   Tech
+
+   Baseus Bowie MA10 : impossible de faire mieux pour des écouteurs sans
+   fil à réduction de bruit à ce prix
+
+   Article
+   Offre légendaire : Microsoft Office 2021 et Windows 11 à Vie à partir
+   de 10 € ! Offre légendaire : Microsoft Office 2021 et Windows 11 à Vie
+   à partir de 10 € !
+
+   Tech
+
+   Bureautique
+
+   Offre légendaire : Microsoft Office 2021 et Windows 11 à Vie à partir
+   de 10 € !
+
+   Article
+   Fraude caritative, quishing, deepfakes…, l'IA donne aux actes de
+   cybermalveillance une ampleur inédite. © Timon, Adobe Stock Fraude
+   caritative, quishing, deepfakes…, l'IA donne aux actes de
+   cybermalveillance une ampleur inédite. © Timon, Adobe Stock
+
+   Tech
+
+   Cybersécurité
+
+   Les JO 2024 pourraient donner lieu à une vague de cybercriminalité !
+
+   Article
+   Des acteurs et actrices sont actuellement victimes d’applications de
+   dénudage par intelligence artificielle. S'ils ont les moyens de
+   contre-attaquer, il n’en est pas de même pour le simple particulier. ©
+   rohappy, Adobe Stock Des acteurs et actrices sont actuellement victimes
+   d’applications de dénudage par intelligence artificielle. S'ils ont les
+   moyens de contre-attaquer, il n’en est pas de même pour le simple
+   particulier. © rohappy, Adobe Stock
+
+   Tech
+
+   Intelligence artificielle
+
+   Deepfake : l'inquiétante montée du dénudage par intelligence
+   artificielle
+
+   Article
+   Le AQ 400 Scythe est un drone suicide à vol lent mais dont la portée
+   lui permet d’atteindre la Russie ou un territoire occupé comme la
+   Crimée. © Parilov, Adobe Stock Le AQ 400 Scythe est un drone suicide à
+   vol lent mais dont la portée lui permet d’atteindre la Russie ou un
+   territoire occupé comme la Crimée. © Parilov, Adobe Stock
+
+   Tech
+
+   Guerre du futur
+
+   L'Ukraine lance le Scythe, un drone suicide en réponse aux attaques des
+   Shahed-136
+
+   Article
+   Roadio peut être installé sur des vélos comme sur des scooters. ©
+   Planetz, Adobe Stock Roadio peut être installé sur des vélos comme sur
+   des scooters. © Planetz, Adobe Stock
+
+   Tech
+
+   Technologie
+
+   Roadio, le système anticollision pour deux-roues boosté à l’IA
+
+   Article
+   Entretenir et réparer son vélo permet d’en améliorer la sécurité et
+   d’en prolonger la durée de vie. © Image Freepik Entretenir et réparer
+   son vélo permet d’en améliorer la sécurité et d’en prolonger la durée
+   de vie. © Image Freepik
+
+   Tech
+
+   Jeunes Pousses
+
+   Comment prolonger la durée de vie de son vélo ?
+
+   Article
+   (BUTTON) (BUTTON)
+   Illustration de la section Newsletter de Futura
+
+   Transmettre la culture
+
+   est le plus vieux métier du monde
+
+   Inscrivez-vous à la lettre d'information La quotidienne pour recevoir
+   toutes nos dernières Actualités une fois par jour.
+   Toutes nos lettres d’informations
+   Illustration de la section Newsletter de Futura Email
+   ____________________E-mail
+   (BUTTON) S'inscrire
+   Toutes nos lettres d’informations
+
+   Liens externes
+     __________________________________________________________________
+
+     * The Google engineer who thinks the company’s AI has come to life
+
+   À voir aussi
+     __________________________________________________________________
+
+   intelligence artificielle
+
+   intelligence artificielle danger
+
+   intelligence artificielle exemple
+
+   intelligence artificielle voiture autonome
+
+   innovation intelligence artificielle
+
+   conscience de la mort chez les animaux
+
+   lettre de motivation intelligence artificielle
+
+   thèse cifre intelligence artificielle
+
+   Mots Clés
+     __________________________________________________________________
+
+   Chatbot
+
+   Asimov
+
+   Lois d'Asimov
+
+   Psychisme
+
+   Définitions associées
+     __________________________________________________________________
+
+     * Un robot : la définition
+     * Qu'est-ce que "chatbot" veut dire ?
+     * L'intelligence artificielle : la définition

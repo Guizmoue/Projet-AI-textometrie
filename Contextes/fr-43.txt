@@ -1,88 +1,50 @@
-   Article
-   L’art et l’archéologie, nouveaux horizons de l’IA
-   Article
-   Quand l’IA s’attaque à la sclérose en plaques
-   Article
---
-   Article
-   Peut-on faire confiance à l'intelligence artificielle ?
-   Article
-   Athénan, une IA joueuse multi-championne
-   Article
-   L’IA traque le harcèlement en ligne
-   Article
---
-   Article
-   Une IA, juge de beauté des poissons tropicaux
-   Point de vue
---
-   Des hubots en plein travail (série télévisée « Real Humans », créée en
-   2012). Selon économistes et chercheurs en intelligence artificielle,
-   l'automatisation concernera la totalité des emplois, y compris ceux des
---
-   par des machines en toutes tâches ? Enquête auprès de chercheurs en
-   intelligence artificielle et en économie sur l'évolution de nos emplois
-   dans dix ou vingt ans.
---
-   fructifier l’argent de leurs clients. Au Japon, Watson, la célèbre
-   intelligence artificielle d’IBM, remplace trente-quatre employés d’une
-   compagnie d’assurance-vie, soit un quart des effectifs. Et on teste des
---
-   imagine sans état d’âme déléguer une part importante de la recherche
-   scientifique aux intelligences artificielles (IA) du futur. « En
-   biologie par exemple, séquencer un gène était un sujet de thèse
---
-   partie du travail est déjà faite par les machines », abonde Gilles
-   Saint-Paul, également prêt à céder son fauteuil à une IA pondeuse de
-   modèles économiques. Mais alors quid de la créativité, nécessaire dans
---
-   Qui a dit que les machines n'avaient aucune créativité ? Deep Dream,
-   l'intelligence artificielle "artiste" de Google a réinterprété cette
-   photo d'un drône.
---
-   Qui a dit que les machines n'avaient aucune créativité ? Deep Dream,
-   l'intelligence artificielle "artiste" de Google a réinterprété cette
-   photo d'un drône.
---
-   À long terme, il n’y aurait donc pas d’obstacle théorique à une
-   automatisation totale. Il y a ainsi 50 % de chance que l’IA soit plus
-   performante que nous en toutes tâches dans quarante-cinq ans en
-   moyenne, et automatise tous les métiers dans cent vingt ans, selon les
-   352 experts en IA interrogés par une équipe d’Oxford8, qui situent la
-   rédaction d’un best-seller et la maîtrise d’une chirurgie aux alentours
---
-   Selon le Conseil d’orientation pour l’emploi, il faut ainsi se préparer
-   à ce que la nature de 50 % des emplois mute sous l’influence de l’IA.
-   Et début 2016, le Forum économique mondial estimait que plus de 2
---
-   spécialisés, tels l’informatique, les mathématiques et l’ingénierie.
-   Mais « si tous les gens qui ne sont pas complémentaires de l’IA sont
-   mis sur le côté et qu’on leur donne des jeux et du cirque, dans
---
-   passer au XXIIe siècle...)
-   Peut-on faire confiance à l'intelligence artificielle ?
 
---
-       recherche en informatique et en automatique.
-     * 8. Katja Grace et al., « When will AI exceed human performance ?
-       Evidence from AI experts », arXiv, 30 mai 2017.
-     * 9. Unité CNRS/Université Pierre et Marie Curie/Inserm.
---
-     * 13. Intervention au Sénat le 19 janvier 2017 au sujet de
-       l’intelligence artificielle.
+                  Sans garde-fou, l’IA menace nos sociétés
 
+   ÉDITORIAL. Les fausses informations fabriquées par l’IA générative de
+   Microsoft sur les élections fédérales rappellent que ces systèmes ont
 --
 
-   Intelligence artificielle Robot travail emplois Automatisation Aide à
-   la décision Watson amazon machine robolution Inégalités
+   La frénésie autour de l’intelligence artificielle incite les
+   entreprises à prendre des décisions lourdes de conséquences pour nos
+   sociétés. En intégrant son IA générative Copilot à son moteur de
+   recherche Bing, Microsoft a fait le choix de sacrifier la fiabilité de
 --
-   Pourquoi les footballeuses sont-elles moins payées ?
-   Intelligence artificielle
-   Article
+   C’est ce qu’on comprend à la lecture d’une étude menée par
+   AlgorithmWatch et AI Forensics. Les deux ONG ont analysé des milliers
+   de réponses de l’IA générative de Microsoft dans le cadre des élections
+   fédérales sur Bing. La conclusion fait frémir: invention de scandales
 --
-   27/09/2023
-   L'intelligence artificielle au service de la biodiversité...
-   Blog
-   11/09/2023
-   Robots, Intelligence artificielle et société
-   Article
+   Comment expliquer une telle marge d’erreur? Par le fonctionnement même
+   de l’outil. L’IA générative de Microsoft a pour mission de fabriquer
+   une réponse sous forme de texte. Elle ne s’embarrasse pas de la notion
+--
+   en langage naturel. A ce titre, Copilot remplit sa part du contrat.
+   Lire aussi: Pour l’IA générative de Microsoft, Ueli Maurer siège
+   toujours au Conseil fédéral
+
+   A terme, une telle IA pourrait apporter des réponses plus précises aux
+   requêtes formulées sur un moteur de recherche, tout en offrant
+--
+   mûre. Malgré ce fait indéniable, Microsoft n’a pas souhaité temporiser.
+   Lire aussi: Les européens Mistral AI et Aleph Alpha peuvent-ils
+   réellement concurrencer les géants américains de l’intelligence
+--
+   recherche? Impossible à dire. Mais ce qui est sûr, c’est qu’un
+   déploiement trop hâtif d’une IA générative dans l’outil de recherche le
+   plus utilisé de Suisse (plus de 91% de parts de marché selon Statista)
+--
+   contrôle.
+   Lire aussi: Intelligence artificielle: l’accord européen est
+   historique, mais le plus dur est à venir
+--
+   toutes et tous. Le Conseil fédéral s’interroge encore sur l’opportunité
+   de réglementer l’IA, là où l’Union européenne va de l’avant. Reste à
+   trouver la bonne approche. Elle sera sans doute collective, car, seule,
+   la Suisse n’imposera rien à des géants étrangers.
+   Lire aussi: Faut-il réguler ou non l’intelligence artificielle? Un
+   débat explosif débute en Suisse
+--
+
+   Google Intelligence artificielle Microsoft
+     *

@@ -1,0 +1,76 @@
+
+     Intelligence artificielle : va-t-elle remplacer le diagnostic
+   médical ?
+
+Intelligence artificielle : va-t-elle remplacer le diagnostic médical ?
+
+--
+
+   L’émergence des systèmes d’intelligence artificielle (IA) représente
+   une révolution dans le domaine médical. Les personnels de santé y ont
+--
+
+   En radiologie, en dermatologie, ou encore en ophtalmologie, l’IA permet
+   de détecter des maladies invisibles à l’œil nu et d’établir des
+--
+
+   L’intelligence artificielle ne remplacera jamais le diagnostic humain.
+   Son objectif n’a jamais été de se substituer aux professionnels de
+   santé, mais de travailler de concert avec eux. Aux urgences, l’IA est
+   testée à titre expérimental pour imputer un degré de gravité sur les
+--
+   est arrivé à cette conclusion avec ce système. Ensuite, le soignant
+   doit avoir le droit de refuser de suivre les recommandations de l’IA
+   s’il pense qu’elle s’est trompée. De la même manière, le patient doit
+   être libre de refuser une décision qui émane de l’IA. Se pose aussi la
+   question de la responsabilité légale. Si un professionnel de santé suit
+   la préconisation d’une IA qui va à l’inverse des recommandations
+   générales : quid des responsabilités ?
+--
+   Autre problématique, il faut bien déterminer quelles performances sont
+   attendues de l’IA. Si on prend le cas des urgences, la priorité est la
+   rapidité du diagnostic, au risque de mettre en danger le patient. Le
+--
+   poser la question de la formation des professionnels de santé à
+   l’utilisation de l’IA, car même si elle ne les remplace pas, c’est
+   quand même un outil avec lequel ils vont devoir travailler.
+--
+
+L’avis de Michel Dojat : « L’IA doit savoir dire “je ne sais pas” »
+
+   L’intelligence artificielle est un outil d’aide à la décision médicale.
+   Elle devient indispensable car il y a de plus en plus d’informations à
+   synthétiser, et elle permet de le faire efficacement. En imagerie
+   notamment, l’IA permet de quantifier et de localiser automatiquement
+   des modifications, par exemple la diminution du volume de la matière
+--
+   subtils non visibles à l’œil nu. S’appuyant sur de larges bases de
+   données, l’IA peut définir des profils typiques de normalité ou de
+   progression spécifique d’une pathologie permettant de faire des
+--
+   lorsque les images à analyser sont ambiguës ou hors des cas appris :
+   l’IA doit savoir dire « je ne sais pas ». Elle doit aussi pouvoir
+   apporter de la nuance à ses résultats et dire : « Ici, il y a une
+   lésion, j’en suis sûre à 80 % », en soulignant les 20 % d’incertitude.
+   Donc est-ce que l’IA peut prendre seule des décisions ?
+
+--
+   et trancher. C’est d’ailleurs l’un des avantages de cet outil : en
+   proposant des diagnostics rapides sur les cas les plus simples, l’IA
+   permet au praticien de dégager du temps pour ses interactions avec le
+--
+
+   Nous devons apprivoiser les systèmes d’intelligence artificielle pour
+   comprendre lorsqu’ils produisent un résultat juste, incertain ou
+   totalement faux. Dans la détection des cancers à l’aide de radios l’IA
+   peut par exemple générer des faux positifs. Or, il faut être
+--
+
+   Laurence Devilliers est professeur en IA à Sorbonne Université,
+   chercheuse au LISN (CNRS), membre du Comité national pilote d’éthique
+--
+
+Intelligence artificielle et santé
+
+   L’intelligence artificielle (IA) est un domaine de recherche en pleine
+   expansion et promis à…

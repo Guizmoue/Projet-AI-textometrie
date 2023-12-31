@@ -1,452 +1,186 @@
-   #Commentaires pour "Une IA, juge de beauté des poissons tropicaux"
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-59MW7L4
 
-   Accéder à la navigation
+   (BUTTON)
 
-   Accueil
-   [gb.svg]
-   Se connecter
-   S'inscrire
-   ____________________ (Submit)
-   Thèmes
-     * Vivant
-     * Matière
-     * Numérique
-     * Sociétés
-     * Terre
-     * Univers
+   (BUTTON) Menu
+   Rechercher ____________________ (BUTTON)
+   Epaper/PDF Newsletters
 
-   Formats
-     * Articles
-     * Audios
-     * Diaporamas
-     * Dossiers
-     * Infographies
-     * Points de vue
+   logo letemps S'abonner Mon compte
+     * En continu
+     * Monde
+     * Suisse
+     * Économie
+     * Opinions
+     * Culture
+     * Société
+     * Sciences
+     * Sport
+     * Data
+     * Événements
      * Vidéos
+     * Podcasts
+     *
 
-   CNRS Le Journal
-   Donner du sens à la science
-
-   [logofondation.svg]
-
-Suivre
-
-     * Twitter
-     * Facebook
-     * Google
-     * Dailymotion
-     * RSS
-
-     * Rechercher
-     * Se connecter
-     * S'inscrire
-     * Mon compte
-     * Nos blogs
-
-   English version Dossier spécial Covid-19
-     * Vivant
-     * Matière
-     * Sociétés
-     * Univers
-     * Terre
-     * Numérique
-     * Mes thèmes
-
-Personnalisez votre navigation
-       Sélectionnez vos mots clefs ou thématiques favorites et créez votre
-       rubrique personnalisée
-          + Créer un compte
-          + Se connecter
-       [ ] Stay
-     * Types
-          + Articles
-          + Audios
-          + Diaporamas
-          + Dossiers
-          + Infographies
-          + Points de vue
-          + Vidéos
-       [ ] Stay
-
-   CNRS Le Journal Haut de page [gb.svg] Read in English Nos blogs
-   ____________________ (Submit)
-   Partager l'article
-
-Sections
-
-Vous êtes ici
-
-   Accueil / Articles / Une IA, juge de beauté des poissons tropicaux
-
-Une IA, juge de beauté des poissons tropicaux
-
-   Dossier
-   Paru le 04.01.2022
-   Comment l’intelligence artificielle va changer nos vies
-   Voir le dossier
-   Article
-   L’art et l’archéologie, nouveaux horizons de l’IA
-   Article
-   Quand l’IA s’attaque à la sclérose en plaques
-   Article
-   Des logiciels experts en diagnostic médical
-   Article
-   Peut-on faire confiance à l'intelligence artificielle ?
-   Article
-   Athénan, une IA joueuse multi-championne
-   Article
-   L’IA traque le harcèlement en ligne
-   Article
-   Six scénarios d'un monde sans travail
-   Article
-   À l’usine, au bureau, tous remplacés par des robots?
-   Point de vue
-   Le robot, un «animal» comme les autres ?
-   Article
-   Des machines enfin intelligentes ?
-   Article
-   Voiture autonome
-   Des voitures autonomes sans frontières ?
-   Point de vue
-   Voitures autonomes: par quoi serez-vous choqués ?
-   Point de vue
-   Armes létales autonomes: de quoi parle-t-on?
-   Article
-   Demain, un ordinateur inspiré de notre cerveau?
-   Article
-   La justice à l’heure des algorithmes et du big data
-   Article
-   Les androïdes de la saga Alien sont-ils pour 2093 ?
-   Point de vue
-   Jeu de Go
-   Jeu de go : l’ordinateur plus fort que l’humain?
-   Point de vue
-   Traduire comme on joue au Go ?
-
-Vous êtes ici
-
-   Accueil / Articles / Une IA, juge de beauté des poissons tropicaux
-   [gb.svg] Read in English
-   0 commentaire
-   Vivant
-   Numérique
-   Ecologie
-   ^-A ^+A
-     * Imprimer
-
-   article
-
-Une IA, juge de beauté des poissons tropicaux
-
-   18.07.2022, par
-   Laure Cailloce
-   À gauche, un poisson-ange royal en Atlantique ; à droite, une murène de
-   Griffin dans le Pacifique. C’est notre cerveau qui décide lequel est le
-   plus beau, mais selon quels critères esthétiques ?
-   Georgette Douwma / Naturepl.fr / EB Photo ; © Ross Armstrong / Age
-   Fotostock
-   Partager
-   Partager
-   Des chercheurs ont entraîné une intelligence artificielle (IA) afin
-   d’attribuer un score esthétique à 2400 espèces de poissons de récifs
-   coralliens ou rocheux. Résultat : les poissons que nous jugeons les «
-   moins beaux » sont ceux qui présentent, collectivement, la plus grande
-   variété de caractéristiques écologiques et ont la plus longue histoire
-   évolutive. Ce sont aussi les plus menacés…
-
-   Et si notre relation à la biodiversité passait aussi par le lien
-   émotionnel que l’on entretient avec elle ? Pour étudier ce lien entre
-   beauté des espèces, perception et conservation, l’écologue Nicolas
-   Mouquet du laboratoire Biodiversité marine, exploitation et
-   conservation1 (Marbec) mène depuis plusieurs années un travail de
-   longue haleine sur la valeur esthétique que nous, humains, attribuons à
-   différentes espèces de poissons. Une première étude parue en 2018 a
-   permis d’attribuer un score esthétique – du moins beau au plus beau – à
-   140 espèces de poissons de récifs coralliens. Le dispositif était
-   simple en apparence : demander à des centaines de volontaires de
-   discriminer entre des paires de photos associant à chaque fois deux
-   poissons différents, et désigner le plus beau.
-
-Les "moches" plus nombreux, plus anciens et plus variés
-
-   « Nous avons obtenu un score esthétique pour chaque espèce, que nous
-   avons corrélé aux caractéristiques écologiques de chacune (taille,
-   alimentation carnivore ou herbivore, vie nocturne ou diurne, position
-   au milieu ou en bas de la colonne d’eau…) », explique Nicolas Mouquet.
-   Les poissons perçus comme beaux présentent un fort contraste de
-   luminosité, des couleurs (jaune/bleu par exemple) et des formes plutôt
-   arrondies, soit des signaux visuels faciles à décrypter pour notre
-   cerveau.
-
-   Les chercheurs se sont rendu compte que les poissons perçus comme beaux
-   – ceux qui présentent un fort contraste de luminosité (noir/blanc), des
-   couleurs (jaune/bleu, par exemple) et des formes plutôt arrondies, soit
-   des signaux visuels faciles à décrypter pour notre cerveau  – étaient
-   en réalité des poissons qui avaient évolué très récemment (entre 20 et
-   10 millions d’années) dans les récifs coralliens où leurs couleurs
-   vives leur permettaient de se fondre ; de plus, ils n’occupaient qu’une
-   petite partie de l’arbre du vivant.
-
-   Les poissons jugés « moins beaux », de loin les plus nombreux, avec
-   leurs corps plus allongés, leurs couleurs plus ternes et leurs motifs
-   moins faciles à distinguer (par exemple les poissons gris bleuté vivant
-   dans la colonne d’eau), existent depuis 100 millions d’années pour les
-   plus anciens, et couvrent une plus grande variété de traits
-   écologiques.
-
-   Les poissons qui vivent dans le récif corallien, à l’image de ce
-   baliste strié (Balistapus undulatus), présentent une moins grande
-   variété de traits écologiques.
-
-   CNRS Le Journal (BUTTON)
-   Les poissons qui vivent dans le récif corallien, à l’image de ce
-   baliste strié (Balistapus undulatus), présentent une moins grande
-   variété de traits écologiques.
-   Birgitte Wilms / Minden / Naturepl.fr / EB Photo
-   Birgitte Wilms / Minden / Naturepl.fr / EB Photo
-   Partager
-   Partager
-
-   « Il n’y a pas cent façons d’être beau et beaucoup de façons d’être
-   “moche”, résume de façon volontairement caricaturale le chercheur. Nos
-   biais de perception nous amènent à ne trouver beaux qu’une toute petite
-   partie des poissons récifaux. Si ce filtre esthétique guidait nos
-   efforts de conservation, il ne permettrait pas de protéger des
-   écosystèmes pleinement fonctionnels. »
-   Si ce filtre esthétique guidait nos efforts de conservation, il ne
-   permettrait pas de protéger des écosystèmes pleinement fonctionnels.
-
-   Cette première étude – très médiatisée à sa sortie – avait tout de même
-   des limites : elle portait sur un nombre limité d’espèces, et ne
-   permettait pas de valider une hypothèse forte des chercheurs selon
-   laquelle nos biais de perception – selon que l’on trouve une espèce
-   belle ou pas – pourraient induire des biais dans les politiques de
-   conservation des espèces. C’est grâce à l’intelligence artificielle
-   (IA) et aux réseaux de neurones profonds que les écologues ont pu
-   changer d’échelle, passant de 140 à… 2400 espèces de poissons étudiées.
-
-   « Nous avons utilisé le Reef Life Survey, une base de données
-   australienne qui recense les populations de poissons de plus de 1 800
-   sites marins à travers le monde, soit plusieurs milliers d’espèces.
-   2 400 d’entre elles ont été retenues, pour lesquelles nous avons
-   constitué un fond photographique de 4 800 clichés », explique Nicolas
-   Mouquet. Les chercheurs ont commencé par présenter 350 nouvelles photos
-   à 11 000 volontaires à travers le monde, afin d’alimenter leur réseau
-   de neurones en données, jusqu’à ce que celui-ci soit capable de prédire
-   avec une très grande précision ce que l’humain trouve beau ou non. Puis
-   ils ont soumis à cette IA l’ensemble des 2 400 poissons étudiés afin
-   qu’elle attribue un score esthétique à chacun – un volume énorme qui
-   aurait été impossible à traiter par de simples mortels.
-
-   Pour obtenir un bon score esthétique, comme les poissons situés à
-   gauche dans ce schéma, mieux vaut avoir des couleurs contrastées et un
-   corps arrondi.
-
-   CNRS Le Journal (BUTTON)
-   Pour obtenir un bon score esthétique, comme les poissons situés à
-   gauche dans ce schéma, mieux vaut avoir des couleurs contrastées et un
-   corps arrondi.
-   2022 Langlois et al. PLoS Biol 20(6): e3001640 (CC-BY 4.0) / images G.
-   J. Edgar, A. Green, N. Lazzari, I. Shaw, et R. D. Stuart Smith
-   2022 Langlois et al. PLoS Biol 20(6): e3001640 (CC-BY 4.0) / images G.
-   J. Edgar, A. Green, N. Lazzari, I. Shaw, et R. D. Stuart Smith
-   Partager
-   Partager
-
-   Les chercheurs ont ensuite relié les scores esthétiques obtenus par les
-   poissons à trois types de questionnements. À savoir : quelle est la
-   position des différents poissons sur l’arbre phylogénétique, retraçant
-   l’histoire évolutive des êtres vivants ? Y a-t-il une relation entre
-   leur score esthétique et la diversité de leurs traits écologiques ? Et,
-   enfin, peut-on établir un lien entre le score esthétique et le statut
-   de conservation de ces espèces, tel qu’établi par l’Union
-   internationale pour la conservation de la nature (UICN) ?
-
-Un « délit de sale gueule » jusque chez les scientifiques ?
-
-   Grâce à leur vaste jeu de données, les biologistes montrent qu’il
-   existe un véritable goulet d’étranglement évolutif chez les poissons :
-   les familles qui ont évolué le plus récemment – poissons ange ou
-   poissons papillon, pour les plus connues –, n’occupent qu’une toute
-   petite partie de l’arbre évolutif. Les caractéristiques écologiques,
-   telles qu’alimentation, taille, existence nocturne ou diurne, position
-   dans la colonne d’eau, présentent une plus grande diversité chez les
-   poissons jugés « moins beaux ».
-   La liste des espèces menacées comprend surtout des espèces jugées comme
-   moins belles, tandis que les plus beaux poissons suscitent moins
-   d’inquiétude.
-
-   Le lien avec le statut de conservation est plus délicat à établir, car
-   beaucoup de poissons récifaux ne sont pas évalués par l’UICN, par
-   manque de données. « Néanmoins, si l’on regarde la liste des espèces
-   menacées, on se rend compte qu’elle comprend surtout des espèces jugées
-   comme moins belles, tandis que les plus beaux poissons suscitent moins
-   d’inquiétude, précise Nicolas Mouquet. Cela s’explique avant tout par
-   l’exploitation qu’on en fait : certaines des espèces visuellement les
-   moins appréciées sont très pêchées et donc plus menacées. »
-
-   Parmi les espèces les « moins belles » de la base de données étudiée,
-   le tassergal (Pomatomus saltatrix) est l’une des trois espèces menacées
-   victimes de surexploitation.
-
-   CNRS Le Journal (BUTTON)
-   Parmi les espèces les « moins belles » de la base de données étudiée,
-   le tassergal (Pomatomus saltatrix) est l’une des trois espèces menacées
-   victimes de surexploitation.
-   Robert S Michelson / Animals animals / Age Fotostock
-   Robert S Michelson / Animals animals / Age Fotostock
-   Partager
-   Partager
-
-   Nos jugements esthétiques influeraient jusqu’à l’effort de recherche
-   que nous consacrons aux espèces en général, et aux poissons en
-   particulier. Il semblerait en effet que les scientifiques étudient plus
-   volontiers les espèces qu’ils jugent belles, ou spectaculaires. Ce
-   « délit de sale gueule » chez les poissons doit encore être confirmé
-   par un nouveau chantier : il s’agit désormais de mesurer l’effort de
-   recherche en comptant le nombre de publications scientifiques parues
-   sur chacune des espèces considérées, tout en évaluant en parallèle
-   l’intérêt du grand public grâce au recensement des tweets et requêtes
-   sur Google.
-   Si on comprend mieux ce qui nous émeut, on pourra à terme bâtir des
-   actions de conservation plus acceptables pour les humains, et donc plus
-   efficaces.
-
-   « Il est important de savoir de quelle manière notre perception des
-   espèces conditionne notre comportement envers elles, souligne Nicolas
-   Mouquet. Si on comprend mieux ce qui nous émeut, on pourra à terme
-   bâtir des actions de conservation plus acceptables pour les humains, et
-   donc plus efficaces. » Le scientifique nourrit un autre espoir : celui
-   de changer le regard que nous avons sur les espèces a priori les moins
-   « désirables » pour nous, afin de mieux les protéger.
-
-   « Certains de nos biais de perception sont basés sur notre attirance
-   pour les couleurs vives, les contrastes et les formes arrondies,
-   notamment. Mais on peut à terme modifier ce jugement en apprenant à
-   mieux connaître les espèces, la façon dont elles vivent et leur rôle
-   dans l’écosystème. Tout comme, en art contemporain, un apprentissage et
-   une mise en contexte sont souvent nécessaires pour saisir toute la
-   beauté d’une œuvre. » ♦
-   Notes
-     * 1. Unité CNRS/IRD/Ifremer/Univ. de Montpellier.
-
-   Aller plus loin
-   0 commentaire
-
-Mots-clés
-
-   Intelligence artificielle poissons Biodiversité lien émotionnel réseaux
-   de neurones valeur esthétique biais de perception politiques de
-   conservation Reef Life Survey Évolution
-
-Partager cet article
-
-Auteur
-
-   Laure Cailloce
-
-   Laure Cailloce est journaliste scientifique pour CNRS Le journal.
-   En savoir plus sur l'auteur
-   Rafle du Vel d’Hiv : nouvel éclairage sur un crime françaisPrécédent
-   Elle dépollue les sols et l’eau grâce à… des plantes !Suivant
-
-Voir aussi
-
-   Vivant
-   Blog
-   11/12/2023
-   Cellule souche cherche sa destinée
-   Diaporama
-   12/12/2023
-   Paludisme : des pistes pour enrayer la prolifération du parasite
-   Article
-   07/12/2023
-   Carnets de science #15 : Addiction, le désordre du siècle
-   Vidéo
-   08/12/2023
-   Le sang des glaciers
-   Blog
-   14/12/2023
-   Quand les plantes sortirent de l’eau !
-   Ecologie
-   hippopotame dans les jacinthes d’eau
-   Article
-   06/12/2023
-   Ces plantes qui envahissent le monde
-   Drosophila suzukii © Tomasz Klejdysz / Shutterstock.com
-   Diaporama
-   03/11/2023
-   Drosophila suzukii, petite mouche ravageuse de fruits
-   Diaporama
-   13/10/2023
-   Le grand hamster d’Alsace en sursis
-   Point de vue
-   13/09/2023
-   « Les mégabassines ne résoudront pas la crise de l’eau »
-   Vidéo
-   11/08/2023
-   Forêts, au cœur d’un refuge climatique
-   Intelligence artificielle
-   Article
-   04/12/2023
-   La créativité peut-elle être artificielle ?
-   Blog
-   27/09/2023
-   L'intelligence artificielle au service de la biodiversité...
-   Blog
-   11/09/2023
-   Robots, Intelligence artificielle et société
-   Article
-   28/08/2023
-   « J’essaie de rendre l’humain plus créatif »
-   Blog
-   17/07/2023
-   Prédire les propriétés des matériaux grâce à l'intelligence...
-
-Commentaires
-
-   0 commentaire
-   Flux RSS
-   Pour laisser votre avis sur cet article
-   Connectez-vous, rejoignez la communauté
-   du journal CNRS
-   Se connecter
-   Créer un compte
+   ____________________ (BUTTON)
+     * S'abonner
+     * Accueil
+     * En continu
+     * Monde
+     * Suisse
+     * Économie
+     * Opinions
+     * Culture
+     * Société
+     * Sciences
+     * Sport
+     * Data
+     * Événements
+     * Hyperlien
+     * Dossiers
+     * Grands formats
+     * En images
+     * Vidéos
+     * Podcasts
+     *
+     *
+     * Epaper/PDF
+     * Newsletters
+     * Magazine T
+     * Le Journal de l'Immobilier
+     * Blogs
+     * Archives
+     * Archives historiques
+     *
+     * Abonnements
+     * Services aux abonnés
+     * Questions fréquentes
+     *
+     * Régie Publicitaire
+     * Avis de décès
 
      * À propos
+     * Impressum
+     * Communication
+     * Emplois
+
+   Publicité
+
+    1. Accueil
+    2. Économie
+
+     Washington voit l’IA comme un risque pour la stabilité financière
+
+   Le Conseil de stabilité financière américain a estimé jeudi que
+   l’intelligence artificielle dans les services financiers était une
+   source de vulnérabilité pour le secteur
+
+   Image d'illustration. — © Shuo - stock.adobe.com Image d'illustration.
+   — © Shuo - stock.adobe.com
+
+   Le Temps avec l’ATS
+   Le Temps avec l’ATS
+   Publié le 15 décembre 2023 à 04:41.
+     *
+     *
+     *
+     *
+     *
+
+   Washington considère l’intelligence artificielle dans les services
+   financiers comme une source de vulnérabilité pour le secteur, selon un
+   communiqué du Conseil de stabilité financière (FSOC) publié jeudi. Les
+   régulateurs indiquent qu’ils en surveilleront le développement avec
+   attention.
+
+   Les régulateurs américains de la finance, réunis sous la houlette du
+   département du trésor et de la banque centrale (Fed), ont
+   «spécifiquement identifié l’utilisation de l’intelligence artificielle
+   (IA) dans les services financiers comme une vulnérabilité du système
+   financier».
+
+   Le FSOC a tenu jeudi sa dernière réunion de l’année. Il «jouera son
+   rôle en surveillant l’évolution des technologies pour répondre aux
+   risques émergents», a assuré la secrétaire au trésor, Janet Yellen, qui
+   dirige le comité.
+
+   «Soutenir l’innovation responsable dans ce domaine peut permettre au
+   système financier de récolter des bénéfices tels qu’une efficacité
+   accrue, mais il existe également des principes et des règles existant
+   en matière de gestion des risques qui devraient être appliqués»,
+   a-t-elle ajouté.
+
+Utilisation accrue
+
+   Le président américain Joe Biden a signé à la fin octobre un décret
+   fixant des règles et principes pour encadrer le développement de l’IA.
+   Le texte impose notamment aux entreprises du secteur de transmettre au
+   gouvernement fédéral les résultats de leurs tests de sécurité, quand
+   leurs projets posent «un risque sérieux en matière de sécurité
+   nationale, de sécurité économique nationale ou de santé publique».
+   Lire aussi: Les européens Mistral AI et Aleph Alpha peuvent-ils
+   réellement concurrencer les géants américains de l’intelligence
+   artificielle?
+
+   Le FSOC a précisé, dans le communiqué publié à l’issue de la réunion,
+   que «l’utilisation de l’IA dans les services financiers s’est accrue».
+   «L’IA offre des avantages potentiels, comme la réduction des coûts et
+   l’amélioration de l’efficacité, l’identification de relations plus
+   complexes et l’amélioration des performances et de la précision», mais
+   «peut introduire certains risques, notamment en matière de sécurité et
+   de stabilité».
+
+   Ainsi, le conseil «recommande de suivre l’évolution rapide de l’IA afin
+   de garantir que les structures de surveillance tiennent compte des
+   risques émergents pour le système financier tout en favorisant
+   l’efficacité et l’innovation», est-il précisé.
+
+   Intelligence artificielle Etats-Unis
+     *
+     *
+     *
+     *
+     *
+
+le Temps
+
+     * Impressum
+     * À propos
+     * Communication
+     * Régie Publicitaire
+     * Avis de décès
+     * Événements
+     * Emplois
+
+Abonnements et Services
+
+     * Abonnements
+     * Services aux abonnés
+     * Epaper/PDF
      * Newsletters
-     * Équipe / crédits
-     * Nous contacter
-     * Charte d'utilisation
-     * Plan du site
-     * Données personnelles
-     * Mentions légales
+     * Magazine T
+     * Journal de l'immobilier
+     * Questions fréquentes
+     * Archives
+     * Archives historiques
 
-Numéros papiers
+Documents de références
 
-   CNRS Le journal - septembre 2023
-   n°313
-   Voir tous les numéros
-
-Nous suivre
-
-     * Twitter
-     * Facebook
-     * Google
-     * Dailymotion
-
-Partager
-
-     * Twitter
-     * Facebook
-     * Google
-     * Email
-
-   [logofondation.svg] Faites un don pour la recherche !
-   Centre National de la Recherche Scientifique
-   © 2023, CNRS
-     * Créer un compte
-     * Se connecter
-     * Mon compte
-     * Politique d'accessibilité
+     * Conditions générales d'utilisation
+     * Conditions générales de vente
+     * Politique de confidentialité
      * Gestion des cookies
+     * Charte rédactionnelle
+     * Charte des partenariats
+
+Suivez Le Temps
+
+     * Facebook
+     * Ex-Twitter
+     * Linkedin
+     * Instagram
+     * Youtube
+     * Tiktok
+
+     * Avenue du Bouchet 2, 1209 Genève | Service Clients: +41 22 539 10
+       75 | Contactez Le Temps

@@ -1,0 +1,362 @@
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-59MW7L4
+
+   (BUTTON)
+
+   (BUTTON) Menu
+   Rechercher ____________________ (BUTTON)
+   Epaper/PDF Newsletters
+
+   logo letemps S'abonner Mon compte
+     * En continu
+     * Monde
+     * Suisse
+     * Économie
+     * Opinions
+     * Culture
+     * Société
+     * Sciences
+     * Sport
+     * Data
+     * Événements
+     * Vidéos
+     * Podcasts
+     *
+
+   ____________________ (BUTTON)
+     * S'abonner
+     * Accueil
+     * En continu
+     * Monde
+     * Suisse
+     * Économie
+     * Opinions
+     * Culture
+     * Société
+     * Sciences
+     * Sport
+     * Data
+     * Événements
+     * Hyperlien
+     * Dossiers
+     * Grands formats
+     * En images
+     * Vidéos
+     * Podcasts
+     *
+     *
+     * Epaper/PDF
+     * Newsletters
+     * Magazine T
+     * Le Journal de l'Immobilier
+     * Blogs
+     * Archives
+     * Archives historiques
+     *
+     * Abonnements
+     * Services aux abonnés
+     * Questions fréquentes
+     *
+     * Régie Publicitaire
+     * Avis de décès
+
+     * À propos
+     * Impressum
+     * Communication
+     * Emplois
+
+   Publicité
+
+    1. Accueil
+    2. Culture
+    3. Musiques
+
+                     Quand les algorithmes donnent le tempo
+
+   Des start-up développent des intelligences artificielles capables
+   d’écrire des chansons. Le prochain tube de l’été sera-t-il composé par
+   un ordinateur? Cette technologie pourrait bien révolutionner
+   l’industrie musicale
+
+   Utiliser cette version pour le web! — © Michaël Tunk Utiliser cette
+   version pour le web! — © Michaël Tunk
+
+   Florian Delafoi
+   Florian Delafoi
+   Publié le 25 août 2017 à 19:43. / Modifié le 10 juin 2023 à 15:36.
+     *
+     *
+     *
+     *
+     *
+
+   Un violoncelle trône dans son appartement lausannois. Mais, à cet
+   instant, Florian Colombo pianote sur le clavier de son ordinateur. Une
+   pluie de codes informatiques apparaît à l’écran. En quelques minutes,
+   la machine génère une partition inédite de musique folklorique
+   irlandaise. Le chercheur de l’Ecole polytechnique fédérale de Lausanne
+   (EPFL) peut alors saisir son instrument pour interpréter cette nouvelle
+   mélodie. L’étincelle créative ne dépend plus de l’humain, mais d’une
+   intelligence artificielle. Florian Colombo développe cet algorithme
+   depuis trois ans, avec l’aide de Wulfram Gerstner, directeur du
+   Laboratoire de neurosciences informatiques de la haute école vaudoise.
+
+   IFRAME:
+   https://player.vimeo.com/video/568974177?badge=0&autopause=0&player_id=
+   0&app_id=58479
+
+Neurones artificiels
+
+   Leur projet est à la frontière entre la science et la culture. Comme
+   son nom l’indique, le «Deep Artificial Composer» repose sur
+   l’apprentissage profond (deep learning). Cette technologie, basée sur
+   des neurones artificiels, est capable d’enregistrer une
+   masse d’informations. Le programme de l’EPFL puise ainsi dans une
+   grande base de musiques existantes. Il analyse les partitions note par
+   note, la durée de ces dernières et leur enchaînement pour proposer des
+   créations originales.
+
+   Le résultat est bluffant, au point qu’il est difficile de faire la
+   différence avec une œuvre humaine. «C’est la première fois qu’un réseau
+   de neurones artificiels produit des mélodies à la fois entières et
+   convaincantes. Nous fournissons aussi un outil qui évalue
+   l’authenticité du nouveau morceau de musique», s’enthousiasme Florian
+   Colombo, qui est également le cocréateur de l’Orchestre de chambre des
+   étudiants de l’EPFL. Son projet ne s’arrête pas là. Il espère pouvoir
+   générer une partition pour un orchestre entier.
+
+   Le secteur est en plein essor. Plusieurs entreprises rivalisent
+   d’ingéniosité pour générer de la musique. Une effervescence qui
+   n’échappe pas aux géants du secteur. Propriété de Google, l’entreprise
+   DeepMind a composé une mélodie originale. Le mythique studio londonien
+   de la rue d’Abbey Road a même ouvert un incubateur de start-up actives
+   dans ce domaine. «L’intelligence artificielle va être un facteur
+   fondamental dans la façon dont l’industrie musicale va évoluer», estime
+   son directeur Jon Eades, dans un récent article du Guardian.
+
+Laboratoire musical
+
+   Le lieu est depuis toujours un laboratoire musical. En 1966, les
+   Beatles y tentaient déjà des expériences: voix déformées, instruments
+   ralentis ou accélérés et bandes magnétiques bricolées. Une créativité
+   qui a donné naissance à l’album révolutionnaire Sgt. Pepper’s Lonely
+   Hearts Club Band. Le prochain bouleversement viendra-t-il des machines?
+   Deux entreprises cohabitent déjà avec les artistes du studio.
+
+   Vochlea est l’une d’entre elles. Elle développe une technologie
+   inspirée de la reconnaissance vocale. Le musicien imite un instrument
+   devant un micro et la machine transforme l’élément sonore primitif en
+   véritable mélodie. Avec son «assistant», la société espère stimuler la
+   créativité des musiciens.
+
+   AI Music, la deuxième start-up, propose un concept différent. Son outil
+   est capable d’adapter des chansons existantes au contexte. Au réveil,
+   l’auditeur pourrait découvrir une version acoustique puis écouter une
+   variante électro pendant sa séance de sport. Les possibilités sont
+   infinies. «J’ai toujours été fasciné par l’idée d’automatiser ce que
+   les humains pensent être les seuls à pouvoir réaliser. Nous considérons
+   toujours la créativité comme le dernier bastion de l’humanité», raconte
+   le patron Siavash Madavi au quotidien britannique.
+
+Tube de l’été
+
+   Une question taraude ces entrepreneurs: l’intelligence artificielle
+   est-elle capable de créer le prochain tube de l’été? Un ordinateur
+   peut-il découvrir la recette magique des hits? Leur rêve est en passe
+   de se réaliser. Installé à Paris, le Computer Science Laboratory (CSL)
+   de Sony a frappé un grand coup à la fin de 2016 en présentant le titre
+   «Daddy’s car». Inspirée de l’univers des Beatles, la chanson a fasciné
+   la presse internationale.
+
+   Contacté par Le Temps, le directeur François Pachet révèle qu’un album
+   composé par une intelligence artificielle sortira prochainement. «Ces
+   outils permettent plus d’audace dans toutes les dimensions de la
+   musique. J’espère que le public jugera ce disque pour ce qu’il est, et
+   non pour son procédé de fabrication.» Lui ne souhaite pas en faire un
+   coup marketing. La chanteuse américaine Taryn Southern a fait le choix
+   inverse. Elle a nommé son album I Am AI («Je suis une intelligence
+   artificielle»). «J’ai un nouveau partenaire pour l’écriture de mes
+   chansons, il ne se fatigue pas et a une connaissance infinie de la
+   création musicale», dit-elle au magazine CNN Tech. Disponible sur
+   YouTube, le premier single «Break Free» laisse toutefois perplexe.
+
+   IFRAME: https://www.youtube.com/embed/XUs6CznN8pw?rel=0&enablejsapi=1
+
+   Comme pour se démarquer, François Pachet assure que des artistes «assez
+   connus» ont travaillé sur le projet de son laboratoire. Mais le
+   spécialiste de l’IA est-il convaincu par le résultat? «Les morceaux de
+   l’album sont très intéressants. Et il est rare que je trouve une
+   chanson géniale», sourit-il.
+
+«C’est épouvantable»
+
+   Un enthousiasme loin d’être partagé par l’ensemble des professionnels
+   de la musique. «Quand j’écoute une chanson, ce que j’aime, c’est la
+   petite erreur humaine. C’est la volonté d’une personne qui crée de
+   l’émotion. Je ne suis pas fasciné par l’idée d’écouter la production
+   d’une machine», confie le Lausannois Pierre Audétat, pianiste de jazz
+   et expert en sampling (échantillonnage sonore). Les systèmes
+   informatiques sont en effet incapables de comprendre ce qui fait danser
+   ou pleurer les humains. Pour l’instant.
+
+   Professeur à l’Ecole de jazz et de musique actuelle (EJMA) de Lausanne,
+   Martin Chabloz se dit effrayé par l’essor de ces technologies. «Je n’ai
+   pas envie d’écouter une musique inspirée des Beatles, c’est
+   épouvantable. La machine se substitue à l’humain, je vois mal la
+   démarche artistique», indique cet expert en musique assistée par
+   ordinateur. Son inquiétude fait écho aux mises en garde d’Elon Musk. Le
+   patron de Tesla estime que l’intelligence artificielle est désormais
+   «le plus grand risque auquel notre civilisation sera confrontée».
+   Va-t-elle tuer la musique, avant de s’en prendre aux humains? Les
+   professionnels du secteur racontent une histoire plus positive.
+
+Business juteux
+
+   Si l’accueil du public est bon, les machines pourraient devenir un
+   business juteux pour l’industrie musicale. «On imagine bien que les
+   maisons de disques essaient de trouver une manière de fabriquer des
+   tubes sans avoir à payer un compositeur. Mais il est difficile de
+   comprendre pourquoi une musique devient populaire. C’est une vision
+   plutôt naïve», estime Pierre Audétat.
+
+   Encore imparfaite, la technologie nourrit déjà des plateformes en ligne
+   comme Jukedeck. Celle-ci propose un générateur de musiques d’ambiance.
+   Il suffit d’indiquer le style souhaité, le tempo, les instruments et le
+   tour est joué. Un particulier doit débourser à peine un dollar pour
+   utiliser la piste audio, près de 22 dollars s’il s’agit d’une
+   entreprise. Il est aussi possible d’acheter les droits d’auteur pour un
+   peu moins de 200 dollars.
+
+   «Pour les personnes qui réalisent des courts-métrages ou pour les
+   youtubeurs qui ne veulent pas que leur vidéo soit retirée pour des
+   questions de droit d’auteur, la musique composée artificiellement peut
+   être utile», indique au Guardian Cliff Fluet, un avocat qui travaille
+   avec plusieurs start-up du domaine. Et il en est persuadé: «David Bowie
+   aurait travaillé avec un assistant virtuel s’il était encore vivant.»
+
+   On est encore loin du tube généré en quelques clics. «Pour y parvenir,
+   il faudrait plusieurs algorithmes qui travailleraient sur différents
+   aspects comme l’instrumentation. C’est un challenge pour l’intelligence
+   artificielle», assure Florian Colombo. Avant de présenter la plus
+   grande limite de ces nouveaux outils: «Pour fonctionner, ces
+   algorithmes ont besoin de données. Et ces données sont générées par des
+   humains.»
+
+Au commencement, un jeu de hasard
+
+   La musique est depuis toujours un jeu de hasard. L’aléatoire a infusé
+   l’œuvre impressionnante de Wolfgang Amadeus Mozart. «Il devait inventer
+   des diversions pour briser la routine, imagine le claviériste Martin
+   Chabloz. Mais il restait le maître du jeu. Sa musique demande une somme
+   de connaissances considérable.»
+
+   En 1787, le compositeur autrichien a mis au point un jeu de dés
+   musical. Il suffisait de tirer les dés pour composer menuets ou
+   contredanses au moyen de cartes sur lesquelles étaient inscrites des
+   mesures composées par le maître. Cette forme simple de «composition
+   algorithmique» continue d’inspirer les chercheurs. «A la place de
+   lancer des dés, on utilise un ordinateur et des outils statistiques»,
+   indique Florian Colombo, scientifique à l’EPFL et créateur d’un
+   compositeur artificiel.
+
+Ada Lovelace, une mathématicienne visionnaire
+
+   La mathématicienne anglaise Ada Lovelace est une pionnière dans ce
+   domaine. Au XIXe siècle, cette femme visionnaire décrit une «machine
+   analytique» qui pourrait être programmée afin de résoudre les problèmes
+   les plus complexes, comme composer de la musique. C’est elle qui a eu
+   la vision du calculateur universel, une idée qu’Alan Turing formalisera
+   près de cent ans plus tard.
+
+   L’un des pères de l’informatique est connu pour avoir cassé le cryptage
+   des machines de communication allemandes Enigma pendant la Seconde
+   Guerre mondiale. Mais son laboratoire a également été le théâtre d’une
+   première historique: un morceau de musique joué par un ordinateur.
+   C’était en 1951. La machine a repris, à sa manière, trois chansons
+   connues du grand public: l’hymne britannique «God Save the King»
+   (George VI est toujours roi à l’époque), la comptine «Baa Baa Black
+   Sheep» et quelques mesures du grand classique du jazz de Glenn Miller
+   «In The Mood».
+
+   «Alan Turing n’était pas tellement intéressé par l’idée de programmer
+   l’ordinateur pour jouer des morceaux conventionnels de musique: il
+   utilisait les notes pour indiquer ce que faisait l’ordinateur»,
+   précisent les chercheurs Jack Copeland et Jason Long sur le site de la
+   British Library. C’est un jeune professeur, Christopher Strachey
+   (1916-1975), appelé à devenir un des plus grands informaticiens du
+   Royaume-Uni, qui se chargea d’élaborer un programme informatique
+   musical, sur la base du manuel d’utilisation de l’ordinateur d’Alan
+   Turing. Depuis, les ordinateurs ont fait beaucoup de progrès.
+
+Droits d’auteur: le grand flou
+
+   Un ordinateur est désormais capable de produire une œuvre inédite.
+   Alors, peut-il être considéré comme le créateur d’une chanson?
+   L’incertitude juridique est totale. Comme le rappelle l’Institut
+   fédéral de la propriété intellectuelle, «la protection par le droit
+   d’auteur est conférée aux créations de l’esprit». Une qualité humaine.
+   La création d’un robot a de fortes chances d’être libre de droits, et
+   donc gratuite. Une situation intolérable pour une industrie musicale
+   tentée de sous-traiter la production artistique à des machines.
+
+   Les sociétés qui développent ces programmes ont sans doute trouvé la
+   parade. Dans la plupart de cas, l’intelligence artificielle se contente
+   d’être l’assistante du compositeur. Ce dernier peut modifier la musique
+   réalisée par la machine comme bon lui semble. En termes de droits
+   d’auteur, il est le compositeur unique. Mais «le défi est de créer des
+   chansons de qualité. Certains compositeurs refusent de mettre leur nom
+   sur de la musique partiellement composée par un ordinateur»,
+   confie François Pachet, directeur du laboratoire parisien de Sony.
+
+   Si la technologie continue de progresser, les autorités devront sans
+   doute moderniser le droit d’auteur. Les machines pourraient être dotées
+   de protections morales et juridiques. Des droits aujourd’hui réservés
+   aux humains.
+
+     *
+     *
+     *
+     *
+     *
+
+le Temps
+
+     * Impressum
+     * À propos
+     * Communication
+     * Régie Publicitaire
+     * Avis de décès
+     * Événements
+     * Emplois
+
+Abonnements et Services
+
+     * Abonnements
+     * Services aux abonnés
+     * Epaper/PDF
+     * Newsletters
+     * Magazine T
+     * Journal de l'immobilier
+     * Questions fréquentes
+     * Archives
+     * Archives historiques
+
+Documents de références
+
+     * Conditions générales d'utilisation
+     * Conditions générales de vente
+     * Politique de confidentialité
+     * Gestion des cookies
+     * Charte rédactionnelle
+     * Charte des partenariats
+
+Suivez Le Temps
+
+     * Facebook
+     * Ex-Twitter
+     * Linkedin
+     * Instagram
+     * Youtube
+     * Tiktok
+
+     * Avenue du Bouchet 2, 1209 Genève | Service Clients: +41 22 539 10
+       75 | Contactez Le Temps

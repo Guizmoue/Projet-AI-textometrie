@@ -1,0 +1,241 @@
+    #alternate
+
+   [ ]
+
+   Photo Je m’abonne
+   (BUTTON)
+
+   Recherche (BUTTON) Mode Newsletters
+
+   Photo
+   Habiter le monde autrement
+   Je m’abonne à partir de 1€
+
+   La France vue de l’étranger Géopolitique Économie Société Politique
+   Sciences et environnement Culture Courrier Expat Longs formats Vidéos
+   Podcasts Infographies Réveil Courrier Courrier Stories Application Tous
+   les hebdos Tous les pays Nos sources Horoscope
+
+   Réveil Courrier Bande de Gaza Guerre en Ukraine Venezuela L’hebdo
+   Horoscope Courrier Stories
+
+     * Société
+     * Intelligence artificielle (IA)
+
+   À la une de l’hebdo.
+
+L’intelligence artificielle en roue libre
+
+   Chaque semaine, “Courrier international” explique ses choix éditoriaux.
+   Dans ce numéro, nous revenons sur les débats qui entourent les progrès
+   fulgurants de l’IA. Après l’engouement autour de ChatGPT, c’est
+   l’inquiétude qui prévaut aujourd’hui. Faut-il pour autant imposer un
+   moratoire sur la recherche ? Comment réguler des technologies qui
+   menacent la sécurité de nos données ? Les analyses de la presse
+   étrangère.
+   Logo
+   Courrier international
+   Publié le 26 avril 2023 à 09h07 Lecture 2 min.
+   Photo
+
+   (BUTTON) Partager
+
+   “On n’a pas toutes les réponses, et la technologie évolue rapidement.
+   Est-ce que ça m’empêche de dormir la nuit ? Absolument.” Cette phrase
+   en forme d’aveu, c’est Sundar Pichai qui l’a prononcée à la mi-avril
+   dans 60 Minutes, sur CBS. L’émission a provoqué un tollé chez les
+   chercheurs en intelligence artificielle. Si même le patron d’Alphabet,
+   la maison mère de Google, en vient à douter…
+
+   Il est loin d’être le seul. Après le temps de la fascination est venu
+   celui de l’inquiétude. Et si les intelligences artificielles
+   génératives, nourries de plus de contenus qu’aucun cerveau humain ne
+   peut l’imaginer, nous dépassaient ? La question préoccupe aujourd’hui
+   la presse étrangère mais aussi les gouvernements et nombre d’entre nous
+   d’un bout à l’autre de la planète.
+   Lire aussi : Débat. “Il est beaucoup trop tard” pour un moratoire sur
+   l’intelligence artificielle
+
+   “La folie ChatGPT”, titrait Courrier international le 16 février à
+   propos du robot conversationnel mis au point par la start-up OpenAI,
+   ouvrant un dossier consacré à l’engouement pour ChatGPT, qui comptait
+   déjà 100 millions d’utilisateurs dans le monde. “La course à l’IA est
+   lancée chez les géants du Net”, écrivions-nous alors.
+
+   Un mois plus tard, le 29 mars, un millier d’experts de la tech
+   publiaient sur le site de l’institut américain Future of Life une
+   lettre ouverte réclamant un moratoire d’urgence sur la recherche dans
+   ce secteur, qui a récemment fait des progrès fulgurants : “Nous
+   appelons tous les laboratoires d’IA à suspendre immédiatement, pendant
+   au moins six mois, la formation des systèmes d’IA plus puissants que
+   GPT-4.”
+
+   Au cœur de leur inquiétude : des questions éthiques, la peur de perdre
+   le contrôle, d’être remplacés… À la fin du mois d’avril, plus de
+   27 500 personnalités avaient signé cet appel, dont Elon Musk ou encore
+   l’historien Yuval Noah Harari. Le sujet a fait la une de nombreux
+   magazines à l’étranger ces dernières semaines. L’Italie a
+   provisoirement interdit ChatGPT, la Chine veut s’assurer que les IA ne
+   propageront que des valeurs socialistes… Bref, la révolution promise
+   par l’intelligence artificielle s’emballe. Et c’est un peu le retour de
+   bâton.
+   Lire aussi : Une du jour. Les progrès de l’IA doivent “raisonnablement”
+   nous inquiéter
+
+   Faut-il pour autant s’affoler ? Comment encadrer les IA génératives et
+   composer avec elles ? En quoi cela risque-t-il de toucher nos vies, nos
+   métiers ? C’est à toutes ces questions que nous tentons de répondre
+   dans le dossier de cette semaine à partir de trois articles traduits de
+   la presse étrangère.
+
+   “Cette panique qui se ressent dans la pétition sur l’IA, c’est la peur
+   de voir jusqu’à ceux qui auront pris le ‘train du progrès’ se révéler
+   incapables de décider de son cap”, dénonce, sévère, Slavoj Zizek dans
+   Project Syndicate. Le philosophe marxiste juge ridicule l’idée d’un
+   moratoire – qui empêcherait les laboratoires de poursuivre leurs
+   recherches en Russie, en Chine ou en Inde. Pour lui, la “fulgurante
+   montée en puissance de l’intelligence artificielle constitue, de fait,
+   une grave menace pour ceux qui ont le pouvoir. […] Elle annonce rien de
+   moins que la fin du capitalisme tel que nous le connaissons.”
+
+   Une réflexion profonde et engagée sur les véritables enjeux du débat
+   actuel. À lire absolument.
+
+   Dans un tout autre registre, la MIT Technology Review met en garde :
+   avant toute question d’éthique, ce sont les failles des modèles de
+   langue d’intelligence artificielle sur lesquels s’appuient ChatGPT,
+   Bard et autre Bing qui devraient nous inquiéter. “Les utiliser à
+   mauvais escient pour en faire de puissants outils d’hameçonnage ou
+   d’arnaque est d’une facilité déconcertante”, écrit le magazine, qui
+   explique qu’avec les robots conversationnels nos données, très vite, ne
+   seront plus en sécurité.
+   Lire aussi : La pilule philosophique. Pourquoi Socrate aurait détesté
+   ChatGTP
+
+   Autre point de vue, et qui nous concerne évidemment en tant que
+   journalistes, celui du photojournaliste suisse Niels Ackermann. Face à
+   l’essor d’IA comme Midjourney, capables de produire des images qui
+   ressemblent à s’y méprendre à des photos prises par les humains, les
+   médias plus que jamais “doivent devenir des marchands de vrai,
+   plaide Niels Ackermann. Cela me rassure de me dire qu’il existe sans
+   doute un marché pour le réel, dans un monde où la disponibilité du
+   faux, du synthétique devient illimitée.”
+
+   On veut croire qu’il a raison, mais la question se posera forcément sur
+   les images comme sur les textes (à noter que ChatGPT n’a pas écrit ce
+   Making of), et nous serons vigilants. Bonne lecture.
+
+   Claire Carrard
+   Nos lecteurs ont lu aussi
+
+   Photo
+
+   Une du jour. La débauche des touristes russes à Bali
+
+   Photo
+
+   Une du jour. Les progrès de l’IA doivent “raisonnablement” nous
+   inquiéter
+
+   Photo
+
+   Point de vue. Pour Slavoj Zizek, la toute-puissance de l’IA révèle nos
+   peurs d’un futur posthumain
+
+   Photo
+
+   Vu de Suisse. Le double jeu d’Elon Musk sur l’intelligence artificielle
+   ChatGPT Société Sciences & Techno Intelligence artificielle (IA)
+
+   Nos services
+   Photo
+   Best Of 2023
+   Géopolitique, sciences, société… Retrouvez dans notre hors-série les
+   photos et les articles de la presse étrangère qui ont marqué 2023.
+   Commander votre hors-série →
+   Photo
+   Éditions Christine Bonneton
+   Tentez de remporter un exemplaire de l’album « Voyages autour des lieux
+   mystérieux » de Sarah Baxter, proposé par les éditions Christine
+   Bonneton.
+   Je reçois mon guide →
+   Photo
+   Perlego
+   Découvrez la bibliothèque en ligne Perlego et profitez d’une offre
+   spéciale sur votre abonnement.
+   Je profite de l’offre spéciale →
+   Photo
+   Éditions Ankama
+   Tentez de remporter un exemplaire de l’album « Sống » de Hai-Anh et
+   Pauline Guitton, proposé par les éditions Ankama.
+   Je reçois mon album →
+
+   Les plus lus
+
+   La chronique du New York Times. Modern Love : j’ai fini par apprendre
+   les bienfaits romantiques des cadeaux inutiles
+
+   Économie. En Chine, la rupture du contrat social menace le pouvoir
+
+   Vu de l’étranger. Alcool : la France de Macron rechigne toujours à
+   soutenir le Défi de janvier
+
+   Reportage. Voyage en Albanie, pays du miracle économique
+
+   Nos services
+   Photo
+   Best Of 2023
+   Géopolitique, sciences, société… Retrouvez dans notre hors-série les
+   photos et les articles de la presse étrangère qui ont marqué 2023.
+   Commander votre hors-série →
+   Photo
+   Éditions Christine Bonneton
+   Tentez de remporter un exemplaire de l’album « Voyages autour des lieux
+   mystérieux » de Sarah Baxter, proposé par les éditions Christine
+   Bonneton.
+   Je reçois mon guide →
+   Photo
+   Perlego
+   Découvrez la bibliothèque en ligne Perlego et profitez d’une offre
+   spéciale sur votre abonnement.
+   Je profite de l’offre spéciale →
+   Photo
+   Éditions Ankama
+   Tentez de remporter un exemplaire de l’album « Sống » de Hai-Anh et
+   Pauline Guitton, proposé par les éditions Ankama.
+   Je reçois mon album →
+
+   (BUTTON) (BUTTON) (BUTTON)
+   (BUTTON) (BUTTON)
+
+   [ ]
+
+   24 jours, 24 découvertes : le calendrier de Courrier international
+   Dessin
+
+   Newsletters (BUTTON) Applications
+   Photo
+   Hebdo Habiter le monde autrement
+   Photo
+   Hors-série Best-of 2023
+
+     * Qui sommes-nous ?
+     * CGVU
+     * Mentions légales
+     * Politique de confidentialité
+     * Paramétrer les cookies
+     * Nos flux RSS
+     * Agence Courrier international
+     * Annonceurs
+     * Contact
+     * Aide (FAQ)
+
+   (BUTTON)
+
+   Applications mobiles
+   Retrouvez l'actualité toute la journée, et l'hebdo en format numérique.
+   iPhone/iPad Android
+
+   Partager cette page
+
+   [iu3?pid=53ea394c-a65f-44b4-8583-4462975c707a&event=PageView]

@@ -1,0 +1,287 @@
+    #alternate alternate alternate
+
+                                   Navigation
+
+     * Saut au contenu
+
+   Conseil de l'Europe
+   WWW.COE.INT
+   Droits de l'Homme Démocratie État de droit
+   À propos
+   Le Conseil de l’Europe en bref
+   Le Conseil de l’Europe : éléments clés
+   Histoire et réalisations
+   Emploi et stages
+   Accueil
+   Droits de l'homme
+   Démocratie
+   État de droit
+   Entités administratives
+   Secrétaire Générale
+   Secrétaire Général adjoint
+   Présidence
+   Comité des Ministres
+   Assemblée parlementaire
+   Congrès des pouvoirs locaux et régionaux
+   Cour européenne des droits de l'homme
+   Commissaire aux droits de l'homme
+   Conférence des OING
+   Organes de suivi
+   Cabinet
+   Bureau des Traités
+   46 États membres
+   Dossiers thématiques
+   Actualités
+   Evènements
+   Librairie
+   Ressources en ligne
+   Contact
+   Intranet
+   Français
+   Choix de langue
+
+   English
+   Français
+   Connexion
+   Rechercher
+   Le Conseil de l’Europe en bref
+   Le Conseil de l’Europe : éléments clés
+   Histoire et réalisations
+   Emploi et stages
+   Accueil
+   Droits de l'homme
+   Démocratie
+   État de droit
+   Entités administratives
+   Secrétaire Générale
+   Secrétaire Général adjoint
+   Présidence
+   Comité des Ministres
+   Assemblée parlementaire
+   Congrès des pouvoirs locaux et régionaux
+   Cour européenne des droits de l'homme
+   Commissaire aux droits de l'homme
+   Conférence des OING
+   Organes de suivi
+   Cabinet
+   Bureau des Traités
+   46 États membres
+   Dossiers thématiques
+   Actualités
+   Evènements
+   Librairie
+   Ressources en ligne
+   Contact
+   Intranet
+   [subsite-fr.svg]
+   [logo-coe.svg] Avenue de l'Europe
+   F-67075 Strasbourg Cedex
+   Tel. +33 (0)3 88 41 20 00
+   www.coe.int
+
+Intelligence artificielle
+
+     * Accueil
+     * Actualité
+     * CAI
+     * CAHAI
+     * Les travaux en cours
+     * Publications
+     * Webinaires
+
+     *
+
+   Vous êtes ici :
+    1. Intelligence artificielle
+
+     L'IA, c'est quoi
+
+                               L'IA, c'est quoi ?
+
+   [icon-twitter-rounded.png] [icon-facebook-rounded.png]
+   [icon-linkedin-rounded.png] [icon-mail-rounded.png]
+
+Une définition complexe à opérer et à partager
+
+   Si le terme d’« intelligence artificielle » (IA) est entré dans le
+   langage commun et son utilisation devenue banale dans les médias, il
+   n’en existe pas réellement de définition partagée.
+
+   Au sens large, le terme désigne en effet indistinctement des systèmes
+   qui sont du domaine de la pure science-fiction (les IA dites « fortes
+   », dotées d’une forme conscience d’elles-mêmes) et des systèmes déjà
+   opérationnels en capacité d’exécuter des tâches très complexes
+   (reconnaissance de visage ou de voix, conduite de véhicule – ces
+   systèmes sont qualifiés d’IA « faibles » ou « modérées »).
+
+   Cette confusion contribue à entretenir des craintes purement
+   spéculatives (des IA autonomes conscientes s’opposant aux humains) qui
+   resteraient anecdotiques si elles ne troublaient pas la mesure des
+   réels enjeux, tels que l’impact sur les droits fondamentaux de
+   processus de prise de décision fondés sur des modèles mathématiques, et
+   donc difficile l’élaboration de cadres de régulation.
+     __________________________________________________________________
+
+Une définition à restreindre, au cas par cas, aux technologies utilisées
+
+   L’IA est en réalité une discipline jeune d’une soixante d’années, qui
+   réunit des sciences, théories et techniques (notamment logique
+   mathématique, statistiques, probabilités, neurobiologie
+   computationnelle et informatique) et dont le but est de parvenir à
+   faire imiter par une machine les capacités cognitives d’un être humain.
+
+   Les spécialistes préfèrent en général employer le nom exact des
+   technologies concrètement en œuvre (qui relèvent aujourd’hui
+   essentiellement de l’apprentissage automatique – machine learning) et
+   sont parfois réticents à employer le terme d’ « intelligence » car les
+   résultats, bien qu’extraordinaires dans certains domaines, demeurent
+   encore modestes au regard des ambitions entretenues.
+     __________________________________________________________________
+
+Qu’est-ce que l’apprentissage automatique (machine learning) ?
+
+   Après avoir connu deux périodes de fort développement (entre 1940 et
+   1960, puis entre 1980 et 1990), l’IA a connu un nouvel essor en 2010
+   grâce aux algorithmes dits d’apprentissage automatique. Deux facteurs
+   sont à l’origine de ce nouvel engouement des chercheurs et des
+   industries informatiques : l’accès à des volumes massifs des données et
+   la découverte de la très grande efficacité des processeurs de simples
+   cartes graphiques d’ordinateur pour accélérer le calcul des algorithmes
+   d’apprentissage.
+
+   L’actuelle « révolution » de l’IA ne vient donc pas d’une découverte de
+   la recherche fondamentale mais de la possibilité d’exploiter avec
+   efficacité des fondements relativement anciens, tels que l’inférence
+   bayésienne (XVIIIème siècle) ou les neurones formels (1943) pour l’une
+   des sous-classes de l’apprentissage automatique, l’apprentissage
+   profond (ou deep learning).
+
+   L’apprentissage automatique a opéré un changement complet de paradigme
+   par rapport à la précédente génération d’IA, les systèmes experts, avec
+   une approche voulue comme inductive : il ne s’agira plus pour un
+   informaticien de coder les règles à la main mais de laisser les
+   ordinateurs les découvrir par corrélation et classification, sur la
+   base d’une quantité massive de données. Autrement dit, l'objectif de
+   l'apprentissage automatique n’est pas réellement d’acquérir des
+   connaissances déjà formalisées mais de comprendre la structure de
+   données et de l’intégrer dans des modèles, notamment pour automatiser
+   des tâches.
+     __________________________________________________________________
+
+Systèmes experts et apprentissage automatique : deux conceptions différentes
+de l’IA
+
+
+
+   Très concrètement, dans sa phase d'apprentissage, la machine va
+   rechercher les liens entre des données préalablement sélectionnées pour
+   un domaine spécifique (par exemple, sur 10 années, dans différentes
+   villes, le nombre de crèmes glacées vendues et la température de l'air)
+   et les catégoriser. Ce modèle pourra ensuite être utilisé pour résoudre
+   des questions du type : s'il fait 25°, combien de glaces puis-je
+   espérer vendre dans tel lieu ?
+
+   Bien que certains systèmes construisent des modèles de manière
+   relativement autonome, l'intervention humaine demeure encore
+   essentielle, qu'il s'agisse de choisir les données d'apprentissage,
+   d'identifier leurs éventuels biais ou alors, quand cela est possible,
+   de distinguer parmi les corrélations celles pouvant être réellement la
+   cause d'un phénomène (si l'on vend beaucoup plus de glaces pour un lieu
+   donné, est-ce à cause de la température ou de la présence d'un très bon
+   glacier ?).
+     __________________________________________________________________
+
+Le futur de l’IA et ses enjeux
+
+   D’après certains experts comme Yann LeCun, chercheur en IA et pionnier
+   de l’apprentissage profond, l’ambition de parvenir à imiter une
+   cognition humaine (ou même animale) nécessiterait de nouvelles
+   découvertes en recherche fondamentale et non une simple évolution des
+   technologies actuelles d’apprentissage automatique. De telles
+   technologies, qui relèvent essentiellement de la mathématique et de la
+   statistique, ne sont en effet pas en mesure d’agir par intuition ou de
+   modéliser rapidement leur environnement.
+
+   Les impacts sociétaux, éthiques et sur les droits fondamentaux ne sont
+   donc pas à construire en craignant que l’apprentissage automatique ne
+   fasse émerger une forme conscience artificielle dans les 10 ou 20
+   années, mais prévenant les biais, les discriminations, les atteintes à
+   la vie privée, à la liberté d’expression ou de conscience voire à la
+   vie elle-même avec les armes autonomes provenant d’une conception de la
+   société la réduisant à un modèle mathématique.
+
+www.coe.int/ai
+
+Vers une application de l'IA fondée sur
+les droits de l'homme, l'Etat de droit
+et la démocratie
+
+[twitter-follow.svg]    [facebook-follow.svg]
+
+#COE4AI
+
+   [mail-1.svg]  Contactez-nous
+
+   (BUTTON) Caché
+
+   logo Council of Europe Portail du Conseil de l'Europe
+
+A propos
+
+     * Qui sommes-nous
+     * Droits de l'homme
+     * Démocratie
+     * Etat de droit
+     * Convention Européenne des droits de l'homme
+     * Emploi et stages
+     * Visiter le Conseil de l’Europe
+
+Nous suivre
+
+     * [icon-facebook.png] Facebook
+     * [icon-twitter.png] X (Twitter)
+     * [icon-instagram.png] Instagram
+     * [icon-linkedin.png] LinkedIn
+     * [icon-youtube.png] Youtube
+     * [icon-flickr.png] Flickr
+
+Nous contacter
+
+     * Cabinet de la Secrétaire Générale
+     * Contacts presse
+     * Bureaux extérieurs
+     * Newsletters
+     * Achats
+     * Subventions
+     * Patronage
+     * Signaler un acte répréhensible
+     * Comité consultatif d'audit et d'évaluation
+     * Conseiller en éthique
+
+Multimédias
+
+     * Actualités
+     * La chaîne des droits humains
+     * Banque d'images
+     * Librairie en ligne
+     * Ressources en ligne
+     * Campagnes
+
+Liens utiles
+
+     * Archives
+     * Pages web archivées
+     * Amicale
+     * Tribunal Administratif
+     * Accessibilité
+     * Plan du site
+     * Accès
+
+   logo Council of Europe
+    Intranet
+
+   Conseil de l'Europe,
+   Avenue de l'Europe F-67075 Strasbourg Cedex, France -
+   Tel. +33 (0)3 88 41 20 00
+   Clause de non-responsabilité - © Conseil de l'Europe 2023 - © Crédit
+   photo - Contact - RSS

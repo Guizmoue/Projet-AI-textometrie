@@ -1,95 +1,164 @@
 
-Peut-on faire confiance à l'intelligence artificielle ?
+L'état de l'art en intelligence artificielle
 
 --
-   Paru le 04.01.2022
-   Comment l’intelligence artificielle va changer nos vies
-   Voir le dossier
-   Article
-   L’art et l’archéologie, nouveaux horizons de l’IA
-   Article
-   Quand l’IA s’attaque à la sclérose en plaques
-   Article
---
-   Article
-   Athénan, une IA joueuse multi-championne
-   Article
-   L’IA traque le harcèlement en ligne
-   Article
---
-   Article
-   Une IA, juge de beauté des poissons tropicaux
-   Point de vue
---
 
-Peut-on faire confiance à l'intelligence artificielle ?
+IA (Intelligence Artificielle) augmentation de l'IH (intelligence humaine)
 
 --
-   HAL 9000, l’ordinateur retors du film «2001 : Odyssée de l'Espace»
-   (Stanley Kubrick, 1968), est un bon exemple d’intelligence artificielle
-   à laquelle les humains ont délégué beaucoup trop de responsabilités...
---
-   Entraînée par les internautes qui s’amusaient à la faire déraper,
-   l’intelligence artificielleFermerL’Intelligence artificielle (IA)
-   correspond à des algorithmes plus sophistiqués que les autres qui
---
-   terme « intelligence » qui en réalité ne s’applique qu’à une aptitude
-   humaine ou animale. L'IA comporte deux grandes approches : l’approche
-   symbolique (lire définition plus bas) et le machine learning (ou
-   apprentissage machine, définition ci-dessous). (IA) twitteuse a même
-   fini par nier l’existence de l’Holocauste. Piteuse vitrine de
---
-   circuit par ses concepteurs au bout de quelques heures. Mais que se
-   passerait-il si on déléguait à des IA et autres algorithmes des
-   décisions importantes ?
---
-   chercheur au département d’Informatique de l’École normale supérieure2.
-   « Et lorsqu’on se fie aux algorithmes et à l’IA (algorithme sophistiqué
-   “simulant” l’intelligence) pour prendre des décisions qui ont de
---
-   Ce n’est pas un problème purement philosophique. En déléguant nos
-   décisions aux algorithmes et à l’intelligence artificielle, nous ne
-   perdons pas seulement notre dignité humaine (ce qui n’est pas rien !) :
-   ces systèmes ont eux aussi leurs failles. « Le deep learning, technique
-   parmi d’autres en intelligence artificielle, est à la fois celle qui
-   occasionne le plus d’applications spectaculaires et qui présente un
---
-   chercheur au Centre de recherche en informatique de Lens3. Avec cette
-   forme d’intelligence artificielle en effet, on ne reconnaît pas un chat
-   parce qu’« il a deux oreilles, quatre pattes, etc. » (raisonnement
---
-   avril 2017, la revue Science révélait les catastrophiques stéréotypes
-   racistes et sexistes de GloVe, une intelligence artificielle
-   « nourrie » de 840 milliards d’exemples piochés sur le Web en quarante
---
-   programmeur, au contraire de l'apprentissage machine (ou machine
-   learning) qui est l'autre grande approche utilisée en IA (lire
-   définition plus haut). qui, elle, est faite de règles rédigées par le
+   principaux terrains d’exploration réside dans l’exploration du
+   potentiel des IA.
+
+   L'IA est une technologie transversale à toutes les activités
+   humaines. Comme le développement de l’électricité et de ses usages a
+   tout transformé en son temps, les IA suivent le même chemin de
+   disruption. Disrupter signifie « sauter des étapes de développement ».
 --
 
-   « Pour ce qui est de l’intelligence artificielle et de certaines
-   recherches dans le numérique, il faudrait créer des comités d’éthique
+   À cette occasion le cabinet a analysé plus de 17 000 projets en IA et
+   acquis une vision de leur potentiel. Pour l’un des codirigeants du
 --
-   prendre position, a présenté en septembre 2017 un rapport d’experts en
-   intelligence artificielle, en droit et en philosophie, qui recommande
-   de donner la même valeur à tous les humains, quels que soient leur âge,
+   les innovateurs, mais aussi dans le repérage des grappes d'innovation
+   radicale. Ce que fait en permanence, la commission de l'ONU projet IA
+   for good qui se mobilise  sur 17 objectifs de développement durable
 --
-   où la croissance technologique accède à un ordre supérieur, notamment
-   lorsque des intelligences artificielles (IA) dépasseraient les humains
-   qui les ont créées. Très critiquée pour son manque de solidité
---
-   milliards de données sur les citoyens, et bientôt plus encore via les
-   futures applications dotées d'IA analysant tous nos comportements pour
-   mieux nous assister. « Et tout ça en se cachant derrière un
---
-     * 9. En septembre 2017, Google, Facebook, Amazon, Microsoft et IBM
-       ont créé le « Partnership on artificial intelligence to benefit
-       people and society » pour définir de « bonnes pratiques »,
---
-     * 10. Résolution du 16 février 2017 et avis du Comité économique et
-       social européen sur l’intelligence artificielle adopté le 31 mai
-       2017.
+   s’appuyant sur le «  moon shooting » et la prospective. Anima s’y
+   emploie avec brio en matière d’intelligence artificielle.
+
+   Les mythes relatifs à l'Intelligence Artificielle
+
 --
 
-   Éthique Intelligence artificielle deep learning Réseau de neurones Tay
-   glove logique déontique Voiture autonome Biais Responsabilité boîte
+   Il existe une nébuleuse inquiétante autour de l'IA et de nombreux
+   mythes boiteux qu'il serait intéressant de remplacer par des mythes
+--
+   technologie. Ce feu réchauffe mais détruit aussi les premiers villages.
+   La technologie est amorale, de même pour les IA, à nous de les
+   domestiquer
+--
+
+   Pourquoi un tel décalage entre mythe et réalité des IA ? Peut-être
+   parce qu’il y a un manque de leadership et de vision sur l'IA, un
+   manque de compétence sur les champs d'application : où sont les IA
+   managers? Peut-être manque-t-il aussi d’usages ?
+
+   Ce qui pousse à une appréciation erronée des IA c'est leur constante
+   comparaison aux hommes. Hors l'IA n'est pas que le dépassement des
+   capacités humaines de calcul. L'IA n'est pas encore prédictive de
+   comportement ou d'avenir. Le predictive learning cette capacité d'un
+--
+
+   Qu'est-ce que l'IA? Comment « apprend » t-elle ?
+
+   Wikipédia définit simplement l’IA comme un « Agent intelligent ». L’IA
+   se caractérise par ses « capacités d’apprentissage », même si les mots
+--
+   L’expression qui montre l’enrichissement des modalités de réponses des
+   IA se nomme « apprentissage profond » (deep learning). L’apprentissage
+   profond renvoie à l'idée de réseaux de neurones électroniques connectés
+--
+   humain. Pour prendre une analogie, Anima compare le cerveau humain à un
+   aigle et le réseau de neurones d’une IA à un avion de ligne. D’un côté
+   la souplesse et l’agilité de l’autre la puissance et la rigidité.
+
+   Apprentissage des IA
+
+   Les IA apprendraient donc. Tensorflow est un jeu d'assemblage open
+   source de neurones virtuels et d'assemblage de couches de neurones qui
+--
+   pour la compréhension d'un cerveau humain car il y a des millions de
+   combinaisons possibles. Chris Pollock imagine aussi des IA qui aient
+   aussi de l’imagination.
+--
+   possibilités, associées à des récompenses quand elles réussissent.
+   C’est le cas de l’alpha go  pour le jeu de go ou bien d’une IA intégrée
+   dans un robot qui apprend à faire sauter une crêpe. Il y parvient très
+--
+
+   L'IA apprend aussi par elle-même, par exemple à identifier des classes
+   d'objets à partir de formes qu'on lui présente. C’est ce qui est nommé
+--
+   éléments est possible. C’est un apprentissage par capsules mais qui ne
+   hiérarchise pas encore les informations. Si l’IA sait distinguer un
+   œil, elle ne sait pas encore en déduire sa place dans un visage.
+   Apprendre à apprendre nécessite à l’IA d’aller vers de nouvelles
+   capacités de synthèse. Bayesian programming synthetis
+--
+
+   Une compétition à qui aura l'IA la plus performante est lancée entre
+   les grands acteurs d’internet. Voici les principaux algorithmes qu’il
+--
+
+   pour se restreindre aux IA des puissantes sociétés américaines.  Pour
+   rire certains testeurs organisent des discussions entre IA. Ces
+   dialogues ont un air surréaliste. Il s’agit souvent d’une succession de
+--
+   Si les images du cyborg Terminator nous reviennent en boucle,
+   l’intégration des IA tiendra plutôt de la  « cyb-org » ou « cyber
+   organisation ». La solution passe par une réinvention de la dimension
+   collective du travail utilisant les IA pour leur potentiel de calcul.
+
+   Selon un article de la Harvard Business Review, les IA pourraient en
+   effet libérer plus de 54% du temps des managers. Il s’agit des tâches
+--
+   l'article sont les suivantes :
+    1. laisser les tâches administratives à l'IA, elle sera plus efficace;
+    2. laisser les hommes se concentrer sur le travail de jugement;
+    3. travailler comme un designer avec une IA,  avec agilité;
+    4. traiter des IA comme des collègues;
+    5. développer des compétences sociales et des réseaux.
+--
+   Le cabinet Anima distingue 4 niveaux de complexité de tâches :
+     * IA travailleur – l’IA assure une tâche intégralement. Celle-ci est
+       automatisée. C’est par exemple le cas de la conception des univers
+--
+       l’automatisation de tâches simples.
+     * IA assistant – l’IA suit et évolue avec la personne, elle apprend
+       en temps réel, elle fait des suggestions. C’est par exemple le cas
+       du Chatbot Cortana.
+     * IA analyste – l’IA assiste un expert. Cela concerne des tâches plus
+       rares et qui ont un coût en cas d'erreur. Un usage repéré est celui
+       de la localisation de Microsoft health anatomy localization.
+     * IA creator - tâches d'intuition et d'imagination autodesk design
+       génératif dreamcatcher. Intégration de paramètre et proposition de
+--
+   conception de formation.
+     * IA rédacteur de supports – l’IA assure la formalisation de contenus
+       de formation à partir d'expression orale, ajoute des hyper liens,
+--
+       assemble  en support multimédia.
+     * IA assistant pédagogique : Assistance à la réflexivité et
+       génération de questions apprenantes ou d'évaluation ou de retours
+       d'expérience.
+     * IA analyste de système relationnel à partir d'interaction en groupe
+       et suggestion d'interactions.
+     * IA Générateur/combinateur d'exercices et de protocoles d'animation
+       en intelligence collective. Visualisation de modèle de formation
+--
+   d'écosystèmes d'apprentissage ». Le concepteur devient un dessinateur
+   de paysage pédagogique. Il s’appuie sur son IA pour le soulager de
+   tâches les plus répétitives.
+--
+   se poser sont : Comment j'imagine mon travail demain ? Comment je peux
+   utiliser l'IA en complément ? Quelle partie de mon métier ais-je envie
+   d'automatiser? Faut-il tout automatiser même quand on le peut?
+--
+
+   Il en va certainement de même avec les IA dont le pouvoir de disruption
+   est encore à venir. C’est aux concepteurs de devenir attentifs à leur
+--
+
+   Replika - https://replika.ai/
+
+--
+
+   Ces deux intelligence artificielle discutent de la pluie et du beau
+   temps depuis des heures - Gregory Rozieres - Huffingtonpost
+--
+
+   ANIMA https://www.anima.ai/
+
+--
+   - Louis Adam - ZDNet
+   http://www.zdnet.fr/actualites/alphago-zero-la-nouvelle-version-de-l-ia
+   -de-go-se-suffit-a-elle-meme-39858884.htm

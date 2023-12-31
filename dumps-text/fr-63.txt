@@ -1,0 +1,319 @@
+   #alternate
+
+     * Aller au menu
+     * Aller à la recherche
+     * Aller au contenu
+
+   Header liens à gauche
+     * etudiant.gouv.fr
+     * Nos sites
+          + horizon-europe.gouv.fr
+          + data.esr.gouv.fr
+          + publication.esr.gouv.fr
+          + fetedelascience.fr
+          + parcoursup.fr
+          + monmaster.gouv.fr
+
+   Sourd et malentendant, contactez-nous avec Acceo - Nouvelle fenêtre
+     * English
+
+     * Nous suivre sur Twitter
+     * Nous suivre sur Facebook
+     * Nous suivre sur LinkedIn
+
+   (BUTTON) Afficher plus de liens sociaux
+     * Nous suivre sur Instagram
+     * Nous suivre sur YouTube
+
+   Ministère de l'enseignement supérieur de la recherche Retourner à la
+   page d'accueil
+   Ministère de l'enseignement supérieur de la recherche Retourner à la
+   page d'accueil
+   Ministère de l'enseignement supérieur de la recherche
+   bloc de droite
+   Afficher — bloc de droite Masquer — bloc de droite
+     * Bulletin officiel
+     * Vous êtes
+          + Chercheurs et enseignants-chercheurs
+          + Étudiant entrepreneur
+          + Étudiant
+          + Établissements d’enseignement supérieur
+          + Personnels de l'ESR
+          + Journaliste
+
+   Fil d'Ariane
+    1. Accueil
+    2. Ministère
+    3. Stratégie
+
+   (BUTTON) Rechercher
+   Rechercher ____________________
+   Plus de résultats
+   Rechercher
+   (BUTTON) (BUTTON)
+
+   (BUTTON) Menu Menu
+     * Le ministère
+          + La ministre
+          + Priorités ministérielles
+          + Événements
+          + Budget
+          + Mission et organisation
+          + Histoire et patrimoine
+     * Thématiques
+          + Enseignement supérieur
+          + Recherche
+          + Innovation
+          + Europe et international
+     * Ressources humaines
+          + Concours, emploi et carrières
+          + Vie des agents
+          + Égalité professionnelle et diversité
+
+     * Agenda
+     * Presse
+     * Statistiques et analyses
+     * Bulletin officiel
+
+   (BUTTON) Vous êtes
+     * Chercheur et enseignant-chercheur
+     * Étudiant entrepreneur
+     * Étudiant
+     * Établissement d’enseignement supérieur
+     * Personnel de l'ESR
+     * Journaliste
+
+   Header liens à gauche
+     * etudiant.gouv.fr
+     * Nos sites
+          + horizon-europe.gouv.fr
+          + data.esr.gouv.fr
+          + publication.esr.gouv.fr
+          + fetedelascience.fr
+          + parcoursup.fr
+          + monmaster.gouv.fr
+
+   Sourd et malentendant, contactez-nous avec Acceo - Nouvelle fenêtre
+   (BUTTON) Accessibilité
+     * Nous suivre sur Twitter
+     * Nous suivre sur Facebook
+     * Nous suivre sur LinkedIn
+
+   (BUTTON) Afficher plus de liens sociaux
+     * Nous suivre sur Instagram
+     * Nous suivre sur YouTube
+
+   Agenda
+
+   Publié le 28.11.2018
+
+Sommaire
+
+Rapport de Cédric Villani : donner un sens à l'intelligence artificielle (IA)
+
+   Le rapport sur l’intelligence artificielle (IA) rédigé par le
+   mathématicien et député Cédric Villani, a été rendu public mercredi 28
+   mars 2018. Parmi les nombreuses pistes proposées : créer un réseau
+   d’Instituts interdisciplinaires d’intelligence artificielle, mettre en
+   place un supercalculateur conçu spécifiquement pour les applications
+   d’IA, ou encore rendre plus attractives les carrières dans la recherche
+   publique afin d’éviter la fuite des cerveaux vers les géants
+   américains.
+   Cédric Villani
+
+Des pistes pour positionner la France à l’avant-garde de l’IA
+
+   Cédric Villani, lauréat 2010 de la médaille Fields – la plus haute
+   distinction mondiale en mathématiques –, mène depuis septembre dernier
+   une large réflexion sur l'intelligence artificielle (IA) qui a conduit
+   à la remise, mercredi 28 mars 2018, d’un rapport détaillé sur le sujet.
+
+     * Selon le mathématicien, "la France a une très grande capacité en
+       recherche en matière d'intelligence artificielle" ce qui se traduit
+       par le fait que de grandes entreprises américaines ou asiatiques
+       implantent des laboratoires de recherche sur le territoire
+       français.
+
+     * La recherche française est au premier plan mondial pour ce qui
+       concerne ses chercheurs en mathématiques et en intelligence
+       artificielle, "mais elle a du mal  à transformer ses avancées
+       scientifiques en applications industrielles et économiques".
+
+
+     * Ce rapport met aussi l'accent sur les efforts à faire pour éviter
+       la fuite des cerveaux français vers l'étranger et un large volet
+       est consacré à l'amélioration des conditions de travail au sein des
+       laboratoires. "Il s'agit certes d’offrir des conditions salariales
+       satisfaisantes, mais aussi et surtout un environnement de travail
+       favorable", souligne Cédric Villani.
+
+     * Le rapport identifie quatre secteurs prioritaires ou la France doit
+       particulièrement concentrer son effort de développement de
+       l'intelligence artificielle : la santé, les transports,
+       l'environnement et la défense.
+
+     * Les questions d'éthique sont également abordées, tant ces
+       technologies qui donnent aux machines de gigantesques pouvoirs
+       d'analyse dépassant de loin ceux des humains peuvent avoir des
+       aspects inquiétants. Pour Cédric Villani "Il faut une instance pour
+       émettre des avis, donner des jugements en toute indépendance, qui
+       puisse être saisie par le gouvernement comme par les citoyens, et
+       qui nous dise ce qui est acceptable ou non acceptable"...
+
+Pour une recherche agile et diffusante
+
+Créer un réseau d’Instituts interdisciplinaires d’intelligence artificielle
+
+   Il s'agit de renforcer la place mondiale de la recherche française en
+   IA en créant, à l'intérieur d'une sélection d'établissements publics
+   d'enseignement et de recherche, des Instituts interdisciplinaires
+   d'intelligence artificielle réunissant chercheurs, ingénieurs et
+   étudiants. Ils devront être concus comme des "zones franches de l'IA" :
+   allégement des formalités administratives, compléments de salaire,
+   aides pour l'amélioration de la qualité de vie.
+
+   Il faudra également attirer des partenaires privés porteurs de
+   solutions nouvelles en IA en leur permettant de former leurs
+   ingénieurs, de recruter des ingénieurs de haut niveau, de réaliser ou
+   consolider des avancées technologiques.
+
+Disposer d’outils de calcul permettant de rivaliser avec les grands acteurs
+du privé
+
+   Les instituts de recherche en IA  doivent pouvoir disposer d'outils de
+   calcul qui leur qui leur permettent de rivaliser avec les moyens des
+   grands acteurs privés.
+
+   Le rapport propose donc la mise en place d'un supercalculateur conçu
+   spécifiquement pour les applications d'IA, dédié aux chercheurs et à
+   leurs partenaires économiques dans le cadre de projets communs.
+
+Rendre plus attractives les carrières dans la recherche publique
+
+   Le rapport propose de revaloriser les carrières
+   d'enseignants-chercheurs et de chercheurs, en particulier en début de
+   carrière, sous peine de voir se poursuivre la captation de nos
+   meilleurs cerveaux par les géants de l'IA et de se tarir définitivement
+   le flux de jeunes prêts à s'investir dans l'enseignement supérieur et
+   la recherche académique.
+
+Former des talents en IA, à tous niveaux
+
+   Il fixe également pour objectif de multiplier par trois le nombre de
+   personnes formées en IA d'ici à 3 ans, avec des actions spécifiques
+   visant à féminiser les formations en mathématiques et en informatique
+   (40% de femmes dans les filières du numérique).
+
+   Il évoque la possibilité de créer de nouveaux cursus et de nouvelles
+   formations à l'IA : programmes croisés, doubles cursus (droit-IA par
+   exemple)s, formations de haut niveau en IA (doctorat, master) ou à des
+   niveaux intermédiaires (bac+2 et bac+3). Et propose des bourses de
+   master ou de thèse fléchées IA...
+
+L’IA en chiffres
+
+   La France compte parmi les 4 premiers pays au monde pour la production
+   mondiale d’articles sur l’intelligence artificielle, avec la Chine, les
+   Etats-Unis, et le Royaume-Uni, grâce à son excellence en mathématiques,
+   en STIC et en SHS.
+
+
+   268 équipes de recherche
+
+
+   5 300 chercheurs
+
+
+   81 écoles d’ingénieurs et 38 universités délivrant 138 cours liés à
+   l’IA.
+
+
+   18 diplômes de mastères spécialisés en IA
+
+
+   80 ETI et PME et plus de 270 start-ups spécialisées dans l’IA, avec un
+   rythme de création soutenu : plus de 30% par an depuis 2010.
+
+
+   400 M€ par an de financement public pour la recherche en IA
+
+Le rapport
+
+
+   Consuter le rapport de Cédric Villani "Donner du sens à l'intelligence
+   artificielle : pour une stratégie nationale et européenne"
+
+
+Le site AI for humanity
+
+   Consulter le site
+
+Constat
+
+     * Les Etats-Unis, la Chine, l'Angleterre, le Canada et Israël sont
+       les pays les plus en avancés sur le déploiement de l'intelligence
+       artificielle.
+     * La  France dispose d'un savoir théorique indéniable avec des
+       cerveaux recherchés à l'étranger, mais qui ne se traduit pas encore
+       par l'émergence de grandes entreprises leaders.
+
+Cartographie
+
+   Les 542 structures françaises de l'intelligence artificielle
+
+   Publié le 28.11.2018
+     * Stratégie
+     * Intelligence artificielle
+     * Actualité
+
+Voir aussi
+
+L'édition scientifique
+
+Stratégie nationale de recherche en intelligence artificielle
+
+Les séances du CNESER - 2023
+
+   (BUTTON)
+   (BUTTON)
+
+   Haut de page
+
+Nous suivre
+
+     * Nous suivre sur Twitter
+     * Nous suivre sur Facebook
+     * Nous suivre sur LinkedIn
+     * Nous suivre sur Instagram
+     * Nous suivre sur YouTube
+
+Nos sites
+
+     * etudiant.gouv.fr
+     * horizon-europe.gouv.fr
+     * data.esr.gouv.fr
+     * publication.esr.gouv.fr
+     * fetedelascience.fr
+     * monmaster.gouv.fr
+
+   Ministère de l'enseignement supérieur de la recherche
+   Ministère de l'enseignement supérieur de la recherche
+
+Raccourcis visiteurs
+
+     * Mentions légales
+     * Gestion des cookies
+     * Données personnelles
+     * Plan du site
+     * Accessibilité : partiellement conforme
+     * Nous contacter
+
+Sites publics
+
+   (BUTTON) Sites publics
+     * service-public.fr
+     * legifrance.gouv.fr
+     * gouvernement.fr
+     * france.fr
+     * data.gouv.fr
+     * elysee.fr

@@ -1,0 +1,393 @@
+   #alternate alternate alternate
+
+     * Accès direct au contenu
+     * Accès direct au menu principal
+
+   Logo Marianne République française
+   Retour à l'accueil (logo République française)
+   Logo Inserm Header
+   Retour à l'accueil (logo Inserm)
+
+     * English
+
+   (BUTTON) Recherche
+   Rechercher ____________________ (BUTTON) Recherche
+
+   (BUTTON) Menu Fermer
+     * Connaître
+       l’Inserm
+       Connaître l’Inserm
+          + L’Institut
+               o L’Inserm en un coup d’œil
+               o Missions
+               o Organigramme
+               o Infrastructures de recherche
+               o Documents stratégiques
+               o Budget
+               o Prix Inserm
+          + Notre écosystème
+               o Partenariats de recherche
+               o L’Inserm et les associations
+               o Coopération en Europe et à l’international
+               o Programme Investissements d’Avenir (PIA)
+               o France Relance
+          + Nos programmes
+               o Programmes de recherche
+               o Programme Atip–Avenir
+               o École de l’Inserm Liliane Bettencourt
+     * La recherche
+       à l’Inserm
+       La recherche à l’Inserm
+          + Du laboratoire jusqu’au patient
+               o Le continuum de la recherche
+               o La recherche fondamentale
+               o La recherche clinique
+               o La recherche en santé publique
+               o La recherche technologique
+               o Valorisation et transfert des découvertes
+               o La recherche participative
+          + Une recherche responsable
+               o Nos bonnes pratiques
+               o La science ouverte
+               o L’éthique à l’Inserm
+               o Les modèles animaux
+          + Portraits et reportages
+               o Portraits de chercheuses et de chercheurs
+               o Reportages en labo
+     * Information
+       en santé
+       Information en santé
+          + Pour tout public
+               o Dossiers thématiques
+               o C’est quoi ? Les mots de la science
+               o Magazine de l’Inserm
+               o Ouvrages coédités par l’Inserm
+               o Expositions et ressources pédagogiques
+          + Pour public avancé
+               o Expertises collectives
+               o Rapports thématiques
+               o Revue médecine/sciences
+     * Actualités & évènements
+       Actualités & évènements
+          + Nos actualités
+               o Actu science
+               o Actu institutionnelle
+               o Actu pro
+               o Toutes les actualités
+          + Nos évènements
+               o Évènéments
+     * Faire un don
+     *
+          + English
+     *
+
+    1. Accueil
+
+     Actualité
+
+     Institut
+
+     L’intelligence artificielle au bénéfice de l’analyse des grandes
+   cohortes
+
+L’intelligence artificielle au bénéfice de l’analyse des grandes cohortes
+
+     * Publié le : 10/09/2019
+     * Temps de lecture : 6 min
+     * Actualité, Institut
+
+   Le recueil, le croisement et l’analyse des données massives sont,
+   depuis quelques années, décrits comme des enjeux majeurs en sciences de
+   la santé. Ils n’ont pourtant rien de nouveau pour les épidémiologistes
+   responsables de cohortes : habitués à travailler sur des grands volumes
+   d’information, les investigateurs s’ouvrent à de nouvelles pratiques de
+   partage de données et testent des méthodes innovantes en machine
+   learning.
+
+   D’après un article extrait du rapport d’activité 2018 de l’Institut
+
+   Les cohortes, qui permettent de suivre des personnes malades ou des
+   segments de la population générale, se sont imposées dans la seconde
+   moitié du 20^e siècle comme un outil déterminant en épidémiologie et en
+   santé publique. En observant une population donnée sur le temps long,
+   en étudiant ses caractéristiques, ses comportements et ses expositions,
+   on a pu affiner notre compréhension des facteurs de risque de multiples
+   maladies, et analyser les effets de certaines pratiques ou de certains
+   traitements. À la clé : le développement de politiques de santé
+   publique fondées sur la preuve.
+
+   Les cohortes sont aujourd’hui au cœur des nouveaux défis de
+   l’exploitation de données massives. « Plus le chercheur a de données
+   fiables, plus il peut questionner des hypothèses de recherche
+   différentes et améliorer l’identification de l’étiologie d’une maladie
+   en éliminant des biais d’omission ou en prenant en compte des facteurs
+   de confusion, explique Charles Persoz, de l’institut thématique Santé
+   publique. Aujourd’hui, de nombreuses sources de données peuvent être
+   collectées dans le protocole de la cohorte ou croisées avec elles : le
+   système national des données de santé (SNDS), les grandes bases de
+   données environnementales qui permettent de connaître des expositions à
+   des particules fines, des pesticides ou d’autres polluants ainsi que le
+   contexte social et géographique des volontaires de la cohorte, mais
+   aussi des équipements numériques individuels de type bracelets ou
+   montres connectés, par exemple. »
+
+Les premières briques du Health Data Hub
+
+   Le Système national des données de santé (SNDS), base du futur Health
+   Data Hub, fait figure de pilier des données de santé en France. Quasi
+   unique dans le monde de par son ampleur et sa couverture de l’ensemble
+   de la population, ce système permet le chaînage des données de
+   l’Assurance maladie (base SNIIRAM), des hôpitaux (base PMSI), des
+   causes médicales de décès (base du CépiDC de l’Inserm), de données
+   relatives au handicap et échantillons de données en provenance des
+   organismes d’assurance maladie complémentaire. La mise à disposition du
+   SNDS pour la recherche a été actée par la loi de modernisation de notre
+   système de santé de 2016. Le Health Data Hub, projet ayant émergé suite
+   aux annonces présidentielles sur l’intelligence artificielle en mars
+   2018, devrait prochainement structurer et renforcer l’écosystème de
+   l’ensemble des données de santé et des services qui permettent de les
+   utiliser.
+
+Constances, la cohorte-laboratoire
+
+   Ces précieuses données du SNDS, une cohorte en dispose déjà en partie :
+   Constances. Labellisée comme grande infrastructure épidémiologique
+   ouverte pour la recherche et la surveillance dans le cadre du programme
+   Investissements d’avenir, elle rassemble 200 000 volontaires en
+   population générale et forme l’un des outils épidémiologiques les plus
+   ambitieux du moment. Constances travaille déjà avec les données de la
+   Caisse nationale d’assurance maladie et de la Caisse nationale
+   d’assurance vieillesse, qui en sont partenaires depuis sa création en
+   2012. « La cohorte Constances permet d’agréger des milliers de
+   variables sur chaque individu, et nous avons pour mission de garantir
+   la qualité de ces données aux chercheurs qui les sollicitent pour leurs
+   travaux, détaille Marie Zins, responsable technique et scientifique.
+   Cela représente un travail monumental ! Par exemple, en conformité à
+   leur mission première, l’assurance maladie et l’assurance vieillesse
+   ont développé des bases de gestion fondées sur la prestation, et non
+   pas sur l’individu. Il y a donc une très grande complexité d’accès, de
+   compréhension et d’analyse pour reconstruire des trajectoires de
+   données individuelles. Nous devons “épidémiologiser” les données du
+   SNDS, et 4 ou 5 personnes y travaillent en permanence ».
+
+   Par son ambition, la cohorte Constances est un laboratoire dans lequel
+   des types inédits de croisements de données pourraient révolutionner la
+   manière de faire de l’épidémiologie et de la santé publique. Sur une
+   base individuelle, avec un géocodage permettant si besoin de se
+   connecter à d’autres bases environnementales et sociales ayant un accès
+   par localisation géographique, le chercheur disposera de données
+   variées : examens médicaux d’inclusion, bilans de santé, questionnaires
+   régulièrement mis à jour avec de nouvelles questions sur des
+   sous-populations de la cohorte, données biobanques effectuant des
+   collectes de sang et urine, et enfin, données de l’assurance maladie et
+   de l’assurance vieillesse…
+
+Le traitement automatique du langage au service des alertes épidémiologiques
+
+   L’année 2018 a vu la réussite du projet pilote de dématérialisation
+   complète du certificat de décès, tant dans son volet médical
+   qu’administratif. L’objectif : améliorer la veille sanitaire sur les
+   causes de décès en analysant en masse le contenu des certificats
+   rédigés par les médecins. Or, suivant les recommandations de l’OMS, ces
+   documents sont rédigés dans le langage spontané de chaque praticien,
+   sans codification (c’est ce qu’on appelle le « texte brut »). Il faut
+   donc réussir à identifier les différentes manières de nommer une même
+   pathologie grâce à des méthodes d’extraction de l’information, cela
+   afin d’attribuer au décès l’une des causes répertoriées dans la
+   classification internationale des maladies. « En 2018, nous avons
+   progressé sur le traitement automatique du langage des certificats de
+   décès, afin de reconnaître et d’attribuer les entités nosologiques dans
+   le texte brut, puis les traduire en codes de classification
+   exploitables par les chercheurs. La preuve de concept de l’algorithme
+   est solide, et nous espérons une mise en production rapide », explique
+   Grégoire Rey, directeur du CépiDC. Cela pourrait mener à terme au
+   développement de systèmes d’alerte en temps réel, dans le cas où la
+   prévalence de telle ou telle cause de décès serait anormale sur une
+   période donnée. Autre chantier en cours : le test de différentes
+   techniques de machine learning pour identifier des associations
+   causales à partir des données observationnelles du SNDS, en visant des
+   méthodes robustes et réplicables.
+
+Repenser la collecte de données
+
+   La collecte et le contrôle des données sont également au centre des
+   préoccupations de Gianluca Severi, qui pilote la cohorte
+   E3N-Générations. Cette cohorte, labellisée Investissement d’avenir, a
+   pour but d’étudier la santé en relation avec le mode de vie chez des
+   personnes d’une même famille, sur trois générations. Elle fait suite à
+   la cohorte E3N qui avait inclus 100 000 femmes affiliées à la MGEN dans
+   les années 1990, pour y intégrer leurs conjoints, les enfants et les
+   petits-enfants. « L’ancienneté de la cohorte E3N-E4N permet d’apprécier
+   l’évolution des types de données et de leurs modes de recueil, observe
+   Gianluca Severi. Ainsi, dans les années 1990, nous avions des
+   questionnaires papier. Nous avons alors développé l’acquisition de
+   données par lecture automatique (LAD) et la gestion électronique (GED)
+   des grands volumes de documents recueillis – questionnaires, comptes
+   rendus médicaux... Pour les nouvelles générations, c’est une plateforme
+   en ligne où l’on peut répondre aux questions, mais aussi apparier ses
+   objets connectés et, à terme, déposer ses données comme, par exemple,
+   des images médicales. Les volontaires recevront aussi des questions
+   courtes et ponctuelles par SMS. »
+
+   La qualité des données est un défi aussi important que leur quantité.
+   « L’utilisation des nouvelles technologies peut aussi faciliter la
+   participation des volontaires, et limiter l’abandon en cours de suivi.
+   Nous avons organisé en 2013 et en 2016 des rencontres entre la
+   communauté épidémiologique et celle de la santé numérique pour en
+   explorer les perspectives, souligne Pascale Gerbouin-Rérolle, qui
+   dirige le service technique de la cohorte E4N. Nous travaillons aussi
+   avec des fabricants d’objets connectés pour étudier la fiabilité et la
+   structuration des données qu’ils peuvent produire. » Les chercheurs de
+   la cohorte E4N ont un petit faible pour les méthodologies originales.
+   Par exemple, ils sont en train de développer un projet dans lequel
+   certains participants vont lire des textes à haute voix ce qui
+   permettra d’identifier, grâce à des techniques de machine learning, des
+   caractéristiques de leur signal vocal. Celles-ci marquent en effet la
+   présence ou l’absence de certaines maladies, notamment
+   neurodégénératives. Un travail est mené avec CentraleSupelec pour
+   concevoir des algorithmes susceptibles d’être entraînés à cette tâche.
+
+   Actuellement, les équipes de la cohorte E4N ne peuvent travailler que
+   de manière ponctuelle avec les données du SNDS. Leurs travaux restent
+   donc circonscrits à des appariements temporaires, sans possibilité de
+   suivi sur le long terme. L’évolution du cadre juridique et éthique du
+   Health Data Hub est donc très attendue par les scientifiques, afin que
+   l’intelligence artificielle appliquée aux données massives puisse
+   déployer tout son potentiel.
+
+Recevoir notre lettre d’information
+
+   Vous recevrez chaque mois les derniers articles publiés sur ce site.
+   Nous n’utiliserons pas votre e‑mail pour autre chose, et vous pourrez
+   vous désabonner à tout moment. En savoir plus sur vos données et vos
+   droits.
+
+Formulaire d’inscription
+
+   loader
+
+   Adresse e-mail (au format pbheevry@rkrzcyr.se) : ____________________
+   M'inscrire
+
+Nos délégations régionales
+
+     * Auvergne Rhône-Alpes
+     * Est
+     * Grand Ouest
+     * Île-de-France Centre Est
+     * Île-de-France Centre Nord
+     * Île-de-France Sud
+     * Nord-Ouest
+     * Nouvelle-Aquitaine
+     * Occitanie Méditerranée
+     * Occitanie Pyrénées
+     * PACA et en Corse
+
+Autres sites Inserm
+
+     * Professionnels de la recherche
+     * Ressources Humaines
+     * Marchés publics
+     * Évaluation
+     * Orphanet
+
+Accès direct
+
+     * Volontaire pour des tests
+
+Associés à l’Inserm
+
+     * ANRS | MIE
+     * Inserm Transfert
+
+     *
+     *
+     *
+     *
+     *
+     *
+     *
+
+     * Questions fréquentes
+     * Nous contacter
+     * Mentions légales
+     * Accessibilité (partiellement conforme)
+     * Données personnelles
+     * Gérer mes cookies
+     * © Inserm 2023
+
+   (BUTTON) Retour en haut de page
+
+   Ce site utilise des cookies. Vous pouvez changer d'avis à tout moment
+   en cliquant le menu "Gérer mes cookies" en bas de page.
+   AccepterRefuser
+   Paramétrer
+   Cookies
+   (BUTTON) Fermer
+
+Paramétrer les cookies
+
+   Liste des types de cookies utilisés sur ce site et de leurs finalités.
+   Certains cookies sont déposés quelle que soit la page que vous visitez,
+   d'autres uniquement si vous visitez une page qui en a besoin.
+   Nécessaire
+   [X] Nécessaire
+   Toujours activé
+   Ces cookies sont indispensables aux fonctionnalités de base du site et
+   à sa sécurité. Vous ne pouvez pas les refuser, car ils ne collectent
+   pas de données personnelles.
+   Cookie Durée Description
+   cerber_bjZJE-PQKeqAy 1 jour Déposé par l'extension de sécurité du site.
+   cerber_iEuaryZDFx 1 jour Déposé par l'extension de sécurité du site.
+   cerber_rmpcGFhB 1 jour Déposé par l'extension de sécurité du site.
+   cookielawinfo-checkbox-advertisement 1 an Déposé par l'extension de
+   gestion des cookies pour stocker le consentement du visiteur.
+   cookielawinfo-checkbox-analytics 1 an Déposé par l'extension de gestion
+   des cookies pour stocker le consentement du visiteur.
+   cookielawinfo-checkbox-embedded 1 an Déposé par l'extension de gestion
+   des cookies pour stocker le consentement du visiteur.
+   cookielawinfo-checkbox-necessary 11 mois Déposé par l'extension de
+   gestion des cookies pour stocker le consentement du visiteur.
+   cookielawinfo-checkbox-non-necessary 11 mois Déposé par l'extension de
+   gestion des cookies pour stocker le consentement du visiteur.
+   viewed_cookie_policy 11 mois Déposé par l'extension de gestion des
+   cookies pour stocker le statut du consentement du visiteur concernant
+   les cookies.
+   Contenu embarqué
+   [ ] embedded
+   Ces cookies sont liés à des contenus tiers embarqués sur le site
+   (vidéos, etc.). Ils ne sont déposés que sur certaines pages.
+   Cookie Durée Description
+   CONSENT 16 ans 5 mois 11 jours 11 heures Déposé via les vidéos YouTube
+   embarquées. Enregistre des statistiques anonymes, par exemple sur le
+   nombre d'affichages d'une vidéo. Aucune information sensible n'est
+   collectée, à moins que vous soyez connecté à un compte Google (dans ce
+   cas, vos actions sont liées à votre compte).
+   dmvk session Déposé par Dailymotion, pour collecter statistiques à
+   propos du comportement des visiteurs du site. Utilisé pour des
+   statistiques internes.
+   pll_language 1 an Déposé par l'extension de traduction. Stocke le code
+   langue de la dernière page consultée.
+   ts 1 an et 1 mois Déposé par Dailymotion.
+   usprivacy 1 an 1 mois Déposé par Dailymotion.
+   v1st 1 an 1 mois Déposé par Dailymotion.
+   VISITOR_INFO1_LIVE 5 mois 27 jours Déposé par YouTube pour collecter
+   des informations à propos des vidéos embarquées.
+   YSC session Déposé par YouTube pour comptabiliser le nombre de vues des
+   vidéos embarquées.
+   Publicité
+   [ ] advertisement
+   Le site n'affiche pas de publicité, mais certains contenus embarqués
+   peuvent déclencher le dépôt de cookies publicitaires. Ces cookies sont
+   utilisés pour fournir des publicités et des campagnes marketing
+   personnalisées. Ils pistent les visiteurs entre les sites et collectent
+   des données personnelles.
+   Cookie Durée Description
+   IDE 1 an 24 jours Déposé par Google DoubleClick pour stocker des
+   informations sur la façon dont les visiteurs utilisent les vidéos
+   YouTube et la publicité vue avant les vidéos. Il sert à afficher des
+   publicités pertinentes à l'utilisateur selon son profil.
+   test_cookie 15 minutes Déposé par Google DoubleClick pour déterminer si
+   le navigateur du visiteur supporte les cookies.
+   Enregistrer et accepter
+   Powered by CookieYes Logo

@@ -1,236 +1,234 @@
-    #alternate
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-59MW7L4
 
-   [ ]
-
-   Photo Je m’abonne
    (BUTTON)
 
-   Recherche (BUTTON) Mode Newsletters
+   (BUTTON) Menu
+   Rechercher ____________________ (BUTTON)
+   Epaper/PDF Newsletters
 
-   Photo
-   Habiter le monde autrement
-   Je m’abonne à partir de 1€
-
-   La France vue de l’étranger Géopolitique Économie Société Politique
-   Sciences et environnement Culture Courrier Expat Longs formats Vidéos
-   Podcasts Infographies Réveil Courrier Courrier Stories Application Tous
-   les hebdos Tous les pays Nos sources Horoscope
-
-   Réveil Courrier COP28 Bande de Gaza La France vue de l'étranger L’hebdo
-   Horoscope Courrier Stories
-
+   logo letemps S'abonner Mon compte
+     * En continu
+     * Monde
+     * Suisse
+     * Économie
+     * Opinions
+     * Culture
      * Société
-     * Intelligence artificielle (IA)
+     * Sciences
+     * Sport
+     * Data
+     * Événements
+     * Vidéos
+     * Podcasts
+     *
 
-   À la une de l’hebdo.
+   ____________________ (BUTTON)
+     * S'abonner
+     * Accueil
+     * En continu
+     * Monde
+     * Suisse
+     * Économie
+     * Opinions
+     * Culture
+     * Société
+     * Sciences
+     * Sport
+     * Data
+     * Événements
+     * Hyperlien
+     * Dossiers
+     * Grands formats
+     * En images
+     * Vidéos
+     * Podcasts
+     *
+     *
+     * Epaper/PDF
+     * Newsletters
+     * Magazine T
+     * Le Journal de l'Immobilier
+     * Blogs
+     * Archives
+     * Archives historiques
+     *
+     * Abonnements
+     * Services aux abonnés
+     * Questions fréquentes
+     *
+     * Régie Publicitaire
+     * Avis de décès
 
-L’intelligence artificielle en roue libre
+     * À propos
+     * Impressum
+     * Communication
+     * Emplois
 
-   Chaque semaine, “Courrier international” explique ses choix éditoriaux.
-   Dans ce numéro, nous revenons sur les débats qui entourent les progrès
-   fulgurants de l’IA. Après l’engouement autour de ChatGPT, c’est
-   l’inquiétude qui prévaut aujourd’hui. Faut-il pour autant imposer un
-   moratoire sur la recherche ? Comment réguler des technologies qui
-   menacent la sécurité de nos données ? Les analyses de la presse
-   étrangère.
-   Logo
-   Courrier international
-   Publié le 26 avril 2023 à 09h07 Lecture 2 min.
-   Photo
+   Publicité
 
-   (BUTTON) Partager
+    1. Accueil
 
-   “On n’a pas toutes les réponses, et la technologie évolue rapidement.
-   Est-ce que ça m’empêche de dormir la nuit ? Absolument.” Cette phrase
-   en forme d’aveu, c’est Sundar Pichai qui l’a prononcée à la mi-avril
-   dans 60 Minutes, sur CBS. L’émission a provoqué un tollé chez les
-   chercheurs en intelligence artificielle. Si même le patron d’Alphabet,
-   la maison mère de Google, en vient à douter…
+   Contenu partenaire
+   Contenu produit et commercialisé pour un partenaire. Réalisé
+   indépendamment de la rédaction du Temps. Voir notre charte des
+   Partenariats
+   [ld+json]
 
-   Il est loin d’être le seul. Après le temps de la fascination est venu
-   celui de l’inquiétude. Et si les intelligences artificielles
-   génératives, nourries de plus de contenus qu’aucun cerveau humain ne
-   peut l’imaginer, nous dépassaient ? La question préoccupe aujourd’hui
-   la presse étrangère mais aussi les gouvernements et nombre d’entre nous
-   d’un bout à l’autre de la planète.
-   Lire aussi : Débat. “Il est beaucoup trop tard” pour un moratoire sur
-   l’intelligence artificielle
+      Repenser la gestion de fortune: conjuguer IA, blockchain et big data
 
-   “La folie ChatGPT”, titrait Courrier international le 16 février à
-   propos du robot conversationnel mis au point par la start-up OpenAI,
-   ouvrant un dossier consacré à l’engouement pour ChatGPT, qui comptait
-   déjà 100 millions d’utilisateurs dans le monde. “La course à l’IA est
-   lancée chez les géants du Net”, écrivions-nous alors.
+   Dans un monde en constante évolution, l’intelligence artificielle (IA),
+   la blockchain et le big data ouvrent de nouvelles perspectives
+   fascinantes pour les gérants de fortune indépendants (GFI)
 
-   Un mois plus tard, le 29 mars, un millier d’experts de la tech
-   publiaient sur le site de l’institut américain Future of Life une
-   lettre ouverte réclamant un moratoire d’urgence sur la recherche dans
-   ce secteur, qui a récemment fait des progrès fulgurants : “Nous
-   appelons tous les laboratoires d’IA à suspendre immédiatement, pendant
-   au moins six mois, la formation des systèmes d’IA plus puissants que
-   GPT-4.”
+   La fusion de l’IA, de la blockchain et du big data ouvrira-t-elle un
+   nouveau chapitre dans l’histoire de la gestion de patrimoine? — ©
+   Lombard Odier La fusion de l’IA, de la blockchain et du big data
+   ouvrira-t-elle un nouveau chapitre dans l’histoire de la gestion de
+   patrimoine? — © Lombard Odier
 
-   Au cœur de leur inquiétude : des questions éthiques, la peur de perdre
-   le contrôle, d’être remplacés… À la fin du mois d’avril, plus de
-   27 500 personnalités avaient signé cet appel, dont Elon Musk ou encore
-   l’historien Yuval Noah Harari. Le sujet a fait la une de nombreux
-   magazines à l’étranger ces dernières semaines. L’Italie a
-   provisoirement interdit ChatGPT, la Chine veut s’assurer que les IA ne
-   propageront que des valeurs socialistes… Bref, la révolution promise
-   par l’intelligence artificielle s’emballe. Et c’est un peu le retour de
-   bâton.
-   Lire aussi : Une du jour. Les progrès de l’IA doivent “raisonnablement”
-   nous inquiéter
+   Laurent Pellet Limited Partner, Global Head of EAM
+   Publié le 05 décembre 2023 à 08:30.
+     *
+     *
+     *
+     *
+     *
 
-   Faut-il pour autant s’affoler ? Comment encadrer les IA génératives et
-   composer avec elles ? En quoi cela risque-t-il de toucher nos vies, nos
-   métiers ? C’est à toutes ces questions que nous tentons de répondre
-   dans le dossier de cette semaine à partir de trois articles traduits de
-   la presse étrangère.
+   Ces outils sont la clé d’une révolution potentielle, promettant de
+   remodeler le paysage de la gestion de patrimoine tel que nous le
+   connaissons. Mais la question que tout le monde se pose est la
+   suivante: ces technologies de pointe peuvent-elles vraiment propulser
+   les GFI dans une nouvelle ère leur permettant de redéfinir l’essence
+   même de la création de valeur centrée sur le client?
 
-   “Cette panique qui se ressent dans la pétition sur l’IA, c’est la peur
-   de voir jusqu’à ceux qui auront pris le ‘train du progrès’ se révéler
-   incapables de décider de son cap”, dénonce, sévère, Slavoj Zizek dans
-   Project Syndicate. Le philosophe marxiste juge ridicule l’idée d’un
-   moratoire – qui empêcherait les laboratoires de poursuivre leurs
-   recherches en Russie, en Chine ou en Inde. Pour lui, la “fulgurante
-   montée en puissance de l’intelligence artificielle constitue, de fait,
-   une grave menace pour ceux qui ont le pouvoir. […] Elle annonce rien de
-   moins que la fin du capitalisme tel que nous le connaissons.”
+   Dans cette sphère financière complexe, les projecteurs se tournent donc
+   vers le rôle central de la technologie. La fusion de l’IA, de la
+   blockchain et du big data ouvrira-t-elle un nouveau chapitre dans
+   l’histoire de la gestion de patrimoine, ou ne sera-t-elle qu’une
+   promesse éphémère dans un paysage de possibilités en constante
+   évolution?
 
-   Une réflexion profonde et engagée sur les véritables enjeux du débat
-   actuel. À lire absolument.
+   Laurent Pellet, Limited Partner, Global Head of EAM — © Lombard Odier
+   Laurent Pellet, Limited Partner, Global Head of EAM — © Lombard Odier
 
-   Dans un tout autre registre, la MIT Technology Review met en garde :
-   avant toute question d’éthique, ce sont les failles des modèles de
-   langue d’intelligence artificielle sur lesquels s’appuient ChatGPT,
-   Bard et autre Bing qui devraient nous inquiéter. “Les utiliser à
-   mauvais escient pour en faire de puissants outils d’hameçonnage ou
-   d’arnaque est d’une facilité déconcertante”, écrit le magazine, qui
-   explique qu’avec les robots conversationnels nos données, très vite, ne
-   seront plus en sécurité.
-   Lire aussi : La pilule philosophique. Pourquoi Socrate aurait détesté
-   ChatGTP
+Le pouvoir de l’IA
 
-   Autre point de vue, et qui nous concerne évidemment en tant que
-   journalistes, celui du photojournaliste suisse Niels Ackermann. Face à
-   l’essor d’IA comme Midjourney, capables de produire des images qui
-   ressemblent à s’y méprendre à des photos prises par les humains, les
-   médias plus que jamais “doivent devenir des marchands de vrai,
-   plaide Niels Ackermann. Cela me rassure de me dire qu’il existe sans
-   doute un marché pour le réel, dans un monde où la disponibilité du
-   faux, du synthétique devient illimitée.”
+   Star de l’ère digitale, l’IA est sur le point de redéfinir les règles
+   du jeu pour les gérants de fortune. Grâce à ses prouesses en matière
+   d’apprentissage automatique et à ses capacités de traitement des
+   données, l’IA permet aux gérants de fortune d’explorer des territoires
+   encore inexploités en matière de stratégies d’investissement et de
+   services à la clientèle. On peut par exemple imaginer des analyses
+   prédictives de pointe, alimentées par l’IA, qui affinent les décisions
+   d’investissement dans les moindres détails, offrant ainsi aux clients
+   des stratégies personnalisées et élaborées avec précision. C’est comme
+   disposer d’une équipe d’experts financiers, de data scientists et
+   d’analystes de marché prêts à intervenir, 24h/24 et 7j/7, pour aider le
+   gérant de fortune à prendre des décisions.
 
-   On veut croire qu’il a raison, mais la question se posera forcément sur
-   les images comme sur les textes (à noter que ChatGPT n’a pas écrit ce
-   Making of), et nous serons vigilants. Bonne lecture.
+   Mais le pouvoir de l’IA va bien au-delà de la gestion de portefeuille:
+   elle permet de réinventer l’expérience client, en donnant aux gérants
+   de fortune indépendants les moyens d’offrir un niveau de
+   personnalisation inégalé à leurs clients. En effet, l’IA peut analyser
+   de vastes ensembles de données pour mieux appréhender les préférences
+   individuelles, la tolérance au risque et les objectifs financiers. Ces
+   informations les aident également dans l’élaboration de stratégies
+   d’investissement qui correspondent parfaitement aux besoins de leurs
+   clients. Ce niveau de service et de personnalisation était autrefois
+   considéré comme inaccessible à grande échelle.
 
-   Claire Carrard
-   Nos lecteurs ont lu aussi
+   L’IA n’est pas seulement un buzzword; il s’agit d’une transformation
+   profonde du paysage financier, permettant d’entrer dans une nouvelle
+   ère de précision, de personnalisation et de maîtrise des risques.
 
-   Photo
+Technologie et sécurité de la blockchain
 
-   Une du jour. La débauche des touristes russes à Bali
+   Issue des cryptomonnaies, la blockchain se démarque par son
+   architecture décentralisée et sa robustesse en matière de sécurité des
+   données. Les gérants de fortune indépendants peuvent compter sur sa
+   fiabilité pour protéger les données les plus sensibles et optimiser les
+   transactions avec une précision sans précédent.
 
-   Photo
+   L’adoption de la blockchain promet de transformer la manière dont les
+   données sont gérées et sécurisées, représentant ainsi un tournant
+   majeur dans les pratiques des GFI.
 
-   Une du jour. Les progrès de l’IA doivent “raisonnablement” nous
-   inquiéter
+Big Data et optimisation des portefeuilles
 
-   Photo
+   Dans cette course passionnante, les données deviennent le carburant qui
+   alimente les moteurs. En effet, l’ère digitale a libéré une avalanche
+   de données, offrant aux GFI une mine d’or d’informations et
+   d’opportunités. L’analyse du big data est le catalyseur qui va
+   permettre de convertir ces données brutes en stratégies exploitables et
+   performantes.
 
-   Point de vue. Pour Slavoj Zizek, la toute-puissance de l’IA révèle nos
-   peurs d’un futur posthumain
+   Les GFI ont désormais accès en temps réel à un tableau de bord
+   affichant les dynamiques du marché, les préférences des clients et les
+   opportunités émergentes. Ces précieuses informations leur permettent de
+   naviguer avec précision, exploitant le big data pour prendre des
+   décisions de manière plus éclairée et plus rapide.
 
-   Photo
+   L’avenir des GFI s’inscrit donc à l’intersection de l’IA, de la
+   blockchain et du big data. La question n’est plus de savoir si leurs
+   pratiques peuvent être révolutionnées, mais dans quel délai ils y
+   parviendront. La course est lancée.
 
-   Vu de Suisse. Le double jeu d’Elon Musk sur l’intelligence artificielle
-   ChatGPT Société Sciences & Techno Intelligence artificielle (IA)
+   [placeholder.png]
 
-   Nos services
-   Photo
-   Best Of 2023
-   Géopolitique, sciences, société… Retrouvez dans notre hors-série les
-   photos et les articles de la presse étrangère qui ont marqué 2023.
-   Commander votre hors-série →
-   Photo
-   Éditions Akileos
-   Tentez de remporter un exemplaire physique de la BD Le voile blanc.
-   Je participe →
-   Photo
-   Samir éditeur
-   Tentez de remporter un exemplaire physique de la BD Escape Ghosn.
-   Je reçois ma BD →
-   Photo
-   Opéra de Paris
-   Remportez un code d’accès pour la plateforme POP, et visionnez le
-   ballet « Jiří Kylián » , en live depuis l’Opéra de Paris.
-   Je reçois mon code →
+   À propos de Lombard Odier
 
-   Les plus lus
+   En tant qu’entreprise de tradition familiale, nous accompagnons nos
+   clients sur plusieurs générations. Proches de vos préoccupations, nous
+   avons développé une approche spécifique et personnalisée qui vous
+   permet d’aborder votre patrimoine de manière globale, coordonnée et
+   efficiente.
+   Voir notre charte des partenariats
 
-   Vu des États-Unis. Timothée Chalamet, français, vraiment ?
+     *
+     *
+     *
+     *
+     *
 
-   Guerre en Ukraine. L’Occident chercherait à “remplacer” Zelensky, selon
-   le renseignement russe
+le Temps
 
-   Vu de Russie. Plusieurs millions de Russes sommés de rendre leur
-   passeport par une nouvelle loi
+     * Impressum
+     * À propos
+     * Communication
+     * Régie Publicitaire
+     * Avis de décès
+     * Événements
+     * Emplois
 
-   Politique. Comment la Miss Univers nicaraguayenne est devenue un ennemi
-   pour le dictateur Ortega
+Abonnements et Services
 
-   Nos services
-   Photo
-   Best Of 2023
-   Géopolitique, sciences, société… Retrouvez dans notre hors-série les
-   photos et les articles de la presse étrangère qui ont marqué 2023.
-   Commander votre hors-série →
-   Photo
-   Éditions Akileos
-   Tentez de remporter un exemplaire physique de la BD Le voile blanc.
-   Je participe →
-   Photo
-   Samir éditeur
-   Tentez de remporter un exemplaire physique de la BD Escape Ghosn.
-   Je reçois ma BD →
-   Photo
-   Opéra de Paris
-   Remportez un code d’accès pour la plateforme POP, et visionnez le
-   ballet « Jiří Kylián » , en live depuis l’Opéra de Paris.
-   Je reçois mon code →
+     * Abonnements
+     * Services aux abonnés
+     * Epaper/PDF
+     * Newsletters
+     * Magazine T
+     * Journal de l'immobilier
+     * Questions fréquentes
+     * Archives
+     * Archives historiques
 
-   (BUTTON) (BUTTON) (BUTTON)
-   (BUTTON) (BUTTON)
+Documents de références
 
-   [ ]
-
-   24 jours, 24 découvertes : le calendrier de Courrier international
-   Dessin
-
-   Newsletters (BUTTON) Applications
-   Photo
-   Hebdo Habiter le monde autrement
-   Photo
-   Hors-série Best-of 2023
-
-     * Qui sommes-nous ?
-     * CGVU
-     * Mentions légales
+     * Conditions générales d'utilisation
+     * Conditions générales de vente
      * Politique de confidentialité
-     * Paramétrer les cookies
-     * Nos flux RSS
-     * Agence Courrier international
-     * Annonceurs
-     * Contact
-     * Aide (FAQ)
+     * Gestion des cookies
+     * Charte rédactionnelle
+     * Charte des partenariats
 
-   (BUTTON)
+Suivez Le Temps
 
-   Applications mobiles
-   Retrouvez l'actualité toute la journée, et l'hebdo en format numérique.
-   iPhone/iPad Android
+     * Facebook
+     * Ex-Twitter
+     * Linkedin
+     * Instagram
+     * Youtube
+     * Tiktok
 
-   Partager cette page
-
-   [iu3?pid=53ea394c-a65f-44b4-8583-4462975c707a&event=PageView]
+     * Avenue du Bouchet 2, 1209 Genève | Service Clients: +41 22 539 10
+       75 | Contactez Le Temps

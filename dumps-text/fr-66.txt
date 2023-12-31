@@ -1,0 +1,365 @@
+   #alternate alternate alternate
+
+     * Accès direct au contenu
+     * Accès direct au menu principal
+
+   Logo Marianne République française
+   Retour à l'accueil (logo République française)
+   Logo Inserm Header
+   Retour à l'accueil (logo Inserm)
+
+     * English
+
+   (BUTTON) Recherche
+   Rechercher ____________________ (BUTTON) Recherche
+
+   (BUTTON) Menu Fermer
+     * Connaître
+       l’Inserm
+       Connaître l’Inserm
+          + L’Institut
+               o L’Inserm en un coup d’œil
+               o Missions
+               o Organigramme
+               o Infrastructures de recherche
+               o Documents stratégiques
+               o Budget
+               o Prix Inserm
+          + Notre écosystème
+               o Partenariats de recherche
+               o L’Inserm et les associations
+               o Coopération en Europe et à l’international
+               o Programme Investissements d’Avenir (PIA)
+               o France Relance
+          + Nos programmes
+               o Programmes de recherche
+               o Programme Atip–Avenir
+               o École de l’Inserm Liliane Bettencourt
+     * La recherche
+       à l’Inserm
+       La recherche à l’Inserm
+          + Du laboratoire jusqu’au patient
+               o Le continuum de la recherche
+               o La recherche fondamentale
+               o La recherche clinique
+               o La recherche en santé publique
+               o La recherche technologique
+               o Valorisation et transfert des découvertes
+               o La recherche participative
+          + Une recherche responsable
+               o Nos bonnes pratiques
+               o La science ouverte
+               o L’éthique à l’Inserm
+               o Les modèles animaux
+          + Portraits et reportages
+               o Portraits de chercheuses et de chercheurs
+               o Reportages en labo
+     * Information
+       en santé
+       Information en santé
+          + Pour tout public
+               o Dossiers thématiques
+               o C’est quoi ? Les mots de la science
+               o Magazine de l’Inserm
+               o Ouvrages coédités par l’Inserm
+               o Expositions et ressources pédagogiques
+          + Pour public avancé
+               o Expertises collectives
+               o Rapports thématiques
+               o Revue médecine/sciences
+     * Actualités & évènements
+       Actualités & évènements
+          + Nos actualités
+               o Actu science
+               o Actu institutionnelle
+               o Actu pro
+               o Toutes les actualités
+          + Nos évènements
+               o Évènéments
+     * Faire un don
+     *
+          + English
+     *
+
+    1. Accueil
+
+     Actualité
+
+     Science
+
+     Intelligence artificielle : faut-il en avoir peur ?
+
+Intelligence artificielle : faut-il en avoir peur ?
+
+     * Publié le : 11/07/2018
+     * Temps de lecture : 4 min
+     * Actualité, Science
+
+   Entre les craintes de voir un jour des machines contrôler nos vies et
+   l’espoir d’une médecine davantage prédictive et personnalisée, que
+   faut-il penser de l’essor actuel de l’intelligence artificielle dans le
+   domaine de la santé ? Cédric Villani, mathématicien, député de
+   l’Essonne, et vice-président de l’Office parlementaire d’évaluation des
+   choix scientifiques et technologiques, Gilles Wainrib, directeur
+   scientifique de la société Owkin, et Peter Ford Dominey, chercheur en
+   neurosciences computationnelles et robotique à l’institut Cellule
+   souche et cerveau (unité 1208 Inserm) donnent leur opinion.
+
+   Un article à retrouver dans Inserm, le magazine n°40
+
+Ce qui fait débat
+
+   Des machines autonomes nous contrôleront-elles un jour ?
+   Utiliseront-elles nos données pour nous exclure de la société ou
+   renforcer une élite ? Ces peurs classiques des romans d’anticipation
+   prennent une acuité nouvelle avec l’essor de l’intelligence
+   artificielle. Les machines ont désormais des capacités
+   d’« apprentissage profond » : elles peuvent tirer des points communs ou
+   des règles statistiques d’une immense quantité de données (big data).
+   Elles reconnaissent ainsi une image ou un son, orientent un véhicule ou
+   une personne, identifient un risque militaire – intelligence signifie
+   « renseignement » en anglais. Faut-il s’en inquiéter ? Elles pourraient
+   aussi rendre la médecine plus prédictive et personnalisée : c’est le
+   pari du Plan pour l’intelligence artificielle lancé en mars 2018 par le
+   gouvernement et inspiré par le récent rapport de Cédric Villani qui en
+   démontre l’intérêt national. Les accords public-privé – tel celui de la
+   start-up Owkin avec l’Inserm – mèneront à ces connaissances nouvelles
+   si la confidentialité des données est préservée. Mais les machines
+   pensent-elles lorsqu’elles calculent et sont-elles responsables ?
+
+L’avis de Cédric Villani
+
+   L’intelligence artificielle suscite de multiples craintes. Certaines
+   relèvent à ce jour de la science-fiction, comme la prise de pouvoir des
+   machines sur l’humanité. D’autres sont plus fondées. On s’inquiète
+   ainsi de l’importance donnée aux algorithmes dans l’attribution de
+   bourses scolaires, de crédits bancaires ou encore d’emplois aux
+   États-Unis.
+
+   Il y a donc un travail d’éducation à faire pour défendre la
+   responsabilité humaine, éviter que des algorithmes surestimés ne
+   renforcent des discriminations, et définir le meilleur partage des
+   tâches entre humains et machines. L’intelligence artificielle, enfin,
+   aggravera-t-elle l’impact négatif de l’économie numérique sur l’emploi
+   mondial ou fera-t-elle partie de la solution ? Nous l’ignorons encore.
+
+   Mais, à l’inverse, l’intelligence artificielle devient une des clés de
+   compréhension de notre monde, désormais constitué d’une variété de
+   données par lesquelles nous pouvons avoir prise sur l’avenir. Dans ce
+   contexte, il serait très inquiétant que la France laisse à des acteurs
+   étrangers le soin de lui dicter les solutions et stratégies
+   technologiques dont elle a besoin.
+
+   En recherche médicale, cet enjeu de souveraineté nationale passe par un
+   renforcement des moyens de la recherche publique et des partenariats
+   avec le secteur privé, dont les projets peuvent être d’intérêt public.
+   Il implique aussi un regroupement large et ouvert des bases de données
+   médicales.
+
+   Paradoxalement, les Européens sont à la fois les plus inquiets de ce
+   qui peut advenir de leurs données personnelles et les mieux protégés.
+   Désormais, le non-respect du consentement libre et éclairé est assorti
+   de sanctions majeures. Dans une Europe efficace, démocratique et
+   moderne, ce n’est pas la peur qui donnera du sens à l’intelligence
+   artificielle.
+
+L’avis de Gilles Wainrib
+
+   L’intelligence artificielle est une source d’espoir sans précédent, en
+   particulier dans le domaine de la recherche médicale. L’apprentissage
+   profond, ou deep learning, permet d’analyser de nouveau et de croiser
+   une masse de données hétérogènes déjà accumulée par les laboratoires de
+   recherche médicale et les grandes cohortes que les Investissements
+   d’avenir avaient financées : images d’anatomo-pathologie, coupes
+   tissulaires et cellulaires, données cliniques, biostatistiques,
+   génomiques…
+
+   Notre start-up Owkin va ainsi collaborer avec l’Inserm pour mieux
+   comprendre l’apparition et l’évolution des pathologies, découvrir de
+   nouvelles cibles thérapeutiques ou prévoir les réponses aux
+   traitements, notamment en immunothérapie. Pour préserver au mieux la
+   confidentialité des données, nous développons une approche
+   d’apprentissage « fédéré », qui permet d’entraîner des algorithmes sur
+   des données décentralisées qui ne sortent jamais des sites où elles
+   sont produites.
+
+   On peut en effet installer des machines haute performance dans un site
+   – comme un hôpital – pour qu’elles apprennent à analyser ses données,
+   puis prolonger leur apprentissage dans un second site si le premier n’a
+   pas assez de données. Ainsi, la recherche médicale avance de façon
+   collaborative, pour les patients, et dans le plus strict respect de
+   leurs données personnelles.
+
+L’avis de Peter Ford Dominey
+
+   Dès les années 1950, les principes des neurosciences ont permis de
+   développer des réseaux neuronaux artificiels capables de résoudre des
+   problèmes complexes. Cela a conduit plus récemment, avec la puissance
+   du calcul informatique, à des avancées majeures en apprentissage
+   profond.
+
+   Grâce à l’étude du développement cognitif humain, les algorithmes ont
+   en même temps fait de nouveaux progrès : les robots peuvent apprendre à
+   coopérer avec nous, par exemple pour assembler un meuble. Avec ces
+   modèles robotiques, on peut tester des hypothèses neurologiques et
+   mieux comprendre, notamment, le développement cognitif chez l’enfant ou
+   les fonctions cérébrales impliquées dans le langage.
+
+   Ces études révèlent aussi une autre forme d’intelligence, narrative :
+   cette capacité à comprendre le comportement humain en termes
+   d’histoires est le véhicule de la transmission des valeurs et des
+   normes dans la culture humaine. Elle est absente des systèmes
+   d’intelligence artificielle mais cette recherche émergente, comme
+   celles sur la conscience humaine, pourrait être très fructueuse – par
+   exemple pour améliorer la coopération des machines ou étudier les
+   troubles autistiques.
+
+   Notre période est propice au progrès continu de l’intelligence
+   artificielle, étayé par les neurosciences et les sciences sociales. Il
+   s’agit cependant d’un outil à manier avec précaution. Les algorithmes
+   de négociation automatique ont contribué aux accidents boursiers
+   récemment subis par les États-Unis.
+
+   Tous les niveaux de la société ont une responsabilité : les dirigeants
+   doivent être vigilants, comme avec toute technologie puissante, tel le
+   nucléaire, et les citoyens, chercheurs compris, devraient s’informer
+   sur l’intelligence artificielle et son impact pour influencer son
+   utilisation dans le processus démocratique. Je suis optimiste mais nous
+   devons rester lucides et vigilants.
+
+Recevoir notre lettre d’information
+
+   Vous recevrez chaque mois les derniers articles publiés sur ce site.
+   Nous n’utiliserons pas votre e‑mail pour autre chose, et vous pourrez
+   vous désabonner à tout moment. En savoir plus sur vos données et vos
+   droits.
+
+Formulaire d’inscription
+
+   loader
+
+   Adresse e-mail (au format pbheevry@rkrzcyr.se) : ____________________
+   M'inscrire
+
+Nos délégations régionales
+
+     * Auvergne Rhône-Alpes
+     * Est
+     * Grand Ouest
+     * Île-de-France Centre Est
+     * Île-de-France Centre Nord
+     * Île-de-France Sud
+     * Nord-Ouest
+     * Nouvelle-Aquitaine
+     * Occitanie Méditerranée
+     * Occitanie Pyrénées
+     * PACA et en Corse
+
+Autres sites Inserm
+
+     * Professionnels de la recherche
+     * Ressources Humaines
+     * Marchés publics
+     * Évaluation
+     * Orphanet
+
+Accès direct
+
+     * Volontaire pour des tests
+
+Associés à l’Inserm
+
+     * ANRS | MIE
+     * Inserm Transfert
+
+     *
+     *
+     *
+     *
+     *
+     *
+     *
+
+     * Questions fréquentes
+     * Nous contacter
+     * Mentions légales
+     * Accessibilité (partiellement conforme)
+     * Données personnelles
+     * Gérer mes cookies
+     * © Inserm 2023
+
+   (BUTTON) Retour en haut de page
+
+   Ce site utilise des cookies. Vous pouvez changer d'avis à tout moment
+   en cliquant le menu "Gérer mes cookies" en bas de page.
+   AccepterRefuser
+   Paramétrer
+   Cookies
+   (BUTTON) Fermer
+
+Paramétrer les cookies
+
+   Liste des types de cookies utilisés sur ce site et de leurs finalités.
+   Certains cookies sont déposés quelle que soit la page que vous visitez,
+   d'autres uniquement si vous visitez une page qui en a besoin.
+   Nécessaire
+   [X] Nécessaire
+   Toujours activé
+   Ces cookies sont indispensables aux fonctionnalités de base du site et
+   à sa sécurité. Vous ne pouvez pas les refuser, car ils ne collectent
+   pas de données personnelles.
+   Cookie Durée Description
+   cerber_bjZJE-PQKeqAy 1 jour Déposé par l'extension de sécurité du site.
+   cerber_iEuaryZDFx 1 jour Déposé par l'extension de sécurité du site.
+   cerber_rmpcGFhB 1 jour Déposé par l'extension de sécurité du site.
+   cookielawinfo-checkbox-advertisement 1 an Déposé par l'extension de
+   gestion des cookies pour stocker le consentement du visiteur.
+   cookielawinfo-checkbox-analytics 1 an Déposé par l'extension de gestion
+   des cookies pour stocker le consentement du visiteur.
+   cookielawinfo-checkbox-embedded 1 an Déposé par l'extension de gestion
+   des cookies pour stocker le consentement du visiteur.
+   cookielawinfo-checkbox-necessary 11 mois Déposé par l'extension de
+   gestion des cookies pour stocker le consentement du visiteur.
+   cookielawinfo-checkbox-non-necessary 11 mois Déposé par l'extension de
+   gestion des cookies pour stocker le consentement du visiteur.
+   viewed_cookie_policy 11 mois Déposé par l'extension de gestion des
+   cookies pour stocker le statut du consentement du visiteur concernant
+   les cookies.
+   Contenu embarqué
+   [ ] embedded
+   Ces cookies sont liés à des contenus tiers embarqués sur le site
+   (vidéos, etc.). Ils ne sont déposés que sur certaines pages.
+   Cookie Durée Description
+   CONSENT 16 ans 5 mois 11 jours 11 heures Déposé via les vidéos YouTube
+   embarquées. Enregistre des statistiques anonymes, par exemple sur le
+   nombre d'affichages d'une vidéo. Aucune information sensible n'est
+   collectée, à moins que vous soyez connecté à un compte Google (dans ce
+   cas, vos actions sont liées à votre compte).
+   dmvk session Déposé par Dailymotion, pour collecter statistiques à
+   propos du comportement des visiteurs du site. Utilisé pour des
+   statistiques internes.
+   pll_language 1 an Déposé par l'extension de traduction. Stocke le code
+   langue de la dernière page consultée.
+   ts 1 an et 1 mois Déposé par Dailymotion.
+   usprivacy 1 an 1 mois Déposé par Dailymotion.
+   v1st 1 an 1 mois Déposé par Dailymotion.
+   VISITOR_INFO1_LIVE 5 mois 27 jours Déposé par YouTube pour collecter
+   des informations à propos des vidéos embarquées.
+   YSC session Déposé par YouTube pour comptabiliser le nombre de vues des
+   vidéos embarquées.
+   Publicité
+   [ ] advertisement
+   Le site n'affiche pas de publicité, mais certains contenus embarqués
+   peuvent déclencher le dépôt de cookies publicitaires. Ces cookies sont
+   utilisés pour fournir des publicités et des campagnes marketing
+   personnalisées. Ils pistent les visiteurs entre les sites et collectent
+   des données personnelles.
+   Cookie Durée Description
+   IDE 1 an 24 jours Déposé par Google DoubleClick pour stocker des
+   informations sur la façon dont les visiteurs utilisent les vidéos
+   YouTube et la publicité vue avant les vidéos. Il sert à afficher des
+   publicités pertinentes à l'utilisateur selon son profil.
+   test_cookie 15 minutes Déposé par Google DoubleClick pour déterminer si
+   le navigateur du visiteur supporte les cookies.
+   Enregistrer et accepter
+   Powered by CookieYes Logo

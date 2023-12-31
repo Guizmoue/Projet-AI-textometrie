@@ -1,0 +1,558 @@
+   #Commentaires pour "La justice à l’heure des algorithmes et du big
+   data"
+
+   Accéder à la navigation
+
+   Accueil
+   [gb.svg]
+   Se connecter
+   S'inscrire
+   ____________________ (Submit)
+   Thèmes
+     * Vivant
+     * Matière
+     * Numérique
+     * Sociétés
+     * Terre
+     * Univers
+
+   Formats
+     * Articles
+     * Audios
+     * Diaporamas
+     * Dossiers
+     * Infographies
+     * Points de vue
+     * Vidéos
+
+   CNRS Le Journal
+   Donner du sens à la science
+
+   [logofondation.svg]
+
+Suivre
+
+     * Twitter
+     * Facebook
+     * Google
+     * Dailymotion
+     * RSS
+
+     * Rechercher
+     * Se connecter
+     * S'inscrire
+     * Mon compte
+     * Nos blogs
+
+   English version Dossier spécial Covid-19
+     * Vivant
+     * Matière
+     * Sociétés
+     * Univers
+     * Terre
+     * Numérique
+     * Mes thèmes
+
+Personnalisez votre navigation
+       Sélectionnez vos mots clefs ou thématiques favorites et créez votre
+       rubrique personnalisée
+          + Créer un compte
+          + Se connecter
+       [ ] Stay
+     * Types
+          + Articles
+          + Audios
+          + Diaporamas
+          + Dossiers
+          + Infographies
+          + Points de vue
+          + Vidéos
+       [ ] Stay
+
+   CNRS Le Journal Haut de page Nos blogs
+   ____________________ (Submit)
+   Partager l'article
+
+Sections
+
+Vous êtes ici
+
+   Accueil / Articles / La justice à l’heure des algorithmes et du big
+   data
+
+La justice à l’heure des algorithmes et du big data
+
+   Dossier
+   Paru le 04.01.2022
+   Comment l’intelligence artificielle va changer nos vies
+   Voir le dossier
+   Article
+   L’art et l’archéologie, nouveaux horizons de l’IA
+   Article
+   Quand l’IA s’attaque à la sclérose en plaques
+   Article
+   Des logiciels experts en diagnostic médical
+   Article
+   Peut-on faire confiance à l'intelligence artificielle ?
+   Article
+   Athénan, une IA joueuse multi-championne
+   Article
+   L’IA traque le harcèlement en ligne
+   Article
+   Six scénarios d'un monde sans travail
+   Article
+   À l’usine, au bureau, tous remplacés par des robots?
+   Article
+   Une IA, juge de beauté des poissons tropicaux
+   Point de vue
+   Le robot, un «animal» comme les autres ?
+   Article
+   Des machines enfin intelligentes ?
+   Article
+   Voiture autonome
+   Des voitures autonomes sans frontières ?
+   Point de vue
+   Voitures autonomes: par quoi serez-vous choqués ?
+   Point de vue
+   Armes létales autonomes: de quoi parle-t-on?
+   Article
+   Demain, un ordinateur inspiré de notre cerveau?
+   Article
+   Les androïdes de la saga Alien sont-ils pour 2093 ?
+   Point de vue
+   Jeu de Go
+   Jeu de go : l’ordinateur plus fort que l’humain?
+   Point de vue
+   Traduire comme on joue au Go ?
+   Point de vue
+   Mieux penser les interfaces informatiques
+   Article
+   Les robots ont-ils le sens de l’humour ?
+   Point de vue
+   S'incarner dans un corps virtuel
+   Article
+   Robot Spencer
+   Spencer, le robot qui vous guide dans la foule
+   Point de vue
+   Robocop
+   Pour une éthique de la recherche en robotique
+   Point de vue
+   Armes létales autonomes: de quoi parle-t-on?
+   Point de vue
+   Traduire comme on joue au Go ?
+   Vidéo
+   Homme en ombre chinoise devant mur d'écrans
+   À la conquête des écrans géants
+   Vidéo
+   robot pointant du doigt face à un humain
+   L'ère des robots sociaux
+   Article
+   Comment les humains s’attachent aux robots
+   Article
+   Des logiciels experts en diagnostic médical
+   Article
+   Peut-on faire confiance à l'intelligence artificielle ?
+   Article
+   Recherche appartement du futur
+
+Vous êtes ici
+
+   Accueil / Articles / La justice à l’heure des algorithmes et du big
+   data
+   0 commentaire
+   Sociétés
+   Numérique
+   Droit
+   ^-A ^+A
+     * Imprimer
+
+   article
+
+La justice à l’heure des algorithmes et du big data
+
+   28.04.2017, par
+   Fabien Trécourt
+   THE LIGHTWRITER/FOTOLIA.COM
+   Partager
+   Partager
+   Les logiciels et les robots remplaceront-ils un jour les avocats, les
+   notaires et les juges ? Pour les experts, si la tendance à
+   l’automatisation et à l’accélération technologique change la donne,
+   certaines prédictions relèvent encore de la science-fiction.
+
+   Une « justice prédictive », des contrats exécutés automatiquement grâce
+   à des logiciels, des robots recrutés par des cabinets d’avocats… En
+   quelques années, les innovations technologiques et numériques ont donné
+   lieu à toute une série d’annonces fracassantes, laissant entendre
+   notamment que l’ubérisation des professions juridiques et judiciaires
+   serait en marche. Mais si certaines de ces innovations bouleversent
+   l’exercice du droit, en automatisant certaines tâches et en accélérant
+   les procédures notamment, beaucoup ont encore un caractère
+   exploratoire, voire s’apparentent au fantasme.
+
+Une justice « prédictive »
+
+   D’une manière générale, le code informatique et l’intelligence
+   artificielle paraissent encore loin de pouvoir se substituer à
+   l’expertise humaine, mais ils ne sont pas pour autant sans impact sur
+   les métiers juridiques et judiciaires. « C’est une question
+   d’équilibre », résume Bruno Dondero, agrégé des facultés de droit et
+   professeur à l’université Paris 1, estimant que beaucoup de croyances
+   sur le sujet sont « trop enthousiastes ou au contraire trop
+   insouciantes ». En pratique, ces professions comportent de nombreuses
+   tâches paraissant pouvoir être automatisées. « Lorsqu’un avocat rédige
+   un contrat par exemple, il se fonde généralement sur des modèles qu’il
+   adapte en fonction des cas particuliers. On peut envisager qu’un
+   logiciel, auquel on fournirait quelques informations spécifiques à
+   l’affaire, génère lui-même ce document. » De fait, de nombreuses
+   start-up ont récemment développé des solutions pour rédiger des
+   documents juridiques, analyser une affaire à partir d’une recherche
+   documentaire, ou encore estimer la probabilité de succès d’un procès.
+   L’année dernière, le cabinet américain BakerHostetler a ainsi « engagé
+   » le système d’intelligence artificielle Ross pour assister ses avocats
+   en répondant à des questions sur la jurisprudence et en facilitant la
+   recherche documentaire. « Ces systèmes ont leurs limites lorsque les
+   affaires sont complexes ou ambiguës, poursuit Bruno Dondero, sinon une
+   simple recherche sur Internet aurait déjà remplacé le métier
+   d’avocat-conseil. » Pour autant, il envisage que, pour des cas
+   classiques et bien connus, ces outils seront de plus en plus utilisés
+   par les cabinets. « Honnêtement, le travail d’avocat consiste rarement
+   à imaginer LA clause à laquelle personne n’avait jamais pensé. Et dans
+   les faits, certains n’hésitent pas à copier-coller leurs modèles en
+   changeant juste quelques détails… » Rien qu’une machine ne puisse
+   effectuer.
+
+   Ces systèmes ont leurs limites lorsque les affaires sont complexes ou
+   ambiguës, sinon une simple recherche sur Internet aurait déjà remplacé
+   le métier d’avocat-conseil.
+
+   À certains égards, la « justice prédictive » fonctionne suivant le même
+   principe. Ces dernières années, plusieurs systèmes ont été développés,
+   permettant de déterminer les probabilités de succès d’une affaire et de
+   calculer les éventuels dommages et intérêts, en tenant notamment compte
+   des décisions antérieures du juge appelé à statuer. « Contrairement à
+   ce qu’on entend, il ne s’agit pas de “remplacer” les avocats », tempère
+   Thomas Saint-Aubin, chercheur associé à l’Institut de recherche
+   juridique de la Sorbonne et directeur de la recherche et du
+   développement chez Seraphin Legal.
+
+   L’idée est à la fois de faciliter les recherches des particuliers ou
+   des entreprises, lorsque l’affaire est relativement classique, mais
+   aussi de décharger les professionnels de tâches laborieuses pour « leur
+   permettre de se concentrer sur la partie la plus intéressante :
+   l’analyse du dossier, l’élaboration d’un argumentaire, le contact
+   humain… » Membre du conseil d’administration de l’association Open Law,
+   Thomas Saint-Aubin a milité de nombreuses années pour l’accessibilité
+   des données juridiques et administratives – textes de lois,
+   jurisprudence… –, principe désormais acté dans la loi pour une
+   République numérique du 7 octobre 2016. Concrètement, des milliers de
+   textes réglementaires et de décisions de justice seront peu à peu
+   accessibles à tous, aux simples particuliers comme aux juges les plus
+   expérimentés… et aux machines, évidemment. « Les robots aideront les
+   professionnels du droit à naviguer dans ces “lacs de données”,
+   s’enthousiasme Thomas Saint-Aubin. Ce sera plus rapide, moins coûteux,
+   cela contribuera à désengorger les tribunaux et cela tendra
+   probablement à harmoniser le droit, puisqu’on se basera davantage sur
+   les décisions rendues dans les affaires précédentes. »
+
+   Pour les chercheurs, il est nécessaire de s’interroger sur les
+   changements induits par l’automatisation et la numérisation dans le
+   domaine de la justice.
+
+   CNRS Le Journal (BUTTON)
+   Pour les chercheurs, il est nécessaire de s’interroger sur les
+   changements induits par l’automatisation et la numérisation dans le
+   domaine de la justice.
+   HAMILTON/REA
+   HAMILTON/REA
+   Partager
+   Partager
+
+Le code informatique : un langage trop formel ?
+
+   Les technophiles les plus enthousiastes vont jusqu’à imaginer que
+   l’intelligence artificielle puisse se substituer aux professions
+   juridiques et judiciaires, bien qu’elle se heurte – au moins pour
+   l’heure actuelle – à de nombreux écueils.
+
+   Je reste sceptique quant à la capacité qu’auront ces programmes à
+   interpréter l’ironie, une métaphore ou des allusions.
+
+   « Je pense qu’il y a une différence fondamentale entre la logique du
+   droit et celle du code, analyse Primavera De Filippi, chercheuse au
+   Cersa1 : un juge ou un avocat a besoin d’interpréter la loi et au
+   besoin de la faire évoluer, tandis que les logiciels actuels peuvent
+   difficilement innover. Ils peuvent généralement mimer le passé ou
+   réaliser des actions prédéfinies. »
+   Dans une même veine, Bruno Dondero souligne deux obstacles majeurs :
+   d’une part, le droit serait figé dans les décisions du passé et ne
+   pourrait plus évoluer en fonction des nouveaux besoins d’une société ;
+   d’autre part, la jurisprudence française ne semble pas adaptée à une
+   analyse algorithmique.
+
+   Contrairement à ceux d’autres pays en effet, beaucoup de juges en
+   France rédigent leurs décisions dans un style très littéraire, sans
+   respecter un modèle ou une forme précise. « Tout dépendra des progrès
+   de l’intelligence artificielle bien sûr, mais je reste sceptique quant
+   à la capacité qu’auront ces programmes à interpréter l’ironie, une
+   métaphore ou des allusions. » Il n’est pas garanti que cet obstacle lié
+   à la langue soit franchi dans un futur proche. « Les professionnels du
+   droit doivent rester attentifs aux évolutions pour ne pas être pris de
+   court, conseille cependant Bruno Dondero, car il y aura forcément des
+   substitutions de la machine à l’homme – moins spectaculaires, mais qui
+   se traduiront néanmoins par des disparitions d’emploi. »
+
+   Une récente étude du Bureau national de la recherche économique2, aux
+   États-Unis, a ainsi comparé les décisions de juges et d’algorithmes,
+   lorsqu’un tribunal décidait si un accusé devait être assigné à
+   résidence ou placé en prison en attendant son procès. À première vue,
+   le logiciel prédit mieux quel serait le comportement des accusés et
+   pourrait ainsi permettre de prendre des décisions plus « objectives ».
+   Plus généralement, l’idée que l’informatique pourrait être plus neutre
+   qu’un être humain est un argument en faveur de l’automatisation de la
+   justice. Mais les choses ne sont pas aussi tranchées, comme l’explique
+   Sihem Amer-Yahia, directrice de recherche au Laboratoire d’informatique
+   de Grenoble3. « Contrairement à une idée reçue, les algorithmes peuvent
+   aussi reproduire et amplifier les biais de l’esprit humain, notamment
+   parce qu’ils s’appuient sur des décisions subjectives et ne font pas de
+   choix par eux-mêmes. » Pour prendre un exemple concret, une simple
+   recherche sur Internet fait remonter les résultats les plus consultés,
+   sans tenir compte de leur caractère éventuellement faussé. « Pour
+   étudier le pouvoir discriminatoire d’un algorithme, poursuit la
+   chercheuse, il faut modéliser l’ensemble des entrées, ce qu’il produit
+   en sortie et l’espace de construction entre les deux – les
+   correspondances, les approximations, les extrapolations… Si l’on ne
+   prend pas conscience des limites de cet espace de construction, on
+   risque de générer et d’amplifier les discriminations. » Sihem
+   Amer-Yahia travaille notamment avec Sabrina Mraouahi et Aïda Bennini,
+   maîtres de conférences en droit privé à l’université de Grenoble-Alpes,
+   pour chercher comment faire respecter une véritable équité au terme du
+   calcul sur les plateformes de crowdsourcing : si cela est possible sur
+   la plan théorique, rien ne garantit pour autant qu’un tel système
+   puisse être mis en œuvre dans un futur proche.
+
+Un impact trop peu évalué
+
+   L’ensemble de la société devrait s’interroger sur les changements
+   induits par l’automatisation et la numérisation dans le domaine de la
+   justice, considère Benoit Bastard, sociologue à l’Institut des sciences
+   sociales du politique4 (ISP). « L’outil s’impose, se banalise, mais il
+   y a peu de recherches sur ses effets », regrette-t-il avant de donner
+   un exemple simple. Avant, les juges aux affaires civiles devaient
+   convoquer les avocats pour vérifier que les procédures suivaient bien
+   leur cours ; cette audience de « mise en état » des affaires ne durait
+   que quelques minutes, mais des dizaines de professionnels se
+   retrouvaient ainsi une demi-journée devant la salle d’audience en
+   attendant leur tour. « Des échanges informels avaient lieu, explique le
+   sociologue. On discutait des affaires en cours, on nouait des contacts,
+   parfois on négociait discrètement un litige… Tout cela avait un impact
+   sur l’exercice du droit. » Aujourd’hui, l’état des procédures pouvant
+   être contrôlé à distance via Internet, ces échanges tendent à
+   disparaître. « Je ne sais pas si c’est bon ou mauvais pour la justice,
+   mais nous devrions dès maintenant analyser les effets de cette
+   transformation. » De même, s’il regarde avec circonspection l’essor
+   d’une justice prédictive, il constate que celle-ci s’insère dans une
+   tendance plus profonde à la réduction des débats judiciaires. « De plus
+   en plus de dispositifs se sont empilés, permettant par exemple de payer
+   une amende forfaitaire plutôt que de comparaître devant un tribunal.
+   S’ils contribuent à désengorger les tribunaux, ces outils réduisent
+   considérablement la prise en compte singulière de chaque
+   affaire. » Autrement dit, l’automatisation accroît cette
+   standardisation et cette « barémisation » de la justice : en matière de
+   conduite, par exemple, la sanction proposée par le parquet sera
+   proportionnelle au taux d’alcool dans le sang… « Encore une fois, cela
+   a des avantages et des inconvénients, mais nous devrions réfléchir
+   davantage à la justice que nous voulons et à celle que nous sommes en
+   train de construire. » Paradoxalement, en effet, cette tendance serait
+   antérieure à l’essor de l’informatique et du numérique, ce qui tendrait
+   à démontrer que l’outil impose moins un usage qu’il ne répond à des
+   besoins plus profonds, et en définitive à des choix de société.
+
+
+    _____________________________________________________________
+
+La « blockchain » et les actes notariés
+
+   Dans le cadre d’un contrat, en règle générale, deux parties s’engagent
+   à respecter un ensemble d’obligations : échanger une somme d’argent
+   contre un bien, vivre ensemble en partageant les patrimoines,
+   administrer une société en partenariat, etc. Les innovations numériques
+   – comme la technologie dite « blockchain » (chaîne de blocs) –
+   vont-elle permettre de se passer des acteurs juridiques ou judiciaires
+   présents (plus ou moins selon le type de contrat) pour garantir que
+   l’accord passé est conforme au droit, vérifier qu’il est bien respecté
+   et intervenir en cas de manquement – à l’image des notaires et des
+   juges pour un contrat de mariage ou un compromis de vente immobilière ?
+   Comme l’explique Primavera De Filippi, « la blockchain fonctionne comme
+   un cadastre décentralisé : c’est une façon d’enregistrer des
+   informations et de certifier cet enregistrement à la source, sans
+   forcément passer par un tiers ». Une fois constituées en « blocs », ces
+   données permettent de prouver qui a fait quoi et quand, et sont en
+   principe impossibles à modifier ou à effacer. « Une application
+   intéressante de ce principe est le développement de “smart contracts”,
+   poursuit la chercheuse. Cela consiste à codifier informatiquement
+   l’exécution des obligations et à les automatiser. » Imaginons que deux
+   particuliers se mettent d’accord pour passer un contrat : la blockchain
+   leur permet de reconstituer la procédure pas à pas – de prouver ainsi
+   qu’elle est bien conforme au droit – et l’exécution automatique des
+   clauses rend impossible tout manquement de leur part. « Même si les
+   parties ne se font pas confiance, elles ont la garantie que les actions
+   seront effectuées automatiquement », résume Primavera De Filippi.
+
+   CNRS Le Journal (BUTTON)
+   Céline HEIN D'après BLOCKCHAIN FRANCE
+   2016/https://blockchainfrance.net/
+   Céline HEIN D'après BLOCKCHAIN FRANCE
+   2016/https://blockchainfrance.net/
+   Partager
+   Partager
+
+   Voilà pour la théorie, mais la réalité n’est pas aussi simple. D’une
+   part, « le notaire est aussi là pour s’assurer que les parties sont
+   bien consentantes lorsqu’elles signent », relève la chercheuse. Pour
+   cette raison, la blockchain pourrait à l’heure actuelle accompagner une
+   démarche de certification ou de notarisation de la preuve, mais en
+   aucun cas s’y substituer. D’autre part, « si, pour des raisons
+   imprévues ou des cas de force majeure, l’accord doit être rompu ou
+   modifié, on ne peut pas revenir en arrière et les actions continuent de
+   s’exécuter ». Une société en cessation de paiement, par exemple,
+   continuerait de voir des virements automatiques s’effectuer au profit
+   des créanciers. « On pourrait bien sûr anticiper de tels cas de figure,
+   nuance Primavera De Filippi, mais il paraît impossible de tout
+   prévoir. » En pratique, le langage naturel des contrats classiques,
+   plus ambigu qu’un code informatique de type « si ceci, alors cela »,
+   offre une marge de manœuvre essentielle à l’exercice du droit. « Le
+   véritable enjeu serait de bénéficier du meilleur des deux mondes,
+   estime-t-elle. On pourrait par exemple imaginer des contrats hybrides,
+   comportant une part d’automatisation et de certification par
+   blockchain, mais consolidées par l’appréciation subjective et plus
+   flexible des professionnels. »
+
+
+   À revoir :
+   La table ronde sur le numérique et la redéfinition des professions
+   juridiques et judiciaires, lors des derniers États généraux de la
+   recherche sur le droit et la justice (31 janvier 2017).
+
+
+   À lire sur notre site :
+   Peut-on faire confiance à l'intelligence artificielle ?
+
+
+   Notes
+     * 1. Centre d’études et de recherches de sciences administratives et
+       politiques (Unité CNRS/Université Paris 2 Panthéon-Assas).
+     * 2. « Human Decisions and Machine Predictions », Jon Kleinberg et
+       al., NBER Working Paper n° 23180, février 2017.
+     * 3. Unité CNRS/Inria/Grenoble INP/Université Grenoble-Alpes.
+     * 4. Unité CNRS/Université Paris-Nanterre/ENS Paris-Saclay.
+
+   Aller plus loin
+   0 commentaire
+
+Mots-clés
+
+   justice prédictive algorithme droit Intelligence artificielle
+
+Partager cet article
+
+Auteur
+
+   Fabien Trécourt
+
+   Formé à l’École supérieure de journalisme de Lille, Fabien Trécourt
+   travaille pour la presse magazine spécialisée et généraliste. Il a
+   notamment collaboré aux titres Sciences humaines, Philosophie magazine,
+   Cerveau & Psycho, Sciences et Avenir ou encore Ça m’intéresse.
+   En savoir plus sur l'auteur
+   Suivre @FabienTrecourt
+   La petite ceinture de Paris, un monde à partPrécédent
+   De l’égyptologie aux robots, les sciences humaines innoventSuivant
+
+Voir aussi
+
+   Sociétés
+   Article
+   20/12/2023
+   15 livres de science pour les fêtes
+   Article
+   14/12/2023
+   La guerre de l'eau aura-t-elle lieu ?
+   Photo par Valeria Zoncoll sur Unsplash
+   Blog
+   13/12/2023
+   Compétences de l’enfant : le rôle crucial de l’interaction avec...
+   Article
+   07/12/2023
+   Carnets de science #15 : Addiction, le désordre du siècle
+   Article
+   04/12/2023
+   La créativité peut-elle être artificielle ?
+   Droit
+   Article
+   21/06/2021
+   « Osons penser la GPA »
+   Article
+   27/06/2019
+   Faut-il supprimer la mention «sexe» de l'état-civil ?
+   Article
+   08/02/2019
+   Innovations biomédicales: le droit comme garde-fou
+   Point de vue
+   22/01/2019
+   Climat : quand la justice s'en mêle
+   Point de vue
+   28/06/2018
+   Jusqu’où utiliser l’imagerie cérébrale en justice?
+   justice prédictive
+   Dossier
+   21/02/2018
+   Comment l’intelligence artificielle va changer nos vies
+
+Commentaires
+
+   0 commentaire
+   Flux RSS
+   Pour laisser votre avis sur cet article
+   Connectez-vous, rejoignez la communauté
+   du journal CNRS
+   Se connecter
+   Créer un compte
+
+     * À propos
+     * Newsletters
+     * Équipe / crédits
+     * Nous contacter
+     * Charte d'utilisation
+     * Plan du site
+     * Données personnelles
+     * Mentions légales
+
+Numéros papiers
+
+   CNRS Le Journal - décembre 2023
+   n°314
+   Voir tous les numéros
+
+Nous suivre
+
+     * Twitter
+     * Facebook
+     * Google
+     * Dailymotion
+
+Partager
+
+     * Twitter
+     * Facebook
+     * Google
+     * Email
+
+   [logofondation.svg] Faites un don pour la recherche !
+   Centre National de la Recherche Scientifique
+   © 2023, CNRS
+     * Créer un compte
+     * Se connecter
+     * Mon compte
+     * Politique d'accessibilité
+     * Gestion des cookies

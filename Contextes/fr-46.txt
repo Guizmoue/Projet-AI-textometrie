@@ -1,48 +1,51 @@
-   Paru le 04.01.2022
-   Comment l’intelligence artificielle va changer nos vies
-   Voir le dossier
-   Article
-   L’art et l’archéologie, nouveaux horizons de l’IA
-   Article
-   Quand l’IA s’attaque à la sclérose en plaques
-   Article
---
-   Article
-   Peut-on faire confiance à l'intelligence artificielle ?
-   Article
-   Athénan, une IA joueuse multi-championne
-   Article
-   L’IA traque le harcèlement en ligne
-   Article
---
-   Article
-   Une IA, juge de beauté des poissons tropicaux
-   Point de vue
---
-   Article
-   Peut-on faire confiance à l'intelligence artificielle ?
-   Article
---
-   L’année dernière, le cabinet américain BakerHostetler a ainsi « engagé
-   » le système d’intelligence artificielle Ross pour assister ses avocats
-   en répondant à des questions sur la jurisprudence et en facilitant la
---
-   Les technophiles les plus enthousiastes vont jusqu’à imaginer que
-   l’intelligence artificielle puisse se substituer aux professions
-   juridiques et judiciaires, bien qu’elle se heurte – au moins pour
---
-   respecter un modèle ou une forme précise. « Tout dépendra des progrès
-   de l’intelligence artificielle bien sûr, mais je reste sceptique quant
-   à la capacité qu’auront ces programmes à interpréter l’ironie, une
---
-   À lire sur notre site :
-   Peut-on faire confiance à l'intelligence artificielle ?
+  L’Union européenne met sous toit une législation inédite pour encadrer
+                         l’intelligence artificielle
 
 --
-
-   justice prédictive algorithme droit Intelligence artificielle
+   Parlement européen, un «accord politique» a été trouvé, visant à
+   favoriser l’innovation tout en limitant les dérives de l’IA
 
 --
-   21/02/2018
-   Comment l’intelligence artificielle va changer nos vies
+   L’Union européenne s’est accordée vendredi sur une législation inédite
+   au niveau mondial pour réguler l’intelligence artificielle (IA), après
+   trois jours de négociations intenses entre les Etats membres et le
+--
+   «Historique! L’UE devient le premier continent à fixer des règles
+   claires pour l’utilisation de l’IA», s’est félicité le commissaire
+   européen Thierry Breton, à l’origine du projet présenté en avril 2021.
+--
+   poèmes ou des traductions en quelques secondes.
+   Lire aussi: Faut-il réguler ou non l’intelligence artificielle? Un
+   débat explosif débute en Suisse
+--
+   Ce système, comme ceux capables de créer des sons ou des images, ont
+   révélé au grand public le potentiel immense de l’IA. Mais aussi
+   certains risques. La diffusion sur les réseaux sociaux de fausses
+--
 
+   Ce phénomène des IA génératives a été intégré dans les négociations en
+   cours, à la demande des eurodéputés qui insistent sur un encadrement
+--
+   qu’une régulation excessive tue dans l’œuf leurs champions naissants,
+   comme Aleph Alpha en Allemagne et Mistral AI en France, en rendant
+   prohibitifs les coûts de développement.
+--
+   prochaines semaines que le texte préserve la capacité de l’Europe à
+   développer ses propres technologies d’intelligence artificielle et
+   préserve son autonomie stratégique», a réagi le ministre français du
+--
+
+   Sur les IA génératives, le compromis prévoit une approche à deux
+   vitesses. Des règles s’imposeront à tous pour s’assurer de la qualité
+--
+   mise en place d’un système de gestion du risque. La législation prévoit
+   un encadrement particulier des systèmes d’IA qui interagissent avec les
+   humains. Elle les obligera à informer l’utilisateur qu’il est en
+--
+   législation européenne sera dotée de moyens de surveillance et de
+   sanctions avec la création d’un office européen de l’IA, au sein de la
+   Commission européenne. Il pourra infliger des amendes jusqu’à 7% du
+--
+
+   Union européenne Intelligence artificielle
+     *

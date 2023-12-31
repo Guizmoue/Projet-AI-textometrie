@@ -1,61 +1,36 @@
-   #Commentaires pour "Une IA, juge de beauté des poissons tropicaux"
 
---
+     Washington voit l’IA comme un risque pour la stabilité financière
 
-   Accueil / Articles / Une IA, juge de beauté des poissons tropicaux
-
-Une IA, juge de beauté des poissons tropicaux
-
---
-   Paru le 04.01.2022
-   Comment l’intelligence artificielle va changer nos vies
-   Voir le dossier
-   Article
-   L’art et l’archéologie, nouveaux horizons de l’IA
-   Article
-   Quand l’IA s’attaque à la sclérose en plaques
-   Article
---
-   Article
-   Peut-on faire confiance à l'intelligence artificielle ?
-   Article
-   Athénan, une IA joueuse multi-championne
-   Article
-   L’IA traque le harcèlement en ligne
-   Article
+   Le Conseil de stabilité financière américain a estimé jeudi que
+   l’intelligence artificielle dans les services financiers était une
+   source de vulnérabilité pour le secteur
 --
 
-   Accueil / Articles / Une IA, juge de beauté des poissons tropicaux
-   [gb.svg] Read in English
+   Washington considère l’intelligence artificielle dans les services
+   financiers comme une source de vulnérabilité pour le secteur, selon un
+--
+   département du trésor et de la banque centrale (Fed), ont
+   «spécifiquement identifié l’utilisation de l’intelligence artificielle
+   (IA) dans les services financiers comme une vulnérabilité du système
+   financier».
+--
+   Le président américain Joe Biden a signé à la fin octobre un décret
+   fixant des règles et principes pour encadrer le développement de l’IA.
+   Le texte impose notamment aux entreprises du secteur de transmettre au
+--
+   nationale, de sécurité économique nationale ou de santé publique».
+   Lire aussi: Les européens Mistral AI et Aleph Alpha peuvent-ils
+   réellement concurrencer les géants américains de l’intelligence
+--
+   Le FSOC a précisé, dans le communiqué publié à l’issue de la réunion,
+   que «l’utilisation de l’IA dans les services financiers s’est accrue».
+   «L’IA offre des avantages potentiels, comme la réduction des coûts et
+   l’amélioration de l’efficacité, l’identification de relations plus
 --
 
-Une IA, juge de beauté des poissons tropicaux
-
---
-   Partager
-   Des chercheurs ont entraîné une intelligence artificielle (IA) afin
-   d’attribuer un score esthétique à 2400 espèces de poissons de récifs
---
-   belle ou pas – pourraient induire des biais dans les politiques de
-   conservation des espèces. C’est grâce à l’intelligence artificielle
-   (IA) et aux réseaux de neurones profonds que les écologues ont pu
-   changer d’échelle, passant de 140 à… 2400 espèces de poissons étudiées.
---
-   avec une très grande précision ce que l’humain trouve beau ou non. Puis
-   ils ont soumis à cette IA l’ensemble des 2 400 poissons étudiés afin
-   qu’elle attribue un score esthétique à chacun – un volume énorme qui
+   Ainsi, le conseil «recommande de suivre l’évolution rapide de l’IA afin
+   de garantir que les structures de surveillance tiennent compte des
 --
 
-   Intelligence artificielle poissons Biodiversité lien émotionnel réseaux
-   de neurones valeur esthétique biais de perception politiques de
---
-   Forêts, au cœur d’un refuge climatique
-   Intelligence artificielle
-   Article
---
-   27/09/2023
-   L'intelligence artificielle au service de la biodiversité...
-   Blog
-   11/09/2023
-   Robots, Intelligence artificielle et société
-   Article
+   Intelligence artificielle Etats-Unis
+     *

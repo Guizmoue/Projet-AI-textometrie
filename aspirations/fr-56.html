@@ -1,0 +1,1540 @@
+<!DOCTYPE html>
+<html xml:lang="en-gb" lang="en-gb" dir="ltr">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+      <base href="https://www.medecinesciences.org/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="keywords" content="médecine/sciences, M/S, médecine, sciences, revue, éditions EDK, EDP Sciences" />
+  <meta name="robots" content="index, follow, noarchive" />
+  <meta name="description" content="m&amp;eacute;decine/sciences (M/S), revue internationale dans le domaine de la recherche biologique, m&amp;eacute;dicale et en sant&amp;eacute;" />
+  <title>Une brève introduction à l’intelligence artificielle | médecine/sciences</title>
+  <link rel="stylesheet" href="/libraries/jquery/jquery.multiselect.css" type="text/css" />
+  <link rel="stylesheet" href="/libraries/jquery/jquery.qtip/jquery.qtip.min.css" type="text/css" />
+  <link rel="stylesheet" href="/libraries/jquery/jquery.magnific-popup.css" type="text/css" />
+  <link rel="stylesheet" href="/p/jquery.php/ui/1.12.0/themes/base/jquery-ui.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/template1/css/com_article.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/template1/css/mod_article_bookmarking.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/template1/css/mod_article_purchase.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/template1/css/mod_solr.css" type="text/css" />
+  <link rel="stylesheet" href="/media/mod_languages/css/template.css" type="text/css" />
+  <script src="/p/jquery.php/jquery-3.1.0.min.js" type="text/javascript"></script>
+  <script src="/plugins/system/jqueryeasy/jquerynoconflict.js" type="text/javascript"></script>
+  <script src="/p/jquery.php/ui/1.12.0/jquery-ui.min.js" type="text/javascript"></script>
+  <script src="/libraries/jquery/jquery.multiselect.min.js" type="text/javascript"></script>
+  <script src="/libraries/jquery/jquery.qtip/jquery.qtip.min.js" type="text/javascript"></script>
+  <script src="/libraries/jquery/jquery.magnific-popup.min.js" type="text/javascript"></script>
+  <script src="/components/com_article/assets/js/article.js" type="text/javascript"></script>
+  <script src="https://www.googletagmanager.com/gtag/js?id=G-S2LKMZBHJL" type="text/javascript"></script>
+  <script src="/modules/mod_article_bookmarking/assets/js/bookmarking.js" type="text/javascript"></script>
+  <script src="/libraries/jquery/jquery.autocomplete.js" type="text/javascript"></script>
+  <script type="text/javascript">
+var ARTICLE_CLICK_VIEW = "Click to view fullscreen";
+var ARTICLE_CLICK_HIDE = "Click anywhere to hide the fullscreen overlay";
+var ARTICLE_CLICK_MOVIE = "Click to play the movie";
+window.dataLayer = window.dataLayer || [];
+function gtag() {dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-S2LKMZBHJL', { 
+    'edpsname': 'medsci',
+    'site_name': 'médecine/sciences',
+    'plateform': 'journal',
+    'plateform_type': 'edp',
+    'server_host': 'ovh-france'
+});gtag('config', 'G-JZ7V0K7ZZ4', {
+    'edpsname': 'medsci',
+    'site_name': 'médecine/sciences',
+    'plateform': 'journal',
+    'plateform_type': 'edp',
+    'server_host': 'ovh-france'
+});gtag('config', 'user_properties', {
+    'edpsname': 'medsci',
+    'site_name': 'médecine/sciences',
+    'plateform': 'journal',
+    'plateform_type': 'edp',
+    'server_host': 'ovh-france'
+});
+  </script>
+  <link title="schema(PRISM)" rel="schema.prism" href="http://prismstandard.org/namespaces/1.2/basic/">
+  <meta name="citation_journal_title" content="médecine/sciences">
+  <meta name="citation_journal_abbrev" content="Med Sci (Paris)">
+  <meta name="citation_publisher" content="EDP Sciences">
+  <meta name="citation_author" content="Aurélie Jean">
+  <meta name="citation_author_institution" content="In Silico Veritas, 4 rue Joseph Granier, 75007 Paris, France">
+  <meta name="citation_title" content="Une brève introduction à l’intelligence artificielle">
+  <meta name="citation_online_date" content="2020/11/05">
+  <meta name="citation_publication_date" content="2020/11/01">
+  <meta name="citation_volume" content="36">
+  <meta name="citation_issue" content="11">
+  <meta name="citation_firstpage" content="1059">
+  <meta name="citation_lastpage" content="1067">
+  <meta name="citation_doi" content="10.1051/medsci/2020189">
+  <meta name="citation_abstract_html_url" content="https://www.medecinesciences.org/articles/medsci/abs/2020/10/msc200197/msc200197.html">
+  <meta name="citation_fulltext_html_url" content="https://www.medecinesciences.org/articles/medsci/full_html/2020/10/msc200197/msc200197.html">
+  <meta name="citation_pdf_url" content="https://www.medecinesciences.org/articles/medsci/pdf/2020/10/msc200197.pdf">
+  <meta name="citation_issn" content="0767-0974">
+  <meta name="citation_issn" content="1958-5381">
+  <meta name="citation_language" content="fr">
+  <meta name="citation_article_type" content="Other">
+  <meta name="citation_abstract" lang="fr" content="Depuis plus d’une décennie, l’intelligence artificielle (IA) vit une accélération dans son développement et son adoption. En médecine, elle intervient dans la recherche fondamentale et clinique, la pratique hospitalière, les examens médicaux, les soins ou encore la logistique. Ce qui contribue à l’affinement des diagnostics et des pronostics, à une médecine encore plus personnalisée et ciblée, à des avancées dans les technologies d’observations et d’analyses ou encore dans les outils d’interventions chirurgicales et autres robots d’assistance. De nombreux enjeux propres à l’IA et à la médecine, tels que la dématérialisation des données, le respect de la vie privée, l’&lt;i&gt;explicabilité&lt;i/&gt; des algorithmes, la conception de systèmes d’IA inclusifs ou leur reproductibilité, sont à surmonter pour construire une confiance du corps hospitalier dans ces outils. Cela passe par une maîtrise des concepts fondamentaux que nous présentons ici">
+  <meta name="citation_abstract" lang="en" content="For more than a decade, we have witnessed an acceleration in the development and the adoption of artificial intelligence (AI) technologies. In medicine, it impacts clinical and fundamental research, hospital practices, medical examinations, hospital care or logistics. These in turn contribute to improvements in diagnostics and prognostics, and to improvements in personalised and targeted medicine, advanced observation and analysis technologies, or surgery and other assistance robots. Many challenges in AI and medicine, such as data digitalisation, medical data privacy, algorithm explicability, inclusive AI system development or their reproducibility, have to be tackled in order to build the confidence of medical practitioners in these technologies. This will be possible by mastering the key concepts &lt;i&gt;via&lt;i/&gt; a brief history of artificial intelligence.">
+  <meta name="citation_reference" content="citation_author=A. Turing;citation_title=Computing machinery and intelligence;citation_journal_title=Mind;citation_publication_date=1950;citation_volume=49;citation_firstpage=433;citation_lastpage=460;">
+  <meta name="citation_reference" content="citation_author=FS Costabala;citation_author=J Yaob;citation_author=E Kuhla;citation_title=Predicting the cardiac toxicity of drugs using a novel multiscale exposure-response simulator;citation_journal_title=Computer Methods Biomechanics Biomedical Engineering;citation_publication_date=2018;citation_volume=21;citation_firstpage=232;citation_lastpage=246;">
+  <meta name="citation_reference" content="Doblare M, Garcıa JM, Gomez MJ. Modelling bone tissue fracture and healing: a review. Engineering Fracture Mechanics 2004; 71 (13–14).">
+  <meta name="citation_reference" content="citation_author=J Shim;citation_author=A Grosberg;citation_author=JC Nawroth;citation_title=Modeling of cardiac muscle thin films: pre-stretch, passive and active behavior;citation_journal_title=J Biomechanics;citation_publication_date=2012;citation_volume=45;citation_firstpage=832;citation_lastpage=841;">
+  <meta name="citation_reference" content="Shanahan M. The technological singularity. Essential knowledge series. Cambridge (MA) : The MIT Press, 2015.">
+  <meta name="citation_reference" content="citation_author=FT De Dombal;citation_author=DJ Leaper;citation_author=JR Staniland;citation_title=Computer-aided diagnosis of abdominal pain;citation_journal_title=Br Med J;citation_publication_date=1972;citation_volume=2;citation_firstpage=9;citation_lastpage=13;">
+  <meta name="citation_reference" content="citation_author=PM Ravdin;citation_author=LA Siminoff;citation_author=GJ Davis;citation_title=Computer program to assist in making decisions about adjuvant therapy for women with early breast cancer;citation_journal_title=J Clin Oncol;citation_publication_date=2001;citation_volume=19;citation_firstpage=980;citation_lastpage=991;">
+  <meta name="citation_reference" content="Velten K . Mathematical modeling and simulation: introduction for scientists and engineers 2009 ; New York: Wiley, 362 p">
+  <meta name="citation_reference" content="citation_author=A Jean;citation_author=MK Nyein;citation_author=JQ Zheng;citation_title=An animal-to-human scaling law for blast-induced traumatic brain injury risk assessment;citation_journal_title=Proc Natl Acad Sci USA;citation_publication_date=2014;citation_volume=111;citation_firstpage=15310;citation_lastpage=15315;">
+  <meta name="citation_reference" content="citation_author=J Yeo;citation_author=GS Jung;citation_author=A Tarakanova;citation_title=Multiscale modeling of keratin, collagen, elastin and related human diseases: Perspectives from atomistic to coarse-grained molecular dynamics simulations;citation_journal_title=Extreme Mechanics Letters;citation_publication_date=2018;citation_volume=20;citation_firstpage=112;citation_lastpage=124;">
+  <meta name="citation_reference" content="citation_author=S Febvay;citation_author=S Socrate;citation_author=MD House;citation_title=Biomechanical modeling of cervical tissue: a quantitative investigation of cervical incompetence;citation_journal_title=Int Mechanical Engineering Congress Exposition;citation_publication_date=2003;citation_firstpage=399;citation_lastpage=400;">
+  <meta name="citation_reference" content="citation_author=A Tang;citation_author=R Tam;citation_author=A Cadrin-Chenevert;citation_title=Canadian association of radiologists white paper on artificial intelligence in radiology;citation_journal_title=Can Assoc Radiol J;citation_publication_date=2018;citation_volume=69;citation_firstpage=120135;">
+  <meta name="citation_reference" content="citation_author=E Bou Assi;citation_author=DK Nguyen;citation_author=S Rihana;citation_author=M Sawan;citation_title=Towards accurate prediction of epileptic seizures: a review;citation_journal_title=Biomedical Signal Processing Control;citation_publication_date=2017;citation_volume=34;citation_firstpage=144157;">
+  <meta name="citation_reference" content="Marcus G. The next decade in AI: four steps towards robust artificial intelligence. arXiv 2002; 06177 : 2020.">
+  <meta name="citation_reference" content="citation_author=H Alashwal;citation_author=M El Halaby;citation_author=JJ Crouse;citation_title=The application of unsupervised clustering methods to Alzheimer’s disease;citation_journal_title=Front Comput Neurosci;citation_publication_date=2019;citation_firstpage=13;citation_lastpage=31;">
+  <meta name="citation_reference" content="citation_author=HP Ng;citation_author=SH Ong;citation_author=KWC Foong;citation_title=Medical image segmentation using K-means clustering and improved watershed algorithm;citation_journal_title=Proc IEEE Southwest Symposium Image Analysis Interpretation;citation_publication_date=2006;citation_firstpage=61;citation_lastpage=65;">
+  <meta name="citation_reference" content="citation_author=Y LeCun;citation_author=B Boser;citation_author=JS Denker;citation_title=Backpropagation applied to handwritten zip code recognition;citation_journal_title=Neural Comput;citation_publication_date=1989;citation_volume=1;citation_firstpage=541;citation_lastpage=551;">
+  <meta name="citation_reference" content="citation_author=D Erhan;citation_author=Y Bengio;citation_author=A Courville;citation_title=Why does unsupervised pre-training help deep learning?;citation_journal_title=J Machine Learning Research;citation_publication_date=2010;citation_volume=11;citation_firstpage=625;citation_lastpage=660;">
+  <meta name="citation_reference" content="citation_author=Y LeCun;citation_author=Y Bengio;citation_author=G Hinton;citation_title=Deep learning;citation_journal_title=Nature;citation_publication_date=2015;citation_volume=521;citation_firstpage=436;citation_lastpage=444;">
+  <meta name="citation_reference" content="citation_author=S Ekins;citation_author=AC Puhl;citation_author=KM Zorn;citation_title=Exploiting machine learning for end-to-end drug discovery and development;citation_journal_title=Nat Mater;citation_publication_date=2019;citation_volume=18;citation_firstpage=435;citation_lastpage=441;">
+  <meta name="citation_reference" content="citation_author=A Esteva;citation_author=B Kuprel;citation_author=RA Novoa;citation_title=Dermatologist-level classification of skin cancer with deep neural networks;citation_journal_title=Nature;citation_publication_date=2017;citation_volume=542;citation_firstpage=115;citation_lastpage=118;">
+  <meta name="citation_reference" content="citation_author=RC Deo;citation_title=Machine learning in medicine;citation_journal_title=Circulation;citation_publication_date=2015;citation_volume=132;citation_firstpage=1920;citation_lastpage=1930;">
+  <meta name="citation_reference" content="Majkowska A, Mittal S, Steiner DF, et al. Chest radiograph interpretation with deep learning models: assessment with radiologist-adjudicated reference standards and population-adjusted evaluation. Radiology 2019; 294(2).">
+  <meta name="citation_reference" content="citation_author=V Gulshan;citation_author=L Peng;citation_author=M Coram;citation_title=Development and validation of a deep learning algorithm for detection of diabetic retinopathy in retinal fundus photographs;citation_journal_title=JAMA;citation_publication_date=2016;citation_volume=316;citation_firstpage=2402;citation_lastpage=2410;">
+  <meta name="citation_reference" content="Ding Y, Sohn JH, Kawczynski MG, et al. A deep learning model to predict a diagnosis of Alzheimer disease by using 18F-FDG PET of the brain. Radiology 2018; 290(2).">
+  <meta name="citation_reference" content="citation_author=Y Xie;citation_author=J Ho;citation_author=BC Vemuri;citation_title=multiple atlas construction from a heterogeneous brain MR image collection;citation_journal_title=IEEE Trans Med Imaging;citation_publication_date=2013;citation_volume=32;citation_firstpage=628;citation_lastpage=635;">
+  <meta name="citation_reference" content="citation_author=MA Zuluaga;citation_author=D Hush;citation_author=JF Edgar;citation_title=Lecture notes in computer science;citation_journal_title=Berlin-Heidelberg : Springer.;citation_publication_date=2011;citation_volume=2011;citation_firstpage=6893;">
+  <meta name="citation_reference" content="Martin L, Muller B, Ortiz Suárez PJ, et al. CamemBERT: a tasty French language model. Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, 2020.">
+  <meta name="citation_reference" content="Beaudouin V, Bloch I, Bounie D, et al. Flexible and context-specific AI explainability: a multidisciplinary approach. 2020. arXiv:2003.07703 [cs.CY].">
+  <meta name="citation_reference" content="citation_author=Z Obermeyer;citation_author=B Powers;citation_author=C Vogeli;citation_author=S Mullainathan;citation_title=Dissecting racial bias in an algorithm used to manage the health of populations;citation_journal_title=Science;citation_publication_date=2019;citation_volume=366;citation_firstpage=447;citation_lastpage=453;">
+  <meta name="citation_reference" content="McDermott MBA, Wang S, Marinsek N, et al. Reproducibility in machine learning for Health. International Conference on Learning Representations 2019.">
+  <meta name="citation_reference" content="citation_author=J Haiech;citation_title=Parcourir l’histoire de l’intelligence artificielle, pour mieux la définir et la comprendre;citation_journal_title=Med Sci (Paris);citation_publication_date=2020;citation_volume=36;citation_firstpage=919;citation_lastpage=23;">
+  <meta name="citation_reference" content="citation_author=C. Matuchansky;citation_title=Intelligence clinique et intelligence artificielle : une question de nuance;citation_journal_title=Med Sci (Paris);citation_publication_date=2019;citation_volume=35;citation_firstpage=797;citation_lastpage=803;">
+  <meta name="prism.copyright" content="© 2020 médecine/sciences – Inserm">
+  <meta name="prism.publicationName" content="médecine/sciences">
+  <meta name="prism.coverDisplayDate" content="Novembre 2020">
+  <meta name="prism.volume" content="36">
+  <meta name="prism.number" content="11">
+  <meta name="prism.section" content="Repères">
+  <meta name="prism.startingPage" content="1059">
+  <meta name="prism.endingPage" content="1067">
+  <meta name="prism.issn" content="0767-0974">
+  <meta name="prism.eIssn" content="1958-5381">
+  <meta name="prism.doi" content="10.1051/medsci/2020189">
+  <meta name="prism.url" content="https://www.medecinesciences.org/articles/medsci/abs/2020/10/msc200197/msc200197.html">
+  <meta name="citation_fulltext_world_readable" content="">
+
+    <link href="/templates/template1/images/medsci/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+          <link rel="preconnect" href="https://fonts.googleapis.com">
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+      <link href="https://fonts.googleapis.com/css2?family=Crimson+Text&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
+        
+    <link href="/templates/source/css/article.css" rel="stylesheet" type="text/css"/>
+    <link href="/templates/template1/css/cookie.css" rel="stylesheet" type="text/css"/>
+    <link href="/templates/template1/css/commun_v3.css" rel="stylesheet" type="text/css"/>
+    <link href="/templates/template1/css/template1.css" rel="stylesheet" type="text/css"/>
+    <link href="/templates/source/css/flags25.css" rel="stylesheet" type="text/css"/>    
+
+        <link href="/templates/template1/css/medsci.css" rel="stylesheet" type="text/css"/>
+        <link href="/templates/source/js/mmenu2/dist/css/jquery.mmenu.all.css" rel="stylesheet" type="text/css"/>
+    <!--[if IE]>
+    <link rel="stylesheet" href="/templates/template1/css/ie.css" type="text/css" />
+    <script src="/templates/template1/html5-ie.js"></script>
+    <![endif]-->
+</head>
+
+
+
+<body id="com_article" class="medsci ">
+    <div id="journal-webpage">
+        <header>
+                          <div class="header-edp">
+        <div class="wrap ">
+
+                        <div class="logo-edp">
+
+
+                
+                                              <a href="https://www.edpsciences.org" target="_blank"><img src="/templates/source/images/logos/logo_edp_105.svg" alt="EDP Sciences logo"></a>
+                                                       </div>
+                                <nav class="edp-nav">
+                        <ul>
+                                <li><a href="https://publications.edpsciences.org/">Journals</a></li>
+                                <li><a href="https://www.edpsciences.org/en/books">Books</a></li>
+                                <li><a href="https://www.webofconferences.org/">Conferences</a></li>
+                        </ul>
+                </nav>
+                        
+
+
+                            <div class="header_cart">
+                <a href="#" class="cart-box" id="cart-info" title="Display your shopping cart">
+  <span class="ico ico-cart"></span> <span class="cart-counter hidden">0</span>
+</a>
+
+            </div>
+        
+                <div class="mod-languages">
+
+	<ul class="lang-inline">
+						<li class="lang-active" dir="ltr">
+			<a href="/en/">
+							<img src="/media/mod_languages/images/en.gif" alt="English (UK)" title="English (UK)" />						</a>
+			</li>
+								<li class="" dir="ltr">
+			<a href="/fr/">
+							<img src="/media/mod_languages/images/fr.gif" alt="Français (FR)" title="Français (FR)" />						</a>
+			</li>
+				</ul>
+
+</div>
+
+                                   <div class="reg_info auth">
+            <div class="btn-nav">
+            <span class="ico16 white subs"></span><span>Subscriber Authentication Point  </span>
+            <nav class="user">
+                <ul>
+                                            <li>
+                            <a href="/en/component/authenticate/?task=login">
+                                Sign in with login/password
+                            </a>
+                        </li>
+                                        <li>
+                        <a href="/en/component/authenticate/?task=access">
+                            Your subscription
+                        </a>
+                    </li>
+                                    </ul>
+            </nav>
+        </div>
+    </div>
+<div class="reg_info account">
+    <div class="btn-nav">
+                    <span class="ico16 white login"></span> <span class="reg_info-user">EDPS Account</span>
+                <nav class="user">
+                        <ul>
+                <li><a href="/en/component/services/">Login</a></li>
+            </ul>
+                    </nav>
+    </div>
+</div>
+
+
+                
+                <div class="clear"></div>
+        </div>
+</div>
+
+
+                                                            
+
+	    
+
+            <div class="header-nav">
+
+              
+              <div class="wrap">
+                        
+                                <a href="/" class="logo" title="Journal homepage"><img src="/templates/template1/images/medsci/logo_medsci.png" alt="médecine/sciences"></a>
+                
+                <nav class="menu">
+                  
+<ul class="menu">
+<li class="item-276"><a href="/en/component/issues/?task=all" >All issues</a></li><li class="item-326"><a href="/en/thematic-issues" >Thematic issues</a></li><li class="item-323"><a href="/en/component/issues/?task=special_edition" >Special edition</a></li><li class="item-329"><a href="/en/m-s-series" >Series</a></li></ul>
+
+                </nav>
+
+
+                            
+                
+
+<div class="custom search default">
+<span class="ico ico-search" title="Display the search engine">Search</span>
+</div>
+
+
+                <a href="#menu-mobile" class="nav-mobile-link">Menu</a>
+                
+              </div>
+
+               
+            <nav id="menu-mobile">
+<ul class="menu">
+<li class="item-365 deeper parent"><span class="separator">Browse</span>
+<ul><li class="item-390"><a href="/en/component/issues/?task=all" >All issues</a></li><li class="item-396"><a href="/en/browse/thematic-issues" >Thematic issues</a></li><li class="item-393"><a href="/en/component/issues/?task=special_edition" >Special edition</a></li><li class="item-399"><a href="/en/browse/m-s-series" >m/s series</a></li><li class="item-405"><a href="/en/browse/m-s-videos-en" >m/s videos</a></li></ul></li><li class="item-280 deeper parent"><span class="separator">About m/s</span>
+<ul><li class="item-283"><a href="/en/about-m-s/history" >History</a></li><li class="item-286"><a href="/en/about-m-s/aims-and-scope" >Aims and Scope</a></li><li class="item-288"><a href="/en/about-m-s/editorial-team-and-scientific-board" >Editorial team and Scientific board</a></li><li class="item-291"><a href="/en/about-m-s/permission-to-reuse" >Permission to reuse</a></li><li class="item-296"><a href="/en/about-m-s/indexed-in" >Indexed in</a></li><li class="item-298"><a href="/en/about-m-s/hosted-and-distributed-by" >Hosted and distributed by</a></li></ul></li><li class="item-301 deeper parent"><span class="separator">Author information</span>
+<ul><li class="item-304"><a href="/en/author-information/instruction-for-authors" >Instruction for authors </a></li><li class="item-306"><a href="/en/author-information/online-submission" >Online submission</a></li><li class="item-309"><a href="/en/author-information/copyright-transfer" >Copyright transfer</a></li></ul></li><li class="item-259"><a href="/en/component/services/" >Reader's services</a></li><li class="item-311"><a href="/en/component/journal_price/" >Subscriber information</a></li></ul>
+</nav>
+            </div>
+
+            <div id="search" class="hidden">
+    <div class="wrap-search">
+        <form action="/en/component/solr/?task=quick_search" method="post">
+            <div class="wrap">
+            <div class="inputs">
+                <input type="text" name="q" />
+                <button type="submit" value="search">
+                    <span class="ico ico-search" title="Search"></span>
+                </button>
+            </div> 
+                        </div>
+
+            <div class="advanced"><a href="/en/component/solr/">Advanced Search</a></div>
+        </form>
+    </div>
+</div>
+<script type="text/javascript">
+	jQuery(function ($) {
+	    var source = function (request, callback) {
+	        var term = request.term;
+            $.ajax({
+                url: '/index.php',
+                dataType: 'json',
+                method: 'GET',
+                data: {
+                    option: 'com_solr',
+                    task: 'auto_complete',
+                    query: term
+                },
+                success: function (data) {
+                    var suggestions = [];
+                    try {
+                        data.suggest.default[term].suggestions.forEach(function (s) { suggestions.push(s.term)}) } catch (e) {
+                    }
+
+                    callback(suggestions);
+                },
+                error: function (err) {
+                    callback([]);
+                }
+            });
+        };
+
+		$('#search').find('input[name=q]').autocomplete({
+			source: source
+		});
+	});
+</script>
+
+                          <div class="header-cover">
+                                                                    
+              </div>
+                    </header>
+
+        <main class="medsci" id="main">
+
+            <!--div class="wrap">
+             <p>Message placeholder</p>
+            </div-->
+
+            
+            
+                                                    
+
+            
+            
+            <div class="wrap" >
+                              
+<div class="breadcrumbs">
+
+
+
+<a href="/en/" class="pathway">Home</a> <img src="/media/system/images/arrow.png" alt=""  /> <a href="/en/component/issues/" class="pathway">All issues</a> <img src="/media/system/images/arrow.png" alt=""  /> <a href="/en/articles/medsci/abs/2020/10/contents/contents.html" class="pathway">Volume 36 / No 11 (Novembre 2020)</a> <img src="/media/system/images/arrow.png" alt=""  /> <a href="/articles/medsci/abs/2020/10/msc200197/msc200197.html" class="pathway">Med Sci (Paris), 36 11 (2020) 1059-1067</a> <img src="/media/system/images/arrow.png" alt=""  /> <span>Full HTML</span></div>
+
+              
+                                                    <div id="content" class="id-257  full">
+                    <div>
+                                           
+                        <nav class="nav-article nav-buttons">
+                          
+<ul class="menu">
+<li class="item-365 deeper parent"><span class="separator">Browse</span>
+<ul><li class="item-390"><a href="/en/component/issues/?task=all" >All issues</a></li><li class="item-396"><a href="/en/browse/thematic-issues" >Thematic issues</a></li><li class="item-393"><a href="/en/component/issues/?task=special_edition" >Special edition</a></li><li class="item-399"><a href="/en/browse/m-s-series" >m/s series</a></li><li class="item-405"><a href="/en/browse/m-s-videos-en" >m/s videos</a></li></ul></li><li class="item-280 deeper parent"><span class="separator">About m/s</span>
+<ul><li class="item-283"><a href="/en/about-m-s/history" >History</a></li><li class="item-286"><a href="/en/about-m-s/aims-and-scope" >Aims and Scope</a></li><li class="item-288"><a href="/en/about-m-s/editorial-team-and-scientific-board" >Editorial team and Scientific board</a></li><li class="item-291"><a href="/en/about-m-s/permission-to-reuse" >Permission to reuse</a></li><li class="item-296"><a href="/en/about-m-s/indexed-in" >Indexed in</a></li><li class="item-298"><a href="/en/about-m-s/hosted-and-distributed-by" >Hosted and distributed by</a></li></ul></li><li class="item-301 deeper parent"><span class="separator">Author information</span>
+<ul><li class="item-304"><a href="/en/author-information/instruction-for-authors" >Instruction for authors </a></li><li class="item-306"><a href="/en/author-information/online-submission" >Online submission</a></li><li class="item-309"><a href="/en/author-information/copyright-transfer" >Copyright transfer</a></li></ul></li><li class="item-259"><a href="/en/component/services/" >Reader's services</a></li><li class="item-311"><a href="/en/component/journal_price/" >Subscriber information</a></li></ul>
+
+                        </nav>
+                                            
+                      
+<div id="system-message-container">
+</div>
+                      
+
+                      
+                                              <div class="flexme flexme-article">
+                        <div class="article-content">
+                                <div>
+    
+<div class="special_article gold">Open Access</div>
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+ 
+    <div class="summary full" >
+	<table>
+		
+	
+		<tr>
+		<th valign="top">
+							Issue
+					</th>
+		<td width="10"></td>
+		<td>
+							<div>
+											Med Sci (Paris)
+									</div>
+										<div><strong>Volume </strong>36, Number <strong>11</strong>, Novembre 2020				</div>
+				
+									</td>
+	<tr><td colspan="3" ></td></tr>
+	<tr><td colspan="3" class="sep_issue"></td></tr>
+	</tr>
+	
+			<tr>
+			<th>
+									Page(s)
+								</th>
+			<td></td>
+			            <td>1059 - 1067</td>
+        		</tr>
+		
+			<tr>
+			<th>Section</th>
+			<td></td>
+			<td>Repères</td>
+		</tr>
+		
+			<tr>
+			<th>DOI</th>
+			<td></td>
+			<td>
+				<a href="https://doi.org/10.1051/medsci/2020189">
+					https://doi.org/10.1051/medsci/2020189
+				</a>
+			</td>
+		</tr>
+		
+			<tr>
+			<th>Published online</th>
+			<td></td>
+			<td>
+				05 November 2020
+			</td>
+		</tr>
+		
+		</table>
+</div>
+
+
+
+<div id="article">
+    <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN">
+
+<div class="menu" id="bloc"><ul>
+<li><a href="/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html#top_full">Haut de page</a></li>
+<li><a href="/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html#abs" title="R&#233;sum&#233;">R&#233;sum&#233;</a></li>
+<li class="ellipse-text"><a href="/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html#S1" title="Analyser, comprendre et pr&#233;dire">Analyser, comprendre et pr&#233;dire</a></li>
+<li class="ellipse-text"><a href="/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html#S2" title="D&#233;passer les contraintes du monde r&#233;el">D&#233;passer les contraintes du monde r&#233;el</a></li>
+<li class="ellipse-text"><a href="/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html#S3" title="&#171; Analyser, comprendre et pr&#233;dire &#187; en m&#233;decine">&#171; Analyser, comprendre et pr&#233;dire &#187; en m&#233;decine</a></li>
+<li class="ellipse-text"><a href="/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html#S4" title="Intelligence artificielle explicite versus implicite">Intelligence artificielle explicite versus implicite</a></li>
+<li class="ellipse-text"><a href="/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html#S5" title="Intelligence artificielle explicite">Intelligence artificielle explicite</a></li>
+<li class="ellipse-text"><a href="/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html#S6" title="Intelligence artificielle implicite">Intelligence artificielle implicite</a></li>
+<li class="ellipse-text"><a href="/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html#S7" title="Les algorithmes">Les algorithmes</a></li>
+<li class="ellipse-text"><a href="/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html#S8" title="Algorithmes traditionnels">Algorithmes traditionnels</a></li>
+<li class="ellipse-text"><a href="/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html#S9" title="Algorithmes computationnels">Algorithmes computationnels</a></li>
+<li class="ellipse-text"><a href="/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html#S10" title="Les data">Les data</a></li>
+<li class="ellipse-text"><a href="/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html#S11" title="Data structur&#233;e versus non structur&#233;e">Data structur&#233;e versus non structur&#233;e</a></li>
+<li class="ellipse-text"><a href="/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html#S12" title="Data de calibration versus data d&#8217;apprentissage">Data de calibration versus data d&#8217;apprentissage</a></li>
+<li class="ellipse-text"><a href="/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html#S13" title="Enjeux de l&#8217;intelligence artificielle en m&#233;decine">Enjeux de l&#8217;intelligence artificielle en m&#233;decine</a></li>
+<li class="ellipse-text"><a href="/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html#S14" title="D&#233;mat&#233;rialisation des donn&#233;es de sant&#233;">D&#233;mat&#233;rialisation des donn&#233;es de sant&#233;</a></li>
+<li class="ellipse-text"><a href="/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html#S15" title="Respect de la vie priv&#233;e et des donn&#233;es personnelles">Respect de la vie priv&#233;e et des donn&#233;es personnelles</a></li>
+<li class="ellipse-text"><a href="/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html#S16" title="Explicabilit&#233;, interpr&#233;tabilit&#233; et transparence des algorithmes">Explicabilit&#233;, interpr&#233;tabilit&#233; et transparence des algorithmes</a></li>
+<li class="ellipse-text"><a href="/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html#S17" title="Inclusion, &#233;galit&#233; et &#233;quit&#233; au sein des algorithmes">Inclusion, &#233;galit&#233; et &#233;quit&#233; au sein des algorithmes</a></li>
+<li class="ellipse-text"><a href="/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html#S18" title="Reproductibilit&#233; du comportement algorithmique">Reproductibilit&#233; du comportement algorithmique</a></li>
+<li class="ellipse-text"><a href="/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html#S19" title="Conclusion">Conclusion</a></li>
+<li class="ellipse-text"><a href="/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html#S20" title="Liens d&#8217;int&#233;r&#234;t">Liens d&#8217;int&#233;r&#234;t</a></li>
+<li><a href="/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html#glossary" title="Glossaire">Glossaire</a></li>
+<li><a href="/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html#ref" title="R&#233;f&#233;rences">R&#233;f&#233;rences</a></li>
+<li><a href="/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html#figs" title="Liste des figures">Liste des figures</a></li>
+</ul></div>
+<div id="contenu">
+<a name="top_full"></a><div id="head">Med Sci (Paris) 2020 ; 36 : 1059&#8211;1067<h2 class="title">Une br&#232;ve introduction &#224; l&#8217;intelligence artificielle</h2>
+<h3 class="title">A brief history of artificial intelligence</h3>
+<div class="article-authors"><p class="bold"><span id="msc200197-author-1" data-url="/en/component/author/?dkey=10.1051/medsci/2020189&amp;n=1" class="author">Aur&#233;lie Jean</span><sup>*</sup></p></div>
+<p class="aff">
+
+ 
+ In Silico Veritas,  4 rue Joseph Granier,  75007   Paris,  France 
+ 
+<br></p>
+<p class="corresp">
+<sup>*</sup> 
+<a href="mailto:aurelie@silicoveritas.com">aurelie@silicoveritas.com</a>
+<br></p>
+<p class="bold"><a name="abs"></a>R&#233;sum&#233;</p>
+<p>Depuis plus d&#8217;une d&#233;cennie, l&#8217;intelligence artificielle (IA) vit une acc&#233;l&#233;ration dans son d&#233;veloppement et son adoption. En m&#233;decine, elle intervient dans la recherche fondamentale et clinique, la pratique hospitali&#232;re, les examens m&#233;dicaux, les soins ou encore la logistique. Ce qui contribue &#224; l&#8217;affinement des diagnostics et des pronostics, &#224; une m&#233;decine encore plus personnalis&#233;e et cibl&#233;e, &#224; des avanc&#233;es dans les technologies d&#8217;observations et d&#8217;analyses ou encore dans les outils d&#8217;interventions chirurgicales et autres robots d&#8217;assistance. De nombreux enjeux propres &#224; l&#8217;IA et &#224; la m&#233;decine, tels que la d&#233;mat&#233;rialisation des donn&#233;es, le respect de la vie priv&#233;e, l&#8217;<i>explicabilit&#233;</i><sup><a href="/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html#FN2">1</a></sup> des algorithmes, la conception de syst&#232;mes d&#8217;IA inclusifs ou leur reproductibilit&#233;, sont &#224; surmonter pour construire une confiance du corps hospitalier dans ces outils. Cela passe par une ma&#238;trise des concepts fondamentaux que nous pr&#233;sentons ici</p>
+<p class="bold">Abstract</p>
+<p>For more than a decade, we have witnessed an acceleration in the development and the adoption of artificial intelligence (AI) technologies. In medicine, it impacts clinical and fundamental research, hospital practices, medical examinations, hospital care or logistics. These in turn contribute to improvements in diagnostics and prognostics, and to improvements in personalised and targeted medicine, advanced observation and analysis technologies, or surgery and other assistance robots. Many challenges in AI and medicine, such as data digitalisation, medical data privacy, algorithm explicability, inclusive AI system development or their reproducibility, have to be tackled in order to build the confidence of medical practitioners in these technologies. This will be possible by mastering the key concepts <i>via</i> a brief history of artificial intelligence.</p>
+<div class="note">
+<hr width="30%" align="left">
+<div>
+<a name="FN2"></a><sup>1</sup> <p class="ligne">L&#8217;&#171; explicabilite&#769; &#187; est un principe de la re&#769;gulation des algorithmes. Elle figure dans les recommandations que l&#8217;Organisation de coop&#233;ration et de d&#233;veloppement &#233;conomiques (OCDE) a adopte&#769;es.</p>
+</div>
+</div>
+</div>
+<p><i>&#169; 2020 m&#233;decine/sciences &#8211; Inserm</i></p>
+<div class="license">
+<p><a rel="license" href="https://creativecommons.org/licenses/by/4.0"><img alt="Licence Creative Commons" src="https://i.creativecommons.org/l/by/4.0/88x31.png"></a>Article publi&#233; sous les conditions d&#233;finies par la licence Creative Commons Attribution License CC-BY (<a href="https://creativecommons.org/licenses/by/4.0" target="_blank">https://creativecommons.org/licenses/by/4.0</a>), qui autorise sans restrictions l'utilisation, la diffusion, et la reproduction sur quelque support que ce soit, sous r&#233;serve de citation correcte de la publication originale.</p>
+</div>
+<p class="p-marge"><img src="/articles/medsci/full_html/2020/10/msc200197/msc200197-img1.jpg"></p>
+<p>L&#8217;intelligence artificielle (IA) est une notion paradoxale car, comme le souligne Yoshua Bengio<sup><a href="/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html#FN3">2</a></sup>, on ne rend pas l&#8217;ordinateur plus intelligent mais on le rend au contraire moins stupide. L&#8217;IA est &#224; la fois une discipline de recherche et une mati&#232;re, &#224; l&#8217;instar des math&#233;matiques ou de la physique, utilis&#233;e dans de nombreuses autres disciplines de recherche, comme la m&#233;decine. Aujourd&#8217;hui plus que jamais, comprendre ce qu&#8217;est l&#8217;IA, ce qu&#8217;elle fait, ce qu&#8217;elle fera s&#251;rement et ce qu&#8217;elle ne fera certainement jamais<sup><a href="/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html#FN4">3</a></sup>, est un moyen ing&#233;nieux d&#8217;en comprendre et d&#8217;anticiper, m&#234;me partiellement, le champ des possibles, et donc de s&#8217;y pr&#233;parer, en tirant tous les avantages tout en &#233;cartant les possibles menaces. Depuis plus de dix ans, cette discipline, ainsi que les technologies qui y recourent, vivent une certaine acc&#233;l&#233;ration dans leurs d&#233;veloppements et les usages qu&#8217;elles en font, due, entre autres, aux avanc&#233;es dans l&#8217;efficacit&#233; des algorithmes appliqu&#233;s au traitement des donn&#233;es, dans la technologie des capteurs et des syst&#232;mes IoT (<i>Internet of Things</i>) pour la collecte, ou encore dans les proc&#233;d&#233;s des syst&#232;mes de stockage de ces donn&#233;es. Cet article se veut &#234;tre une br&#232;ve introduction &#224; l&#8217;intelligence artificielle, dans sa d&#233;finition, sa classification, son application, son potentiel et ses limitations. Il pr&#233;sente des r&#233;f&#233;rences et des exemples concrets non exhaustifs, qui illustrent les concepts, principalement dans le domaine de la m&#233;decine.</p>
+<h2 class="sec">
+<a name="S1"></a>Analyser, comprendre et pr&#233;dire</h2>
+<p>L&#8217;intelligence artificielle regroupe les m&#233;thodes de calculs num&#233;riques, sur ordinateur, qui reproduisent un certain type d&#8217;intelligence : l&#8217;<i>intelligence analytique (Glossaire)</i>. Le concept d&#8217;<i>intelligence computationnelle</i> a &#233;t&#233; concr&#233;tis&#233; dans une publication de Alan Turing en 1950 [<a name="InR1"></a><a href="/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html#R1">1</a>], alors que le terme <i>intelligence artificielle</i> ainsi que le paradigme intellectuel qui lui est associ&#233; ont &#233;t&#233; propos&#233;s &#224; l&#8217;issue de l&#8217;&#233;cole d&#8217;&#233;t&#233; de l&#8217;universit&#233; de Dartmouth de 1956 [<a name="InR32"></a><a href="/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html#R32">32</a>] (<b>&#8594;</b>).</p>
+<p><b>(&#8594;) Voir le Rep&#232;res de J. Haiech, <i>m/s</i> n&#176; 10, octobre 2020, page 919</b></p>
+<p>Gr&#226;ce &#224; des mod&#232;les d&#8217;IA, des simulations sont r&#233;alis&#233;es sur ordinateur, selon trois objectifs : analyser, comprendre et pr&#233;dire un ph&#233;nom&#232;ne. Ce dernier peut provenir de diff&#233;rents domaines : m&#233;dical [<a name="InR33"></a><a href="/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html#R33">33</a>] (<b>&#8594;</b>) &#233;conomique, financier, &#233;ducatif, ou industriel.</p>
+<p><b>(&#8594;) Voir le Rep&#232;res de C. Matuchansky, <i>m/s</i> n&#176; 10, octobre 2019, page 797</b></p>
+<h2 class="sec">
+<a name="S2"></a>D&#233;passer les contraintes du monde r&#233;el</h2>
+<p>On est amen&#233; &#224; r&#233;aliser des simulations num&#233;riques pour plusieurs raisons. Les exp&#233;riences dans la vie r&#233;elle sont souvent limit&#233;es, que ce soit par le temps d&#8217;ex&#233;cution, par le co&#251;t financier, ou tout simplement l&#8217;impossibilit&#233; de les r&#233;aliser. Observer et analyser des m&#233;canismes de d&#233;formation d&#8217;un tissu <i>in vivo</i>, &#224; l&#8217;&#233;chelle nanoscopique, reste ainsi encore difficile pour ne pas dire impossible dans de nombreux cas, en raison principalement des limites dues aux techniques de microscopie. Conduite manuellement, une enqu&#234;te m&#233;dicale sur des dizaines de milliers de personnes peut prendre un temps significatif pour la collecte et l&#8217;analyse des donn&#233;es, rendant l&#8217;exercice difficilement r&#233;alisable dans de nombreuses situations. R&#233;aliser des essais exp&#233;rimentaux de tenue m&#233;canique de toutes les pi&#232;ces d&#8217;un &#233;quipement m&#233;dical, telle qu&#8217;une machine d&#8217;imagerie par r&#233;sonance magn&#233;tique (IRM) reste un exercice qui prend du temps et qui n&#233;cessite un budget souvent consid&#233;rable. Les simulations sur ordinateur permettent de lever ces contraintes, soit en se substituant &#224; des observations et des analyses difficiles ou impossibles &#224; r&#233;aliser dans le monde r&#233;el, soit en compl&#233;tant des exp&#233;riences qui ont &#233;t&#233; r&#233;alis&#233;es concr&#232;tement. La simulation num&#233;rique permet donc de fournir des r&#233;ponses rapides avec une certaine fiabilit&#233; &#224; des questions ou des probl&#232;mes souvent difficilement solubles dans le monde r&#233;el. Les simulations num&#233;riques permettent en outre de r&#233;v&#233;ler des m&#233;canismes jusqu&#8217;alors insoup&#231;onnables, ou encore largement incompris, dans de nombreux champs disciplinaires.</p>
+<h2 class="sec">
+<a name="S3"></a>&#171; Analyser, comprendre et pr&#233;dire &#187; en m&#233;decine</h2>
+<p>Les r&#233;centes contributions utilisant l&#8217;IA s&#8217;articulent en grande majorit&#233; autour de son utilisation pour &#233;valuer et pr&#233;dire des situations, des grandeurs ou encore leurs &#233;volutions. On cherche ainsi &#224; &#233;valuer la propagation d&#8217;une &#233;pid&#233;mie, ou &#224; identifier une tumeur sur une radiographie, ou m&#234;me &#224; pr&#233;dire des tremblements de terre et &#224; anticiper les variations d&#8217;une action en bourse. Cela &#233;tant dit, ces mod&#232;les peuvent &#233;galement contribuer &#224; comprendre les m&#233;canismes d&#8217;un ph&#233;nom&#232;ne, comme saisir les m&#233;canismes d&#8217;une maladie, les raisons de catastrophes naturelles ou les origines d&#8217;une crise boursi&#232;re. En m&#233;decine, on utilise des mod&#232;les pour analyser plus rapidement et plus efficacement des &#233;chantillons biologiques, pour d&#233;tecter des cellules canc&#233;reuses ou pour identifier des art&#233;facts sur des &#233;lectrocardiogrammes. Un effort est r&#233;alis&#233; autant dans l&#8217;identification de sch&#233;mas r&#233;p&#233;titifs, dans les r&#233;sultats et les donn&#233;es d&#8217;entr&#233;e, pour la mise en &#233;vidence d&#8217;une relation de causalit&#233;, que dans la simulation <i>stricto sensu</i> des m&#233;canismes des maladies. On peut, par exemple, utiliser une approche contrefactuelle pour simuler une r&#233;ponse &#224; partir de diff&#233;rents sc&#233;narios. On identifiera ainsi le sc&#233;nario &#171; solution du probl&#232;me &#187;, en comparant la r&#233;ponse simul&#233;e &#224; celle qui est observ&#233;e dans le monde r&#233;el. On peut aussi mod&#233;liser et simuler directement les processus m&#233;caniques, chimiques et/ou physiologiques d&#8217;un organe [<a name="InR2"></a><a href="/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html#R2">2</a>], d&#8217;un tissu [<a name="InR3"></a><a href="/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html#R3">3</a>] ou d&#8217;une cellule [<a name="InR4"></a><a href="/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html#R4">4</a>], pour comprendre une maladie, et donc la traiter.</p>
+<p>Pour &#233;valuer le potentiel de l&#8217;IA en m&#233;decine, autant dans l&#8217;analyse et la compr&#233;hension que dans la pr&#233;diction, il est fondamental d&#8217;en comprendre le fonctionnement de base ainsi que les d&#233;fis &#224; surmonter pour en extraire tous les b&#233;n&#233;fices, tout en &#233;cartant les risques possibles. Pour cela, il est int&#233;ressant de diff&#233;rencier les IA afin d&#8217;en comprendre les tenants et les aboutissants, et ce, dans tous les domaines d&#8217;application.</p>
+<h2 class="sec">
+<a name="S4"></a>Intelligence artificielle explicite versus implicite</h2>
+<p>Il existe de nombreuses mani&#232;res de classer les IA. On peut ainsi choisir de distinguer l&#8217;IA dite <i>faible</i>, actuellement d&#233;velopp&#233;e et utilis&#233;e, de l&#8217;IA dite <i>forte</i>, qui suppose une ma&#238;trise, par la machine, de l&#8217;intelligence dite g&#233;n&#233;rale <i>(Glossaire)</i>. Cette intelligence g&#233;n&#233;rale regroupe l&#8217;intelligence analytique, d&#233;j&#224; pr&#233;sente dans l&#8217;IA faible, et les intelligences de situation et &#233;motionnelle. Ce passage de l&#8217;IA faible &#224; l&#8217;IA forte est r&#233;gi par la th&#233;orie du <i>point de singularit&#233; technologique</i> [<a name="InR5"></a><a href="/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html#R5">5</a>]. Celui-ci suppose l&#8217;existence, dans un futur m&#234;me lointain, d&#8217;un point de basculement technologique, o&#249; les machines auront une intelligence g&#233;n&#233;rale &#233;quivalente ou sup&#233;rieure &#224; celle de l&#8217;humain&#8230; avec la conscience d&#8217;exister. Cette th&#233;orie reste largement hypoth&#233;tique et n&#8217;est pas soutenue consensuellement par la communaut&#233; scientifique. N&#233;anmoins, chercher &#224; atteindre un tel point de basculement est extr&#234;mement stimulant intellectuellement. Cela permet de faire des progr&#232;s notables, autant dans le d&#233;veloppement des technologies et des m&#233;thodes de calcul avanc&#233;es, que dans la compr&#233;hension de notre monde [<a href="/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html#R5">5</a>]. Citons, par exemple, les travaux qui s&#8217;int&#233;ressent &#224; comprendre, mod&#233;liser et simuler une &#233;motion ou la conscience, et qui ont des implications technologiques et philosophiques pertinentes.</p>
+<p>Une autre mani&#232;re de classer les IA, qui est celle que nous retiendrons dans cet article, est la distinction entre une IA dite <i>explicite</i> et une IA dite <i>implicite</i>. Alors que la distinction entre IA faible et IA forte n&#8217;apporte aucun &#233;l&#233;ment d&#8217;analyse suppl&#233;mentaire, en raison de la non existence actuelle et future d&#8217;une IA forte (avec ma&#238;trise, par la machine, de l&#8217;intelligence dite g&#233;n&#233;rale), diff&#233;rencier l&#8217;IA explicite de l&#8217;IA implicite permet d&#8217;approcher concr&#232;tement et efficacement de nombreuses questions, en traitant ces deux IA qui sont aujourd&#8217;hui d&#233;velopp&#233;es et utilis&#233;es.</p>
+<h2 class="sec">
+<a name="S5"></a>Intelligence artificielle explicite</h2>
+<p>L&#8217;intelligence artificielle <i>explicite</i>, &#233;galement appel&#233;e IA symbolique, est celle traditionnellement d&#233;velopp&#233;e et utilis&#233;e depuis plus de cinquante ans. La logique de cette IA est enti&#232;rement d&#233;crite explicitement par le(s) humain(s), et se traduit de diff&#233;rentes mani&#232;res selon la complexit&#233; du processus &#224; simuler <i>(<a href="/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html#F1">Figure 1</a>)</i>. On parle &#233;galement de syst&#232;mes experts. Il existe des algorithmes qui comprennent des structures conditionnelles uniquement (qui d&#233;finissent la d&#233;cision &#224; prendre), sans n&#233;cessit&#233; en amont d&#8217;une mod&#233;lisation math&#233;matique <i>stricto sensu</i>. On peut ainsi citer les arbres d&#233;cisionnels explicites, qui sont des ensembles de n&#339;uds et de branches d&#233;finissant respectivement les conditions &#224; satisfaire et les chemins &#224; prendre selon la r&#233;ponse &#224; la condition ant&#233;rieure. Un arbre d&#233;cisionnel explicite peut, par exemple, &#234;tre utilis&#233; pour l&#8217;estimation des diagnostics, selon la nature et la fr&#233;quence de sympt&#244;mes [<a name="InR6"></a><a href="/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html#R6">6</a>], ou dans l&#8217;&#233;valuation de pronostics en r&#233;ponse &#224; un traitement [<a name="InR7"></a><a href="/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html#R7">7</a>]. Parmi les syst&#232;mes experts connus en recherche m&#233;dicale, on peut citer Mycin, un syst&#232;me expert d&#233;velopp&#233; dans les ann&#233;es 1970 par l&#8217;universit&#233; de Stanford en Californie (&#201;tats-Unis), construit &#224; partir de plus de 600 r&#232;gles explicites et qui permet d&#8217;identifier la bact&#233;rie &#224; l&#8217;origine d&#8217;une infection et d&#8217;optimiser le traitement antibiotique ad&#233;quat. Il existe &#233;galement des IA explicites qui contiennent des mod&#232;les math&#233;matiques, parfois complexes, pour d&#233;crire le probl&#232;me &#224; r&#233;soudre ou la question pos&#233;e [<a name="InR8"></a><a href="/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html#R8">8</a>]. Cette approche a &#233;t&#233; utilis&#233;e, par exemple, dans la compr&#233;hension des m&#233;canismes &#224; l&#8217;origine d&#8217;un traumatisme cr&#226;nien [<a name="InR9"></a><a href="/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html#R9">9</a>], dans la simulation atomistique<sup><a href="/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html#FN5">4</a></sup> de prot&#233;ines constitutives des tissus humains [<a name="InR10"></a><a href="/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html#R10">10</a>], ou dans la simulation du comportement m&#233;canique du tissu constituant le col de l&#8217;ut&#233;rus [<a name="InR11"></a><a href="/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html#R11">11</a>].</p>
+<p>
+<a name="F1"></a><div class="inset"><table><tr>
+<td valign="middle"><a href="/articles/medsci/full_html/2020/10/msc200197/F1.html" target="_blank"><img alt="thumbnail" src="/articles/medsci/full_html/2020/10/msc200197/msc200197-fig1_small.jpg"></a></td>
+<td class="img-txt">
+<a href="/articles/medsci/full_html/2020/10/msc200197/F1.html" target="_blank"><span class="bold">Figure 1.</span></a><p><b><i>Sch&#233;ma illustrant le fonctionnement g&#233;n&#233;ral d&#8217;algorithmes explicites, dont l&#8217;ensemble des hypoth&#232;ses, des crit&#232;res et des &#233;quations sont d&#233;finis explicitement par l&#8217;homme</i></b> (&#169; Cartoonbase).</p>
+</td>
+</tr></table></div>
+</p>
+<p>En plus du choix des &#233;quations math&#233;matiques r&#233;gissant le ph&#233;nom&#232;ne &#224; &#233;tudier, on est souvent conduit &#224; &#233;tablir des hypoth&#232;ses, autant sur le mod&#232;le lui-m&#234;me que sur ses conditions d&#8217;utilisation. Ces hypoth&#232;ses sont souvent le r&#233;sultats d&#8217;une m&#233;connaissance de certains aspects du ph&#233;nom&#232;ne &#224; simuler, &#224; l&#8217;impossibilit&#233; de d&#233;crire tous les cas d&#8217;usage (ou sc&#233;nario), ou &#224; la volont&#233; d&#8217;&#233;largir le contexte d&#8217;application d&#8217;un mod&#232;le pr&#233;-&#233;tabli. Dans le cas des calculs permettant d&#8217;&#233;tudier les m&#233;canismes impliqu&#233;s dans les traumatismes cr&#226;niens, par exemple [<a href="/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html#R9">9</a>], en accord avec des essais r&#233;alis&#233;s <i>in situ</i>, seules les sollicitations volumiques (c&#8217;est-&#224;-dire les pressions exerc&#233;es) dans le cerveau ont &#233;t&#233; consid&#233;r&#233;es. Dans ce cas, les efforts de cisaillements induits sur le cerveau ont &#233;t&#233; &#233;cart&#233;s de l&#8217;analyse. Mais ces hypoth&#232;ses de mod&#232;le et de son utilisation sont &#224; surveiller, car elles peuvent &#224; tout moment &#234;tre identifi&#233;es comme fausses ou trop approximatives. Elles reposent sur des raisonnements qui sont fond&#233;s sur la physique, la biologie, la sociologie ou les math&#233;matiques, qui pr&#233;sentent, dans certains cas, des biais, des failles ou des contradictions.</p>
+<p>L&#8217;IA explicite pr&#233;sente n&#233;anmoins un avantage significatif par rapport aux autres approches, autant d&#8217;un point de vue scientifique, que de par son utilisation. On est en effet dans la capacit&#233; d&#8217;expliquer clairement et pr&#233;cis&#233;ment l&#8217;ensemble des r&#232;gles logiques de ce syst&#232;me d&#8217;IA, dans la mesure o&#249; on le d&#233;crit explicitement. On peut donc &#233;galement d&#233;crire explicitement comment les r&#233;sultats issus de simulations num&#233;riques sont obtenus. Ceci permet d&#8217;&#233;largir son utilisation &#224; des applications et des domaines pour lesquels la l&#233;gislation impose une certaine transparence et un haut niveau d&#8217;<i>explicabilit&#233;</i>, comme les milieux m&#233;dical ou financier. L&#8217;IA explicite pr&#233;sente cependant une forte limitation : elle suppose que l&#8217;on est dans la capacit&#233; de <i>math&#233;matiser</i>, ou, <i>a minima</i>, d&#8217;objectiver, le probl&#232;me &#224; r&#233;soudre. Or, il existe de nombreux cas pour lesquels aucune expression math&#233;matique ne peut &#234;tre d&#233;finie pour expliquer un ph&#233;nom&#232;ne. Par exemple, il est quasiment impossible de d&#233;crire math&#233;matiquement et explicitement, avec une grande fiabilit&#233; syst&#233;matique, la pr&#233;sence d&#8217;une tumeur sur une radiographie. On peut en supposer la taille ainsi que la forme, mais on risque d&#8217;&#233;carter un grand nombre de morphologies tumorales. Dans ce cas pr&#233;cis, on peut utiliser des IA dites <i>implicites</i>, qui ont la particularit&#233; et l&#8217;avantage de ne pas n&#233;cessiter de math&#233;matiser <i>a priori</i> le probl&#232;me &#224; r&#233;soudre mais, au contraire, de d&#233;duire implicitement une logique de r&#233;solution &#224; partir des donn&#233;es observ&#233;es. Alors que dans les IA explicites, on utilise une approche dite <i>model driven</i> (orient&#233;e par le mod&#232;le), dans la mesure o&#249; les mod&#232;les math&#233;matique et num&#233;rique orientent le raisonnement de la simulation, dans les IA implicites il est orient&#233; par la donn&#233;e, on parle dans ce cas d&#8217;approche <i>data driven</i> (orient&#233;e par la donn&#233;e).</p>
+<h2 class="sec">
+<a name="S6"></a>Intelligence artificielle implicite</h2>
+<p>L&#8217;intelligence artificielle <i>implicite</i> regroupe l&#8217;ensemble des syst&#232;mes d&#8217;IA dont la logique est traduite implicitement, par apprentissage &#224; partir de donn&#233;es dites d&#8217;apprentissage <i>(<a href="/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html#F2">Figure 2</a>)</i>. Contrairement aux syst&#232;mes d&#8217;IA explicite, une IA implicite est capable de capturer des m&#233;canismes avec un haut niveau d&#8217;abstraction dans l&#8217;exploitation des donn&#233;es d&#8217;apprentissage, ce qui permet de construire une logique par ailleurs difficilement traduisible explicitement. C&#8217;est ainsi que des IA implicites permettent de reconna&#238;tre une tumeur sur une image m&#233;dicale [<a name="InR12"></a><a href="/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html#R12">12</a>], les signaux faibles d&#8217;un infarctus ou d&#8217;une crise d&#8217;&#233;pilepsie [<a name="InR13"></a><a href="/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html#R13">13</a>]. L&#8217;IA implicite est &#233;galement utilis&#233;e pour l&#8217;analyse s&#233;mantique d&#8217;un texte, l&#8217;identification d&#8217;une entit&#233; pr&#233;cise sur une image, ou la traduction textuelle d&#8217;une conversation orale. L&#8217;apprentissage peut se r&#233;aliser par une simple analyse statistique sur des donn&#233;es : c&#8217;est le cas des IA de cat&#233;gorisation, qui classent implicitement des ensembles de donn&#233;es en fonction de leurs similarit&#233;s. Il peut &#233;galement se r&#233;aliser par construction de r&#233;seaux neuronaux, comme dans le cas de nombreuses IA implicites d&#233;cisionnelles.</p>
+<p>
+<a name="F2"></a><div class="inset"><table><tr>
+<td valign="middle"><a href="/articles/medsci/full_html/2020/10/msc200197/F2.html" target="_blank"><img alt="thumbnail" src="/articles/medsci/full_html/2020/10/msc200197/msc200197-fig2_small.jpg"></a></td>
+<td class="img-txt">
+<a href="/articles/medsci/full_html/2020/10/msc200197/F2.html" target="_blank"><span class="bold">Figure 2.</span></a><p><b><i>Sch&#233;ma illustrant le fonctionnement g&#233;n&#233;ral d&#8217;algorithmes implicites, dont la logique est traduite par un ensemble de crit&#232;res implicitement d&#233;finis &#224; la suite d&#8217;un apprentissage</i></b> (&#169; Cartoonbase).</p>
+</td>
+</tr></table></div>
+</p>
+<p>M&#234;me si les IA implicites ont de nombreux avantages, principalement en raison de leur haut niveau d&#8217;abstraction qui leur permet de r&#233;soudre des probl&#232;mes complexes, elles pr&#233;sentent quelques limitations. Contrairement aux IA explicites, elles pr&#233;sentent un faible niveau d&#8217;<i>explicabilit&#233;</i> et d<i>&#8217;interpr&#233;tabilit&#233;</i>, faisant ainsi r&#233;f&#233;rence &#224; la fameuse &#171; bo&#238;te noire &#187; dans le fonctionnement des outils. De mani&#232;re g&#233;n&#233;rale, un tr&#232;s grand nombre de donn&#233;es sont n&#233;cessaires pour assurer un apprentissage r&#233;aliste et juste. &#201;galement, les IA implicites ne permettent pas de comprendre aussi facilement un ph&#233;nom&#232;ne, et d&#8217;en extraire des m&#233;canismes sous-jacents, que les IA explicites. Lors de la conf&#233;rence internationale sur le <i>machine learning</i>, NeurIPS (<i>neural information processing systems</i>), de 2019, les scientifiques se sont accord&#233;s sur l&#8217;importance de faire cohabiter les deux types d&#8217;IA, implicite et explicite, dans les mod&#232;les num&#233;riques, afin de r&#233;soudre les grands probl&#232;mes de l&#8217;humanit&#233;, tels que ceux concernant les changements climatiques qui n&#233;cessitent une compr&#233;hension fine des ph&#233;nom&#232;nes. On parle alors de mod&#232;les hybrides [<a name="InR14"></a><a href="/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html#R14">14</a>].</p>
+<p>Implicite ou explicite, ces IA fonctionnent par l&#8217;ex&#233;cution d&#8217;algorithmes qui capturent la logique de r&#233;solution du probl&#232;me auquel on s&#8217;int&#233;resse. On parle d&#8217;algorithmes computationnels, en comparaison des algorithmes historiques ou traditionnels, qui, eux, sont destin&#233;s &#224; &#234;tre manipul&#233;s &#224; la main, bien loin de toute intelligence artificielle.</p>
+<h2 class="sec">
+<a name="S7"></a>Les algorithmes</h2>
+<h2 class="sec">
+<a name="S8"></a>Algorithmes traditionnels</h2>
+<p>Un algorithme est, litt&#233;ralement, une s&#233;quence d&#8217;op&#233;rations ou de t&#226;ches &#224; ex&#233;cuter selon une certaine logique pour r&#233;pondre &#224; une question ou r&#233;soudre un probl&#232;me. M&#234;me si les algorithmes aujourd&#8217;hui couramment utilis&#233;s sont ex&#233;cut&#233;s par un ordinateur, leur histoire est en r&#233;alit&#233; bien plus ancienne que la naissance du premier micro-processeur. Le mot algorithme vient du nom latinis&#233;, <i>Algorithmi</i>, du math&#233;maticien perse Muhammad ibn Musa al-Khwarizmi, p&#232;re de l&#8217;alg&#232;bre au <span class="smallcaps">ix</span>
+<sup>e</sup> si&#232;cle de notre &#232;re. Il faut cependant remonter un mill&#233;naire pour observer les d&#233;buts du raisonnement logique &#171; algorithmis&#233; &#187;&#8230; dans les travaux d&#8217;Euclide, vers 300 ans avant notre &#232;re. Dans son &#339;uvre <i>Les &#201;l&#233;ments</i>, Euclide propose en effet un ensemble d&#8217;objets g&#233;om&#233;triques permettant, entre autres, l&#8217;&#233;laboration et la d&#233;monstration de th&#233;or&#232;mes par un raisonnement structur&#233;. Alors que les algorithmes &#233;taient traditionnellement con&#231;us pour &#234;tre utilis&#233;s &#224; la main, ils sont aujourd&#8217;hui compos&#233;s pour &#234;tre programm&#233;s dans un code informatique afin d&#8217;&#234;tre ex&#233;cut&#233;s par un ordinateur. On les appelle <i>algorithmes computationnels</i>.</p>
+<h2 class="sec">
+<a name="S9"></a>Algorithmes computationnels</h2>
+<p>Les algorithmes computationnels, que l&#8217;on appelle aujourd&#8217;hui plus simplement algorithmes, constituent l&#8217;ensemble des processus (en anglais, <i>process</i>) embarqu&#233;s dans les outils num&#233;riques et servant &#224; ex&#233;cuter une s&#233;rie d&#8217;op&#233;rations dans un objectif pr&#233;cis. &#192; l&#8217;instar de la distinction faite pr&#233;c&#233;demment entre IA explicite et IA implicite, on diff&#233;rencie les algorithmes explicites des algorithmes implicites. Alors que les r&#232;gles logiques des algorithmes explicites sont pr&#233;cis&#233;ment d&#233;finies par les concepteurs, la logique des algorithmes implicites proc&#232;de d&#8217;une architecture (qui d&#233;crit les connexions logiques entre les param&#232;tres &#233;tablies pour le mod&#232;le) d&#233;finie par un apprentissage reposant sur des sc&#233;narios r&#233;els. L&#8217;entra&#238;nement s&#8217;emploie ainsi &#224; trouver les relations qui existent entre les variables d&#8217;entr&#233;e (mesur&#233;es) et le r&#233;sultat final souhait&#233;. Comme d&#233;fini pr&#233;c&#233;demment, les algorithmes explicites peuvent &#234;tre d&#233;crits par des syst&#232;mes math&#233;matiques, parfois complexes, et/ou ne contenir que des structures conditionnelles d&#8217;ex&#233;cution d&#8217;op&#233;rations &#8211; <i>si (condition, r&#233;sultat : oui, non) alors</i> &#8211; menant &#224; un r&#233;sultat final.</p>
+<p>Parmi les algorithmes implicites, on recense, entre autres, les algorithmes d&#8217;apprentissage statistique (comme les algorithmes de cat&#233;gorisation) et les algorithmes d&#8217;apprentissage par r&#233;seau neuronal. Les premiers, algorithmes de cat&#233;gorisation, organisent implicitement, par un calcul d&#8217;optimisation, un ensemble de donn&#233;es, en fonction des valeurs qu&#8217;elles prennent, selon des classes statistiquement repr&#233;sentatives. Chaque classe d&#233;finie repr&#233;sentera alors un comportement statistique pr&#233;cis : les individus d&#8217;une m&#234;me classe poss&#232;deront donc des mesures statistiques (moyenne, covariance, etc.) &#233;tablies sur des grandeurs (physiques, m&#233;dicales, ou sociologiques, par exemple) qui seront similaires. Cette classification permet de comprendre davantage les donn&#233;es caract&#233;ristiques d&#8217;un ph&#233;nom&#232;ne, en extrayant les donn&#233;es statistiques qui ne seront pas intuitivement analysables, mais qui donneront n&#233;anmoins une information qui peut &#234;tre pertinente. Cette technique a &#233;t&#233; utilis&#233;e pour classer les patients souffrant de la maladie d&#8217;Alzheimer, selon leurs similitudes ph&#233;notypiques, afin, entre autres, de personnaliser leur traitement [<a name="InR15"></a><a href="/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html#R15">15</a>]. M&#234;me si des caract&#233;ristiques d&#233;finissant la maladie ont &#233;t&#233; reconnues consensuellement par la communaut&#233; m&#233;dicale, une classification statistique permet de mettre en &#233;vidence implicitement des corr&#233;lations entre sympt&#244;mes, ou encore entre profils ph&#233;notypiques des patients. Les algorithmes de cat&#233;gorisation implicite, comme la m&#233;thode des <i>k-means</i>
+<sup><a href="/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html#FN6">5</a></sup>, sont &#233;galement utilis&#233;s pour pr&#233;-segmenter des images m&#233;dicales, telles que celles provenant d&#8217;IRM c&#233;r&#233;brales, en s&#233;parant les diff&#233;rents milieux (cavit&#233;s, muscles, cerveau, etc.) afin de faciliter la segmentation qui sera finalement r&#233;alis&#233;e [<a name="InR16"></a><a href="/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html#R16">16</a>]. L&#8217;algorithme identifie sur les images d&#8217;IRM, apr&#232;s optimisation, chaque ensemble tissulaire (les yeux, le cerveau, l&#8217;os cr&#226;nien, etc.). Chacun &#233;tant d&#233;fini par une ou plusieurs nuances de gris sp&#233;cifiques incluant ses contours et son centre. Les op&#233;rations classiques de l&#8217;analyse d&#8217;image, comme le <i>watershed</i><sup><a href="/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html#FN7">6</a></sup>, sont ensuite appliqu&#233;es sur cette partition spatiale de l&#8217;image, ce qui facilite et am&#233;liore la segmentation finalement obtenue.</p>
+<p>Il existe &#233;galement des algorithmes d&#233;cisionnels d&#8217;apprentissage qui fonctionnent sur un r&#233;seau neuronal construit sur des donn&#233;es repr&#233;sentant diff&#233;rents sc&#233;narios pour lesquels les d&#233;cisions r&#233;sultantes sont connues.</p>
+<p>Le r&#233;seau neuronal se construit &#224; partir d&#8217;un calcul d&#8217;optimisation des poids statistiques des n&#339;uds du r&#233;seau qui dessine la logique de r&#233;solution du probl&#232;me ou de la question auxquelles l&#8217;algorithme apportera une solution. Ces algorithmes &#171; apprennent &#187;, &#224; partir de donn&#233;es d&#8217;apprentissage dites labellis&#233;es (ou &#233;tiquet&#233;es) (voir plus loin) : on parle alors d&#8217;apprentissage supervis&#233; (ou contr&#244;l&#233;). Des algorithmes d&#8217;apprentissage profond, con&#231;us il y a trente ans [<a name="InR17"></a><a href="/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html#R17">17</a>], aussi appel&#233;s algorithmes de <i>deep learning</i>
+<sup><a href="/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html#FN8">7</a></sup> [<a name="InR18"></a><a href="/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html#R18">18</a>, <a name="InR19"></a><a href="/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html#R19">19</a>], et qui pr&#233;sentent plusieurs couches de neurones, sont aujourd&#8217;hui largement utilis&#233;s. Ils permettent d&#8217;augmenter le niveau d&#8217;abstraction des donn&#233;es et donc la complexit&#233; de la logique implicite.</p>
+<p>Parmi ces algorithmes computationnels implicites, on trouve des algorithmes du langage, de l&#8217;analyse s&#233;mantique, ou de la vision par ordinateur (commun&#233;ment d&#233;fini par le terme anglais <i>computer vision</i>). En m&#233;decine, ces algorithmes implicites d&#8217;apprentissage sont utilis&#233;s dans la conception de nouveaux m&#233;dicaments [<a name="InR20"></a><a href="/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html#R20">20</a>], pour diff&#233;rencier les types de cancers dermatologiques [<a name="InR21"></a><a href="/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html#R21">21</a>], identifier et confirmer un diagnostic [<a name="InR22"></a><a href="/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html#R22">22</a>], ou pour la d&#233;tection de tumeurs sur des radiographies.</p>
+<p>Dans de nombreux cas d&#8217;apprentissage, l&#8217;acc&#232;s aux donn&#233;es est limit&#233; ou leur <i>labellisation</i>
+<sup><a href="/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html#FN9">8</a></sup> est difficile &#224; r&#233;aliser en raison du temps n&#233;cessaire pour cette &#233;tape et de sa complexit&#233;. Pour surmonter cet obstacle, un apprentissage par transfert peut &#234;tre r&#233;alis&#233;. Il s&#8217;articule selon deux &#233;tapes. Dans un premier temps, on pr&#233;-entra&#238;ne un mod&#232;le sur un large jeu de donn&#233;es de r&#233;f&#233;rence &#233;tiquet&#233;es pour un probl&#232;me plus g&#233;n&#233;ral que celui initialement d&#233;fini. Puis, dans un second temps, on r&#233;alise un apprentissage, dit fin, sur le mod&#232;le qui a &#233;t&#233; pr&#233;-entra&#238;n&#233;, en utilisant le jeu de donn&#233;es disponible et limit&#233; en taille, sp&#233;cifiquement choisi pour r&#233;soudre le probl&#232;me pos&#233;. Une telle approche a &#233;t&#233; utilis&#233;e dans l&#8217;interpr&#233;tation d&#8217;images de radiographies thoraciques [<a name="InR23"></a><a href="/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html#R23">23</a>], dans le diagnostic de r&#233;tinopathie diab&#233;tique, sur des examens de fond d&#8217;&#339;il [<a name="InR24"></a><a href="/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html#R24">24</a>], ou dans le diagnostic de la maladie d&#8217;Alzheimer, &#224; partir d&#8217;images de tomographie du cerveau [<a name="InR25"></a><a href="/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html#R25">25</a>]. Dans le cas de grands &#233;chantillons de donn&#233;es, mais qui restent difficile &#224; &#233;tiqueter, des m&#233;thodes d&#8217;apprentissage, dites semi-supervis&#233;es, sont &#233;galement utilis&#233;es. Dans ce cas, l&#8217;entra&#238;nement est r&#233;alis&#233; sur des donn&#233;es faiblement labellis&#233;es, ou sans labels, selon des contraintes explicitement d&#233;finies par le r&#233;sultat obtenu. Une telle m&#233;thode a fait ses preuves dans la segmentation d&#8217;images provenant d&#8217;IRM c&#233;r&#233;brales [<a name="InR26"></a><a href="/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html#R26">26</a>], ou dans la d&#233;tection de l&#233;sions vasculaires, sur des images de tomodensitom&#233;trie [<a name="InR27"></a><a href="/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html#R27">27</a>].</p>
+<p>Les limites et le potentiel des algorithmes explicites ou implicites r&#233;sident, entre autres, dans le type, la taille et la diversit&#233; des donn&#233;es utilis&#233;es. Comprendre ce que sont ces donn&#233;es (ou <i>data</i>), comment les distinguer, et quels traitements leur appliquer, est fondamental pour envisager les futures avanc&#233;es et le choix des techniques d&#8217;IA selon les applications.</p>
+<h2 class="sec">
+<a name="S10"></a>Les data</h2>
+<p>Le terme <i>data</i> regroupe l&#8217;ensemble des donn&#233;es, que l&#8217;on appelle plus largement informations, sous la forme, par exemple, de chiffres, de graphiques, de photos, de bandes-son ou de textes. La nature (sa forme) et la source (son origine et le moyen de sa collecte) caract&#233;risent cette <i>data</i> qui est tr&#232;s souvent trait&#233;e apr&#232;s avoir &#233;t&#233; extraite sous forme de donn&#233;es dites brutes. Cette donn&#233;e brute est donc ensuite <i>nettoy&#233;e</i> afin d&#8217;&#233;liminer le bruit (la perturbation) et <i>format&#233;e</i> pour en extraire les informations pertinentes pour l&#8217;analyse. Tr&#232;s souvent, la <i>data</i> brute collect&#233;e n&#8217;est pas structur&#233;e lors de sa collecte et elle n&#233;cessite un certain formatage afin de pouvoir &#234;tre exploit&#233;e.</p>
+<h2 class="sec">
+<a name="S11"></a>Data structur&#233;e versus non structur&#233;e</h2>
+<p>La <i>data</i> non structur&#233;e repr&#233;sente l&#8217;ensemble des donn&#233;es brutes obtenues apr&#232;s qu&#8217;elles aient &#233;t&#233; collect&#233;es <i>(<a href="/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html#F3">Figure 3</a>)</i>. Un questionnaire rempli par un patient avant une visite m&#233;dicale constitue, par exemple, une donn&#233;e brute non structur&#233;e. On pourrait citer &#233;galement un &#233;lectrocardiogramme, une image d&#8217;&#233;chographie ou un bilan sanguin. Sous cette forme, la <i>data</i> est inexploitable <i>stricto sensu</i> par un algorithme de calcul. Il est donc n&#233;cessaire de structurer les informations recueillies que cette <i>data</i> contient pour obtenir une organisation, possiblement hi&#233;rarchis&#233;e, des valeurs qui lui sont associ&#233;es. Dans le cas du questionnaire du patient, des champs d&#233;crivant la <i>data</i> &#171; patient &#187;, qu&#8217;on appelle aussi <i>m&#233;tadata</i>, comme l&#8217;&#226;ge, le genre, les ant&#233;c&#233;dents chirurgicaux, les traitements m&#233;dicamenteux, la situation familiale, ou la date du dernier bilan m&#233;dical, sont extraits. Cette structuration peut &#234;tre r&#233;alis&#233;e automatiquement, comme dans le cas d&#8217;un bilan sanguin &#224; partir d&#8217;un document au format PDF dont on extrait (par un algorithme) les valeurs associ&#233;es &#224; chaque champ qui sont pr&#233;cis&#233;ment localis&#233;s dans le document. La donn&#233;e structur&#233;e est donc une donn&#233;e &#224; laquelle est associ&#233; un ensemble de m&#233;tadonn&#233;es <i>(<a href="/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html#F3">Figure 3</a>)</i>.</p>
+<p>
+<a name="F3"></a><div class="inset"><table><tr>
+<td valign="middle"><a href="/articles/medsci/full_html/2020/10/msc200197/F3.html" target="_blank"><img alt="thumbnail" src="/articles/medsci/full_html/2020/10/msc200197/msc200197-fig3_small.jpg"></a></td>
+<td class="img-txt">
+<a href="/articles/medsci/full_html/2020/10/msc200197/F3.html" target="_blank"><span class="bold">Figure 3.</span></a><p><b><i>Sch&#233;ma illustrant les diff&#233;rences entre une data non structur&#233;e brute et une data structur&#233;e format&#233;e</i></b> (&#169; Cartoonbase).</p>
+</td>
+</tr></table></div>
+</p>
+<h2 class="sec">
+<a name="S12"></a>Data de calibration versus data d&#8217;apprentissage</h2>
+<p>On distingue &#233;galement les <i>data</i> de calibration et les <i>data</i> d&#8217;apprentissage <i>(<a href="/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html#F4">Figure 4</a>)</i>. Dans le cas d&#8217;un algorithme explicite, de nombreux param&#232;tres, rattach&#233;s &#224; la mod&#233;lisation math&#233;matique du ph&#233;nom&#232;ne &#224; simuler, sont &#224; identifier. Pour cela, on calcule la valeur des constantes du mod&#232;le, contenues dans l&#8217;algorithme, en confrontant les r&#233;sultats issus de la simulation &#224; la valeur des donn&#233;es obtenues &#224; partir de mesures r&#233;alis&#233;es <i>in situ</i> ou d&#8217;exp&#233;rimentations concr&#232;tement r&#233;alis&#233;es. On parle alors de calibration algorithmique et de donn&#233;es de calibration identifi&#233;es par un calcul d&#8217;optimisation. La taille et la nature des donn&#233;es utilis&#233;es pour cette &#233;tape doivent &#234;tre choisies de telle sorte que l&#8217;&#233;chantillon de calibration soit repr&#233;sentatif. Dans le cas contraire, les param&#232;tres identifi&#233;s et l&#8217;algorithme qui y est associ&#233;, peuvent pr&#233;senter des biais. L&#8217;algorithme risque ainsi de ne fonctionner que pour une partie des sc&#233;narios possibles.</p>
+<p>
+<a name="F4"></a><div class="inset"><table><tr>
+<td valign="middle"><a href="/articles/medsci/full_html/2020/10/msc200197/F4.html" target="_blank"><img alt="thumbnail" src="/articles/medsci/full_html/2020/10/msc200197/msc200197-fig4_small.jpg"></a></td>
+<td class="img-txt">
+<a href="/articles/medsci/full_html/2020/10/msc200197/F4.html" target="_blank"><span class="bold">Figure 4.</span></a><p><b><i>Sch&#233;ma illustrant la diff&#233;rence entre la data de calibration utilis&#233;e pour param&#233;trer un algorithme explicite, et la data d&#8217;apprentissage utilis&#233;e pour entra&#238;ner un algorithme implicite</i></b> (&#169; Cartoonbase).</p>
+</td>
+</tr></table></div>
+</p>
+<p>Dans le cas des algorithmes implicites, les r&#232;gles logiques sont d&#233;finies implicitement par apprentissage sur des donn&#233;es dites d&#8217;apprentissage. La repr&#233;sentativit&#233; des donn&#233;es d&#8217;apprentissage est encore plus sensible car elle touche le fonctionnement logique de l&#8217;algorithme qui poss&#232;de un plus haut niveau d&#8217;abstraction, ce qui induit un risque de biais plus pervasif<sup><a href="/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html#FN10">9</a></sup>. Les donn&#233;es d&#8217;apprentissage sont &#233;tiquet&#233;es pour permettre &#224; l&#8217;algorithme de dessiner une logique implicite &#224; partir de la construction du r&#233;seau neuronal. Cette labellisation de pr&#233;-apprentissage consiste, en particulier, &#224; d&#233;finir les valeurs des m&#233;tadata, ainsi que d&#8217;autre valeurs, qui d&#233;finissent le r&#233;sultat recherch&#233; par l&#8217;algorithme. Dans le cas d&#8217;un apprentissage &#224; partir de r&#233;sultats biologiques afin d&#8217;&#233;tablir un diagnostic, par exemple, un &#233;chantillon repr&#233;sentatif de r&#233;sultats d&#233;j&#224; diagnostiqu&#233;s et pour lequel une liste de m&#233;tadata est associ&#233;e, incluant les m&#233;tadata du patient (telles que l&#8217;&#226;ge, le genre, ou les ant&#233;c&#233;dents m&#233;dicaux), est consid&#233;r&#233;. &#192; chaque <i>data</i> de cet &#233;chantillon est &#233;galement rattach&#233; le diagnostic, afin de contr&#244;ler le bon apprentissage de l&#8217;algorithme, qui apprendra donc des diff&#233;rents sc&#233;narios qui auront &#233;t&#233; mis &#224; sa disposition. Aujourd&#8217;hui, de nombreux travaux s&#8217;int&#233;ressent au d&#233;veloppement de nouvelles techniques d&#8217;apprentissage, dites non supervis&#233;es, qui permettraient de faire apprendre un algorithme &#224; partir de donn&#233;es non labellis&#233;es [<a name="InR28"></a><a href="/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html#R28">28</a>]. Des m&#233;thodes semi-supervis&#233;es, combinant <i>data</i> labellis&#233;es et non labellis&#233;es au sein des donn&#233;es d&#8217;apprentissage, sont &#233;galement utilis&#233;es.</p>
+<h2 class="sec">
+<a name="S13"></a>Enjeux de l&#8217;intelligence artificielle en m&#233;decine</h2>
+<h2 class="sec">
+<a name="S14"></a>D&#233;mat&#233;rialisation des donn&#233;es de sant&#233;</h2>
+<p>En intelligence artificielle, et en particulier pour les algorithmes implicites, de grandes quantit&#233;s de <i>data</i> sont n&#233;cessaires pour la phase d&#8217;entra&#238;nement. En effet, taille et diversit&#233; des donn&#233;es d&#8217;apprentissage permettent d&#8217;extraire l&#8217;ensemble des corr&#233;lations et des sch&#233;mas r&#233;p&#233;titifs et repr&#233;sentatifs pr&#233;sent dans les sc&#233;narios du probl&#232;me &#224; r&#233;soudre. En m&#233;decine, comme dans d&#8217;autres disciplines, la premi&#232;re &#233;tape consiste &#224; num&#233;riser l&#8217;ensemble des informations pouvant &#234;tre utilis&#233;es dans les mod&#232;les d&#8217;IA. Que ce soient des ant&#233;c&#233;dents m&#233;dicaux, des prescriptions de m&#233;dicaments, ou des r&#233;sultats d&#8217;examens, ces informations doivent &#234;tre d&#233;mat&#233;rialis&#233;es, puis &#233;ventuellement structur&#233;es pour pouvoir &#234;tre exploit&#233;es par un algorithme. En 2019, la France a d&#233;ploy&#233; l&#8217;ordonnance &#233;lectronique avec plusieurs objectifs, dont le suivi num&#233;ris&#233; des informations concernant les noms des m&#233;dicaments, la prise de g&#233;n&#233;riques, l&#8217;observance du traitement, la gestion de maladies chroniques, et une meilleure communication entre le m&#233;decin et le pharmacien. Pour une compl&#232;te d&#233;mat&#233;rialisation des donn&#233;es de sant&#233;, &#224; la num&#233;risation des informations m&#233;dicales, doit s&#8217;ajouter la mise en commun et le partage &#233;thique et responsable de ces donn&#233;es. M&#234;me si depuis 2018, le dossier num&#233;rique m&#233;dical partag&#233; est g&#233;n&#233;ralis&#233; en France, un effort est encore &#224; op&#233;rer pour le partage, encore une fois responsable et probablement anonymis&#233;, des donn&#233;es de sant&#233; au sein de l&#8217;Union europ&#233;enne, pour affiner et rendre plus efficaces les mod&#232;les d&#8217;apprentissage.</p>
+<h2 class="sec">
+<a name="S15"></a>Respect de la vie priv&#233;e et des donn&#233;es personnelles</h2>
+<p>Le corps m&#233;dical est, par sa formation et le principe du secret m&#233;dical, respectueux de la vie priv&#233;e des patients et de leurs donn&#233;es de sant&#233;. Le texte europ&#233;en de protection des donn&#233;es personnelles (RGPD) impose, depuis 2018, des r&#232;gles strictes pour la collecte, le traitement, le stockage et l&#8217;effacement de ces donn&#233;es. Dans ce texte, les donn&#233;es m&#233;dicales entrent dans le cadre des donn&#233;es dites &#171; sensibles &#187;. Des enjeux concernent la protection contre leur collecte et leur utilisation malveillantes avec, entre autres, l&#8217;utilisation et l&#8217;am&#233;lioration des techniques de cryptage et d&#8217;anonymisation. La confidentialit&#233; diff&#233;rentielle consiste ainsi &#224; bruiter les donn&#233;es et les mod&#232;les, afin de brouiller le signal pour anonymiser les donn&#233;es du patient, sans en alt&#233;rer la qualit&#233; et la pr&#233;cision, et donc l&#8217;apprentissage algorithmique qui en r&#233;sulte.</p>
+<h2 class="sec">
+<a name="S16"></a>Explicabilit&#233;, interpr&#233;tabilit&#233; et transparence des algorithmes</h2>
+<p>L&#8217;&#233;mergence des mod&#232;les d&#8217;IA implicites par apprentissage diminue, par d&#233;finition, leur niveau d&#8217;<i>explicabilit&#233;</i>, faisant r&#233;f&#233;rence &#224; la fameuse &#171; boite noire &#187;. En m&#233;decine, il est fondamental de pouvoir expliquer <i>a minima</i> la logique de l&#8217;algorithme d&#233;cisionnel utilis&#233;. Ceci permet de garantir une certaine transparence afin d&#8217;assurer une compr&#233;hension de la part du m&#233;decin et du patient, de pouvoir contredire, en connaissance de cause, le r&#233;sultat donn&#233; par l&#8217;algorithme, ou d&#8217;analyser les causes d&#8217;une erreur m&#233;dicale et d&#8217;en d&#233;finir, le cas &#233;ch&#233;ant, les responsabilit&#233;s. Plusieurs facteurs contextuels aident &#224; d&#233;terminer le degr&#233; d&#8217;<i>explicabilit&#233;</i> appropri&#233; [<a name="InR29"></a><a href="/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html#R29">29</a>] : le(s) destinataire(s) de l&#8217;explication (m&#233;decin, patient, autorit&#233;s de sant&#233;, etc.) ; l&#8217;impact du mod&#232;le d&#8217;IA et les possibles dangers de dysfonctionnement du mod&#232;le ; ou la conformit&#233; &#224; la r&#233;glementation. On distingue les m&#233;thodes d&#8217;<i>explicabilit&#233;</i> globales et les m&#233;thodes dites locales. Dans les m&#233;thodes globales, on cherche &#224; d&#233;finir le fonctionnement global de l&#8217;algorithme implicite et la mani&#232;re dont il apprend &#224; partir des donn&#233;es d&#8217;entr&#233;e. On examine, en particulier, les m&#233;tadata qui sont les plus influentes sur la suggestion algorithmique. Dans les m&#233;thodes locales, on analyse une donn&#233;e en particulier, ou un sous-ensemble de donn&#233;es d&#8217;apprentissage, comme un dossier m&#233;dical ou une image de radiologie. On utilise &#233;galement une approche de raisonnement contrefactuel pour tester la logique de l&#8217;algorithme. En pratique, on &#233;tudie l&#8217;impact du changement de la valeur d&#8217;une m&#233;tadata sur la d&#233;cision finale sugg&#233;r&#233;e par l&#8217;algorithme. On peut &#233;galement utiliser une m&#233;thode inverse, afin d&#8217;analyser les modification &#224; op&#233;rer sur les m&#233;tadata pour obtenir un r&#233;sultat algorithmique particulier.</p>
+<h2 class="sec">
+<a name="S17"></a>Inclusion, &#233;galit&#233; et &#233;quit&#233; au sein des algorithmes</h2>
+<p>Les mod&#232;les d&#8217;IA implicite et explicite pr&#233;sentent des risques variables de discrimination technologique<sup><a href="/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html#FN11">10</a></sup>, en raison de la pr&#233;sence de biais algorithmique(s). Ces biais proviennent des crit&#232;res explicites de l&#8217;algorithme, des donn&#233;es de calibration, dans le cas d&#8217;algorithmes explicites, ou des donn&#233;es d&#8217;apprentissage, dans le cas d&#8217;algorithmes implicites. Cette discrimination se traduit par un traitement diff&#233;rent et parfois mauvais des utilisateurs ou des personnes &#224; l&#8217;origine des donn&#233;es trait&#233;es. Dans le cadre de l&#8217;apprentissage algorithmique, on risque &#233;galement de transformer une certaine repr&#233;sentativit&#233; statistique en une condition syst&#233;matique, qui est par d&#233;finition injustifi&#233;e pour une minorit&#233;. C&#8217;est le cas, par exemple, aux &#201;tats-Unis [<a name="InR30"></a><a href="/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html#R30">30</a>], d&#8217;un algorithme d&#8217;&#233;valuation du co&#251;t d&#8217;une couverture maladie qui, entra&#238;n&#233; sur les prix des assurances de la population, a consid&#233;r&#233; un surco&#251;t suppl&#233;mentaire syst&#233;matique pour une personne noire, s&#8217;appuyant sur les co&#251;ts moyens plus importants observ&#233;s dans ces populations. Les principes d&#8217;&#233;galit&#233; et d&#8217;&#233;quit&#233;, importants chez les m&#233;decins sont un enjeu en IA et doivent &#234;tre garantis selon diff&#233;rentes m&#233;thodes, incluant une co-conception algorithmique par les scientifiques et les m&#233;decins, des tests d&#8217;&#233;chantillonnage sur les donn&#233;es de calibration ou d&#8217;apprentissage, ou des tests sur l&#8217;apprentissage lui-m&#234;me en entra&#238;nant l&#8217;algorithme sur des donn&#233;es synth&#233;tiques diff&#233;rentes des donn&#233;es d&#8217;origine.</p>
+<h2 class="sec">
+<a name="S18"></a>Reproductibilit&#233; du comportement algorithmique</h2>
+<p>Reproduire le comportement d&#8217;un mod&#232;le permet de garantir la robustesse de l&#8217;outil afin de r&#233;aliser des tests r&#233;guliers ou encore de rechercher les causes d&#8217;une r&#233;ponse erron&#233;e. La robustesse se caract&#233;rise entre autres par la capacit&#233; de l&#8217;algorithme &#224; reproduire dans le temps des r&#233;sultats pour un jeu de donn&#233;es d&#8217;entr&#233;e identique, et &#224; ne pas modifier sa r&#233;ponse pour une variation l&#233;g&#232;re de ce jeu de donn&#233;es. Dans les techniques d&#8217;apprentissage, le risque de ne pas pouvoir reproduire exactement le comportement algorithmique existe en raison de diff&#233;rences de donn&#233;es d&#8217;apprentissage, par exemple, ce qui est &#233;galement symptomatique d&#8217;un apprentissage approximatif, voire faux. Parmi les articles de recherche sur l&#8217;IA appliqu&#233;e &#224; la m&#233;decine, seuls 19 % utilisent plusieurs jeux de donn&#233;es pour estimer la performance de leurs syst&#232;mes d&#8217;IA (ils sont 83 % pour les articles portant sur l&#8217;IA appliqu&#233;e &#224; la vision assist&#233;e par ordinateur et 66 % pour ceux portant sur l&#8217;IA appliqu&#233;e &#224; l&#8217;analyse du langage naturel) [<a name="InR31"></a><a href="/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html#R31">31</a>]. Les moyens mis en &#339;uvre pour garantir la reproductibilit&#233; des syst&#232;mes d&#8217;IA en m&#233;decine repr&#233;sentent un enjeu pour le d&#233;ploiement &#224; grande &#233;chelle d&#8217;outils mais aussi pour le d&#233;veloppement de la confiance du corps m&#233;dical dans l&#8217;adoption de ces syst&#232;mes.</p>
+<h2 class="sec">
+<a name="S19"></a>Conclusion</h2>
+<p>L&#8217;IA intervient dans pratiquement tous les domaines d&#8217;application de la m&#233;decine : de la recherche fondamentale et clinique [<a href="/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html#R33">33</a>] (<b>&#8594;</b>) &#224; la pratique hospitali&#232;re, aux examens m&#233;dicaux, aux soins et &#224; la logistique. Les avantages pour la m&#233;decine sont nombreux, comme l&#8217;am&#233;lioration de la pr&#233;cision des diagnostics et des pronostics, une m&#233;decine encore plus personnalis&#233;e et cibl&#233;e, des avanc&#233;es dans les technologies d&#8217;observations et d&#8217;analyses, la d&#233;mocratisation d&#8217;une m&#233;decine de qualit&#233; au niveau mondial, ou le d&#233;veloppement d&#8217;outils chirurgicaux et autres robots d&#8217;assistance. Les m&#233;decins sont, par leur formation &#224; l&#8217;&#233;thique et leur multidisciplinarit&#233;, les plus &#224; m&#234;me de comprendre les enjeux de l&#8217;IA dans leur domaine et de (r&#233;)agir, et &#233;ventuellement de participer &#224; la construction de mod&#232;les et d&#8217;outils avec les scientifiques et les ing&#233;nieurs. Les d&#233;fis sont technologiques et scientifiques mais &#233;galement humains, avec le d&#233;veloppement d&#8217;enseignements de l&#8217;IA pour le corps m&#233;dical<sup><a href="/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html#FN12">11</a></sup>. Cela permettrait aux m&#233;decins d&#8217;utiliser les syst&#232;mes d&#8217;IA de mani&#232;re &#233;clair&#233;e afin de compl&#233;ter, d&#233;fier, voire contredire, les r&#233;sultats fournis par la <i>Machine</i>.</p>
+<p><b>(&#8594;) Voir le Rep&#232;res de C. Matuchansky, <i>m/s</i> n&#176; 10, octobre 2019, page 7</b></p>
+<h2 class="sec">
+<a name="S20"></a>Liens d&#8217;int&#233;r&#234;t</h2>
+<p>
+<i>L&#8217;auteure d&#233;clare n&#8217;avoir aucun lien d&#8217;int&#233;r&#234;t concernant les donn&#233;es publi&#233;es dans cet article.</i>
+</p>
+<h2 class="sec">
+<a name="glossary"></a>Glossaire</h2>
+<p><p class="bold">Glossaire</p><p><a name=""></a>
+<b>Intelligence &#233;motionnelle :</b> : l&#8217;intelligence &#233;motionnelle d&#8217;une personne se r&#233;f&#232;re &#224; l&#8217;identification et &#224; la ma&#238;trise de ses propres &#233;motions et de celles des personnes avec lesquelles elle interagit. Ce concept, introduit par les psychologues Peter Salovey et John Mayer, a &#233;t&#233; largement d&#233;ploy&#233; par le psychologue am&#233;ricain Daniel Goleman dans les ann&#233;es 1990.
+</p><p><a name=""></a>
+<b>Intelligence analytique :</b> : l&#8217;intelligence analytique d&#8217;une personne se r&#233;f&#232;re &#224; sa capacit&#233; &#224; traiter l&#8217;information qu&#8217;elle re&#231;oit et &#224; r&#233;soudre des probl&#232;mes. Elle est souvent pr&#233;sent&#233;e comme compl&#233;mentaire aux deux autres intelligences du mod&#232;le triarchique de Robert Sternberg, l&#8217;intelligence cr&#233;ative et l&#8217;intelligence pratique.
+</p><p><a name=""></a>
+<b>Intelligence de situation :</b> : l&#8217;intelligence de situation d&#8217;une personne se r&#233;f&#232;re &#224; la combinaison des deux des trois intelligences du mod&#232;le triarchique de Robert Sternberg : l&#8217;intelligence cr&#233;ative et l&#8217;intelligence pratique. Elle d&#233;crit la capacit&#233; d&#8217;une personne &#224; s&#8217;adapter &#224; son environnement, r&#233;soudre un probl&#232;me dans un contexte nouveau, avec un certain pragmatisme mais aussi avec une originalit&#233; dans son approche et sa r&#233;flexion.
+</p><p><a name=""></a>
+<b>Intelligence artificielle :</b> : l&#8217;intelligence artificielle se r&#233;f&#232;re &#224; une discipline qui consiste &#224; reproduire par la simulation num&#233;rique sur un ordinateur les intelligences humaines.
+</p><p><a name=""></a>
+<b>Intelligence g&#233;n&#233;rale :</b> : l&#8217;intelligence g&#233;n&#233;rale se r&#233;f&#232;re &#224; un syst&#232;me d&#8217;intelligence artificielle capable de reproduire l&#8217;ensemble des capacit&#233;s cognitives d&#8217;un &#234;tre humain, et qui constitue l&#8217;ensemble des intelligences : analytique, &#233;motionnelle et de situation.
+</p><p><a name=""></a>
+<b>Conscience :</b> : en psychologie, la conscience d&#8217;un individu traduit le ph&#233;nom&#232;ne d&#8217;identification par lui-m&#234;me de sa place dans le monde qui l&#8217;entoure, et de ses interactions avec celui-ci.
+</p><p><a name=""></a>
+<b>Point de singularit&#233; technologique :</b> : le point de singularit&#233; technologique se r&#233;f&#232;re &#224; une th&#233;orie hypoth&#233;tique qui stipule l&#8217;existence m&#234;me lointaine d&#8217;un point de basculement dans le futur &#224; partir duquel les machines ma&#238;triseraient l&#8217;intelligence g&#233;n&#233;rale et aurait la conscience d&#8217;exister.
+</p></p>
+<hr width="30%" align="left">
+<div><div>
+<a name="FN2"></a><sup>1</sup> <p class="ligne">L&#8217;&#171; explicabilite&#769; &#187; est un principe de la re&#769;gulation des algorithmes. Elle figure dans les recommandations que l&#8217;Organisation de coop&#233;ration et de d&#233;veloppement &#233;conomiques (OCDE) a adopte&#769;es.</p>
+</div></div>
+<div><div>
+<a name="FN3"></a><sup>2</sup> <p class="ligne">Interview accord&#233;e au <i>MIT Technology Review</i> en 2016 : <i>Will Machines Eliminate Us</i>?</p>
+</div></div>
+<div><div>
+<a name="FN4"></a><sup>3</sup> <p class="ligne">Citation de 2019 de Antoine Bordes, directeur de recherche chez Facebook.</p>
+</div></div>
+<div><div>
+<a name="FN5"></a><sup>4</sup> <p class="ligne">Simulation num&#233;rique d&#8217;arrangements mol&#233;culaires pour identifier une dynamique et des fonctions optimales, ou encore comprendre le comportement &#233;lectronique et m&#233;canique d&#8217;un mat&#233;riau par exemple.</p>
+</div></div>
+<div><div>
+<a name="FN6"></a><sup>5</sup> <p class="ligne">La m&#233;thode des <i>k-means</i> appartient aux algorithmes de classification non supervis&#233;e (les groupes n&#8217;existent pas avant d&#8217;&#234;tre cr&#233;&#233;s). Les objets (sujets, sites, points, etc.) appartiennent &#224; un seul groupe, chaque groupe &#233;tant diff&#233;rent et ne se chevauche pas.</p>
+</div></div>
+<div><div>
+<a name="FN7"></a><sup>6</sup> <p class="ligne">Se r&#233;f&#232;re &#224; la ligne de partage des eaux : processus de d&#233;limitation des contours.</p>
+</div></div>
+<div><div>
+<a name="FN8"></a><sup>7</sup> <p class="ligne">Apprentissage profond.</p>
+</div></div>
+<div><div>
+<a name="FN9"></a><sup>8</sup> <p class="ligne">Annotation, &#233;tiquetage.</p>
+</div></div>
+<div><div>
+<a name="FN10"></a><sup>9</sup> <p class="ligne">Pervasif : enfoui, cach&#233;.</p>
+</div></div>
+<div><div>
+<a name="FN11"></a><sup>10</sup> <p class="ligne">Traitement diff&#233;rent jug&#233; comme injuste, d&#251; en particulier &#224; une non consid&#233;ration de certaines populations d&#8217;individus, provenant de l&#8217;usage d&#8217;une technologie num&#233;rique.</p>
+</div></div>
+<div><div>
+<a name="FN12"></a><sup>11</sup> <p class="ligne">Comme le dipl&#244;me universitaire (DU) &#171; Intelligence artificielle appliqu&#233;e en sant&#233; &#187; qui a &#233;t&#233; ouvert en 2020 &#224; l&#8217;universit&#233; Paris-Descartes.</p>
+</div></div>
+<h2 class="sec">
+<a name="ref"></a>R&#233;f&#233;rences</h2>
+    <div id="content">
+        <ol class="references">
+                    <li>
+                <a name="R1"></a>Turing A.. Computing machinery and intelligence. Mind 1950 ; 49 : 433–460.
+
+                
+		                		
+                
+                                    <a href="https://scholar.google.com/scholar_lookup?title=Computing+machinery+and+intelligence&author=Turing+A.&journal=Mind&volume=49&pages=433-460&publication_year=1950">[Google&nbsp;Scholar]</a>
+                
+                
+                 <span class="Z3988" title="">
+                                    </span>
+
+                
+                            </li>
+                    <li>
+                <a name="R2"></a>Costabala FS, Yaob J, Kuhla E. Predicting the cardiac toxicity of drugs using a novel multiscale exposure-response simulator. Computer Methods Biomechanics Biomedical Engineering 2018 ; 21 : 232–246.
+
+                
+		                                                            <a target="link_edps" href="https://doi.org/10.1080/10255842.2018.1439479">
+                                                    [CrossRef]
+                                                </a>
+                                    		
+                
+                                    <a href="https://scholar.google.com/scholar_lookup?title=Predicting+the+cardiac+toxicity+of+drugs+using+a+novel+multiscale+exposure-response+simulator&author=Costabala+FS+Yaob+J+Kuhla+E&journal=Computer+Methods+Biomechanics+Biomedical+Engineering&volume=21&issue=3&pages=232-246&publication_year=2018&issn=1025-5842%2C1476-8259&doi=10.1080%2F10255842.2018.1439479">[Google&nbsp;Scholar]</a>
+                
+                
+                 <span class="Z3988" title="">
+                                    </span>
+
+                
+                            </li>
+                    <li>
+                <a name="R3"></a>Doblare M, Garcıa JM, Gomez MJ. Modelling bone tissue fracture and healing: a review. Engineering Fracture Mechanics 2004; 71 (13–14).
+
+                
+		                		
+                
+                                    <a href="https://scholar.google.com/scholar_lookup?title=Modelling+bone+tissue+fracture+and+healing%3A+a+review&author=Doblare+M+Garc%C4%B1a+JM+Gomez+MJ&journal=Engineering+Fracture+Mechanics&volume=71&publication_year=2004">[Google&nbsp;Scholar]</a>
+                
+                
+                 <span class="Z3988" title="">
+                                    </span>
+
+                
+                            </li>
+                    <li>
+                <a name="R4"></a>Shim J, Grosberg A, Nawroth JC, <span xmlns:mml="http://www.w3.org/1998/Math/MathML" style="font-style: italic;">et al.</span> Modeling of cardiac muscle thin films: pre-stretch, passive and active behavior. J Biomechanics 2012 ; 45 : 832–841.
+
+                
+		                                                            <a target="link_edps" href="https://doi.org/10.1016/j.jbiomech.2011.11.024">
+                                                    [CrossRef]
+                                                </a>
+                                    		
+                
+                                    <a href="https://scholar.google.com/scholar_lookup?title=Modeling+of+cardiac+muscle+thin+films%3A+pre-stretch%2C+passive+and+active+behavior&author=Shim+J+Grosberg+A+Nawroth+JC&journal=J+Biomechanics&volume=45&issue=5&pages=832-841&publication_year=2012&issn=00219290&doi=10.1016%2Fj.jbiomech.2011.11.024">[Google&nbsp;Scholar]</a>
+                
+                
+                 <span class="Z3988" title="">
+                                    </span>
+
+                
+                            </li>
+                    <li>
+                <a name="R5"></a>Shanahan M. The technological singularity. Essential knowledge series. Cambridge (MA) : The MIT Press, 2015.
+
+                
+		                                                            <a target="link_edps" href="https://doi.org/10.7551/mitpress/10058.001.0001">
+                                                    [CrossRef]
+                                                </a>
+                                    		
+                
+                                    <a href="https://scholar.google.com/scholar_lookup?title=The+Technological+Singularity&author=Shanahan+M&journal=The+technological+singularity.+Essential+knowledge+series&publication_year=2015&issn=9780262331821&doi=10.7551%2Fmitpress%2F10058.001.0001">[Google&nbsp;Scholar]</a>
+                
+                
+                 <span class="Z3988" title="">
+                                    </span>
+
+                
+                            </li>
+                    <li>
+                <a name="R6"></a>De Dombal FT, Leaper DJ, Staniland JR, <span xmlns:mml="http://www.w3.org/1998/Math/MathML" style="font-style: italic;">et al.</span> Computer-aided diagnosis of abdominal pain. Br Med J 1972 ; 2 : 9–13.
+
+                
+		                                                            <a target="link_edps" href="https://doi.org/10.1136/bmj.2.5804.9">
+                                                    [CrossRef]
+                                                </a>
+                                                                                <a target="link_edps" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=4552594">
+                                                    [PubMed]
+                                                </a>
+                                    		
+                
+                                    <a href="https://scholar.google.com/scholar_lookup?title=Computer-aided+diagnosis+of+abdominal+pain&author=De+Dombal+FT+Leaper+DJ+Staniland+JR&journal=Br+Med+J&volume=2&issue=5804&pages=9-13&publication_year=1972&issn=0959-8138%2C1468-5833&doi=10.1136%2Fbmj.2.5804.9">[Google&nbsp;Scholar]</a>
+                
+                
+                 <span class="Z3988" title="">
+                                    </span>
+
+                
+                            </li>
+                    <li>
+                <a name="R7"></a>Ravdin PM, Siminoff LA, Davis GJ, <span xmlns:mml="http://www.w3.org/1998/Math/MathML" style="font-style: italic;">et al.</span> Computer program to assist in making decisions about adjuvant therapy for women with early breast cancer. J Clin Oncol 2001 ; 19 : 980–991.
+
+                
+		                                                            <a target="link_edps" href="https://doi.org/10.1200/JCO.2001.19.4.980">
+                                                    [CrossRef]
+                                                </a>
+                                                                                <a target="link_edps" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=11181660">
+                                                    [PubMed]
+                                                </a>
+                                    		
+                
+                                    <a href="https://scholar.google.com/scholar_lookup?title=Computer+program+to+assist+in+making+decisions+about+adjuvant+therapy+for+women+with+early+breast+cancer&author=Ravdin+PM+Siminoff+LA+Davis+GJ&journal=J+Clin+Oncol&volume=19&issue=4&pages=980-991&publication_year=2001&issn=0732-183X%2C1527-7755&doi=10.1200%2FJCO.2001.19.4.980">[Google&nbsp;Scholar]</a>
+                
+                
+                 <span class="Z3988" title="">
+                                    </span>
+
+                
+                            </li>
+                    <li>
+                <a name="R8"></a>Velten K. Mathematical modeling and simulation: introduction for scientists and engineers 2009 ; New York: Wiley, 362 p
+
+                
+		                		
+                
+                                    <a href="https://scholar.google.com/scholar_lookup?author=Velten+K&journal=Mathematical+modeling+and+simulation%3A+introduction+for+scientists+and+engineers&pages=362&publication_year=2009">[Google&nbsp;Scholar]</a>
+                
+                
+                 <span class="Z3988" title="">
+                                    </span>
+
+                
+                            </li>
+                    <li>
+                <a name="R9"></a>Jean A, Nyein MK, Zheng JQ, <span xmlns:mml="http://www.w3.org/1998/Math/MathML" style="font-style: italic;">et al.</span> An animal-to-human scaling law for blast-induced traumatic brain injury risk assessment. Proc Natl Acad Sci USA 2014 ; 111 : 15310–15315.
+
+                
+		                                                            <a target="link_edps" href="https://doi.org/10.1073/pnas.1415743111">
+                                                    [CrossRef]
+                                                </a>
+                                    		
+                
+                                    <a href="https://scholar.google.com/scholar_lookup?title=An+animal-to-human+scaling+law+for+blast-induced+traumatic+brain+injury+risk+assessment&author=Jean+A+Nyein+MK+Zheng+JQ&journal=Proc+Natl+Acad+Sci+USA&volume=111&issue=43&pages=15310-15315&publication_year=2014&issn=0027-8424%2C1091-6490&doi=10.1073%2Fpnas.1415743111">[Google&nbsp;Scholar]</a>
+                
+                
+                 <span class="Z3988" title="">
+                                    </span>
+
+                
+                            </li>
+                    <li>
+                <a name="R10"></a>Yeo J, Jung GS, Tarakanova A, <span xmlns:mml="http://www.w3.org/1998/Math/MathML" style="font-style: italic;">et al.</span> Multiscale modeling of keratin, collagen, elastin and related human diseases: Perspectives from atomistic to coarse-grained molecular dynamics simulations. Extreme Mechanics Letters 2018 ; 20 : 112–124.
+
+                
+		                                                            <a target="link_edps" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33344740">
+                                                    [PubMed]
+                                                </a>
+                                    		
+                
+                                    <a href="https://scholar.google.com/scholar_lookup?title=Multiscale+modeling+of+keratin%2C+collagen%2C+elastin+and+related+human+diseases%3A+Perspectives+from+atomistic+to+coarse-grained+molecular+dynamics+simulations&author=Yeo+J+Jung+GS+Tarakanova+A&journal=Extreme+Mechanics+Letters&volume=20&pages=112-124&publication_year=2018">[Google&nbsp;Scholar]</a>
+                
+                
+                 <span class="Z3988" title="">
+                                    </span>
+
+                
+                            </li>
+                    <li>
+                <a name="R11"></a>Febvay S, Socrate S, House MD. Biomechanical modeling of cervical tissue: a quantitative investigation of cervical incompetence. Int Mechanical Engineering Congress Exposition 2003; 399–400.
+
+                
+		                		
+                
+                                    <a href="https://scholar.google.com/scholar_lookup?title=Biomechanical+modeling+of+cervical+tissue%3A+a+quantitative+investigation+of+cervical+incompetence&author=Febvay+S+Socrate+S+House+MD&journal=Int+Mechanical+Engineering+Congress+Exposition&pages=399-400&publication_year=2003">[Google&nbsp;Scholar]</a>
+                
+                
+                 <span class="Z3988" title="">
+                                    </span>
+
+                
+                            </li>
+                    <li>
+                <a name="R12"></a>Tang A, Tam R, Cadrin-Chenevert A, <span xmlns:mml="http://www.w3.org/1998/Math/MathML" style="font-style: italic;">et al.</span> Canadian association of radiologists white paper on artificial intelligence in radiology. Can Assoc Radiol J 2018 ; 69 : 120135.
+
+                
+		                		
+                
+                                    <a href="https://scholar.google.com/scholar_lookup?title=Canadian+association+of+radiologists+white+paper+on+artificial+intelligence+in+radiology&author=Tang+A+Tam+R+Cadrin-Chenevert+A&journal=Can+Assoc+Radiol+J&volume=69&pages=120135&publication_year=2018">[Google&nbsp;Scholar]</a>
+                
+                
+                 <span class="Z3988" title="">
+                                    </span>
+
+                
+                            </li>
+                    <li>
+                <a name="R13"></a>Bou Assi E, Nguyen DK, Rihana S, Sawan M. Towards accurate prediction of epileptic seizures: a review. Biomedical Signal Processing Control 2017; 34 : 144157.
+
+                
+		                                                            <a target="link_edps" href="https://doi.org/10.1016/j.bspc.2017.02.001">
+                                                    [CrossRef]
+                                                </a>
+                                    		
+                
+                                    <a href="https://scholar.google.com/scholar_lookup?title=Towards+accurate+prediction+of+epileptic+seizures%3A+a+review&author=Bou+Assi+E+Nguyen+DK+Rihana+S+Sawan+M&journal=Biomedical+Signal+Processing+Control&volume=34&pages=144157&publication_year=2017&issn=17468094&doi=10.1016%2Fj.bspc.2017.02.001">[Google&nbsp;Scholar]</a>
+                
+                
+                 <span class="Z3988" title="">
+                                    </span>
+
+                
+                            </li>
+                    <li>
+                <a name="R14"></a>Marcus G. The next decade in AI: four steps towards robust artificial intelligence. <span xmlns:mml="http://www.w3.org/1998/Math/MathML" style="font-style: italic;">arXiv</span> 2002; 06177 : 2020.
+
+                
+		                		
+                
+                                    <a href="https://scholar.google.com/scholar_lookup?title=The+next+decade+in+AI%3A+four+steps+towards+robust+artificial+intelligence&author=Marcus+G">[Google&nbsp;Scholar]</a>
+                
+                
+                 <span class="Z3988" title="">
+                                    </span>
+
+                
+                            </li>
+                    <li>
+                <a name="R15"></a>Alashwal H, El Halaby M, Crouse JJ, <span xmlns:mml="http://www.w3.org/1998/Math/MathML" style="font-style: italic;">et al.</span> The application of unsupervised clustering methods to Alzheimer’s disease. Front Comput Neurosci 2019; 13–31.
+
+                
+		                                                            <a target="link_edps" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=30941027">
+                                                    [PubMed]
+                                                </a>
+                                    		
+                
+                                    <a href="https://scholar.google.com/scholar_lookup?title=The+application+of+unsupervised+clustering+methods+to+Alzheimer%E2%80%99s+disease&author=Alashwal+H+El+Halaby+M+Crouse+JJ&journal=Front+Comput+Neurosci&pages=13-31&publication_year=2019">[Google&nbsp;Scholar]</a>
+                
+                
+                 <span class="Z3988" title="">
+                                    </span>
+
+                
+                            </li>
+                    <li>
+                <a name="R16"></a>Ng HP, Ong SH, Foong KWC, <span xmlns:mml="http://www.w3.org/1998/Math/MathML" style="font-style: italic;">et al.</span> Medical image segmentation using K-means clustering and improved watershed algorithm. Proc IEEE Southwest Symposium Image Analysis Interpretation 2006; 61–65.
+
+                
+		                		
+                
+                                    <a href="https://scholar.google.com/scholar_lookup?title=Medical+image+segmentation+using+K-means+clustering+and+improved+watershed+algorithm&author=Ng+HP+Ong+SH+Foong+KWC&journal=Proc+IEEE+Southwest+Symposium+Image+Analysis+Interpretation&pages=61-65&publication_year=2006">[Google&nbsp;Scholar]</a>
+                
+                
+                 <span class="Z3988" title="">
+                                    </span>
+
+                
+                            </li>
+                    <li>
+                <a name="R17"></a>LeCun Y, Boser B, Denker JS, <span xmlns:mml="http://www.w3.org/1998/Math/MathML" style="font-style: italic;">et al.</span> Backpropagation applied to handwritten zip code recognition. Neural Comput 1989 ; 1 : 541–551.
+
+                
+		                		
+                
+                                    <a href="https://scholar.google.com/scholar_lookup?title=Backpropagation+applied+to+handwritten+zip+code+recognition&author=LeCun+Y+Boser+B+Denker+JS&journal=Neural+Comput&volume=1&pages=541-551&publication_year=1989">[Google&nbsp;Scholar]</a>
+                
+                
+                 <span class="Z3988" title="">
+                                    </span>
+
+                
+                            </li>
+                    <li>
+                <a name="R18"></a>Erhan D, Bengio Y, Courville A, <span xmlns:mml="http://www.w3.org/1998/Math/MathML" style="font-style: italic;">et al.</span> Why does unsupervised pre-training help deep learning?. J Machine Learning Research 2010 ; 11 : 625–660.
+
+                
+		                		
+                
+                                    <a href="https://scholar.google.com/scholar_lookup?title=Why+does+unsupervised+pre-training+help+deep+learning%3F&author=Erhan+D+Bengio+Y+Courville+A&journal=J+Machine+Learning+Research&volume=11&pages=625-660&publication_year=2010">[Google&nbsp;Scholar]</a>
+                
+                
+                 <span class="Z3988" title="">
+                                    </span>
+
+                
+                            </li>
+                    <li>
+                <a name="R19"></a>LeCun Y, Bengio Y, Hinton G. Deep learning. Nature 2015 ; 521 : 436–444.
+
+                
+		                		
+                
+                                    <a href="https://scholar.google.com/scholar_lookup?title=Deep+learning&author=LeCun+Y+Bengio+Y+Hinton+G&journal=Nature&volume=521&pages=436-444&publication_year=2015">[Google&nbsp;Scholar]</a>
+                
+                
+                 <span class="Z3988" title="">
+                                    </span>
+
+                
+                            </li>
+                    <li>
+                <a name="R20"></a>Ekins S, Puhl AC, Zorn KM, <span xmlns:mml="http://www.w3.org/1998/Math/MathML" style="font-style: italic;">et al.</span> Exploiting machine learning for end-to-end drug discovery and development. Nat Mater 2019 ; 18 : 435–441.
+
+                
+		                                                            <a target="link_edps" href="https://doi.org/10.1038/s41563-019-0338-z">
+                                                    [CrossRef]
+                                                </a>
+                                                                                <a target="link_edps" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31000803">
+                                                    [PubMed]
+                                                </a>
+                                    		
+                
+                                    <a href="https://scholar.google.com/scholar_lookup?title=Exploiting+machine+learning+for+end-to-end+drug+discovery+and+development&author=Ekins+S+Puhl+AC+Zorn+KM&journal=Nat+Mater&volume=18&issue=5&pages=435-441&publication_year=2019&issn=1476-1122%2C1476-4660&doi=10.1038%2Fs41563-019-0338-z">[Google&nbsp;Scholar]</a>
+                
+                
+                 <span class="Z3988" title="">
+                                    </span>
+
+                
+                            </li>
+                    <li>
+                <a name="R21"></a>Esteva A, Kuprel B, Novoa RA, <span xmlns:mml="http://www.w3.org/1998/Math/MathML" style="font-style: italic;">et al.</span> Dermatologist-level classification of skin cancer with deep neural networks. Nature 2017 ; 542 : 115–118.
+
+                
+		                		
+                
+                                    <a href="https://scholar.google.com/scholar_lookup?title=Dermatologist-level+classification+of+skin+cancer+with+deep+neural+networks&author=Esteva+A+Kuprel+B+Novoa+RA&journal=Nature&volume=542&pages=115-118&publication_year=2017">[Google&nbsp;Scholar]</a>
+                
+                
+                 <span class="Z3988" title="">
+                                    </span>
+
+                
+                            </li>
+                    <li>
+                <a name="R22"></a>Deo RC. Machine learning in medicine. Circulation 2015 ; 132 : 1920–1930.
+
+                
+		                                                            <a target="link_edps" href="https://doi.org/10.1161/CIRCULATIONAHA.115.001593">
+                                                    [CrossRef]
+                                                </a>
+                                                                                <a target="link_edps" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=26572668">
+                                                    [PubMed]
+                                                </a>
+                                    		
+                
+                                    <a href="https://scholar.google.com/scholar_lookup?title=Machine+learning+in+medicine&author=Deo+RC&journal=Circulation&volume=132&issue=20&pages=1920-1930&publication_year=2015&issn=0009-7322%2C1524-4539&doi=10.1161%2FCIRCULATIONAHA.115.001593">[Google&nbsp;Scholar]</a>
+                
+                
+                 <span class="Z3988" title="">
+                                    </span>
+
+                
+                            </li>
+                    <li>
+                <a name="R23"></a>Majkowska A, Mittal S, Steiner DF, et al. Chest radiograph interpretation with deep learning models: assessment with radiologist-adjudicated reference standards and population-adjusted evaluation. Radiology 2019; 294(2).
+
+                
+		                		
+                
+                                    <a href="https://scholar.google.com/scholar_lookup?title=Chest+radiograph+interpretation+with+deep+learning+models%3A+assessment+with+radiologist-adjudicated+reference+standards+and+population-adjusted+evaluation&author=Majkowska+A+Mittal+S+Steiner+DF&journal=Radiology&volume=294&pages=2&publication_year=2019">[Google&nbsp;Scholar]</a>
+                
+                
+                 <span class="Z3988" title="">
+                                    </span>
+
+                
+                            </li>
+                    <li>
+                <a name="R24"></a>Gulshan V, Peng L, Coram M, <span xmlns:mml="http://www.w3.org/1998/Math/MathML" style="font-style: italic;">et al.</span> Development and validation of a deep learning algorithm for detection of diabetic retinopathy in retinal fundus photographs. JAMA 2016 ; 316 : 2402–2410.
+
+                
+		                                                            <a target="link_edps" href="https://doi.org/10.1001/jama.2016.17216">
+                                                    [CrossRef]
+                                                </a>
+                                                                                <a target="link_edps" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=27898976">
+                                                    [PubMed]
+                                                </a>
+                                    		
+                
+                                    <a href="https://scholar.google.com/scholar_lookup?title=Development+and+validation+of+a+deep+learning+algorithm+for+detection+of+diabetic+retinopathy+in+retinal+fundus+photographs&author=Gulshan+V+Peng+L+Coram+M&journal=JAMA&volume=316&issue=22&pages=2402-2410&publication_year=2016&issn=0098-7484&doi=10.1001%2Fjama.2016.17216">[Google&nbsp;Scholar]</a>
+                
+                
+                 <span class="Z3988" title="">
+                                    </span>
+
+                
+                            </li>
+                    <li>
+                <a name="R25"></a>Ding Y, Sohn JH, Kawczynski MG, et al. A deep learning model to predict a diagnosis of Alzheimer disease by using 18F-FDG PET of the brain. Radiology 2018; 290(2).
+
+                
+		                		
+                
+                                    <a href="https://scholar.google.com/scholar_lookup?title=A+deep+learning+model+to+predict+a+diagnosis+of+Alzheimer+disease+by+using+18F-FDG+PET+of+the+brain&author=Ding+Y+Sohn+JH+Kawczynski+MG&journal=Radiology&volume=290&publication_year=2018">[Google&nbsp;Scholar]</a>
+                
+                
+                 <span class="Z3988" title="">
+                                    </span>
+
+                
+                            </li>
+                    <li>
+                <a name="R26"></a>Xie Y, Ho J, Vemuri BC. multiple atlas construction from a heterogeneous brain MR image collection. IEEE Trans Med Imaging 2013 ; 32 : 628–635.
+
+                
+		                                                            <a target="link_edps" href="https://doi.org/10.1109/TMI.2013.2239654">
+                                                    [CrossRef]
+                                                </a>
+                                                                                <a target="link_edps" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=23335665">
+                                                    [PubMed]
+                                                </a>
+                                    		
+                
+                                    <a href="https://scholar.google.com/scholar_lookup?title=multiple+atlas+construction+from+a+heterogeneous+brain+MR+image+collection&author=Xie+Y+Ho+J+Vemuri+BC&journal=IEEE+Trans+Med+Imaging&volume=32&issue=3&pages=628-635&publication_year=2013&issn=0278-0062%2C1558-254X&doi=10.1109%2FTMI.2013.2239654">[Google&nbsp;Scholar]</a>
+                
+                
+                 <span class="Z3988" title="">
+                                    </span>
+
+                
+                            </li>
+                    <li>
+                <a name="R27"></a>Zuluaga MA, Hush D, Edgar JF. Learning from only positive and unlabeled data to detect lesions in vascular CT images. medical image computing and computer-assisted intervention – MICCAI, <span xmlns:mml="http://www.w3.org/1998/Math/MathML" style="font-style: italic;">et al.</span> Lecture notes in computer science. Berlin-Heidelberg : Springer. 2011 ; 2011 : 6893.
+
+                
+		                		
+                
+                                    <a href="https://scholar.google.com/scholar_lookup?title=Lecture+notes+in+computer+science&author=Zuluaga+MA+Hush+D+Edgar+JF&journal=Berlin-Heidelberg+%3A+Springer.&volume=2011&pages=6893&publication_year=2011">[Google&nbsp;Scholar]</a>
+                
+                
+                 <span class="Z3988" title="">
+                                    </span>
+
+                
+                            </li>
+                    <li>
+                <a name="R28"></a>Martin L, Muller B, Ortiz Suárez PJ, et al. CamemBERT: a tasty French language model. Proceedings of the 58<sup xmlns:mml="http://www.w3.org/1998/Math/MathML">th</sup> Annual Meeting of the Association for Computational Linguistics, 2020.
+
+                
+		                		
+                
+                                    <a href="https://scholar.google.com/scholar_lookup?title=CamemBERT%3A+a+tasty+French+language+model&author=Martin+L+Muller+B+Ortiz+Su%C3%A1rez+PJ&publication_year=2020">[Google&nbsp;Scholar]</a>
+                
+                
+                 <span class="Z3988" title="">
+                                    </span>
+
+                
+                            </li>
+                    <li>
+                <a name="R29"></a>Beaudouin V, Bloch I, Bounie D, et al. Flexible and context-specific AI explainability: a multidisciplinary approach. 2020. <a href="https://arxiv.org/abs/2003.07703" target="_blank">arXiv:2003.07703</a> [cs.CY].
+
+                
+		                		
+                
+                                    <a href="https://scholar.google.com/scholar_lookup?title=Flexible+and+context-specific+AI+explainability%3A+a+multidisciplinary+approach&author=Beaudouin+V+Bloch+I+Bounie+D&publication_year=2020">[Google&nbsp;Scholar]</a>
+                
+                
+                 <span class="Z3988" title="">
+                                    </span>
+
+                
+                            </li>
+                    <li>
+                <a name="R30"></a>Obermeyer Z, Powers B, Vogeli C, Mullainathan S. Dissecting racial bias in an algorithm used to manage the health of populations. Science 2019 ; 366 : 447–453.
+
+                
+		                		
+                
+                                    <a href="https://scholar.google.com/scholar_lookup?title=Dissecting+racial+bias+in+an+algorithm+used+to+manage+the+health+of+populations&author=Obermeyer+Z+Powers+B+Vogeli+C+Mullainathan+S&journal=Science&volume=366&pages=447-453&publication_year=2019">[Google&nbsp;Scholar]</a>
+                
+                
+                 <span class="Z3988" title="">
+                                    </span>
+
+                
+                            </li>
+                    <li>
+                <a name="R31"></a>McDermott MBA, Wang S, Marinsek N, et al. Reproducibility in machine learning for Health. International Conference on Learning Representations 2019.
+
+                
+		                		
+                
+                                    <a href="https://scholar.google.com/scholar_lookup?title=Reproducibility+in+machine+learning+for+Health&author=McDermott+MBA+Wang+S+Marinsek+N">[Google&nbsp;Scholar]</a>
+                
+                
+                 <span class="Z3988" title="">
+                                    </span>
+
+                
+                            </li>
+                    <li>
+                <a name="R32"></a>Haiech J. Parcourir l’histoire de l’intelligence artificielle, pour mieux la définir et la comprendre. Med Sci (Paris) 2020; 36 : 919–23.
+
+                
+		                                                            <a target="link_edps" href="https://doi.org/10.1051/medsci/2020145">
+                                                    [CrossRef]
+                                                </a>
+                                                                                <a target="link_edps" href="https://www.medecinesciences.org/articles/medsci/abs/2020/08/msc200112/msc200112.html">
+                                                    [EDP Sciences]
+                                                </a>
+                                                                                <a target="link_edps" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33026335
+">
+                                                    [PubMed]
+                                                </a>
+                                    		
+                
+                                    <a href="https://scholar.google.com/scholar_lookup?title=Parcourir+l%E2%80%99histoire+de+l%E2%80%99intelligence+artificielle%2C+pour+mieux+la+d%C3%A9finir+et+la+comprendre&author=Haiech+J&journal=Med+Sci+%28Paris%29&volume=36&pages=919-23&publication_year=2020&issn=0767-0974%2C1958-5381&doi=10.1051%2Fmedsci%2F2020145">[Google&nbsp;Scholar]</a>
+                
+                
+                 <span class="Z3988" title="">
+                                    </span>
+
+                
+                            </li>
+                    <li>
+                <a name="R33"></a>Matuchansky C.. Intelligence clinique et intelligence artificielle : une question de nuance. Med Sci (Paris) 2019 ; 35 : 797–803.
+
+                
+		                                                            <a target="link_edps" href="https://doi.org/10.1051/medsci/2019158">
+                                                    [CrossRef]
+                                                </a>
+                                                                                <a target="link_edps" href="https://www.medecinesciences.org/articles/medsci/abs/2019/09/msc190227/msc190227.html">
+                                                    [EDP Sciences]
+                                                </a>
+                                                                                <a target="link_edps" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=31625903
+">
+                                                    [PubMed]
+                                                </a>
+                                    		
+                
+                                    <a href="https://scholar.google.com/scholar_lookup?title=Intelligence+clinique+et+intelligence+artificielle+%3A+une+question+de+nuance&author=Matuchansky+C.&journal=Med+Sci+%28Paris%29&volume=35&pages=797-803&publication_year=2019&issn=0767-0974%2C1958-5381&doi=10.1051%2Fmedsci%2F2019158">[Google&nbsp;Scholar]</a>
+                
+                
+                 <span class="Z3988" title="">
+                                    </span>
+
+                
+                            </li>
+                </ol>
+    </div>
+
+<h2 class="sec">
+<a name="figs"></a>Liste des figures</h2>
+<div class="inset"><table>
+<tr>
+<td valign="middle"><a href="/articles/medsci/full_html/2020/10/msc200197/F1.html" target="_blank"><img alt="thumbnail" src="/articles/medsci/full_html/2020/10/msc200197/msc200197-fig1_small.jpg"></a></td>
+<td class="img-txt">
+<a href="/articles/medsci/full_html/2020/10/msc200197/F1.html" target="_blank"><span class="bold">Figure 1.</span></a><p><b><i>Sch&#233;ma illustrant le fonctionnement g&#233;n&#233;ral d&#8217;algorithmes explicites, dont l&#8217;ensemble des hypoth&#232;ses, des crit&#232;res et des &#233;quations sont d&#233;finis explicitement par l&#8217;homme</i></b> (&#169; Cartoonbase).</p>
+</td>
+</tr>
+<tr><td colspan="2" class="in-txt"><a href="/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html#F1">Dans le texte</a></td></tr>
+</table></div>
+<div class="inset"><table>
+<tr>
+<td valign="middle"><a href="/articles/medsci/full_html/2020/10/msc200197/F2.html" target="_blank"><img alt="thumbnail" src="/articles/medsci/full_html/2020/10/msc200197/msc200197-fig2_small.jpg"></a></td>
+<td class="img-txt">
+<a href="/articles/medsci/full_html/2020/10/msc200197/F2.html" target="_blank"><span class="bold">Figure 2.</span></a><p><b><i>Sch&#233;ma illustrant le fonctionnement g&#233;n&#233;ral d&#8217;algorithmes implicites, dont la logique est traduite par un ensemble de crit&#232;res implicitement d&#233;finis &#224; la suite d&#8217;un apprentissage</i></b> (&#169; Cartoonbase).</p>
+</td>
+</tr>
+<tr><td colspan="2" class="in-txt"><a href="/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html#F2">Dans le texte</a></td></tr>
+</table></div>
+<div class="inset"><table>
+<tr>
+<td valign="middle"><a href="/articles/medsci/full_html/2020/10/msc200197/F3.html" target="_blank"><img alt="thumbnail" src="/articles/medsci/full_html/2020/10/msc200197/msc200197-fig3_small.jpg"></a></td>
+<td class="img-txt">
+<a href="/articles/medsci/full_html/2020/10/msc200197/F3.html" target="_blank"><span class="bold">Figure 3.</span></a><p><b><i>Sch&#233;ma illustrant les diff&#233;rences entre une data non structur&#233;e brute et une data structur&#233;e format&#233;e</i></b> (&#169; Cartoonbase).</p>
+</td>
+</tr>
+<tr><td colspan="2" class="in-txt"><a href="/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html#F3">Dans le texte</a></td></tr>
+</table></div>
+<div class="inset"><table>
+<tr>
+<td valign="middle"><a href="/articles/medsci/full_html/2020/10/msc200197/F4.html" target="_blank"><img alt="thumbnail" src="/articles/medsci/full_html/2020/10/msc200197/msc200197-fig4_small.jpg"></a></td>
+<td class="img-txt">
+<a href="/articles/medsci/full_html/2020/10/msc200197/F4.html" target="_blank"><span class="bold">Figure 4.</span></a><p><b><i>Sch&#233;ma illustrant la diff&#233;rence entre la data de calibration utilis&#233;e pour param&#233;trer un algorithme explicite, et la data d&#8217;apprentissage utilis&#233;e pour entra&#238;ner un algorithme implicite</i></b> (&#169; Cartoonbase).</p>
+</td>
+</tr>
+<tr><td colspan="2" class="in-txt"><a href="/en/articles/medsci/full_html/2020/10/msc200197/msc200197.html#F4">Dans le texte</a></td></tr>
+</table></div>
+</div>
+
+
+</div>
+
+    <div id="metrics-tabs" data-doi="10.1051/medsci/2020189" data-edps_ref="msc200197">
+<nav class="toolbar">
+	<button class="toolbar-item" id="metrics-siq">Current usage metrics</button>
+	<button class="toolbar-item" id="info">About article metrics</button>
+    
+	
+	<button class="toolbar-item" id="return">Return to article</button>
+</nav>
+
+<div class="panel" data-for="metrics-siq">
+</div>
+
+<div class="panel" data-for="metrics-alm"></div>
+
+<div class="panel" data-for="info">
+	
+
+	<p>Current usage metrics show cumulative count of Article Views (full-text article views including HTML views, PDF and ePub downloads, according to the available data)  and Abstracts Views on Vision4Press platform.</p>
+
+	<p>Data correspond to usage on the plateform after 2015. The current usage metrics is available 48-96 hours after online publication and is updated daily on week days.</p>
+
+	<div class="msg msg-info">
+		<span class="ico ico-info"></span>
+		<div>
+			<p>Initial download of the metrics may take a while.</p>
+		</div>
+	</div>
+
+
+</div>
+
+
+
+
+</div>
+<script type="text/javascript" src="/templates/source/js/metrics-tab.js"></script>
+
+
+
+
+
+
+                                                    </div>
+                        <nav class="article">
+                           
+  
+ 
+  <div class="module_title">
+    <a href="/">Homepage</a>
+</div>
+<div class="nav-section"><div class="title_toc"><a href="/articles/medsci/abs/2020/10/contents/contents.html">Table of Contents</a></div><div class="module_nav"><a href="/en/articles/medsci/full_html/2020/10/msc200093/msc200093.html" class="back"><span></span>Previous article</a><a href="/en/articles/medsci/full_html/2020/10/msc200232/msc200232.html" class="forth">Next article<span></span></a><div class="clear"></div></div></div> 
+
+    <div class="nav-section files"> <h2>Article contents</h2><div class="article_doc"><ul><li><a href="/articles/medsci/abs/2020/10/msc200197/msc200197.html" title="Abstract">Abstract</a></li><li><a href="/articles/medsci/full_html/2020/10/msc200197/msc200197.html" title="Full HTML" class="current">Full HTML</a></li><li><a href="/articles/medsci/pdf/2020/10/msc200197.pdf" title="PDF (12.03 MB)">PDF (12.03 MB)</a></li><li><a href="/articles/medsci/ref/2020/10/msc200197/msc200197.html" title="References">References</a></li></ul>
+    </div>
+
+</div>
+
+<div class="nav-section databases"> <h2>Database links</h2><div class="article_doc"><ul><li><a href="https://www.ncbi.nlm.nih.gov/pubmed/33151868?dopt=AbstractPlus" title="PubMed Record" class="related-database-link" target="_blank">PubMed Record</a></li></ul>
+        </div>
+    
+</div>
+
+
+
+    <div class="nav-section stats"><h2>Metrics</h2><script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script><ul><li><a id="show-metrics">Show article metrics</a></li></ul>
+    </div>
+
+
+<div class="nav-section servs"><h2>Services</h2><ul><li><strong>Articles citing this article</strong><br /><div style="margin-left:8px"><a href="https://www.medecinesciences.org/en/component/citedby/?task=crossref&amp;doi=10.1051/medsci/2020189">CrossRef (3)</a></div></li><li><strong>Same authors</strong><br /><div style="margin-left:8px">- <a href="https://www.medecinesciences.org/en/component/solr/?task=authors&amp;tool=google&amp;dkey=10.1051/medsci/2020189" target="_blank">Google Scholar</a></div><div style="margin-left:8px">- <a href="https://www.medecinesciences.org/en/component/solr/?task=authors&amp;dkey=10.1051/medsci/2020189" target="_blank">EDP Sciences database</a></div><div style="margin-left:8px">- <a href="https://www.medecinesciences.org/en/component/solr/?task=authors&amp;tool=pubmed&amp;dkey=10.1051/medsci/2020189" target="_blank">PubMed</a></div></li><div class="separator"></div><li><a href="https://www.medecinesciences.org/en/component/recommend/?type=article&amp;dkey=10.1051/medsci/2020189">Recommend this article</a></li><li><a href="https://www.medecinesciences.org/en/component/kindle/?dkey=10.1051/medsci/2020189" title="Send this article to my Kindle">Send to my Kindle</a></li><li><a href="https://www.medecinesciences.org/en/component/makeref/?task=show&amp;type=html&amp;doi=10.1051/medsci/2020189">Download citation</a></li></ul>
+</div>
+ 
+
+
+ 
+  <div class="nav-section related">
+  <h2>Related Articles</h2>
+  <script type="text/javascript">
+    jQuery(function ($) {
+      $(document).ready(function() {
+        $('.nav-toggle').click(function() {
+          var collapse_content_selector = $(this).attr('href');
+          var toggle_switch = $(this);
+          $(collapse_content_selector).toggle(function() {
+            if ($(this).css('display') == 'none') {
+              toggle_switch.html('More');
+            } else {
+              toggle_switch.html('Less');
+            }
+          });
+        });
+      });
+    });
+  </script>
+            <div class="articles">
+                      <a href="https://www.medecinesciences.org/articles/medsci/full_html/2019/09/msc190227/msc190227.html" class="title">Intelligence clinique et intelligence artificielle — Une question de nuance</a>
+            <br />
+    
+          Med Sci (Paris) 2019 ; 35 : 797–803<br />
+        <div class="separator"></div>
+                            <a href="http://www.edp-biologie.fr/strategie/3134-une-aide-a-la-decision-par-le-machine-learning" class="title">Une aide à la décision par le Machine Learning</a>
+            <br />
+    
+          EDP Biologie<br />
+        <div class="separator"></div>
+                            <a href="https://www.medecinesciences.org/articles/medsci/full_html/2023/11/msc230218/msc230218.html" class="title">Le jumeau numérique en santé — État des lieux et perspectives d’application à l’hôpital</a>
+            <br />
+    
+          Med Sci (Paris) 2023 ; 39 : 953–957<br />
+        <div class="separator"></div>
+                </div>
+      <div id="searchmlt" class="articles" style="display:none">
+      <div class="separator"></div>
+                      <a href="https://www.medecinesciences.org/articles/medsci/full_html/2021/03/msc200451/msc200451.html" class="title">Le Health Data Hub (suite) — Pourquoi ? Comment ?</a>
+            <br />
+    
+          Med Sci (Paris) 2021 ; 37 : 271–276<br />
+        <div class="separator"></div>
+                            <a href="https://www.medecinesciences.org/articles/medsci/abs/2019/03/medsci190052s/medsci190052s.html" class="title">E-Santé et innovation thérapeutique</a>
+            <br />
+    
+          Med Sci (Paris) 2019; 35 (Hors série n° 1) : 42-45<br />
+        <div class="separator"></div>
+          </div>
+        </ul>
+  <button href="#searchmlt" class="nav-toggle">More</button>
+</div>
+
+ 
+  <div class="nav-section bookmark">
+	<h2>Bookmarking</h2>
+	<ul>
+		<li>
+			<a href="https://www.facebook.com/share.php?u=https://doi.org/10.1051/medsci/2020189" onclick="return fbs_click('https://doi.org/10.1051/medsci/2020189', 'Une brève introduction à l’intelligence artificielle');" title="Share on Facebook" target="_blank" onclick="_gaq.push(['_trackPageview', '/bookmarking/Facebook/Une brève introduction à l’intelligence artificielle']);">
+				<span class="ico ico-s ico-facebook"></span> 
+			</a>
+		</li>
+		<li>
+			<a title="Share on Twitter" href="https://twitter.com/intent/tweet?text=Une brève introduction à l’intelligence artificielle.%20https://doi.org/10.1051/medsci/2020189" class="twitter-share-button" data-count="none" target="_blank" onclick="_gaq.push(['_trackPageview', '/bookmarking/Twitter/Une brève introduction à l’intelligence artificielle']);">
+				<span class="ico ico-s ico-twitter"></span>
+			</a>
+		</li>
+		<li>
+			<a title="Share on LinkedIn" href="https://www.linkedin.com/shareArticle?mini=true&url=https://doi.org/10.1051/medsci/2020189" onclick="_gaq.push(['_trackPageview', '/bookmarking/LinkedIn/Une brève introduction à l’intelligence artificielle']);">
+				<span class="ico ico-s ico-linkedin"></span>
+			</a>
+		</li>
+		<li>
+			<a title="Share on Sina Weibo" href="https://service.weibo.com/share/share.php?title=Une brève introduction à l’intelligence artificielle&url=https://doi.org/10.1051/medsci/2020189" target="_blank" onclick="_gaq.push(['_trackPageview', '/bookmarking/Weibo/Une brève introduction à l’intelligence artificielle']);">
+				<span class="ico ico-s ico-sinaweibo"></span>
+			</a>
+		</li>
+		<li>
+			<a title="Add this article to your Mendeley library" href="https://www.mendeley.com/import/?doi=10.1051/medsci/2020189" onclick="_gaq.push(['_trackPageview', '/bookmarking/Mendeley/Une brève introduction à l’intelligence artificielle']);">
+				<span class="ico ico-s ico-mendeley"></span>
+				<svg class="share-icon-svg" viewBox="0 0 32 32" xmlns="https://www.w3.org/2000/svg">
+					<title>Mendeley</title>
+					<path class="share-icon-svg-mendeley" d="M0 0h32v32H0z"/>
+					<path class="share-icon-svg" d="M25.9 19.14a2.85 2.85 0 0 1 .1.86 2.64 2.64 0 0 1-.2.8 1.82 1.82 0 0 1-.42.67 2.1 2.1 0 0 1-.64.42 1.65 1.65 0 0 1-1.65-.2 2 2 0 0 1-.88-1.53 2.57 2.57 0 0 1 0-.6 3.24 3.24 0 0 1 .15-.57 3.17 3.17 0 0 0 .14-.37 1.42 1.42 0 0 0 .07-.4 1.58 1.58 0 0 0-.1-.7 1.52 1.52 0 0 0-.4-.53 1.67 1.67 0 0 0-.36-.28 2.94 2.94 0 0 0-.4-.2 3.58 3.58 0 0 0-2.44 0l-.34.18a1.65 1.65 0 0 0-.3.2 1.42 1.42 0 0 0-.47.68 1.6 1.6 0 0 0 0 .83 1.22 1.22 0 0 0 .16.44 2.18 2.18 0 0 1 .2 1.47 2.07 2.07 0 0 1-.77 1.25 1.62 1.62 0 0 1-.56.3 2.48 2.48 0 0 1-.62.13h-.48a1.54 1.54 0 0 1-.48-.12 2.2 2.2 0 0 1-.84-.64 2.17 2.17 0 0 1-.42-1 1.7 1.7 0 0 1 0-.7 2.58 2.58 0 0 1 .22-.66 1.8 1.8 0 0 0 .18-.56 1.56 1.56 0 0 0 0-.6 1.15 1.15 0 0 0-.15-.37 1.68 1.68 0 0 0-.32-.33 2.4 2.4 0 0 0-.42-.3 1.8 1.8 0 0 0-.46-.2 3.8 3.8 0 0 0-1.28-.18 3.3 3.3 0 0 0-1.26.32.84.84 0 0 0-.22.12l-.24.16a1.54 1.54 0 0 0-.53.73 1.6 1.6 0 0 0 0 .93 1.47 1.47 0 0 0 .06.23 1.84 1.84 0 0 0 .1.24 2.33 2.33 0 0 1 .17.9 2.55 2.55 0 0 1-.2.94 1.94 1.94 0 0 1-.74.85 1.7 1.7 0 0 1-1 .26 1.57 1.57 0 0 1-.7-.2 2.45 2.45 0 0 1-.6-.48 1.6 1.6 0 0 1-.33-.56 2.94 2.94 0 0 1-.23-.62 3 3 0 0 1 0-.55 2.06 2.06 0 0 1 .1-.54 1.2 1.2 0 0 1 .12-.35 1.37 1.37 0 0 1 .22-.28l.3-.28a2 2 0 0 1 .36-.22 1.82 1.82 0 0 1 .4-.15 1.4 1.4 0 0 1 .44 0 1.27 1.27 0 0 0 .35 0 1.17 1.17 0 0 0 .32-.1.94.94 0 0 0 .38-.28 1.06 1.06 0 0 0 .2-.4 1.3 1.3 0 0 0 .14-.42 3.4 3.4 0 0 0 0-.44v-.24q0-.37-.06-.73t-.1-.7a.12.12 0 0 0 0-.08.12.12 0 0 1 0-.08 2.6 2.6 0 0 1-.18-.9 4.14 4.14 0 0 1 0-.63 4.26 4.26 0 0 1 .1-.63 3.45 3.45 0 0 1 .8-1.35 2.83 2.83 0 0 1 1.3-.74 2.57 2.57 0 0 1 1.7.12 2.9 2.9 0 0 1 1.35 1.15l.12.18.14.18.33.3.32.34a1 1 0 0 0 .27.22 1.2 1.2 0 0 0 .33.13 1.17 1.17 0 0 0 .5 0 1.15 1.15 0 0 0 .46-.22l.23-.2.2-.23.27-.3.26-.3v-.14a3.08 3.08 0 0 1 .88-.92 2.7 2.7 0 0 1 3.2.13A2.93 2.93 0 0 1 23 12.63a4.53 4.53 0 0 1 0 .9 3.67 3.67 0 0 1-.17.86 1.9 1.9 0 0 0-.06.28v.28a5.7 5.7 0 0 0-.08.66 5.8 5.8 0 0 0 0 .66 1.65 1.65 0 0 0 0 .24v.24a1.3 1.3 0 0 0 .33.66 1.13 1.13 0 0 0 .63.3h.38a1.88 1.88 0 0 1 1.07.27 1.66 1.66 0 0 1 .8 1.17zM16 17.68a1.73 1.73 0 0 0 1.44-.68 2.25 2.25 0 0 0 .56-1.43 2.18 2.18 0 0 0-.6-1.5 1.83 1.83 0 0 0-1.4-.63 1.8 1.8 0 0 0-1.4.63 2.16 2.16 0 0 0-.56 1.5A2.3 2.3 0 0 0 14.6 17a1.7 1.7 0 0 0 1.4.68z"/>
+				</svg>
+			</a>
+		</li>
+	</ul>
+</div>
+
+ 
+  <div class="nav-section account">
+    <ul>
+        <li>
+            <a href="/en/component/services/"><span class="ico ico-account"></span> Reader's services</a>
+        </li>
+        <li>
+            <a href="/en/component/services/?label=toc_email"><span class="ico ico-alert"></span> Email-alert</a>
+        </li>
+    </ul>
+</div>
+
+                        </nav>
+                        </div>
+                                          
+                    
+
+
+
+                                                            <div class="clear"></div>
+                  </div>
+                    
+               
+                </div>
+
+                                     
+
+                
+
+                                  
+        </main>
+
+        <footer>
+                  <div class="footer-journal">
+            <div class="wrap">
+              <div class="footer-infos">
+              <h3>médecine/sciences</h3>
+              
+
+<p>
+Chief editor: Jean-Luc Teillaud - Deputy-chief editor: Thierry Jouault<br>
+Chief copy editor: François Flori - Associate editor: Jean-Pierre Hardelin - <a href="/en/about-m-s/editorial-team-and-scientific-board">Editorial board</a><br>
+ISSN: 0767-0974 - eISSN: 1958-5381<br>
+© médecine/sciences - <a href="https://www.inserm.fr/" target="_blank">Inserm</a><br>
+All rights reserved
+</p>
+
+
+
+</div>
+              <div class="footer-social">
+
+<ul class="ico-social">
+<li><a class="youtube" title="Youtube channel" target="_blank" href="https://www.youtube.com/channel/UChSrAlOZRDJxwvMcCUZBh5Q"></a></li>
+<li><a class="twitter" title="Follow us on twitter" target="_blank" href="https://twitter.com/ms_medsci"></a></li>
+<!--li><a class="linkedin" title="Follow us on LinkedIn" target="_blank" href="https://www.linkedin.com/company/edp-sciences"></a></li>
+<li><a class="google" title="Follow us on Google+" target="_blank" href="https://plus.google.com/+EdpsciencesOrg"></a></li-->
+<li><a class="rss" title="Access our RSS feeds" href="/component/rsslist/?task=journal"></a></li>
+<li><a class="alert" title="Register to the journal email alert" href="/component/services/?label=toc_email"></a></li>
+</ul>
+</div>
+            </div>
+          </div>
+          <div>
+            
+          </div>
+          <div class="footer-edp">
+            <div class="wrap">
+                              <a href="https://www.edpsciences.org/" target="_blank" title="EDP Sciences website"><img src="/templates/source/images/logos/logo_edp_fff.svg" alt="EDP Sciences"></a>
+                                            
+<ul class="menu">
+<li class="item-171"><a href="/en/mentions-legales" >Mentions légales</a></li><li class="item-320"><a href="/en/advertisers-information" >Advertisers information</a></li><li class="item-332"><a href="/en/contact-us" >Contact us</a></li><li class="item-427"><a href="https://www.edpsciences.org/en/privacy-policy" target="_blank" >Privacy policy</a></li></ul>
+
+                          </div>
+          </div>
+                        <div class="footer-ptf">
+               <div class="wrap">
+                <div class="position-footer-ptf"></div>
+                <div class="link-vfp"><a href="https://www.vision4press.org" target="_blank">A Vision4Press website</a></div>
+               </div>
+               </div>
+                </footer>
+    </div>
+    <script src="/templates/source/js/mmenu2/dist/js/jquery.mmenu.all.min.js"></script>
+    <script src="/templates/template1/js/script.js"></script>
+    
+<span class="translations" data-name="separator_and" data-value="and"></span>
+<span class="translations" data-name="select_all" data-value="Select all"></span>
+<span class="translations" data-name="unselect_all" data-value="Unselect all"></span>
+<span class="translations" data-name="show_short_summary" data-value="Show short summary"></span>
+<span class="translations" data-name="hide_short_summary" data-value="Hide short summary"></span>
+<span class="translations" data-name="cookie_text" data-value="By using this website, you agree that EDP Sciences may store web audience measurement cookies and, on some pages, cookies from social networks. <a href='/en/component/cookie_policy/'>More information and setup</a>"></span>
+<span class="translations" data-name="cookie_close" data-value="Click to close this notification"></span>
+<span class="translations" data-name="cookie_close_btn" data-value="OK"></span>
+<span class="translations" data-name="loading" data-value="Loading author..."></span>
+<span class="translations" data-name="view_fullscreen" data-value="Click to view fullscreen"></span>
+<span class="translations" data-name="hide_fullscreen" data-value="Click anywhere to hide the fullscreen overlay"></span>
+<span class="translations" data-name="play_movie" data-value="Click to play the movie"></span>
+<span class="translations" data-name="cookie_is_mobile" data-value=""></span>
+<span class="translations" data-name="add_to_cart" data-value="Add to cart"></span>
+<span class="translations" data-name="remove_from_cart" data-value="Remove from cart"></span>
+<span class="translations" data-name="loading_cart" data-value="Loading..."></span>
+<span class="translations" data-name="empty_cart" data-value="Your cart is empty"></span>
+<span class="translations" data-name="terms_agreeement" data-value="You must agree the Purchase Agreement Terms and Conditions."></span>
+<span class="translations" data-name="makeref_url" data-value="/en/component/makeref/?task=show&amp;type=html&amp;doi="></span>
+<span class="translations" data-name="set_cart_article_status_url" data-value="/en/component/services/?task=set_cart_article_status"></span>
+<span class="translations" data-name="get_shopping_cart_url" data-value="/en/component/services/?task=get_shopping_cart_list"></span>
+<span class="translations" data-name="clear_shopping_cart_url" data-value="/en/component/services/?task=clear_shopping_cart"></span>
+<span class="translations" data-name="get_billing_url" data-value="/en/component/services/?label=ppv&amp;task=get_billing"></span>
+<span class="translations" data-name="authors_url" data-value="/en/component/article/?task=get_authors"></span>
+
+
+
+  <span id="google_analytics" data-host="ovh-france" data-domain="www.medecinesciences.org" data-t1="UA-39520934-1" data-t2="UA-5223033-36" class="hidden"></span>
+<div id="wait" style="display:none"></div>
+
+
+	<script src="/templates/source/js/cookie.js"></script>
+
+<script src="/templates/source/js/common.js"></script>
+
+</body>
+</html>

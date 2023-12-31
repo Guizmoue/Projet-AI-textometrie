@@ -1,0 +1,117 @@
+
+     Intelligence artificielle et santé
+
+Intelligence artificielle et santé
+
+--
+
+   L’intelligence artificielle (IA) est un domaine de recherche en pleine
+   expansion et promis à un grand avenir. Ses applications, qui concernent
+   toutes les activités humaines, permettent notamment d’améliorer la
+   qualité des soins. L’IA est en effet au cœur de la médecine du futur
+   avec les opérations assistées, le suivi des patients à distance, les
+--
+   qu’ils font et surtout ce qu’ils ne font pas. Le robot omniscient, qui
+   pour beaucoup symbolise l’IA, n’est pas pour demain !
+
+--
+
+    1. Comprendre l’IA
+         1. Certains systèmes d’IA utilisent la logique…
+              1. Aider à la prise en charge des cancers du sein
+--
+
+Comprendre l’IA
+
+   L’intelligence artificielle est née dans les années 1950 avec
+   l’objectif de faire produire des tâches humaines par des machines
+--
+
+   Les tenants de l’intelligence artificielle dite forte visent à
+   concevoir une machine capable de raisonner comme l’humain, avec le
+--
+   d’une conscience propre. Cette voie de recherche est toujours explorée
+   aujourd’hui, même si de nombreux chercheurs en IA estiment qu’atteindre
+   un tel objectif est impossible.
+
+   D’un autre côté, les tenants de l’intelligence artificielle dite faible
+   mettent en œuvre toutes les technologies disponibles pour concevoir des
+--
+   Prévention en population générale : anticipation d’une épidémie ;
+   pharmacovigilance Les domaines d’application de l’IA en médecine
+
+Certains systèmes d’IA utilisent la logique…
+
+--
+   de coagulation proposée par un logiciel de pilotage du laser pour
+   traiter une rétinopathie diabétique. L’IA permet de dépister
+   automatiquement les patients qui devraient pouvoir subir une telle
+--
+
+   La robotique est un sous-domaine spécifique de l’IA. Elle vise à
+   augmenter l’autonomie des machines en les dotant de capacités
+--
+
+   L’IA est en plein essor et de nombreuses voies de recherche sont
+   explorées pour améliorer les performances techniques de ces systèmes,
+--
+
+   La prévention est un nouveau terrain d’intervention de l’IA. En
+   psychiatrie, la schizophrénie et la psychose chronique sont parmi les
+--
+   une partie des troubles psychiatriques pris en compte. Dans le contexte
+   de l’IA symbolique, les connaissances sur un domaine médical sont
+   organisées dans une ontologie, c’est-à-dire un ensemble structuré de
+--
+
+   Certains voient dans les applications médicales de l’IA la possibilité
+   de remplacer le médecin, que ce soit pour pallier les déserts médicaux
+--
+   et des performances de l’autre. Ainsi, dans le projet PsyCARE cité plus
+   haut, la construction d’ontologies (IA symbolique) utilise l’expertise
+   médicale et des algorithmes numériques de fouille de texte.
+--
+   même plateforme dans le cadre du Plan France médecine génomique 2025.
+   L’IA permettra de gérer ce nombre considérable de données en
+   fournissant des classifications ou des ontologies de description des
+--
+
+     * 13/07/23 Intelligence artificielle : va-t-elle remplacer le
+       diagnostic médical ?
+     * 10/09/19 L’intelligence artificielle au bénéfice de l’analyse des
+       grandes cohortes
+     * 11/07/18 Intelligence artificielle : faut-il en avoir peur ?
+     * 11/02/16 Un algorithme informatique au service des ophtalmologues
+--
+       perte de poids après chirurgie bariatrique
+     * 14/06/23 Une intelligence artificielle pour prédire le
+       vieillissement
+--
+       diagnostic du rejet de greffe
+     * 04/05/23 IA : Un nouvel algorithme français s’inspirant de GPT
+       améliore la surveillance des traumatismes
+     * 09/01/23 Prédire l’apparition de troubles anxieux dès l’adolescence
+       grâce à l’intelligence artificielle
+     * 15/06/21 Prédire les comportements suicidaires chez les étudiants
+       grâce à l’intelligence artificielle
+     * 17/09/19 Elaboration et validation de l’iBox, le premier outil
+       universel de prédiction du risque de perte de rein greffé basé sur
+       l’intelligence artificielle
+     * 17/04/19 L’intelligence artificielle facilite l’évaluation de la
+       toxicité des substances chimiques : le cas du bisphénol S
+     * 30/08/18 Une intelligence artificielle permet de prédire la réponse
+       thérapeutique des patients atteints d’un cancer du rectum avancé
+--
+     * 27/08/18 Prédire la réponse à l’immunothérapie grâce à
+       l’intelligence artificielle
+     * 11/06/18 Un programme informatique capable de détecter et
+       d’identifier automatiquement des lésions cérébrales
+     * 04/04/18 L’Intelligence Artificielle au service de la recherche
+       médicale : l’Inserm et Owkin s’associent
+--
+
+     * Donner un sens à l’intelligence artificielle (IA) – Rapport de
+       Cédric Villani (2018)
+     * Médecins et patients dans le monde des data, des algorithmes et de
+       l’intelligence artificielle
+     * Ethique de la recherche en apprentissage machine

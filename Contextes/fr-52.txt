@@ -1,0 +1,33 @@
+
+        L’intelligence artificielle, aussi raciste et sexiste que nous
+
+--
+
+   Et si les systèmes d’intelligence artificielle tendaient à reproduire
+   certains discours humains biaisés?   — © ERIK S. LESSER Et si les
+   systèmes d’intelligence artificielle tendaient à reproduire certains
+   discours humains biaisés?   — © ERIK S. LESSER
+--
+   démontré que certains types de programmes informatiques d’intelligence
+   artificielle (IA) reproduisent des stéréotypes racistes ou sexistes
+   existant dans le langage. Des résultats qui interpellent, alors qu’on
+--
+   Aylin Caliskan et son équipe de l’université Princeton ont eu recours à
+   un programme nommé GloVe, une intelligence artificielle effectuant le
+   test dit d’association implicite. Mis au point en 1998 dans le cadre
+--
+   En lieu et place d’un cobaye humain, c’est donc GloVe qui s’est prêté
+   au jeu d’association d’idées. Ce programme est une IA basée sur le
+   «machine learning», c’est-à-dire capable d’apprendre, à partir de
+--
+   L’étude rappelle un épisode malheureux vécu par l’an passé par
+   Microsoft. Après avoir mis en ligne sur Twitter une IA censée
+   s’abreuver des conversations humaines, le géant de l’informatique avait
+--
+   Mais Claude Touzet l’assure, «il est possible, dans un deuxième temps,
+   de corriger ces IA, par exemple en lui imposant des lois».
+
+--
+
+   Toujours est-il que la recherche en IA ne saurait se résumer au seul
+   machine learning, rappelle Sébastien Konieczny. Une piste, conclut-il,

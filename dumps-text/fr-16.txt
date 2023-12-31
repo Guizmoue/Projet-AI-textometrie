@@ -1,0 +1,171 @@
+   Accueil / Forums & événements
+   LibéCARE: enquête
+
+Médecine : avec l’intelligence artificielle, le soin à la ligne
+
+   LibéCARE. Pensez la santé demaindossier
+   Dossiers liés
+   Intelligence artificielle : de la fascination à l'inquiétude
+   Si le potentiel de l’IA dans le domaine de la santé semble immense, il
+   reste néanmoins à apprivoiser ces outils, à en évaluer les bénéfices
+   réels et à les intégrer dans les prises en charge sans sacrifier la
+   relation de confiance entre le soignant et ses patients.
+   par Benjamin Leclercq
+   publié le 30 novembre 2023 à 21h23
+   (mis à jour le 2 décembre 2023 à 9h23)
+
+   Innovation, changement climatique, intelligence artificielle,
+   éco-anxiété : comment mieux réparer sa santé ? Rendez-vous à Rouen et à
+   Caen, les 30 novembre, 1er et 2 décembre 2023 au MoHo avec le LibéCARE
+   pour débattre avec médecins, intellectuels et experts.
+
+   Février 2023, aux Etats-Unis. Un candidat un peu spécial tente pour la
+   première fois l’examen de médecine. Il s’appelle ChatGPT… et il échoue
+   de peu. Quelques mois plus tard, un camarade du même type tente sa
+   chance. Med-PaLM – c’est le nom du rejeton de Google – obtient un score
+   de 67,6 %, soit davantage que le minimum requis (60 %). Cette fois
+   c’est officiel : une intelligence artificielle a bel et bien décroché
+   son diplôme de médecine.
+
+   Sans doute plus anecdotique (et marketing) qu’autre chose, cette course
+   logicielle à la diplomation médicale révèle toutefois une réalité bien
+   plus sérieuse, qui nous concernera bientôt toutes et tous : la médecine
+   contemporaine se passionne pour l’IA, et les progrès de cette dernière
+   sont rapides. Ce sera un des thèmes abordés à Rouen et à Caen, les 30
+   novembre, 1er et 2 décembre au MoHo lors de la seconde édition du
+   LibéCare, un forum réunissant médecins, intellectuels et experts pour
+   réfléchir et débattre des modèles de santé d’aujourd’hui et demain.
+   Récit
+
+Avec l’intelligence artificielle, la médecine sort des santés balisées
+
+   Santé
+   19 juin 2023
+
+   «A l’hôpital, c’est évident, nous assistons à une forte accélération
+   technologique. Les outils se démocratisent, comme dans l’imagerie, et
+   l’assistance numérique explose, notamment grâce à l’IA», souligne Denis
+   Vivien, professeur de biologie cellulaire et directeur scientifique de
+   l’institut Blood and Brain à Caen (BB@C). «Depuis 2015, on vit un
+   deuxième âge d’or de l’IA en médecine grâce à l’intersection de deux
+   phénomènes : la numérisation croissante des données médicales et
+   l’accès à de nouveaux calculateurs très puissants», rappelle
+   Jean-Emmanuel Bibault, médecin chercheur, spécialiste de l’IA et auteur
+   de 2041, l’odyssée de la médecine (Ed. des Equateurs, 208 pp., 19
+   euros), présent à Caen ce vendredi 1er décembre (retrouvez le programme
+   ici). De quoi formuler une double promesse, forcément attrayante
+   lorsque appliquée à la santé : «L’IA fera ce que les humains font déjà,
+   mais en beaucoup plus vite ; et fera ce que les humains ne savent pas
+   faire, par exemple prédire.»
+
+Réhumaniser les soins
+
+   Côté rapidité, les effets sont radicaux. En radiothérapie, par exemple,
+   certaines tâches comme le contourage des tumeurs prennent jusqu’à trois
+   heures au spécialiste seul, contre 20 minutes avec l’aide d’une IA.
+   L’une des hypothèses est que ce gain permettrait de réhumaniser les
+   soins. «L’IA, en déchargeant les médecins d’une partie des tâches
+   techniques ou administratives, libère du temps au profit de la relation
+   soignant-patient», estime ainsi Jean-Emmanuel Bibault.
+
+   Mais au-delà de la seule vitesse, ce sont bien des soins de meilleure
+   qualité qui sont espérés : «Il y a un consensus très fort parmi les
+   chercheurs et les cliniciens pour dire que l’IA va apporter aux
+   soignants quantité de nouveaux outils pour mieux prendre en charge les
+   patients», confirme Nicolas Revel, directeur général de l’Assistance
+   publique-Hôpitaux de Paris (AP-HP), autre invité de notre forum. «La
+   prévention des maladies, notamment, est un sujet ici très pertinent,
+   illustre Frédéric Jurie, professeur à l’université Caen-Normandie et
+   spécialiste de l’IA. Les méthodes d’apprentissage machine qui sont au
+   cœur des systèmes actuels [comme ChatGPT, ndlr] sont particulièrement
+   adaptées pour construire des modèles mathématiques à partir de données
+   brutes [images, texte, données issues de capteurs, etc.]. Cela ouvre la
+   porte à l’analyse de gros volume de données issues de cohortes de
+   personnes pour trouver, par exemple, quels sont les facteurs liés à des
+   pathologies particulières, comme la maladie d’Alzheimer par exemple.»
+
+   Reste un constat, pas des moindres : ces promesses en cascade demandent
+   encore, toutes ou presque, à être confirmées. «L’IA est prête mais
+   encore très peu opérationnelle, témoigne Jean Charlet, chargé de
+   recherche à l’AP-HP et membre du Laboratoire d’informatique médicale et
+   d’ingénierie des connaissances en e-santé (Limics). Si elle est
+   utilisée en routine dans la radiologie, partout ailleurs on est encore
+   largement au stade des preuves de concept.» Le travail s’annonce
+   copieux et sensible. «La clé, c’est de procéder par étapes, en ne
+   cédant ni à une forme de technophilie naïve ni à une défiance de
+   principe, poursuit Nicolas Revel. L’IA est un outil et comme tout
+   outil, c’est l’expérience qui lui permettra de faire ses preuves et
+   dira ses qualités et ses limites.» Il faudra pour cela ne pas céder,
+   non plus, à toutes les sirènes du marché… «A l’hôpital, c’est désormais
+   un défilé, témoigne le praticien Denis Vivien. Les start-up sont
+   toujours plus nombreuses à venir frapper à notre porte avec, sous le
+   bras, de nouveaux algorithmes pour améliorer nos protocoles ou
+   rationaliser nos coûts.»
+
+«Un système d’IA mal pensé peut faire de gros dégâts»
+
+   Pour l’IA, le temps est d’abord venu de la validation, étape
+   prioritaire mais encore en cours en structuration. «Il faut valider les
+   IA avant de les décréter dispositifs médicaux, martèle Jean Charlet.
+   Comme pour les médicaments, les essais cliniques sont impératifs car
+   ils disent si le service rendu est meilleur que ce qui existait déjà.»
+   L’un des grands écueils est ici bien identifié, c’est le piège
+   mortifère des biais. «Un système d’IA mal pensé ou alimenté avec des
+   données biaisées peut faire de gros dégâts», prévient Jean-Emmanuel
+   Bibault, citant l’exemple célèbre d’un algorithme créé à Stanford en
+   2016 pour le diagnostic des mélanomes : «Entraîné à partir de photos de
+   peaux blanches, il dysfonctionnait dans l’analyse des peaux noires,
+   créant un risque de perte de chance pour une partie des patients.»
+
+   Un autre grand chantier est celui de l’intégration de la technologie
+   sur le terrain. «C’est un défi majeur. Il y a notamment un très gros
+   travail à faire sur l’interface homme-machine, détaille Jean Charlet.
+   Sans interface fluide, l’IA louperait sa cible.» Et le chercheur de
+   rappeler l’exemple du dossier médical partagé, «dont l’intégration
+   s’est mal passée car le système, trop compliqué, était dissuasif pour
+   les praticiens». Le développement accéléré des Large language models
+   (LLM), ces outils capables de traiter et générer du langage naturel
+   (NLP), à l’instar de ChatGPT, y contribuera. L’intégration sera
+   cependant réussie si elle est transparente, tempère Nicolas Revel :
+   «D’abord vis-à-vis des patients, auxquels nous devons dire si l’IA
+   intervient et à quel stade de leur prise en charge ; ensuite vis-à-vis
+   des médecins, qui doivent savoir sur quelles bases ils fondent leurs
+   décisions, même quand elles s’appuient sur un algorithme.»
+
+«Garder le contrôle»
+
+   En amont de ce lent enracinement de l’IA dans le quotidien des soins
+   figure aussi, bien sûr, le champ de la recherche. Parmi les enjeux,
+   ici, celui de souveraineté : «Mener nos propres recherches est
+   nécessaire si nous voulons garder le contrôle sur l’IA, ne pas créer
+   des dépendances technologiques extra-européennes, avertit Jean Charlet.
+   La bonne nouvelle, c’est que nous avons en France un vrai
+   savoir-faire.» «L’avenir dépendra ici de trois facteurs clé, ajoute le
+   médecin chercheur Jean-Emmanuel Bibault. Empêcher la fuite des
+   cerveaux, se doter de serveurs français agréés pour le stockage des
+   données de santé, et fluidifier l’accès à ces données.»
+
+   Les données de santé, véritable carburant des algorithmes, voilà bien
+   le cœur des débats. «Ces données sont de plus en plus nombreuses et
+   diverses – elles vont des comptes rendus de consultation aux analyses
+   génomiques, en passant par l’imagerie, rappelle Nicolas Revel. Nous en
+   sommes les dépositaires dans le cadre d’une relation de confiance avec
+   les patients eux-mêmes. Etre digne de cette confiance est absolument
+   crucial.» «L’équilibre entre protection et accessibilité est complexe.
+   Il faut bien sûr un cadre réglementaire, mais aussi ne pas freiner
+   l’innovation et le développement, sous peine de perdre notre
+   compétitivité», plaide Jean-Emmanuel Bibault. «Trouver une régulation
+   qui permette d’exploiter ces données sans nourrir et enrichir les
+   Gafam, ni s’exposer à la menace, bien réelle, des rançongiciels, ajoute
+   Jean Charlet. En France, les chercheurs sont un peu plus coincés
+   qu’ailleurs, mais les patients mieux protégés aussi… Veiller sur cet
+   équilibre est in fine une question d’ordre politique.»
+
+Pour aller plus loin :
+
+   LibéCARE. Pensez la santé demainIntelligence artificielle : de la
+   fascination à l'inquiétude
+
+Dans la même rubrique
+
+Les plus lus

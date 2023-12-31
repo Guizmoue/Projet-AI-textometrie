@@ -1,93 +1,861 @@
-
-   [43]1 Le buzz m�diatique r�cent autour de l'intelligence artificielle
-IA
-   concurrents (ex. Bard de Google) illustre parfaitement les enjeux
-   associ�s � l'IA dans l'enseignement, la recherche et les organisations.
+       (BUTTON) Afficher / masquer la sous-section Quelques précurseurs
+          + 2.1L'intelligence artificielle : mythes, fiction et
+            spéculation
 --
-   homme-machine (Card et al., 1983) ou encore la dualit� des technologies
-   (Orlikowski et Robey, 1991) constituent des cadres d'analyse pertinents
-IA
-   analys�e sous l'angle de l'anthropomorphisation (repr�sentation ou
-   conception d'un �tre non humain ou une chose, ici l'IA, sous la forme
+          + 2.3Raisonnement formel
+          + 2.4Intelligence artificielle et premiers ordinateurs
+     * 3Naissance: 1943−1956
 --
-   malaise et un sentiment d'inconfort et donc un rejet de l'outil.
-
-IA
-intelligence artificielle
-   d'un �tudiant, un article de presse, un film) et de proposer des id�es,
-   sous de multiples formats (ex. textes, images, vid�os, musique, etc.).
+          + 3.1Cybernétique et premiers réseaux neuronaux
+          + 3.2L'intelligence artificielle dans les jeux
+          + 3.3Test de Turing
 --
-   Tout cela pourrait certes �tre une campagne savamment orchestr�e pour
-   se donner bonne conscience et faire du buzz, mais un temps de r�flexion
-IA
-IA
-   fait le travail que le chercheur est cens� faire en utilisant des
-   donn�es massives, et peut par exemple faire une revue de la litt�rature
+          + 3.6Conférence de Dartmouth de 1956 : naissance de
+            l'intelligence artificielle
+     * 4L'âge d'or 1956−1974
 --
-   connaissance qui est largement remis en cause. L'usage de ChatGPT
-   renvoie �galement � la th�matique du remplacement de l'enseignant par
-IA
-   en un temps record sur une infinit� de sujets aux �tudiants. Dans ce
-   cadre, il pourrait �tre tentant pour de nombreux enseignants
+          + 4.3Le financement
+     * 5La première hibernation de l'intelligence artificielle (1974−1980)
+       (BUTTON) Afficher / masquer la sous-section La première hibernation
+       de l'intelligence artificielle (1974−1980)
+          + 5.1Les problèmes
 --
-   toujours exist�. La r�action salutaire r�side, � notre sens, dans
-   l'adaptation et l'accompagnement pour un usage raisonn� et raisonnable
-IA
-   comporte des atouts objectifs dans l'aide � la d�cision. Keiper (2023)
-   montre par exemple que ChatGPT est un outil pertinent et efficace
+          + 6.4La renaissance du connexionnisme
+     * 7La crise : le second hiver de l'IA 1987−1993
+       (BUTTON) Afficher / masquer la sous-section La crise : le second
+       hiver de l'IA 1987−1993
+          + 7.1Une seconde hibernation
+          + 7.2L'importance du corps : Nouvelle intelligence artificielle
+            et embodiment
 --
-   logique dans le cadre d'une chronologie certainement non encore
-   aboutie. En effet, Mostapha Suleyman, co-fondateur de Google DeepMing
-AI
-IA
-   d'imaginer des actions toute seule si on lui accorde la permission.
-
-IA
-   faciliter une premi�re approche bibliographique sur un sujet d'�tude
-   donn�. Elle ne doit en aucun cas se substituer � la lecture
+          + 8.3« Victoire des élégants »
+          + 8.4L'IA, travailleur de l'ombre
+     * 92001 et HAL 9000
+--
+     * 11De 2009 à aujourd'hui
+     * 12La recherche en intelligence artificielle en France
+     * 13Notes et références
 --
 
-   [54]9 Dans les organisations, il nous para�t essentiel d'avoir une
-IA
-   compte des sp�cificit�s sectorielles, avant d'envisager les solutions �
-   mettre en place. Comme dans l'enseignement et la recherche, le sc�nario
---
-   vuln�rabilit� ou de handicap ?...). Il convient �galement dans le
-   contexte du d�r�glement climatique d'avoir en t�te le co�t
-IA
-   les usages qui en sont faits sont bien utiles.
+Histoire de l'intelligence artificielle
 
 --
-   la recherche comme dans les organisations, il convient de mettre en
-   place des garde-fous pour un usage raisonnable, transparent et
-IA
+   Des précurseurs existent dès l'Antiquité, mais c'est surtout après la
+   seconde guerre mondiale que l'intelligence artificielle (IA) prend son
+   essor. Après quelques succès, un premier « hiver » démarre en 1974,
+   marqué par des désillusions et des coupes budgétaires. L'IA fait son
+   retour dans les années 1980, notamment avec les systèmes experts, mais
+   un second hiver s'ensuit^[1]. Au XXI^e siècle, l'IA a suscité un
+   enthousiasme grandissant, notamment avec l'avènement de l'apprentissage
+--
 
-Notes
+   Les premiers jalons historiques de l'intelligence artificielle (ou IA)
+   datent de la Protohistoire, où mythes, légendes et rumeurs dotent des
 --
-     * [56][1]
-       [57]https://www.futura-sciences.com/tech/actualites/intelligence-ar
-ia
-       ctive-107777/?fbclid=IwAR3GhmnBJ3Jxl02obgr2ZuYqC6i0AEka7Sq5K0rYh5f0
-       Zyxx9MZaQCHWL9E
+   intelligence ou d'une conscience ; comme l'écrit Pamela McCorduck (en),
+   l'intelligence artificielle commence avec « le vieux souhait de jouer à
+   Dieu^[4] ».
+
+   L'intelligence artificielle comme nous l'entendons aujourd'hui a été
+   initiée par les philosophes classiques, dont Gottfried Wilhelm Leibniz
 --
-       13, n� 3, p. 319-340.
-     * Dimitropoulos K., Daras P., Manitsaris S., Fol Leymarie F. et
-Artificial intelligence
-AI
-       n� 712, p. 521.
-     * Keiper M.C. (2023). "ChatGPT in practice : Increasing event
-artificial intelligence
-       Hospitality, Leisure, Sport & Tourism Education, vol. 33, n� 100,
-       p. 454.
+   la suite de cette réunion, certains participants se sont investis dans
+   une recherche sur l'intelligence artificielle. Certains utopistes ont
+   pronostiqué qu'une machine aussi intelligente qu'un être humain
 --
-       2, n� 2, p. 143-169.
-     * Peres R., Schreier M., Schweidel D. et Sorescu A. (2023). "On
-artificial intelligence
-       affect research, teaching, and practice", International Journal of
-       Research in Marketing, vol. 40, n� 2, p. 269-275.
+   l'initiative prophétique du Cabinet du Japon, les gouvernements et
+   l'industrie réinvestissent dans l'intelligence artificielle, mais à la
+   fin des années 1980 les décideurs désabusés retirent à nouveau leurs
 --
-  55. https://www.cairn.info/revue-francaise-de-gestion-2023-5-page-9.htm#pa10
-  56. https://www.cairn.info/revue-francaise-de-gestion-2023-5-page-9.htm#re1no1
-ia
-  58. https://www.cairn.info/revue-francaise-de-gestion-2023-5-page-9.htm#re2no2
-  59. https://www.cairn.info/revue-francaise-de-gestion-2023-5-page-9.htm#re3no3
+   Malgré des hauts et des bas et en dépit de certaines réticences de
+   décideurs et investisseurs, l'intelligence artificielle progresse. Les
+   progrès de l'algorithmique ont permis de résoudre des problèmes que les
+--
+   ces solutions sont comercialisées. Mais aucune machine dotée d'une
+   intelligence artificielle forte n'a encore été construite,
+   contrairement aux prévisions optimistes de la première génération de
+--
+   mathématique, etc., l'emporte à la DARPA, principal organisme finançant
+   les recherches en intelligence artificielle, l'approche neuronale
+   refait surface dans les années 1980, inspirant les travaux sur le
+--
+
+   L'intelligence artificielle ayant, à ses débuts, surtout émergé aux
+   États-Unis, cet article se focalisera essentiellement sur ce pays.
+--
+
+   McCorduck 2004 écrit en 2004 que « l'intelligence artificielle sous une
+   forme ou une autre est une idée qui s'est répandue dans l'histoire de
+--
+
+L'intelligence artificielle : mythes, fiction et spéculation[modifier |
+modifier le code]
+--
+
+   L'IA est un élément important de la science-fiction.
+
+--
+
+   L'intelligence artificielle se fonde sur l'hypothèse que le processus
+   de pensée humaine peut être mécanisé. L'étude du raisonnement mécanique
+--
+   articuler les hypothèses d'un système de symboles physiques qui
+   deviendra par la suite l'un des dogmes de la recherche en IA. Leibniz a
+   toutefois mis en avant la difficulté liée à l’interconnexion des les
+--
+   Au XX^e siècle, l'étude de la logique mathématique a fourni l'essentiel
+   des avancées qui ont rendu plausible l'intelligence artificielle.
+   George Boole a inventé la formulation mathématique des processus
+--
+   sens^[Note 1] n'est pas toujours formalisé, ce qui ramène au problème
+   de la signification en intelligence artificielle, et de la subjectivité
+   des utilisateurs.
+--
+
+   Mais aussi (et plus important encore pour l'IA) leurs travaux ont
+   suggéré que, sous ces conditions, toute forme de raisonnement
+--
+
+Intelligence artificielle et premiers ordinateurs[modifier | modifier le
+code]
+--
+   [420px-BRL61-IBM_702.jpg] L'IBM 702 : un ordinateur utilisé par la
+   première génération de chercheurs en IA.
+
+--
+   Minsky allait devenir l'un des plus importants leaders et innovateurs
+   en IA des cinquante années suivantes.
+
+L'intelligence artificielle dans les jeux[modifier | modifier le code]
+
+--
+   années 1960, a fini par acquérir un niveau suffisant pour défier un bon
+   amateur^[42]. De fait, l'intelligence artificielle dans les jeux sert
+   d'étalon des avancées de l'intelligence artificielle.
+
+--
+   créer des programmes importants durant les premières décennies de la
+   recherche en IA^[52]. Newell et Simon y ont présenté le programme
+   informatique Logic Theorist (« Théoricien logique »), parfois décrit
+   comme le premier programme d'intelligence artificielle
+   fonctionnant^[53]. Pendant la conférence, McCarthy a convaincu
+   l'auditoire d'accepter l'expression « Intelligence Artificielle » comme
+   intitulé du domaine^[54]. La conférence de Dartmouth de 1956 a été le
+   moment-clé où l'intelligence artificielle a été appelée comme telle, a
+   défini ses objectifs, a concrétisé ses premières réussites et a réuni
+   ses acteurs importants. Cette conférence est souvent considérée comme
+   le moment fondateur de l'intelligence artificielle en tant que
+   discipline indépendante^[5]^,^[55].
+--
+
+   Un but majeur de la recherche en IA est de permettre aux ordinateurs de
+   communiquer en langage naturel comme l'anglais. Un des premiers succès
+--
+   ex. « possède un ») par des liaisons entre ces nœuds. Le premier
+   programme d'IA à utiliser un réseau sémantique a été écrit par Ross
+   Quillian^[66] et la version la plus performante (et controversée) a été
+--
+   À la fin des années 1960, Marvin Minsky et Seymour Papert du
+   Laboratoire d'IA du MIT ont proposé que la recherche d'IA se concentre
+   sur des situations artificiellement simplifiées appelées aussi
+--
+
+   La première génération de chercheurs en IA fait les prévisions
+   suivantes à propos de leur travail :
+--
+     * En 1967, Marvin Minsky : « dans une génération [...] le problème de
+       la création d'une 'intelligence artificielle' [sera] en grande
+       partie résolu^[73] ».
+--
+   qui deviendra plus tard la DARPA). L'argent est utilisé pour financer
+   le Projet MAC (en) qui englobe le « Groupe IA » fondé par Minsky et
+   McCarthy cinq ans plus tôt. L'ARPA continue à fournir trois millions de
+--
+   projet Stanford I.A. (fondé par John McCarthy en 1963)^[76]. Un autre
+   laboratoire important d'IA est établi à l'université d'Édimbourg par
+   Donald Michie en 1965^[77]. Ces quatre institutions continuent d'être
+   les principaux centres de recherche en IA au niveau académique pendant
+   de nombreuses années^[78].
+--
+   et Lawrence Roberts (1969-1972), tous proches du MIT et dans la
+   continuité de Licklider vis-à-vis de l'IA. Néanmoins cette attitude non
+   interventionniste ne dure pas.
+
+La première hibernation de l'intelligence artificielle (1974−1980)[modifier |
+modifier le code]
+
+   Dans les années 1970, l'intelligence artificielle subit critiques et
+   revers budgétaires, car les chercheurs en intelligence artificielle
+   n'ont pas une vision claire des difficultés des problèmes auxquels ils
+--
+   excessive et quand les résultats promis ne se matérialisent pas, les
+   investissements consacrés à l'intelligence artificielle
+   s'étiolent^[81]. Dans la même période, le connexionisme a été presque
+--
+   dévastatrice de Marvin Minsky sur les perceptrons^[82]. Malgré l'image
+   négative de l'intelligence artificielle dans le grand public à la fin
+   des années 1970, de nouvelles idées sont explorées en programmation
+--
+
+   Au début des années 1970, les capacités des programmes d'IA sont
+   limitées. Les plus performants peinent à manipuler des versions
+--
+   problèmes sont, d'une certaine manière, des « broutilles^[84] ». De
+   fait, les chercheurs en IA font face à plusieurs limites fondamentales
+   insurmontables et bien que certaines limites soient dépassées depuis,
+--
+   solutions optimales était impensable, avec comme conséquence que les
+   problèmes fondamentaux de l'intelligence artificielle ne passeront pas
+   à l'échelle^[89].
+--
+
+   De nombreuses applications majeures d'intelligence artificielle comme
+   la vision par ordinateur ou le traitement automatique du langage
+--
+
+   Les chercheurs en intelligence artificielle et en robotique Hans
+   Moravec, Rodney Brooks et Marvin Minsky mirent en évidence que le
+--
+
+   Les chercheurs en IA (comme John McCarthy) qui se sont servis de la
+   logique ont découvert qu'ils ne pouvaient pas représenter des
+--
+
+   Les agences qui ont investi dans la recherche en IA (comme le
+   gouvernement britannique, la DARPA et le NRC, Conseil américain de la
+   recherche) deviennent frustrées par le manque de progrès et finissent
+   par couper pratiquement tous les fonds de recherche fondamentale en IA.
+   Ce comportement commence dès 1966 quand un rapport de l'ALPAC^[Note 6]
+--
+   dépensé 20 millions de dollars, le NRC décide de tout arrêter^[96]. En
+   1973, le Rapport Lighthill (en) sur l'état de la recherche en IA en
+   Angleterre a critiqué l'échec lamentable de l'IA à atteindre ses
+   « ambitieux objectifs » et a conduit au démantèlement de la recherche
+   en IA dans ce pays^[97] (Ce rapport mentionne en particulier le
+   problème d'explosion combinatoire comme une des raisons des échecs de
+   l'IA^[98]). Quant à la DARPA, elle a été extrêmement déçue par les
+   chercheurs travaillant dans le programme Speech Understanding Research
+--
+   de dollars^[99]. Vers 1974, trouver des financements pour des projets
+   d'IA était donc chose rare.
+
+--
+   Plusieurs philosophes émettent de fortes objections aux affirmations
+   des chercheurs en IA. Un des premiers opposants est John Lucas, qui
+   s'appuie sur le théorème d'incomplétude de Gödel pour contester
+--
+   certaines affirmations^[102]. Hubert Dreyfus ridiculise les promesses
+   non tenues des années soixante et critique les hypothèses de l'IA,
+   argumentant que le raisonnement humain avait en fait besoin de très peu
+--
+   Ces critiques ne sont pas vraiment prises en considération par les
+   chercheurs en IA, tant certaines ne visent pas l'essence du problème.
+   Les questions telles que l'indécidabilité, la complexité inhérente ou
+--
+   Dreyfus, qui enseigne au MIT, sont accueillies fraîchement : il a plus
+   tard avoué que les chercheurs en IA « n'osaient pas manger avec moi de
+   peur que nous soyons vus ensemble^[107] ». Joseph Weizenbaum, l'auteur
+--
+
+   Weizenbaum commence à avoir de sérieux doutes éthiques à propos de l'IA
+   quand Kenneth Colby écrit DOCTOR, un agent conversationnel thérapeute.
+--
+   informatique et raison humaine (en) qui explique que le mauvais usage
+   de l'intelligence artificielle peut potentiellement conduire à
+   dévaloriser la vie humaine^[109].
+--
+   Un perceptron est un type de réseaux neuronaux introduit en 1958 par
+   Frank Rosenblatt^[110]. Comme la plupart des chercheurs en IA de
+   l'époque, il est optimiste, prédisant qu'« un perceptron pourra être
+--
+
+   John McCarthy introduit l'usage de la logique en IA dès 1958, dans son
+   Advice Taker^[Note 7]^,^[112]. En 1963, J. Alan Robinson découvre une
+--
+   tard la programmation orientée objet empruntera aux cadres de
+   l'intelligence artificielle la notion d'« héritage ».
+
+--
+
+   Dans les années 1980, des programmes d'IA appelés « systèmes experts »
+   sont adoptés par les entreprises et la connaissance devient le sujet
+   central de la recherche en IA. Au même moment, le gouvernement japonais
+   finance massivement l'IA à travers son initiative « ordinateurs de
+   cinquième génération (en) ». Un autre évènement est la renaissance du
+--
+   Finalement, ces programmes se révèlent utiles, car c'est la première
+   fois que l'intelligence artificielle trouve une application
+   pratique^[122].
+--
+   déployer leurs systèmes experts et vers 1985 plus d'un milliard de
+   dollars est dépensé en intelligence artificielle, majoritairement dans
+   les centres industriels de recherche et développement. Tout un secteur
+--
+   contiennent. Ils font partie d'une nouvelle direction de recherche en
+   IA qui a gagné du terrain dans les années 1970. « Les chercheurs en IA
+   commençaient à soupçonner — avec réticence, car ça allait contre le
+--
+   des connaissances sont devenus centraux dans la recherche en
+   intelligence artificielle des années 1980^[127].
+
+--
+   Computer Technology Corporation (ou MCC) pour financer des projets en
+   informatique et en intelligence artificielle à grande
+   échelle^[131]^,^[132]. La DARPA a aussi réagi en fondant la Strategic
+   Computing Initiative (Initiative Informatique Stratégique) et en
+   triplant ses investissements en IA entre 1984 et 1988^[133].
+   [220px-Hopfield-net-vector.svg.png] Un réseau d'Hopfield à quatre
+--
+
+La crise : le second hiver de l'IA 1987−1993[modifier | modifier le code]
+
+--
+   artificielle a gonflé puis chuté dans les années 1980 en suivant le
+   schéma classique d'une bulle économique. L'effondrement de l'IA a eu
+   lieu au niveau de la perception que les investisseurs et les agences
+--
+   chercheurs dans le domaine voisin de la robotique, plaident pour une
+   approche entièrement neuve de l'intelligence artificielle.
+
+--
+
+   L'expression « hiver de l'IA » a circulé parmi les chercheurs qui,
+   ayant déjà vécu les coupes de budget de 1974, réalisent avec inquiétude
+--
+   sont effectivement fondées : entre la fin des années 1980 et le début
+   des années 1990, l'intelligence artificielle a subi une série de coupes
+   budgétaires.
+--
+   effondrement du marché du matériel informatique spécialiste de
+   l'intelligence artificielle en 1987. Les ordinateurs de bureau d'Apple
+   et IBM ont progressivement amélioré leur vitesse et leur puissance et
+--
+   la DARPA a complétement et abruptement coupé ses subsides à
+   l'intelligence artificielle. Une nouvelle direction de la DARPA ayant
+   conclu que l'intelligence artificielle n'est plus de « dernière mode »,
+   elle a redirigé les subventions vers des projets plus propices à des
+--
+   conversation ordinaire » ne l'ont toujours pas été vingt ans plus
+   tard^[140]. Comme pour d'autres projets en intelligence artificielle,
+   la barre a été placée beaucoup trop haut^[140].
+
+L'importance du corps : Nouvelle intelligence artificielle et
+embodiment[modifier | modifier le code]
+--
+   À la fin des années 1980, plusieurs chercheurs plaident pour une
+   approche de l'intelligence artificielle complétement inédite, centrée
+   sur la robotique^[141]. Ils pensent que pour mettre en évidence une
+--
+   (à la fois la logique de McCarthy et les cadres de Minsky), arguant que
+   l'intelligence artificielle a besoin de comprendre la machinerie
+   physique de la vision par le bas avant qu'un traitement symbolique
+--
+
+   Le champ de l'intelligence artificielle, avec plus d'un demi-siècle
+   derrière lui, a finalement réussi à atteindre certains de ses plus
+--
+   hauts standards d'intégrité scientifique. Néanmoins, la réputation de
+   l'IA, dans le monde des affaires au-moins, est loin d'être parfaite. En
+   interne, on n'arrive pas à vraiment expliquer les raisons de l'échec de
+   l'intelligence artificielle à répondre au rêve d'un niveau
+   d'intelligence équivalent à l'Homme qui a captivé l'imagination du
+   monde dans les années 1960. Tous ces facteurs expliquent la
+   fragmentation de l'IA en de nombreux sous-domaines concurrents
+   consacrés à une problématique ou une voie précise, allant même parfois
+   jusqu'à choisir un nom qui évite l'expression désormais souillée
+   d'« intelligence artificielle^[147] ». L'IA a du coup été à la fois
+   plus prudente mais aussi plus fructueuse que jamais.
+--
+   premiers chercheurs aient proposé des approches modulaires de type
+   « diviser pour régner » en intelligence artificielle^[154], l'agent
+   intelligent n'a pas atteint sa forme moderne avant que Judea Pearl,
+--
+   artificielle comme l'« étude des agents intelligents ». C'est une
+   généralisation de certaines des premières définitions de l'IA : elle va
+   au-delà de l'étude de l'intelligence humaine ; elle étudie tout type
+--
+
+   Les chercheurs en intelligence artificielle développent et utilisent
+   des outils mathématiques sophistiqués comme jamais auparavant^[158].
+--
+   conduisent à des fertilisations croisées et à la collecte de données
+   mesurables et démontrables ; l'intelligence artificielle progresse vers
+   l'« orthodoxie scientifique ». Russell et Norvig 2003 qualifie cela de
+--
+
+L'IA, travailleur de l'ombre[modifier | modifier le code]
+
+   Des algorithmes initialement développés par des chercheurs en
+   intelligence artificielle commencent à faire partie de systèmes plus
+   larges. L'IA a résolu beaucoup de problèmes très complexes^[162] et
+   leurs solutions ont servi à travers tout le secteur
+--
+
+   Le domaine de l'intelligence artificielle n'a quasiment reçu aucun
+   crédit pour ces réussites. Certaines de ses plus grandes innovations
+   ont été réduites au statut d'un énième item dans la boîte à outils de
+   l'informatique^[168]. Nick Bostrom explique : « Beaucoup d'IA de pointe
+   a filtré dans des applications générales, sans y être officiellement
+   rattachée car dès que quelque chose devient suffisamment utile et
+   commun, on lui retire l'étiquette d'IA^[169]. »
+
+   Beaucoup de chercheurs en intelligence artificielle dans les années
+   quatre-vingt-dix ont volontairement appelé leurs études par d'autres
+--
+   être partiellement car ils considèrent leur domaine comme
+   fondamentalement différent de l'IA, mais aussi car ces nouveaux noms
+   facilitent les financements. Dans le secteur commercial au-moins, les
+   promesses non tenues de l'hiver de l'IA continuent de hanter la
+   recherche en intelligence artificielle, comme le New York Times le
+   rapporte en 2005 : « Les scientifiques en informatique et les
+   ingénieurs logiciel ont évité l'expression 'intelligence artificielle'
+   par crainte d'être considérés comme de doux illuminés
+--
+   s'appuie sur une opinion répandue chez nombre de chercheurs en
+   intelligence artificielle à savoir qu'une telle machine existera en
+   2001^[173].
+--
+   arriveront vers 2030^[176]. Pour d'autres chercheurs, une intelligence
+   artificielle forte (ou intelligence artificielle générale) ne serait
+   possible que dans plusieurs décennies, voire plusieurs siècles^[177].
+--
+
+   L'intelligence artificielle est un sujet d'actualité au XXI^e siècle.
+   En 2004, le Singularity Institute a lancé une campagne Internet appelée
+--
+   des mammifères. Il s'agit d'une des méthodes envisagées pour réaliser
+   une IA. Ils annoncent de plus comme objectif de fabriquer en dix ans le
+   premier « vrai » cerveau électronique^[180]. En mars 2007, le
+--
+   Californie, dans une conférence organisée par l'Association for the
+   Advancement of Artificial Intelligence (AAAI), un groupe
+   d'informaticiens se demande s'il devrait y avoir des limites sur la
+--
+   informatiques par l'humanité. Il y abordent les progrès et le potentiel
+   de l'IA, ainsi que les risques associés aux armes léthales autonomes,
+   au chômage technologique et aux concepts d'explosion d'intelligence et
+--
+   En 2009, le Massachusetts Institute of Technology (MIT) a lancé un
+   projet visant à repenser la recherche en intelligence artificielle. Il
+   réunira des scientifiques qui ont eu du succès dans des domaines
+   distincts de l'IA. Neil Gershenfeld déclare « Nous voulons
+   essentiellement revenir 30 ans en arrière et revisiter certaines idées
+--
+   l'entreprise DeepMind, avec pour objectif la création d'une
+   intelligence artificielle générale qui serait capable de faire tout ce
+   que le cerveau d'un être humain pourrait faire^[187]. En 2014, DeepMind
+   est rachetée par Google^[188]. En 2016, l'IA AlphaGo de DeepMind a
+   battu le meilleur joueur de go au monde^[189]. Par la suite, DeepMind
+--
+   deux des trois manches du jeu télévisé Jeopardy! en battant largement
+   ses deux concurrents humains en gains cumulés. Pour cette IA, la
+   performance a résidé dans le fait de répondre à des questions de
+--
+   qu'un ordinateur classique^[197], ils espèrent ainsi faire progresser
+   l'intelligence artificielle, notamment l'apprentissage automatique. En
+   2017, des chercheurs de Google ont conçu l'architecture transformeur,
+--
+
+   Le Facebook Artificial Intelligence Research (FAIR), créé en 2013 et
+   dirigé par le chercheur français Yann Le Cun, annonce en 2015
+--
+   s'inquiètent du risque pour l'humanité que pourrait représenter une
+   future superintelligence artificielle. Parmi eux, l'astrophysicien
+   britannique Stephen Hawking^[200], le fondateur de Microsoft Bill
+--
+   employés d'OpenAI quittent l'entreprise pour monter Anthropic, une
+   start-up d'IA priorisant la sûreté de l'IA^[205]. Également en 2021,
+   OpenAI s'associe avec Microsoft pour lancer GitHub Copilot, un logiciel
+   de complétion de codebasé sur un grand modèle de langage^[206]. En
+   2022, OpenAI lance DALL-E 2, un modèle d'IA pouvant générer des images
+   correspondant à des textes, qui se retrouve rapidement concurrencé par
+--
+
+   En janvier 2018, des modèles d'intelligence artificielle développés par
+   Microsoft et Alibaba réussissent chacun de leur côté à battre les
+--
+
+La recherche en intelligence artificielle en France[modifier | modifier le
+code]
+
+   La recherche en intelligence artificielle en France débute vers la fin
+   des années soixante-dix, avec notamment le GR 22 (appelé aussi groupe
+--
+   l'organisation de la conférence International Joint Conference on
+   Artificial Intelligence à Chambéry en 1993, et la création d'un
+   GRECO-PRC^[Note 11] intelligence artificielle, en 1983, il donne
+   naissance à une société savante, l'AFIA en 1989, qui, entre autres,
+   organise des conférences nationales en intelligence artificielle^[212].
+   C'est de cette école française qu'est issu Yann Le Cun.
+--
+   à l'Homme de garder la main ? »^[213] incluant des recommandations pour
+   la construction d'un modèle éthique d'intelligence artificielle. En
+   septembre 2017, Cédric Villani, premier vice-président de l'Office
+--
+   (OPECST)^[214], est chargé de mener une consultation publique sur
+   l'intelligence artificielle^[215]. Il rend son rapport le 28 mars
+   2018^[216]. Le lendemain, Emmanuel Macron annonce un plan de 1,5
+--
+   de la législation française pour permettre la mise en application de
+   l'intelligence artificielle, en particulier concernant la circulation
+   des véhicules autonomes^[217]. Il a exprimé sa vision de l'intelligence
+   artificielle, à savoir que les algorithmes utilisés par l'État doivent
+   être ouverts, que l'intelligence artificielle doit être encadrée par
+   des règles philosophiques et éthiques et qu'il faut s'opposer à l'usage
+--
+   consulter un humain^[218]^,^[219]. Pour le second quinquennat
+   (2022-2026), un plan de financement pour l'IA de 2,22 milliards d'euros
+   est prévu^[220].
+--
+    5. ↑ Cette condition de puissance est bien nécessaire ici, mais pas
+       suffisante, car les problèmes d'IA sont intrinsèquement difficiles
+       et complexes.
+--
+       projets de recherche en matériel informatique de pointe et en
+       intelligence artificielle sur la décennie 1983-1993, depuis la
+       conception et fabrication de puces à des logiciels d'intelligence
+--
+       Blue). À la louche, ces deux grandeurs diffèrent d'un facteur 10^7.
+   10. ↑ Reconnaissance des formes et intelligence artificielle, congrès
+       AFCET-IRIA, Toulouse 12, 13, 14 septembre 1979. Il est intitulé
+--
+    2. ↑ (en) Sharon Goldman, « 10 years later, deep learning ‘revolution’
+       rages on, say AI pioneers Hinton, LeCun and Li », sur VentureBeat,
+       14 septembre 2022 (consulté le 10 décembre 2023)
+    3. ↑ ^a et b (en) Madhumita Murgia, « Transformers: the Google
+       scientists who pioneered an AI revolution », sur www.ft.com
+       (consulté le 10 décembre 2023)
+    4. ↑ McCorduck 2004
+    5. ↑ ^a et b Jacques Henno, « 1956 : et l’intelligence artificielle
+       devint une science », sur Les Echos, 21 août 2017 (consulté le 16
+--
+       University, 1985, p. 57-71
+   22. ↑ IA et mécanisme du XVII^e siècle :
+          + McCorduck 2004, p. 37–46
+--
+       Court Pub, 1952 (OCLC 615373478).
+   26. ↑ Le lambda-calcul est particulièrement important en IA, car il a
+       inspiré le langage Lisp (le principal langage utilisé en IA).
+       Crevier 1993, p. 190-196,61
+--
+       gros du travail a été effectué.
+   36. ↑ « Andreas Kaplan (2022) Artificial Intelligence, Business and
+       Civilization - Our Fate Made in Machines, Routledge, ISBN
+--
+   44. ↑ Russell et Norvig 2003, p. 948 déclare que Turing répond à toutes
+       les objections majeures à l'IA qui sont apparues dans les années
+       qui suivirent la publication de cet article.
+--
+       la « machine » en tant qu'agent qui manipule des symboles (voir
+       aussi la philosophie de l'intelligence artificielle).
+   52. ↑ McCorduck 2004, p. 129–130 raconte comment les anciens de la
+       conférence de Dartmouth ont dominé les deux premières décennies de
+       la recherche en IA, les surnommant la « faculté invisible ».
+   53. ↑ McCorduck 2004, p. 123-125
+--
+       McCarthy indique à Pamela McCorduck en 1979 à propos du terme
+       intelligence artificielle (McCorduck 2004, p. 114). Cependant,
+       McCarthy a aussi déclaré sans équivoque « J'ai inventé le terme »
+       dans une interview du CNET (Skillings 2006).
+--
+   87. ↑ Moravec 1976. McCarthy a toujours été opposé à Moravec là-dessus,
+       dès leurs premiers jours ensemble au Laboratoire d'IA de Stanford.
+       Il a déclaré : « Je dirais qu'il y a cinquante ans, les capacités
+--
+       répondu que « le problème de l'explosion combinatoire était connu
+       en IA depuis le départ » dans (en) Review of Lighthill report
+   99. ↑ Crevier 1993, p. 115−116 (où ce constat apparaît). D'autres
+--
+       politique pragmatique de la DARPA, au-moins à son niveau.
+   102. ↑ Critique de l'IA de Lucas et Penrose : Crevier 1993, p. 22,
+       Russell et Norvig 2003, p. 949−950, Hofstadter 1979, p. 471−477 et
+--
+       1965, Dreyfus 1972, Dreyfus et Dreyfus 1986
+   105. ↑ Critique de l'IA de Searle : McCorduck 2004, p. 443−445, Crevier
+       1993, p. 269−271, Russell et Norvig 2003, p. 958−960 ainsi que
+--
+   107. ↑ Cité dans Crevier 1993, p. 122
+   108. ↑ « J'étais alors le seul membre de la communauté d'IA qu'on
+       pouvait voir déjeuner avec Dreyfus. Et j'ai clairement fait
+       comprendre qu'on ne traitait pas ainsi un autre être humain. »
+       Joseph Weizenbaum, cité dans Crevier 1993, p. 123.
+   109. ↑ Critique de l'IA de Weizenbaum : McCorduck 2004, p. 356−373,
+       Crevier 1993, p. 132−144, Russell et Norvig 2003, p. 961 et aussi
+--
+   117. ↑ Une première occurrence de l'opinion de McCathy apparaît dans le
+       journal Science : « C'est de l'IA, donc peu importe que ce soit
+       psychologiquement correct » (Kolata 1982), et il a confirmé 20 ans
+       plus tard son opinion à la conférence AI@50 (Dartmouth Artificial
+       Intelligence Conference: The Next Fifty Years) de 2006 où il
+       explique que « l'Intelligence artificielle n'est pas, par
+       définition, la simulation de l'intelligence humaine » (Maker 2006).
+--
+       procédural/déclaratif » mais ne s'est pas révélé important dans les
+       recherches en IA ultérieures.
+   120. ↑ McCorduck 2004, p. 305–306, Crevier 1993, p. 170−173, 246 et
+--
+   135. ↑ Crevier 1993, p. 215−216.
+   136. ↑ Crevier 1993, p. 203. L’hiver de l'IA est apparu pour la
+       première fois dans le nom d'un séminaire sur le sujet de
+       l’Association for the Advancement of Artificial Intelligence.
+   137. ↑ McCorduck 2004, p. 435, Crevier 1993, p. 209−210
+--
+   142. ↑ Moravec 1988, p. 20 a écrit : « Je suis sûr que la direction de
+       bas en haut de la recherche en IA rencontrera un jour la plus
+       classique voie de haut en bas, et ce, après avoir parcouru la
+--
+   147. ↑ McCorduck 2004, p. 424 discute cet éclatement et la mise au ban
+       des objectifs initiaux de l'IA.
+   148. ↑ McCorduck 2004, p. 480–483.
+--
+       acceptée dans le domaine. » On discute du paradigme de l'agent
+       intelligent dans les textes majeurs de l'IA, comme Russell et
+       Norvig 2003, p. 32−58, 968−972, Poole, Mackworth et Goebel 1998,
+--
+   155. ↑ ^a et b Russell et Norvig 2003, p. 27, 55
+   156. ↑ C'est cette définition de l'intelligence artificielle qui est
+       globalement acceptée par tous les textes du xxi^e siècle, cf.
+--
+   160. ↑ McCorduck 2004, p. 487: « Au moment où j'écris ces lignes,
+       l'intelligence artificielle bénéficie d'une hégémonie élégante. »
+   161. ↑ Pearl 1988
+   162. ↑ Voir certaines applications de l'intelligence artificielle
+   163. ↑ NRC 1999 dans « Artificial Intelligence in the 90s », et
+       Kurzweil 2005, p. 264
+   164. ↑ Russell et Norvig 2003, p. 28
+   165. ↑ Pour un état de l'art de l'intelligence artificielle sur la
+       reconnaissance vocale en 2007, lire The Economist 2007
+   166. ↑ ^a et b « Des systèmes inspirées par l'IA faisaient déjà partie
+       de nombreuses technologies de tous les jours telles que les moteurs
+--
+   174. ↑ Il continue ainsi : « La réponse est, Je crois que l'on aurait
+       pu… J'ai assisté une fois à une conférence internationale sur le[s]
+       réseau[x] neurona[ux]. Il y avait quarante mille inscrits… mais… si
+--
+       représentations multiples du raisonnement de culture générale, je
+       n'ai réussi à trouver que 6 ou 7 personnes dans le monde entier. »
+       Minsky 2001
+--
+   176. ↑ Kurzweil 2005
+   177. ↑ Anne Cagan, « IA faible / IA forte : on en est où au fait ? »,
+       sur Journal du Geek, 14 mars 2019 (consulté le 13 décembre 2023)
+--
+       York Times, 25 juillet 2009.
+   182. ↑ (en) « Science goes back to basics on AI », sur BBC News, 8
+       décembre 2009.
+--
+       FA8751-10-R-0003 », sur fbo.gov, 22 décembre 2009.
+   185. ↑ Benoît Georges, « Intelligence artificielle : de quoi
+       parle-t-on ? », Constructif,‎ 2019 (lire en ligne)
+   186. ↑ Morgane Tual, « Comment le « deep learning » révolutionne
+       l'intelligence artificielle », Le Monde.fr,‎ 24 juillet 2015 (lire
+       en ligne, consulté le 15 décembre 2023)
+--
+   189. ↑ (en) J. Edward Moreno, « Who’s Who Behind the Dawn of the Modern
+       Artificial Intelligence Movement », The New York Times,‎ 3 décembre
+       2023 (ISSN 0362-4331, lire en ligne, consulté le 10 décembre 2023)
+--
+       décembre 2023)
+   191. ↑ (en) Nick Statt, « DeepMind’s StarCraft 2 AI is now better than
+       99.8 percent of all human players », sur The Verge, 30 octobre 2019
+       (consulté le 12 décembre 2023)
+   192. ↑ « L'intelligence artificielle "Gato" peut-elle surpasser
+       l'intelligence humaine ? », sur www.lesnumeriques.com, 3 juin 2022
+       (consulté le 19 juin 2023)
+   193. ↑ (en) Victor Dey, « Google consolidates AI research labs into
+       Google DeepMind to compete with OpenAI », VentureBeat, 20 avril
+       2023 (consulté le 28 juillet 2023)
+   194. ↑ Morgane Tual, « Une intelligence artificielle peut-elle devenir
+       présidente des États-Unis ? », sur Le Monde, 17 février 2016.
+--
+   197. ↑ Karyl-aka, « Google investit dans des recherches sur
+       l'intelligence artificielle quantique », sur CNET France, 17 mai
+       2013.
+   198. ↑ David Larousserie, « Facebook ouvre un laboratoire
+       d’intelligence artificielle à Paris », Le Monde,‎ 2 juin 2015 (lire
+       en ligne, consulté le 2 novembre 2023)
+--
+       Digitale,‎ 8 août 2016 (lire en ligne, consulté le 2 novembre 2023)
+   200. ↑ « Hawking : « L'intelligence artificielle pourrait mettre fin à
+       l'humanité » », sur Le Monde, 3 décembre 2014.
+--
+   202. ↑ « Les 37 projets d’Elon Musk contre les dangers de
+       l’intelligence artificielle », sur Le Monde, 6 juillet 2015.
+   203. ↑ ^a et b (en) Grace Kay, « The history of ChatGPT creator OpenAI,
+--
+       2023)
+   204. ↑ (en) Tom Simonite, « The AI Text Generator That's Too Dangerous
+       to Make Public », Wired,‎ 14 février 2019 (ISSN 1059-1028, lire en
+--
+   205. ↑ (en) Sebastian Moss, « Eleven OpenAI Employees Break Off to
+       Establish Anthropic, Raise $124 Million », AI Business,‎ 2 juin
+       2021 (lire en ligne)
+--
+       CNBC, 29 juin 2021 (consulté le 12 décembre 2023)
+   207. ↑ (en) Laurie Clarke, « When AI can make art – what does it mean
+       for creativity? », The Observer,‎ 12 novembre 2022 (ISSN 0029-7712,
+--
+       (consulté le 11 décembre 2023)
+   209. ↑ « Alibaba's AI Outguns Humans in Reading Test », Bloomberg.com,‎
+       15 janvier 2018 (lire en ligne, consulté le 16 janvier 2018).
+--
+   211. ↑ (en) James Vincent, « OpenAI announces GPT-4 — the next
+       generation of its AI language model », sur The Verge, 14 mars 2023
+       (consulté le 12 décembre 2023)
+--
+   215. ↑ Johanna Diaz, « Lancement d’une consultation publique sur
+       l’intelligence artificielle par Cédric Villani », sur Actu IA, 7
+       décembre 2017.
+   216. ↑ Cédric Villani, Donner un sens à l'intelligence artificielle :
+       Pour une stratégie nationale et européenne, mars 2018
+       (ISBN 978-2-11-145708-9, lire en ligne).
+   217. ↑ « Intelligence artificielle : Macron annonce un plan à 1,5
+       milliard d'euros », sur Le Parisien.fr, 29 mars 2018.
+   218. ↑ « Pour Emmanuel Macron, l’intelligence artificielle est aussi
+       "une révolution politique" », Le Monde (consulté le 1^er avril
+       2018).
+   219. ↑ (en) « Emmanuel Macron Talks to WIRED About France's AI
+       Strategy », Wired,‎ 31 mars 2018 (lire en ligne).
+   220. ↑ « Le Gouvernement lance la phase recrutement de son plan IA - Le
+       Monde Informatique », sur LeMondeInformatique, 9 novembre 2021
+--
+     * (en) Bruce G. Buchanan, A (Very) Brief History of Artificial
+       Intelligence, AI Magazine, 2005 (lire en ligne [archive du 26
+       septembre 2007]), p. 53−60
+--
+       Press, juin 1863 (lire en ligne)
+     * (en) CNN, « AI set to exceed human brain power », CNN.com,‎ 26
+       juillet 2006 (lire en ligne, consulté le 16 octobre 2007).
+     * (en) Jack Copeland, Micro-World AI, 2000 (lire en ligne).
+     * (en) Roberto Cordeschi, The Discovery of the Artificial, Dordrecht,
+       Kluwer, 2002
+     * (en) Daniel Crevier, AI : The Tumultuous Search for Artificial
+       Intelligence, New York, BasicBooks, 1993, 386 p.
+--
+     * (en) J. Doyle, « What is rational psychology? Toward a modern
+       mental philosophy », AI Magazine, vol. 4, n^o 3,‎ 1983, p. 50−53
+     * (en) Hubert Dreyfus, Alchemy and AI, RAND Corporation Memo, 1965
+     * (en) Hubert Dreyfus, What Computers Can't Do : The Limits of
+       Artificial Intelligence, New York, MIT Press, 1972, 354 p.
+       (ISBN 0-06-090613-8, OCLC 5056816)
+--
+     * (en) Edward A. Feigenbaum et Pamela McCorduck, The Fifth
+       Generation : Artificial Intelligence and Japan's Computer Challenge
+       to the World, Michael Joseph, 1983, 274 p. (ISBN 0-7181-2401-4)
+     * (en) Michael Haenlein et Andreas Kaplan, « A Brief History of
+       Artificial Intelligence: On the Past, Present, and Future of
+       Artificial Intelligence », California Management Journal,‎ 2019
+       (lire en ligne)
+--
+     * (en) Carl Hewitt, Peter Bishop et Richard Steiger, A Universal
+       Modular Actor Formalism for Artificial Intelligence, IJCAI, 1973,
+       PDF (lire en ligne)
+--
+       OCLC 225590743)
+     * (en) J. Howe, Artificial Intelligence at Edinburgh University : a
+       Perspective, 1994 (lire en ligne)
+--
+       McFarland, 2000, 258 p. (ISBN 0-7864-0778-6)
+     * (en) Professor Sir James Lighthill, Artificial Intelligence : a
+       paper symposium : Artificial Intelligence: A General Survey,
+       Science Research Council, 1973
+--
+       octobre 2008)
+     * (en) Meg Houston Maker, AI@50 : AI Past, Present, Future, Dartmouth
+       College, 2006 (lire en ligne [archive du 8 octobre 2008])
+     * (en) John Markoff, « Behind Artificial Intelligence, a Squadron of
+       Bright Real People », The New York Times,‎ 14 octobre 2005 (lire en
+--
+       Shannon, A Proposal for the Dartmouth Summer Research Project on
+       Artificial Intelligence, août 1955 (lire en ligne)
+     * (en) John McCarthy, P. J. Hayes, B. J. Meltzer (éditeur) et Donald
+       Mitchie (éditeur), Machine Intelligence 4 : Some philosophical
+       problems from the standpoint of artificial intelligence, Edinburgh
+       University Press, 1969 (lire en ligne), p. 463−502
+--
+       Press., 1998, 558 p. (ISBN 0-19-510270-3, lire en ligne)
+     * (en) Stuart J. Russell et Peter Norvig, Artificial Intelligence : A
+       Modern Approach, Upper Saddle River, Prentice Hall, 2003, 2^e éd.
+--
+       Taipei, Caves Books Ltd, 1986
+     * (en) John Haugeland, Artificial Intelligence : The Very Idea,
+       Cambridge, MIT Press, 1985, 287 p. (ISBN 0-262-08153-9)
+--
+     * Histoire de l'informatique
+     * Intelligence artificielle
+     * Intelligence artificielle amicale
+     * Philosophie de l'intelligence artificielle
+     * Principaux projets et réalisations en intelligence artificielle
+     * Révolution numérique
+--
+     * Informatique
+     * Intelligence artificielle
+     * Linguistique
+--
+   v · m
+   Intelligence artificielle (IA)
+   Concepts
+     * Effet IA
+     * Grand modèle de langage
+     * Hallucination (IA)
+     * IA générale
+     * IA générative
+
+--
+     * Modèle des croyances transférables
+     * IA symbolique
+     * Réseau bayésien
+--
+   Applications
+     * Art créé par IA
+     * ChatGPT
+     * DeepL
+     * Diagnostic (IA)
+     * Écriture assistée par IA
+     * IA dans la santé
+     * IA dans le jeu vidéo
+     * Perception artificielle
+     * Planification (IA)
+     * Robotique
+--
+   Enjeux et philosophie
+     * Alignement de l'IA
+     * Chambre chinoise
+     * Conscience artificielle
+     * Contrôle des capacités de l'IA
+     * Éthique de l'IA
+     * IA digne de confiance
+     * Philosophie de l'IA
+     * Sûreté de l'IA
+
+   Histoire et événements
+     * Histoire de l'intelligence artificielle
+     * Logic Theorist (1955)
+--
+   Science-fiction
+     * Anticipation (IA)
+     * IA-complet
+     * IA générale
+     * Risque de catastrophe planétaire lié à l'intelligence artificielle
+       générale
+--
+       Règlementation
+     * Législation sur l'IA
+     * Réglementation de l'IA
+
+   Organisations
+     * Agence francophone pour l'IA
+     * Google DeepMind
+     * OpenAI
+     * Partenariat sur l'IA
+
+--
+     * Déclaration de Montréal pour un développement responsable de
+       l'intelligence artificielle
+     * Lettre ouverte sur l'IA
+     * Intelligence artificielle : une approche moderne
+     * I.A. La Plus Grande Mutation de l'Histoire
+--
+   Catégories :
+     * Intelligence artificielle
+     * Histoire par domaine scientifique

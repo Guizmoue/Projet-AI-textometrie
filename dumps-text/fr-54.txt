@@ -1,0 +1,237 @@
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-59MW7L4
+
+   (BUTTON)
+
+   (BUTTON) Menu
+   Rechercher ____________________ (BUTTON)
+   Epaper/PDF Newsletters
+
+   logo letemps S'abonner Mon compte
+     * En continu
+     * Monde
+     * Suisse
+     * Économie
+     * Opinions
+     * Culture
+     * Société
+     * Sciences
+     * Sport
+     * Data
+     * Événements
+     * Vidéos
+     * Podcasts
+     *
+
+   ____________________ (BUTTON)
+     * S'abonner
+     * Accueil
+     * En continu
+     * Monde
+     * Suisse
+     * Économie
+     * Opinions
+     * Culture
+     * Société
+     * Sciences
+     * Sport
+     * Data
+     * Événements
+     * Hyperlien
+     * Dossiers
+     * Grands formats
+     * En images
+     * Vidéos
+     * Podcasts
+     *
+     *
+     * Epaper/PDF
+     * Newsletters
+     * Magazine T
+     * Le Journal de l'Immobilier
+     * Blogs
+     * Archives
+     * Archives historiques
+     *
+     * Abonnements
+     * Services aux abonnés
+     * Questions fréquentes
+     *
+     * Régie Publicitaire
+     * Avis de décès
+
+     * À propos
+     * Impressum
+     * Communication
+     * Emplois
+
+   Publicité
+
+    1. Accueil
+    2. Sciences
+
+                   Jeu décisif entre l’homme et la machine
+
+   Dès le 9 mars, le champion du monde de go, seul jeu pour lequel l’homme
+   bat encore l’ordinateur, affrontera AlphaGo, le logiciel de la firme
+   DeepMind, composé de réseaux profonds de neurones artificiels. Décodage
+   d’un match qui fera date
+
+   © DR © DR
+
+   Olivier Dessibourg, de retour de Washington
+   Publié le 13 mars 2016 à 09:03. / Modifié le 10 juin 2023 à 16:05.
+     *
+     *
+     *
+     *
+     *
+
+   Le go est aussi ancien que simple. On y joue depuis 3000 ans en Asie,
+   avec des pions blancs et noirs sur une grille carrée de 19 positions
+   sur 19. Le but: encercler les pièces de son adversaire avec les siennes
+   pour contrôler plus de la moitié du tableau. Simple, mais beaucoup plus
+   subtil que même les échecs: au total, il existe en effet 10170 (le
+   chiffre 1 suivi de 170 zéros!) configurations possibles des pions
+   (contre 10120 aux échecs), soit plus qu’il n’y a d’atomes dans
+   l’Univers. Impossible dès lors, même pour un ordinateur surpuissant, de
+   calculer tous les coups possibles. «Demandez à un joueur d’échecs de
+   vous expliquer son coup, et il vous décrira tous ses calculs,
+   expliquait le cofondateur de DeepMind Demis Hassabis en février à
+   Washington, lors du congrès scientifique AAAS. Un pro du go, par
+   contre, vous dira qu’il a joué un coup simplement sur une bonne
+   intuition.» Le go, enseigné dans des écoles spécialisées en Asie, se
+   voit ainsi souvent comparé à un art.
+
+   «Une difficulté à programmer un joueur artificiel de go sur ordinateur
+   est d’établir une fonction d’évaluation pour établir qui est en train
+   de gagner», poursuit Demis Hassabis. Aux échecs, cette démarche est
+   simple: chaque pièce valant tant de points, il suffit de les
+   additionner pour savoir qui a l’avantage. «En go, avec des pions de
+   même valeur, une telle fonction est plus complexe à écrire en langage
+   informatique.» Ce qui explique pourquoi les humains ont si longtemps
+   gardé la main en go.
+
+   Mais en octobre 2015, AlphaGo a battu par 5 à 0 le champion d’Europe
+   Fan Hui! «Une prouesse qui nous a surpris, tant elle est arrivée une
+   décennie avant qu’on l’attendait», confie Olivier Teytaud, de
+   l’Institut national français de recherche en informatique (Inria). Les
+   chercheurs de DeepMind ont ensuite décrit leur algorithme 2016 dans un
+   article publié en janvier dans Nature. «L’aspect crucial est que
+   celui-ci se base sur deux ressorts: l’apprentissage par imitation puis
+   renforcement, et la prise de décision basée sur une méthode
+   d’échantillonnage nommée «Monte Carlo Fouille d’Arbre» (MCTS),
+   développée à l’Inria en 2006», explique l’expert français.
+
+   Prédiction
+
+   Pour l’apprentissage, les informaticiens ont utilisé des «réseaux
+   profonds de neurones artificiels», aussi connus sous le terme «deep
+   learning». Il s’agit d’équations écrites en langage informatique,
+   disposées en couches, mais reliées entre elles par certains facteurs
+   variant au fil de l’expérience. «Nous avons d’abord soumis à AlphaGo
+   les centaines de milliers de parties de go disponibles sur Internet,
+   pour lui montrer comment jouer», dit Demis Hassabis. De quoi nourrir un
+   premier réseau de neurones artificiels, jusqu’à ce que celui-ci puisse
+   prédire le prochain coup d’une partie avec une acuité d’au moins 57%.
+
+   Avec un deuxième réseau de neurones, «nous avons fait jouer le logiciel
+   contre lui-même des centaines de fois, pour renforcer son
+   apprentissage, ceci après avoir écrit cette fameuse fonction
+   d’évaluation pour le go». Un processus que DeepMind avait déjà appliqué
+   avec succès pour enseigner, sans programmation spécifique, à des
+   ordinateurs à jouer à de vieux jeux d’arcade (Space Invaders,
+   Casse-briques, etc.). L’inspiration de DeepMind a ensuite été de
+   coupler ce modus operandi avec l’application de la méthode statistique
+   MCTS. En résumé, celle-ci permet, «dans une arborescence quasi infinie
+   de possibilités, de fouiller les meilleures «branches», ou options,
+   pour gagner», dit Olivier Teytaud.
+
+Un événement important dans l'histoire du go
+
+   Il a fallu ensuite tester cette stratégie combinée. «Début 2015, nous
+   l’avons d’abord fait contre les programmes de go existant, Zen et Crazy
+   Stone, avec 100% de succès», dit Demis Hassabis. Même résultat contre
+   le champion d’Europe. Désormais, c’est donc le champion du monde,
+   souvent classé bien au-dessus de son pendant européen et le battant
+   dans 97% des parties, qui se dresse sur la route d’AlphaGo: «Des
+   experts ont analysé le match d’octobre et nous donnent moins de 5% de
+   chances de gagner. Mais depuis, nous avons construit une nouvelle
+   version d’AlphaGo, qui s’entraîne sans arrêt. Nous sommes
+   confiants.» Tout comme Lee Sedol, qui s’est livré à Nature: «Peu
+   importe le résultat, ce sera un événement important dans l’histoire du
+   go. J’ai entendu que l’intelligence artificielle de DeepMind est
+   étonnamment forte, et le devient de plus en plus. Mais je suis confiant
+   de pouvoir gagner, au moins cette fois.»
+
+   Et puis, à quand une partie entre l’AlphaGo de Google DeepMind et
+   Darkforest, le logiciel de go que développe Facebook de son côté?
+   Interrogé par Le Temps, Demis Hassabis s’est montré peu intéressé à
+   répondre, estimant que Darkforest n’arrivait pas à la cheville
+   d’AlphaGo. Au-delà de l’aspect spectaculaire du match de la semaine
+   prochaine, le «deep learning» est aujourd’hui au cœur d’enjeux
+   colossaux pour lesquels se battent tous les géants du monde numérique.
+   «L’idée est vraiment d’appliquer cette technologie d’intelligence
+   artificielle au traitement de la montagne de données de toutes sortes
+   qui sont générées aujourd’hui, afin d’y reconnaître des éléments
+   complexes, et prendre des décisions», dit Olivier Teytaud. Demis
+   Hassabis, comme d’autres spécialistes, voit ainsi bien une utilisation
+   dans les diagnostics médicaux ou dans les recherches en
+   bio-informatique.
+
+   Quid des applications plus larges et générales de ces nouveaux systèmes
+   d’intelligence artificielle? L’expert rassure en disant que le logiciel
+   AlphaGo ne peut pas être simplement transféré dans n’importe quel autre
+   domaine, tant il a été créé dans un cadre précis, celui du jeu de go.
+   Une capacité – appliquer dans d’autres situations une méthode
+   d’apprentissage – que l’homme maîtrise par contre à la perfection.
+   «Nous n’avons aucune idée pour y arriver [avec des machines], dit Demis
+   Hassabis dans Nature. Pas encore!»
+
+     *
+     *
+     *
+     *
+     *
+
+le Temps
+
+     * Impressum
+     * À propos
+     * Communication
+     * Régie Publicitaire
+     * Avis de décès
+     * Événements
+     * Emplois
+
+Abonnements et Services
+
+     * Abonnements
+     * Services aux abonnés
+     * Epaper/PDF
+     * Newsletters
+     * Magazine T
+     * Journal de l'immobilier
+     * Questions fréquentes
+     * Archives
+     * Archives historiques
+
+Documents de références
+
+     * Conditions générales d'utilisation
+     * Conditions générales de vente
+     * Politique de confidentialité
+     * Gestion des cookies
+     * Charte rédactionnelle
+     * Charte des partenariats
+
+Suivez Le Temps
+
+     * Facebook
+     * Ex-Twitter
+     * Linkedin
+     * Instagram
+     * Youtube
+     * Tiktok
+
+     * Avenue du Bouchet 2, 1209 Genève | Service Clients: +41 22 539 10
+       75 | Contactez Le Temps

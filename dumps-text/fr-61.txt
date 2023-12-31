@@ -1,0 +1,269 @@
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-PTW5WCH
+
+   Aller au contenu principal
+
+   Accueil
+
+Abonnez-vous à notre infolettre!
+
+   Pour ne rien rater de l'actualité scientifique et tout savoir sur nos
+   efforts pour lutter contre les fausses nouvelles et la désinformation!
+   Courriel ____________________
+   ____________________
+   Je m'abonne
+   Abonnez-vous Rechercher (BUTTON) Menu
+   Je donne
+     * Actualités
+     * Détecteur de rumeurs
+     * Éducation aux médias et à l'information
+     * Zone Balado et Je vote pour la science
+     * Zone Vidéo
+     * Formations et services
+     * Blogues
+     * Équipe
+     * À propos
+
+   Accueil
+
+Abonnez-vous à notre infolettre!
+
+   Pour ne rien rater de l'actualité scientifique et tout savoir sur nos
+   efforts pour lutter contre les fausses nouvelles et la désinformation!
+   Courriel ____________________
+   ____________________
+   Je m'abonne
+   Abonnez-vous Rechercher (BUTTON) Menu
+   Je donne
+
+Quand des scientifiques préfèrent les jugements de ChatGPT
+
+   Domenico Fornas / Dreamstime
+   Technologie
+
+Quand des scientifiques préfèrent les jugements de ChatGPT
+
+   Agence Science-Presse
+   Jeudi 19 octobre 2023
+   Intelligence artificielle
+   Agrandir l'image
+     * Actualités
+     * Détecteur de rumeurs
+     * Éducation aux médias et à l'information
+          + Nos formations
+          + Outils et ressources
+          + Zone vidéo
+          + Lutte contre la désinformation
+     * Zone Balado et Je vote pour la science
+          + Le balado du Détecteur de rumeurs
+          + Je vote pour la science
+          + Balado | Nuances
+          + Balado | Dépister la désinfo
+     * Zone Vidéo
+          + #VraimentVrai - Comment vérifier l'information
+          + Anatomie des fausses nouvelles
+          + Déjouer les raccourcis mentaux - Avec l'humoriste Louis T!
+          + On veut des faits!
+          + Vérifié!
+          + Anatomie des fausses nouvelles | Politique
+     * Formations et services
+     * Blogues
+     * Équipe
+     * À propos
+          + Rapports d'activités et états financiers
+
+   IA-chatGPT.jpg
+
+   L’intelligence artificielle pourrait-elle un jour réviser les articles
+   scientifiques, voire faire ce que l’on appelle de la révision par les
+   pairs? Pour l’instant, les premiers scientifiques testés à ce sujet
+   préfèrent les jugements de ChatGPT à ceux de leurs collègues.
+
+À lire également
+
+   ChatGPT: la capacité de l’IA à renforcer la désinformation
+   Mardi 24 janvier 2023
+   Accumulation de connaissances: le mur qui attend ChatGPT
+   Jeudi 19 janvier 2023
+
+   Rappelons qu’il s’agit d’une partie fondamentale du processus par
+   lequel se construit le savoir scientifique: qu’il s’agisse d’une
+   présumée découverte, d’une hypothèse, d’une affirmation, tout cela doit
+   être étayé par une recherche publiée. Et idéalement, cette recherche
+   devrait avoir été révisée par d’autres experts du domaine avant d’être
+   publiée. C’est ce que désigne l’expression « révision par les pairs ».
+
+   Or, celle-ci a ses limites: il faut trouver des experts capables de
+   comprendre ce dont parle la recherche, et il faut que ces experts aient
+   le temps. Il s’écoule traditionnellement des mois entre le moment où un
+   chercheur soumet un article à une revue scientifique, et le moment de
+   la publication.
+
+Abonnez-vous à notre infolettre!
+
+   Pour ne rien rater de l'actualité scientifique et tout savoir sur nos
+   efforts pour lutter contre les fausses nouvelles et la désinformation!
+   Courriel ____________________
+   ____________________
+   Je m'abonne
+
+   ChatGPT pourrait-il remplacer les réviseurs humains? C’est ce qu’ont
+   voulu tester des chercheurs dirigés par James Zou, expert en
+   apprentissage-machine à l’Université Stanford, en Californie. Ils ont
+   demandé à ChatGPT-4 de fournir « une critique constructive » de plus de
+   3000 études publiées en 2022-2023 par une des revues du groupe Nature
+   (donc, révisées par des pairs), et de 1700 articles d’un congrès
+   mondial sur l’apprentissage-machine (International Conference on
+   Learning Representations). Et ils ont comparé les critiques des robots
+   avec celles des humains. Dans un deuxième temps, ils ont demandé la
+   même chose à ChatGPT pour quelques centaines d’articles qui n’avaient
+   pas été révisés par qui que ce soit et ont demandé à environ 300 de
+   leurs auteurs (tous dans le domaine de l’intelligence artificielle ou
+   de l'informatique) d’évaluer la critique du robot à leur endroit.
+
+   Dans le résumé, qui a été prépublié le 3 octobre sur le serveur ArXiv
+   (ce qui veut dire, ironiquement, qu’il n’a pas été révisé par les
+   pairs), ils écrivent tout d’abord que pour plus de la moitié des textes
+   publiés et pour plus des trois quarts (77%) des textes du congrès, le
+   robot signalait des choses qui l’étaient aussi par au moins un des
+   réviseurs. Mais le résultat le plus fort est du côté des textes
+   non-publiés et non-révisés: 82% des auteurs ont dit juger la critique
+   de ChatGPT plus utile que des critiques reçues dans le passé sur
+   d’autres recherches.
+
+   Le travail fait toutefois face à d'importants bémols: dans la deuxième
+   partie de la recherche, l’évaluation des chercheurs quant à la critique
+   que leur a faite le robot est purement subjective et elle ne permet pas
+   de comparer avec la critique qu’aurait fait un humain du même travail.
+   Quant à la première partie de la recherche, elle donne peu de détails
+   sur ce que sont ces informations que ChatGPT n’a pas repérées, mais que
+   les humains, eux, avaient signalées. Il reste à voir si des revues
+   scientifiques pourraient se satisfaire de ces révisions par IA sans
+   avoir l’assurance que le robot n’a pas « oublié » quelque chose
+   d’important —mais ce questionnement existe aussi dans la vraie révision
+   par les pairs, qui est loin d’être infaillible.
+     * Facebook
+     * LinkedIn
+     * Twitter
+     *
+     * Courriel
+     * Imprimer
+
+   Je donne
+
+Vous aimerez aussi
+
+    1. IA-chatGPT.jpg
+       L’IA peut aussi fabriquer des données trompeuses
+       Mardi 28 novembre 2023
+    2. IA-chatGPT.jpg
+       Les scientifiques face à l’IA: optimistes ou pessimistes?
+       Lundi 2 octobre 2023
+    3. BigData.jpg
+       L’IA, une conseillère scientifique?
+       Jeudi 28 septembre 2023
+    4. IA-justice-biais.jpg
+       L’intelligence artificielle est-elle sexiste et raciste?
+       Mardi 19 septembre 2023
+    5. ordinateur-code
+       ChatGPT: les lignes de code pour contourner les règles
+       Mercredi 30 août 2023
+    6. ChatGPT.jpg
+       ChatGPT et les fausses infos: ça ne s’améliore pas, et on ne sait
+       pas pourquoi
+       Mercredi 26 juillet 2023
+
+   Tous les articlesDans la même catégorie
+   Technologie
+   Un an plus tard: les scientifiques qui expérimentent ChatGPT
+   Agence Science-Presse
+   Technologie
+   L’IA peut aussi fabriquer des données trompeuses
+   Agence Science-Presse
+   Technologie
+   L’IA pour ranger le linge?
+   Agence Science-Presse
+   Technologie
+   Impression 3D de semi-conducteurs organiques
+   Valérie Levée
+   Technologie
+   Risquées, les armes contrôlées par l’IA? Ce qu’il faut savoir
+   Kathleen Couillard
+   Technologie
+   Quand l’aile de la chauve-souris inspire le premier avion
+   Eric Leeuwerck
+   Technologie
+   Déclaration sur l’IA: percée ou feu de paille?
+   Pascal Lapointe
+   Technologie
+   Les applications des téléphones protègent moins les aînés
+   Isabelle Burgun
+   Technologie
+   Votre téléphone vous écoute-t-il ? 6 choses à savoir
+   Catherine Couturier
+   Technologie
+   Quand des scientifiques préfèrent les jugements de ChatGPT
+   Agence Science-Presse
+   Technologie
+   Les scientifiques face à l’IA: optimistes ou pessimistes?
+   Agence Science-Presse
+   Technologie
+   L’IA, une conseillère scientifique?
+   Pascal Lapointe
+   Technologie
+   « Curieuse conversation sur l’Intelligence artificielle »
+   Raymond Fournier
+   Technologie
+   ChatGPT: les lignes de code pour contourner les règles
+   Agence Science-Presse
+   Technologie
+   ChatGPT et les fausses infos: ça ne s’améliore pas, et on ne sait pas
+   pourquoi
+   Pascal Lapointe
+
+   Tous les articlesArticles récents
+   Astronomie/espace
+   Les ingrédients pour de la vie réunis autour de Saturne
+   Agence Science-Presse
+   Société
+   Le propulseur et l’égalité des sexes préhistorique
+   Agence Science-Presse
+   Société
+   Acfas: Avancée de la pauvreté, recul de la santé
+   Isabelle Burgun
+   Contactez-nous
+   Suivez-nous
+     *
+     *
+     *
+     *
+
+   Logo de l'International Fact-Checking Network
+     * Actualités
+     * Détecteur de rumeurs
+     * Éducation aux médias et à l'information
+     * Zone Balado et Je vote pour la science
+     * Zone Vidéo
+     * Formations et services
+     * Blogues
+     * Équipe
+     * À propos
+
+Partenaire
+
+   Logo du Gouvernement du Québec
+
+   2023 © Agence Science-Presse Connexion
+   Site développé par
+     * Actualités
+     * Détecteur de rumeurs
+     * Éducation aux médias et à l'information
+     * Zone Balado et Je vote pour la science
+     * Zone Vidéo
+     * Formations et services
+     * Blogues
+     * Équipe
+     * À propos
+
+   Abonnez-vous / Rechercher Connexion
+   Je donne
+   ×

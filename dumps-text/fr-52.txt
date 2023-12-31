@@ -1,0 +1,244 @@
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-59MW7L4
+
+   (BUTTON)
+
+   (BUTTON) Menu
+   Rechercher ____________________ (BUTTON)
+   Epaper/PDF Newsletters
+
+   logo letemps S'abonner Mon compte
+     * En continu
+     * Monde
+     * Suisse
+     * Économie
+     * Opinions
+     * Culture
+     * Société
+     * Sciences
+     * Sport
+     * Data
+     * Événements
+     * Vidéos
+     * Podcasts
+     *
+
+   ____________________ (BUTTON)
+     * S'abonner
+     * Accueil
+     * En continu
+     * Monde
+     * Suisse
+     * Économie
+     * Opinions
+     * Culture
+     * Société
+     * Sciences
+     * Sport
+     * Data
+     * Événements
+     * Hyperlien
+     * Dossiers
+     * Grands formats
+     * En images
+     * Vidéos
+     * Podcasts
+     *
+     *
+     * Epaper/PDF
+     * Newsletters
+     * Magazine T
+     * Le Journal de l'Immobilier
+     * Blogs
+     * Archives
+     * Archives historiques
+     *
+     * Abonnements
+     * Services aux abonnés
+     * Questions fréquentes
+     *
+     * Régie Publicitaire
+     * Avis de décès
+
+     * À propos
+     * Impressum
+     * Communication
+     * Emplois
+
+   Publicité
+
+    1. Accueil
+    2. Sciences
+
+        L’intelligence artificielle, aussi raciste et sexiste que nous
+
+   Certains programmes informatiques reproduisent les stéréotypes humains,
+   montre une nouvelle étude. Pas forcément étonnant mais potentiellement
+   dangereux, compte tenu des responsabilités que l’on compte leur donner
+
+   Et si les systèmes d’intelligence artificielle tendaient à reproduire
+   certains discours humains biaisés?   — © ERIK S. LESSER Et si les
+   systèmes d’intelligence artificielle tendaient à reproduire certains
+   discours humains biaisés?   — © ERIK S. LESSER
+
+   Fabien Goubet
+   Fabien Goubet
+   Publié le 04 mai 2017 à 19:01. / Modifié le 10 juin 2023 à 15:59.
+     *
+     *
+     *
+     *
+     *
+
+   Les androïdes rêvent-ils de moutons noirs expulsés par des moutons
+   blancs? Avec leurs capacités de raisonnement froides, basées sur des
+   calculs complexes, on imagine les intelligences artificielles dénuées
+   de tout préjugé. C’est tout le contraire, comme vient de le confirmer
+   une étude parue en avril dans la revue «Science». Les auteurs ont
+   démontré que certains types de programmes informatiques d’intelligence
+   artificielle (IA) reproduisent des stéréotypes racistes ou sexistes
+   existant dans le langage. Des résultats qui interpellent, alors qu’on
+   nous promet une implication croissante des machines dans les prises de
+   décision, du classement de photos de vacances à la conduite de voitures
+   autonomes.
+
+     Sans possibilité de comprendre le raisonnement des machines qui
+     l'utilisent, le deep learning reste une boîte noire
+
+     Sébastien Konieczny, Centre de recherche en informatique de Lens
+
+   Aylin Caliskan et son équipe de l’université Princeton ont eu recours à
+   un programme nommé GloVe, une intelligence artificielle effectuant le
+   test dit d’association implicite. Mis au point en 1998 dans le cadre
+   d’études en psychologie, celui-ci évalue le degré d’association d’idées
+   ou de concepts en mesurant le temps mis par une personne à former des
+   paires de mots qu’elle estime semblables. Plus il est court, plus
+   l’association est forte. Ainsi, si une personne associe plus rapidement
+   le mot «bon» avec une «personne jeune» plutôt qu’avec une «personne
+   âgée», ceci trahit une tendance à avoir des attitudes plus positives
+   envers les jeunes qu’envers les vieux.
+
+840 milliards de mots
+
+   En lieu et place d’un cobaye humain, c’est donc GloVe qui s’est prêté
+   au jeu d’association d’idées. Ce programme est une IA basée sur le
+   «machine learning», c’est-à-dire capable d’apprendre, à partir de
+   nombreux exemples, à classer des informations selon des critères exigés
+   par un humain. C’est sur ce type d’apprentissage que reposent notamment
+   les algorithmes de reconnaissance d’images utilisés par Facebook ou
+   Google. Pour entraîner GloVe, Aylin Caliskan l’a donc «nourri» avec un
+   gigantesque corpus de 840 milliards de mots issus du Web, en 40 langues
+   différentes. Ses réponses laissent songeur. Comme un être humain, le
+   programme a associé des noms de fleurs à des connotations positives,
+   tandis que des noms d’insectes, par exemple, ont été catégorisés plutôt
+   négativement.
+
+   Lire aussi: Une voiture autonome doit-elle avoir le droit de tuer ses
+   passagers?
+
+   Mais ces biais plutôt innocents ont été reproduits ailleurs, et de
+   manière problématique. Des prénoms féminins ont ainsi été plus
+   généralement mis de pair avec des termes liés à la famille (mère,
+   mariage…) tandis que les prénoms masculins ont fini classés avec des
+   mots liés à la carrière (profession, salaire…) De même, des noms à
+   consonance européenne étaient plus volontiers classés positivement que
+   ceux à consonance africaine. Les machines intelligentes
+   naîtraient-elles donc sexistes et racistes?
+
+Miroir du comportement humain
+
+   «Ces résultats ne me surprennent pas du tout, s’amuse Claude Touzet,
+   spécialiste de l’apprentissage tant biologique qu’artificiel au
+   Laboratoire de neurosciences intégratives et adaptatives de
+   l’université d’Aix-Marseille. Les machines capables d’apprentissage
+   sont un miroir du comportement humain. En les nourrissant avec un
+   discours humain forcément biaisé, il est naturel qu’elles le
+   reproduisent». «Si les données que l’on fournit à la méthode
+   d’apprentissage sont biaisées, alors la machine apprend ces biais»,
+   enchérit Sébastien Konieczny, du Centre de recherche en informatique de
+   Lens.
+
+     Les machines capables d’apprentissage sont un miroir du comportement
+     humain
+
+     Claude Touzet, université d’Aix-Marseille
+
+   L’étude rappelle un épisode malheureux vécu par l’an passé par
+   Microsoft. Après avoir mis en ligne sur Twitter une IA censée
+   s’abreuver des conversations humaines, le géant de l’informatique avait
+   dû lui couper le sifflet en catastrophe après que celle-ci, baptisée
+   Tay, ne proférait plus que des abominations racistes et négationnistes,
+   au bout de seulement quelques heures.
+
+   Mais Claude Touzet l’assure, «il est possible, dans un deuxième temps,
+   de corriger ces IA, par exemple en lui imposant des lois».
+
+   Lire aussi: Tay, le robot devenu si humain
+
+   Plus facile à dire qu’à faire. Sébastien Konieczny y voit deux
+   problèmes: non seulement on ne sait pas encore vraiment comment réguler
+   ces algorithmes avec des règles éthiques et morales, pas plus – et
+   c’est tout aussi inquiétant – qu’on ne comprend comment la machine a
+   pris sa décision. De ce point de vue, «le deep learning reste une boîte
+   noire», affirme le chercheur.
+
+   C’est là que le bât blesse. Des sociétés vendent déjà des logiciels
+   basés sur le machine learning. Ils permettent par exemple de décider
+   qui peut bénéficier d’un prêt bancaire, ou quel est le candidat le plus
+   adapté à un poste vacant. Comment dès lors garantir à chacun un
+   traitement équitable et non discriminatoire, alors que nul ne peut
+   expliquer le raisonnement qui a conduit à telle ou telle décision?
+
+   Toujours est-il que la recherche en IA ne saurait se résumer au seul
+   machine learning, rappelle Sébastien Konieczny. Une piste, conclut-il,
+   serait d’associer ces algorithmes à d’autres méthodes permettant,
+   elles, de rendre compte du raisonnement. Cela montre bien le travail
+   qu’il reste à faire.
+
+     *
+     *
+     *
+     *
+     *
+
+le Temps
+
+     * Impressum
+     * À propos
+     * Communication
+     * Régie Publicitaire
+     * Avis de décès
+     * Événements
+     * Emplois
+
+Abonnements et Services
+
+     * Abonnements
+     * Services aux abonnés
+     * Epaper/PDF
+     * Newsletters
+     * Magazine T
+     * Journal de l'immobilier
+     * Questions fréquentes
+     * Archives
+     * Archives historiques
+
+Documents de références
+
+     * Conditions générales d'utilisation
+     * Conditions générales de vente
+     * Politique de confidentialité
+     * Gestion des cookies
+     * Charte rédactionnelle
+     * Charte des partenariats
+
+Suivez Le Temps
+
+     * Facebook
+     * Ex-Twitter
+     * Linkedin
+     * Instagram
+     * Youtube
+     * Tiktok
+
+     * Avenue du Bouchet 2, 1209 Genève | Service Clients: +41 22 539 10
+       75 | Contactez Le Temps

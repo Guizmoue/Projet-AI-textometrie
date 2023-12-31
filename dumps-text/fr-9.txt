@@ -1,951 +1,450 @@
-   #alternate Modifier Wikipédia (fr) Flux Atom de Wikipédia
+   #Commentaires pour "Athénan, une IA joueuse multi-championne"
 
-   Aller au contenu
+   Accéder à la navigation
 
-   [ ] Menu principal
-   Menu principal
-   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
-   Navigation
-     * Accueil
-     * Portails thématiques
-     * Article au hasard
-     * Contact
+   Accueil
+   [gb.svg]
+   Se connecter
+   S'inscrire
+   ____________________ (Submit)
+   Thèmes
+     * Vivant
+     * Matière
+     * Numérique
+     * Sociétés
+     * Terre
+     * Univers
 
-   Contribuer
-     * Débuter sur Wikipédia
-     * Aide
-     * Communauté
-     * Modifications récentes
-     * Faire un don
+   Formats
+     * Articles
+     * Audios
+     * Diaporamas
+     * Dossiers
+     * Infographies
+     * Points de vue
+     * Vidéos
 
-   Langues
-   Sur cette version linguistique de Wikipédia, les liens interlangues
-   sont placés en haut à droite du titre de l’article.
-   Aller en haut.
-   Wikipédia l'encyclopédie libre
-   Rechercher
-   ____________________
-   (BUTTON) Rechercher
+   CNRS Le Journal
+   Donner du sens à la science
 
+   [logofondation.svg]
+
+Suivre
+
+     * Twitter
+     * Facebook
+     * Google
+     * Dailymotion
+     * RSS
+
+     * Rechercher
+     * Se connecter
+     * S'inscrire
+     * Mon compte
+     * Nos blogs
+
+   English version Dossier spécial Covid-19
+     * Vivant
+     * Matière
+     * Sociétés
+     * Univers
+     * Terre
+     * Numérique
+     * Mes thèmes
+
+Personnalisez votre navigation
+       Sélectionnez vos mots clefs ou thématiques favorites et créez votre
+       rubrique personnalisée
+          + Créer un compte
+          + Se connecter
+       [ ] Stay
+     * Types
+          + Articles
+          + Audios
+          + Diaporamas
+          + Dossiers
+          + Infographies
+          + Points de vue
+          + Vidéos
+       [ ] Stay
+
+   CNRS Le Journal Haut de page [gb.svg] Read in English Nos blogs
+   ____________________ (Submit)
+   Partager l'article
+
+Sections
+
+Vous êtes ici
+
+   Accueil / Articles / Athénan, une IA joueuse multi-championne
+
+Athénan, une IA joueuse multi-championne
+
+   Dossier
+   Paru le 04.01.2022
+   Comment l’intelligence artificielle va changer nos vies
+   Voir le dossier
+   Article
+   L’art et l’archéologie, nouveaux horizons de l’IA
+   Article
+   Quand l’IA s’attaque à la sclérose en plaques
+   Article
+   Des logiciels experts en diagnostic médical
+   Article
+   Peut-on faire confiance à l'intelligence artificielle ?
+   Article
+   L’IA traque le harcèlement en ligne
+   Article
+   Six scénarios d'un monde sans travail
+   Article
+   À l’usine, au bureau, tous remplacés par des robots?
+   Article
+   Une IA, juge de beauté des poissons tropicaux
+   Point de vue
+   Le robot, un «animal» comme les autres ?
+   Article
+   Des machines enfin intelligentes ?
+   Article
+   Voiture autonome
+   Des voitures autonomes sans frontières ?
+   Point de vue
+   Voitures autonomes: par quoi serez-vous choqués ?
+   Point de vue
+   Armes létales autonomes: de quoi parle-t-on?
+   Article
+   Demain, un ordinateur inspiré de notre cerveau?
+   Article
+   La justice à l’heure des algorithmes et du big data
+   Article
+   Les androïdes de la saga Alien sont-ils pour 2093 ?
+   Point de vue
+   Jeu de Go
+   Jeu de go : l’ordinateur plus fort que l’humain?
+   Point de vue
+   Traduire comme on joue au Go ?
+
+Vous êtes ici
+
+   Accueil / Articles / Athénan, une IA joueuse multi-championne
+   [gb.svg] Read in English
+   0 commentaire
+   Numérique
+   Informatique
+   ^-A ^+A
+     * Imprimer
+
+   article
+
+Athénan, une IA joueuse multi-championne
+
+   26.11.2021, par
+   Kheira Bettayeb
+   Chan2545 /Stock.Adobe.com
+   Partager
+   Partager
+   Zoom sur un système français qui a raflé la mise lors de la récente 24e
+   Computer Olympiad, une compétition mondiale multijeux pour
+   intelligences artificielles.
+
+   Athénan est un nouveau système d’intelligence artificielle (IA) dédiée
+   aux jeux de société, qui a été créé par Quentin Cohen-Solal1, évalué et
+   amélioré ensuite avec Tristan Cazenave, au Laboratoire d'analyse et
+   modélisation de systèmes pour l'aide à la décision (Lamsade)2 à Paris.
+   Lors de la 24^e Computer Olympiad, c’est sous l’apparence de dames
+   canadiennes et brésiliennes, d’Othello, de Hex ou encore de Surakarta
+   qu’il a justifié son nom, qui signifie littéralement « disciple
+   d’Athéna » (la déesse grecque de la stratégie et de la sagesse). Il a
+   en effet battu tous ses concurrents à pas moins de 11 jeux de société
+   – sur les 23 représentés – ce qui lui a valu autant de médailles d’or !
+   « Habituellement, les meilleures équipes obtiennent 2 à 3 médailles
+   d'or. C’est dire l’avancée que représentent ces travaux », commente
+   Nicolas Jouandeau, directeur du Laboratoire d'intelligence Artificielle
+   et Sémantique des Données, à l’université Paris 8.
+
+   Capture d’écran des jeux de stratégie pour lesquels Athénan a gagné une
+   médaille d’or. De gauche à droite et de haut en bas : Hex, Amazons,
+   Othello, Brazilian, Surakarta et Breakthrough.
+
+   CNRS Le Journal (BUTTON)
+   Capture d’écran des jeux de stratégie pour lesquels Athénan a gagné une
+   médaille d’or. De gauche à droite et de haut en bas : Hex, Amazons,
+   Othello, Brazilian, Surakarta et Breakthrough.
+   Computer Olympiad
+   Computer Olympiad
+   Partager
+   Partager
+
+   Les systèmes d’IA dédiées aux jeux de société consistent en des
+   algorithmes qui permettent de formaliser une façon de réfléchir sur un
+   jeu donné, voire, comme dans le cas d’Athénan, d’apprendre lui-même à
+   jouer et s’auto-entraîner. Le développement de tels logiciels a
+   toujours attiré les experts en IA. Et pour cause : mobilisant un large
+   éventail de capacités intellectuelles humaines, les jeux de société
+   (dits aussi « de réflexion ») représentent un terrain d’expérimentation
+   privilégié pour tester l’intelligence des machines et la comparer à
+   l’intelligence humaine ; un des buts de l’IA étant de développer des
+   machines qui surpassent le cerveau humain (et pourraient ainsi le
+   remplacer) pour certaines tâches précises.
+
+Une quête qui remonte aux origines de l’informatique
+
+   « L’idée de développer des IA dédiées aux jeux de société a émergé dès
+   les débuts de l’informatique », raconte Tristan Cazenave. En effet, dès
+   la fin des années 1940, les pères fondateurs de l’informatique Alan
+   Turing (1912-1954) et Claude Shannon (1916-2001) proposèrent des
+   programmes rudimentaires capables de jouer aux échecs. « Mais ce n’est
+   qu’en 1997 – soit près de 40 ans après –, qu’une machine, le
+   superordinateur Deep Blue de la société américaine IBM, réussit à
+   battre pour la première fois, dans les conditions normales d’un
+   tournoi, un champion du monde d’échecs, le Russe Garry Kasparov »,
+   poursuit l’expert en IA.
+
+   Le champion du monde d'échecs Garry Kasparov joue un coup pendant sa
+   quatrième partie contre l'ordinateur IBM Deep Blue. Le moniteur à
+   droite transmet le coup de l'ordinateur à un scientifique d'IBM qui
+   déplace les pièces sur l'échiquier (New York, 7 mai 1997).
+
+   CNRS Le Journal (BUTTON)
+   Le champion du monde d'échecs Garry Kasparov joue un coup pendant sa
+   quatrième partie contre l'ordinateur IBM Deep Blue. Le moniteur à
+   droite transmet le coup de l'ordinateur à un scientifique d'IBM qui
+   déplace les pièces sur l'échiquier (New York, 7 mai 1997).
+   Stan HONDA / AFP
+   Stan HONDA / AFP
+   Partager
+   Partager
+
+   Près de deux décennies après ce premier coup de maître, en mai 2017,
+   une autre IA, AlphaGo3, développée par DeepMind (une filiale
+   britannique de Google), et dédiée cette fois au go (un jeu de réflexion
+   originaire de Chine), battait le numéro 1 mondial dans ce domaine, le
+   Chinois Ke Jie. « S’appuyant sur des techniques radicalement
+   différentes de celles de Deep Blue, AlphaGo utilise une technologie
+   représentant l’une des dernières évolutions dans le domaine de l’IA :
+   les réseaux neuronaux dits “profonds”. Lesquels consistent en un
+   système avec une conception à l'origine schématiquement inspirée du
+   fonctionnement des neurones humains. Cette technologie permet à AlphaGo
+   d’apprendre à “imiter” les joueurs humains, à partir d’une base de
+   données référençant les coups enregistrés lors de dizaines de milliers
+   de parties menées par des joueurs experts », développe Tristan
+   Cazenave.
+
+L’ère des IA « généralistes »
+
+   Fin 2017, la société DeepMind présenta une autre avancée historique
+   pour le monde de l’IA : AlphaZero4. Sa particularité ? Cette version
+   « généraliste » d’AlphaGo est capable de jouer non pas à un, mais à
+   plusieurs jeux : au go, mais aussi aux échecs et au shogi (échecs
+   japonais). « Contrairement à son prédécesseur, AlpaZero a été développé
+   pour apprendre à bien jouer à un jeu donné… en jouant contre lui-même ;
+   et non à partir d’une base de données, détaille ici l’expert en IA du
+   Lamsade. Après chaque partie, il analyse ses succès et ses erreurs pour
+   s’améliorer. Cela, grâce à une méthode d’apprentissage profond dite
+   “par renforcement” ».
+
+   Le joueur de go chinois Ke Jie affronte AlphaGo lors de la deuxième
+   partie du Google DeepMind Challenge Match pendant le Future of Go
+   Summit à Wuzhen town (Chine), le 25 mai 2017. La même année, DeepMind a
+   présenté AlphaZero.
+
+   CNRS Le Journal (BUTTON)
+   Le joueur de go chinois Ke Jie affronte AlphaGo lors de la deuxième
+   partie du Google DeepMind Challenge Match pendant le Future of Go
+   Summit à Wuzhen town (Chine), le 25 mai 2017. La même année, DeepMind a
+   présenté AlphaZero.
+   Stringer / Imaginechina / Imaginechina via AFP
+   Stringer / Imaginechina / Imaginechina via AFP
+   Partager
+   Partager
+
+   Athénan représente, lui, le deuxième système généraliste basé sur cette
+   technique. Cependant « il se distingue d’AlphaZero par plusieurs
+   aspects, qui le rendent original et très efficace », souligne Quentin
+   Cohen-Solal. Tout d’abord, si Athénan s’appuie, comme AlphaZero, sur un
+   réseau de neurones pour guider sa recherche de stratégie lors d’une
+   partie de jeu, il recourt à un algorithme différent pour anticiper ses
+   futurs coups. En effet, AlphaZero utilise ici une méthode dite « de
+   recherche Monte Carlo », qui fait des statistiques sur des parties
+   aléatoires (d'où son nom évoquant celui du célèbre casino) : pour
+   chaque coup analysé, le réseau de neurones calcule la valeur d’un
+   « état de jeu » (qui évalue à quel point il est près de la victoire)
+   ainsi qu’une probabilité pour qu’une action soit la meilleure dans cet
+   état. Or « l’esprit humain ne fonctionne pas ainsi… », fait remarquer
+   Quentin Cohen-Solal.
+
+Une façon de jouer plus humaine
+
+   D’où son idée de développer « une méthode permettant à une IA de jouer
+   de façon plus humaine, dite “Minimax en meilleur d'abord non borné”.
+   Grâce à cet algorithme – décrit en fait pour la première fois en 1996
+   5 et tombé dans l'oubli avant que je ne le redécouvre –, Athénan ne
+   calcule pas de probabilités ni n’en utilise. Et ce, sans que cela nuise
+   à ses performances », précise l’informaticien.
+   Alors qu’AlphaZero mémorise juste le coup qu’il va jouer, Athénan, lui,
+   retient aussi toutes les simulations produites lors de la réflexion qui
+   l’a amené à décider d’un coup.
+
+   Autre grand atout de cette méthode, elle permet un apprentissage plus
+   efficace : « Alors qu’AlphaZero mémorise juste le coup qu’il va jouer,
+   Athénan, lui, retient aussi toutes les simulations produites lors de la
+   réflexion qui l’a amené à décider d’un coup, explique-t-il. Résultat,
+   pour un même nombre de parties, il génère beaucoup plus de données. Or
+   pour bien apprendre, il faut beaucoup de données ». En outre, avec
+   AlphaZero la valeur d’un état est fortement déterminée par la fin de la
+   partie : si la partie est perdante, il va apprendre que toutes les
+   étapes de cette partie sont perdantes, alors que les actions réalisées
+   au début de cette partie ont pu être pertinentes, puis suivies de
+   mauvaises décisions.
+
+   Avec Athénan, la valeur d’un état s’actualise en tenant compte de ce
+   genre de retournements, ce qui permet de mieux capitaliser les
+   connaissances d’une partie à l’autre.
+
+Utile dans d’autres domaines ?
+
+   Enfin, « même si pour son dévellopement nous avons pu bénéficier d'un
+   accès aux moyens de calcul intensif de l'IDRIS, Athénan n’a besoin que
+   d’un ordinateur “classique” équipé d’une carte graphique (composants
+   informatiques assurant les fonctions de calcul de l'affichage, Ndlr) et
+   d’un nombre normal de processeurs pour "bien" jouer. Quand AlphaZero
+   nécessite généralement un super-calculateur équipé d’une centaine de
+   cartes graphiques et d’une centaine de processeurs », souligne Quentin
+   Cohen-Solal. Bref, Athénan permet de faire, au moins sur certains jeux,
+   aussi bien que ce qui existe, mais avec moins de ressources ! À
+   l’avenir, Quentin Cohen-Solal espère pouvoir mesurer son système à un
+   champion humain – « ou une IA qui a surpassé un tel expert » – dans un
+   jeu donné, par exemple les échecs. Cela, « afin d’obtenir un résultat
+   très fort, qui prouverait que notre logiciel peut atteindre un niveau
+   surhumain ».
+
+   Au-delà des jeux, l’équipe espère aussi tester Athénan dans d’autres
+   domaines, plus pratiques mais nécessitant également de réfléchir à des
+   solutions complexes : « il pourrait aider à fluidifier le routage des
+   connexions internet ; minimiser le nombre de kilométrages parcourus et
+   de véhicules utilisés lors des tournées des véhicules d’une entreprise
+   donnée (La Poste, etc.) ; ou encore déterminer la structure
+   (“séquence”) d’une molécule d’ARN donnée (une molécule génétique, Ndlr)
+   à partir de sa forme, pour faire avancer plus vite la recherche
+   biomédicale », illustre Tristan Cazenave. Athénan n’en est donc qu’à
+   ses tout débuts. ♦
+   Notes
+     * 1. « Minimax Strikes Back », Q. Cohen-Solal et T. Cazenave, 19
+       décembre 2020. arXiv preprint :
+       https://arxiv.org/pdf/2012.10700.pdf
+     * 2. Unité CNRS/Université Paris-Dauphine.
+     * 3. « Mastering the game of Go with deep neural networks and tree
+       search », D. Silver et al., Nature, 28 janvier 2016.
+       https://doi.org/10.1038/nature16961
+     * 4. « Mastering Chess and Shogi by Self-Play with a General
+       Reinforcement Learning Algorithm », D. Silver et al., 5 décembre
+       2017. arXiv preprint : https://arxiv.org/abs/1712.01815
+     * 5. « Best-first minimax search », E. Korf et D. Chickering,
+       Artificial Intelligence, juillet 1996. DOI
+       10.1016/0004-3702(95)00096-8
+
+   Aller plus loin
+   0 commentaire
+
+Mots-clés
+
+   Computer Olympiad jeux de stratégie Athénan Algorithmes échecs Jeu de
+   Go Deep Blue AlphaGo AlphaZero recherche Monte Carlo
+
+Partager cet article
+
+Auteur
+
+   Kheira Bettayeb
+
+   Journaliste scientifique freelance depuis dix ans, Kheira Bettayeb est
+   spécialiste des domaines suivants : médecine, biologie, neurosciences,
+   zoologie, astronomie, physique et nouvelles technologies. Elle
+   travaille notamment pour la presse magazine nationale.
+   En savoir plus sur l'auteur
+   Des « monstres » marins au temps des dinosauresPrécédent
+   Les Lumières brillent-elles encore au XXIe siècle ?Suivant
+
+Voir aussi
+
+   Numérique
+   extrait de la vidéo © CNRS 2023
+   Blog
+   11/12/2023
+   Cellule souche cherche sa destinée
+   Blog
+   07/12/2023
+   Les robots face à l’incertitude
+   Article
+   04/12/2023
+   La créativité peut-elle être artificielle ?
+   réseau neuronal
+   Article
+   24/11/2023
+   Les défis d’une IA frugale
+   Blog
+   20/11/2023
+   Faciliter l'étude d’un vaste corpus documentaire par la...
+   Informatique
+   Article
+   14/09/2023
+   Penser des datacenters moins énergivores
+   Article
+   27/04/2023
+   Cryptoactifs : vers des alternatives éco-compatibles ?
+   Article
+   31/03/2023
+   Des mouchards dans les jeux mobiles
+   Article
+   23/01/2023
+   Quand le cloud se fait diffus
+   Article
+   18/01/2023
+   Un algorithme pour éviter les débris spatiaux
+
+Commentaires
+
+   0 commentaire
+   Flux RSS
+   Pour laisser votre avis sur cet article
+   Connectez-vous, rejoignez la communauté
+   du journal CNRS
+   Se connecter
+   Créer un compte
+
+     * À propos
+     * Newsletters
+     * Équipe / crédits
+     * Nous contacter
+     * Charte d'utilisation
+     * Plan du site
+     * Données personnelles
+     * Mentions légales
+
+Numéros papiers
+
+   CNRS Le Journal - décembre 2023
+   n°314
+   Voir tous les numéros
+
+Nous suivre
+
+     * Twitter
+     * Facebook
+     * Google
+     * Dailymotion
+
+Partager
+
+     * Twitter
+     * Facebook
+     * Google
+     * Email
+
+   [logofondation.svg] Faites un don pour la recherche !
+   Centre National de la Recherche Scientifique
+   © 2023, CNRS
      * Créer un compte
      * Se connecter
-
-   [ ] Outils personnels
-     * Créer un compte
-     * Se connecter
-
-   Pages pour les contributeurs déconnectés en savoir plus
-     * Contributions
-     * Discussion
-
-Sommaire
-
-   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
-     * Début
-     * 1Terminologie
-     * 2Histoire
-     * 3Caractéristiques
-       (BUTTON) Afficher / masquer la sous-section Caractéristiques
-          + 3.1Sentience
-          + 3.2Explosion d'intelligence
-     * 4Faisabilité
-     * 5Bénéfices
-     * 6Risques
-       (BUTTON) Afficher / masquer la sous-section Risques
-          + 6.1Perte de contrôle
-          + 6.2Chômage de masse
-          + 6.3Désinformation et manipulation
-          + 6.4Cyberattaques et prolifération
-     * 7Références
-     * 8Voir aussi
-       (BUTTON) Afficher / masquer la sous-section Voir aussi
-          + 8.1Articles connexes
-          + 8.2Liens externes
-          + 8.3Bibliographie
-
-   [ ] Basculer la table des matières
-
-Intelligence artificielle générale
-
-   [ ] 35 langues
-     * Afrikaans
-     * العربية
-     * Bosanski
-     * Català
-     * کوردی
-     * Čeština
-     * Deutsch
-     * English
-     * Español
-     * Euskara
-     * فارسی
-     * Suomi
-     * עברית
-     * Hrvatski
-     * Հայերեն
-     * Bahasa Indonesia
-     * Italiano
-     * 日本語
-     * 한국어
-     * Nederlands
-     * ଓଡ଼ିଆ
-     * Polski
-     * پښتو
-     * Português
-     * Runa Simi
-     * Română
-     * Русский
-     * Slovenščina
-     * Svenska
-     * ไทย
-     * Türkçe
-     * ئۇيغۇرچە / Uyghurche
-     * Українська
-     * 中文
-     * 粵語
-
-   Modifier les liens
-
-     * Article
-     * Discussion
-
-   [ ] français
-
-     * Lire
-     * Modifier
-     * Modifier le code
-     * Voir l’historique
-
-   [ ] Outils
-   Outils
-   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
-   Actions
-     * Lire
-     * Modifier
-     * Modifier le code
-     * Voir l’historique
-
-   Général
-     * Pages liées
-     * Suivi des pages liées
-     * Téléverser un fichier
-     * Pages spéciales
-     * Lien permanent
-     * Informations sur la page
-     * Citer cette page
-     * Obtenir l'URL raccourcie
-     * Élément Wikidata
-
-   Imprimer / exporter
-     * Créer un livre
-     * Télécharger comme PDF
-     * Version imprimable
-
-   Un article de Wikipédia, l'encyclopédie libre.
-   Page d’aide sur l’homonymie
-
-   Ne doit pas être confondu avec Intelligence artificielle générative.
-   [220px-Artificial_intelligence_prompt_completion_by_dalle_mini.jpg]
-   Image générée en juin 2022 par le modèle de génération d'images
-   DALL-E-mini, à partir de la consigne « Intelligence artificielle ».
-
-   Une intelligence artificielle générale (IAG) est une intelligence
-   artificielle capable d'effectuer ou d'apprendre pratiquement n'importe
-   quelle tâche cognitive propre aux humains ou autres animaux^[1]^,^[2].
-   La création d'intelligences artificielles générales est un des
-   principaux objectifs de certaines entreprises comme OpenAI, DeepMind et
-   Anthropic. C'est aussi un thème majeur de la science-fiction et de la
-   futurologie. Même si GPT-4 a été décrit comme ayant des « étincelles
-   d'intelligence artificielle générale », il n'existe pas en 2023 d'IA
-   consensuellement considérée comme générale^[3].
-
-   Bien que l'intelligence artificielle générale puisse être très utile
-   dans de nombreux domaines, des études en cours évaluent les risques
-   potentiels de cette technologie en voie de développement^[4]^,^[5].
-   Notamment les risques de désinformation et de chômage de masse. Selon
-   des experts en IA comme Stuart Russell^[6], Yoshua Bengio^[7] ou
-   Geoffrey Hinton^[8] et d'autres chercheurs en IA^[9], une perte de
-   contrôle pourrait également causer des risques existentiels tels que la
-   fin de l'humanité^[9].
-
-Terminologie[modifier | modifier le code]
-
-   Selon la plupart des spécialistes, l'IAG (Artificial general
-   intelligence ou AGI en anglais), ou IA de niveau humain, se réfère à la
-   capacité d'une machine autonome à effectuer l’ensemble des tâches
-   intellectuelles qu'un être humain peut effectuer^[1]. Cette définition
-   assez restrictive fait qu'une IA peut générer du texte de haute qualité
-   et être bien plus rapide que l'humain sans être qualifiée de
-   « générale », s'il reste des tâches qu'elle n'effectue pas aussi bien
-   que l'humain. OpenAI définit plutôt l'IAG comme un système hautement
-   autonome capable de surpasser l'humain dans la plupart des tâches ayant
-   un intérêt économique^[10].
-
-   Un système expert, ou IA « étroite » est un système informatique
-   potentiellement très compétent, mais qui n'opère que dans un contexte
-   restreint, souvent focalisé sur une tâche précise^[11].
-
-   Le terme d'IA forte fait quant à lui plus souvent intervenir une notion
-   philosophique de conscience, ce qui fait que les capacités de l'IA ne
-   suffisent pas à dire si elle est « forte ». Une IA peut donc être
-   parfois qualifiée de « faible » dans ce sens, indépendamment de ses
-   compétences, si elle n'est pas « consciente ». Ces notions font
-   référence à l'hypothèse de l'IA forte et de l'IA faible dans
-   l'expérience de pensée de la chambre chinoise^[12].
-
-   Le terme de superintelligence artificielle décrit une IA aux capacités
-   intellectuelles bien supérieures à celles de l'humain dans pratiquement
-   tous les domaines^[13]. Les experts affichent une large incertitude sur
-   le temps que cela prendrait de passer d'une IAG à une superintelligence
-   artificielle, les estimations pouvant aller de moins d'une heure à
-   plusieurs décennies, en supposant que ce soit possible^[14].
-
-   Cela dit, ces termes peuvent avoir des définitions différentes, et ces
-   définitions sont suffisamment vagues pour qu'il puisse parfois être
-   difficile de catégoriser une IA.
-
-Histoire[modifier | modifier le code]
-
-   Dans les années 1950, la première génération de chercheurs en
-   intelligence artificielle était convaincue que l'IAG est possible et
-   existerait au bout de quelques décennies. Le pionnier Herbert Simon a
-   écrit en 1965 : « les machines seront capables, dans moins de 20 ans,
-   d'accomplir n'importe quelle tâche qu'un homme peut accomplir »^[15].
-
-   Cependant, dans les années 1970, il devint évident qu'ils avaient
-   grossièrement sous-estimé la difficulté du projet. Les fonds
-   d'investissement devinrent sceptiques de l'IAG, et mirent davantage de
-   pression sur les chercheurs pour obtenir des applications plus
-   concrètes^[16]. Après un bref regain d'intérêt dans les années 1980, la
-   confiance générale dans l'IA rechute. Jusqu'aux années 1990, les
-   chercheurs en IA étaient réputés pour faire des promesses vaines, et
-   devinrent réticents à faire la moindre prédiction^[17].
-
-   Dans les années 1990 et au début du XXI^e siècle, la recherche en IA a
-   atteint un certain succès commercial et une respectabilité académique
-   en se concentrant sur des applications commerciales ou des
-   sous-problèmes auxquels l'IA peut fournir des résultats vérifiables.
-   Notamment via des réseaux de neurones artificiels ou des techniques
-   d'apprentissage statistique. Ces techniques sont maintenant largement
-   appliquées dans l'industrie^[18].
-
-   Le terme d'« intelligence artificielle générale » a été utilisé dès
-   1997 par Mark Gubrud dans une discussion sur les implications de
-   l'automatisation de la production et des opérations militaires^[19].
-
-   En 2016, DeepMind a conçu AlphaGo, un programme d'apprentissage par
-   renforcement qui s'est avéré capable de vaincre le champion du monde de
-   Go Lee Sedol. Ce programme nécessitait cependant une connaissance
-   spécifique du jeu de Go et des données humaines, ainsi que des règles
-   du jeu. En 2020, Google DeepMind crée MuZero, qui n'a plus ces
-   limitations et peut être entraîné sur d'autres types de jeux comme les
-   jeux Atari^[20]. En 2022, Google DeepMind développe Gato, un système
-   d'IA généraliste capable d'exécuter plus de 600 tâches^[21].
-
-   En 2023, Microsoft Research a publié une étude sur une version précoce
-   de GPT-4, affirmant que GPT-4 manifestait une intelligence plus
-   générale que les précédents modèles d'IA, et affichait des performances
-   de niveau humain dans de multiples domaines tels que les mathématiques,
-   la programmation et le judiciaire^[22]. Une autre étude en 2023
-   rapporte que GPT-4 surpasse 99 % des humains aux tests de créativité de
-   Torrance^[23].
-
-Caractéristiques[modifier | modifier le code]
-
-   Une IAG doit notamment pouvoir :
-     * Planifier
-     * Comprendre des concepts abstraits
-     * Résoudre des problèmes
-     * Prendre des décisions en tenant compte de l'incertitude
-     * Apprendre
-     * Communiquer en langage naturel
-     * Faire preuve de créativité
-
-Sentience[modifier | modifier le code]
-
-   Article détaillé : Conscience artificielle.
-
-   La sentience n'est en général pas considérée comme un critère
-   nécessaire pour l'IAG. Une machine pourrait probablement en effet être
-   très compétente pour accomplir des objectifs sans nécessairement être
-   sentiente^[24].
-
-   La question de savoir si les machines peuvent en principe être
-   sentientes est controversée^[25]. Il n'existe actuellement pas de
-   mesure fiable de la sentience, ni même de théorie qui fasse largement
-   consensus^[26]. Selon les fonctionnalistes, la sentience est causée par
-   certains types de traitement de l'information. Il n'y a dans ce cas pas
-   de barrière théorique au fait que la sentience puisse se manifester sur
-   un support autre que biologique^[27]. Le fait qu'une machine soit
-   sentiente n'implique pas nécessairement qu'elle soit plus puissante ou
-   plus dangereuse, mais plutôt qu'elle pourrait avoir une dimension
-   morale. Si c'est le cas, il pourrait, de même que pour les animaux,
-   être pertinent d'accorder des droits à ces IAs ou de se soucier de leur
-   bien-être^[28].
-
-Explosion d'intelligence[modifier | modifier le code]
-
-   C'est là aussi controversé, mais une IAG serait en principe capable de
-   remplacer le poste de chercheur en intelligence artificielle.
-   Cependant, les machines sont en général plus rapides que le cerveau
-   humain, certains chercheurs estiment donc qu'il pourrait survenir une
-   « explosion d'intelligence », faisant rapidement de l'IAG une
-   superintelligence.
-
-   Le concept n'est pas nouveau. En 1965, Irving John Good écrivait^[29] :
-
-     « Supposons une machine ultra-intelligente définie comme une machine
-     pouvant surpasser toutes les activités intellectuelles de n'importe
-     quel homme quelle que soit son intelligence. La conception de telles
-     machines étant l’une de ces activités intellectuelles, une machine
-     ultra-intelligente pourrait concevoir des machines encore
-     meilleures ; il y aurait alors incontestablement une « explosion
-     d’intelligence », et l’intelligence humaine serait très vite laissée
-     loin derrière. Ainsi, l’invention de la première machine
-     ultra-intelligente est la dernière invention que l’humanité ait
-     besoin de réaliser, à condition que la machine soit suffisamment
-     docile pour nous dire comment la garder sous contrôle. »
-
-   — Irving John Good, Speculations Concerning the First Ultraintelligent
-   Machine
-
-   Ce scénario est débattu. D'autres pensent que cette amélioration
-   récursive se ferait de façon plus décentralisée ou progressive,
-   s'étalant sur des années voire des décennies. L'économiste Robin Hanson
-   estime par exemple que pour déclencher une explosion d'intelligence,
-   une machine devrait avoir une meilleure capacité d'innovation que le
-   reste du monde combiné, ce qui lui semble peu plausible^[30].
-
-Faisabilité[modifier | modifier le code]
-
-   Cette capacité nécessite notamment une généralisation et une
-   abstraction de l'apprentissage sur un ensemble de fonctions cognitives.
-   Pour l'instant, le transfert autonome et agile de l'apprentissage d'un
-   domaine à un autre n'en est qu'à ses balbutiements^[31].
-
-   Là où l'approche de Google DeepMind avec AlphaGo, Muzero et Gato
-   consistait à partir de systèmes d'apprentissage par renforcement
-   puissants mais spécifiques et à tenter de les généraliser à des
-   situations de plus en plus complexes (avec un certain
-   succès)^[20]^,^[32], les grands modèles de langage ont récemment
-   fournit une approche différente. Initialement, les modèles d'IA
-   disposent d'un grand nombre de paramètres ajustables (par exemple, 175
-   milliards dans le cas de GPT-3^[33]). La première étape de
-   l'entraînement des grands modèles de langage consiste à prédire, pour
-   un très grand nombre de textes issus d'internet, le mot suivant (ou
-   plus exactement le token suivant, un token étant une séquence
-   d'octets). Au fur et à mesure de cet apprentissage, le modèle ajuste
-   ses paramètres internes. Cette tâche étonnamment simple, répétée un
-   grand nombre de fois, permet au modèle de langage d'acquérir une
-   connaissance non seulement du langage, mais aussi de nombreux autres
-   domaines tels que l'arithmétique, le raisonnement, la physique,
-   l'humour, la traduction^[34]...
-
-   Une procédure d'entraînement relativement simple est ainsi capable de
-   faire émerger des connaissances et des capacités complexes. L'IAG
-   pourrait peut-être ainsi être principalement une question de quantité
-   de ressources consacrées à l'entraînement. Il semble en effet que pour
-   un modèle de taille suffisante, les performances augmentent
-   régulièrement avec^[35] :
-     * La quantité de données ayant servi à entraîner du modèle.
-     * Les capacités de calcul ayant servi à entraîner le modèle, ou
-       autrement dit le nombre d'itérations.
-
-   Il y a quelques années, l'intelligence artificielle générale était
-   perçu comme un sujet spéculatif et lointain. En 2015, Le vice-président
-   de Baidu, Andrew Ng, que s'inquiéter des risques existentiels liés à
-   l'IAG est « comme s'inquiéter de la surpopulation sur Mars alors que
-   nous n'avons même pas encore mis le pied sur la planète »^[36].
-
-   Les spectaculaires progrès récents suggèrent cependant que l'IAG soit
-   moins difficile à réaliser que prévu^[37]. Selon l'informaticien
-   Geoffrey Hinton^[38] :
-
-     « L'idée que ça pourrait devenir plus intelligent que l'humain —
-     quelques gens y croyaient, [...]. Mais la plupart pensaient que ce
-     ça n'arriverait pas avant longtemps. Et je pensais que ça
-     n'arriverait pas avant longtemps. Je pensais que ça prendrait entre
-     30 et 50 ans. Évidemment, ce n'est plus ce que je pense »
-
-   — Geoffrey Hinton
-
-   Certains estiment que GPT-5, le successeur à venir de
-   GPT-4^[39]^,^[40], sera probablement une intelligence artificielle
-   générale^[41]. La définition d'intelligence artificielle générale reste
-   cependant suffisamment floue pour qu'il puisse être difficile ou
-   subjectif d'évaluer si un modèle est une IAG.
-
-Bénéfices[modifier | modifier le code]
-
-   L'IAG pourrait avoir des applications très variées. Si elle est
-   orientée vers ce but, l'IAG, et plus encore la superintelligence
-   artificielle, pourrait aider à combattre divers problèmes dans le monde
-   tels la faim, la pauvreté et les problèmes de santé^[42].
-
-   L'IAG pourrait augmenter la productivité et l'efficacité dans la
-   plupart des travaux. Par exemple, dans le secteur de la santé, l'IAG
-   pourrait accélérer la recherche, notamment contre le cancer^[43]. Elle
-   pourrait s'occuper des personnes âgées^[44], ou encore démocratiser
-   l'accès à des diagnostiques médicaux rapides et de qualité^[45]. De
-   même dans le secteur de l'éducation, où elle pourrait offrir une
-   éducation ludique, personnalisée et à faible coût^[44]. Pour
-   pratiquement n'importe quel travail bénéficiant à la société s'il est
-   bien accompli, il serait probablement tôt ou tard préférable de le
-   laisser à une IAG. Le besoin de travailler pour subsister pourrait
-   devenir obsolète, si les richesses produites sont adéquatement
-   redistribuées^[46]^,^[44]. Cela pose donc aussi la question de la place
-   de l'humain dans une société radicalement automatisée.
-
-   L'IAG pourrait aussi aider à prendre des décisions rationnelles,
-   anticiper et empêcher des catastrophes. Si une IAG avait pour objectif
-   premier d'empêcher des catastrophes planétaires telles que l'extinction
-   de l'humanité (ce qui pourrait être difficile si l'Hypothèse du Monde
-   Vulnérable s'avère fondée^[47]), elle pourrait ainsi prendre des
-   mesures réduisant drastiquement les risques^[48] tout en minimisant
-   l'impact de ces mesures sur notre qualité de vie. Elle pourrait aussi
-   aider à tirer les bénéfices de technologies potentiellement
-   catastrophiques telles que les nanotechnologies ou l'ingénierie
-   climatique tout en évitant les risques associés^[48].
-
-Risques[modifier | modifier le code]
-
-   Les risques associés à l'IAG sont divers et peuvent provenir de l'IAG
-   elle-même, ou du comportement humain face à celle-ci^[49]. Certains
-   risques sont déjà un problème aujourd'hui, comme le chômage, la
-   désinformation ou les armes létales autonomes, mais pourraient être
-   exacerbés par l'IAG. En outre, la capacité de la société humaine à
-   prédire et à contrôler le développement de l'IAG, ainsi que sa capacité
-   à faire face aux risques potentiels font l'objet d'études^[49].
-
-   Voici une liste non-exhaustive de risques importants.
-
-Perte de contrôle[modifier | modifier le code]
-
-   Un risque particulièrement débattu est celui d'une catastrophe
-   existentielle liée l'IAG. Cela implique en général une perte
-   irréversible de contrôle d'une IAG qui aurait un objectif différent de
-   celui des humains^[50].
-
-   Le sort de l'humanité face à l'IAG a parfois été comparé à celui du
-   gorille, menacé par les activités humaines. Le supplément
-   d'intelligence de l'humanité l'a mise dans une position de domination,
-   et le gorille est devenu vulnérable de façons qu'il n'aurait pas pu
-   anticiper. Le gorille est devenu une espèce menacée, pas par
-   malveillance, mais simplement comme un dommage collatéral des activités
-   humaines^[51].
-
-   Le fait d'assigner les objectifs souhaités à des intelligences
-   artificielles générales est encore un sujet actif de recherche, baptisé
-   le problème de l'alignement. Selon OpenAI, l'IAG pose un risque
-   existentiel^[52]^,^[53], et « résoudre le problème de l'alignement des
-   IAG pourrait s'avérer si difficile que cela nécessiterait que toute
-   l'humanité y travaille ensemble »^[52]. Une des difficultés vient du
-   fait que si l'IAG est capable de manipuler des humains, il est très
-   difficile de vérifier si ses intentions sont vraiment celles que l'on
-   souhaite^[54]. Une approche nommée l'« interprétabilité » consiste à
-   tenter de comprendre le fonctionnement interne de ces modèles d'IA,
-   notamment afin de pouvoir détecter des signes de manipulation, une
-   tâche difficile vu la complexité et le nombre de paramètres de ces
-   modèles d'IA^[55].
-
-   Des sceptiques comme Yann Le Cun estiment que les intelligences
-   artificielles générales n'auront pas de raison de vouloir dominer
-   l'humanité, et qu'il faut être prudent de ne pas les anthropomorphiser
-   et leur accorder des intentions humaines^[56]. Il considère que les
-   humains ne seraient pas « suffisamment intelligents pour concevoir des
-   machines superintelligentes, et pourtant ridiculement stupides au point
-   de leur donner des objectifs idiots sans avoir de garde-fous »^[57].
-
-   Le principe de convergence instrumentale suggère à l'inverse que
-   presque quel que soit les objectifs d'un agent intelligent, celui-ci a
-   des raisons de chercher à survivre et accumuler davantage de ressources
-   et d'influence, car cela l'aide à accomplir ces objectifs. Et que cela
-   ne nécessite pas que l'IA ait des émotions^[58]. Le philosophe Nick
-   Bostrom donne l'exemple du maximiseur de trombones pour illustrer
-   comment l'optimisation d'un objectif quelconque pourrait avoir des
-   conséquences catastrophiques :
-
-     « Supposons que nous ayons une IA dont l'unique but soit de faire
-     autant de trombones que possible. L'IA se rendra vite compte que ce
-     serait bien mieux s'il n'y avait pas d'humains, parce que les
-     humains pourraient décider de l'éteindre. Parce que si les humains
-     le faisaient, il y aurait moins de trombones. De plus, le corps
-     humain contient beaucoup d'atomes qui pourraient être transformés en
-     trombones. L'avenir vers lequel l'IA essaierait de se diriger serait
-     un futur avec beaucoup de trombones mais aucun humain. »
-
-   — Nick Bostrom^[59]
-
-   Beaucoup de sceptiques estiment que l'IAG n'est pas pour bientôt ou
-   n'aura pas lieu, ou que ces risques contre-intuitifs détournent
-   l'attention de problèmes plus concrets et immédiats^[60].
-
-   En 2023, Max Tegmark dresse une analogie entre la superintelligence non
-   alignée et la comète qui s'apprête à heurter la Terre dans le film à
-   succès Don't Look Up^[61].
-
-Chômage de masse[modifier | modifier le code]
-
-   Les modèles de langage actuels pourraient déjà toucher le marché de
-   l'emploi. Selon OpenAI, « 80 % de la main-d'œuvre américaine pourrait
-   voir au moins 10 % de ses tâches affectées, tandis qu'environ 19 % des
-   travailleurs pourraient voir au moins 50 % de leurs tâches affectées
-   par l'introduction d'outils tels que ChatGPT »^[62]. Les travailleurs
-   de bureau semblent être les plus concernés, par exemple les
-   mathématiciens, comptables ou concepteurs de sites Web^[62].
-
-   L'IAG pourrait augmenter l'autonomie de ces systèmes, leur capacité à
-   prendre des décisions, à s'interfacer avec d'autres outils
-   informatiques, mais aussi à contrôler des corps robotisés.
-
-   Cette automatisation est parfois considérée comme une aubaine, créant
-   davantage de richesses tout en travaillant moins. Larry Page,
-   cofondateur de Google, estime que cela nous permettra de « vivre
-   mieux » en nous « libérant du temps »^[63]. Selon Stephen Hawking, le
-   résultat dépendra notamment de la façon dont les richesses seront
-   redistribuées^[46] :
-
-     « Chacun pourra vivre une voluptueuse existence de loisirs si les
-     richesses produites par les machines sont réparties, ou bien la
-     majorité des gens vivront dans la misère si les propriétaires de ces
-     machines parviennent à nullifier la redistribution des richesses.
-     Jusqu’ici, la tendance semble être la seconde option, et la
-     technologie creuse toujours plus les inégalités. »
-
-   — Stephen Hawking
-
-   D'après Elon Musk, cette automatisation générale des tâches dans la
-   société nécessitera l'adoption par les gouvernements d'un revenu
-   universel^[63].
-
-Désinformation et manipulation[modifier | modifier le code]
-
-   La génération automatique d'images ou de textes crédibles est déjà
-   possible. Par exemple, une fausse image d'une explosion du Pentagone le
-   22 mai 2023, partagée par des comptes financiers ainsi que par des
-   médias russes, a entraîné une baisse momentanée de 0,3 % des cours
-   boursiers aux États-Unis^[64]. L'IAG pourrait néanmoins acquérir une
-   meilleure compréhension du contexte, interagir avec d'autres outils et
-   se montrer plus convaincante, stratégique, personnalisée et autonome.
-
-   La capacité des modèles d'IA à produire du contenu très rapidement et à
-   faible coût pourrait inonder internet de texte, d'images ou de vidéos
-   générées automatiquement^[65]^,^[66]. Ce contrôle de l'information
-   pourrait être également exploité par des régimes autoritaires à des
-   fins de surveillance et de contrôle. Cela pourrait ainsi intensifier la
-   diffusion de désinformation et de propagande. Une solution proposée
-   serait l'adoption à grande échelle de systèmes numériques permettant de
-   prouver anonymement sur internet que l'on est un humain, ce qui
-   permettrait notamment de filtrer efficacement les faux-comptes^[67].
-
-Cyberattaques et prolifération[modifier | modifier le code]
-
-   L'IAG pourrait aussi automatiser les cyberattaques ou les escroqueries
-   reposant sur l'ingénierie sociale^[68]. Que ce soit l'intention du
-   concepteur ou non, il se pourrait que l'IAG soit en mesure d'exploiter
-   les faiblesses de systèmes informatiques pour déjouer des protections,
-   obtenir de l'argent ou se reproduire^[69].
-
-Références[modifier | modifier le code]
-
-    1. ↑ ^a et b Pitpitt, « Intelligence artificielle générale —
-       DataFranca », sur datafranca.org (consulté le 24 mai 2023)
-    2. ↑ « The original goal of Artificial Intelligence (AI) was to build
-       ‘thinking machines’, but mainstream AI research has turned toward
-       domain-dependent and problem-specific solutions; therefore it has
-       become necessary to use a new name to indicate research that still
-       pursues the “Grand AI Dream”. Similar labels for this kind of
-       research include “Strong AI”, “Human-level AI”, etc. » Artificial
-       General Intelligence (AGI) (AGI Society)
-    3. ↑ (en) « What is Artificial General Intelligence? - TechTarget »,
-       sur Enterprise AI (consulté le 26 mai 2023)
-    4. ↑ « Intelligence artificielle : opportunités et risques »,
-       Actualité, Parlement européen, 30 septembre 2020 (consulté le 24
-       mai 2023).
-    5. ↑ Source AFP, « L’IA présente « des risques majeurs pour
-       l’humanité », selon Elon Musk et des experts », sur Le Point, 29
-       mars 2023 (consulté le 24 mai 2023).
-    6. ↑ (en) « Yes, We Are Worried About the Existential Risk of
-       Artificial Intelligence », sur MIT Technology Review (consulté le
-       26 mai 2023).
-    7. ↑ (en) « AI guru Yoshua Bengio says regulation too slow, warns of
-       'existential' threats », sur Vancouver Is Awesome, 24 mai 2023
-       (consulté le 26 mai 2023).
-    8. ↑ (en) Craig S. Smith, « Geoff Hinton, AI’s Most Famous Researcher,
-       Warns Of ‘Existential Threat’ From AI », sur Forbes (consulté le 26
-       mai 2023)
-    9. ↑ ^a et b (en-US) https://aiimpacts.org/author/katja, « 2022 Expert
-       Survey on Progress in AI », sur AI Impacts, 4 août 2022 (consulté
-       le 25 mai 2023).
-   10. ↑ (en-US) « OpenAI Charter », sur openai.com (consulté le 19 juin
-       2023) : « OpenAI’s mission is to ensure that artificial general
-       intelligence (AGI)—by which we mean highly autonomous systems that
-       outperform humans at most economically valuable work—benefits all
-       of humanity. »
-   11. ↑ Team rédac, « Intelligence Artificielle : définition, histoire,
-       utilisations, dangers », sur DataScientest.com, 20 novembre 2020
-       (consulté le 26 mai 2023)
-   12. ↑ (en) John Searle, « Minds, brains, and programs », 1980
-   13. ↑ Pitpitt, « Superintelligence — DataFranca », sur datafranca.org
-       (consulté le 26 mai 2023)
-   14. ↑ (en) Owen Cotton-Barratt et Toby Ord, « Strategic considerations
-       about different speeds of AI takeoff », sur The Future of Humanity
-       Institute, 12 août 2014 (consulté le 25 mai 2023)
-   15. ↑ (en) Anthony M. Zador, « A critique of pure learning and what
-       artificial neural networks can learn from animal brains », Nature
-       Communications, vol. 10, n^o 1,‎ 21 août 2019, p. 3770
-       (ISSN 2041-1723, DOI 10.1038/s41467-019-11786-6, lire en ligne,
-       consulté le 25 mai 2023)
-   16. ↑ Diana Sisu, « School of Informatics: History of Artificial
-       Intelligence at Edinburgh », sur inf.ed.ac.uk (consulté le 25 mai
-       2023)
-   17. ↑ « Review of Artificial Intelligence: A General Survey », sur
-       formal.stanford.edu (consulté le 25 mai 2023) : « it would be a
-       great relief to the rest of the workers in AI if the inventors of
-       new general formalisms would express their hopes in a more guarded
-       form than has sometimes been the case. »
-   18. ↑ Stuart J. Russell et Peter Norvig, Artificial intelligence: a
-       modern approach ; [the intelligent agent book], Prentice Hall,
-       coll. « Prentice Hall series in artificial intelligence », 2003,
-       2^e éd. (ISBN 978-0-13-790395-5), p. 25-26
-   19. ↑ (en) Mark Gubrud, « Fifth Foresight Conference on Molecular
-       Nanotechnology », novembre 1997
-   20. ↑ ^a et b (en) « MuZero: Mastering Go, chess, shogi and Atari
-       without rules », sur deepmind.com (consulté le 26 mai 2023)
-   21. ↑ « L'intelligence artificielle "Gato" peut-elle surpasser
-       l'intelligence humaine ? », sur Les Numériques, 3 juin 2022
-       (consulté le 26 mai 2023)
-   22. ↑ « Microsoft prétend que GPT-4 montre des « étincelles »
-       d'intelligence artificielle générale, « nous pensons que
-       l'intelligence de GPT-4 signale un véritable changement de
-       paradigme » », Developpez.com,‎ 27 mars 2023 (lire en ligne,
-       consulté le 26 mai 2023)
-   23. ↑ Elina S., « ChatGPT est-il vraiment plus créatif que 99% des
-       humains ? », sur lebigdata.fr, 20 juillet 2023 (consulté le 6
-       novembre 2023).
-   24. ↑ (en-US) Kumar Gandharv, « Is Artificial General Intelligence
-       Enhancing AI Consciousness », sur Datatechvibe, 10 août 2022
-       (consulté le 26 mai 2023)
-   25. ↑ (en) « AI could have 20% chance of sentience in 10 years, says
-       philosopher David Chalmers », sur ZDNET (consulté le 26 mai 2023)
-   26. ↑ (en) Rob Toews, « Reflecting On ‘Artificial General Intelligence’
-       And AI Sentience », sur Forbes (consulté le 26 mai 2023)
-   27. ↑ Riccardo Manzotti et Antonio Chella, « Good Old-Fashioned
-       Artificial Consciousness and the Intermediate Level Fallacy »,
-       Frontiers in Robotics and AI, vol. 5,‎ 2018 (ISSN 2296-9144,
-       DOI 10.3389/frobt.2018.00039/full, lire en ligne, consulté le 26
-       mai 2023)
-   28. ↑ (en-US) Dustin Crummett, « AI Sentience and Moral Risk », sur
-       Prindle Institute, 22 juin 2022 (consulté le 26 mai 2023)
-   29. ↑ (en) Santa Clara University, « Good Machine, Nice Machine,
-       Superintelligent Machine », sur scu.edu (consulté le 26 mai 2023) :
-       « Let an ultraintelligent machine be defined as a machine that can
-       far surpass all the intellectual activities of any man however
-       clever. Since the design of machines is one of these intellectual
-       activities, an ultraintelligent machine could design even better
-       machines; there would then unquestionably be an 'intelligence
-       explosion,' and the intelligence of man would be left far behind.
-       Thus the first ultraintelligent machine is the last invention that
-       man need ever make provided that the machine is docile enough to
-       tell us how to keep it under control. »
-   30. ↑ (en) Robin Hanson, « I Still Don’t Get Foom », sur
-       overcomingbias.com (consulté le 26 mai 2023)
-   31. ↑ Nicolas Miailhe, Cyrus Hodes. La troisième ère de l'intelligence
-       artificielle. OpenEdition Journals
-   32. ↑ (en) « A Generalist Agent », sur deepmind.com (consulté le 26 mai
-       2023)
-   33. ↑ (en-US) « OpenAI Presents GPT-3, a 175 Billion Parameters
-       Language Model », sur NVIDIA Technical Blog, 7 juillet 2020
-       (consulté le 26 mai 2023)
-   34. ↑ (en) « Pathways Language Model (PaLM): Scaling to 540 Billion
-       Parameters for Breakthrough Performance », sur ai.googleblog.com, 4
-       avril 2022 (consulté le 26 mai 2023)
-   35. ↑ (en) « Scaling Laws - AI Alignment Forum », sur
-       alignmentforum.org (consulté le 26 mai 2023)
-   36. ↑ (en) Michael Shermer, « Artificial Intelligence Is Not a
-       Threat—Yet », sur Scientific American (consulté le 26 mai 2023) :
-       « like worrying about overpopulation on Mars when we have not even
-       set foot on the planet yet. »
-   37. ↑ « L'intelligence artificielle générale, prochaine révolution pour
-       l'humanité ? », sur L'Éclaireur Fnac, 22 avril 2023 (consulté le 26
-       mai 2023)
-   38. ↑ (en-US) Cade Metz, « ‘The Godfather of A.I.’ Leaves Google and
-       Warns of Danger Ahead », The New York Times,‎ 1^er mai 2023
-       (ISSN 0362-4331, lire en ligne, consulté le 26 mai 2023) :
-
-     « The idea that this stuff could actually get smarter than people —
-     a few people believed that, [...]. But most people thought it was
-     way off. And I thought it was way off. I thought it was 30 to 50
-     years or even longer away. Obviously, I no longer think that. »
-   39. ↑ Edward Back, « ChatGPT-5 devrait sortir en fin d’année et
-       atteindre le graal de l’intelligence artificielle générale ! », sur
-       Futura (consulté le 26 mai 2023)
-   40. ↑ (en) « Will There Be a GPT-5? When Will GPT-5 Launch? », sur
-       makeuseof.com, 18 avril 2023 (consulté le 7 juin 2023).
-   41. ↑ (en-US) Arjun Sha, « OpenAI GPT-5: Release Date, Features, AGI
-       Rumors, Speculations, and More », sur Beebom, 19 mai 2023 (consulté
-       le 7 juin 2023).
-   42. ↑ (en-US) « Artificial General Intelligence – Do the cost outweigh
-       benefits? », 23 août 2021 (consulté le 26 mai 2023)
-   43. ↑ « How we can Benefit from Advancing Artificial General
-       Intelligence (AGI) - Unite.AI », sur unite.ai (consulté le 26 mai
-       2023)
-   44. ↑ ^a b et c (en) Smithsonian Magazine et Jules Julien,Stephan
-       Talty, « What Will Our Society Look Like When Artificial
-       Intelligence Is Everywhere? », sur Smithsonian Magazine (consulté
-       le 26 mai 2023)
-   45. ↑ Setra, « Selon Sam Altman, l’IA donnera des conseils médicaux
-       (aux pauvres) », sur Presse-citron, 23 février 2023 (consulté le 26
-       mai 2023)
-   46. ↑ ^a et b Maxime Vendé, « Pour Stephen Hawking, la robotisation
-       accroît les inégalités », sur Mouvement Français pour un Revenu de
-       Base, 13 octobre 2015 (consulté le 25 mai 2023) : « Everyone can
-       enjoy a life of luxurious leisure if the machine-produced wealth is
-       shared, or most people can end up miserably poor if the
-       machine-owners successfully lobby against wealth redistribution. So
-       far, the trend seems to be toward the second option, with
-       technology driving ever-increasing inequality. »
-   47. ↑ « La surveillance totale est le seul moyen de sauver
-       l'humanité », sur Intelligence Artificielle et Transhumanisme, 22
-       avril 2019 (consulté le 26 mai 2023)
-   48. ↑ ^a et b Nick Bostrom, Superintelligence: paths, dangers,
-       strategies, Oxford University Press, 2017 (ISBN 978-0-19-967811-2),
-       § Preferred order of arrival
-   49. ↑ ^a et b Ali Gündoğar, Saulius Niauronis. An Overview of Potential
-       Risks of Artificial General Intelligence Robots. Applied Scientific
-       Research, Vol. 2, No. 1, 2023).
-   50. ↑ (en) Wim Naudé et Otto Barten, « Artificial General Intelligence:
-       can we avoid the ultimate existential threat? »
-   51. ↑ (en-US) Mario Herger, « The Gorilla Problem – Enterprise Garage »
-       (consulté le 26 mai 2023)
-   52. ↑ ^a et b (en-US) « Our approach to alignment research », sur
-       openai.com (consulté le 26 mai 2023) : « « Unaligned AGI could pose
-       substantial risks to humanity and solving the AGI alignment problem
-       could be so difficult that it will require all of humanity to work
-       together. » »
-   53. ↑ (en-US) « Governance of superintelligence », sur openai.com
-       (consulté le 26 mai 2023)
-   54. ↑ (en) « Why AI alignment could be hard with modern deep
-       learning », sur Cold Takes, 21 septembre 2021 (consulté le 26 mai
-       2023)
-   55. ↑ (en) « 19 - Mechanistic Interpretability with Neel Nanda », sur
-       AXRP - the AI X-risk Research Podcast, 4 février 2023 (consulté le
-       26 mai 2023)
-   56. ↑ (en) Anthony Zador,Yann LeCun, « Don’t Fear the Terminator », sur
-       Scientific American Blog Network (consulté le 26 mai 2023)
-   57. ↑ « The fascinating Facebook debate between Yann LeCun, Stuart
-       Russel and Yoshua Bengio about the risks of strong AI », sur The
-       fascinating Facebook debate between Yann LeCun, Stuart Russel and
-       Yoshua Bengio about the risks of strong AI (consulté le 26 mai
-       2023) : « I think it would only be relevant in a fantasy world in
-       which people would be smart enough to design super-intelligent
-       machines, yet ridiculously stupid to the point of giving it moronic
-       objectives with no safeguards. »
-   58. ↑ « The fascinating Facebook debate between Yann LeCun, Stuart
-       Russel and Yoshua Bengio about the risks of strong AI », sur The
-       fascinating Facebook debate between Yann LeCun, Stuart Russel and
-       Yoshua Bengio about the risks of strong AI (consulté le 26 mai
-       2023) : « It is trivial to construct a toy MDP in which the agent's
-       only reward comes from fetching the coffee. If, in that MDP, there
-       is another "human" who has some probability, however small, of
-       switching the agent off, and if the agent has available a button
-       that switches off that human, the agent will necessarily press that
-       button as part of the optimal solution for fetching the coffee. No
-       hatred, no desire for power, no built-in emotions, no built-in
-       survival instinct, nothing except the desire to fetch the coffee
-       successfully. This point cannot be addressed because it's a simple
-       mathematical observation »
-   59. ↑ Kathleen Miles, « Artificial Intelligence May Doom The Human Race
-       Within A Century, Oxford Professor Says », Huffington Post,‎ 22
-       août 2014 (lire en ligne) : « Suppose we have an AI whose only goal
-       is to make as many paper clips as possible. The AI will realize
-       quickly that it would be much better if there were no humans
-       because humans might decide to switch it off. Because if humans do
-       so, there would be fewer paper clips. Also, human bodies contain a
-       lot of atoms that could be made into paper clips. The future that
-       the AI would be trying to gear towards would be one in which there
-       were a lot of paper clips but no humans. »
-   60. ↑ (en) « Expert Comment: No need to wait for the future, the danger
-       of AI is already here », University of Oxford, 15 mai 2023
-       (consulté le 26 mai 2023).
-   61. ↑ (en) « The 'Don't Look Up' Thinking That Could Doom Us With AI »,
-       sur Time, 25 avril 2023 (consulté le 26 mai 2023)
-   62. ↑ ^a et b « ChatGPT : quels sont les métiers menacés par les
-       intelligences artificielles ? », sur Capital.fr, 29 mars 2023
-       (consulté le 25 mai 2023)
-   63. ↑ ^a et b Fabien Soyez, « Revenu universel : une solution pour
-       contrer les robots et la destruction du travail ? », sur cnet, 10
-       novembre 2016 (consulté le 25 mars 2023)
-   64. ↑ « La fausse image d’une explosion au Pentagone fait brièvement
-       douter les marchés », Le Monde,‎ 24 mai 2023 (lire en ligne,
-       consulté le 25 mai 2023).
-   65. ↑ « L’intelligence artificielle permet désormais d’inonder le Web
-       de fake news », sur 01net.com, 5 août 2021 (consulté le 26 mai
-       2023)
-   66. ↑ « Midjourney, ChatGPT… Quel rôle l’intelligence artificielle
-       joue-t-elle sur la désinformation ? », sur Ouest-France.fr, 28 mars
-       2023 (consulté le 26 mai 2023)
-   67. ↑ (en) « Proof of personhood: What it is and why it’s needed », sur
-       worldcoin.org (consulté le 26 mai 2023)
-   68. ↑ (en) Jeffrey Laddish et Lennart Heim, « Information security
-       considerations for AI and the long term future », sur LessWrong, 2
-       mai 2022.
-   69. ↑ (en) Zach Stein-Perlman, « DeepMind: Model evaluation for extreme
-       risks », LessWrong,‎ 25 mai 2023 (lire en ligne, consulté le 26 mai
-       2023)
-
-Voir aussi[modifier | modifier le code]
-
-Articles connexes[modifier | modifier le code]
-
-     * Alignement des intelligences artificielles
-     * ChatGPT
-     * Grand modèle de langage
-     * Risque de catastrophe planétaire lié à l'intelligence artificielle
-       générale
-     * Superintelligence
-     * Association for the Advancement of Artificial Intelligence
-     * Ben Goertzel
-     * OpenCog
-
-Liens externes[modifier | modifier le code]
-
-     * Site officiel de l'AGI Society
-
-Bibliographie[modifier | modifier le code]
-
-     * Cette section est vide, insuffisamment détaillée ou incomplète.
-       Votre aide est la bienvenue ! Comment faire ?
-
-     * icône décorative Portail de l’informatique
-     * icône décorative Portail de la psychologie
-
-   v · m
-   Intelligence artificielle (IA)
-   Concepts
-     * Effet IA
-     * Grand modèle de langage
-     * Hallucination (IA)
-     * IA générale
-     * IA générative
-
-   Techniques
-     * Analyse prédictive
-     * Apprentissage automatique
-     * Apprentissage non supervisé
-     * Apprentissage profond
-     * Apprentissage supervisé
-     * Modèle de fondation
-     * Modèle des croyances transférables
-     * IA symbolique
-     * Réseau bayésien
-     * Réseau de neurones artificiels
-     * Réseau neuronal convolutif
-     * Transformeur
-
-   Applications
-     * Art créé par IA
-     * ChatGPT
-     * DeepL
-     * Diagnostic (IA)
-     * Écriture assistée par IA
-     * IA dans la santé
-     * IA dans le jeu vidéo
-     * Perception artificielle
-     * Planification (IA)
-     * Robotique
-     * Traduction automatique
-     * Traitement automatique du langage naturel
-     * Véhicule autonome
-     * Vision par ordinateur
-
-   Enjeux et philosophie
-     * Alignement de l'IA
-     * Chambre chinoise
-     * Conscience artificielle
-     * Contrôle des capacités de l'IA
-     * Éthique de l'IA
-     * IA digne de confiance
-     * Philosophie de l'IA
-     * Sûreté de l'IA
-
-   Histoire et événements
-     * Histoire de l'intelligence artificielle
-     * Logic Theorist (1955)
-     * Perceptron (1957)
-     * General Problem Solver (1959)
-     * Prolog (1972)
-     * Matchs Deep Blue contre Kasparov (1996-1997)
-     * Match AlphaGo - Lee Sedol (2016)
-
-   Science-fiction
-     * Anticipation (IA)
-     * IA-complet
-     * IA générale
-     * Risque de catastrophe planétaire lié à l'intelligence artificielle
-       générale
-     * Superintelligence
-
-       Règlementation
-     * Législation sur l'IA
-     * Réglementation de l'IA
-
-   Organisations
-     * Agence francophone pour l'IA
-     * Google DeepMind
-     * OpenAI
-     * Partenariat sur l'IA
-
-   Ouvrages
-     * Déclaration de Montréal pour un développement responsable de
-       l'intelligence artificielle
-     * Lettre ouverte sur l'IA
-     * Intelligence artificielle : une approche moderne
-     * I.A. La Plus Grande Mutation de l'Histoire
-
-   Ce document provient de
-   « https://fr.wikipedia.org/w/index.php?title=Intelligence_artificielle_
-   générale&oldid=210201469 ».
-   Catégories :
-     * Apprentissage automatique
-     * Réseau de neurones artificiels
-     * Intelligence artificielle
-     * Culture Internet
-     * Risque de catastrophe planétaire lié à l'intelligence artificielle
-       générale
-
-   Catégories cachées :
-     * Page utilisant des arguments dupliqués dans les appels de modèle
-     * Article avec une section vide ou incomplète
-     * Portail:Informatique/Articles liés
-     * Portail:Technologies/Articles liés
-     * Portail:Sciences/Articles liés
-     * Portail:Psychologie/Articles liés
-     * Portail:Sciences humaines et sociales/Articles liés
-
-     * La dernière modification de cette page a été faite le 2 décembre
-       2023 à 17:33.
-     * Droit d'auteur : les textes sont disponibles sous licence Creative
-       Commons attribution, partage dans les mêmes conditions ; d’autres
-       conditions peuvent s’appliquer. Voyez les conditions d’utilisation
-       pour plus de détails, ainsi que les crédits graphiques. En cas de
-       réutilisation des textes de cette page, voyez comment citer les
-       auteurs et mentionner la licence.
-       Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc.,
-       organisation de bienfaisance régie par le paragraphe 501(c)(3) du
-       code fiscal des États-Unis.
-
-     * Politique de confidentialité
-     * À propos de Wikipédia
-     * Avertissements
-     * Contact
-     * Code de conduite
-     * Développeurs
-     * Statistiques
-     * Déclaration sur les témoins (cookies)
-     * Version mobile
-
-     * Wikimedia Foundation
-     * Powered by MediaWiki
-
-     * (BUTTON) Activer ou désactiver la limitation de largeur du contenu
+     * Mon compte
+     * Politique d'accessibilité
+     * Gestion des cookies

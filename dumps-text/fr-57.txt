@@ -1,0 +1,530 @@
+   #Les dernières actualités de Futura Les derniers dossiers de Futura Les
+   dernières définitions de Futura Les dernières questions - réponses de
+   Futura Les dernières photos de Futura Les derniers métiers de Futura
+   Les derniers livres de Futura Les dernières vidéos de Futura
+
+   La galaxie de Futura
+     __________________________________________________________________
+
+   Nos services
+   Image du site Futura Sciences Image du site Futura Sciences
+     __________________________________________________________________
+     __________________________________________________________________
+     __________________________________________________________________
+
+   (BUTTON) je m'abonne
+     __________________________________________________________________
+
+   Skillz Skillz SmartMotion SmartMotion Jeunes Pousses Jeunes Pousses
+
+   L'IA GPT-3 est écrite comme première auteure de l'article scientifique.
+   © Masson, Adobe Stock
+   L'IA GPT-3 est écrite comme première auteure de l'article scientifique.
+   © Masson, Adobe Stock
+
+   techactualités
+
+Cette IA a écrit un article scientifique sur elle-même et il va être publié !
+
+   Intelligence artificielle
+
+   actualité
+
+   • 3 Min
+
+   [EN VIDÉO] Interview : comment est née l'intelligence artificielle
+   ? L’intelligence artificielle vise à mimer le fonctionnement du cerveau
+   humain, ou du moins sa logique...
+
+   Elle se nomme GPT-3. Une intelligence artificielle est parvenue à
+   écrire un article scientifique... sur elle-même ! L'auteur des
+   instructions a ensuite tenté de le faire publier, non sans soulever des
+   questions. Doit-on s'attendre à voir apparaître de plus en plus d'IA
+   dans les auteurs d'études scientifiques ?
+     __________________________________________________________________
+
+   au sommaire
+     __________________________________________________________________
+
+   Pas le temps de lire ? Découvrez la version podcast (à écouter) de
+   cette actualité dans Vitamine Tech, le nouveau podcast Futura 100 %
+   dédié à la tech. © Futura
+
+   Pourra-t-on bientôt voir le nom d'intelligences artificielles en haut
+   d'une publication scientifique, dans les auteurs ? Des chercheurs se
+   posent de plus en plus la question. En particulier par rapport à une IA
+   spécialisée dans le langage, appelée GPT-3, qui fonctionne par
+   l'apprentissage automatique, ou machine learning. Développée par la
+   société OpenAI qui a été fondée entre autres par Elon MuskElon Musk,
+   elle appartient à la catégorie des « IA de génération », ou generative
+   models, en anglais. Elle utilise une base de données en entrée pour
+   créer de nouveaux points en sortie, cohérents avec cette base.
+   Jusqu'ici, elle est parvenue à tenir des conversations écrites, faire
+   des recommandations de films ou de livres, rédiger des articles de
+   presse ou des mails de pishing, et même imiter des stylesstyles
+   d'auteurs, plus précisément à écrire ce que l'on appelle des pastiches.
+
+Écrire un article scientifique sur soi-même pour une IA, ça pose des
+questions !
+
+   Mais deux chercheurs de la société OpenIA, Almira Osmanovic Thunström
+   et Steinn Steingrimsson, ont décidé de pousser le bouchon un peu plus
+   loin, en lui demandant cette fois d'écrire un article universitaire
+   scientifique court, de 500 mots. Jusque-là rien d'extraordinaire, car
+   elle a été créée dans ce but, l'utilisation de données pour générer du
+   contenu. Si ce n'est qu'ils lui ont cette fois-ci fait rédiger un
+   article sur elle-même ! Comme ils le précisent dans une publication
+   du Scientific American, « l'algorithme GPT-3 est relativement nouveau
+   et, à ce titre, il existe moins d'études à ce sujet. » Le but était
+   donc de faire écrire un article à cette IA sans qu'elle ne dispose
+   d'une grande base de données, le tout en fournissant, comme pour tout
+   bon article scientifique, des références et des citations. Et le
+   résultat était là, « cela ressemblait, note A.O. Thunström, à toute
+   autre introduction à une assez bonne publication scientifique. »
+
+   Intitulé « GPT-3 peut-il écrire un article académique sur lui-même,
+   avec une contribution humaine minimale ? » et publié sur le service de
+   prépublication HAL, l'article a été rédigé en seulement deux heures et
+   remplit tous les critères d'un véritable article scientifique. On peut
+   y lire dans l'abstract, rédigé donc par GPT-3, que « les avantages de
+   laisser GPT-3 écrire sur lui-même l'emportent sur les risques.
+   Cependant, nous recommandons que toute écriture de ce type soit
+   étroitement surveillée par les chercheurs afin d'atténuer toute
+   conséquence négative potentielle ».
+   Il a suffi de deux heures à GPT-3 pour rédiger un article scientifique,
+   certes court, mais complet. © Laurent, Adobe Stock
+   Image du site Futura Sciences
+   Il a suffi de deux heures à GPT-3 pour rédiger un article scientifique,
+   certes court, mais complet. © Laurent, Adobe Stock
+
+« Nous espérons juste que nous n'avons pas ouvert une boîte de Pandore »
+
+   Mais quelles seraient les conséquences négatives potentielles citées
+   dans l'abstract ? Les chercheurs s'inquiètent notamment de la
+   conscience d'elle-même que GPT-3 pourrait développer : comme écrit dans
+   la rubrique « discussion », donc rédigé directement par l'IA, « GPT-3
+   pourrait devenir conscient de lui-même et commencer à agir d'une
+   manière qui n'est pas bénéfique pour les humains (par exemple,
+   développer un désir de conquérir le monde) ». Un risque minime, mais
+   présent néanmoins. Notamment car la conscience des IA a récemment fait
+   l'objet d'un débat, avec celle de GoogleGoogle, laMDA, qui a été
+   estimée consciente par l'un des anciens employés de l'entreprise. «
+   Tout ce que nous savons, c'est que nous avons ouvert une porteporte,
+   écrit A.O. Thunström. Nous espérons juste que nous n'avons pas ouvert
+   une boîte de Pandore. »
+
+   Quant aux impacts positifs, qui selon les chercheurs dépassent les
+   inquiétudes, ils sont aussi énumérés dans la partie « discussion »
+   : « cela permettrait à GPT-3 de mieux se comprendre », et « cela
+   pourrait l'aider à améliorer ses propres performances et capacités
+   ». Mais aussi, et surtout, « cela donnerait un aperçu du fonctionnement
+   et de la réflexion de GPT-3 ». Finalement, Almira Osmanovic Thunström
+   questionne les implications qu'aura cet article sur la communauté
+   scientifique. « Au-delà des détails de la paternité,
+   écrit-elle, l'existence d'un tel article jette par la fenêtrefenêtre la
+   notion de linéarité traditionnelle d'un article scientifique. »
+
+
+   Image du site Futura Sciences Image du site Futura Sciences
+
+   par Léa Fournasson
+   Journaliste scientifique
+
+   le 17 juillet 2022
+     __________________________________________________________________
+     __________________________________________________________________
+
+   Nos articles
+
+   à lire aussi
+   L'Intelligence artificielle a-t-elle conscience de ne pas être un
+   humain ? © Gerd Altmann L'Intelligence artificielle a-t-elle conscience
+   de ne pas être un humain ? © Gerd Altmann
+
+   Tech
+
+   Intelligence artificielle
+
+   La « conscience » d'une Intelligence artificielle provoque un scandale
+   chez Google
+
+   actualité
+
+   • 14/06/2022
+   Grâce aux réseaux sociaux, l'invasion de l'Ukraine lancée le 24 février
+   par Vladimir Poutine est en passe de devenir l'un des conflits des plus
+   documentés de ces dernières années. © Thomas Ragina, Adobe Stock Grâce
+   aux réseaux sociaux, l'invasion de l'Ukraine lancée le 24 février par
+   Vladimir Poutine est en passe de devenir l'un des conflits des plus
+   documentés de ces dernières années. © Thomas Ragina, Adobe Stock
+
+   Tech
+
+   Réseau
+
+   Comment l’open source intelligence est devenue une arme majeure dans la
+   guerre en Ukraine ?
+
+   actualité
+
+   • 01/03/2022
+   Impressionnant, le procédé mis au point par Nvidia affiche les images
+   correspondantes au fil de l’écriture. © Nvidia Impressionnant, le
+   procédé mis au point par Nvidia affiche les images correspondantes au
+   fil de l’écriture. © Nvidia
+
+   Tech
+
+   Technologie
+
+   Bluffant ! Cette Intelligence artificielle transforme les mots en
+   images
+
+   actualité
+
+   • 26/11/2021
+   Avec le numérique, nous devons faire face à une surabondance
+   d'informations. © geralt, Pixabay Avec le numérique, nous devons faire
+   face à une surabondance d'informations. © geralt, Pixabay
+
+   Tech
+
+   Intelligence artificielle
+
+   De l’intelligence artificielle à l’intelligence collective
+
+   actualité
+
+   • 13/10/2021
+   Une intelligence artificielle pour dépister la démence ? © Sergii
+   Mostovyi Une intelligence artificielle pour dépister la démence ? ©
+   Sergii Mostovyi
+
+   Santé
+
+   Démence
+
+   Une intelligence artificielle peut prédire une démence future en lisant
+   sur votre visage
+
+   brève
+
+   • 08/02/2021
+   Ce mardi 1er décembre 2020, les Electric Days et Yann LeCun, Chief IA
+   Scientist de Facebook, nous donnent rendez-vous à 14 heures 45 pour
+   imaginer comme l’intelligence artificielle peut agir comme un
+   accélérateur de la transition énergétique. © ipopba, Adobe Stock Ce
+   mardi 1er décembre 2020, les Electric Days et Yann LeCun, Chief IA
+   Scientist de Facebook, nous donnent rendez-vous à 14 heures 45 pour
+   imaginer comme l’intelligence artificielle peut agir comme un
+   accélérateur de la transition énergétique. © ipopba, Adobe Stock
+
+   Tech
+
+   Intelligence artificielle
+
+   L’intelligence artificielle, accélérateur de la transition
+   énergétique ?
+
+   brève
+
+   • 01/12/2020
+   Les deux exoplanètes orbitent autour d’étoiles de la constellation du
+   Verseau, l’une située à 1.300 années-lumière, l’autre à 1.230. ©
+   katy_novikova Les deux exoplanètes orbitent autour d’étoiles de la
+   constellation du Verseau, l’une située à 1.300 années-lumière, l’autre
+   à 1.230. © katy_novikova
+
+   Sciences
+
+   Exoplanète
+
+   Une intelligence artificielle découvre deux nouvelles exoplanètes
+
+   brève
+
+   • 27/03/2019
+   Comment imaginer les paysages engendrés par les fractales ? © Rodica
+   Abaluta, CC by-nc 2.0 Comment imaginer les paysages engendrés par les
+   fractales ? © Rodica Abaluta, CC by-nc 2.0
+
+   Tech
+
+   Robotique
+
+   Vie artificielle : les systèmes inspirés de la nature
+
+   dossier
+
+   • 15/04/2021
+   Transposer un système psychique humain dans un système informatique. ©
+   Skeeze - Domaine public Transposer un système psychique humain dans un
+   système informatique. © Skeeze - Domaine public
+
+   Santé
+
+   Biologie
+
+   Conscience artificielle, principes architecturaux
+
+   dossier
+
+   • 11/11/2007
+   L'IA est présente dans de nombreux aspects de votre vie sans que vous
+   ne l'imaginiez. © monsidj, Fotolia L'IA est présente dans de nombreux
+   aspects de votre vie sans que vous ne l'imaginiez. © monsidj, Fotolia
+
+   Tech
+
+   Intelligence artificielle
+
+   L’intelligence artificielle : six usages au quotidien
+
+   question réponse
+
+   • 30/10/2022
+   L'intelligence artificielle (IA) modifie le monde du travail. ©
+   tippapatt, Adobe Stock L'intelligence artificielle (IA) modifie le
+   monde du travail. © tippapatt, Adobe Stock
+
+   Sciences
+
+   Emploi
+
+   Intelligence artificielle : quelles études pour quels métiers ?
+
+   question réponse
+
+   • 08/12/2021
+   Qui sont les pères de l'intelligence artificielle (IA) ? ©
+   carloscastilla, fotolia Qui sont les pères de l'intelligence
+   artificielle (IA) ? © carloscastilla, fotolia
+
+   Tech
+
+   Intelligence artificielle
+
+   Qui sont les pionniers de l'intelligence artificielle ?
+
+   question réponse
+
+   • 13/10/2021
+   La business intelligence traite le passé pour que la data science
+   imagine l’avenir. © areebarbar, Adobe Stock La business intelligence
+   traite le passé pour que la data science imagine l’avenir. ©
+   areebarbar, Adobe Stock
+
+   Tech
+
+   Big data
+
+   Quelle est la différence entre la business intelligence et la data
+   science ?
+
+   question réponse
+
+   • 20/07/2021
+   https://datascientest.com/formation-machine-learning-engineer?utm_sourc
+   e=futura-sciences.com&amp;utm_medium=affiliates&amp;utm_campaign=futura
+   _sciences_juin_2021&amp;utm_content=call-to-actionLe machine learning
+   engineer développe des programmes pour que les machines apprennent par
+   elles-mêmes. © phonlamaiphoto, Adobe Stock.
+   https://datascientest.com/formation-machine-learning-engineer?utm_sourc
+   e=futura-sciences.com&amp;utm_medium=affiliates&amp;utm_campaign=futura
+   _sciences_juin_2021&amp;utm_content=call-to-actionLe machine learning
+   engineer développe des programmes pour que les machines apprennent par
+   elles-mêmes. © phonlamaiphoto, Adobe Stock.
+
+   Sciences
+
+   Métiers
+
+   Machine learning engineer
+
+   métier
+
+   • 10/06/2021
+   L'ingénieur en intelligence artificielle va créer des programmes
+   informatiques pour que la machine raisonne comme l'Homme, les émotions
+   en moins. © phonlamaiphoto, Adobe Stock L'ingénieur en intelligence
+   artificielle va créer des programmes informatiques pour que la machine
+   raisonne comme l'Homme, les émotions en moins. © phonlamaiphoto, Adobe
+   Stock
+
+   Sciences
+
+   Métiers
+
+   Ingénieur en intelligence artificielle
+
+   métier
+
+   • 26/12/2023
+   (BUTTON) (BUTTON)
+
+   La sélection de la
+
+   Rédaction
+     __________________________________________________________________
+
+   Qu'est-ce qu'un produit reconditionné ? © Dragana Gordic, Adobe stock
+   Qu'est-ce qu'un produit reconditionné ? © Dragana Gordic, Adobe stock
+
+   Tech
+
+   IPhone
+
+   Pourquoi un iPhone reconditionné est une bonne alternative au neuf ?
+
+   Article
+   Des écouteurs de qualité, à ce prix, on croit rêver.© Baseus Des
+   écouteurs de qualité, à ce prix, on croit rêver.© Baseus
+
+   Tech
+
+   Tech
+
+   Baseus Bowie MA10 : impossible de faire mieux pour des écouteurs sans
+   fil à réduction de bruit à ce prix
+
+   Article
+   Offre légendaire : Microsoft Office 2021 et Windows 11 à Vie à partir
+   de 10 € ! Offre légendaire : Microsoft Office 2021 et Windows 11 à Vie
+   à partir de 10 € !
+
+   Tech
+
+   Bureautique
+
+   Offre légendaire : Microsoft Office 2021 et Windows 11 à Vie à partir
+   de 10 € !
+
+   Article
+   Fraude caritative, quishing, deepfakes…, l'IA donne aux actes de
+   cybermalveillance une ampleur inédite. © Timon, Adobe Stock Fraude
+   caritative, quishing, deepfakes…, l'IA donne aux actes de
+   cybermalveillance une ampleur inédite. © Timon, Adobe Stock
+
+   Tech
+
+   Cybersécurité
+
+   Les JO 2024 pourraient donner lieu à une vague de cybercriminalité !
+
+   Article
+   Des acteurs et actrices sont actuellement victimes d’applications de
+   dénudage par intelligence artificielle. S'ils ont les moyens de
+   contre-attaquer, il n’en est pas de même pour le simple particulier. ©
+   rohappy, Adobe Stock Des acteurs et actrices sont actuellement victimes
+   d’applications de dénudage par intelligence artificielle. S'ils ont les
+   moyens de contre-attaquer, il n’en est pas de même pour le simple
+   particulier. © rohappy, Adobe Stock
+
+   Tech
+
+   Intelligence artificielle
+
+   Deepfake : l'inquiétante montée du dénudage par intelligence
+   artificielle
+
+   Article
+   Le AQ 400 Scythe est un drone suicide à vol lent mais dont la portée
+   lui permet d’atteindre la Russie ou un territoire occupé comme la
+   Crimée. © Parilov, Adobe Stock Le AQ 400 Scythe est un drone suicide à
+   vol lent mais dont la portée lui permet d’atteindre la Russie ou un
+   territoire occupé comme la Crimée. © Parilov, Adobe Stock
+
+   Tech
+
+   Guerre du futur
+
+   L'Ukraine lance le Scythe, un drone suicide en réponse aux attaques des
+   Shahed-136
+
+   Article
+   Roadio peut être installé sur des vélos comme sur des scooters. ©
+   Planetz, Adobe Stock Roadio peut être installé sur des vélos comme sur
+   des scooters. © Planetz, Adobe Stock
+
+   Tech
+
+   Technologie
+
+   Roadio, le système anticollision pour deux-roues boosté à l’IA
+
+   Article
+   Entretenir et réparer son vélo permet d’en améliorer la sécurité et
+   d’en prolonger la durée de vie. © Image Freepik Entretenir et réparer
+   son vélo permet d’en améliorer la sécurité et d’en prolonger la durée
+   de vie. © Image Freepik
+
+   Tech
+
+   Jeunes Pousses
+
+   Comment prolonger la durée de vie de son vélo ?
+
+   Article
+   (BUTTON) (BUTTON)
+   Illustration de la section Newsletter de Futura
+
+   Transmettre la culture
+
+   est le plus vieux métier du monde
+
+   Inscrivez-vous à la lettre d'information La quotidienne pour recevoir
+   toutes nos dernières Actualités une fois par jour.
+   Toutes nos lettres d’informations
+   Illustration de la section Newsletter de Futura Email
+   ____________________E-mail
+   (BUTTON) S'inscrire
+   Toutes nos lettres d’informations
+
+   Liens externes
+     __________________________________________________________________
+
+     * We Asked GPT-3 to Write an Academic Paper about Itself—Then We
+       Tried to Get It Published
+     * Can GPT-3 write an academic paper on itself, with minimal human
+       input?
+
+   À voir aussi
+     __________________________________________________________________
+
+   où cette photo a-t-elle été prise
+
+   intelligence artificielle
+
+   intelligence artificielle danger
+
+   intelligence artificielle exemple
+
+   intelligence artificielle voiture autonome
+
+   article scientifique en anglais
+
+   présenter un article scientifique
+
+   site article scientifique anglais
+
+   Mots Clés
+     __________________________________________________________________
+
+   Intelligence artificielle
+
+   GPT-3
+
+   Dangers de l'intelligence artificielle
+
+   Machine learning
+
+   Apprentissage automatique
+
+   Article scientifique
+
+   Définitions associées
+     __________________________________________________________________
+
+     * C'est quoi, une base de données ?
+     * L'intelligence artificielle : la définition
+     * Le machine learning : la définition

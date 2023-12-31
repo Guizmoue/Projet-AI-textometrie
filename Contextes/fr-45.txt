@@ -1,75 +1,31 @@
-   Article
-   Quand l’IA s’attaque à la sclérose en plaques
-   Vidéo
---
-   Article
-   L’art et l’archéologie, nouveaux horizons de l’IA
-   Article
-   Quand l’IA s’attaque à la sclérose en plaques
-   Article
---
-   Article
-   Peut-on faire confiance à l'intelligence artificielle ?
-   Article
-   Athénan, une IA joueuse multi-championne
-   Article
-   L’IA traque le harcèlement en ligne
-   Article
---
-   Article
-   Une IA, juge de beauté des poissons tropicaux
-   Point de vue
---
-   Numérique
-   Intelligence artificielle
-   ^-A ^+A
---
-   chercheurs mettent en avant de nouveaux modèles pour booster les
-   applications en intelligence artificielle.
+
+Les européens Mistral AI et Aleph Alpha peuvent-ils réellement concurrencer les
+             géants américains de l’intelligence artificielle?
+
+   La start-up française Mistral AI vient de lever 385 millions d’euros,
+   sa concurrente allemande Aleph Alpha 500 millions de dollars. Les
+   ambitions de ces start-up sont importantes alors que la Silicon Valley
+   domine le secteur de l’intelligence artificielle dans le monde
+   occidental
+
+   Arthur Mensch, cofondateur et directeur de Mistral AI, avait été convié
+   au récent sommet de Bletchley sur la régulation de l’IA. — © Toby
+   Melville / keystone-sda.ch Arthur Mensch, cofondateur et directeur de
+   Mistral AI, avait été convié au récent sommet de Bletchley sur la
+   régulation de l’IA. — © Toby Melville / keystone-sda.ch
 
 --
-   actuellement de spectaculaires applications en intelligence
-   artificielle (IA), désignent en réalité des fonctions mathématiques,
-   des algorithmes, purement numériques et impalpables.
---
-   réseaux de neurones virtuels font déjà merveille en intelligence
-   artificielle (IA) ? Parce que ces derniers, redoutables pour classifier
-   de gigantesques masses de données, sont aussi effroyablement gourmands
---
-   énergivores pour accéder à la mémoire… C’est ainsi que le programme
-   AlphaGo, l’IA de Google qui a récemment écrasé les plus grands
-   champions de go, consomme dix mille fois plus d’énergie qu’un humain à
---
-   composants artificiels mimant neurones et synapses biologiques, elles
-   seront donc dédiées uniquement aux tâches d’IA où les excellents
-   quoique trop dispendieux réseaux de neurones actuels sont cantonnés
---
-   classiques. « En intégrant une puce neuromorphique, dédiée aux
-   algorithmes de type réseau de neurones courants en IA, sur chaque
-   processeur d’ordinateur ou de téléphone, on disposerait de processeurs
+   Les milliards pleuvent sur les sociétés qui misent sur l’intelligence
+   artificielle (IA). Pour celles actives dans la Silicon Valley, rien de
+   surprenant. Mais désormais, les investisseurs injectent des sommes
+   colossales dans des start-up européennes, à l’image de la française
+   Mistral AI et de l’allemande Aleph Alpha. Ces noms, quasi inconnus il y
+   a quelques semaines, arrivent sur le devant de la scène. Avec ces
 --
 
-   électronique organique nano-neurone Intelligence artificielle
-   bio-inspiré memristor Réseau de neurones neurones synapses cerveau
+   Intéressons-nous d’abord à Mistral AI. C’est tout juste une petite
+   start-up: fondée en avril de cette année seulement, comptant à peine
 --
-   24/11/2023
-   Les défis d’une IA frugale
-   Blog
---
-   Faciliter l'étude d’un vaste corpus documentaire par la...
-   Intelligence artificielle
-   réseau neuronal
---
-   24/11/2023
-   Les défis d’une IA frugale
-   Article
-   08/11/2023
-   Une IA décèle les premiers signes de la sclérose en plaques
-   Article
-   30/05/2022
-   Quand l’IA s’attaque à la sclérose en plaques
-   Point de vue
---
-   04/01/2019
-   L’IA traque le harcèlement en ligne
-
+   dimanche, poussant sa valorisation à 2 milliards. Cette dernière
+   n’était que de 240 millions cet été lorsque Mistral AI levait ses 105
+   premiers millions.

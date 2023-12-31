@@ -1,0 +1,264 @@
+     * « Analyser, comprendre et prédire » en médecine
+     * Intelligence artificielle explicite versus implicite
+     * Intelligence artificielle explicite
+     * Intelligence artificielle implicite
+     * Les algorithmes
+--
+     * Data de calibration versus data d’apprentissage
+     * Enjeux de l’intelligence artificielle en médecine
+     * Dématérialisation des données de santé
+--
+
+Une brève introduction à l’intelligence artificielle
+
+A brief history of artificial intelligence
+
+--
+
+   Depuis plus d’une décennie, l’intelligence artificielle (IA) vit une
+   accélération dans son développement et son adoption. En médecine, elle
+--
+   d’interventions chirurgicales et autres robots d’assistance. De
+   nombreux enjeux propres à l’IA et à la médecine, tels que la
+   dématérialisation des données, le respect de la vie privée,
+   l’explicabilité^1 des algorithmes, la conception de systèmes d’IA
+   inclusifs ou leur reproductibilité, sont à surmonter pour construire
+--
+   For more than a decade, we have witnessed an acceleration in the
+   development and the adoption of artificial intelligence (AI)
+   technologies. In medicine, it impacts clinical and fundamental
+--
+   advanced observation and analysis technologies, or surgery and other
+   assistance robots. Many challenges in AI and medicine, such as data
+   digitalisation, medical data privacy, algorithm explicability,
+   inclusive AI system development or their reproducibility, have to be
+   tackled in order to build the confidence of medical practitioners in
+   these technologies. This will be possible by mastering the key concepts
+   via a brief history of artificial intelligence.
+   _____________________
+--
+
+   L’intelligence artificielle (IA) est une notion paradoxale car, comme
+   le souligne Yoshua Bengio^2, on ne rend pas l’ordinateur plus
+   intelligent mais on le rend au contraire moins stupide. L’IA est à la
+   fois une discipline de recherche et une matière, à l’instar des
+--
+   disciplines de recherche, comme la médecine. Aujourd’hui plus que
+   jamais, comprendre ce qu’est l’IA, ce qu’elle fait, ce qu’elle fera
+   sûrement et ce qu’elle ne fera certainement jamais^3, est un moyen
+--
+
+   L’intelligence artificielle regroupe les méthodes de calculs
+   numériques, sur ordinateur, qui reproduisent un certain type
+--
+
+   Grâce à des modèles d’IA, des simulations sont réalisées sur
+   ordinateur, selon trois objectifs : analyser, comprendre et prédire un
+--
+
+   Les récentes contributions utilisant l’IA s’articulent en grande
+   majorité autour de son utilisation pour évaluer et prédire des
+--
+
+   Pour évaluer le potentiel de l’IA en médecine, autant dans l’analyse et
+   la compréhension que dans la prédiction, il est fondamental d’en
+--
+   pour en extraire tous les bénéfices, tout en écartant les risques
+   possibles. Pour cela, il est intéressant de différencier les IA afin
+   d’en comprendre les tenants et les aboutissants, et ce, dans tous les
+--
+
+Intelligence artificielle explicite versus implicite
+
+   Il existe de nombreuses manières de classer les IA. On peut ainsi
+   choisir de distinguer l’IA dite faible, actuellement développée et
+   utilisée, de l’IA dite forte, qui suppose une maîtrise, par la machine,
+   de l’intelligence dite générale (Glossaire). Cette intelligence
+   générale regroupe l’intelligence analytique, déjà présente dans l’IA
+   faible, et les intelligences de situation et émotionnelle. Ce passage
+   de l’IA faible à l’IA forte est régi par la théorie du point de
+   singularité technologique [5]. Celui-ci suppose l’existence, dans un
+--
+
+   Une autre manière de classer les IA, qui est celle que nous retiendrons
+   dans cet article, est la distinction entre une IA dite explicite et une
+   IA dite implicite. Alors que la distinction entre IA faible et IA forte
+   n’apporte aucun élément d’analyse supplémentaire, en raison de la non
+   existence actuelle et future d’une IA forte (avec maîtrise, par la
+   machine, de l’intelligence dite générale), différencier l’IA explicite
+   de l’IA implicite permet d’approcher concrètement et efficacement de
+   nombreuses questions, en traitant ces deux IA qui sont aujourd’hui
+   développées et utilisées.
+
+Intelligence artificielle explicite
+
+   L’intelligence artificielle explicite, également appelée IA symbolique,
+   est celle traditionnellement développée et utilisée depuis plus de
+   cinquante ans. La logique de cette IA est entièrement décrite
+   explicitement par le(s) humain(s), et se traduit de différentes
+--
+   d’une infection et d’optimiser le traitement antibiotique adéquat. Il
+   existe également des IA explicites qui contiennent des modèles
+   mathématiques, parfois complexes, pour décrire le problème à résoudre
+--
+
+   L’IA explicite présente néanmoins un avantage significatif par rapport
+   aux autres approches, autant d’un point de vue scientifique, que de par
+--
+   clairement et précisément l’ensemble des règles logiques de ce système
+   d’IA, dans la mesure où on le décrit explicitement. On peut donc
+   également décrire explicitement comment les résultats issus de
+--
+   législation impose une certaine transparence et un haut niveau
+   d’explicabilité, comme les milieux médical ou financier. L’IA explicite
+   présente cependant une forte limitation : elle suppose que l’on est
+--
+   grand nombre de morphologies tumorales. Dans ce cas précis, on peut
+   utiliser des IA dites implicites, qui ont la particularité et
+   l’avantage de ne pas nécessiter de mathématiser a priori le problème à
+   résoudre mais, au contraire, de déduire implicitement une logique de
+   résolution à partir des données observées. Alors que dans les IA
+   explicites, on utilise une approche dite model driven (orientée par le
+   modèle), dans la mesure où les modèles mathématique et numérique
+   orientent le raisonnement de la simulation, dans les IA implicites il
+   est orienté par la donnée, on parle dans ce cas d’approche data driven
+--
+
+Intelligence artificielle implicite
+
+   L’intelligence artificielle implicite regroupe l’ensemble des systèmes
+   d’IA dont la logique est traduite implicitement, par apprentissage à
+   partir de données dites d’apprentissage (Figure 2). Contrairement aux
+   systèmes d’IA explicite, une IA implicite est capable de capturer des
+   mécanismes avec un haut niveau d’abstraction dans l’exploitation des
+--
+   ailleurs difficilement traduisible explicitement. C’est ainsi que des
+   IA implicites permettent de reconnaître une tumeur sur une image
+   médicale [12], les signaux faibles d’un infarctus ou d’une crise
+   d’épilepsie [13]. L’IA implicite est également utilisée pour l’analyse
+   sémantique d’un texte, l’identification d’une entité précise sur une
+--
+   L’apprentissage peut se réaliser par une simple analyse statistique sur
+   des données : c’est le cas des IA de catégorisation, qui classent
+   implicitement des ensembles de données en fonction de leurs
+   similarités. Il peut également se réaliser par construction de réseaux
+   neuronaux, comme dans le cas de nombreuses IA implicites
+   décisionnelles.
+--
+
+   Même si les IA implicites ont de nombreux avantages, principalement en
+   raison de leur haut niveau d’abstraction qui leur permet de résoudre
+   des problèmes complexes, elles présentent quelques limitations.
+   Contrairement aux IA explicites, elles présentent un faible niveau
+   d’explicabilité et d’interprétabilité, faisant ainsi référence à la
+--
+   générale, un très grand nombre de données sont nécessaires pour assurer
+   un apprentissage réaliste et juste. Également, les IA implicites ne
+   permettent pas de comprendre aussi facilement un phénomène, et d’en
+   extraire des mécanismes sous-jacents, que les IA explicites. Lors de la
+   conférence internationale sur le machine learning, NeurIPS (neural
+   information processing systems), de 2019, les scientifiques se sont
+   accordés sur l’importance de faire cohabiter les deux types d’IA,
+   implicite et explicite, dans les modèles numériques, afin de résoudre
+--
+
+   Implicite ou explicite, ces IA fonctionnent par l’exécution
+   d’algorithmes qui capturent la logique de résolution du problème auquel
+--
+   des algorithmes historiques ou traditionnels, qui, eux, sont destinés à
+   être manipulés à la main, bien loin de toute intelligence artificielle.
+
+--
+   exécuter une série d’opérations dans un objectif précis. À l’instar de
+   la distinction faite précédemment entre IA explicite et IA implicite,
+   on différencie les algorithmes explicites des algorithmes implicites.
+--
+   fondamental pour envisager les futures avancées et le choix des
+   techniques d’IA selon les applications.
+
+--
+
+Enjeux de l’intelligence artificielle en médecine
+
+--
+
+   En intelligence artificielle, et en particulier pour les algorithmes
+   implicites, de grandes quantités de data sont nécessaires pour la phase
+--
+   première étape consiste à numériser l’ensemble des informations pouvant
+   être utilisées dans les modèles d’IA. Que ce soient des antécédents
+   médicaux, des prescriptions de médicaments, ou des résultats d’examens,
+--
+
+   L’émergence des modèles d’IA implicites par apprentissage diminue, par
+   définition, leur niveau d’explicabilité, faisant référence à la fameuse
+--
+   destinataire(s) de l’explication (médecin, patient, autorités de santé,
+   etc.) ; l’impact du modèle d’IA et les possibles dangers de
+   dysfonctionnement du modèle ; ou la conformité à la réglementation. On
+--
+
+   Les modèles d’IA implicite et explicite présentent des risques
+   variables de discrimination technologique^10, en raison de la présence
+--
+   observés dans ces populations. Les principes d’égalité et d’équité,
+   importants chez les médecins sont un enjeu en IA et doivent être
+   garantis selon différentes méthodes, incluant une co-conception
+--
+   également symptomatique d’un apprentissage approximatif, voire faux.
+   Parmi les articles de recherche sur l’IA appliquée à la médecine, seuls
+   19 % utilisent plusieurs jeux de données pour estimer la performance de
+   leurs systèmes d’IA (ils sont 83 % pour les articles portant sur l’IA
+   appliquée à la vision assistée par ordinateur et 66 % pour ceux portant
+   sur l’IA appliquée à l’analyse du langage naturel) [31]. Les moyens mis
+   en œuvre pour garantir la reproductibilité des systèmes d’IA en
+   médecine représentent un enjeu pour le déploiement à grande échelle
+--
+
+   L’IA intervient dans pratiquement tous les domaines d’application de la
+   médecine : de la recherche fondamentale et clinique [33] (→) à la
+--
+   formation à l’éthique et leur multidisciplinarité, les plus à même de
+   comprendre les enjeux de l’IA dans leur domaine et de (ré)agir, et
+   éventuellement de participer à la construction de modèles et d’outils
+--
+   et scientifiques mais également humains, avec le développement
+   d’enseignements de l’IA pour le corps médical^11. Cela permettrait aux
+   médecins d’utiliser les systèmes d’IA de manière éclairée afin de
+   compléter, défier, voire contredire, les résultats fournis par la
+--
+
+   Intelligence artificielle : : l’intelligence artificielle se réfère à
+   une discipline qui consiste à reproduire par la simulation numérique
+--
+   Intelligence générale : : l’intelligence générale se réfère à un
+   système d’intelligence artificielle capable de reproduire l’ensemble
+   des capacités cognitives d’un être humain, et qui constitue l’ensemble
+--
+
+   Comme le diplôme universitaire (DU) « Intelligence artificielle
+   appliquée en santé » qui a été ouvert en 2020 à l’université
+--
+   12. Tang A, Tam R, Cadrin-Chenevert A, et al. Canadian association of
+       radiologists white paper on artificial intelligence in radiology.
+       Can Assoc Radiol J 2018 ; 69 : 120135. [Google Scholar]
+--
+       Processing Control 2017; 34 : 144157. [CrossRef] [Google Scholar]
+   14. Marcus G. The next decade in AI: four steps towards robust
+       artificial intelligence. arXiv 2002; 06177 : 2020. [Google Scholar]
+   15. Alashwal H, El Halaby M, Crouse JJ, et al. The application of
+--
+   29. Beaudouin V, Bloch I, Bounie D, et al. Flexible and
+       context-specific AI explainability: a multidisciplinary approach.
+       2020. arXiv:2003.07703 [cs.CY]. [Google Scholar]
+--
+       Representations 2019. [Google Scholar]
+   32. Haiech J. Parcourir l’histoire de l’intelligence artificielle, pour
+       mieux la définir et la comprendre. Med Sci (Paris) 2020; 36 :
+       919–23. [CrossRef] [EDP Sciences] [PubMed] [Google Scholar]
+   33. Matuchansky C.. Intelligence clinique et intelligence artificielle
+       : une question de nuance. Med Sci (Paris) 2019 ; 35 : 797–803.
+--
+
+   Intelligence clinique et intelligence artificielle — Une question de
+   nuance

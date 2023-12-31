@@ -1,52 +1,344 @@
-    3. [23]Gestion
-    4. [24]Num�ro 2017/1 (Vol. 42)
-Intelligence artificielle
 
-   [25][RIGES_421.jpg?fallback=true]
-   2017/1
-Intelligence artificielle
-     * [26]Suivre cet auteur [27]Laurent Charlin
-     * Dans [28]Gestion [29]2017/1 (Vol. 42), pages 76 � 79
---
-
-   [50]1Depuis le d�but de 2016, les progr�s de l'intelligence
-IA
-   aussi vari�es que The Economist, Rolling Stone, Time et Fortune sous
-   des titres accrocheurs comme � La r�volution de l'intelligence
---
-   ans.
-
-intelligence artificielle
-   scientifique qui combine l'informatique, les math�matiques,
-   l'ing�nierie et la statistique. C'est un domaine de recherche auquel se
---
-   Toute personne qui interagit avec les technologies de ces soci�t�s
-   b�n�ficie donc d�j� de certains des progr�s attribuables �
-intelligence artificielle
-   production industrielle peut �tre rapide : il a suffi de deux ans pour
-   que les plus r�cents t�l�phones soient dot�s des algorithmes de
-   reconnaissance de la parole.
-
-intelligence artificielle
-   aux grandes entreprises. Un grand nombre de petites entreprises
-   proposent un produit phare bas� sur l'intelligence artificielle. Ce
---
-L'automatisation de la prise de d�cision
-
-intelligence artificielle
-   d'automatiser l'extraction de connaissances � des fins pr�dictives.
-   Dans un deuxi�me temps, ces pr�dictions peuvent �tre utilis�es pour
---
-
-   Les innovations rendues possibles gr�ce aux r�cents progr�s de
-intelligence artificielle
-   r�percussions sociales et industrielles majeures. Qu'est-ce qui
-intelligence artificielle
-   Comment les entreprises pourraient-elles b�n�ficier de ces avanc�es ?
+Intelligence artificielle générale
 
 --
-   mine d'or pour les entreprises �, Gestion, vol. 42, no. 1, 2017, pp.
-   76-79.
-Intelligence artificielle
-   mine d'or pour les entreprises. Gestion, 42, 76-79.
-   [76]https://doi.org/10.3917/riges.421.0076
+
+   Ne doit pas être confondu avec Intelligence artificielle générative.
+   [220px-Artificial_intelligence_prompt_completion_by_dalle_mini.jpg]
+   Image générée en juin 2022 par le modèle de génération d'images
+   DALL-E-mini, à partir de la consigne « Intelligence artificielle ».
+
+   Une intelligence artificielle générale (IAG) est une intelligence
+   artificielle capable d'effectuer ou d'apprendre pratiquement n'importe
+--
+   futurologie. Même si GPT-4 a été décrit comme ayant des « étincelles
+   d'intelligence artificielle générale », il n'existe pas en 2023 d'IA
+   consensuellement considérée comme générale^[3].
+
+   Bien que l'intelligence artificielle générale puisse être très utile
+   dans de nombreux domaines, des études en cours évaluent les risques
+--
+   Notamment les risques de désinformation et de chômage de masse. Selon
+   des experts en IA comme Stuart Russell^[6], Yoshua Bengio^[7] ou
+   Geoffrey Hinton^[8] et d'autres chercheurs en IA^[9], une perte de
+   contrôle pourrait également causer des risques existentiels tels que la
+--
+   Selon la plupart des spécialistes, l'IAG (Artificial general
+   intelligence ou AGI en anglais), ou IA de niveau humain, se réfère à la
+   capacité d'une machine autonome à effectuer l’ensemble des tâches
+   intellectuelles qu'un être humain peut effectuer^[1]. Cette définition
+   assez restrictive fait qu'une IA peut générer du texte de haute qualité
+   et être bien plus rapide que l'humain sans être qualifiée de
+--
+
+   Un système expert, ou IA « étroite » est un système informatique
+   potentiellement très compétent, mais qui n'opère que dans un contexte
+--
+
+   Le terme d'IA forte fait quant à lui plus souvent intervenir une notion
+   philosophique de conscience, ce qui fait que les capacités de l'IA ne
+   suffisent pas à dire si elle est « forte ». Une IA peut donc être
+   parfois qualifiée de « faible » dans ce sens, indépendamment de ses
+   compétences, si elle n'est pas « consciente ». Ces notions font
+   référence à l'hypothèse de l'IA forte et de l'IA faible dans
+   l'expérience de pensée de la chambre chinoise^[12].
+
+   Le terme de superintelligence artificielle décrit une IA aux capacités
+   intellectuelles bien supérieures à celles de l'humain dans pratiquement
+--
+   définitions sont suffisamment vagues pour qu'il puisse parfois être
+   difficile de catégoriser une IA.
+
+--
+   Dans les années 1950, la première génération de chercheurs en
+   intelligence artificielle était convaincue que l'IAG est possible et
+   existerait au bout de quelques décennies. Le pionnier Herbert Simon a
+--
+   concrètes^[16]. Après un bref regain d'intérêt dans les années 1980, la
+   confiance générale dans l'IA rechute. Jusqu'aux années 1990, les
+   chercheurs en IA étaient réputés pour faire des promesses vaines, et
+   devinrent réticents à faire la moindre prédiction^[17].
+
+   Dans les années 1990 et au début du XXI^e siècle, la recherche en IA a
+   atteint un certain succès commercial et une respectabilité académique
+   en se concentrant sur des applications commerciales ou des
+   sous-problèmes auxquels l'IA peut fournir des résultats vérifiables.
+   Notamment via des réseaux de neurones artificiels ou des techniques
+--
+
+   Le terme d'« intelligence artificielle générale » a été utilisé dès
+   1997 par Mark Gubrud dans une discussion sur les implications de
+--
+   jeux Atari^[20]. En 2022, Google DeepMind développe Gato, un système
+   d'IA généraliste capable d'exécuter plus de 600 tâches^[21].
+
+--
+   de GPT-4, affirmant que GPT-4 manifestait une intelligence plus
+   générale que les précédents modèles d'IA, et affichait des performances
+   de niveau humain dans de multiples domaines tels que les mathématiques,
+--
+   C'est là aussi controversé, mais une IAG serait en principe capable de
+   remplacer le poste de chercheur en intelligence artificielle.
+   Cependant, les machines sont en général plus rapides que le cerveau
+--
+   succès)^[20]^,^[32], les grands modèles de langage ont récemment
+   fournit une approche différente. Initialement, les modèles d'IA
+   disposent d'un grand nombre de paramètres ajustables (par exemple, 175
+--
+
+   Il y a quelques années, l'intelligence artificielle générale était
+   perçu comme un sujet spéculatif et lointain. En 2015, Le vice-président
+--
+   Certains estiment que GPT-5, le successeur à venir de
+   GPT-4^[39]^,^[40], sera probablement une intelligence artificielle
+   générale^[41]. La définition d'intelligence artificielle générale reste
+   cependant suffisamment floue pour qu'il puisse être difficile ou
+--
+   souhaite^[54]. Une approche nommée l'« interprétabilité » consiste à
+   tenter de comprendre le fonctionnement interne de ces modèles d'IA,
+   notamment afin de pouvoir détecter des signes de manipulation, une
+   tâche difficile vu la complexité et le nombre de paramètres de ces
+   modèles d'IA^[55].
+
+--
+   et d'influence, car cela l'aide à accomplir ces objectifs. Et que cela
+   ne nécessite pas que l'IA ait des émotions^[58]. Le philosophe Nick
+   Bostrom donne l'exemple du maximiseur de trombones pour illustrer
+--
+
+     « Supposons que nous ayons une IA dont l'unique but soit de faire
+     autant de trombones que possible. L'IA se rendra vite compte que ce
+     serait bien mieux s'il n'y avait pas d'humains, parce que les
+--
+     humain contient beaucoup d'atomes qui pourraient être transformés en
+     trombones. L'avenir vers lequel l'IA essaierait de se diriger serait
+     un futur avec beaucoup de trombones mais aucun humain. »
+--
+
+   La capacité des modèles d'IA à produire du contenu très rapidement et à
+   faible coût pourrait inonder internet de texte, d'images ou de vidéos
+--
+
+    1. ↑ ^a et b Pitpitt, « Intelligence artificielle générale —
+       DataFranca », sur datafranca.org (consulté le 24 mai 2023)
+    2. ↑ « The original goal of Artificial Intelligence (AI) was to build
+       ‘thinking machines’, but mainstream AI research has turned toward
+       domain-dependent and problem-specific solutions; therefore it has
+       become necessary to use a new name to indicate research that still
+       pursues the “Grand AI Dream”. Similar labels for this kind of
+       research include “Strong AI”, “Human-level AI”, etc. » Artificial
+       General Intelligence (AGI) (AGI Society)
+    3. ↑ (en) « What is Artificial General Intelligence? - TechTarget »,
+       sur Enterprise AI (consulté le 26 mai 2023)
+    4. ↑ « Intelligence artificielle : opportunités et risques »,
+       Actualité, Parlement européen, 30 septembre 2020 (consulté le 24
+       mai 2023).
+    5. ↑ Source AFP, « L’IA présente « des risques majeurs pour
+       l’humanité », selon Elon Musk et des experts », sur Le Point, 29
+--
+    6. ↑ (en) « Yes, We Are Worried About the Existential Risk of
+       Artificial Intelligence », sur MIT Technology Review (consulté le
+       26 mai 2023).
+    7. ↑ (en) « AI guru Yoshua Bengio says regulation too slow, warns of
+       'existential' threats », sur Vancouver Is Awesome, 24 mai 2023
+       (consulté le 26 mai 2023).
+    8. ↑ (en) Craig S. Smith, « Geoff Hinton, AI’s Most Famous Researcher,
+       Warns Of ‘Existential Threat’ From AI », sur Forbes (consulté le 26
+       mai 2023)
+    9. ↑ ^a et b (en-US) https://aiimpacts.org/author/katja, « 2022 Expert
+       Survey on Progress in AI », sur AI Impacts, 4 août 2022 (consulté
+       le 25 mai 2023).
+--
+       of humanity. »
+   11. ↑ Team rédac, « Intelligence Artificielle : définition, histoire,
+       utilisations, dangers », sur DataScientest.com, 20 novembre 2020
+--
+   14. ↑ (en) Owen Cotton-Barratt et Toby Ord, « Strategic considerations
+       about different speeds of AI takeoff », sur The Future of Humanity
+       Institute, 12 août 2014 (consulté le 25 mai 2023)
+--
+       2023)
+   17. ↑ « Review of Artificial Intelligence: A General Survey », sur
+       formal.stanford.edu (consulté le 25 mai 2023) : « it would be a
+       great relief to the rest of the workers in AI if the inventors of
+       new general formalisms would express their hopes in a more guarded
+       form than has sometimes been the case. »
+   18. ↑ Stuart J. Russell et Peter Norvig, Artificial intelligence: a
+       modern approach ; [the intelligent agent book], Prentice Hall,
+       coll. « Prentice Hall series in artificial intelligence », 2003,
+       2^e éd. (ISBN 978-0-13-790395-5), p. 25-26
+--
+       without rules », sur deepmind.com (consulté le 26 mai 2023)
+   21. ↑ « L'intelligence artificielle "Gato" peut-elle surpasser
+       l'intelligence humaine ? », sur Les Numériques, 3 juin 2022
+--
+   22. ↑ « Microsoft prétend que GPT-4 montre des « étincelles »
+       d'intelligence artificielle générale, « nous pensons que
+       l'intelligence de GPT-4 signale un véritable changement de
+--
+   24. ↑ (en-US) Kumar Gandharv, « Is Artificial General Intelligence
+       Enhancing AI Consciousness », sur Datatechvibe, 10 août 2022
+       (consulté le 26 mai 2023)
+   25. ↑ (en) « AI could have 20% chance of sentience in 10 years, says
+       philosopher David Chalmers », sur ZDNET (consulté le 26 mai 2023)
+   26. ↑ (en) Rob Toews, « Reflecting On ‘Artificial General Intelligence’
+       And AI Sentience », sur Forbes (consulté le 26 mai 2023)
+   27. ↑ Riccardo Manzotti et Antonio Chella, « Good Old-Fashioned
+       Artificial Consciousness and the Intermediate Level Fallacy »,
+       Frontiers in Robotics and AI, vol. 5,‎ 2018 (ISSN 2296-9144,
+       DOI 10.3389/frobt.2018.00039/full, lire en ligne, consulté le 26
+       mai 2023)
+   28. ↑ (en-US) Dustin Crummett, « AI Sentience and Moral Risk », sur
+       Prindle Institute, 22 juin 2022 (consulté le 26 mai 2023)
+--
+   34. ↑ (en) « Pathways Language Model (PaLM): Scaling to 540 Billion
+       Parameters for Breakthrough Performance », sur ai.googleblog.com, 4
+       avril 2022 (consulté le 26 mai 2023)
+   35. ↑ (en) « Scaling Laws - AI Alignment Forum », sur
+       alignmentforum.org (consulté le 26 mai 2023)
+   36. ↑ (en) Michael Shermer, « Artificial Intelligence Is Not a
+       Threat—Yet », sur Scientific American (consulté le 26 mai 2023) :
+--
+       set foot on the planet yet. »
+   37. ↑ « L'intelligence artificielle générale, prochaine révolution pour
+       l'humanité ? », sur L'Éclaireur Fnac, 22 avril 2023 (consulté le 26
+--
+   39. ↑ Edward Back, « ChatGPT-5 devrait sortir en fin d’année et
+       atteindre le graal de l’intelligence artificielle générale ! », sur
+       Futura (consulté le 26 mai 2023)
+--
+   43. ↑ « How we can Benefit from Advancing Artificial General
+       Intelligence (AGI) - Unite.AI », sur unite.ai (consulté le 26 mai
+       2023)
+--
+       le 26 mai 2023)
+   45. ↑ Setra, « Selon Sam Altman, l’IA donnera des conseils médicaux
+       (aux pauvres) », sur Presse-citron, 23 février 2023 (consulté le 26
+--
+   47. ↑ « La surveillance totale est le seul moyen de sauver
+       l'humanité », sur Intelligence Artificielle et Transhumanisme, 22
+       avril 2019 (consulté le 26 mai 2023)
+--
+       (consulté le 26 mai 2023)
+   54. ↑ (en) « Why AI alignment could be hard with modern deep
+       learning », sur Cold Takes, 21 septembre 2021 (consulté le 26 mai
+--
+   55. ↑ (en) « 19 - Mechanistic Interpretability with Neel Nanda », sur
+       AXRP - the AI X-risk Research Podcast, 4 février 2023 (consulté le
+       26 mai 2023)
+--
+   57. ↑ « The fascinating Facebook debate between Yann LeCun, Stuart
+       Russel and Yoshua Bengio about the risks of strong AI », sur The
+       fascinating Facebook debate between Yann LeCun, Stuart Russel and
+       Yoshua Bengio about the risks of strong AI (consulté le 26 mai
+       2023) : « I think it would only be relevant in a fantasy world in
+--
+   58. ↑ « The fascinating Facebook debate between Yann LeCun, Stuart
+       Russel and Yoshua Bengio about the risks of strong AI », sur The
+       fascinating Facebook debate between Yann LeCun, Stuart Russel and
+       Yoshua Bengio about the risks of strong AI (consulté le 26 mai
+       2023) : « It is trivial to construct a toy MDP in which the agent's
+--
+       mathematical observation »
+   59. ↑ Kathleen Miles, « Artificial Intelligence May Doom The Human Race
+       Within A Century, Oxford Professor Says », Huffington Post,‎ 22
+       août 2014 (lire en ligne) : « Suppose we have an AI whose only goal
+       is to make as many paper clips as possible. The AI will realize
+       quickly that it would be much better if there were no humans
+--
+       lot of atoms that could be made into paper clips. The future that
+       the AI would be trying to gear towards would be one in which there
+       were a lot of paper clips but no humans. »
+   60. ↑ (en) « Expert Comment: No need to wait for the future, the danger
+       of AI is already here », University of Oxford, 15 mai 2023
+       (consulté le 26 mai 2023).
+   61. ↑ (en) « The 'Don't Look Up' Thinking That Could Doom Us With AI »,
+       sur Time, 25 avril 2023 (consulté le 26 mai 2023)
+--
+       consulté le 25 mai 2023).
+   65. ↑ « L’intelligence artificielle permet désormais d’inonder le Web
+       de fake news », sur 01net.com, 5 août 2021 (consulté le 26 mai
+       2023)
+   66. ↑ « Midjourney, ChatGPT… Quel rôle l’intelligence artificielle
+       joue-t-elle sur la désinformation ? », sur Ouest-France.fr, 28 mars
+--
+   68. ↑ (en) Jeffrey Laddish et Lennart Heim, « Information security
+       considerations for AI and the long term future », sur LessWrong, 2
+       mai 2022.
+--
+     * Grand modèle de langage
+     * Risque de catastrophe planétaire lié à l'intelligence artificielle
+       générale
+     * Superintelligence
+     * Association for the Advancement of Artificial Intelligence
+     * Ben Goertzel
+--
+   v · m
+   Intelligence artificielle (IA)
+   Concepts
+     * Effet IA
+     * Grand modèle de langage
+     * Hallucination (IA)
+     * IA générale
+     * IA générative
+
+--
+     * Modèle des croyances transférables
+     * IA symbolique
+     * Réseau bayésien
+--
+   Applications
+     * Art créé par IA
+     * ChatGPT
+     * DeepL
+     * Diagnostic (IA)
+     * Écriture assistée par IA
+     * IA dans la santé
+     * IA dans le jeu vidéo
+     * Perception artificielle
+     * Planification (IA)
+     * Robotique
+--
+   Enjeux et philosophie
+     * Alignement de l'IA
+     * Chambre chinoise
+     * Conscience artificielle
+     * Contrôle des capacités de l'IA
+     * Éthique de l'IA
+     * IA digne de confiance
+     * Philosophie de l'IA
+     * Sûreté de l'IA
+
+   Histoire et événements
+     * Histoire de l'intelligence artificielle
+     * Logic Theorist (1955)
+--
+   Science-fiction
+     * Anticipation (IA)
+     * IA-complet
+     * IA générale
+     * Risque de catastrophe planétaire lié à l'intelligence artificielle
+       générale
+--
+       Règlementation
+     * Législation sur l'IA
+     * Réglementation de l'IA
+
+   Organisations
+     * Agence francophone pour l'IA
+     * Google DeepMind
+     * OpenAI
+     * Partenariat sur l'IA
+
+--
+     * Déclaration de Montréal pour un développement responsable de
+       l'intelligence artificielle
+     * Lettre ouverte sur l'IA
+     * Intelligence artificielle : une approche moderne
+     * I.A. La Plus Grande Mutation de l'Histoire
+--
+     * Réseau de neurones artificiels
+     * Intelligence artificielle
+     * Culture Internet
+     * Risque de catastrophe planétaire lié à l'intelligence artificielle
+       générale

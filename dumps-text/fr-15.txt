@@ -1,0 +1,483 @@
+   #Commentaires pour "Jeu de go : l’ordinateur plus fort que l’humain?"
+
+   Accéder à la navigation
+
+   Accueil
+   [gb.svg]
+   Se connecter
+   S'inscrire
+   ____________________ (Submit)
+   Thèmes
+     * Vivant
+     * Matière
+     * Numérique
+     * Sociétés
+     * Terre
+     * Univers
+
+   Formats
+     * Articles
+     * Audios
+     * Diaporamas
+     * Dossiers
+     * Infographies
+     * Points de vue
+     * Vidéos
+
+   CNRS Le Journal
+   Donner du sens à la science
+
+   [logofondation.svg]
+
+Suivre
+
+     * Twitter
+     * Facebook
+     * Google
+     * Dailymotion
+     * RSS
+
+     * Rechercher
+     * Se connecter
+     * S'inscrire
+     * Mon compte
+     * Nos blogs
+
+   English version Dossier spécial Covid-19
+     * Vivant
+     * Matière
+     * Sociétés
+     * Univers
+     * Terre
+     * Numérique
+     * Mes thèmes
+
+Personnalisez votre navigation
+       Sélectionnez vos mots clefs ou thématiques favorites et créez votre
+       rubrique personnalisée
+          + Créer un compte
+          + Se connecter
+       [ ] Stay
+     * Types
+          + Articles
+          + Audios
+          + Diaporamas
+          + Dossiers
+          + Infographies
+          + Points de vue
+          + Vidéos
+       [ ] Stay
+
+   CNRS Le Journal Haut de page [gb.svg] Read in English Nos blogs
+   ____________________ (Submit)
+   Partager l'article
+
+Vous êtes ici
+
+   Accueil / Points de vue / Jeu de go : l’ordinateur plus fort que
+   l’humain?
+
+Jeu de go : l’ordinateur plus fort que l’humain?
+
+   Dossier
+   Paru le 25.05.2016
+   Ces recherches qui ont marqué 2016
+   Voir le dossier
+   Vidéo
+   Spéléologues dans une grotte
+   Bruniquel, la grotte qui bouleverse notre vision de Néandertal
+   Article
+   Ondes gravitationnelles
+   On a détecté des ondes gravitationnelles!
+   Article
+   Supercalculateur Stampede ayant calculé la preuve du problème de la
+   bicoloration des triplets de Pythagore.
+   La plus grosse preuve de l’histoire des mathématiques
+   Article
+   CRISPR-Cas9: des ciseaux génétiques pour le cerveau
+   Article
+   Jean-Pierre Sauvage, un Nobel pour les machines moléculaires
+   Article
+   Planète 9 : la piste se précise
+   Article
+   Les glaces du Mont-Blanc à l'abri en Antarctique
+   Article
+   Microscope
+   Le principe d’équivalence à l’épreuve
+   Vidéo
+   Appareil reproducteur du ver Caenorhabditis elegans vu en microscopie
+   confocale à fluorescence.
+   La complexité du vivant
+   Article
+   Rosetta, la fin d'une odyssée
+   Article
+   Tara met le cap sur le corail
+   Article
+   Spirale 2
+   Spiral2, au cœur de la matière nucléaire
+   Article
+   Le méthane en augmentation dans l'atmosphère
+   Article
+   JUNO
+   Juno prête à effeuiller Jupiter
+   Article
+   Claire Voisin, la conquête de l’algébrique
+   Article
+   Matière noire biologique
+   Le vivant a sa matière noire
+   Article
+   Une historienne à la poursuite des manuscrits perdus
+   Point de vue
+   L'Homme élastique
+   Réparer les corps élastiques
+   Article
+   Vue d'artiste de Gaia.
+   Gaia : le grand inventaire galactique
+   Article
+   L’art et l’archéologie, nouveaux horizons de l’IA
+   Article
+   Quand l’IA s’attaque à la sclérose en plaques
+   Article
+   Des logiciels experts en diagnostic médical
+   Article
+   Peut-on faire confiance à l'intelligence artificielle ?
+   Article
+   Athénan, une IA joueuse multi-championne
+   Article
+   L’IA traque le harcèlement en ligne
+   Article
+   Six scénarios d'un monde sans travail
+   Article
+   À l’usine, au bureau, tous remplacés par des robots?
+   Article
+   Une IA, juge de beauté des poissons tropicaux
+   Point de vue
+   Le robot, un «animal» comme les autres ?
+   Article
+   Des machines enfin intelligentes ?
+   Article
+   Voiture autonome
+   Des voitures autonomes sans frontières ?
+   Point de vue
+   Voitures autonomes: par quoi serez-vous choqués ?
+   Point de vue
+   Armes létales autonomes: de quoi parle-t-on?
+   Article
+   Demain, un ordinateur inspiré de notre cerveau?
+   Article
+   La justice à l’heure des algorithmes et du big data
+   Article
+   Les androïdes de la saga Alien sont-ils pour 2093 ?
+   Point de vue
+   Traduire comme on joue au Go ?
+
+Vous êtes ici
+
+   Accueil / Points de vue / Jeu de go : l’ordinateur plus fort que
+   l’humain?
+   [gb.svg] Read in English
+   1 commentaire
+   Point de vue
+   ^-A ^+A
+     * Imprimer
+
+   Numérique
+   Les Inédits du CNRS
+
+Jeu de go : l’ordinateur plus fort que l’humain?
+
+   03.03.2016, par
+   Marie-Liesse Cauwet et Olivier Teytaud
+   Un ordinateur a battu pour la première fois un joueur professionnel de
+   go il y a quelques mois. Mais fera-t-il le poids contre le meilleur
+   joueur du monde le 9 mars? Les chercheurs Marie-Liesse Cauwet et
+   Olivier Teytaud nous livrent les pronostics et nous expliquent quels
+   progrès en intelligence artificielle sont en jeu.
+
+   Une fois par mois, retrouvez sur notre site les Inédits du CNRS, des
+   analyses scientifiques originales publiées en partenariat
+   avec Libération.
+
+   [logo-libe.svg]
+
+
+   AlphaGo, programme développé par la filiale DeepMind de Google, a battu
+   par 5 parties à 0 le joueur professionnel français1 Fan Hui, 2^e dan
+   (sur 9 au maximum) et meilleur joueur d’Europe, lors d’un match en
+   octobre dernier, relatait la revue Nature2. C’est la première fois
+   qu’un ordinateur bat un joueur professionnel sur un plateau de taille
+   normale et sans handicap3. Les progrès liés à la victoire d’AlphaGo
+   n’étaient pas attendus avant une dizaine d’années dans le milieu de
+   l’intelligence artificielle.
+
+   Moment de vérité : du 9 au 15 mars, à Séoul, AlphaGo affrontera cette
+   fois le Sud-Coréen Lee Sedol, 9^e dan, légende vivante du go et
+   considéré comme le meilleur joueur du monde. Cette nouvelle rencontre,
+   retransmise en direct sur le Net, est dotée d’une prime de 1 million de
+   dollars pour l’humain s’il gagne.
+
+   Le jeu de go est un jeu d’origine chinoise à deux joueurs, composé d’un
+   plateau, le goban, et de jetons noirs et blancs, les pierres. Les
+   joueurs posent tour à tour leurs pierres sur les intersections du
+   goban, composé de 19 lignes sur 19. Le but est d’occuper le plus grand
+   territoire possible. Malgré des règles très simples, ce jeu est
+   beaucoup plus difficile à maîtriser pour l’ordinateur que le jeu de
+   dames ou le jeu d’échecs (dont le champion Garry Kasparov a été battu
+   par l’ordinateur Deep Blue en 1997). C’est en partie le nombre colossal
+   de configurations possibles du jeu de go – il y en a 10^170,
+   c’est-à-dire 1 suivi de 170 zéros, contre 10^120  aux échecs – qui rend
+   le jeu si compliqué pour une intelligence artificielle.
+   Jeu de Go
+   Le Sud-Coréen Lee Sedol, 9e dan, légende vivante du go et considéré
+   comme le meilleur joueur du monde, affrontera le logiciel AlphaGo du 9
+   au 15 mars à Séoul.
+
+   CNRS Le Journal (BUTTON)
+   Jeu de Go
+   Le Sud-Coréen Lee Sedol, 9e dan, légende vivante du go et considéré
+   comme le meilleur joueur du monde, affrontera le logiciel AlphaGo du 9
+   au 15 mars à Séoul.
+   JUNG YEON-JE/AFP
+   JUNG YEON-JE/AFP
+   Partager
+   Partager
+
+   Jusqu’à il y a quelques mois, Zen, programme japonais, était considéré
+   comme le meilleur programme au monde, mais il restait très loin du
+   niveau des meilleurs joueurs professionnels. Son principe, très
+   classique, repose sur l’évaluation de la pertinence des coups en
+   simulant des milliers de parties.
+
+Comment ça marche ?
+
+   Cette approche, remontant à 1993, a notamment été améliorée en 2006
+   grâce à la méthode de « fouille d’arbre Monte-Carlo ». Les parties y
+   sont simulées à partir de la configuration en cours du jeu. Mais le
+   programme ne simule pas toutes les parties possibles, seulement
+   certaines. En fait, on joue « au hasard » un grand nombre de fins de
+   parties à partir de la position en cours (c’est la phase
+   « exploratoire » de l’arbre des possibilités), puis on comptabilise la
+   proportion de parties gagnantes/perdantes. Cette estimation statistique
+   s’affine au fur et à mesure, en favorisant de plus en plus les bons
+   coups.
+
+   AlphaGo utilise aussi cette technique exploratoire qui a déjà permis
+   les premières victoires contre des joueurs professionnels, en 2009, par
+   des chercheurs français (Rémi Coulom à Lille, puis l’équipe Tao à
+   l’Inria Saclay). Mais le logiciel de DeepMind y ajoute d’autres outils,
+   à commencer par les réseaux de neurones, équivalents in silico des
+   neurones biologiques. Les neurones « apprennent » à se connecter entre
+   eux de la meilleure façon en fonction des résultats obtenus lors de
+   simulations, avant le début de la partie. Tandis que la phase
+   exploratoire de la méthode de Monte-Carlo est réalisée au cours du jeu
+   (on peut choisir par exemple de laisser 20 secondes au programme pour
+   effectuer l’exploration avant de déterminer son action).
+   AlphaGo s’est
+   nourri de
+   30 millions de
+   coups joués par des
+   professionnels !
+
+   Un réseau de neurones apprend par imitation, en reproduisant des
+   parties de go entre joueurs humains très forts. Des chercheurs
+   d’Edimbourg ont montré que la seule limite de ces méthodes était la
+   puissance de calcul : plus celle qui est fournie au réseau de neurones
+   est grande, plus il joue bien. Or AlphaGo s’est nourri de 30 millions
+   de coups joués par des professionnels !
+
+   Ensuite, le réseau de neurones d’AlphaGo progresse en jouant contre
+   lui-même. La méthode utilisée est connue depuis 1992 et fait appel à
+   l’apprentissage par renforcement. C’est ici que la puissance de calcul
+   phénoménale de Google est utile.
+
+   Enfin, un second réseau de neurones étudie les parties précédemment
+   obtenues du programme contre lui-même et apprend ainsi à reconnaître
+   les « bonnes » situations afin de guider l’exploration aléatoire. On
+   parle d’apprentissage supervisé : l’ordinateur utilise des exemples
+   pour essayer de distinguer les bonnes situations des mauvaises. Il y a
+   donc deux réseaux de neurones pour guider l’exploration aléatoire.
+   Jeu de Go
+   Le plateau de jeu de go, le goban, comporte 19 x 19 lignes où poser les
+   jetons.
+
+   CNRS Le Journal (BUTTON)
+   Jeu de Go
+   Le plateau de jeu de go, le goban, comporte 19 x 19 lignes où poser les
+   jetons.
+   BLUE JEAN IMAGES/CORBIS
+   BLUE JEAN IMAGES/CORBIS
+   Partager
+   Partager
+
+À quoi ça sert, à part jouer au jeu de Go ?
+
+   L’utilisation de réseaux de neurones n’est pas nouvelle, mais DeepMind
+   a poussé la technique très loin, avec une immense puissance de calcul
+   et de nombreuses couches de neurones (le deep learning), et l’a
+   astucieusement intégrée à la technique exploratoire. C’est cette
+   combinaison de différentes techniques qui est novatrice en ce qui
+   concerne le jeu de go. Le logiciel de DeepMind s’est même payé le luxe
+   de jouer ce que l’on appelle un « triangle vide » lors d’une partie. Ce
+   coup, usuellement considéré comme très mauvais, s’avère dans de rares
+   cas très pertinent et AlphaGo a su s’y risquer à bon escient.
+   Il ne s’agit pas
+   que de recopier
+   les gestes humains,
+   mais de savoir
+   les généraliser.
+
+   L’apprentissage par imitation est très utilisé en robotique, car il
+   permet de reproduire des gestes fournis par des experts humains. Il ne
+   s’agit pas que de recopier les gestes humains, mais de savoir les
+   généraliser. Les problèmes de contrôle (contrôle de véhicules,
+   applications militaires telles que la planification et l’exécution de
+   missions par l'infanterie4) font aussi souvent appel à l’apprentissage
+   par renforcement.
+
+   Enfin, l’apprentissage supervisé est l’outil le plus efficace pour
+   reconnaître des images. Si vous avez un programme qui détecte (bien)
+   s’il y a un cochon sur votre photo ou votre vidéo, il utilise
+   probablement de l’apprentissage supervisé sur réseaux neuronaux. En
+   particulier, l’utilisation de réseaux de neurones dits à convolutions,
+   très proches de ce que l’on trouve dans le cortex visuel, est connue
+   depuis 1998 et les travaux de Yann LeCun. Cela permet de reconnaître le
+   cochon quelle que soit sa position sur l’image.
+
+Quels sont les pronostics ?
+
+   La victoire 5 à 0 contre Fan Hui est impressionnante, mais ce joueur ne
+   se trouve que dans les 600 à 700 meilleurs joueurs mondiaux : il est
+   donc loin du meilleur niveau mondial. En outre, des experts affirment
+   que l’humain a d’abord mené une grande partie des matchs avant de
+   s’incliner, et qu’un joueur plus fort, comme Lee Sedol, aurait
+   largement gagné. Les informaticiens de DeepMind reconnaissent eux-mêmes
+   que le programme qui a joué contre Fan Hui n’aurait pas pu gagner
+   contre Lee Sedol, mais ils annoncent que leur programme actuel est
+   beaucoup plus fort. Eux seuls ont les moyens de le tester avant la
+   rencontre cruciale. Leur pronostic (optimiste) pourrait donc s’avérer
+   fiable.
+
+   Les points de vue, les opinions et les analyses publiés dans cette
+   rubrique n’engagent que leur auteur. Ils ne sauraient constituer une
+   quelconque position du CNRS.
+   Notes
+     * 1. D’origine chinoise, Fan Hui a été naturalisé français en 2013.
+     * 2. Lire :
+       www.nature.com/nature/journal/v529/n7587/full/nature16961.html
+     * 3. Certains programmes avaient déjà gagné contre des professionnels
+       sur un plateau 9 x 9 ou bien sur un plateau 19 x 19 mais avec un
+       handicap (un handicap consiste à laisser «de l’avance» au joueur le
+       plus faible en lui permettant de placer des jetons sur le plateau
+       avant le début de la partie).
+     * 4. Lire : www.lamsade.dauphine.fr/~cazenave/papers/icaps2013.pdf
+
+Mots-clés
+
+   AlphaGo DeepMind Jeu de Go Réseau de neurones deeplearning Fan Hui Lee
+   Sedol méthode Monte-Carlo apprentissage par renforcement technique
+   exploratoire
+
+Partager cet article
+
+   Agriculture : des logiciels pour les «circuits courts»Précédent
+   Les plasmas froids réchauffent l’innovationSuivant
+
+Les autres points de vue
+
+   Points de vue
+   Voir tous les points de vue
+   Vivant
+   Sociétés
+   « Les mégabassines ne résoudront pas la crise de l’eau »
+   13.09.2023
+   Vivant
+   Sociétés
+   Les vaccins sont-ils des biens communs ?
+   22.06.2023
+   Vivant
+   Biodiversité, vous avez dit biodiversité ?
+   30.05.2023
+   Sociétés
+   L’union des femmes ferait leur force
+   24.08.2022
+   © DR
+   Marie-Liesse Cauwet et Olivier Teytaud
+   Chercheurs en informatique
+
+   Olivier Teytaud est chargé de recherche INRIA dans l'équipe TAO, équipe
+   jointe INRIA-CNRS-Univ. Paris-Sud,
+   LRI CNRS UMR 8623. Il est l’un des coauteurs du programme MoGo qui a...
+   Voir la page de l'auteur
+
+Commentaires
+
+   1 commentaire
+   Flux RSS
+
+Peut être pas dans 10 jours
+
+   trikatsum le 7 Mars 2016 à 22h39
+   Peut être pas dans 10 jours mais après que deepmind sera devenu le plus
+   fort joueur du monde, continuera-t-il à progresser? y aura-t-il dans x
+   années un superdeemind qui mettra la pâtée à celui-ci, et qui écrasera
+   facilement Lee sedol comme s'il n'était qu'un débutant?
+   Votre nom ______________________________
+   Comment *
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   Enregistrer
+   Leave this field blank ____________________
+     * Se connecter avec Google
+     * Se connecter avec Twitter
+     * Se connecter avec Facebook
+
+   Se connecter avec Facebook
+     * Connectez-vous ou inscrivez-vous pour publier un commentaire
+
+   Pour laisser votre avis sur cet article
+   Connectez-vous, rejoignez la communauté
+   du journal CNRS
+   Se connecter
+   Créer un compte
+
+     * À propos
+     * Newsletters
+     * Équipe / crédits
+     * Nous contacter
+     * Charte d'utilisation
+     * Plan du site
+     * Données personnelles
+     * Mentions légales
+
+Numéros papiers
+
+   CNRS Le Journal - décembre 2023
+   n°314
+   Voir tous les numéros
+
+Nous suivre
+
+     * Twitter
+     * Facebook
+     * Google
+     * Dailymotion
+
+Partager
+
+     * Twitter
+     * Facebook
+     * Google
+     * Email
+
+   [logofondation.svg] Faites un don pour la recherche !
+   Centre National de la Recherche Scientifique
+   © 2023, CNRS
+     * Créer un compte
+     * Se connecter
+     * Mon compte
+     * Politique d'accessibilité
+     * Gestion des cookies

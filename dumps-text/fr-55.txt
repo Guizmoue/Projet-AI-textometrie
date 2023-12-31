@@ -1,0 +1,213 @@
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-59MW7L4
+
+   (BUTTON)
+
+   (BUTTON) Menu
+   Rechercher ____________________ (BUTTON)
+   Epaper/PDF Newsletters
+
+   logo letemps S'abonner Mon compte
+     * En continu
+     * Monde
+     * Suisse
+     * Économie
+     * Opinions
+     * Culture
+     * Société
+     * Sciences
+     * Sport
+     * Data
+     * Événements
+     * Vidéos
+     * Podcasts
+     *
+
+   ____________________ (BUTTON)
+     * S'abonner
+     * Accueil
+     * En continu
+     * Monde
+     * Suisse
+     * Économie
+     * Opinions
+     * Culture
+     * Société
+     * Sciences
+     * Sport
+     * Data
+     * Événements
+     * Hyperlien
+     * Dossiers
+     * Grands formats
+     * En images
+     * Vidéos
+     * Podcasts
+     *
+     *
+     * Epaper/PDF
+     * Newsletters
+     * Magazine T
+     * Le Journal de l'Immobilier
+     * Blogs
+     * Archives
+     * Archives historiques
+     *
+     * Abonnements
+     * Services aux abonnés
+     * Questions fréquentes
+     *
+     * Régie Publicitaire
+     * Avis de décès
+
+     * À propos
+     * Impressum
+     * Communication
+     * Emplois
+
+   Publicité
+
+    1. Accueil
+    2. Économie
+    3. Cyber
+
+               A Neuchâtel, les robots suivent les pas de Darwin
+
+   La «Design Night» présentait des robots barmen et des machines de
+   l’EPFL capables de muter vers des êtres toujours plus complexes.
+   L’intelligence artificielle possède déjà les clés de sa propre
+   évolution
+
+   Des robots barmen servaient le public de la «Design Night» à Neuchâtel.
+   Mais des machines plus évoluées pourraient grimper un peu plus
+   l'échelle entrepreneuriale. — © Adrià Budry Carbó Des robots barmen
+   servaient le public de la «Design Night» à Neuchâtel. Mais des machines
+   plus évoluées pourraient grimper un peu plus l'échelle
+   entrepreneuriale. — © Adrià Budry Carbó
+
+   Adrià Budry Carbó
+   Adrià Budry Carbó
+   Publié le 21 octobre 2016 à 12:28. / Modifié le 21 octobre 2016 à
+   12:31.
+     *
+     *
+     *
+     *
+     *
+
+   Un bras armé qui sert le café, un robot qui décapsule des bières et –
+   entre les deux – une tablée de «makers» (des bricoleurs 4.0) assistant
+   les curieux dans leurs créations électroniques. A La Case à Chocs de
+   Neuchâtel, quelque 400 technophiles se sont offert un bain de futurisme
+   lors de la «Design Night».
+
+   Autodesk Neuchâtel qui fêtait ses 25 ans en important la formule de sa
+   maison-mère californienne, s’est donné pour objectif de «titiller la
+   curiosité du public en lui expliquant comment le monde change»,
+   explique Roberto Sigona, le directeur régional du géant de l’édition de
+   logiciels de création assistée.
+
+   Lire aussi: «La quatrième révolution industrielle nous concerne tous»
+
+   En réalité, la technologie robotique fait déjà partie de notre vie
+   quotidienne, puisqu’on en trouve dans les aspirateurs, les drones ou
+   les logiciels d’auto-pilotage, souligne Dario Floreano, directeur du
+   centre d’excellence suisse en robotique de l’EPFL. «Mais le
+   développement des batteries ou caméras de smartphones a notamment
+   permis d’abaisser les coûts de production des robots», explique-t-il.
+
+Des machines qui se construisent elles-mêmes
+
+   L’équipe du professeur développe actuellement la nouvelle génération de
+   robots, capable d’évoluer en fonction de son environnement. «L’idée
+   c’est qu’il puisse y avoir, comme chez les êtres humains, une
+   coévolution du corps et de l’intelligence», résume celui qui est
+   l’origine du projet Robogen. Grâce à un système d’algorithmes
+   biologiques, le robot – doté de capteurs et d’un système neuronal
+   artificiel – est capable d’apprendre de ses erreurs afin de trouver la
+   meilleure stratégie pour sortir d’une boîte ou avancer d’un point A à
+   un point B.
+
+   «C’est le robot lui-même qui redéfinit le diamètre de ses roues ou
+   conçoit la taille des pièces qui vont le composer», explique Alice
+   Concordel, ingénieure au Laboratoire de systèmes intelligents de
+   l’EPFL. Le simulateur classe tous les prototypes et – dans une
+   procédure très darwinienne – écarte les modèles les moins performants.
+   La machine élue commande elle-même ses pièces qui seront ensuite
+   imprimées en 3D. Les robots évolutifs de l’EPFL pourraient-ils, eux
+   aussi, devenir nos collègues de travail? Impossible pour Alice
+   Concordel: «Nos robots sont beaucoup trop imprévisibles pour le moment.
+   On ne peut pas se permettre de les faire collaborer avec des humains.»
+
+   Lire aussi: «On pourrait imaginer qu’un robot refuse de payer ses
+   impôts!»
+
+Robots au service des entrepreneurs
+
+   Une évolution de la fabrication qui intéresse beaucoup Autodesk qui
+   s’est offert en 2015 l’éditeur allemand de logiciels pour impression 3D
+   Netfabb. Une technologie permettant de matérialiser instantanément
+   n’importe quel dessin. De quoi imaginer que le créateur de logiciels
+   investisse toute la ligne de production? Roberto Sigona voit plus loin:
+   «Dans un futur pas si éloigné on pourrait imaginer que des micro-usines
+   disposeraient de robots faciles à programmer. Les entrepreneurs, grâce
+   à leur argent collecté sur des plateformes de crowdfunding, pourraient
+   louer leurs services pour 30 minutes ou deux heures.» L’industrie sans
+   les moyens de production, en somme.
+
+   A la Case à Chocs, le robot de F&P Robotics, se contente de servir le
+   café. Mais la spin-off de l’EPFZ cherche déjà de nouveaux marchés pour
+   ses robots collaboratifs – des bras armés dotés de capteurs permettant
+   de détecter une présence humaine. «L’industrie reste notre principal
+   débouché, explique Rico Kreis ingénieur. Nous cherchons maintenant à
+   convaincre le secteur des services. Le défi, c’est que les gens
+   acceptent leur présence.»
+
+   Economie romande
+     *
+     *
+     *
+     *
+     *
+
+le Temps
+
+     * Impressum
+     * À propos
+     * Communication
+     * Régie Publicitaire
+     * Avis de décès
+     * Événements
+     * Emplois
+
+Abonnements et Services
+
+     * Abonnements
+     * Services aux abonnés
+     * Epaper/PDF
+     * Newsletters
+     * Magazine T
+     * Journal de l'immobilier
+     * Questions fréquentes
+     * Archives
+     * Archives historiques
+
+Documents de références
+
+     * Conditions générales d'utilisation
+     * Conditions générales de vente
+     * Politique de confidentialité
+     * Gestion des cookies
+     * Charte rédactionnelle
+     * Charte des partenariats
+
+Suivez Le Temps
+
+     * Facebook
+     * Ex-Twitter
+     * Linkedin
+     * Instagram
+     * Youtube
+     * Tiktok
+
+     * Avenue du Bouchet 2, 1209 Genève | Service Clients: +41 22 539 10
+       75 | Contactez Le Temps

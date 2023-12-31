@@ -1,0 +1,32 @@
+
+Plongée au cœur du cerveau numérique, ou comment l’intelligence artificielle
+fonctionne
+--
+   a vocation à expliquer de façon schématique le fonctionnement de
+   l’intelligence artificielle (IA) utilisant des réseaux de neurones
+   artificiels. Si l’expression “IA” est utilisée depuis longtemps pour
+   désigner différents types de technologies du secteur de l’informatique,
+--
+   et des investisseurs.
+   Lire aussi : IA. Sam Altman redevient patron de ChatGPT : ultime
+   volte-face dans la “saga d’OpenAI”
+
+   ChatGPT fait appel à l’IA dite “générative” (IAG), capable de générer
+   du texte en réponse à une demande – appelée “prompt” – de
+--
+   à partir d’enregistrements de voix humaines connues, par exemple.
+   Voir aussi : Vidéo. IA : la vie d’un informaticien commentée par un
+   clone de David Attenborough devient virale
+--
+   Désormais, des développeurs s’amusent à combiner ces différentes
+   fonctionnalités de l’IA pour créer de nouveaux outils. Charlie Holtz,
+   un développeur de la société Replicate, a ainsi diffusé une vidéo
+--
+   Récit. “À plus, les daronnes !” : libres comme l’air au Japon
+   ChatGPT Infographie Sciences et environnement Intelligence artificielle
+   (IA)
+   Source de l’article
+--
+
+   La chronique du New York Times. Modern Love : j’ai fini par apprendre
+   les bienfaits romantiques des cadeaux inutiles

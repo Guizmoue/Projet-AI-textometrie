@@ -1,1547 +1,637 @@
 <!DOCTYPE html>
-<html lang="fr" dir="ltr">
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<link rel="alternate" type="application/rss+xml" title="Commentaires pour &quot;Athénan, une IA joueuse multi-championne&quot;" href="https://lejournal.cnrs.fr/crss/node/2979" />
-<meta name="description" content="Zoom sur un système français qui a raflé la mise lors de la récente 24e Computer Olympiad, une compétition mondiale multijeux pour intelligences artificielles." />
-<meta name="generator" content="Drupal 7 (http://drupal.org)" />
-<link rel="canonical" href="https://lejournal.cnrs.fr/articles/athenan-une-ia-joueuse-multi-championne" />
-<link rel="shortlink" href="https://lejournal.cnrs.fr/node/2979" />
-<meta property="og:site_name" content="CNRS Le journal" />
-<meta property="og:type" content="website" />
-<meta property="og:title" content="Athénan, une IA joueuse multi-championne" />
-<meta property="og:url" content="https://lejournal.cnrs.fr/articles/athenan-une-ia-joueuse-multi-championne" />
-<meta property="og:description" content="Zoom sur un système français qui a raflé la mise lors de la récente 24e Computer Olympiad, une compétition mondiale multijeux pour intelligences artificielles." />
-<meta property="og:image" content="https://lejournal.cnrs.fr/sites/default/files/styles/visuel_principal/public/assets/images/adobestock_271413703_72dpi.jpg" />
+<html data-ariato="Heidi" lang="fr-CH">
+  <head>
+    <!-- b3756f1c9923162deb74ed208c7419f9d5775546
+ -->
+    <meta charset="UTF-8">
+    
+	<script>
+		dataLayer = [{"user_category":"anonyme","user_id":"","free_trial":0,"page":"le-new-york-times-poursuit-en-justice-microsoft-et-openai-pour-violation-des-droits-d-auteur","article_id":"444984","article_author":"Le Temps avec l’AFP","section":"Économie","subsection":"Cyber","theme_article":"Intelligence artificielle","template":"default","publication_date":"2023-12-27T16:19:46.249+01:00","modification_date":"2023-12-27T18:41:41.575+01:00","accesibility_article":0,"site_level2":"economie"}]
+	</script> 
+	<!-- Google Tag Manager -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-59MW7L4');</script>
+	<!-- End Google Tag Manager -->
+ 
+    <title>Le «New York Times» poursuit en justice Microsoft et OpenAI pour violation des droits d’auteur - Le Temps</title>
+
+<meta name="description" content="Le grand quotidien new-yorkais accuse l’éditeur le principal investisseur de ChatGPT d’avoir utilisé des millions d’articles pour entraîner le logiciel d’intelligence artificielle sans autorisation. Il estime le préjudice subi à «plusieurs milliards de dollars»"/>
+
+  <meta name="robots" content="index,noarchive,max-snippet:-1,max-image-preview:large,max-video-preview:-1" />
+
+<link href="https://www.letemps.ch/economie/cyber/le-new-york-times-poursuit-en-justice-microsoft-et-openai-pour-violation-des-droits-d-auteur" rel="canonical" />
+
+<link rel="manifest" href="/manifest.json">
+<meta name="theme-color" content="#94172a"/>
+
+<meta property="og:url" content="https://www.letemps.ch/economie/cyber/le-new-york-times-poursuit-en-justice-microsoft-et-openai-pour-violation-des-droits-d-auteur" />
+<meta property="og:title" content="Le «New York Times» poursuit en justice Microsoft et OpenAI pour violation des droits d’auteur - Le Temps" />
+<meta property="og:description" content="Le grand quotidien new-yorkais accuse l’éditeur le principal investisseur de ChatGPT d’avoir utilisé des millions d’articles pour entraîner le logiciel d’intelligence artificielle sans autorisation. Il estime le préjudice subi à «plusieurs milliards de dollars»" />
+<meta property="og:image" content="https://letemps-17455.kxcdn.com/photos/8e3eed21-4a3a-4379-8330-536c168d87f3/medium" />
+<meta property="og:type" content="article" />
+
+<meta name="twitter:title" content="Le «New York Times» poursuit en justice Microsoft et OpenAI pour violation des droits d’auteur - Le Temps" />
+<meta name="twitter:description" content="Le grand quotidien new-yorkais accuse l’éditeur le principal investisseur de ChatGPT d’avoir utilisé des millions d’articles pour entraîner le logiciel d’intelligence artificielle sans autorisation. Il estime le préjudice subi à «plusieurs milliards de dollars»" />
 <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:creator" content="@CNRS" />
-<meta name="twitter:url" content="https://lejournal.cnrs.fr/articles/athenan-une-ia-joueuse-multi-championne" />
-<meta name="twitter:title" content="Athénan, une IA joueuse multi-championne" />
-<meta name="twitter:description" content="Zoom sur un système français qui a raflé la mise lors de la récente 24e Computer Olympiad, une compétition mondiale multijeux pour intelligences artificielles." />
-<meta name="twitter:image" content="https://lejournal.cnrs.fr/sites/default/files/styles/visuel_principal/public/assets/images/adobestock_271413703_72dpi.jpg" />
-  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2, user-scalable=yes" />
-  <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1">  
-  <link rel="apple-touch-icon" sizes="57x57" href="/sites/all/themes/cnrs/images/favicons/apple-touch-icon-57x57.png">
-  <link rel="apple-touch-icon" sizes="114x114" href="/sites/all/themes/cnrs/images/favicons/apple-touch-icon-114x114.png">
-  <link rel="apple-touch-icon" sizes="72x72" href="/sites/all/themes/cnrs/images/favicons/apple-touch-icon-72x72.png">
-  <link rel="apple-touch-icon" sizes="144x144" href="/sites/all/themes/cnrs/images/favicons/apple-touch-icon-144x144.png">
-  <link rel="apple-touch-icon" sizes="60x60" href="/sites/all/themes/cnrs/images/favicons/apple-touch-icon-60x60.png">
-  <link rel="apple-touch-icon" sizes="120x120" href="/sites/all/themes/cnrs/images/favicons/apple-touch-icon-120x120.png">
-  <link rel="apple-touch-icon" sizes="76x76" href="/sites/all/themes/cnrs/images/favicons/apple-touch-icon-76x76.png">
-  <link rel="apple-touch-icon" sizes="152x152" href="/sites/all/themes/cnrs/images/favicons/apple-touch-icon-152x152.png">
-  <link rel="apple-touch-icon" sizes="180x180" href="/sites/all/themes/cnrs/images/favicons/apple-touch-icon-180x180.png">
-  <meta name="apple-mobile-web-app-title" content="CNRS le journal">
-  <link rel="shortcut icon" href="/sites/all/themes/cnrs/images/favicons/favicon.ico">
-  <link rel="icon" type="image/png" href="/sites/all/themes/cnrs/images/favicons/favicon-192x192.png" sizes="192x192">
-  <link rel="icon" type="image/png" href="/sites/all/themes/cnrs/images/favicons/favicon-160x160.png" sizes="160x160">
-  <link rel="icon" type="image/png" href="/sites/all/themes/cnrs/images/favicons/favicon-96x96.png" sizes="96x96">
-  <link rel="icon" type="image/png" href="/sites/all/themes/cnrs/images/favicons/favicon-16x16.png" sizes="16x16">
-  <link rel="icon" type="image/png" href="/sites/all/themes/cnrs/images/favicons/favicon-32x32.png" sizes="32x32">
-  <meta name="msapplication-TileColor" content="#2d89ef">
-  <meta name="msapplication-TileImage" content="/sites/all/themes/cnrs/images/favicons/mstile-144x144.png">
-  <meta name="msapplication-config" content="/sites/all/themes/cnrs/images/favicons/browserconfig.xml">
-  <meta name="application-name" content="CNRS le journal">
+<meta name="twitter:site" content="@letemps" />
+<meta name="twitter:image" content="https://letemps-17455.kxcdn.com/photos/8e3eed21-4a3a-4379-8330-536c168d87f3/medium" />
 
-  <title>Athénan, une IA joueuse multi-championne | CNRS Le journal</title>
-  <link type="text/css" rel="stylesheet" href="https://lejournal.cnrs.fr/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
-<link type="text/css" rel="stylesheet" href="https://lejournal.cnrs.fr/sites/default/files/css/css_Gh6OZkZoqr-9JcXxPZI-KO1En1kOsksUD7eC1sz9Dzs.css" media="all" />
-<link type="text/css" rel="stylesheet" href="https://lejournal.cnrs.fr/sites/default/files/css/css_kTP6trUZ_0cTfVGSs4cnCO_EGWUZF5b44gvmrNbdUG4.css" media="all" />
-<link type="text/css" rel="stylesheet" href="https://lejournal.cnrs.fr/sites/default/files/css/css_zSmG5jX2KIP7AnMxq0XAlLBjaTNoBFcbYqWStxpGOYo.css" media="all" />
-<link type="text/css" rel="stylesheet" href="https://lejournal.cnrs.fr/sites/default/files/css/css_mj0QfGGmcpKUOjbaCntkMzr36vugCQQTEX3E5wDfetk.css" media="print" />
-  <script type="text/javascript" src="https://lejournal.cnrs.fr/sites/all/libraries/respondjs/respond.min.js?s4kovb"></script>
-<script type="text/javascript" src="https://lejournal.cnrs.fr/sites/default/files/js/js_Pt6OpwTd6jcHLRIjrE-eSPLWMxWDkcyYrPTIrXDSON0.js"></script>
-<script type="text/javascript" src="https://lejournal.cnrs.fr/sites/default/files/js/js_H7q2xORKmR9AN8Qx5spKEIBp7R_wG2apAswJoCUZY7I.js"></script>
-<script type="text/javascript" src="https://lejournal.cnrs.fr/sites/default/files/js/js_FKMKq0v9SvH0m1LSYRczPbwJ8CVwsYpUI4FgKfL8vc4.js"></script>
-<script type="text/javascript" src="https://lejournal.cnrs.fr/sites/default/files/js/js_JPsle4lDW-ZeZnwAgHUsSKH81YHq3e8vscGGg_Gs42U.js"></script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-var text_resize_scope = "resize-chapo-contenu";
-          var text_resize_minimum = "12";
-          var text_resize_maximum = "25";
-          var text_resize_line_height_allow = 1;
-          var text_resize_line_height_min = "16";
-          var text_resize_line_height_max = "36";
-//--><!]]>
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="application-name" content="Le Temps"/>
+<meta name="msapplication-TileColor" content="#FFFFFF" />
+<meta name="msapplication-TileImage" content="https://letemps-17455.kxcdn.com/assets/mstile-144x144-87ff333e3394cfb563ac67d6497741a82cf4d0d34325bb8d3aac660f873009e5.png" />
+
+<meta name="apple-mobile-web-app-title" content="Le Temps">
+
+
+  <meta property="dateModified" content="2023-12-27T18:41:41+01:00">
+  <meta property="og:article:published_time" content="2023-12-27T16:19:46+01:00"> 
+  <meta property="og:article:author" content="Le Temps avec l’AFP">
+  <meta property="og:article:section" content="Économie">
+    <meta property="keywords" content="Intelligence artificielle">
+    <meta property="og:article:content_tier" content="free"/>
+
+
+<link rel="apple-touch-icon" type="image/png" href="https://letemps-17455.kxcdn.com/assets/letemps/apple-touch-icon-144x144-baff52409bf77a5ecaa5887d42835562c28c9c2b64faf55dda7b51211e5b3db1.png" sizes="144x144" />
+<link rel="apple-touch-icon" type="image/png" href="https://letemps-17455.kxcdn.com/assets/letemps/apple-touch-icon-152x152-e3d8c1b51783808dbfedd65f3039a8d5dceec5025507b0429c7a067730f2aaa1.png" sizes="152x152" />
+<link rel="icon" type="image/png" href="https://letemps-17455.kxcdn.com/assets/letemps/favicon-32x32-e402c020650cc20144605c212c92e6710eac2f1b691aa82e13c0744caa729a53.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="https://letemps-17455.kxcdn.com/assets/letemps/favicon-16x16-384894c5973d6e2423acc5c6acedd599ec1110a382868ad045d2510a85f723d8.png" sizes="16x16" />
+
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "@id": "https://www.letemps.ch/",
+    "url": "https://www.letemps.ch/",
+    "name": "Le Temps"
+  }
 </script>
-<script type="text/javascript" src="https://lejournal.cnrs.fr/sites/default/files/js/js_eLKfkl5ldM_yY408jREZ6hT7DCPLESTBffFH6ZV7dgo.js"></script>
-<script type="text/javascript" src="https://lejournal.cnrs.fr/sites/default/files/js/js_5AzmQ29glFKOeAag7gaSdW2EYkRABwGykvm6jWXDSIY.js"></script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"cnrs","theme_token":"DI4_h5NpKXZ3hCMyEC5Cxnvwkkcz1kXm1qv-66lbwdg","js":{"sites\/all\/libraries\/respondjs\/respond.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.12\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/js\/jquery_browser.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/contrib\/entityreference\/js\/entityreference.js":1,"sites\/all\/modules\/contrib\/ideal_comments\/theme\/ideal_comments.js":1,"sites\/all\/modules\/contrib\/om_maximenu\/js\/om_maximenu.js":1,"public:\/\/languages\/fr_BVWVogI5xYxQCF6wOnk9IzySK3CxeEQnaNPLexcUHyQ.js":1,"sites\/all\/modules\/patched\/lightbox2\/js\/lightbox.js":1,"sites\/all\/modules\/contrib\/compact_forms\/compact_forms.js":1,"0":1,"sites\/all\/modules\/contrib\/text_resize\/text_resize.js":1,"sites\/all\/modules\/contrib\/extlink\/js\/extlink.js":1,"sites\/all\/themes\/cnrs\/js\/modernizr.js":1,"sites\/all\/themes\/cnrs\/js\/jquery.mousewheel.js":1,"sites\/all\/themes\/cnrs\/js\/jquery.jscrollpane.min.js":1,"sites\/all\/themes\/cnrs\/js\/jquery.responsiveiframe.js":1,"sites\/all\/themes\/cnrs\/js\/jquery.toc.js":1,"sites\/all\/themes\/cnrs\/js\/imagesloaded.pkgd.min.js":1,"sites\/all\/themes\/cnrs\/js\/magnific.js":1,"sites\/all\/themes\/cnrs\/js\/jquery.expander.js":1,"sites\/all\/themes\/cnrs\/js\/cnrsGallery.js":1,"sites\/all\/themes\/cnrs\/js\/filip.js":1,"sites\/all\/themes\/cnrs\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/contrib\/simplenews\/simplenews.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/footnotes\/footnotes.css":1,"sites\/all\/modules\/contrib\/ideal_comments\/theme\/ideal_comments.css":1,"sites\/all\/modules\/contrib\/logintoboggan\/logintoboggan.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/om_maximenu\/css\/om_maximenu.css":1,"sites\/all\/modules\/contrib\/search_krumo\/search_krumo.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/video_filter\/video_filter.css":1,"sites\/all\/modules\/contrib\/asset\/css\/assets.css":1,"sites\/all\/modules\/contrib\/extlink\/css\/extlink.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/themes\/cnrs\/css\/tabs.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/patched\/lightbox2\/css\/lightbox.css":1,"sites\/all\/modules\/contrib\/print\/print_ui\/css\/print_ui.theme.css":1,"sites\/all\/modules\/contrib\/compact_forms\/compact_forms.css":1,"sites\/all\/modules\/custom\/propalview\/propalview_debug.css":1,"sites\/all\/modules\/contrib\/om_maximenu\/skin\/no_style\/no_style.css":1,"sites\/all\/modules\/contrib\/text_resize\/text_resize.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/themes\/cnrs\/css\/custom\/font-face.css":1,"sites\/all\/themes\/cnrs\/css\/default.css":1,"sites\/all\/themes\/cnrs\/css\/layout.css":1,"sites\/all\/themes\/cnrs\/css\/normalize.css":1,"sites\/all\/themes\/cnrs\/css\/custom\/cnrs.css":1,"sites\/all\/themes\/cnrs\/css\/custom\/paul.css":1,"sites\/all\/themes\/cnrs\/css\/custom\/filip.css":1,"sites\/all\/themes\/cnrs\/jplayer\/jplayer.css":1,"sites\/all\/themes\/cnrs\/css\/custom\/mobile.css":1,"sites\/all\/themes\/cnrs\/css\/custom\/mobile2.css":1,"sites\/all\/themes\/cnrs\/css\/custom\/tablette.css":1,"sites\/all\/themes\/cnrs\/css\/custom\/tablette2.css":1,"sites\/all\/themes\/cnrs\/css\/custom\/blog.css":1,"sites\/all\/themes\/cnrs\/css\/custom\/evols.css":1,"sites\/all\/themes\/cnrs\/css\/print.css":1}},"lightbox2":{"rtl":"0","file_path":"\/(\\w\\w\/)public:\/","default_image":"\/sites\/all\/modules\/patched\/lightbox2\/images\/brokenimage.jpg","border_size":10,"font_color":"000","box_color":"fff","top_position":"","overlay_opacity":"0.8","overlay_color":"000","disable_close_click":1,"resize_sequence":0,"resize_speed":400,"fade_in_speed":400,"slide_down_speed":600,"use_alt_layout":0,"disable_resize":0,"disable_zoom":1,"force_show_nav":0,"show_caption":1,"loop_items":0,"node_link_text":"Voir les d\u00e9tails de l\u0026#039;image","node_link_target":0,"image_count":"Image !current sur !total","video_count":"Vid\u00e9o !current sur !total","page_count":"Page !current sur !total","lite_press_x_close":"Appuyez sur \u003Ca href=\u0022#\u0022 onclick=\u0022hideLightbox(); return FALSE;\u0022\u003E\u003Ckbd\u003Ex\u003C\/kbd\u003E\u003C\/a\u003E pour fermer","download_link_text":"","enable_login":false,"enable_contact":false,"keys_close":"c x 27","keys_previous":"p 37","keys_next":"n 39","keys_zoom":"z","keys_play_pause":"32","display_image_size":"original","image_node_sizes":"()","trigger_lightbox_classes":"","trigger_lightbox_group_classes":"","trigger_slideshow_classes":"","trigger_lightframe_classes":"","trigger_lightframe_group_classes":"","custom_class_handler":0,"custom_trigger_classes":"","disable_for_gallery_lists":true,"disable_for_acidfree_gallery_lists":true,"enable_acidfree_videos":true,"slideshow_interval":5000,"slideshow_automatic_start":true,"slideshow_automatic_exit":true,"show_play_pause":true,"pause_on_next_click":false,"pause_on_previous_click":true,"loop_slides":false,"iframe_width":600,"iframe_height":400,"iframe_border":1,"enable_video":0,"useragent":"curl\/8.2.1"},"video_filter":{"url":{"ckeditor":"\/video_filter\/dashboard\/ckeditor"},"instructions_url":"\/video_filter\/instructions","modulepath":"sites\/all\/modules\/contrib\/video_filter"},"better_exposed_filters":{"views":{"dossier_bandeau":{"displays":{"block":{"filters":[]}}},"archives":{"displays":{"block_2":{"filters":[]}}},"auteur_article":{"displays":{"block":{"filters":[]}}},"lire_voir":{"displays":{"block":{"filters":[]}}},"voir_aussi":{"displays":{"block_voir_aussi":{"filters":[]}}}}},"compactForms":{"forms":["user-login-form"],"stars":0},"extlink":{"extTarget":"_blank","extClass":"ext","extLabel":"(link is external)","extImgClass":0,"extIconPlacement":"append","extSubdomains":1,"extExclude":"","extInclude":"","extCssExclude":".hybridauth-widget","extCssExplicit":"","extAlert":0,"extAlertText":"This link will take you to an external web site.","mailtoClass":"mailto","mailtoLabel":"(link sends e-mail)","extUseFontAwesome":false}});
-//--><!]]>
+
+  <script src="https://adnz.co/header.js?adTagId=628"></script>
+
+  <link rel="preload" href="https://letemps-17455.kxcdn.com/assets/letemps/FinancierDisplay-Medium-d4857bde44b114c55200920b0f80396c95a699cd6e28f600a56e429773694f17.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+  <link rel="preload" href="https://letemps-17455.kxcdn.com/assets/letemps/FinancierText-Bold-d89b447fefc8b7c607a42d74c8ea3ed7ed330844a9ee87b1161e26834bd6aa70.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+  <link rel="preload" href="https://letemps-17455.kxcdn.com/assets/letemps/FinancierText-Regular-ddcfb6938efa48243576f57cbeede38630ecdfd00ab1b2a51e8f83aa42b5473a.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+  <link rel="preload" href="https://letemps-17455.kxcdn.com/assets/letemps/Ratio-Medium-718d80096914b6caf2da4f23a5d7fa35e647746888f4b5a5ab5c8d80e2514fb7.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+  <link rel="preload" href="https://letemps-17455.kxcdn.com/assets/letemps/Ratio-Regular-226efe3c68d1a2ab29954ae26b9e91e044d1df7117e210c1b5227e7f27dd49f0.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+
+<link rel="stylesheet" media="all" href="https://letemps-17455.kxcdn.com/assets/letemps-6fee7f0487261d56a0bc59a0df545fc6a2a5793581b856d74bedcc93dfed8943.css" />
+
+
+
+    <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="rFm5/L2u+Gxttg7rGzeAJQTsBZ9Ig+IBipmKbXaH/Ccnfhrw8CJa958waYe4yQOKhCi5tdi2C2PAacfbgyP/yA==" />
+    
+  </head>
+
+  <body class=" ">
+    
+    	<!-- Google Tag Manager (noscript) -->
+	  <noscript>
+	    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-59MW7L4"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe>
+	  </noscript>
+	<!-- End Google Tag Manager (noscript) -->
+ 
+    <header class="main-nav" role="banner">
+  <section class="main-nav__bar">
+
+    <div class="main-nav__side  is-mobile">
+      <button class="toggle-menu is-link is-icon is-small" title="Menu">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="m0 96c0-17.7 14.3-32 32-32h384c17.7 0 32 14.3 32 32s-14.3 32-32 32h-384c-17.7 0-32-14.3-32-32zm0 160c0-17.7 14.3-32 32-32h384c17.7 0 32 14.3 32 32s-14.3 32-32 32h-384c-17.7 0-32-14.3-32-32zm448 160c0 17.7-14.3 32-32 32h-384c-17.7 0-32-14.3-32-32s14.3-32 32-32h384c17.7 0 32 14.3 32 32z"></path></svg>
+
+      </button>
+    </div>
+
+    <div class='main-nav__side is-desktop'>
+      <button class="toggle-menu is-link is-icon is-small" title="Menu">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="m0 96c0-17.7 14.3-32 32-32h384c17.7 0 32 14.3 32 32s-14.3 32-32 32h-384c-17.7 0-32-14.3-32-32zm0 160c0-17.7 14.3-32 32-32h384c17.7 0 32 14.3 32 32s-14.3 32-32 32h-384c-17.7 0-32-14.3-32-32zm448 160c0 17.7-14.3 32-32 32h-384c-17.7 0-32-14.3-32-32s14.3-32 32-32h384c17.7 0 32 14.3 32 32z"></path></svg>
+
+        <span>Menu</span>
+      </button>
+      <div class="button is-small is-link input-group main-nav__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="m416 208c0 45.9-14.9 88.3-40 122.7l126.6 126.7c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0l-126.6-126.7c-34.4 25.2-76.8 40-122.7 40-114.9 0-208-93.1-208-208s93.1-208 208-208 208 93.1 208 208zm-208 144a144 144 0 1 0 0-288 144 144 0 1 0 0 288z"></path></svg>
+
+        <span>Rechercher</span>
+        <form class="simple_form form--search" action="/articles">
+  <input type="search" name="query" aria-label="Recherchez dans les articles" placeholder="Recherche" value="">
+  <button name="button" type="submit" class="is-icon" title="Recherche">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="icon"><path d="m416 208c0 45.9-14.9 88.3-40 122.7l126.6 126.7c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0l-126.6-126.7c-34.4 25.2-76.8 40-122.7 40-114.9 0-208-93.1-208-208s93.1-208 208-208 208 93.1 208 208zm-208 144a144 144 0 1 0 0-288 144 144 0 1 0 0 288z"></path></svg>
+
+</button></form>
+      </div>
+
+      <a class="button is-link is-icon is-small" href="/pdf">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><path d="m64 0c-35.3 0-64 28.7-64 64v384c0 35.3 28.7 64 64 64h256c35.3 0 64-28.7 64-64v-288h-128c-17.7 0-32-14.3-32-32v-128zm192 0v128h128zm-144 256h160c8.8 0 16 7.2 16 16s-7.2 16-16 16h-160c-8.8 0-16-7.2-16-16s7.2-16 16-16zm0 64h160c8.8 0 16 7.2 16 16s-7.2 16-16 16h-160c-8.8 0-16-7.2-16-16s7.2-16 16-16zm0 64h160c8.8 0 16 7.2 16 16s-7.2 16-16 16h-160c-8.8 0-16-7.2-16-16s7.2-16 16-16z"></path></svg>
+
+        <span>Epaper/PDF</span>
+</a>
+      <a class="button is-link is-icon is-small" href="/newsletters">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="m96 96c0-35.3 28.7-64 64-64h288c35.3 0 64 28.7 64 64v320c0 35.3-28.7 64-64 64h-368c-44.2 0-80-35.8-80-80v-272c0-17.7 14.3-32 32-32s32 14.3 32 32v272c0 8.8 7.2 16 16 16s16-7.2 16-16zm64 24v80c0 13.3 10.7 24 24 24h112c13.3 0 24-10.7 24-24v-80c0-13.3-10.7-24-24-24h-112c-13.3 0-24 10.7-24 24zm208-8c0 8.8 7.2 16 16 16h48c8.8 0 16-7.2 16-16s-7.2-16-16-16h-48c-8.8 0-16 7.2-16 16zm0 96c0 8.8 7.2 16 16 16h48c8.8 0 16-7.2 16-16s-7.2-16-16-16h-48c-8.8 0-16 7.2-16 16zm-208 96c0 8.8 7.2 16 16 16h256c8.8 0 16-7.2 16-16s-7.2-16-16-16h-256c-8.8 0-16 7.2-16 16zm0 96c0 8.8 7.2 16 16 16h256c8.8 0 16-7.2 16-16s-7.2-16-16-16h-256c-8.8 0-16 7.2-16 16z"></path></svg>
+
+        <span>Newsletters</span>
+</a>    </div>
+
+    <a href="/" class="logo">
+      <img width="300" height="45" alt="logo letemps" src="https://letemps-17455.kxcdn.com/assets/letemps/logo-topbar-bd85d8c6801b9d3faefd2a1ac8205d879e18b97803cf0163b6f1816bf05e6184.svg" />
+    </a>
+
+    <nav class='main-nav__side main-nav__side--profil'>
+        <a class="button is-small is-secondary is-desktop" href="/abonnements">S&#39;abonner</a>
+        <a class="button is-link is-icon is-small" title="Mon compte" href="/compte/connexion">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="m224 256a128 128 0 1 0 0-256 128 128 0 1 0 0 256zm-45.7 48c-98.5 0-178.3 79.8-178.3 178.3 0 16.4 13.3 29.7 29.7 29.7h388.6c16.4 0 29.7-13.3 29.7-29.7 0-98.5-79.8-178.3-178.3-178.3z"></path></svg>
+
+          <span>Mon compte</span>
+</a>    </nav>
+  </section>
+
+    <nav class="subnav">
+    <ul role="menubar" aria-label="Menu Bar">
+      <li role="none">
+        <a role="menuitem" href="/articles">En continu</a>
+      </li>
+        <li role="none">
+          <a role="menuitem" href="https://www.letemps.ch/monde">Monde</a>
+        </li>
+        <li role="none">
+          <a role="menuitem" href="https://www.letemps.ch/suisse">Suisse</a>
+        </li>
+        <li role="none">
+          <a role="menuitem" href="https://www.letemps.ch/economie">Économie</a>
+        </li>
+        <li role="none">
+          <a role="menuitem" href="https://www.letemps.ch/opinions">Opinions</a>
+        </li>
+        <li role="none">
+          <a role="menuitem" href="https://www.letemps.ch/culture">Culture</a>
+        </li>
+        <li role="none">
+          <a role="menuitem" href="https://www.letemps.ch/societe">Société</a>
+        </li>
+        <li role="none">
+          <a role="menuitem" href="https://www.letemps.ch/sciences">Sciences</a>
+        </li>
+        <li role="none">
+          <a role="menuitem" href="https://www.letemps.ch/sport">Sport</a>
+        </li>
+        <li role="none">
+          <a role="menuitem" href="https://www.letemps.ch/data">Data</a>
+        </li>
+        <li role="none">
+          <a role="menuitem" href="https://www.letemps.ch/evenements">Événements</a>
+        </li>
+
+      <li role="none"><a href="/videos" role="menuitem">Vidéos</a></li>
+      <li role="none"><a href="/podcasts" role="menuitem">Podcasts</a></li>
+      <li role="none">
+        <a role="menuitem" title="Chappatte" href="/chappatte">
+          <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Calque_1" x="0px" y="0px" width="434.575px" height="129.019px" viewBox="0 0 434.575 129.019" enable-background="new 0 0 434.575 129.019" xml:space="preserve" class="chappatte__signature">
+<g>
+	<g>
+		<path fill-rule="evenodd" clip-rule="evenodd" d="M301.663,96.686c2.122,0.744,17.707-5.878,21.422-9.115    c2.37,1.495,2.407,3.526,0.127,4.834c-6.131,3.52-12.323,6.942-18.323,10.67c-1.916,1.189-3.922,2.966-4.739,4.946    c-0.58,1.403,0.479,3.753,1.347,5.396c0.618,1.174,2.027,1.631,3.65,0.797c3.081-1.584,6.371-2.765,9.431-4.387    c1.353-0.717,2.787-1.896,3.417-3.228c1.202-2.545,2.866-1.005,4.386-0.954c-0.256,1.284-0.151,2.838-0.858,3.786    c-0.953,1.278-2.45,2.225-3.856,3.076c-4.79,2.901-9.569,5.836-14.496,8.49c-3.729,2.009-10.562-1.849-9.99-7.298    c0.152-1.442-0.154-2.941,0.059-4.368c0.547-3.659,1.135-7.324,1.972-10.925c0.458-1.969,1.496-3.797,2.176-5.723    c0.15-0.428-0.261-1.04-0.142-1.496c0.348-1.335,1.021-2.605,1.218-3.952c0.277-1.895,2.277-3.335,0.528-5.937    c-0.812-1.209,0.753-4.619,2.031-6.491c1.903-2.787,4.508-5.096,7.303-8.141c-1.352-0.146-2.392-0.449-3.376-0.323    c-1.697,0.217-3.346,0.625-5.006-0.174c-2.855-1.374-4.842,0.871-6.751,2.091c-5.223,3.335-9.121,8.08-11.579,13.741    c-1.348,3.107-1.998,6.563-2.625,9.926c-0.849,4.549-1.656,9.141-1.945,13.748c-0.234,3.743-0.012,7.593,0.625,11.289    c0.568,3.297,1.373,3.514,4.168,1.275c0.612,4.567-3.576,8.258-7.591,6.284c-1.427-0.702-2.253-3.119-2.845-4.919    c-1.182-3.597-1.131-7.234-0.35-11.041c0.652-3.178-0.252-6.671,0.367-9.861c1.371-7.06,0.913-14.484,5.159-21.03    c1.737-2.678,3.044-5.612,5.495-7.771c0.819-0.721,1.793-1.266,2.697-1.89c0.414-0.286,0.83-0.568,1.246-0.852    c-0.479-0.328-0.979-0.964-1.433-0.933c-2.046,0.142-4.229,0.087-6.09,0.807c-5.477,2.119-10.845,4.457-15.19,8.711    c-0.781,0.765-2.998,0.062-5.096,0.029c-0.85,2.042-2.137,4.888-3.224,7.808c-1.253,3.366-2.25,6.827-3.505,10.191    c-1.19,3.194-2.548,6.308-2.053,9.857c0.464,3.324-0.938,6.832,1.161,10.057c0.317,0.488-0.608,1.953-1.19,2.808    c-0.433,0.634-1.242,1.012-1.922,1.532c-1.073-0.419-2.191-0.856-3.125-1.222c-0.132-1.412-0.233-2.767-0.39-4.115    c-0.347-3.003-1.115-6.021-0.982-8.999c0.157-3.528,0.942-7.053,1.715-10.521c0.663-2.978,1.577-5.913,2.582-8.796    c1.411-4.047,2.752-8.156,4.655-11.973c0.781-1.567,2.949-2.443,4.82-3.891c1.132-1.716,2.57-3.898,4.01-6.08    c-0.225-0.238-0.448-0.479-0.672-0.717c-5.086,1.783-10.147,3.646-15.274,5.305c-1.67,0.54-3.568,0.353-5.26,0.847    c-3.008,0.879-5.88,2.301-8.925,2.935c-1.409,0.293-3.546-0.27-4.553-1.259c-1.818-1.79-0.292-4.938,2.384-5.548    c3.81-0.87,7.608-1.793,11.429-2.619c4.054-0.875,8.139-1.61,12.188-2.512c2.964-0.659,5.862-1.639,8.842-2.197    c2.639-0.495,5.347-0.711,8.032-0.813c0.638-0.024,1.658,0.772,1.882,1.41c0.299,0.849,0.3,2.082-0.123,2.843    c-0.777,1.396-1.957,2.568-2.97,3.834c0.169,0.232,0.339,0.465,0.509,0.698c0.971-0.276,1.938-0.572,2.914-0.826    c5.402-1.402,10.775-3.742,16.221-3.93c5.763-0.198,11.789-0.851,17.547,1.263c1.62,0.595,2.45,1.103,2.556,2.858    c0.054,0.906,0.666,1.777,0.955,2.488c3.68-2.571,7.18-5.036,10.7-7.472c4.77-3.301,9.486-6.688,14.357-9.832    c4.205-2.714,8.639-5.068,12.887-7.721c2.989-1.867,5.758-4.089,8.764-5.928c4.029-2.466,8.195-4.71,12.296-7.06    c3.325-1.904,6.578-3.944,9.98-5.698c3.038-1.567,6.27-2.758,9.357-4.236c4.178-2.002,8.249-4.23,12.458-6.16    c4.814-2.207,9.682-4.315,14.612-6.242c5.021-1.963,10.123-3.732,15.245-5.416c1.602-0.526,3.385-0.5,5.085-0.727    c0.132,0.347,0.263,0.692,0.395,1.039c-1.823,0.96-3.609,2.002-5.479,2.862c-4.767,2.193-9.56,4.335-14.366,6.441    c-5.026,2.202-10.188,4.123-15.099,6.558c-6.129,3.039-12.056,6.483-18.079,9.735c-2.523,1.362-5.116,2.604-7.602,4.032    c-4.162,2.39-8.267,4.879-12.391,7.336c-4.723,2.815-9.537,5.491-14.136,8.496c-6.241,4.078-12.295,8.443-18.47,12.624    c-4.894,3.312-10.099,6.235-14.604,10.001c-1.133,0.946-3.813,2.604-2.998,5.444c0.126,0.44-0.785,1.213-1.269,1.789    c-1.979,2.366-4.146,4.643-1.657,7.993c0.348,0.469,0.048,1.417,0.048,2.354C303.598,88.054,303.825,93.104,301.663,96.686z"></path>
+		<path fill-rule="evenodd" clip-rule="evenodd" d="M121.154,116.373c0-6.63,0-13.259,0-20.017    c-0.356-0.019-1.035-0.231-1.186-0.036c-2.316,3.001-7.086,2.693-8.788,6.541c-0.21,0.474-1.037,1.053-1.479,0.979    c-2.539-0.419-3.014,1.63-4.084,3.091c-3.143,4.297-5.524,9.055-8.383,13.518c-0.722,1.126-1.982,1.95-3.101,2.768    c-1.356,0.992-2.414,0.258-3.177-0.916c-1.705-2.627-2.359-5.422-2.484-8.657c-0.247-6.369,1.226-12.431,2.442-18.531    c0.741-3.718,2.284-7.273,3.396-10.923c0.172-0.563-0.039-1.243-0.088-2.17c-5.383,3.323-10.461,6.547-15.638,9.603    c-1.663,0.982-3.57,1.564-5.392,2.262c-4.518,1.729-5.11,6.043-6.455,9.822c-1.119,3.148-2.143,6.341-3.027,9.562    c-0.934,3.396-1.684,6.846-2.448,10.285c-0.308,1.386-0.442,2.81-0.632,4.056c-1.225,0.49-2.271,0.909-3.522,1.409    c-0.655-3.291-0.14-6.352,0.488-9.674c0.51-2.696,1.616-5.321,1.727-8.171c0.067-1.732,1.285-3.413,1.939-5.135    c0.521-1.372,0.909-2.795,1.463-4.152c1.216-2.981-2.294-4.667-1.76-7.776c3.882-2.168,6.86-5.675,8.488-10.214    c1.04-2.899,1.838-5.884,2.729-8.835c0.103-0.343,0.002-0.771,0.164-1.067c3.496-6.404,4.555-13.492,5.519-20.55    c0.357-2.614,1.585-4.13,3.716-5.098c2.028-0.921,3.14-0.19,2.811,2.073c-0.48,3.3-1.35,6.548-2.136,9.797    c-0.75,3.097-1.514,6.196-2.446,9.24c-0.689,2.252-1.634,4.427-2.509,6.619c-1.252,3.138-2.576,6.246-3.774,9.403    c-0.136,0.358,0.339,0.949,0.4,1.104c4.473-1.751,8.906-3.287,13.153-5.231c2.265-1.035,4.262-2.703,6.278-4.221    c1.53-1.15,3.041-2.391,4.294-3.824c0.865-0.989,1.224-2.406,1.897-3.581c2.077-3.617,4.129-7.251,6.333-10.79    c0.856-1.376,2.452-2.229,3.773-0.927c0.81,0.799,1.176,2.464,1.079,3.688c-0.35,4.38-2.495,8.117-4.429,11.994    c-2.55,5.11-4.524,10.512-6.662,15.822c-1.426,3.543-3.2,6.984-3.938,10.755c-0.822,4.208-1.385,8.467-2.062,12.703    c0.4,0.164,0.8,0.328,1.199,0.492c1.115-1.551,2.297-3.06,3.33-4.665c1.46-2.269,3.154-4.472,4.138-6.945    c2.3-5.788,6.583-10.287,9.824-15.439c1.782-2.834,2.635-6.325,5.708-8.604c1.806-1.339,2.448-4.296,3.516-6.57    c1.188-2.532,3.383-3.718,5.847-2.814c0.568,0.208,1.215,1.075,1.265,1.685c0.275,3.37,0.44,6.753,0.504,10.135    c0.021,1.102-0.384,2.211-0.579,3.319c-0.069,0.391-0.153,0.794-0.126,1.185c0.067,0.955,0.197,1.906,0.302,2.859    c-0.22,0.1-0.44,0.2-0.661,0.301c1.032,0.631,2.063,1.262,3.56,2.176c-1.047,1.38-2.405,2.585-2.998,4.092    c-0.826,2.101-1.24,4.405-1.529,6.661c-0.242,1.883,0.11,3.839-0.091,5.732c-0.251,2.361-0.523,4.791-1.326,6.995    c-0.469,1.287-1.991,2.189-3.039,3.266C122.043,116.678,121.599,116.525,121.154,116.373z M114.473,92.565    c2.572-0.52,4.429-0.726,6.149-1.322c0.755-0.261,1.747-1.323,1.744-2.019c-0.01-2.552-0.391-5.101-0.632-7.651    c-0.223-0.082-0.444-0.164-0.667-0.246C118.977,84.891,116.886,88.453,114.473,92.565z"></path>
+		<path fill-rule="evenodd" clip-rule="evenodd" d="M59.906,94.402c-0.453,1.744-0.783,3.011-1.073,4.128    c-2.819,1.71-5.659,3.311-8.364,5.114c-1.97,1.314-3.616,3.153-5.662,4.305c-4.081,2.299-8.281,4.41-12.541,6.359    c-3.311,1.516-6.697,3.07-10.219,3.846c-2.489,0.549-5.335,0.155-7.883-0.426c-2.459-0.562-4.758-1.859-7.092-2.913    c-2.291-1.034-5.625-7.273-5.771-9.825c-0.135-2.353-0.826-4.673-1.271-7.007c-0.018-0.09-0.035-0.183-0.027-0.271    c0.195-2.591,0.373-5.184,0.607-7.771c0.055-0.604,0.416-1.185,0.44-1.785c0.295-7.013,2.24-13.503,5.134-19.927    c2.52-5.596,5.419-10.831,9.074-15.726c2.308-3.089,4.288-6.418,6.516-9.57c1.72-2.434,3.504-4.834,5.421-7.115    c3.324-3.953,6.69-7.879,10.208-11.66c1.429-1.537,3.856-2.342,4.843-4.051c1.755-3.038,4.262-4.944,7.212-6.359    c2.56-1.227,4.904-2.868,8.291-1.902c2.664,0.761,3.306,2.836,4.537,4.501c1.509,2.04,2.529,4.441,3.9,6.942    c-0.107,0.36-0.518,1.117-0.532,1.882c-0.091,4.659-0.058,9.32-0.166,13.979c-0.016,0.626-0.751,1.206-0.897,1.864    c-0.429,1.916-0.852,3.848-1.054,5.797c-0.469,4.538-0.756,9.095-1.26,13.628c-0.065,0.587-0.93,1.454-1.515,1.534    c-1.164,0.161-2.393-0.134-4.078-0.283c0.253-1.301,0.484-2.487,0.687-3.53c-0.208-0.694-0.65-1.473-0.635-2.241    c0.052-2.731,0.186-5.382,2.11-7.743c0.682-0.836,0.149-2.642,0.218-4.003c0.12-2.379,0.573-4.786,0.332-7.124    c-0.246-2.38,0.699-4.222,1.517-6.235c0.133-0.327-0.819-1.095-1.414-1.84c0.519-1.301,1.489-2.855-0.16-4.614    c-0.663-0.706-0.394-2.234-1-3.055c-3.008-4.063-7.073-4.066-10.679-0.431c-2.825,2.848-5.933,5.416-8.919,8.104    c-0.401,0.361-0.899,0.64-1.228,1.056c-4.659,5.904-9.422,11.732-13.894,17.776c-2.655,3.59-5.022,7.427-7.192,11.335    c-2.156,3.887-4.077,7.928-5.783,12.033C8.427,76.51,8.124,82.27,7.217,87.911c-0.581,3.622,0.369,6.954,0.444,10.423    c0.126,5.829,4.898,12.433,9.918,13.548c3.804,0.846,7.628,0.328,11.247-1.083c2.705-1.054,5.358-2.276,7.938-3.611    c3.866-2.001,7.636-4.187,11.47-6.252c2.11-1.138,4.297-2.136,6.395-3.296C56.329,96.7,57.947,95.612,59.906,94.402z"></path>
+		<path fill-rule="evenodd" clip-rule="evenodd" d="M218.152,85.512c-2.75,0.783-5.5,1.266-7.966,2.377    c-1.641,0.74-2.843,2.422-4.303,3.605c-0.931,0.754-2.13,1.225-2.924,2.085c-0.749,0.812-1.281,1.917-1.629,2.984    c-0.476,1.465-0.711,3.28-2.723,2.922c-3.772-0.671-4.712,2.223-6.004,4.528c-1.948,3.475-3.495,7.184-5.571,10.573    c-0.557,0.911-2.412,1.026-3.446,1.421c-0.991-1.088-1.815-1.992-2.96-3.248c1.816-2.95,3.925-6.396,6.053-9.828    c2.3-3.71,4.549-7.454,6.943-11.102c3.963-6.031,7.966-12.039,12.069-17.976c2.361-3.415,4.865-6.743,7.469-9.979    c2.646-3.287,5.59-3.172,7.771-0.668c0.741,0.851,0.883,2.275,1.157,3.469c0.768,3.345,1.58,6.686,2.133,10.067    c0.265,1.624,0.612,2.455,2.474,2.071c0.762-0.156,1.641,0.26,3.081,0.53c-0.997,1.078-1.513,1.803-2.183,2.329    c-2.086,1.642-2.881,4.554-1.918,6.952c0.384,0.956,0.674,1.996,0.76,3.019c0.419,4.948,0.827,9.901,1.081,14.859    c0.099,1.933-0.62,3.756-3.015,3.326c-0.91-0.164-2.042-1.33-2.336-2.271c-0.916-2.926-1.56-5.946-2.154-8.961    c-0.514-2.598-0.832-5.234-1.205-7.859C218.557,88.977,218.362,87.204,218.152,85.512z M217.053,81.299    c-0.661-3.656-1.247-6.898-1.875-10.371c-3.299,4.478-6.409,8.7-9.965,13.527C209.563,83.295,213.25,82.312,217.053,81.299z"></path>
+		<path fill-rule="evenodd" clip-rule="evenodd" d="M137.372,122.155c-3.361-4.185-4.221-8.802-3.837-13.599    c0.215-2.679,1.202-5.296,1.836-7.942c0.457-1.909,0.701-3.898,1.397-5.715c1.474-3.845,3.179-7.601,4.793-11.39    c0.581-1.364,0.856-3.051,1.84-4.006c1.468-1.426,2.512-2.877,3.269-4.804c0.812-2.064,2.061-4.067,3.526-5.739    c2.344-2.672,4.64-5.912,7.687-7.271c2.348-1.045,3.485-3.569,6.095-3.89c1.835-0.226,3.68-0.95,5.471-0.815    c2.169,0.165,3.347,4.443,1.958,7.004c-1.959,3.611-3.781,7.365-6.249,10.613c-2.389,3.144-5.288,6.025-8.419,8.427    c-1.599,1.226-4.198,1.146-6.684,1.735c-0.94,2.595-2.066,5.653-3.146,8.729c-0.203,0.578-0.229,1.22-0.317,1.835    c-0.424,2.979-0.667,5.995-1.304,8.928c-0.86,3.977-2.205,7.853-2.992,11.84C141.708,119.072,139.25,120.154,137.372,122.155z     M162.936,66.014c-3.48,3.297-6.511,6.375-9.121,10.452C157.46,75.969,162.685,69.873,162.936,66.014z"></path>
+		<path fill-rule="evenodd" clip-rule="evenodd" d="M178.264,83.218c-0.425,1.229-0.877,2.45-1.27,3.689    c-1.701,5.369-3.629,10.684-4.969,16.142c-0.658,2.681-0.159,5.634-0.287,8.459c-0.143,3.163-1.289,5.743-4.505,6.947    c-3.271-3.379-1.895-7.602-1.989-11.499c-0.093-3.793,0.043-7.62,0.469-11.388c0.326-2.896,1.207-5.737,1.943-8.576    c0.507-1.954,1.065-3.913,1.818-5.782c1.903-4.724,3.357-9.649,6.309-13.91c1.738-2.511,3.336-5.12,5.014-7.674    c0.141-0.215,0.398-0.375,0.634-0.504c1.885-1.038,3.767-2.085,5.671-3.088c4.367-2.301,8.603-1.72,12.139,1.477    c1.047,0.946,1.034,3.386,1.012,5.134c-0.078,5.849-3.586,10.09-6.951,14.447c-2.751,3.562-6.254,5.93-10.26,7.734    c-1.802,0.812-3.438,1.226-4.08-1.557C178.729,83.252,178.496,83.235,178.264,83.218z M187.619,76.186    c0.712-1.173,1.205-2.484,2.11-3.379c1.977-1.953,2.986-4.402,3.815-6.911c0.283-0.854,0.052-2.521-0.521-2.872    c-0.954-0.582-3.097-0.947-3.474-0.448c-1.729,2.291-6.531,1.773-5.799,6.249c0.034,0.213-0.158,0.534-0.34,0.701    c-2.55,2.329-3.137,5.326-2.902,8.582c0.042,0.582,0.153,1.432,0.526,1.646c0.402,0.231,1.251,0.021,1.729-0.276    C184.473,78.41,186.106,77.224,187.619,76.186z"></path>
+	</g>
+</g>
+</svg>
+
+</a>      </li>
+    </ul>
+  </nav>
+
+
+</header>
+
+<aside class="aside-mobile">
+  <header>
+    <span class="toggle-menu main-nav__burger-button is-link is-icon">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" class="icon"><path d="m342.6 150.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0l-105.3 105.4-105.4-105.3c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l105.4 105.3-105.3 105.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l105.3-105.4 105.4 105.3c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3l-105.4-105.3z"></path></svg>
+
+    </span>
+  </header>
+  <nav class="main-nav__nav">
+    <form class="simple_form form--search" action="/articles">
+  <input type="search" name="query" aria-label="Recherchez dans les articles" placeholder="Recherche" value="">
+  <button name="button" type="submit" class="is-icon" title="Recherche">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="icon"><path d="m416 208c0 45.9-14.9 88.3-40 122.7l126.6 126.7c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0l-126.6-126.7c-34.4 25.2-76.8 40-122.7 40-114.9 0-208-93.1-208-208s93.1-208 208-208 208 93.1 208 208zm-208 144a144 144 0 1 0 0-288 144 144 0 1 0 0 288z"></path></svg>
+
+</button></form>
+
+    <ul role="menu" aria-label="main">
+        <li role="none">
+          <a role="menuitem" class="button is-secondary" href="/abonnements">S&#39;abonner</a>
+        </li>
+      <li role="none">
+        <a role="menuitem" href="/">Accueil</a>
+      </li>
+      <li role="none">
+        <a role="menuitem" href="/articles">En continu</a>
+      </li>
+        <li role="none"><a role="menuitem" href="https://www.letemps.ch/monde">Monde</a></li>
+        <li role="none"><a role="menuitem" href="https://www.letemps.ch/suisse">Suisse</a></li>
+        <li role="none"><a role="menuitem" href="https://www.letemps.ch/economie">Économie</a></li>
+        <li role="none"><a role="menuitem" href="https://www.letemps.ch/opinions">Opinions</a></li>
+        <li role="none"><a role="menuitem" href="https://www.letemps.ch/culture">Culture</a></li>
+        <li role="none"><a role="menuitem" href="https://www.letemps.ch/societe">Société</a></li>
+        <li role="none"><a role="menuitem" href="https://www.letemps.ch/sciences">Sciences</a></li>
+        <li role="none"><a role="menuitem" href="https://www.letemps.ch/sport">Sport</a></li>
+        <li role="none"><a role="menuitem" href="https://www.letemps.ch/data">Data</a></li>
+        <li role="none"><a role="menuitem" href="https://www.letemps.ch/evenements">Événements</a></li>
+
+      <li role="none"><a href="/tags/hyperlien" role="menuitem">Hyperlien</a></li>
+
+      <li role="none"><a href="/dossiers" role="menuitem">Dossiers</a></li>
+
+      <li role="none"><a href="/grands-formats" role="menuitem">Grands formats</a></li>
+
+        <li role="none"><a role="menuitem" href="/en-images">En images</a></li>
+      <li role="none"><a href="/videos" role="menuitem">Vidéos</a></li>
+      <li role="none"><a href="/podcasts" role="menuitem">Podcasts</a></li>
+      <li role="none">
+        <a role="menuitem" title="Chappatte" href="/chappatte">
+          <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Calque_1" x="0px" y="0px" width="434.575px" height="129.019px" viewBox="0 0 434.575 129.019" enable-background="new 0 0 434.575 129.019" xml:space="preserve" class="chappatte__signature">
+<g>
+	<g>
+		<path fill-rule="evenodd" clip-rule="evenodd" d="M301.663,96.686c2.122,0.744,17.707-5.878,21.422-9.115    c2.37,1.495,2.407,3.526,0.127,4.834c-6.131,3.52-12.323,6.942-18.323,10.67c-1.916,1.189-3.922,2.966-4.739,4.946    c-0.58,1.403,0.479,3.753,1.347,5.396c0.618,1.174,2.027,1.631,3.65,0.797c3.081-1.584,6.371-2.765,9.431-4.387    c1.353-0.717,2.787-1.896,3.417-3.228c1.202-2.545,2.866-1.005,4.386-0.954c-0.256,1.284-0.151,2.838-0.858,3.786    c-0.953,1.278-2.45,2.225-3.856,3.076c-4.79,2.901-9.569,5.836-14.496,8.49c-3.729,2.009-10.562-1.849-9.99-7.298    c0.152-1.442-0.154-2.941,0.059-4.368c0.547-3.659,1.135-7.324,1.972-10.925c0.458-1.969,1.496-3.797,2.176-5.723    c0.15-0.428-0.261-1.04-0.142-1.496c0.348-1.335,1.021-2.605,1.218-3.952c0.277-1.895,2.277-3.335,0.528-5.937    c-0.812-1.209,0.753-4.619,2.031-6.491c1.903-2.787,4.508-5.096,7.303-8.141c-1.352-0.146-2.392-0.449-3.376-0.323    c-1.697,0.217-3.346,0.625-5.006-0.174c-2.855-1.374-4.842,0.871-6.751,2.091c-5.223,3.335-9.121,8.08-11.579,13.741    c-1.348,3.107-1.998,6.563-2.625,9.926c-0.849,4.549-1.656,9.141-1.945,13.748c-0.234,3.743-0.012,7.593,0.625,11.289    c0.568,3.297,1.373,3.514,4.168,1.275c0.612,4.567-3.576,8.258-7.591,6.284c-1.427-0.702-2.253-3.119-2.845-4.919    c-1.182-3.597-1.131-7.234-0.35-11.041c0.652-3.178-0.252-6.671,0.367-9.861c1.371-7.06,0.913-14.484,5.159-21.03    c1.737-2.678,3.044-5.612,5.495-7.771c0.819-0.721,1.793-1.266,2.697-1.89c0.414-0.286,0.83-0.568,1.246-0.852    c-0.479-0.328-0.979-0.964-1.433-0.933c-2.046,0.142-4.229,0.087-6.09,0.807c-5.477,2.119-10.845,4.457-15.19,8.711    c-0.781,0.765-2.998,0.062-5.096,0.029c-0.85,2.042-2.137,4.888-3.224,7.808c-1.253,3.366-2.25,6.827-3.505,10.191    c-1.19,3.194-2.548,6.308-2.053,9.857c0.464,3.324-0.938,6.832,1.161,10.057c0.317,0.488-0.608,1.953-1.19,2.808    c-0.433,0.634-1.242,1.012-1.922,1.532c-1.073-0.419-2.191-0.856-3.125-1.222c-0.132-1.412-0.233-2.767-0.39-4.115    c-0.347-3.003-1.115-6.021-0.982-8.999c0.157-3.528,0.942-7.053,1.715-10.521c0.663-2.978,1.577-5.913,2.582-8.796    c1.411-4.047,2.752-8.156,4.655-11.973c0.781-1.567,2.949-2.443,4.82-3.891c1.132-1.716,2.57-3.898,4.01-6.08    c-0.225-0.238-0.448-0.479-0.672-0.717c-5.086,1.783-10.147,3.646-15.274,5.305c-1.67,0.54-3.568,0.353-5.26,0.847    c-3.008,0.879-5.88,2.301-8.925,2.935c-1.409,0.293-3.546-0.27-4.553-1.259c-1.818-1.79-0.292-4.938,2.384-5.548    c3.81-0.87,7.608-1.793,11.429-2.619c4.054-0.875,8.139-1.61,12.188-2.512c2.964-0.659,5.862-1.639,8.842-2.197    c2.639-0.495,5.347-0.711,8.032-0.813c0.638-0.024,1.658,0.772,1.882,1.41c0.299,0.849,0.3,2.082-0.123,2.843    c-0.777,1.396-1.957,2.568-2.97,3.834c0.169,0.232,0.339,0.465,0.509,0.698c0.971-0.276,1.938-0.572,2.914-0.826    c5.402-1.402,10.775-3.742,16.221-3.93c5.763-0.198,11.789-0.851,17.547,1.263c1.62,0.595,2.45,1.103,2.556,2.858    c0.054,0.906,0.666,1.777,0.955,2.488c3.68-2.571,7.18-5.036,10.7-7.472c4.77-3.301,9.486-6.688,14.357-9.832    c4.205-2.714,8.639-5.068,12.887-7.721c2.989-1.867,5.758-4.089,8.764-5.928c4.029-2.466,8.195-4.71,12.296-7.06    c3.325-1.904,6.578-3.944,9.98-5.698c3.038-1.567,6.27-2.758,9.357-4.236c4.178-2.002,8.249-4.23,12.458-6.16    c4.814-2.207,9.682-4.315,14.612-6.242c5.021-1.963,10.123-3.732,15.245-5.416c1.602-0.526,3.385-0.5,5.085-0.727    c0.132,0.347,0.263,0.692,0.395,1.039c-1.823,0.96-3.609,2.002-5.479,2.862c-4.767,2.193-9.56,4.335-14.366,6.441    c-5.026,2.202-10.188,4.123-15.099,6.558c-6.129,3.039-12.056,6.483-18.079,9.735c-2.523,1.362-5.116,2.604-7.602,4.032    c-4.162,2.39-8.267,4.879-12.391,7.336c-4.723,2.815-9.537,5.491-14.136,8.496c-6.241,4.078-12.295,8.443-18.47,12.624    c-4.894,3.312-10.099,6.235-14.604,10.001c-1.133,0.946-3.813,2.604-2.998,5.444c0.126,0.44-0.785,1.213-1.269,1.789    c-1.979,2.366-4.146,4.643-1.657,7.993c0.348,0.469,0.048,1.417,0.048,2.354C303.598,88.054,303.825,93.104,301.663,96.686z"></path>
+		<path fill-rule="evenodd" clip-rule="evenodd" d="M121.154,116.373c0-6.63,0-13.259,0-20.017    c-0.356-0.019-1.035-0.231-1.186-0.036c-2.316,3.001-7.086,2.693-8.788,6.541c-0.21,0.474-1.037,1.053-1.479,0.979    c-2.539-0.419-3.014,1.63-4.084,3.091c-3.143,4.297-5.524,9.055-8.383,13.518c-0.722,1.126-1.982,1.95-3.101,2.768    c-1.356,0.992-2.414,0.258-3.177-0.916c-1.705-2.627-2.359-5.422-2.484-8.657c-0.247-6.369,1.226-12.431,2.442-18.531    c0.741-3.718,2.284-7.273,3.396-10.923c0.172-0.563-0.039-1.243-0.088-2.17c-5.383,3.323-10.461,6.547-15.638,9.603    c-1.663,0.982-3.57,1.564-5.392,2.262c-4.518,1.729-5.11,6.043-6.455,9.822c-1.119,3.148-2.143,6.341-3.027,9.562    c-0.934,3.396-1.684,6.846-2.448,10.285c-0.308,1.386-0.442,2.81-0.632,4.056c-1.225,0.49-2.271,0.909-3.522,1.409    c-0.655-3.291-0.14-6.352,0.488-9.674c0.51-2.696,1.616-5.321,1.727-8.171c0.067-1.732,1.285-3.413,1.939-5.135    c0.521-1.372,0.909-2.795,1.463-4.152c1.216-2.981-2.294-4.667-1.76-7.776c3.882-2.168,6.86-5.675,8.488-10.214    c1.04-2.899,1.838-5.884,2.729-8.835c0.103-0.343,0.002-0.771,0.164-1.067c3.496-6.404,4.555-13.492,5.519-20.55    c0.357-2.614,1.585-4.13,3.716-5.098c2.028-0.921,3.14-0.19,2.811,2.073c-0.48,3.3-1.35,6.548-2.136,9.797    c-0.75,3.097-1.514,6.196-2.446,9.24c-0.689,2.252-1.634,4.427-2.509,6.619c-1.252,3.138-2.576,6.246-3.774,9.403    c-0.136,0.358,0.339,0.949,0.4,1.104c4.473-1.751,8.906-3.287,13.153-5.231c2.265-1.035,4.262-2.703,6.278-4.221    c1.53-1.15,3.041-2.391,4.294-3.824c0.865-0.989,1.224-2.406,1.897-3.581c2.077-3.617,4.129-7.251,6.333-10.79    c0.856-1.376,2.452-2.229,3.773-0.927c0.81,0.799,1.176,2.464,1.079,3.688c-0.35,4.38-2.495,8.117-4.429,11.994    c-2.55,5.11-4.524,10.512-6.662,15.822c-1.426,3.543-3.2,6.984-3.938,10.755c-0.822,4.208-1.385,8.467-2.062,12.703    c0.4,0.164,0.8,0.328,1.199,0.492c1.115-1.551,2.297-3.06,3.33-4.665c1.46-2.269,3.154-4.472,4.138-6.945    c2.3-5.788,6.583-10.287,9.824-15.439c1.782-2.834,2.635-6.325,5.708-8.604c1.806-1.339,2.448-4.296,3.516-6.57    c1.188-2.532,3.383-3.718,5.847-2.814c0.568,0.208,1.215,1.075,1.265,1.685c0.275,3.37,0.44,6.753,0.504,10.135    c0.021,1.102-0.384,2.211-0.579,3.319c-0.069,0.391-0.153,0.794-0.126,1.185c0.067,0.955,0.197,1.906,0.302,2.859    c-0.22,0.1-0.44,0.2-0.661,0.301c1.032,0.631,2.063,1.262,3.56,2.176c-1.047,1.38-2.405,2.585-2.998,4.092    c-0.826,2.101-1.24,4.405-1.529,6.661c-0.242,1.883,0.11,3.839-0.091,5.732c-0.251,2.361-0.523,4.791-1.326,6.995    c-0.469,1.287-1.991,2.189-3.039,3.266C122.043,116.678,121.599,116.525,121.154,116.373z M114.473,92.565    c2.572-0.52,4.429-0.726,6.149-1.322c0.755-0.261,1.747-1.323,1.744-2.019c-0.01-2.552-0.391-5.101-0.632-7.651    c-0.223-0.082-0.444-0.164-0.667-0.246C118.977,84.891,116.886,88.453,114.473,92.565z"></path>
+		<path fill-rule="evenodd" clip-rule="evenodd" d="M59.906,94.402c-0.453,1.744-0.783,3.011-1.073,4.128    c-2.819,1.71-5.659,3.311-8.364,5.114c-1.97,1.314-3.616,3.153-5.662,4.305c-4.081,2.299-8.281,4.41-12.541,6.359    c-3.311,1.516-6.697,3.07-10.219,3.846c-2.489,0.549-5.335,0.155-7.883-0.426c-2.459-0.562-4.758-1.859-7.092-2.913    c-2.291-1.034-5.625-7.273-5.771-9.825c-0.135-2.353-0.826-4.673-1.271-7.007c-0.018-0.09-0.035-0.183-0.027-0.271    c0.195-2.591,0.373-5.184,0.607-7.771c0.055-0.604,0.416-1.185,0.44-1.785c0.295-7.013,2.24-13.503,5.134-19.927    c2.52-5.596,5.419-10.831,9.074-15.726c2.308-3.089,4.288-6.418,6.516-9.57c1.72-2.434,3.504-4.834,5.421-7.115    c3.324-3.953,6.69-7.879,10.208-11.66c1.429-1.537,3.856-2.342,4.843-4.051c1.755-3.038,4.262-4.944,7.212-6.359    c2.56-1.227,4.904-2.868,8.291-1.902c2.664,0.761,3.306,2.836,4.537,4.501c1.509,2.04,2.529,4.441,3.9,6.942    c-0.107,0.36-0.518,1.117-0.532,1.882c-0.091,4.659-0.058,9.32-0.166,13.979c-0.016,0.626-0.751,1.206-0.897,1.864    c-0.429,1.916-0.852,3.848-1.054,5.797c-0.469,4.538-0.756,9.095-1.26,13.628c-0.065,0.587-0.93,1.454-1.515,1.534    c-1.164,0.161-2.393-0.134-4.078-0.283c0.253-1.301,0.484-2.487,0.687-3.53c-0.208-0.694-0.65-1.473-0.635-2.241    c0.052-2.731,0.186-5.382,2.11-7.743c0.682-0.836,0.149-2.642,0.218-4.003c0.12-2.379,0.573-4.786,0.332-7.124    c-0.246-2.38,0.699-4.222,1.517-6.235c0.133-0.327-0.819-1.095-1.414-1.84c0.519-1.301,1.489-2.855-0.16-4.614    c-0.663-0.706-0.394-2.234-1-3.055c-3.008-4.063-7.073-4.066-10.679-0.431c-2.825,2.848-5.933,5.416-8.919,8.104    c-0.401,0.361-0.899,0.64-1.228,1.056c-4.659,5.904-9.422,11.732-13.894,17.776c-2.655,3.59-5.022,7.427-7.192,11.335    c-2.156,3.887-4.077,7.928-5.783,12.033C8.427,76.51,8.124,82.27,7.217,87.911c-0.581,3.622,0.369,6.954,0.444,10.423    c0.126,5.829,4.898,12.433,9.918,13.548c3.804,0.846,7.628,0.328,11.247-1.083c2.705-1.054,5.358-2.276,7.938-3.611    c3.866-2.001,7.636-4.187,11.47-6.252c2.11-1.138,4.297-2.136,6.395-3.296C56.329,96.7,57.947,95.612,59.906,94.402z"></path>
+		<path fill-rule="evenodd" clip-rule="evenodd" d="M218.152,85.512c-2.75,0.783-5.5,1.266-7.966,2.377    c-1.641,0.74-2.843,2.422-4.303,3.605c-0.931,0.754-2.13,1.225-2.924,2.085c-0.749,0.812-1.281,1.917-1.629,2.984    c-0.476,1.465-0.711,3.28-2.723,2.922c-3.772-0.671-4.712,2.223-6.004,4.528c-1.948,3.475-3.495,7.184-5.571,10.573    c-0.557,0.911-2.412,1.026-3.446,1.421c-0.991-1.088-1.815-1.992-2.96-3.248c1.816-2.95,3.925-6.396,6.053-9.828    c2.3-3.71,4.549-7.454,6.943-11.102c3.963-6.031,7.966-12.039,12.069-17.976c2.361-3.415,4.865-6.743,7.469-9.979    c2.646-3.287,5.59-3.172,7.771-0.668c0.741,0.851,0.883,2.275,1.157,3.469c0.768,3.345,1.58,6.686,2.133,10.067    c0.265,1.624,0.612,2.455,2.474,2.071c0.762-0.156,1.641,0.26,3.081,0.53c-0.997,1.078-1.513,1.803-2.183,2.329    c-2.086,1.642-2.881,4.554-1.918,6.952c0.384,0.956,0.674,1.996,0.76,3.019c0.419,4.948,0.827,9.901,1.081,14.859    c0.099,1.933-0.62,3.756-3.015,3.326c-0.91-0.164-2.042-1.33-2.336-2.271c-0.916-2.926-1.56-5.946-2.154-8.961    c-0.514-2.598-0.832-5.234-1.205-7.859C218.557,88.977,218.362,87.204,218.152,85.512z M217.053,81.299    c-0.661-3.656-1.247-6.898-1.875-10.371c-3.299,4.478-6.409,8.7-9.965,13.527C209.563,83.295,213.25,82.312,217.053,81.299z"></path>
+		<path fill-rule="evenodd" clip-rule="evenodd" d="M137.372,122.155c-3.361-4.185-4.221-8.802-3.837-13.599    c0.215-2.679,1.202-5.296,1.836-7.942c0.457-1.909,0.701-3.898,1.397-5.715c1.474-3.845,3.179-7.601,4.793-11.39    c0.581-1.364,0.856-3.051,1.84-4.006c1.468-1.426,2.512-2.877,3.269-4.804c0.812-2.064,2.061-4.067,3.526-5.739    c2.344-2.672,4.64-5.912,7.687-7.271c2.348-1.045,3.485-3.569,6.095-3.89c1.835-0.226,3.68-0.95,5.471-0.815    c2.169,0.165,3.347,4.443,1.958,7.004c-1.959,3.611-3.781,7.365-6.249,10.613c-2.389,3.144-5.288,6.025-8.419,8.427    c-1.599,1.226-4.198,1.146-6.684,1.735c-0.94,2.595-2.066,5.653-3.146,8.729c-0.203,0.578-0.229,1.22-0.317,1.835    c-0.424,2.979-0.667,5.995-1.304,8.928c-0.86,3.977-2.205,7.853-2.992,11.84C141.708,119.072,139.25,120.154,137.372,122.155z     M162.936,66.014c-3.48,3.297-6.511,6.375-9.121,10.452C157.46,75.969,162.685,69.873,162.936,66.014z"></path>
+		<path fill-rule="evenodd" clip-rule="evenodd" d="M178.264,83.218c-0.425,1.229-0.877,2.45-1.27,3.689    c-1.701,5.369-3.629,10.684-4.969,16.142c-0.658,2.681-0.159,5.634-0.287,8.459c-0.143,3.163-1.289,5.743-4.505,6.947    c-3.271-3.379-1.895-7.602-1.989-11.499c-0.093-3.793,0.043-7.62,0.469-11.388c0.326-2.896,1.207-5.737,1.943-8.576    c0.507-1.954,1.065-3.913,1.818-5.782c1.903-4.724,3.357-9.649,6.309-13.91c1.738-2.511,3.336-5.12,5.014-7.674    c0.141-0.215,0.398-0.375,0.634-0.504c1.885-1.038,3.767-2.085,5.671-3.088c4.367-2.301,8.603-1.72,12.139,1.477    c1.047,0.946,1.034,3.386,1.012,5.134c-0.078,5.849-3.586,10.09-6.951,14.447c-2.751,3.562-6.254,5.93-10.26,7.734    c-1.802,0.812-3.438,1.226-4.08-1.557C178.729,83.252,178.496,83.235,178.264,83.218z M187.619,76.186    c0.712-1.173,1.205-2.484,2.11-3.379c1.977-1.953,2.986-4.402,3.815-6.911c0.283-0.854,0.052-2.521-0.521-2.872    c-0.954-0.582-3.097-0.947-3.474-0.448c-1.729,2.291-6.531,1.773-5.799,6.249c0.034,0.213-0.158,0.534-0.34,0.701    c-2.55,2.329-3.137,5.326-2.902,8.582c0.042,0.582,0.153,1.432,0.526,1.646c0.402,0.231,1.251,0.021,1.729-0.276    C184.473,78.41,186.106,77.224,187.619,76.186z"></path>
+	</g>
+</g>
+</svg>
+
+</a>      </li>
+
+      <li role="separator"></li>
+      <li role="none"><a role="menuitem" href="/pdf">Epaper/PDF</a></li>
+      <li role="none"><a role="menuitem" href="/newsletters">Newsletters</a></li>
+      <li role="none"><a href="/tags/t-le-magazine-du-temps" role="menuitem">Magazine T</a></li>
+      <li role="none"><a href="https://jim.media/e-paper/" target="_blank" rel="noopener" role="menuitem">Le Journal de l'Immobilier</a></li>
+      <li role="none"><a role="menuitem" href="/blogs">Blogs</a></li>
+      <li role="none"><a role="menuitem" href="/archive">Archives</a></li>
+      <li role="none"><a href="https://www.letempsarchives.ch/" role="menuitem" target="_blank" rel="noopener">Archives historiques</a></li>
+
+      <li role="separator"></li>
+      <li role="none"><a role="menuitem" href="/abonnements">Abonnements</a></li>
+      <li role="none"><a href="http://events.letemps.ch/privileges" target="_blank" role="menuitem">Services aux abonnés</a></li>
+      <li role="none"><a role="menuitem" href="/questions-frequentes">Questions fréquentes</a></li>
+
+      <li role="separator"></li>
+      <li role="none"><a href="https://publicite.letemps.ch/" target="_blank" rel="noopener" role="menuitem">Régie Publicitaire</a></li>
+      <li role="none"><a href="https://publicite.letemps.ch/avis-de-deces/" target="_blank" rel="noopener" role="menuitem">Avis de décès</a></li>
+    </ul>
+    <ul role="menu" aria-label="secondary" class="is-grey">
+      <li role="none"><a href="/a-propos" role="menuitem">À propos</a></li>
+      <li role="none"><a role="menuitem" href="/impressum">Impressum</a></li>
+      <li role="none"><a role="menuitem" href="/communication">Communication</a></li>
+      <li role="none"><a role="menuitem" href="/emplois">Emplois</a></li>
+    </ul>
+  </nav>
+</aside>
+
+
+
+
+
+      <div class="topad">
+    <div id="adnz_wideboard_1">
+      
+    </div>
+
+    <div class="adnz__placeholder">
+      <span class="badge">Publicité</span>
+    </div>
+  </div>
+
+    
+
+
+    
+<main class="post-show ">
+  <section class="main-grid">
+    
+  <script type="application/ld+json">
+{"@context":"http://schema.org","@type":"NewsArticle","headline":"Le «New York Times» poursuit en justice Microsoft et OpenAI pour violation des droits d’auteur","url":"https://www.letemps.ch/economie/cyber/le-new-york-times-poursuit-en-justice-microsoft-et-openai-pour-violation-des-droits-d-auteur","image":"https://letemps-17455.kxcdn.com/photos/8e3eed21-4a3a-4379-8330-536c168d87f3/large","datePublished":"2023-12-27T16:19:46.249+01:00","dateModified":"2023-12-27T18:41:41.575+01:00","description":"Le grand quotidien new-yorkais accuse l’éditeur le principal investisseur de ChatGPT d’avoir utilisé des millions d’articles pour entraîner le logiciel d’intelligence artificielle sans autorisation. Il estime le préjudice subi à «plusieurs milliards de dollars»","articleSection":"Cyber","articleBody":"ChatGPT remet-il en question le droit d’auteur? La question était soulevée par des artistes, traducteurs et écrivains, qui s’estimaient copiés par l’intelligence artificielle (IA) générative, c’est au tour du _New York Times_ de porter l’affaire devant les tribunaux américains.\n\nLe quotidien américain a lancé mercredi des poursuites, auprès d’un tribunal fédéral à New York, à l’encontre d’OpenAI, créateur du logiciel ChatGPT, ainsi que de Microsoft, son principal investisseur, pour violation des droits d’auteur.\n\n**Lire aussi:** [Intelligence artificielle: l’accord européen est historique, mais le plus dur est à venir](https://www.letemps.ch/economie/cyber/intelligence-artificielle-l-accord-europeen-est-historique-mais-le-plus-dur-est-a-venir)\n\nEn cause, selon la plainte, le modèle de développement des IA génératives, et en particulier ChatGPT, qui «repose sur des modèles d’apprentissage massif construits en copiant et en utilisant des millions d’articles du _Times_ protégés par les droits d’auteur».\n\n### Une «importance particulière» donnée aux contenus du «Times»\n\n«Comme la plainte l’explique, Microsoft et OpenAI ont utilisé notre travail pour développer et commercialiser leurs produits d’IA générative sans avoir la permission du _Times_», a déclaré à l’AFP une porte-parole du quotidien estimant qu’il s’agit bien d’une «violation des droits d’auteur en termes de contenu et de travail journalistique».\n\nEt les conséquences financières ne sont pas négligeables, estime le quotidien, qui considère que le préjudice subi, dans les faits comme d’un point de vue légal, représente «plusieurs milliards de dollars». Interrogés par l’AFP, ni Microsoft ni OpenAI n’ont pour l’heure fait de commentaire.\n\n**Lire aussi:** [Comment ChatGPT a bouleversé le monde en douze mois: sept points pour comprendre](https://www.letemps.ch/economie/comment-chatgpt-a-bouleverse-le-monde-en-douze-mois-sept-points-pour-comprendre)\n\nPreuve, selon le _NY Times_, que les développeurs de ChatGPT ont parfaitement conscience de la «valeur du travail» réalisé par ses journalistes, ils «ont donné aux contenus du _Times_ une importance particulière dans la construction de leur modèle d’apprentissage».\n\nOr, comme le rappelle le quotidien, «pour produire du journalisme de qualité, le _Times_ investit énormément de temps, d’argent, d’expertise et de talent, tant dans sa rédaction que dans l’ensemble des fonctions et technologie de support».\n\n### Brèche potentielle\n\nMais si «le _Times_ et ses pairs ne peuvent pas contrôler l’usage de leurs contenus, c’est leur capacité à les monétiser qui sera remis en question. Avec moins de revenus, ces organisations auront moins de journalistes disponibles», entraînant une baisse tant de la qualité que de la quantité de la production rédactionnelle.\n\nLe journal assure cependant avoir voulu éviter d’en arriver à la confrontation judiciaire avec Microsoft et OpenAI, en ayant cherché à négocier un accord permettant de «recevoir une compensation adéquate pour l’utilisation de ses contenus».\n\n**Lire aussi:** [Le pacte entre OpenAI et Axel Springer s’annonce tragique](https://www.letemps.ch/opinions/le-pacte-entre-openai-et-axel-springer-s-annonce-tragique)\n\nOpenAI s’est d’ores et déjà entendu avec le groupe de médias allemand Axel Springer, cependant l’accord ne concerne pas l’utilisation des contenus des médias du groupe pour entraîner son IA générative mais l’intégration de ces contenus dans les réponses aux requêtes des utilisateurs de ChatGPT.\n\nEn l’espèce, l’action en justice du _New York Times_ pourrait ouvrir une brèche et représenter une potentielle nouvelle source de revenus pour les médias partout dans le monde.\n\n### Course effrénée\n\nCar les IA génératives, qu’il s’agisse de textes ou d’images produits en réponses à des requêtes écrites, comme ChatGPT ou Midjourney, sont construites sur un algorithme entraîné grâce à l’immense quantité de données disponibles en ligne, notamment via les réseaux sociaux, le plus souvent sans l’autorisation de leurs créateurs.\n\nOr, depuis le lancement de ChatGPT, il y a un an, les géants de la Silicon Valley se livrent une course effrénée en la matière, pour développer des outils permettant de créer des textes, images ou lignes de code d’un niveau équivalent à ceux produits par des humains, augmentant de fait l’usage de ces contenus pour y parvenir.\n\n**Lire également:** [Faut-il réguler ou non l’intelligence artificielle? Un débat explosif débute en Suisse](https://www.letemps.ch/economie/faut-il-reguler-ou-non-l-intelligence-artificielle-un-debat-explosif-debute-en-suisse)\n\nDes voix se sont élevées pour dénoncer l’usage de leur production afin de développer des outils capables de les créer. D’ores et déjà des illustrateurs se retrouvent concurrencés par ces IA génératives entraînées grâce à leur producteur et qui sont utilisés désormais pour illustrer des publicités par exemple.\n\n### Actions de groupe\n\nPlusieurs auteurs de livres à succès, dont l’auteur de «Game of Thrones» George R.R. Martin, ont lancé une action de groupe contre OpenAI, l’accusant d’avoir violé leurs droits d’auteur.\n\nEt d’autres entreprises, à commencer par les majors du secteur musical, en ont fait de même contre l’entreprise Anthropic, qu’ils accusent d’avoir utilisé les paroles de chansons pour développer son IA générative musicale.\n\n«Les lois sur les droits d’auteur protègent notre journalisme. Si Microsoft et OpenAI veulent utiliser notre travail pour un usage commercial, la loi les oblige à demander d’abord la permission. Ils ne l’ont pas fait», a insisté une porte-parole du _New York Times_.\n\n","creator":"Le Temps avec l’AFP","author":[{"@type":"Person","name":"Le Temps avec l’AFP"}],"keywords":["Intelligence artificielle","Free"],"mainEntityOfPage":{"@type":"WebPage","@id":"https://www.letemps.ch/economie/cyber/le-new-york-times-poursuit-en-justice-microsoft-et-openai-pour-violation-des-droits-d-auteur"},"publisher":{"@type":"Organization","name":"Le Temps SA","url":"https://www.letemps.ch","email":"info@letemps.ch","telephone":"+41 58 269 29 00","logo":{"@type":"ImageObject","url":"https://letemps-17455.kxcdn.com/assets/letemps/icons/logo-06f3de7972456a2ab0e6f991160516f385c81ffb684cfbedb001b9ec2c75b224.png"}}}
 </script>
-  <!--[if IE 8]>
-  <style type="text/css" media="all">
-  @import url("https://lejournal.cnrs.fr/sites/all/themes/cnrs/css/ie8.css?n16wet");
-  </style>
-  <![endif]-->
-  <!--[if gte IE 9]>
-    <style type="text/css">
-      .gradient {
-         filter: none;
-      }
-    </style>
-  <![endif]-->
-
-  <!-- Matomo -->
-  <script type="text/javascript">
-    var _paq = window._paq = window._paq || [];
-    _paq.push(['trackPageView']);
-    _paq.push(['enableLinkTracking']);
-
-    (function() {
-      var u="https://stats.lejournal.cnrs.fr/";
-      _paq.push(['setTrackerUrl', u+'matomo.php']);
-      _paq.push(['setSiteId', '1']);
-
-      // Add this code below within the Matomo JavaScript tracker code
-      // Important: the tracker url includes the /matomo.php
-      var secondaryTrackerUrl = 'https://www.statistiques.cnrs.fr//matomo.php';
-      var secondaryWebsiteId = 34;
-      // Also send all of the tracking data to this other Matomo server, in website ID 34 (CNRS statistiques).
-      _paq.push(['addTracker', secondaryTrackerUrl, secondaryWebsiteId]);
-      // That's it!
-      
-      var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-      g.type='text/javascript'; g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
-    })();
-  </script>
-  <!-- End Matomo Code -->
 
 
-</head>
-<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-2979 node-type-article role-anonymous-user with-subnav section-articles"  >
-  <div id="skip">
-    <a href="#tabs-zone">Accéder à la navigation</a>
-  </div>
+
+
+  <article class="post post-default  "
+        data-ariato="Article.ScrollyTelling">
+  <nav aria-label="Breadcrumb" class="breadcrumb">
+  <ol>
+    <li><a href="/">Accueil</a></li>
+
+
+            <li><a href="https://www.letemps.ch/economie">Économie</a></li>
+          <li><a href="https://www.letemps.ch/economie/cyber">Cyber</a></li>
+
+  </ol>
+</nav>
+
+  <header class="post__header">
     
-  <div id="page-wrapper">
-<div id="page" class="page with-navigation">
-  <div id="header-wrapper">    
-  
-    <!-- /header-mobile -->
-      
-    <div id="header-mobile" class="clearfix">
-      <div id="logo-mobile" class="left">
-        <a href="/" title="Accueil" rel="home">Accueil</a>
+
+
+    <h1 class="post__title">Le «New York Times» poursuit en justice Microsoft et OpenAI pour violation des droits d’auteur</h1>
+
+
+      <div class="post__lead">
+        <p>Le grand quotidien new-yorkais accuse l’éditeur le principal investisseur de ChatGPT d’avoir utilisé des millions d’articles pour entraîner le logiciel d’intelligence artificielle sans autorisation. Il estime le préjudice subi à «plusieurs milliards de dollars»</p>
       </div>
-      <div id="flag-mobile" class="left">
-        <a class="en-link" title="Read in English" href="https://news.cnrs.fr/articles/athenan-a-multi-champion-ai"><img src="/sites/all/themes/cnrs/images/gb.svg"></a>      </div>
-      
-      <div id="link-menu-mobile" class="right">
-        <a class="link-menu-mobile"><span class="line"></span><span class="line"></span><span class="line"></span></a>
-      </div> 
-    </div> 
-  
-    <!-- /toggle -->
-    <div class="toggle">
-            
-                <div id="mobile-not-logged" class="clearfix">
-            <div  class="left">
-              <a href="/user/login" class="mobile-favoris">Se connecter</a>            </div>
-            <div class="right">
-              <a href="/user/register" class="mobile-favoris">S&#039;inscrire</a>            </div>
-          </div>
-            
-      
-      
-      
-      <!-- /menu-mobile-wrapper -->
-      <div id="recherche-mobile">
-        <form id="mobile-hf-form" class="inline-block"  action="/recherche" method="get" accept-charset="UTF-8">
-          <input class="input" type="text" placeholder="Rechercher" id="mobile-search-keywords" name="keywords" value="">
-          <button class="submit icon-loop" type="submit" value="Submit"></button>
-        </form>
-      </div>
-      <div id="menu-mobile-wrapper">
-        <div class="menu-mobile-theme">
-          <div class="menu-mobile-title">Thèmes</div> 
-          <div class="menu-block-wrapper menu-block-11 menu-name-menu-menu-thematique parent-mlid-0 menu-level-1">
-  <ul class="menu"><li class="first leaf menu-mlid-717 vivant mid-717"><a href="/vivant" title="">Vivant</a></li>
-<li class="leaf menu-mlid-1200 mati-re mid-1200"><a href="/matiere" title="">Matière</a></li>
-<li class="leaf menu-mlid-1204 num-rique mid-1204"><a href="/numerique" title="">Numérique</a></li>
-<li class="leaf menu-mlid-1201 soci-t-s mid-1201"><a href="/societes" title="">Sociétés</a></li>
-<li class="leaf menu-mlid-1203 terre mid-1203"><a href="/terre" title="">Terre</a></li>
-<li class="last leaf menu-mlid-1202 univers mid-1202"><a href="/univers" title="">Univers</a></li>
-</ul></div>
-        </div> 
-        <div class="menu-mobile-format">
-          <div class="menu-mobile-title">Formats</div> 
-          <div class="menu-block-wrapper menu-block-2 menu-name-menu-menu-types parent-mlid-0 menu-level-1">
-  <ul class="menu"><li class="first leaf menu-mlid-829 articles mid-829"><a href="/articles" class="icon menuIcon-article">Articles</a></li>
-<li class="leaf menu-mlid-831 audios mid-831"><a href="/audios" class="icon menuIcon-audio">Audios</a></li>
-<li class="leaf menu-mlid-834 diaporamas mid-834"><a href="/diaporamas" class="icon menuIcon-diaporama">Diaporamas</a></li>
-<li class="leaf menu-mlid-836 dossiers mid-836"><a href="/dossiers" class="icon menuIcon-dossier">Dossiers</a></li>
-<li class="leaf menu-mlid-833 infographies mid-833"><a href="/infographies" class="icon menuIcon-infographie">Infographies</a></li>
-<li class="leaf menu-mlid-835 points-de-vue mid-835"><a href="/billets" class="icon menuIcon-billet">Points de vue</a></li>
-<li class="last leaf menu-mlid-832 vid-os mid-832"><a href="/videos" class="icon menuIcon-video">Vidéos</a></li>
-</ul></div>
-        </div> 
-      </div> 
-          </div>
-    <div class="gauche-header">
-      <div id="logo">
-        <a href="/" title="Accueil" rel="home">
-          <img src="/sites/all/themes/cnrs/images/logo.svg" alt="CNRS Le Journal" title="CNRS Le Journal"/>
-        </a>
-      </div>
-      <div id="site-slogan">Donner du sens à la science</div>
-    </div>
-    <div id="header" class="clearfix">
-      <div class="droite-header">
-        <div id="header-top">
-            <div id="header-top-region">
-                        </div>
-        </div>
-        
-        <div id="menu-primaires">
-            <div class="region region-header-middle">
-    <div id="block-block-7" class="block block-block block-odd first clearfix">
-  <div class="block-inner">
-
-            
-
-    <div class="content" >
-      <p><a class="fondation-link" href="https://fondation-cnrs.org/" target="_blank" title="Faites un don pour la recherche !"><img src="/sites/all/themes/cnrs/images/logofondation.svg" /></a></p>
-    </div>
-
-  </div>
-</div> <!-- /block-inner /block --><div id="block-menu_block-9" class="block block-menu-block block-even clearfix">
-  <div class="block-inner">
-
-              <h3 class="block-title">Suivre</h3>
-        
-
-    <div class="content" >
-      <div class="menu-block-wrapper menu-block-9 menu-name-menu-header-nous-suivre parent-mlid-0 menu-level-1">
-  <ul class="menu"><li class="first leaf menu-mlid-1004 twitter mid-1004"><a href="https://twitter.com/CNRS" title="">Twitter</a></li>
-<li class="leaf menu-mlid-1005 facebook mid-1005"><a href="https://www.facebook.com/cnrs.fr" title="">Facebook</a></li>
-<li class="leaf menu-mlid-1006 google mid-1006"><a href="https://plus.google.com/115315735435752766476/posts" title="">Google</a></li>
-<li class="leaf menu-mlid-1008 dailymotion mid-1008"><a href="http://www.dailymotion.com/CNRS" title="">Dailymotion</a></li>
-<li class="last leaf menu-mlid-2747 rss mid-2747"><a href="/rss">RSS</a></li>
-</ul></div>
-    </div>
-
-  </div>
-</div> <!-- /block-inner /block --><div id="block-menu_block-8" class="block block-menu-block block-odd last clearfix">
-  <div class="block-inner">
-
-            
-
-    <div class="content" >
-      <div class="menu-block-wrapper menu-block-8 menu-name-menu-menu-header parent-mlid-0 menu-level-1">
-  <ul class="menu"><li class="first leaf menu-mlid-1002 rechercher mid-1002"><a href="/recherche" title="">Rechercher</a></li>
-<li class="leaf menu-mlid-1001 se-connecter mid-1001"><a href="/user/login?destination=node/2979" title="">Se connecter</a></li>
-<li class="leaf menu-mlid-1000 s-inscrire mid-1000"><a href="/user/register?destination=node/2979" title="">S&#039;inscrire</a></li>
-<li class="leaf menu-mlid-1589 mon-compte mid-1589"><a href="/user">Mon compte</a></li>
-<li class="last leaf menu-mlid-2999 id-nos-blogs mid-2999"><a href="/nos-blogs"> Nos blogs</a></li>
-</ul></div>
-    </div>
-
-  </div>
-</div> <!-- /block-inner /block -->  </div>
-          <div class="english-version">
-            <a class="english-link" href="https://news.cnrs.fr" target="_blank">English version<span class="ext"></span></a>
-            <a class="covid-link" href="https://lejournal.cnrs.fr/dossiers/covid-19-anatomie-dune-epidemie">Dossier spécial Covid-19</a>
-          </div>
-        </div>
-
-        <div id="tabs-zone" class="clearfix">
-          <div id="tabs-actions">
-              <div class="region region-header-bottom">
-    <div id="block-om_maximenu-om-maximenu-1" class="block block-om-maximenu block-odd first last clearfix">
-  <div class="block-inner">
-
-            
-
-    <div class="content" >
-       
-
-  <div id="om-maximenu-om-menu-principal" class="om-maximenu om-maximenu-no-style om-maximenu-block om-maximenu-row om-maximenu-block-down code-om-u1-834724759">     
-            
-
-<div id="om-menu-om-menu-principal-ul-wrapper" class="om-menu-ul-wrapper">
-  <ul id="om-menu-om-menu-principal" class="om-menu">
-                  
-
-   
-  <li id="om-leaf-om-u1-834724759-1" class="om-leaf first leaf-vivant">   
-    <a  class="om-link icon menuicon-vivant link-vivant" href="/vivant">Vivant</a>      
- 
-
-      
-  </li>
-  
-    
-  
-
-  
-          
-                  
-
-   
-  <li id="om-leaf-om-u1-834724759-2" class="om-leaf leaf-mati-re">   
-    <a  class="om-link icon menuicon-matiere link-mati-re" href="/matiere">Matière</a>      
- 
-
-      
-  </li>
-  
-    
-  
-
-  
-          
-                  
-
-   
-  <li id="om-leaf-om-u1-834724759-3" class="om-leaf leaf-soci-t-s">   
-    <a  class="om-link icon menuicon-societes link-soci-t-s" href="/societes">Sociétés</a>      
- 
-
-      
-  </li>
-  
-    
-  
-
-  
-          
-                  
-
-   
-  <li id="om-leaf-om-u1-834724759-4" class="om-leaf leaf-univers">   
-    <a  class="om-link icon menuicon-univers link-univers" href="/univers">Univers</a>      
- 
-
-      
-  </li>
-  
-    
-  
-
-  
-          
-                  
-
-   
-  <li id="om-leaf-om-u1-834724759-5" class="om-leaf leaf-terre">   
-    <a  class="om-link icon menuicon-terre link-terre" href="/terre">Terre</a>      
- 
-
-      
-  </li>
-  
-    
-  
-
-  
-          
-                  
-
-   
-  <li id="om-leaf-om-u1-834724759-6" class="om-leaf leaf-num-rique">   
-    <a  class="om-link icon menuicon-numerique link-num-rique" href="/numerique">Numérique</a>      
- 
-
-      
-  </li>
-  
-    
-  
-
-  
-          
-                  
-
-   
-  <li id="om-leaf-om-u1-834724759-8" class="om-leaf leaf-mes-th-mes">   
-    <a href="javascript:void(0)" class="om-link  link-mes-th-mes" >Mes thèmes</a>      
-  <div class="om-maximenu-content om-maximenu-content-nofade closed">
-    <div class="om-maximenu-top">
-      <div class="om-maximenu-top-left"></div>
-      <div class="om-maximenu-top-right"></div>
-    </div><!-- /.om-maximenu-top --> 
-    <div class="om-maximenu-middle">
-      <div class="om-maximenu-middle-left">
-        <div class="om-maximenu-middle-right">
-           
-
-<div class="block block-block block-block-id-1 first">           
-      <div class="content"><h4>Personnalisez votre navigation</h4>
-<p>Sélectionnez vos mots clefs ou thématiques favorites et créez votre rubrique personnalisée</p>
-</div>
-  </div><!-- /.block -->
-
-
-
-
-
- 
-
-<div class="block block-menu_block block-menu_block-id-10">           
-      <div class="content"><div class="menu-block-wrapper menu-block-10 menu-name-menu-om-menu-themes parent-mlid-0 menu-level-1">
-  <ul class="menu"><li class="first leaf menu-mlid-1042 cr-er-un-compte mid-1042"><a href="/user/register?destination=node/2979">Créer un compte</a></li>
-<li class="last leaf menu-mlid-1041 se-connecter mid-1041"><a href="/user/login?destination=node/2979">Se connecter</a></li>
-</ul></div>
-</div>
-  </div><!-- /.block -->
-
-
-
-
-
- 
-
-<div class="block block-erbac_propal block-erbac_propal-id-user_fav last">           
-      <div class="content"></div>
-  </div><!-- /.block -->
-
-
-
-
-
-          <div class="om-clearfix"></div>
-        </div><!-- /.om-maximenu-middle-right --> 
-      </div><!-- /.om-maximenu-middle-left --> 
-    </div><!-- /.om-maximenu-middle --> 
-    <div class="om-maximenu-bottom">
-      <div class="om-maximenu-bottom-left"></div>
-      <div class="om-maximenu-bottom-right"></div>
-    </div><!-- /.om-maximenu-bottom -->  
-    <div class="om-maximenu-arrow"></div>
-    <div class="om-maximenu-open">
-      <input type="checkbox" value="" />
-      Stay    </div><!-- /.om-maximenu-open -->  
-  </div><!-- /.om-maximenu-content -->  
- 
-
-      
-  </li>
-  
-    
-  
-
-  
-          
-                  
-
-   
-  <li id="om-leaf-om-u1-834724759-7" class="om-leaf last leaf-types">   
-    <a href="javascript:void(0)" class="om-link types link-types" >Types</a>      
-  <div class="om-maximenu-content om-maximenu-content-nofade closed">
-    <div class="om-maximenu-top">
-      <div class="om-maximenu-top-left"></div>
-      <div class="om-maximenu-top-right"></div>
-    </div><!-- /.om-maximenu-top --> 
-    <div class="om-maximenu-middle">
-      <div class="om-maximenu-middle-left">
-        <div class="om-maximenu-middle-right">
-           
-
-<div class="block block-menu_block block-menu_block-id-2 first last">           
-      <div class="content"><div class="menu-block-wrapper menu-block-2 menu-name-menu-menu-types parent-mlid-0 menu-level-1">
-  <ul class="menu"><li class="first leaf menu-mlid-829 articles mid-829"><a href="/articles" class="icon menuIcon-article">Articles</a></li>
-<li class="leaf menu-mlid-831 audios mid-831"><a href="/audios" class="icon menuIcon-audio">Audios</a></li>
-<li class="leaf menu-mlid-834 diaporamas mid-834"><a href="/diaporamas" class="icon menuIcon-diaporama">Diaporamas</a></li>
-<li class="leaf menu-mlid-836 dossiers mid-836"><a href="/dossiers" class="icon menuIcon-dossier">Dossiers</a></li>
-<li class="leaf menu-mlid-833 infographies mid-833"><a href="/infographies" class="icon menuIcon-infographie">Infographies</a></li>
-<li class="leaf menu-mlid-835 points-de-vue mid-835"><a href="/billets" class="icon menuIcon-billet">Points de vue</a></li>
-<li class="last leaf menu-mlid-832 vid-os mid-832"><a href="/videos" class="icon menuIcon-video">Vidéos</a></li>
-</ul></div>
-</div>
-  </div><!-- /.block -->
-
-
-
-
-
-          <div class="om-clearfix"></div>
-        </div><!-- /.om-maximenu-middle-right --> 
-      </div><!-- /.om-maximenu-middle-left --> 
-    </div><!-- /.om-maximenu-middle --> 
-    <div class="om-maximenu-bottom">
-      <div class="om-maximenu-bottom-left"></div>
-      <div class="om-maximenu-bottom-right"></div>
-    </div><!-- /.om-maximenu-bottom -->  
-    <div class="om-maximenu-arrow"></div>
-    <div class="om-maximenu-open">
-      <input type="checkbox" value="" />
-      Stay    </div><!-- /.om-maximenu-open -->  
-  </div><!-- /.om-maximenu-content -->  
- 
-
-      
-  </li>
-  
-    
-  
-
-  
-          
-      </ul><!-- /.om-menu -->    
-</div><!-- /.om-menu-ul-wrapper -->   
-
-
-
-      </div><!-- /#om-maximenu-[menu name] -->   
-
-
-    </div>
-
-  </div>
-</div> <!-- /block-inner /block -->  </div>
-          </div>
+        <figure class="post__cover is-16-9" data-ariato="Article.Cover">
+    <picture>
+        <source type="image/avif" media="(min-width: 720px)" data-srcset="https://letemps-17455.kxcdn.com/photos/8e3eed21-4a3a-4379-8330-536c168d87f3/large.avif 1x, https://letemps-17455.kxcdn.com/photos/8e3eed21-4a3a-4379-8330-536c168d87f3/giant.avif 2x">
+  <source type="image/avif" media="(min-width: 480px)" data-srcset="https://letemps-17455.kxcdn.com/photos/8e3eed21-4a3a-4379-8330-536c168d87f3/medium.avif 1x, https://letemps-17455.kxcdn.com/photos/8e3eed21-4a3a-4379-8330-536c168d87f3/large.avif 2x">
+  <source type="image/avif" media="(min-width: 240px)" data-srcset="https://letemps-17455.kxcdn.com/photos/8e3eed21-4a3a-4379-8330-536c168d87f3/small.avif 1x, https://letemps-17455.kxcdn.com/photos/8e3eed21-4a3a-4379-8330-536c168d87f3/medium.avif 2x">
+  <source type="image/webp" media="(min-width: 720px)" data-srcset="https://letemps-17455.kxcdn.com/photos/8e3eed21-4a3a-4379-8330-536c168d87f3/large.webp 1x, https://letemps-17455.kxcdn.com/photos/8e3eed21-4a3a-4379-8330-536c168d87f3/giant.webp 2x">
+  <source type="image/webp" media="(min-width: 480px)" data-srcset="https://letemps-17455.kxcdn.com/photos/8e3eed21-4a3a-4379-8330-536c168d87f3/medium.webp 1x, https://letemps-17455.kxcdn.com/photos/8e3eed21-4a3a-4379-8330-536c168d87f3/large.webp 2x">
+  <source type="image/webp" media="(min-width: 240px)" data-srcset="https://letemps-17455.kxcdn.com/photos/8e3eed21-4a3a-4379-8330-536c168d87f3/small.webp 1x, https://letemps-17455.kxcdn.com/photos/8e3eed21-4a3a-4379-8330-536c168d87f3/medium.webp 2x">
+  <source type="image/jpeg" media="(min-width: 720px)" data-srcset="https://letemps-17455.kxcdn.com/photos/8e3eed21-4a3a-4379-8330-536c168d87f3/large.jpg 1x, https://letemps-17455.kxcdn.com/photos/8e3eed21-4a3a-4379-8330-536c168d87f3/giant.jpg 2x">
+  <source type="image/jpeg" media="(min-width: 480px)" data-srcset="https://letemps-17455.kxcdn.com/photos/8e3eed21-4a3a-4379-8330-536c168d87f3/medium.jpg 1x, https://letemps-17455.kxcdn.com/photos/8e3eed21-4a3a-4379-8330-536c168d87f3/large.jpg 2x">
+  <source type="image/jpeg" media="(min-width: 240px)" data-srcset="https://letemps-17455.kxcdn.com/photos/8e3eed21-4a3a-4379-8330-536c168d87f3/small.jpg 1x, https://letemps-17455.kxcdn.com/photos/8e3eed21-4a3a-4379-8330-536c168d87f3/medium.jpg 2x">
+
+      <img data-src="https://letemps-17455.kxcdn.com/photos/8e3eed21-4a3a-4379-8330-536c168d87f3/small" class="lazy" alt="Le patron de Microsoft, Satya Nadella (à droite), et celui d’OpenAI, Sam Altman, à San Francisco le 6 novembre 2023. — © AP Photo/Barbara Ortutay" />
+    </picture>
+      <figcaption>Le patron de Microsoft, Satya Nadella (à droite), et celui d’OpenAI, Sam Altman, à San Francisco le 6 novembre 2023. — © AP Photo/Barbara Ortutay</figcaption>
+  </figure>
+
+  </header>
+
+  <div class="post__content ">
+    <div class="post__authors">
+      <div class="post__author post__author--with-picture">
+          <a href="/profil/le-temps-avec-l-afp">
+            <figure class="avatar is-1-1" data-ariato="Article.Cover">
+              <picture>
+                <img data-src="https://letemps-17455.kxcdn.com/photos/fc7bc700-e924-46b5-b7fd-7187bdad7726/small" class="lazy" alt="Le Temps avec l’AFP" title="Le Temps avec l’AFP"/>
+              </picture>
+            </figure>
+</a>        <div class="post__author__text">
+          <span class="row">
+            <a href="/profil/le-temps-avec-l-afp">
+              Le Temps avec l’AFP
+</a>          </span>
         </div>
       </div>
-    </div>
-  </div>
+</div>
+
+    <div class="row">
+      <time class="post__publication-date">Publié le 27 décembre 2023 à 16:19. / Modifié le 27 décembre 2023 à 18:41.</time>
+      <div class="post__buttons">
+        <ul>
+  <li>
+    <a target="_blank" href="mailto:?subject=Le Temps %3A Le %C2%ABNew York Times%C2%BB poursuit en justice Microsoft et OpenAI pour violation des droits d%E2%80%99auteur&amp;body=Cet article vous est recommand%C3%A9 %3A%0A%0ALe %C2%ABNew York Times%C2%BB poursuit en justice Microsoft et OpenAI pour violation des droits d%E2%80%99auteur%0Ahttps%3A%2F%2Fwww.letemps.ch%2Feconomie%2Fcyber%2Fle-new-york-times-poursuit-en-justice-microsoft-et-openai-pour-violation-des-droits-d-auteur%3Futm_medium%3Dpartage-social%26utm_source%3Dmail" class="icon-link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="icon icon--social"><title>Partager cet article par email</title><path d="m48 64c-26.5 0-48 21.5-48 48 0 15.1 7.1 29.3 19.2 38.4l217.6 163.2c11.4 8.5 27 8.5 38.4 0l217.6-163.2c12.1-9.1 19.2-23.3 19.2-38.4 0-26.5-21.5-48-48-48zm-48 112v208c0 35.3 28.7 64 64 64h384c35.3 0 64-28.7 64-64v-208l-217.6 163.2c-22.8 17.1-54 17.1-76.8 0z"></path></svg>
+
+    </a>
+  </li>   
   
-  <div id="header-fixe">
-    
-    <div class="wrapper clearfix">
-      <div class="left">
-        <a id="hf-logo" href="/" title="Accueil" rel="home">
-         <img src="/sites/all/themes/cnrs/images/logo.svg" alt="CNRS Le Journal" title="CNRS Le Journal"/>
-        </a>
-        <a id="hf-haut-page" href="#" title="Haut de page"><i class="icon-arrowtop"></i>Haut de page</a>
-        <a class="en-link" title="Read in English" href="https://news.cnrs.fr/articles/athenan-a-multi-champion-ai"><img src="/sites/all/themes/cnrs/images/gb.svg">Read in English</a>        <a id="hf-nos-blogs" href="/nos-blogs" title="Nos blogs">Nos blogs</a>
-      </div>
-      <div class="right">
-        <form id="hf-form" class="inline-block"  action="/recherche" method="get" accept-charset="UTF-8">
-          <input class="input" type="text" placeholder="Rechercher" id="search-keywords" name="keywords" value="">
-          <button class="submit icon-loop" type="submit" value="Submit"></button>
-        </form>
-        
-                <div id="hf-partage" class="inline-block">
-          <a href="#" class="hf-title">Partager l'article</a>
-          <div class="hf-content">
-            <a href="https://twitter.com/intent/tweet?url=https%3A//lejournal.cnrs.fr/articles/athenan-une-ia-joueuse-multi-championne" title="Partager sur Twitter" target="_blank"><i class="icon icon-twitter"></i></a>
-            <a href="http://www.facebook.com/sharer/sharer.php?s=100&amp;p%5Burl%5D=https%3A//lejournal.cnrs.fr/articles/athenan-une-ia-joueuse-multi-championne&amp;p%5Btitle%5D=Ath%C3%A9nan%2C%20une%20IA%20joueuse%20multi-championne&amp;p%5Bimages%5D%5B0%5D=https%3A//lejournal.cnrs.fr/sites/default/files/styles/lightbox-hd/public/assets/images/adobestock_271413703_72dpi.jpg%3Fitok%3DiX6gHdSX&amp;p%5Bsummary%5D=Zoom%20sur%20un%20syst%C3%A8me%20fran%C3%A7ais%20qui%20a%20rafl%C3%A9%20la%20mise%20lors%20de%20la%20r%C3%A9cente%2024e%20Computer%20Olympiad%2C%20une%20comp%C3%A9tition%20mondiale%20multijeux%20pour%20intelligences%20artificielles." title="Partager sur Facebook" target="_blank"><i class="icon icon-facebook"></i></a>
-           
-          </div>
-        </div>
-      </div>
-    </div>  </div>
-  <div id="article-aside" class="sticked">
-    <div class="content">
-      <a href="#" class="expand">
-        <i class="icon icon-arrowright"></i>
-        <i class="icon icon-arrowleft"></i>
-        <i class="icon icon-arrowbottom"></i>
-        <i class="icon icon-arrowtop"></i>
-      </a>
-      <div class="header">
-      </div>
-      <h3 class="expand">Sections</h3>
-    </div>
-    <div class="footer">
-    </div>
-  </div>
+  <li>
+    <a target="_blank" href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.letemps.ch%2Feconomie%2Fcyber%2Fle-new-york-times-poursuit-en-justice-microsoft-et-openai-pour-violation-des-droits-d-auteur%3Futm_medium%3Dpartage-social%26utm_source%3Dlinkedin" class="icon-link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="icon icon--social"><title>Partager cet article sur Linkedin</title><path d="m100.28 448h-92.88v-299.1h92.88zm-46.49-339.9c-29.7 0-53.79-24.6-53.79-54.3a53.79 53.79 0 0 1 107.58 0c0 29.7-24.1 54.3-53.79 54.3zm394.11 339.9h-92.68v-145.6c0-34.7-.7-79.2-48.29-79.2-48.29 0-55.69 37.7-55.69 76.7v148.1h-92.78v-299.1h89.08v40.8h1.3c12.4-23.5 42.69-48.3 87.88-48.3 94 0 111.28 61.9 111.28 142.3v164.3z"></path></svg>
 
-  <div id="content-wrapper">
-    <div id="content-top-wrapper">
-      <div id="content-top">
-        <div class="niveau-0">
-          <div class="wrapper clearfix">
-            <div class="left">
-              <h6 class="element-invisible">Vous êtes ici</h6><div class="breadcrumb"><a href="/">Accueil</a> / <a href="/articles">Articles</a> / <a href="/articles/athenan-une-ia-joueuse-multi-championne" class="active">Athénan, une IA joueuse multi-championne</a></div>            </div>
-          </div>
-        </div>
-                <h1 class="title">Athénan, une IA joueuse multi-championne</h1>
-          
-              </div>
-    </div>
+    </a>
+  </li>
 
-    
-    <div id="content">
-      
-      
-                  
-              <div class="tabs"></div>
-      
-            
-      <div id="content-area">
-          <div class="region region-content">
-    <div id="block-views-dossier_bandeau-block" class="block block-views block-odd first clearfix">
-  <div class="block-inner">
+  <li>
+    <a target="_blank" href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.letemps.ch%2Feconomie%2Fcyber%2Fle-new-york-times-poursuit-en-justice-microsoft-et-openai-pour-violation-des-droits-d-auteur%3Futm_medium%3Dpartage-social%26utm_source%3Dfacebook" class="icon-link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512" class="icon icon--social"><title>Partager cet article sur Facebook</title><path d="m279.14 288 14.22-92.66h-88.91v-60.13c0-25.35 12.42-50.06 52.24-50.06h40.42v-78.89s-36.68-6.26-71.75-6.26c-73.22 0-121.08 44.38-121.08 124.72v70.62h-81.39v92.66h81.39v224h100.17v-224z"></path></svg>
 
-            
-
-    <div class="content" >
-      <div class="view view-dossier-bandeau view-id-dossier_bandeau view-display-id-block view-dom-id-bc5a5f8628ff17dca291559c9db1eac3">
-            <div class="view-header">
-      <div class="left format-wrapper">
-<div class="format-dossier">Dossier</div>
-</div>
-<div class="left date-wrapper">
-<div class="dossier-paru">Paru le <span class="date-display-single">04.01.2022</span></div>
-<div class="dossier-maj"></div>
-</div>
-<div class="left title-wrapper">
-<div class="dossier-titre">Comment l’intelligence artificielle va changer nos vies</div>
-</div>
-    </div>
+    </a>
+  </li>
   
+  <li>
+    <a target="_blank" href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.letemps.ch%2Feconomie%2Fcyber%2Fle-new-york-times-poursuit-en-justice-microsoft-et-openai-pour-violation-des-droits-d-auteur%3Futm_medium%3Dpartage-social%26utm_source%3Dtwitter&amp;text=Le+%C2%ABNew+York+Times%C2%BB+poursuit+en+justice+Microsoft+et+OpenAI+pour+violation+des+droits+d%E2%80%99auteur+%7C+via+%40letemps" class="icon-link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="icon icon--social"><title>Partager cet article sur Twitter</title><!--! Font Awesome Pro 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"></path></svg>
+
+    </a>
+  </li>
   
-  
-      <div class="view-content">
-            <div class="bandeau-dossier-header views-row">
-      <a href="/dossiers/comment-lintelligence-artificielle-va-changer-nos-vies" class="icon">Voir le dossier</a>    </div>
-    <div class="views-row views-row-1 views-row-odd views-row-first">
-      
-  <div class="views-field views-field-type article">        <span class="field-content">Article</span>  </div>  
-  <div class="views-field views-field-field-visuel-principal">        <div class="field-content"><a href="/articles/lart-et-larcheologie-nouveaux-horizons-de-lia"><div  class="asset-wrapper asset aid-7021 asset-image">
+  <li>
+    <span class="icon-link" data-ariato="CopyToClipboard" data-value="https://www.letemps.ch/economie/cyber/le-new-york-times-poursuit-en-justice-microsoft-et-openai-pour-violation-des-droits-d-auteur?utm_medium=partage-social&amp;utm_source=copylink">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" class="icon icon--social"><title>Partager un lien vers cet article</title><path d="m579.8 267.7c56.5-56.5 56.5-148 0-204.5-50-50-128.8-56.5-186.3-15.4l-1.6 1.1c-14.4 10.3-17.7 30.3-7.4 44.6s30.3 17.7 44.6 7.4l1.6-1.1c32.1-22.9 76-19.3 103.8 8.6 31.5 31.5 31.5 82.5 0 114l-112.2 112.4c-31.5 31.5-82.5 31.5-114 0-27.9-27.9-31.5-71.8-8.6-103.8l1.1-1.6c10.3-14.4 6.9-34.4-7.4-44.6s-34.4-6.9-44.6 7.4l-1.1 1.6c-41.2 57.4-34.7 136.2 15.3 186.2 56.5 56.5 148 56.5 204.5 0zm-519.6-23.4c-56.5 56.5-56.5 148 0 204.5 50 50 128.8 56.5 186.3 15.4l1.6-1.1c14.4-10.3 17.7-30.3 7.4-44.6s-30.3-17.7-44.6-7.4l-1.6 1.1c-32.1 22.9-76 19.3-103.8-8.6-31.5-31.6-31.5-82.6 0-114.1l112.2-112.3c31.5-31.5 82.5-31.5 114 0 27.9 27.9 31.5 71.8 8.6 103.9l-1.1 1.6c-10.3 14.4-6.9 34.4 7.4 44.6s34.4 6.9 44.6-7.4l1.1-1.6c41.2-57.5 34.7-136.3-15.3-186.3-56.5-56.5-148-56.5-204.5 0z"></path></svg>
 
-<div class="content">
-  
-  <img src="https://lejournal.cnrs.fr/sites/default/files/styles/vignettes-billet-conseil_dossier-bandeau/public/assets/images/sea-at-night-1861_72dpi_0.jpg?itok=Z0H-A3rg" width="212" height="140" alt="" title=" ©Wikiart" /></div>
-</div>
-</a></div>  </div>  
-  <div class="views-field views-field-title">        <span class="field-content"><a href="/articles/lart-et-larcheologie-nouveaux-horizons-de-lia">L’art et l’archéologie, nouveaux horizons de l’IA</a></span>  </div>  </div>
-    <div class="views-row views-row-2 views-row-even">
-      
-  <div class="views-field views-field-type article">        <span class="field-content">Article</span>  </div>  
-  <div class="views-field views-field-field-visuel-principal">        <div class="field-content"><a href="/articles/quand-lia-sattaque-a-la-sclerose-en-plaques"><div  class="asset-wrapper asset aid-7391 asset-image">
+    </span>
+  </li>
 
-<div class="content">
-  
-  <img src="https://lejournal.cnrs.fr/sites/default/files/styles/vignettes-billet-conseil_dossier-bandeau/public/assets/images/vp_nih_cadrage_vp.jpg?itok=SK-Sitmp" width="212" height="140" alt="" title=" ©Govind Bhagavatheeshwaran, Daniel Reich / NINDS / NIH" /></div>
-</div>
-</a></div>  </div>  
-  <div class="views-field views-field-title">        <span class="field-content"><a href="/articles/quand-lia-sattaque-a-la-sclerose-en-plaques">Quand l’IA s’attaque à la sclérose en plaques</a></span>  </div>  </div>
-    <div class="views-row views-row-3 views-row-odd">
-      
-  <div class="views-field views-field-type article">        <span class="field-content">Article</span>  </div>  
-  <div class="views-field views-field-field-visuel-principal">        <div class="field-content"><a href="/articles/des-logiciels-experts-en-diagnostic-medical"><div  class="asset-wrapper asset aid-3798 asset-image">
-
-<div class="content">
-  
-  <img src="https://lejournal.cnrs.fr/sites/default/files/styles/vignettes-billet-conseil_dossier-bandeau/public/assets/images/brain-scan_72dpi.jpg?itok=Ar5lK6hD" width="212" height="140" alt="" title=" ©AdobeStock" /></div>
-</div>
-</a></div>  </div>  
-  <div class="views-field views-field-title">        <span class="field-content"><a href="/articles/des-logiciels-experts-en-diagnostic-medical">Des logiciels experts en diagnostic médical</a></span>  </div>  </div>
-    <div class="views-row views-row-4 views-row-even">
-      
-  <div class="views-field views-field-type article">        <span class="field-content">Article</span>  </div>  
-  <div class="views-field views-field-field-visuel-principal">        <div class="field-content"><a href="/articles/peut-faire-confiance-a-lintelligence-artificielle"><div  class="asset-wrapper asset aid-3782 asset-image">
-
-<div class="content">
-  
-  <img src="https://lejournal.cnrs.fr/sites/default/files/styles/vignettes-billet-conseil_dossier-bandeau/public/assets/images/cc_259229_72dpi.jpg?itok=7P9TLjwl" width="212" height="140" alt="" title=" ©COLLECTION CHRISTOPHE L" /></div>
-</div>
-</a></div>  </div>  
-  <div class="views-field views-field-title">        <span class="field-content"><a href="/articles/peut-faire-confiance-a-lintelligence-artificielle">Peut-on faire confiance à  l&#039;intelligence artificielle ?</a></span>  </div>  </div>
-    <div class="views-row views-row-5 views-row-odd">
-      
-  <div class="views-field views-field-type article">        <span class="field-content">Article</span>  </div>  
-  <div class="views-field views-field-field-visuel-principal">        <div class="field-content"><a href="/articles/lia-traque-le-harcelement-en-ligne"><div  class="asset-wrapper asset aid-4498 asset-image">
-
-<div class="content">
-  
-  <img src="https://lejournal.cnrs.fr/sites/default/files/styles/vignettes-billet-conseil_dossier-bandeau/public/assets/images/adobestock_195159096_rec.jpg?itok=DlNHb04S" width="212" height="140" alt="" title=" ©Good Studio/Stock.Adobe.com" /></div>
-</div>
-</a></div>  </div>  
-  <div class="views-field views-field-title">        <span class="field-content"><a href="/articles/lia-traque-le-harcelement-en-ligne">L’IA traque le harcèlement en ligne</a></span>  </div>  </div>
-    <div class="views-row views-row-6 views-row-even">
-      
-  <div class="views-field views-field-type article">        <span class="field-content">Article</span>  </div>  
-  <div class="views-field views-field-field-visuel-principal">        <div class="field-content"><a href="/articles/six-scenarios-dun-monde-sans-travail"><div  class="asset-wrapper asset aid-4156 asset-image">
-
-<div class="content">
-  
-  <img src="https://lejournal.cnrs.fr/sites/default/files/styles/vignettes-billet-conseil_dossier-bandeau/public/assets/images/trepalium_ville_72dpi.jpg?itok=B7LT6VyH" width="212" height="140" alt="" title=" ©ARTE France/KELIJA" /></div>
-</div>
-</a></div>  </div>  
-  <div class="views-field views-field-title">        <span class="field-content"><a href="/articles/six-scenarios-dun-monde-sans-travail">Six scénarios d&#039;un monde sans travail</a></span>  </div>  </div>
-    <div class="views-row views-row-7 views-row-odd">
-      
-  <div class="views-field views-field-type article">        <span class="field-content">Article</span>  </div>  
-  <div class="views-field views-field-field-visuel-principal">        <div class="field-content"><a href="/articles/a-lusine-au-bureau-tous-remplaces-par-des-robots"><div  class="asset-wrapper asset aid-4150 asset-image">
-
-<div class="content">
-  
-  <img src="https://lejournal.cnrs.fr/sites/default/files/styles/vignettes-billet-conseil_dossier-bandeau/public/assets/images/cc_real_humans_tv_2012_004.jpg?itok=7qENd3Eb" width="212" height="140" alt="" title=" ©Johan Paulin/COLLECTION CHRISTOPHEL" /></div>
-</div>
-</a></div>  </div>  
-  <div class="views-field views-field-title">        <span class="field-content"><a href="/articles/a-lusine-au-bureau-tous-remplaces-par-des-robots">À l’usine, au bureau, tous remplacés par des robots?</a></span>  </div>  </div>
-    <div class="views-row views-row-8 views-row-even">
-      
-  <div class="views-field views-field-type article">        <span class="field-content">Article</span>  </div>  
-  <div class="views-field views-field-field-visuel-principal">        <div class="field-content"><a href="/articles/une-ia-juge-de-beaute-des-poissons-tropicaux"><div  class="asset-wrapper asset aid-7562 asset-image">
-
-<div class="content">
-  
-  <img src="https://lejournal.cnrs.fr/sites/default/files/styles/vignettes-billet-conseil_dossier-bandeau/public/assets/images/montage2_vp.jpg?itok=eSSuaDuL" width="212" height="140" alt="" title=" ©Georgette Douwma / Naturepl.fr / EB Photo ; © Ross Armstrong / Age Fotostock" /></div>
-</div>
-</a></div>  </div>  
-  <div class="views-field views-field-title">        <span class="field-content"><a href="/articles/une-ia-juge-de-beaute-des-poissons-tropicaux">Une IA, juge de beauté des poissons tropicaux</a></span>  </div>  </div>
-    <div class="views-row views-row-9 views-row-odd">
-      
-  <div class="views-field views-field-type billet">        <span class="field-content">Point de vue</span>  </div>  
-  <div class="views-field views-field-field-visuel-principal">        <div class="field-content"><a href="/billets/le-robot-un-animal-comme-les-autres"><div  class="asset-wrapper asset aid-4765 asset-image">
-
-<div class="content">
-  
-  <img src="https://lejournal.cnrs.fr/sites/default/files/styles/vignettes-billet-conseil_dossier-bandeau/public/assets/images/cc_wall_e_08_16_72dpi.jpg?itok=Y9NEDCV7" width="212" height="140" alt="" title=" © ® Walt Disney Pictures / Pixar Animation Studios /Collection Christophe L" /></div>
-</div>
-</a></div>  </div>  
-  <div class="views-field views-field-title">        <span class="field-content"><a href="/billets/le-robot-un-animal-comme-les-autres">Le robot, un «animal» comme les autres ?</a></span>  </div>  </div>
-    <div class="views-row views-row-10 views-row-even">
-      
-  <div class="views-field views-field-type article">        <span class="field-content">Article</span>  </div>  
-  <div class="views-field views-field-field-visuel-principal">        <div class="field-content"><a href="/articles/des-machines-enfin-intelligentes"><div  class="asset-wrapper asset aid-3716 asset-image">
-
-<div class="content">
-  
-  <img src="https://lejournal.cnrs.fr/sites/default/files/styles/vignettes-billet-conseil_dossier-bandeau/public/assets/images/shutterstock_769492795_72dpi_0.jpg?itok=C5VRjerr" width="212" height="140" alt="" title=" ©EVANNOVOSTRO/SHUTTERSTOCK" /></div>
-</div>
-</a></div>  </div>  
-  <div class="views-field views-field-title">        <span class="field-content"><a href="/articles/des-machines-enfin-intelligentes">Des machines enfin intelligentes ? </a></span>  </div>  </div>
-    <div class="views-row views-row-11 views-row-odd">
-      
-  <div class="views-field views-field-type article">        <span class="field-content">Article</span>  </div>  
-  <div class="views-field views-field-field-visuel-principal">        <div class="field-content"><a href="/articles/des-voitures-autonomes-sans-frontieres"><div  class="asset-wrapper asset aid-2620 asset-image">
-
-<div class="content">
-  
-  <img src="https://lejournal.cnrs.fr/sites/default/files/styles/vignettes-billet-conseil_dossier-bandeau/public/assets/images/gcdc3_ret.jpg?itok=-i5azWfC" width="212" height="140" alt="Voiture autonome" title=" ©HEUDIASYC" /></div>
-</div>
-</a></div>  </div>  
-  <div class="views-field views-field-title">        <span class="field-content"><a href="/articles/des-voitures-autonomes-sans-frontieres">Des voitures autonomes sans frontières ?</a></span>  </div>  </div>
-    <div class="views-row views-row-12 views-row-even">
-      
-  <div class="views-field views-field-type billet">        <span class="field-content">Point de vue</span>  </div>  
-  <div class="views-field views-field-field-visuel-principal">        <div class="field-content"><a href="/billets/voitures-autonomes-par-quoi-serez-vous-choques"><div  class="asset-wrapper asset aid-3562 asset-image">
-
-<div class="content">
-  
-  <img src="https://lejournal.cnrs.fr/sites/default/files/styles/vignettes-billet-conseil_dossier-bandeau/public/assets/images/fotolia_80882423_72dpi.jpg?itok=IWZ7JaKa" width="212" height="140" alt="" title=" ©C. MÜLLER/FOTOLIA" /></div>
-</div>
-</a></div>  </div>  
-  <div class="views-field views-field-title">        <span class="field-content"><a href="/billets/voitures-autonomes-par-quoi-serez-vous-choques">Voitures autonomes: par quoi serez-vous choqués ?</a></span>  </div>  </div>
-    <div class="views-row views-row-13 views-row-odd">
-      
-  <div class="views-field views-field-type billet">        <span class="field-content">Point de vue</span>  </div>  
-  <div class="views-field views-field-field-visuel-principal">        <div class="field-content"><a href="/billets/armes-letales-autonomes-de-quoi-parle-t"><div  class="asset-wrapper asset aid-3869 asset-image">
-
-<div class="content">
-  
-  <img src="https://lejournal.cnrs.fr/sites/default/files/styles/vignettes-billet-conseil_dossier-bandeau/public/assets/images/adobestock_125086179_converti.jpg?itok=1j9SduKq" width="212" height="140" alt="" title=" ©Chocolatefather/Adobe Stock" /></div>
-</div>
-</a></div>  </div>  
-  <div class="views-field views-field-title">        <span class="field-content"><a href="/billets/armes-letales-autonomes-de-quoi-parle-t">Armes létales autonomes: de quoi parle-t-on?</a></span>  </div>  </div>
-    <div class="views-row views-row-14 views-row-even">
-      
-  <div class="views-field views-field-type article">        <span class="field-content">Article</span>  </div>  
-  <div class="views-field views-field-field-visuel-principal">        <div class="field-content"><a href="/articles/demain-un-ordinateur-inspire-de-notre-cerveau"><div  class="asset-wrapper asset aid-3749 asset-image">
-
-<div class="content">
-  
-  <img src="https://lejournal.cnrs.fr/sites/default/files/styles/vignettes-billet-conseil_dossier-bandeau/public/assets/images/fotolia_143172470_72dpi.jpg?itok=idUKrFcj" width="212" height="140" alt="" title=" ©S. TARASOV/FOTOLIA" /></div>
-</div>
-</a></div>  </div>  
-  <div class="views-field views-field-title">        <span class="field-content"><a href="/articles/demain-un-ordinateur-inspire-de-notre-cerveau">Demain, un ordinateur inspiré de notre cerveau?</a></span>  </div>  </div>
-    <div class="views-row views-row-15 views-row-odd">
-      
-  <div class="views-field views-field-type article">        <span class="field-content">Article</span>  </div>  
-  <div class="views-field views-field-field-visuel-principal">        <div class="field-content"><a href="/articles/la-justice-a-lheure-des-algorithmes-et-du-big-data"><div  class="asset-wrapper asset aid-3239 asset-image">
-
-<div class="content">
-  
-  <img src="https://lejournal.cnrs.fr/sites/default/files/styles/vignettes-billet-conseil_dossier-bandeau/public/assets/images/fotolia_107752767_72dpi.jpg?itok=fwnDfNIp" width="212" height="140" alt="" title=" ©THE LIGHTWRITER/FOTOLIA.COM" /></div>
-</div>
-</a></div>  </div>  
-  <div class="views-field views-field-title">        <span class="field-content"><a href="/articles/la-justice-a-lheure-des-algorithmes-et-du-big-data">La justice à l’heure des algorithmes et du big data</a></span>  </div>  </div>
-    <div class="views-row views-row-16 views-row-even">
-      
-  <div class="views-field views-field-type article">        <span class="field-content">Article</span>  </div>  
-  <div class="views-field views-field-field-visuel-principal">        <div class="field-content"><a href="/articles/les-androides-de-la-saga-alien-sont-ils-pour-2093"><div  class="asset-wrapper asset aid-5060 asset-image">
-
-<div class="content">
-  
-  <img src="https://lejournal.cnrs.fr/sites/default/files/styles/vignettes-billet-conseil_dossier-bandeau/public/assets/images/cc_prometheus_2012_041_72dpi.jpg?itok=ux-XSvcd" width="212" height="140" alt="" title=" © ® Dune Entertainment / Scott Free Productions/ Collection ChristopheL" /></div>
-</div>
-</a></div>  </div>  
-  <div class="views-field views-field-title">        <span class="field-content"><a href="/articles/les-androides-de-la-saga-alien-sont-ils-pour-2093">Les androïdes de la saga Alien sont-ils pour 2093 ?</a></span>  </div>  </div>
-    <div class="views-row views-row-17 views-row-odd">
-      
-  <div class="views-field views-field-type billet">        <span class="field-content">Point de vue</span>  </div>  
-  <div class="views-field views-field-field-visuel-principal">        <div class="field-content"><a href="/billets/jeu-de-go-lordinateur-plus-fort-que-lhumain"><div  class="asset-wrapper asset aid-2341 asset-image">
-
-<div class="content">
-  
-  <img src="https://lejournal.cnrs.fr/sites/default/files/styles/vignettes-billet-conseil_dossier-bandeau/public/assets/images/42-27702470_72dpi.jpg?itok=OAdoS8fw" width="212" height="140" alt="Jeu de Go" title=" ©BLUE JEAN IMAGES/CORBIS" /></div>
-</div>
-</a></div>  </div>  
-  <div class="views-field views-field-title">        <span class="field-content"><a href="/billets/jeu-de-go-lordinateur-plus-fort-que-lhumain">Jeu de go : l’ordinateur plus fort que l’humain?</a></span>  </div>  </div>
-    <div class="views-row views-row-18 views-row-even views-row-last">
-      
-  <div class="views-field views-field-type billet">        <span class="field-content">Point de vue</span>  </div>  
-  <div class="views-field views-field-field-visuel-principal">        <div class="field-content"><a href="/billets/traduire-comme-joue-au-go"><div  class="asset-wrapper asset aid-2803 asset-image">
-
-<div class="content">
-  
-  <img src="https://lejournal.cnrs.fr/sites/default/files/styles/vignettes-billet-conseil_dossier-bandeau/public/assets/images/tradvp_120350824_72dpi.jpg?itok=5IZRg6zW" width="212" height="140" alt="" title=" ©M.YEMELYANOV/FOTOLIA.COM" /></div>
-</div>
-</a></div>  </div>  
-  <div class="views-field views-field-title">        <span class="field-content"><a href="/billets/traduire-comme-joue-au-go">Traduire comme on joue au Go ?</a></span>  </div>  </div>
-    </div>
-  
-  
-  
-  
-  
-  
-</div>    </div>
-
-  </div>
-</div> <!-- /block-inner /block --><div id="block-system-main" class="block block-system block-even last clearfix">
-  <div class="block-inner">
-
-            
-
-    <div class="content" >
-      <article id="node-2979" class="node node-article node-odd">
-
-   
-  <div class="content">
-  
-      <!-- BREADCRUMB + FLAGS + COMMENT COUNT -->
-    <div class="niveau-0">
-      <div class="wrapper clearfix">
-        <div class="left">
-          <h6 class="element-invisible">Vous êtes ici</h6><div class="breadcrumb"><a href="/">Accueil</a> / <a href="/articles">Articles</a> / <a href="/articles/athenan-une-ia-joueuse-multi-championne" class="active">Athénan, une IA joueuse multi-championne</a></div><div class="en-link-wrapper"><a class="en-link" title="Read in English" href="https://news.cnrs.fr/articles/athenan-a-multi-champion-ai"><img src="/sites/all/themes/cnrs/images/gb.svg">Read in English</a></div>        </div>
-        <div class="right">       
-                              <div class="nombre-commentaires">
-            <a href="#ancre-comment"><i class="icon icon-cloud"></i>
-             0 <span class="comz-tab">commentaire</span>            </a>
-          </div>
-        </div>
-      </div>
-    </div>
-    
-    <div class="niveau-1">
-    
-      <!-- THEMATIQUES + DISCPLINE + ZOOM + IMPRESSION + TYPE -->
-      <div class="wrapper clearfix">
-        <div class="left">
-          <div class="thematiques">
-  <div class="thematiques-taxonomy numerique"><a href="/numerique">Numérique</a></div></div>
-          <div class="discipline">
-  <div class="discipline-taxonomy informatique"><a href="/informatique">Informatique</a></div></div>
-        </div>
-
-        <div class="right">
-          <div class="zoom"><a href="javascript:;" class="changer" id="text_resize_decrease"><sup>-</sup>A</a> <a href="javascript:;" class="changer" id="text_resize_increase"><sup>+</sup>A</a><div id="text_resize_clear"></div></div>
-          <div class="print-link"><ul class="links inline"><li class="print_html first last"><a href="/print/2979" title="Afficher une version imprimable de cette page." class="print-page" rel="nofollow">Imprimer</a></li>
-</ul></div>
-          <div class="format">article</div>
-        </div>
-      </div>
-      
-      <!-- TITRE -->
-      <h1 class="node-title">Athénan, une IA joueuse multi-championne</h1>
-
-    
-      <!-- DATE + AUTEUR -->      
-      <div class="date-auteur">
-      <span  class="date-display-single">26.11.2021</span>, par 
-  <div class="textformatter-list"><a href="/auteurs/kheira-bettayeb" class="node node-164 entityreference">Kheira Bettayeb</a></div></div>
-
-    </div>
-
-      <!-- VISUEL PRINCIPAL -->  
-    <div class="niveau-2">
-      
-  <div  class="asset-wrapper asset aid-6947 asset-image"><div class="content asset-image-visuel-principal">
-  
-  <img src="https://lejournal.cnrs.fr/sites/default/files/styles/visuel_principal/public/assets/images/adobestock_271413703_72dpi.jpg?itok=6R1wUzd2" width="1200" height="575" alt="" title=" ©Chan2545 /Stock.Adobe.com" />  </div>
-<div class="copyright-share-wrapper clearfix">
-  <div class="left">
-    
-<div class="wrapper-copyright">
-  <div class="image-copyright">
-          Chan2545 /Stock.Adobe.com      </div>
-</div>
-  </div>
-      <div class="share-asset-main-wrapper  clearfix right">
-      <a class="share-asset-link right"><i class="icon icon-pager"></i>Partager</a>
-      <div class="share-asset-wrapper right clearfix">
-          <div class="left">Partager</div>
-          <div class="right clearfix">
-            <a href="https://twitter.com/intent/tweet?url=https%3A//lejournal.cnrs.fr/articles/athenan-une-ia-joueuse-multi-championne" title="Partager sur Twitter" target="_blank"><i class="icon icon-twitter"></i></a>
-            <a href="http://www.facebook.com/sharer/sharer.php?s=100&amp;p%5Burl%5D=https%3A//lejournal.cnrs.fr/articles/athenan-une-ia-joueuse-multi-championne&amp;p%5Btitle%5D=Ath%C3%A9nan%2C%20une%20IA%20joueuse%20multi-championne&amp;p%5Bimages%5D%5B0%5D=https%3A//lejournal.cnrs.fr/sites/default/files/styles/lightbox-hd/public/assets/images/adobestock_271413703_72dpi.jpg%3Fitok%3DiX6gHdSX&amp;p%5Bsummary%5D=Zoom%20sur%20un%20syst%C3%A8me%20fran%C3%A7ais%20qui%20a%20rafl%C3%A9%20la%20mise%20lors%20de%20la%20r%C3%A9cente%2024e%20Computer%20Olympiad%2C%20une%20comp%C3%A9tition%20mondiale%20multijeux%20pour%20intelligences%20artificielles." title="Partager sur Facebook" target="_blank"><i class="icon icon-facebook"></i></a>
-            <a href="/printmail/2979" title="Partager par courriel"><i class="icon icon-mail"></i></a>
-          </div>
-      </div>
-    </div>
-  </div></div>
-    </div>
-    
-      <!-- CHAPO + CONTENU PRINCIPAL -->  
-    <div class="niveau-3 resize-chapo-contenu">
-      <div class="article-chapo">
-      
-  Zoom sur un système français qui a raflé la mise lors de la récente 24e Computer Olympiad, une compétition mondiale multijeux pour intelligences artificielles.      </div>
-      <div class="article-contenu">
-      
-  <p>Athénan est un nouveau système d’intelligence artificielle (IA) dédiée aux jeux de société, qui a été créé par Quentin Cohen-Solal<a class="see-footnote" id="footnoteref1_leb8sk5" title="//arxiv.org/pdf/2012.10700.pdf " href="#footnote1_leb8sk5">1</a>, évalué et amélioré ensuite avec Tristan Cazenave, au Laboratoire d'analyse et modélisation de systèmes pour l'aide à la décision (Lamsade)<a class="see-footnote" id="footnoteref2_4qwdm8h" title="Unité CNRS/Université Paris-Dauphine." href="#footnote2_4qwdm8h">2</a> à Paris. Lors de la 24<sup>e</sup> Computer Olympiad, c’est sous l’apparence de dames canadiennes et brésiliennes, d’Othello, de Hex ou encore de Surakarta qu’il a justifié son nom, qui signifie littéralement « disciple d’Athéna » (la déesse grecque de la stratégie et de la sagesse). Il a en effet battu tous ses concurrents à pas moins de 11 jeux de société – sur les 23 représentés – ce qui lui a valu autant de médailles d’or ! « <em>Habituellement, les meilleures équipes obtiennent 2 à 3 médailles d'or. C’est dire l’avancée que représentent ces travaux</em> », commente Nicolas Jouandeau, directeur du Laboratoire d'intelligence Artificielle et Sémantique des Données, à l’université Paris 8.</p>
-<p><div  class="asset-wrapper asset aid-6948 asset-image">
-
-<div class="content asset-image-full">
-  <div class="image">
-    
-  <img src="https://lejournal.cnrs.fr/sites/default/files/styles/asset_image_full/public/assets/images/jeux_de_strategie.jpg?itok=3t9CDvgH" width="664" height="443" alt="" title=" ©Computer Olympiad" />    
-<div class="wrapper-legende">
-  <div class="image-legende">
-          Capture d’écran des jeux de stratégie pour lesquels Athénan a gagné une médaille d’or. De gauche à droite et de haut en bas : Hex, Amazons, Othello, Brazilian, Surakarta et Breakthrough.      <a href='#image-aid-6948' class='popup-link'><i class='icon-fullsize'></i></a>      </div>
-</div>
-  </div>     
-  <div id="image-aid-6948" class="white-popup mfp-hide wrapper-legende-lightbox">
-    <header>
-      <span class="logo"><img src="https://lejournal.cnrs.fr/sites/all/themes/cnrs/images/logo-gris.svg" alt="CNRS Le Journal" title="CNRS Le Journal" /></span>
-      <button class="close mfp-close icon-close"></button>
-    </header>
-    <div class="image-content">
-      <img src="https://lejournal.cnrs.fr/sites/default/files/styles/lightbox-hd/public/assets/images/jeux_de_strategie.jpg?itok=WX909KD7" alt="" title=" ©Computer Olympiad" />    </div>
-    <div class="image-caption">
-      
-<div class="wrapper-legende">
-  <div class="image-legende">
-          Capture d’écran des jeux de stratégie pour lesquels Athénan a gagné une médaille d’or. De gauche à droite et de haut en bas : Hex, Amazons, Othello, Brazilian, Surakarta et Breakthrough.      <a href='#image-aid-6948' class='popup-link'><i class='icon-fullsize'></i></a>      </div>
-</div>
-
-<div class="wrapper-copyright">
-  <div class="image-copyright">
-          Computer Olympiad      </div>
-</div>
-    </div>
-  </div>
-</div>
-<div class="copyright-share-wrapper clearfix">
-  <div class="left">
-    
-<div class="wrapper-copyright">
-  <div class="image-copyright">
-          Computer Olympiad      </div>
-</div>
-  </div>
-  <div class="share-asset-main-wrapper clearfix right">
-   <a class="share-asset-link right"><i class="icon icon-pager"></i>Partager</a>
-    <div class="share-asset-wrapper right clearfix">
-        <div class="left">Partager</div>
-        <div class="right clearfix">
-          <a href="https://twitter.com/intent/tweet?url=https%3A//lejournal.cnrs.fr/articles/athenan-une-ia-joueuse-multi-championne" title="Partager sur Twitter" target="_blank"><i class="icon icon-twitter"></i></a>
-          <a href="http://www.facebook.com/sharer/sharer.php?s=100&amp;p%5Burl%5D=https%3A//lejournal.cnrs.fr/articles/athenan-une-ia-joueuse-multi-championne&amp;p%5Btitle%5D=Ath%C3%A9nan%2C%20une%20IA%20joueuse%20multi-championne&amp;p%5Bimages%5D%5B0%5D=https%3A//lejournal.cnrs.fr/sites/default/files/styles/lightbox-hd/public/assets/images/jeux_de_strategie.jpg%3Fitok%3DWX909KD7&amp;p%5Bsummary%5D=Zoom%20sur%20un%20syst%C3%A8me%20fran%C3%A7ais%20qui%20a%20rafl%C3%A9%20la%20mise%20lors%20de%20la%20r%C3%A9cente%2024e%20Computer%20Olympiad%2C%20une%20comp%C3%A9tition%20mondiale%20multijeux%20pour%20intelligences%20artificielles." title="Partager sur Facebook" target="_blank"><i class="icon icon-facebook"></i></a>
-                      <a href="https://lejournal.cnrs.fr/printmail/2979" title="Partager par courriel"><i class="icon icon-mail"></i></a>
-                  </div>
-    </div>
-  </div>
-</div>
-
-
-
-
-
-</div></p>
-<p>Les systèmes d’IA dédiées aux jeux de société consistent en des algorithmes qui permettent de formaliser une façon de réfléchir sur un jeu donné, voire, comme dans le cas d’Athénan, d’apprendre lui-même à jouer et s’auto-entraîner. Le développement de tels logiciels a toujours attiré les experts en IA. Et pour cause : mobilisant un large éventail de capacités intellectuelles humaines, les jeux de société (dits aussi « de réflexion ») représentent un terrain d’expérimentation privilégié pour tester l’intelligence des machines et la comparer à l’intelligence humaine ; un des buts de l’IA étant de développer des machines qui surpassent le cerveau humain (et pourraient ainsi le remplacer) pour certaines tâches précises.</p>
-<h2>Une quête qui remonte aux origines de l’informatique</h2>
-<p>« <em>L’idée de développer des IA dédiées aux jeux de société a émergé dès les débuts de l’informatique </em>», raconte Tristan Cazenave. En effet, dès la fin des années 1940, les pères fondateurs de l’informatique Alan Turing (1912-1954) et Claude Shannon (1916-2001) proposèrent des programmes rudimentaires capables de jouer aux échecs. <em>« Mais ce n’est qu’en 1997 – soit près de 40 ans après –, qu’une machine, le superordinateur Deep Blue de la société américaine IBM, réussit à battre pour la première fois, dans les conditions normales d’un tournoi, un champion du monde d’échecs, le Russe Garry Kasparov</em> », poursuit l’expert en IA.</p>
-<p><div  class="asset-wrapper asset aid-6949 asset-image">
-
-<div class="content asset-image-full">
-  <div class="image">
-    
-  <img src="https://lejournal.cnrs.fr/sites/default/files/styles/asset_image_full/public/assets/images/000_sawh970507044140_72dpi.jpg?itok=vrXIP69C" width="664" height="445" alt="" title=" ©Stan HONDA / AFP" />    
-<div class="wrapper-legende">
-  <div class="image-legende">
-          Le champion du monde d'échecs Garry Kasparov joue un coup pendant sa quatrième partie contre l'ordinateur IBM Deep Blue. Le moniteur à droite transmet le coup de l'ordinateur à un scientifique d'IBM qui déplace les pièces sur l'échiquier (New York, 7 mai 1997).      <a href='#image-aid-6949' class='popup-link'><i class='icon-fullsize'></i></a>      </div>
-</div>
-  </div>     
-  <div id="image-aid-6949" class="white-popup mfp-hide wrapper-legende-lightbox">
-    <header>
-      <span class="logo"><img src="https://lejournal.cnrs.fr/sites/all/themes/cnrs/images/logo-gris.svg" alt="CNRS Le Journal" title="CNRS Le Journal" /></span>
-      <button class="close mfp-close icon-close"></button>
-    </header>
-    <div class="image-content">
-      <img src="https://lejournal.cnrs.fr/sites/default/files/styles/lightbox-hd/public/assets/images/000_sawh970507044140_72dpi.jpg?itok=RS0BaIUq" alt="" title=" ©Stan HONDA / AFP" />    </div>
-    <div class="image-caption">
-      
-<div class="wrapper-legende">
-  <div class="image-legende">
-          Le champion du monde d'échecs Garry Kasparov joue un coup pendant sa quatrième partie contre l'ordinateur IBM Deep Blue. Le moniteur à droite transmet le coup de l'ordinateur à un scientifique d'IBM qui déplace les pièces sur l'échiquier (New York, 7 mai 1997).      <a href='#image-aid-6949' class='popup-link'><i class='icon-fullsize'></i></a>      </div>
-</div>
-
-<div class="wrapper-copyright">
-  <div class="image-copyright">
-          Stan HONDA / AFP      </div>
-</div>
-    </div>
-  </div>
-</div>
-<div class="copyright-share-wrapper clearfix">
-  <div class="left">
-    
-<div class="wrapper-copyright">
-  <div class="image-copyright">
-          Stan HONDA / AFP      </div>
-</div>
-  </div>
-  <div class="share-asset-main-wrapper clearfix right">
-   <a class="share-asset-link right"><i class="icon icon-pager"></i>Partager</a>
-    <div class="share-asset-wrapper right clearfix">
-        <div class="left">Partager</div>
-        <div class="right clearfix">
-          <a href="https://twitter.com/intent/tweet?url=https%3A//lejournal.cnrs.fr/articles/athenan-une-ia-joueuse-multi-championne" title="Partager sur Twitter" target="_blank"><i class="icon icon-twitter"></i></a>
-          <a href="http://www.facebook.com/sharer/sharer.php?s=100&amp;p%5Burl%5D=https%3A//lejournal.cnrs.fr/articles/athenan-une-ia-joueuse-multi-championne&amp;p%5Btitle%5D=Ath%C3%A9nan%2C%20une%20IA%20joueuse%20multi-championne&amp;p%5Bimages%5D%5B0%5D=https%3A//lejournal.cnrs.fr/sites/default/files/styles/lightbox-hd/public/assets/images/000_sawh970507044140_72dpi.jpg%3Fitok%3DRS0BaIUq&amp;p%5Bsummary%5D=Zoom%20sur%20un%20syst%C3%A8me%20fran%C3%A7ais%20qui%20a%20rafl%C3%A9%20la%20mise%20lors%20de%20la%20r%C3%A9cente%2024e%20Computer%20Olympiad%2C%20une%20comp%C3%A9tition%20mondiale%20multijeux%20pour%20intelligences%20artificielles." title="Partager sur Facebook" target="_blank"><i class="icon icon-facebook"></i></a>
-                      <a href="https://lejournal.cnrs.fr/printmail/2979" title="Partager par courriel"><i class="icon icon-mail"></i></a>
-                  </div>
-    </div>
-  </div>
-</div>
-
-
-
-
-
-</div></p>
-<p>Près de deux décennies après ce premier coup de maître, en mai 2017, une autre IA, AlphaGo<a class="see-footnote" id="footnoteref3_8jz016m" title="//doi.org/10.1038/nature16961" href="#footnote3_8jz016m">3</a>, développée par DeepMind (une filiale britannique de Google), et dédiée cette fois au go (un jeu de réflexion originaire de Chine)<em>, </em>battait le numéro 1 mondial dans ce domaine, le Chinois Ke Jie. « <em>S’appuyant sur des techniques radicalement différentes de celles de Deep Blue, AlphaGo</em> <em>utilise une technologie représentant l’une des dernières évolutions dans le domaine de l’IA : les réseaux neuronaux dits “profonds”. Lesquels consistent en un système avec une conception à l'origine schématiquement inspirée du fonctionnement des neurones humains. Cette technologie permet à AlphaGo d’apprendre à “imiter” les joueurs humains, à partir d’une base de données référençant les coups enregistrés lors de dizaines de milliers de parties menées par des joueurs experts</em> », développe Tristan Cazenave.</p>
-<h2>L’ère des IA « généralistes »</h2>
-<p>Fin 2017, la société DeepMind présenta une autre avancée historique pour le monde de l’IA : AlphaZero<a class="see-footnote" id="footnoteref4_ebs5yre" title="//arxiv.org/abs/1712.01815" href="#footnote4_ebs5yre">4</a>. Sa particularité ? Cette version « généraliste » d’AlphaGo est capable de jouer non pas à un, mais à plusieurs jeux : au go, mais aussi aux échecs et au shogi (échecs japonais). <em>« Contrairement à son prédécesseur, AlpaZero a été développé pour apprend</em><em>re à bien jouer à un jeu donné… en jouant contre lui-même ; et non à partir d’une base de données, </em>détaille ici l’expert en IA du Lamsade. <em>Après chaque partie, il analyse ses succès et ses erreurs pour s’améliorer. Cela, grâce à une méthode d’apprentissage profond dite “par renforcement”</em> ».</p>
-<p><div  class="asset-wrapper asset aid-6951 asset-image">
-
-<div class="content asset-image-full">
-  <div class="image">
-    
-  <img src="https://lejournal.cnrs.fr/sites/default/files/styles/asset_image_full/public/assets/images/035_pbu627655_04_72dpi.jpg?itok=uK2nQ2Hb" width="664" height="443" alt="" title=" ©Stringer / Imaginechina / Imaginechina via AFP" />    
-<div class="wrapper-legende">
-  <div class="image-legende">
-          Le joueur de go chinois Ke Jie affronte AlphaGo lors de la deuxième partie du Google DeepMind Challenge Match pendant le Future of Go Summit à Wuzhen town (Chine), le 25 mai 2017. La même année, DeepMind a présenté AlphaZero.      <a href='#image-aid-6951' class='popup-link'><i class='icon-fullsize'></i></a>      </div>
-</div>
-  </div>     
-  <div id="image-aid-6951" class="white-popup mfp-hide wrapper-legende-lightbox">
-    <header>
-      <span class="logo"><img src="https://lejournal.cnrs.fr/sites/all/themes/cnrs/images/logo-gris.svg" alt="CNRS Le Journal" title="CNRS Le Journal" /></span>
-      <button class="close mfp-close icon-close"></button>
-    </header>
-    <div class="image-content">
-      <img src="https://lejournal.cnrs.fr/sites/default/files/styles/lightbox-hd/public/assets/images/035_pbu627655_04_72dpi.jpg?itok=oRPMTJTb" alt="" title=" ©Stringer / Imaginechina / Imaginechina via AFP" />    </div>
-    <div class="image-caption">
-      
-<div class="wrapper-legende">
-  <div class="image-legende">
-          Le joueur de go chinois Ke Jie affronte AlphaGo lors de la deuxième partie du Google DeepMind Challenge Match pendant le Future of Go Summit à Wuzhen town (Chine), le 25 mai 2017. La même année, DeepMind a présenté AlphaZero.      <a href='#image-aid-6951' class='popup-link'><i class='icon-fullsize'></i></a>      </div>
-</div>
-
-<div class="wrapper-copyright">
-  <div class="image-copyright">
-          Stringer / Imaginechina / Imaginechina via AFP      </div>
-</div>
-    </div>
-  </div>
-</div>
-<div class="copyright-share-wrapper clearfix">
-  <div class="left">
-    
-<div class="wrapper-copyright">
-  <div class="image-copyright">
-          Stringer / Imaginechina / Imaginechina via AFP      </div>
-</div>
-  </div>
-  <div class="share-asset-main-wrapper clearfix right">
-   <a class="share-asset-link right"><i class="icon icon-pager"></i>Partager</a>
-    <div class="share-asset-wrapper right clearfix">
-        <div class="left">Partager</div>
-        <div class="right clearfix">
-          <a href="https://twitter.com/intent/tweet?url=https%3A//lejournal.cnrs.fr/articles/athenan-une-ia-joueuse-multi-championne" title="Partager sur Twitter" target="_blank"><i class="icon icon-twitter"></i></a>
-          <a href="http://www.facebook.com/sharer/sharer.php?s=100&amp;p%5Burl%5D=https%3A//lejournal.cnrs.fr/articles/athenan-une-ia-joueuse-multi-championne&amp;p%5Btitle%5D=Ath%C3%A9nan%2C%20une%20IA%20joueuse%20multi-championne&amp;p%5Bimages%5D%5B0%5D=https%3A//lejournal.cnrs.fr/sites/default/files/styles/lightbox-hd/public/assets/images/035_pbu627655_04_72dpi.jpg%3Fitok%3DoRPMTJTb&amp;p%5Bsummary%5D=Zoom%20sur%20un%20syst%C3%A8me%20fran%C3%A7ais%20qui%20a%20rafl%C3%A9%20la%20mise%20lors%20de%20la%20r%C3%A9cente%2024e%20Computer%20Olympiad%2C%20une%20comp%C3%A9tition%20mondiale%20multijeux%20pour%20intelligences%20artificielles." title="Partager sur Facebook" target="_blank"><i class="icon icon-facebook"></i></a>
-                      <a href="https://lejournal.cnrs.fr/printmail/2979" title="Partager par courriel"><i class="icon icon-mail"></i></a>
-                  </div>
-    </div>
-  </div>
-</div>
-
-
-
-
-
-</div></p>
-<p>Athénan représente, lui, le deuxième système généraliste basé sur cette technique. Cependant « <em>il se distingue d’AlphaZero par plusieurs aspects, qui le rendent original et très efficace</em> », souligne Quentin Cohen-Solal. Tout d’abord, si Athénan s’appuie, comme AlphaZero, sur un réseau de neurones pour guider sa recherche de stratégie lors d’une partie de jeu, il recourt à un algorithme différent pour anticiper ses futurs coups. En effet, AlphaZero utilise ici une méthode dite « de recherche Monte Carlo », qui fait des statistiques sur des parties aléatoires (d'où son nom évoquant celui du célèbre casino) : pour chaque coup analysé, le réseau de neurones calcule la valeur d’un « état de jeu » (qui évalue à quel point il est près de la victoire) ainsi qu’une probabilité pour qu’une action soit la meilleure dans cet état. Or<em> « l’esprit humain ne fonctionne pas ainsi… », </em>fait remarquer Quentin Cohen-Solal.</p>
-<h2>Une façon de jouer plus humaine</h2>
-<p>D’où son idée de développer <em>« une méthode permettant à une IA de jouer de façon plus humaine, dite “Minimax en meilleur d'abord non borné”. Grâce à cet algorithme</em> <em>– décrit</em> <em>en fait pour la première fois en 1996 </em><a class="see-footnote" id="footnoteref5_e89uzo9" title="« Best-first minimax search », E. Korf et D. Chickering, Artificial Intelligence, juillet 1996. DOI 10.1016/0004-3702(95)00096-8" href="#footnote5_e89uzo9">5</a><em> et tombé dans l'oubli avant que je ne le redécouvre –, Athénan ne calcule pas de probabilités ni n’en utilise. Et ce, sans que cela nuise à ses performances </em>», précise l’informaticien.</p>
-<div class="wrapper-citation clearfix">
-<div class="citation left">Alors qu’AlphaZero mémorise juste le coup qu’il va jouer, Athénan, lui, retient aussi toutes les simulations produites lors de la réflexion qui l’a amené à décider d’un coup.</div>
-<div class="texte-colle right">
-<p>Autre grand atout de cette méthode, elle permet un apprentissage plus efficace : <em>« Alors qu’AlphaZero mémorise juste le coup qu’il va jouer, Athénan, lui, retient aussi toutes les simulations produites lors de la réflexion qui l’a amené à décider d’un coup,</em> explique-t-il<em>. Résultat, pour un même nombre de parties, il génère beaucoup plus de données. Or pour bien apprendre, il faut beaucoup de données</em> ». En outre, avec AlphaZero la valeur d’un état est fortement déterminée par la fin de la partie : si la partie est perdante, il va apprendre que toutes les étapes de cette partie sont perdantes, alors que les actions réalisées au début de cette partie ont pu être pertinentes, puis suivies de mauvaises décisions.</p>
-</div>
-</div>
-<p>Avec Athénan, la valeur d’un état s’actualise en tenant compte de ce genre de retournements, ce qui permet de mieux capitaliser les connaissances d’une partie à l’autre.</p>
-<h2>Utile dans d’autres domaines ?</h2>
-<p>Enfin, « <em>même si pour son dévellopement nous avons pu bénéficier d'un accès aux <a href="https://www.genci.fr/fr/content/calculateurs-et-centres-de-calcul" target="_blank">moyens de calcul</a> intensif de <a href="http://www.idris.fr/" target="_blank">l'IDRIS</a></em><em>, Athénan n’a besoin que d’un ordinateur “classique” équipé d’une carte graphique </em>(composants informatiques assurant les fonctions de calcul de l'affichage, Ndlr) <em>et d’un nombre normal de processeurs pour "bien" jouer. Quand AlphaZero nécessite généralement un super-calculateur équipé d’une centaine de cartes graphiques et d’une centaine de processeurs</em> », souligne Quentin Cohen-Solal. Bref, Athénan permet de faire, au moins sur certains jeux, aussi bien que ce qui existe, mais avec moins de ressources ! À l’avenir, Quentin Cohen-Solal espère pouvoir mesurer son système à un champion humain – « <em>ou une IA qui a surpassé un tel expert </em>» <em>–</em> dans un jeu donné, par exemple les échecs. Cela, «<em> afin d’obtenir un résultat très fort, qui prouverait que notre logiciel peut atteindre un niveau surhumain </em>».</p>
-<p>Au-delà des jeux, l’équipe espère aussi tester Athénan dans d’autres domaines, plus pratiques mais nécessitant également de réfléchir à des solutions complexes : « <em>il pourrait</em> <em>aider à fluidifier le routage des connexions </em><em>internet ; minimiser le nombre de kilométrages parcourus et de véhicules utilisés lors des tournées des véhicules d’une entreprise donnée (La Poste, etc.) ; ou encore déterminer la structure (“séquence”) d’une molécule d’ARN donnée </em>(une molécule génétique, Ndlr) <em>à partir de sa forme, pour faire avancer plus vite la recherche biomédicale</em> », illustre Tristan Cazenave. Athénan n’en est donc qu’à ses tout débuts. ♦</p>
-<div class="footnotes-wrapper">Notes<br />
-<ul class="footnotes">
-<li class="footnote" id="footnote1_leb8sk5"><a class="footnote-label" href="#footnoteref1_leb8sk5">1.</a> « Minimax Strikes Back », Q. Cohen-Solal et T. Cazenave, 19 décembre 2020. arXiv preprint : <a href="https://arxiv.org/pdf/2012.10700.pdf">https://arxiv.org/pdf/2012.10700.pdf</a> </li>
-<li class="footnote" id="footnote2_4qwdm8h"><a class="footnote-label" href="#footnoteref2_4qwdm8h">2.</a> Unité CNRS/Université Paris-Dauphine.</li>
-<li class="footnote" id="footnote3_8jz016m"><a class="footnote-label" href="#footnoteref3_8jz016m">3.</a> « Mastering the game of Go with deep neural networks and tree search », D. Silver et al., Nature, 28 janvier 2016. <a href="https://doi.org/10.1038/nature16961">https://doi.org/10.1038/nature16961</a></li>
-<li class="footnote" id="footnote4_ebs5yre"><a class="footnote-label" href="#footnoteref4_ebs5yre">4.</a> « Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm », D. Silver et al., 5 décembre 2017. arXiv preprint : <a href="https://arxiv.org/abs/1712.01815">https://arxiv.org/abs/1712.01815</a></li>
-<li class="footnote" id="footnote5_e89uzo9"><a class="footnote-label" href="#footnoteref5_e89uzo9">5.</a> « Best-first minimax search », E. Korf et D. Chickering, Artificial Intelligence, juillet 1996. DOI 10.1016/0004-3702(95)00096-8</li>
 </ul>
-</div>
+
       </div>
     </div>
+
+      
+
     
-  
-      <!-- FLAGS --> 
-    <div id="aller-box">
-    <div class="niveau-0 bottom">
-      <div class="wrapper clearfix">
-        <div class="left plus-loin" id="plus-loin">Aller plus loin</div>
-        <div class="right">
-                              <div class="nombre-commentaires">
-            <a href="#ancre-comment"><i class="icon icon-cloud"></i>
-              0 <span class="comz-tab">commentaire</span>            </a>
-           </div>
-        </div>
-      </div>
-    </div>
     
-  
-      <!-- COULISSES + MOTS CLES + PARTAGE + VUE AUTEUR + A LIRE / A VOIR -->  
-    <div class="niveau-gris">
-            
-      <div class="wrapper clearfix">
-        <div class="left motscles">
-          <h3>Mots-clés</h3>
-          <div class="motscles-container">
+    <p>ChatGPT remet-il en question le droit d’auteur? La question était soulevée par des artistes, traducteurs et écrivains, qui s’estimaient copiés par l’intelligence artificielle (IA) générative, c’est au tour du <em>New York Times</em> de porter l’affaire devant les tribunaux américains.</p><p>Le quotidien américain a lancé mercredi des poursuites, auprès d’un tribunal fédéral à New York, à l’encontre d’OpenAI, créateur du logiciel ChatGPT, ainsi que de Microsoft, son principal investisseur, pour violation des droits d’auteur.</p>
+
+      <div class="post-body-wrapper paywall-content">
+        <div class="post-body">
+            <p><strong>Lire aussi:</strong> <a href="https://www.letemps.ch/economie/cyber/intelligence-artificielle-l-accord-europeen-est-historique-mais-le-plus-dur-est-a-venir" rel="nofollow noopener" target="_blank">Intelligence artificielle: l’accord européen est historique, mais le plus dur est à venir</a></p><p>En cause, selon la plainte, le modèle de développement des IA génératives, et en particulier ChatGPT, qui «repose sur des modèles d’apprentissage massif construits en copiant et en utilisant des millions d’articles du <em>Times</em> protégés par les droits d’auteur».</p>
+<h3>Une «importance particulière» donnée aux contenus du «Times»</h3>
+<p>«Comme la plainte l’explique, Microsoft et OpenAI ont utilisé notre travail pour développer et commercialiser leurs produits d’IA générative sans avoir la permission du <em>Times</em>», a déclaré à l’AFP une porte-parole du quotidien estimant qu’il s’agit bien d’une «violation des droits d’auteur en termes de contenu et de travail journalistique».</p><p>Et les conséquences financières ne sont pas négligeables, estime le quotidien, qui considère que le préjudice subi, dans les faits comme d’un point de vue légal, représente «plusieurs milliards de dollars». Interrogés par l’AFP, ni Microsoft ni OpenAI n’ont pour l’heure fait de commentaire.</p><p><strong>Lire aussi:</strong> <a href="https://www.letemps.ch/economie/comment-chatgpt-a-bouleverse-le-monde-en-douze-mois-sept-points-pour-comprendre" rel="nofollow noopener" target="_blank">Comment ChatGPT a bouleversé le monde en douze mois: sept points pour comprendre</a></p><p>Preuve, selon le <em>NY Times</em>, que les développeurs de ChatGPT ont parfaitement conscience de la «valeur du travail» réalisé par ses journalistes, ils «ont donné aux contenus du <em>Times</em> une importance particulière dans la construction de leur modèle d’apprentissage».</p><p>Or, comme le rappelle le quotidien, «pour produire du journalisme de qualité, le <em>Times</em> investit énormément de temps, d’argent, d’expertise et de talent, tant dans sa rédaction que dans l’ensemble des fonctions et technologie de support».</p>
+<h3>Brèche potentielle</h3>
+<p>Mais si «le <em>Times</em> et ses pairs ne peuvent pas contrôler l’usage de leurs contenus, c’est leur capacité à les monétiser qui sera remis en question. Avec moins de revenus, ces organisations auront moins de journalistes disponibles», entraînant une baisse tant de la qualité que de la quantité de la production rédactionnelle.</p><p>Le journal assure cependant avoir voulu éviter d’en arriver à la confrontation judiciaire avec Microsoft et OpenAI, en ayant cherché à négocier un accord permettant de «recevoir une compensation adéquate pour l’utilisation de ses contenus».</p><p><strong>Lire aussi:</strong> <a href="https://www.letemps.ch/opinions/le-pacte-entre-openai-et-axel-springer-s-annonce-tragique" rel="nofollow noopener" target="_blank">Le pacte entre OpenAI et Axel Springer s’annonce tragique</a></p><p>OpenAI s’est d’ores et déjà entendu avec le groupe de médias allemand Axel Springer, cependant l’accord ne concerne pas l’utilisation des contenus des médias du groupe pour entraîner son IA générative mais l’intégration de ces contenus dans les réponses aux requêtes des utilisateurs de ChatGPT.</p><p>En l’espèce, l’action en justice du <em>New York Times</em> pourrait ouvrir une brèche et représenter une potentielle nouvelle source de revenus pour les médias partout dans le monde.</p>
+<h3>Course effrénée</h3>
+<p>Car les IA génératives, qu’il s’agisse de textes ou d’images produits en réponses à des requêtes écrites, comme ChatGPT ou Midjourney, sont construites sur un algorithme entraîné grâce à l’immense quantité de données disponibles en ligne, notamment via les réseaux sociaux, le plus souvent sans l’autorisation de leurs créateurs.</p><p>Or, depuis le lancement de ChatGPT, il y a un an, les géants de la Silicon Valley se livrent une course effrénée en la matière, pour développer des outils permettant de créer des textes, images ou lignes de code d’un niveau équivalent à ceux produits par des humains, augmentant de fait l’usage de ces contenus pour y parvenir.</p><p><strong>Lire également:</strong> <a href="https://www.letemps.ch/economie/faut-il-reguler-ou-non-l-intelligence-artificielle-un-debat-explosif-debute-en-suisse" rel="nofollow noopener" target="_blank">Faut-il réguler ou non l’intelligence artificielle? Un débat explosif débute en Suisse</a></p><p>Des voix se sont élevées pour dénoncer l’usage de leur production afin de développer des outils capables de les créer. D’ores et déjà des illustrateurs se retrouvent concurrencés par ces IA génératives entraînées grâce à leur producteur et qui sont utilisés désormais pour illustrer des publicités par exemple.</p>
+<h3>Actions de groupe</h3>
+<p>Plusieurs auteurs de livres à succès, dont l’auteur de «Game of Thrones» George R.R. Martin, ont lancé une action de groupe contre OpenAI, l’accusant d’avoir violé leurs droits d’auteur.</p><p>Et d’autres entreprises, à commencer par les majors du secteur musical, en ont fait de même contre l’entreprise Anthropic, qu’ils accusent d’avoir utilisé les paroles de chansons pour développer son IA générative musicale.</p><p>«Les lois sur les droits d’auteur protègent notre journalisme. Si Microsoft et OpenAI veulent utiliser notre travail pour un usage commercial, la loi les oblige à demander d’abord la permission. Ils ne l’ont pas fait», a insisté une porte-parole du <em>New York Times</em>.</p>
+
           
-  <a href="/computer-olympiad">Computer Olympiad</a>  <a href="/jeux-de-strategie">jeux de stratégie</a>  <a href="/athenan">Athénan</a>  <a href="/algorithmes">Algorithmes</a>  <a href="/echecs">échecs</a>  <a href="/jeu-de-go">Jeu de Go</a>  <a href="/deep-blue">Deep Blue</a>  <a href="/alphago">AlphaGo</a>  <a href="/alphazero">AlphaZero</a>  <a href="/recherche-monte-carlo">recherche Monte Carlo</a></div>
-        </div>
-        <div class="right partage">
-          <h3>Partager cet article</h3>
-          <div class="share-grey-wrapper clearfix">
-            <div class="left">
-              <div class="share-grey-facebook"><a href="http://www.facebook.com/sharer/sharer.php?s=100&amp;p%5Burl%5D=https%3A//lejournal.cnrs.fr/articles/athenan-une-ia-joueuse-multi-championne&amp;p%5Btitle%5D=Ath%C3%A9nan%2C%20une%20IA%20joueuse%20multi-championne&amp;p%5Bimages%5D%5B0%5D=https%3A//lejournal.cnrs.fr/sites/default/files/styles/lightbox-hd/public/assets/images/adobestock_271413703_72dpi.jpg%3Fitok%3DiX6gHdSX&amp;p%5Bsummary%5D=Zoom%20sur%20un%20syst%C3%A8me%20fran%C3%A7ais%20qui%20a%20rafl%C3%A9%20la%20mise%20lors%20de%20la%20r%C3%A9cente%2024e%20Computer%20Olympiad%2C%20une%20comp%C3%A9tition%20mondiale%20multijeux%20pour%20intelligences%20artificielles." title="Partager sur Facebook" target="_blank"><i class="icon icon-facebook"></i></a></div>
-              <div class="share-grey-mail"><a href="/printmail/2979" title="Partager par courriel"><i class="icon icon-mail"></i></a></div>
-              </div>
-               <div class="right">
-                <div class="share-grey-twitter"><a href="https://twitter.com/intent/tweet?url=https%3A//lejournal.cnrs.fr/articles/athenan-une-ia-joueuse-multi-championne" title="Partager sur Twitter" target="_blank"><i class="icon icon-twitter"></i></a></div>
-               </div>
-           </div>
         </div>
       </div>
-        <div id="block-views-auteur_article-block" class="block block-views block-odd first clearfix">
-  <div class="block-inner">
-
-              <h3 class="block-title">Auteur</h3>
-        
-
-    <div class="content" >
-      <div class="view view-auteur-article view-id-auteur_article view-display-id-block view-dom-id-5054489f932b0aba99778de99cbb4357">
-        
-  
-  
-      <div class="view-content">
-        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
-      
-  <div class="views-field views-field-title">        <div class="field-content auteur-article">Kheira Bettayeb</div>  </div>  
-  <div class="views-field views-field-field-auteur-presentation">        <div class="field-content"><p>Journaliste scientifique freelance depuis dix ans, Kheira Bettayeb est spécialiste des domaines suivants : médecine, biologie, neurosciences, zoologie, astronomie, physique et nouvelles technologies. Elle travaille notamment pour la presse magazine nationale.</p>
-</div>  </div>  
-  <div class="views-field views-field-view-node">        <span class="field-content"><a href="/auteurs/kheira-bettayeb">En savoir plus sur l'auteur</a></span>  </div>  
-  <div class="views-field views-field-field-auteur-twitter">        <div class="field-content"></div>  </div>  </div>
-    </div>
-  
-  
-  
-  
-  
-  
-</div>    </div>
-
-  </div>
-</div> <!-- /block-inner /block -->      <div class="alire-avoir">
-              </div>
-    </div>
     
-      <!-- PRECEDENT / SUIVANT -->  
-    <div class="niveau-prec-suiv">
-      <div class="wrapper clearfix">
-        <div class="prev left"><span class="normal"><i class="icon icon-arrowleft"></i><a href="/articles/des-monstres-marins-au-temps-des-dinosaures">Des « monstres » marins au temps des dinosaures</a></span><span class="mobile"><a href="/articles/des-monstres-marins-au-temps-des-dinosaures">Précédent</a></span></div><div class="next right"><span class="normal"><i class="icon icon-arrowright"></i><a href="/articles/les-lumieres-brillent-elles-encore-au-xxie-siecle">Les Lumières brillent-elles encore au XXIe siècle ?</a></span><span class="mobile"><a href="/articles/les-lumieres-brillent-elles-encore-au-xxie-siecle">Suivant</a></span></div>      </div>
-    </div>
-    
-      <!-- VOIR AUSSI -->  
-    <div class="niveau-voir-aussi">
-      <div class="article-aussi">
-        <h3>Voir aussi</h3>
-        <div class="wrapper-voir-aussi clearfix">
-          <div class="voir-aussi-term">Numérique</div><div class="view view-voir-aussi view-id-voir_aussi view-display-id-block_voir_aussi view-dom-id-6a107c51271451d32e77c242ecf40135">
-        
-  
-  
-      <div class="view-content">
-        <div class="views-row views-row-1 views-row-odd views-row-first">
-      
-  <div class="views-field views-field-field-visuel-principal">        <div class="field-content"></div>  </div>  
-  <div class="views-field views-field-nothing">        <div class="field-content"><div class="wrapper-hidden">
-   <div class="wrapper-top clearfix">
-   <div class="blog types left"><div class="blog">Blog</div></div>
-   <div class="date-parution right"><span  class="date-display-single">11/12/2023</span></div> 
-  </div> 
-  <div class="titre"><a href="/nos-blogs/focus-sciences/cellule-souche-cherche-sa-destinee">Cellule souche cherche sa destinée</a></div> 
-</div> </div>  </div>  </div>
-  <div class="views-row views-row-2 views-row-even">
-      
-  <div class="views-field views-field-field-visuel-principal">        <div class="field-content"><a href="/nos-blogs/focus-sciences/les-robots-face-a-lincertitude" title="Numérique"><div  class="asset-wrapper asset aid-8755 asset-image">
-
-<div class="content">
-  
-  <img src="https://lejournal.cnrs.fr/sites/default/files/styles/voir-aussi/public/assets/images/blog_robto_incertitude_copie.jpg?itok=8ykVEZak" width="100" height="100" alt="" title=" ©Inria / Photo C. Morel" /></div>
-</div>
-</a></div>  </div>  
-  <div class="views-field views-field-nothing">        <div class="field-content"><div class="wrapper-hidden">
-   <div class="wrapper-top clearfix">
-   <div class="blog types left"><div class="blog">Blog</div></div>
-   <div class="date-parution right"><span  class="date-display-single">07/12/2023</span></div> 
-  </div> 
-  <div class="titre"><a href="/nos-blogs/focus-sciences/les-robots-face-a-lincertitude">Les robots face à l’incertitude</a></div> 
-</div> </div>  </div>  </div>
-  <div class="views-row views-row-3 views-row-odd">
-      
-  <div class="views-field views-field-field-visuel-principal">        <div class="field-content"><a href="/articles/la-creativite-peut-elle-etre-artificielle" title="Numérique"><div  class="asset-wrapper asset aid-8721 asset-image">
-
-<div class="content">
-  
-  <img src="https://lejournal.cnrs.fr/sites/default/files/styles/voir-aussi/public/assets/images/media_high_137719_ajout2.jpg?itok=yIjvYvGT" width="100" height="100" alt="" title=" ©Atelier Raffard-Roussel / La boîte à poésie" /></div>
-</div>
-</a></div>  </div>  
-  <div class="views-field views-field-nothing">        <div class="field-content"><div class="wrapper-hidden">
-   <div class="wrapper-top clearfix">
-   <div class="article types left"><div class="article">Article</div></div>
-   <div class="date-parution right"><span  class="date-display-single">04/12/2023</span></div> 
-  </div> 
-  <div class="titre"><a href="/articles/la-creativite-peut-elle-etre-artificielle">La créativité peut-elle être artificielle ?</a></div> 
-</div> </div>  </div>  </div>
-  <div class="views-row views-row-4 views-row-even">
-      
-  <div class="views-field views-field-field-visuel-principal">        <div class="field-content"><a href="/articles/les-defis-dune-ia-frugale" title="Numérique"><div  class="asset-wrapper asset aid-8707 asset-image">
-
-<div class="content">
-  
-  <img src="https://lejournal.cnrs.fr/sites/default/files/styles/voir-aussi/public/assets/images/adobestock_566468681_vp2.jpg?itok=SkFbKzcy" width="100" height="100" alt="réseau neuronal" title=" ©VectorMine / stock.adobe.com" /></div>
-</div>
-</a></div>  </div>  
-  <div class="views-field views-field-nothing">        <div class="field-content"><div class="wrapper-hidden">
-   <div class="wrapper-top clearfix">
-   <div class="article types left"><div class="article">Article</div></div>
-   <div class="date-parution right"><span  class="date-display-single">24/11/2023</span></div> 
-  </div> 
-  <div class="titre"><a href="/articles/les-defis-dune-ia-frugale">Les défis d’une IA frugale</a></div> 
-</div> </div>  </div>  </div>
-  <div class="views-row views-row-5 views-row-odd views-row-last">
-      
-  <div class="views-field views-field-field-visuel-principal">        <div class="field-content"></div>  </div>  
-  <div class="views-field views-field-nothing">        <div class="field-content"><div class="wrapper-hidden">
-   <div class="wrapper-top clearfix">
-   <div class="blog types left"><div class="blog">Blog</div></div>
-   <div class="date-parution right"><span  class="date-display-single">20/11/2023</span></div> 
-  </div> 
-  <div class="titre"><a href="/nos-blogs/focus-sciences/faciliter-letude-dun-vaste-corpus-documentaire-par-la-cartographie">Faciliter l&#039;étude d’un vaste corpus documentaire par la...</a></div> 
-</div> </div>  </div>  </div>
-    </div>
-  
-  
-  
-  
-  
-  
-</div></div><div class="wrapper-voir-aussi clearfix">
-          <div class="voir-aussi-term">Informatique</div><div class="view view-voir-aussi view-id-voir_aussi view-display-id-block_voir_aussi view-dom-id-c147348eded3559ef0f1e927dede638f">
-        
-  
-  
-      <div class="view-content">
-        <div class="views-row views-row-1 views-row-odd views-row-first">
-      
-  <div class="views-field views-field-field-visuel-principal">        <div class="field-content"><a href="/articles/penser-des-datacenters-moins-energivores" title="Informatique"><div  class="asset-wrapper asset aid-8519 asset-image">
-
-<div class="content">
-  
-  <img src="https://lejournal.cnrs.fr/sites/default/files/styles/voir-aussi/public/assets/images/rea6078225_vp.jpg?itok=YRso0ZyS" width="100" height="100" alt="" title=" ©Jin Liangkuai / Xinhua / ZUMA-RÉA" /></div>
-</div>
-</a></div>  </div>  
-  <div class="views-field views-field-nothing">        <div class="field-content"><div class="wrapper-hidden">
-   <div class="wrapper-top clearfix">
-   <div class="article types left"><div class="article">Article</div></div>
-   <div class="date-parution right"><span  class="date-display-single">14/09/2023</span></div> 
-  </div> 
-  <div class="titre"><a href="/articles/penser-des-datacenters-moins-energivores">Penser des datacenters moins énergivores</a></div> 
-</div> </div>  </div>  </div>
-  <div class="views-row views-row-2 views-row-even">
-      
-  <div class="views-field views-field-field-visuel-principal">        <div class="field-content"><a href="/articles/cryptoactifs-vers-des-alternatives-eco-compatibles" title="Informatique"><div  class="asset-wrapper asset aid-8230 asset-image">
-
-<div class="content">
-  
-  <img src="https://lejournal.cnrs.fr/sites/default/files/styles/voir-aussi/public/assets/images/adobestock_489983848_vp.jpg?itok=enR-W8TW" width="100" height="100" alt="" title=" ©Chanyanuch / stock.adobe.com" /></div>
-</div>
-</a></div>  </div>  
-  <div class="views-field views-field-nothing">        <div class="field-content"><div class="wrapper-hidden">
-   <div class="wrapper-top clearfix">
-   <div class="article types left"><div class="article">Article</div></div>
-   <div class="date-parution right"><span  class="date-display-single">27/04/2023</span></div> 
-  </div> 
-  <div class="titre"><a href="/articles/cryptoactifs-vers-des-alternatives-eco-compatibles">Cryptoactifs : vers des alternatives éco-compatibles ?</a></div> 
-</div> </div>  </div>  </div>
-  <div class="views-row views-row-3 views-row-odd">
-      
-  <div class="views-field views-field-field-visuel-principal">        <div class="field-content"><a href="/articles/des-mouchards-dans-les-jeux-mobiles" title="Informatique"><div  class="asset-wrapper asset aid-8183 asset-image">
-
-<div class="content">
-  
-  <img src="https://lejournal.cnrs.fr/sites/default/files/styles/voir-aussi/public/assets/images/adobestock_364945426_vp.jpg?itok=oJ_TCThA" width="100" height="100" alt="" title=" ©Drobot Dean / Stock.adobe.com" /></div>
-</div>
-</a></div>  </div>  
-  <div class="views-field views-field-nothing">        <div class="field-content"><div class="wrapper-hidden">
-   <div class="wrapper-top clearfix">
-   <div class="article types left"><div class="article">Article</div></div>
-   <div class="date-parution right"><span  class="date-display-single">31/03/2023</span></div> 
-  </div> 
-  <div class="titre"><a href="/articles/des-mouchards-dans-les-jeux-mobiles">Des mouchards dans les jeux mobiles</a></div> 
-</div> </div>  </div>  </div>
-  <div class="views-row views-row-4 views-row-even">
-      
-  <div class="views-field views-field-field-visuel-principal">        <div class="field-content"><a href="/articles/quand-le-cloud-se-fait-diffus" title="Informatique"><div  class="asset-wrapper asset aid-8014 asset-image">
-
-<div class="content">
-  
-  <img src="https://lejournal.cnrs.fr/sites/default/files/styles/voir-aussi/public/assets/images/adobestock_437150207_72dpi.jpg?itok=zLAhzqBP" width="100" height="100" alt="" title=" ©metamorworks /Stock.Adobe.com" /></div>
-</div>
-</a></div>  </div>  
-  <div class="views-field views-field-nothing">        <div class="field-content"><div class="wrapper-hidden">
-   <div class="wrapper-top clearfix">
-   <div class="article types left"><div class="article">Article</div></div>
-   <div class="date-parution right"><span  class="date-display-single">23/01/2023</span></div> 
-  </div> 
-  <div class="titre"><a href="/articles/quand-le-cloud-se-fait-diffus">Quand le cloud se fait diffus</a></div> 
-</div> </div>  </div>  </div>
-  <div class="views-row views-row-5 views-row-odd views-row-last">
-      
-  <div class="views-field views-field-field-visuel-principal">        <div class="field-content"><a href="/articles/un-algorithme-pour-eviter-les-debris-spatiaux" title="Informatique"><div  class="asset-wrapper asset aid-8002 asset-image">
-
-<div class="content">
-  
-  <img src="https://lejournal.cnrs.fr/sites/default/files/styles/voir-aussi/public/assets/images/adobestock_423223403_vp.jpg?itok=aJnu-V6n" width="100" height="100" alt="" title=" ©Framestock / Stock.adobe.com" /></div>
-</div>
-</a></div>  </div>  
-  <div class="views-field views-field-nothing">        <div class="field-content"><div class="wrapper-hidden">
-   <div class="wrapper-top clearfix">
-   <div class="article types left"><div class="article">Article</div></div>
-   <div class="date-parution right"><span  class="date-display-single">18/01/2023</span></div> 
-  </div> 
-  <div class="titre"><a href="/articles/un-algorithme-pour-eviter-les-debris-spatiaux">Un algorithme pour éviter les débris spatiaux </a></div> 
-</div> </div>  </div>  </div>
-    </div>
-  
-  
-  
-  
-  
-  
-</div></div>      </div>
-    </div>
   </div>
-    
-    <div id="comments-block" class="niveau-comments">
-      <div class="wrapper clearfix">
-        <div class="left comment-title">
-          <h3 id="ancre-comment" class="comment-title">Commentaires</h3>
-        </div>
-        <div class="right count-rss">
-          <div class="nombre-commentaires">
-            0 <span class="comz-tab">commentaire</span>          </div>
-          <div class="rss"><a href="/crss/node/2979">Flux RSS</a></div>
-        </div>
-      </div>  
-            <div class="niveau-reagir">
-      <div id="block-block-4" class="block block-block block-even clearfix">
-  <div class="block-inner">
 
-            
+  
 
-    <div class="content" >
-      <div class="reagir-intro left">Pour laisser votre avis sur cet article<br />
-Connectez-vous, rejoignez la communauté<br />
-du journal CNRS</div>
 
-<div class="reagir-connexion left"><a href="/user/login?destination=node/2979">Se connecter</a></div>
+  
 
-<div class="reagir-create left"><a href="/user/register?destination=node/2979">Créer un compte</a></div>
-    </div>
+    <div class="post__meta--footer post__meta--footer--visible">
+      <div class="post__tags">
+    <a class="post__tag" href="/tags/intelligence-artificielle">Intelligence artificielle</a>
+</div>
 
-  </div>
-</div> <!-- /block-inner /block -->      
+      <div class="post__buttons post__footer__buttons">
+        <ul>
+  <li>
+    <a target="_blank" href="mailto:?subject=Le Temps %3A Le %C2%ABNew York Times%C2%BB poursuit en justice Microsoft et OpenAI pour violation des droits d%E2%80%99auteur&amp;body=Cet article vous est recommand%C3%A9 %3A%0A%0ALe %C2%ABNew York Times%C2%BB poursuit en justice Microsoft et OpenAI pour violation des droits d%E2%80%99auteur%0Ahttps%3A%2F%2Fwww.letemps.ch%2Feconomie%2Fcyber%2Fle-new-york-times-poursuit-en-justice-microsoft-et-openai-pour-violation-des-droits-d-auteur%3Futm_medium%3Dpartage-social%26utm_source%3Dmail" class="icon-link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="icon icon--social"><title>Partager cet article par email</title><path d="m48 64c-26.5 0-48 21.5-48 48 0 15.1 7.1 29.3 19.2 38.4l217.6 163.2c11.4 8.5 27 8.5 38.4 0l217.6-163.2c12.1-9.1 19.2-23.3 19.2-38.4 0-26.5-21.5-48-48-48zm-48 112v208c0 35.3 28.7 64 64 64h384c35.3 0 64-28.7 64-64v-208l-217.6 163.2c-22.8 17.1-54 17.1-76.8 0z"></path></svg>
+
+    </a>
+  </li>   
+  
+  <li>
+    <a target="_blank" href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.letemps.ch%2Feconomie%2Fcyber%2Fle-new-york-times-poursuit-en-justice-microsoft-et-openai-pour-violation-des-droits-d-auteur%3Futm_medium%3Dpartage-social%26utm_source%3Dlinkedin" class="icon-link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="icon icon--social"><title>Partager cet article sur Linkedin</title><path d="m100.28 448h-92.88v-299.1h92.88zm-46.49-339.9c-29.7 0-53.79-24.6-53.79-54.3a53.79 53.79 0 0 1 107.58 0c0 29.7-24.1 54.3-53.79 54.3zm394.11 339.9h-92.68v-145.6c0-34.7-.7-79.2-48.29-79.2-48.29 0-55.69 37.7-55.69 76.7v148.1h-92.78v-299.1h89.08v40.8h1.3c12.4-23.5 42.69-48.3 87.88-48.3 94 0 111.28 61.9 111.28 142.3v164.3z"></path></svg>
+
+    </a>
+  </li>
+
+  <li>
+    <a target="_blank" href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.letemps.ch%2Feconomie%2Fcyber%2Fle-new-york-times-poursuit-en-justice-microsoft-et-openai-pour-violation-des-droits-d-auteur%3Futm_medium%3Dpartage-social%26utm_source%3Dfacebook" class="icon-link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512" class="icon icon--social"><title>Partager cet article sur Facebook</title><path d="m279.14 288 14.22-92.66h-88.91v-60.13c0-25.35 12.42-50.06 52.24-50.06h40.42v-78.89s-36.68-6.26-71.75-6.26c-73.22 0-121.08 44.38-121.08 124.72v70.62h-81.39v92.66h81.39v224h100.17v-224z"></path></svg>
+
+    </a>
+  </li>
+  
+  <li>
+    <a target="_blank" href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.letemps.ch%2Feconomie%2Fcyber%2Fle-new-york-times-poursuit-en-justice-microsoft-et-openai-pour-violation-des-droits-d-auteur%3Futm_medium%3Dpartage-social%26utm_source%3Dtwitter&amp;text=Le+%C2%ABNew+York+Times%C2%BB+poursuit+en+justice+Microsoft+et+OpenAI+pour+violation+des+droits+d%E2%80%99auteur+%7C+via+%40letemps" class="icon-link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="icon icon--social"><title>Partager cet article sur Twitter</title><!--! Font Awesome Pro 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"></path></svg>
+
+    </a>
+  </li>
+  
+  <li>
+    <span class="icon-link" data-ariato="CopyToClipboard" data-value="https://www.letemps.ch/economie/cyber/le-new-york-times-poursuit-en-justice-microsoft-et-openai-pour-violation-des-droits-d-auteur?utm_medium=partage-social&amp;utm_source=copylink">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" class="icon icon--social"><title>Partager un lien vers cet article</title><path d="m579.8 267.7c56.5-56.5 56.5-148 0-204.5-50-50-128.8-56.5-186.3-15.4l-1.6 1.1c-14.4 10.3-17.7 30.3-7.4 44.6s30.3 17.7 44.6 7.4l1.6-1.1c32.1-22.9 76-19.3 103.8 8.6 31.5 31.5 31.5 82.5 0 114l-112.2 112.4c-31.5 31.5-82.5 31.5-114 0-27.9-27.9-31.5-71.8-8.6-103.8l1.1-1.6c10.3-14.4 6.9-34.4-7.4-44.6s-34.4-6.9-44.6 7.4l-1.1 1.6c-41.2 57.4-34.7 136.2 15.3 186.2 56.5 56.5 148 56.5 204.5 0zm-519.6-23.4c-56.5 56.5-56.5 148 0 204.5 50 50 128.8 56.5 186.3 15.4l1.6-1.1c14.4-10.3 17.7-30.3 7.4-44.6s-30.3-17.7-44.6-7.4l-1.6 1.1c-32.1 22.9-76 19.3-103.8-8.6-31.5-31.6-31.5-82.6 0-114.1l112.2-112.3c31.5-31.5 82.5-31.5 114 0 27.9 27.9 31.5 71.8 8.6 103.9l-1.1 1.6c-10.3 14.4-6.9 34.4 7.4 44.6s34.4 6.9 44.6-7.4l1.1-1.6c41.2-57.5 34.7-136.3-15.3-186.3-56.5-56.5-148-56.5-204.5 0z"></path></svg>
+
+    </span>
+  </li>
+
+</ul>
+
       </div>
     </div>
+    <aside class="sidebar sidebar--right">
+    <div id="adnz_halfpage_1" class="aside__adzn"></div>
+</aside>
+
+</article>
+
+
+  <!-- empty block on post page between post and suggestions -->
+
+    <aside data-ariato="Ariato.LazyNode" class="post__suggestions" data-url="/articles/le-new-york-times-poursuit-en-justice-microsoft-et-openai-pour-violation-des-droits-d-auteur/suggestions"></aside>
+
+  </section>
+</main>
+    <footer class="site-footer">
+  <div class="width-limiter">
+    <nav class="footer-contact">
+      <h2>le Temps</h2>
+      <ul>
+        <li><a href="/impressum">Impressum</a></li>
+        <li><a href="/a-propos">À propos</a></li>
+        <li><a href="/communication">Communication</a></li>
+        <li><a href="https://publicite.letemps.ch/" target="_blank" rel="noopener">Régie Publicitaire</a></li>
+        <li><a href="https://publicite.letemps.ch/avis-de-deces/" target="_blank" rel="noopener">Avis de décès</a></li>
+        <li><a target="_blank" rel="noopener" href="/evenements">Événements</a></li>
+        <li><a href="/emplois">Emplois</a></li>
+      </ul>
+    </nav>
+    <nav class="footer-contact">
+      <h2>Abonnements et Services</h2>
+      <ul>
+        <li><a href="/abonnements">Abonnements</a></li>
+        <li><a target="_blank" rel="noopener" href="https://events.letemps.ch/privileges">Services aux abonnés</a></li>
+        <li><a href="/pdf">Epaper/PDF</a></li>
+        <li><a href="/newsletters">Newsletters</a></li>
+        <li><a href="/tags/t-le-magazine-du-temps">Magazine T</a></li>
+        <li><a href="https://jim.media/e-paper" target="_blank" rel="noopener">Journal de l'immobilier</a></li>
+        <li><a href="/questions-frequentes">Questions fréquentes</a></li>
+        <li><a href="/archive">Archives</a></li>
+        <li><a href="https://www.letempsarchives.ch/" target="_blank" rel="noopener">Archives historiques</a></li>
+      </ul>
+    </nav>
+
+    <nav class="footer-contact">
+      <h2>Documents de références</h2>
+      <ul>
+        <li><a href="/conditions-generales-utilisation">Conditions générales d&#39;utilisation</a></li>
+        <li><a href="/conditions-generales-vente">Conditions générales de vente</a></li>
+        <li><a href="/politique-de-confidentialite">Politique de confidentialité</a></li>
+        <li><a href="javascript:Didomi.preferences.show()">Gestion des cookies</a></li>
+        <li><a target="_blank" rel="noopener" href="/letemps/pdf/Charte_redactionnelle_v4.pdf">Charte rédactionnelle</a></li>
+        <li><a href="/charte-partenariats">Charte des partenariats</a></li>
+      </ul>
+    </nav>
+
+    <nav class="footer-social">
+      <h2>Suivez Le Temps</h2>
+      <ul>
+        <li>
+          <a href="https://www.facebook.com/letemps.ch/" target="_blank" title="Facebook" rel="noopener">
+            <span class="icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path d="m279.14 288 14.22-92.66h-88.91v-60.13c0-25.35 12.42-50.06 52.24-50.06h40.42v-78.89s-36.68-6.26-71.75-6.26c-73.22 0-121.08 44.38-121.08 124.72v70.62h-81.39v92.66h81.39v224h100.17v-224z"></path></svg>
+</span>
+            <span>Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/@letemps" target="_blank" title="Twitter">
+            <span class="icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Pro 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"></path></svg>
+</span>
+            <span>Ex-Twitter</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.linkedin.com/company/le-temps/" target="_blank" title="Linkedin" rel="noopener">
+            <span class="icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="m100.28 448h-92.88v-299.1h92.88zm-46.49-339.9c-29.7 0-53.79-24.6-53.79-54.3a53.79 53.79 0 0 1 107.58 0c0 29.7-24.1 54.3-53.79 54.3zm394.11 339.9h-92.68v-145.6c0-34.7-.7-79.2-48.29-79.2-48.29 0-55.69 37.7-55.69 76.7v148.1h-92.78v-299.1h89.08v40.8h1.3c12.4-23.5 42.69-48.3 87.88-48.3 94 0 111.28 61.9 111.28 142.3v164.3z"></path></svg>
+</span>
+            <span>Linkedin</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.instagram.com/letemps.ch/" target="_blank" title="Instagram" rel="noopener">
+            <span class="icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="m224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9 114.9-51.3 114.9-114.9-51.3-114.9-114.9-114.9zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zm-47.8 224.5c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"></path></svg>
+</span>
+            <span>Instagram</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.youtube.com/letemps" target="_blank" title="Youtube" rel="noopener">
+            <span class="icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="m549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597-42.59-11.486-213.371-11.486-213.371-11.486s-170.78 0-213.371 11.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821 42.591 11.486 213.371 11.486 213.371 11.486s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508v-162.406l142.739 81.205z"></path></svg>
+</span>
+            <span>Youtube</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.tiktok.com/@letemps" target="_blank" title="Tiktok" rel="noopener">
+            <span class="icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="m448 209.91a210.06 210.06 0 0 1 -122.77-39.25v178.72a162.55 162.55 0 1 1 -140.23-161.07v89.89a74.62 74.62 0 1 0 52.23 71.18v-349.38h88a121.18 121.18 0 0 0 1.86 22.17 122.18 122.18 0 0 0 53.91 80.22 121.43 121.43 0 0 0 67 20.14z"></path></svg>
+</span>
+            <span>Tiktok</span>
+          </a>
+        </li>
+      </ul>
+    </nav>
+  </div>
+  <section class="footer-about">
+    <div class="width-limiter">
+      <a href="/" class="logo" title="Le Temps">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 235 34.96" fill="#930025">
+  <path d="M29.88,34.27v-.34a17.39,17.39,0,0,0,3.66-.54,2.13,2.13,0,0,0,1.52-2.31V4.17a2.27,2.27,0,0,0-1.52-2.45,14.27,14.27,0,0,0-3.66-.64V.74h27.6V8.89H57c-.63-2.21-3.76-7.07-6.06-7.37a43.82,43.82,0,0,0-4.59-.24H41.56V16.6h4.1c2.73,0,3.61-.89,4.2-1.53.88-.83,1.85-3.68,2-5h.48v13.8h-.48a13.58,13.58,0,0,0-2.06-5.2c-.63-.74-1.56-1.53-4.2-1.53h-4.1V29.36c0,3.83.83,4.32,5.52,4.32,3.08,0,6.35,0,7.53-1.12,1.71-1.78,4.3-6.49,5-8.1h.44l-.64,9.81H29.88"></path>
+  <path d="M101.8,9.53h-.44c-.58-2.17-3.56-7.71-5.66-8a29.67,29.67,0,0,0-3.77-.2H89.78V30.84a2.44,2.44,0,0,0,1.52,2.45,23,23,0,0,0,4,.64v.34H77.82v-.34a23.9,23.9,0,0,0,4-.54,2.33,2.33,0,0,0,1.52-2.46V1.33h-2.1a31.36,31.36,0,0,0-3.76.2c-2.1.29-5.13,5.84-5.72,8h-.44V.74H101.8V9.53"></path>
+  <path d="M102.8,34.27v-.34a17.49,17.49,0,0,0,3.67-.54A2.13,2.13,0,0,0,108,31.08V4.17a2.27,2.27,0,0,0-1.51-2.45,14.27,14.27,0,0,0-3.67-.64V.74h27.6V8.89h-.49c-.63-2.21-3.76-7.07-6.06-7.37a43.82,43.82,0,0,0-4.59-.25h-4.78V16.6h4.1c2.74,0,3.61-.89,4.2-1.53.88-.83,1.85-3.68,2-5h.49v13.8h-.49a13.72,13.72,0,0,0-2-5.2c-.64-.74-1.57-1.53-4.2-1.53h-4.1V29.36c0,3.83.83,4.32,5.52,4.32,3.07,0,6.35,0,7.51-1.12,1.72-1.78,4.31-6.49,5-8.1H133l-.64,9.81H102.8"></path>
+  <path d="M177.53,34.27h-17.2v-.34a18,18,0,0,0,4.06-.59A2.58,2.58,0,0,0,166,30.83V3.49L153.64,33.73h-.88c-.49-1.52-1.71-5-2.49-6.82L140.4,4.23V26.47c0,3.78.54,5.55,1.62,6.48.82.68,4,.93,4.93,1v.34H133.57v-.34c.82-.1,3.32-.1,4.49-.94s1.56-2.75,1.56-6.48V6.38c0-2-.49-3.39-1.46-4.17a7.75,7.75,0,0,0-4.35-1.13V.74h11.87l10.7,24.15,8.16-20A16.3,16.3,0,0,0,165.61.74h11.87v.34a18.74,18.74,0,0,0-3.57.59,2.19,2.19,0,0,0-1.51,2.41V30.84a2.42,2.42,0,0,0,1.51,2.4,14.38,14.38,0,0,0,3.62.68v.35"></path>
+  <path d="M194.79,19.2h-3.08V30.93a2.33,2.33,0,0,0,1.52,2.46,16.53,16.53,0,0,0,3.71.54v.35H180.09v-.35a19.91,19.91,0,0,0,3.61-.54,2.28,2.28,0,0,0,1.51-2.4V4.17a2.26,2.26,0,0,0-1.51-2.45A15.59,15.59,0,0,0,180,1.08V.74h16.95c6.89,0,11.33,2.8,11.33,8.15,0,7-6.64,10.31-13.48,10.31Zm-.54-17.82h-2.54V18.51h1.71c6.25,0,7.58-5.15,7.58-8.44,0-4.28-1.53-8.69-6.75-8.69Z"></path>
+  <path d="M223.18,35a17.61,17.61,0,0,1-9.82-2.65l-1.62,2.4h-.49L211,22.83h.43c2.4,6.29,5.92,11.49,11.58,11.49,4.64,0,6.6-3.29,6.6-6.82,0-2.95-2-5.16-5.22-6.38-2.49-1-4.44-1.63-6.64-2.56a9.16,9.16,0,0,1-5.87-9.08c0-5.26,4.3-9.48,10.65-9.48a15.44,15.44,0,0,1,8.74,2.46L232.76.25h.49l.2,11.39H233c-1.85-5.75-4.79-11-10.4-11a5.62,5.62,0,0,0-5.67,5.58v.26c0,2.95,1.61,4.86,5,6.38,2.2,1,4.59,1.67,6.5,2.51,4,1.81,6.6,4,6.6,9.23,0,6-4.94,10.36-11.82,10.36"></path>
+  <path d="M29.36,24.26l-.64,10H0v-.34a17.12,17.12,0,0,0,3.62-.54A2.28,2.28,0,0,0,5.13,31V4.17A2.33,2.33,0,0,0,3.62,1.72,13.49,13.49,0,0,0,0,1.08V.74H16.66v.34a17.33,17.33,0,0,0-3.52.39,2.25,2.25,0,0,0-1.51,2.46V29.32c0,3.92.87,4.37,5.51,4.37,3,0,5.67-.1,6.74-1.19A41.11,41.11,0,0,0,29,24.26h.39"></path>
+</svg>
+
+      </a>
+      <nav>
+        <ul>
+          <li>Avenue du Bouchet 2, 1209 Genève | Service Clients: +41 22 539 10 75 | <a href="/contact">Contactez Le Temps</a></li>
+        </ul>
+      </nav>
+    </div>
+  </section>
+</footer>
+
+
+    <script src="https://letemps-17455.kxcdn.com/assets/application-88c6805070b31b8382293ebcb6d12d371c158548853e771ab938c7586ef3e8e8.js"></script>
     
-  </div> <!-- /content -->
-</article> <!-- /article #node -->
-
-    </div>
-
-  </div>
-</div> <!-- /block-inner /block -->  </div>
-      </div>
-      
-    </div>
-
-        
-  </div>
-  
-  <div id="footer-wrapper">
-    <footer id="footer">
-        <div class="region region-footer-top">
-    <div id="block-menu_block-4" class="block block-menu-block block-odd first clearfix">
-  <div class="block-inner">
-
-            
-
-    <div class="content" >
-      <div class="menu-block-wrapper menu-block-4 menu-name-menu-menu-footer-top parent-mlid-0 menu-level-1">
-  <ul class="menu"><li class="first leaf menu-mlid-985 id-propos mid-985"><a href="/a-propos" title="">À propos</a></li>
-<li class="leaf menu-mlid-988 newsletters mid-988"><a href="/newsletters">Newsletters</a></li>
-<li class="leaf menu-mlid-986 id-quipe-cr-dits mid-986"><a href="/lequipe-editoriale-credits">Équipe / crédits</a></li>
-<li class="leaf menu-mlid-989 nous-contacter mid-989"><a href="/nous-contacter">Nous contacter</a></li>
-<li class="leaf menu-mlid-1608 charte-d-utilisation mid-1608"><a href="/charte-dutilisation" title="">Charte d&#039;utilisation</a></li>
-<li class="leaf menu-mlid-990 plan-du-site mid-990"><a href="/plan-du-site" title="">Plan du  site</a></li>
-<li class="leaf menu-mlid-987 donn-es-personnelles mid-987"><a href="/donnees-personnelles-rgpd">Données personnelles</a></li>
-<li class="last leaf menu-mlid-1611 mentions-l-gales mid-1611"><a href="/mentions-legales" title="">Mentions légales</a></li>
-</ul></div>
-    </div>
-
-  </div>
-</div> <!-- /block-inner /block --><div id="block-views-archives-block_2" class="block block-views block-even clearfix">
-  <div class="block-inner">
-
-            
-
-    <div class="content" >
-      <div class="view view-archives view-id-archives view-display-id-block_2 view-dom-id-d91be766f1dadc82320a44fc1cf9704c">
-        
-  
-  
-      <div class="view-content">
-        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last clearfix">
-      
-  <div class="views-field views-field-field-archive-visuel">        <div class="field-content"><a href="https://lejournal.cnrs.fr/sites/default/files/numeros_papier/jdc313_web_0.pdf" title="Télécharger le dernier numéro"><img src="https://lejournal.cnrs.fr/sites/default/files/styles/archive_70x97/public/numeros_papier/vignettes/couv_jdc313_web.jpg?itok=1VWOKgkF" width="70" height="97" alt="" /></a></div>  </div>  
-  <div class="views-field views-field-nothing">        <div class="field-content"><h4>Numéros papiers</h4>
-<div class="archive-footer-title"><a href="https://lejournal.cnrs.fr/sites/default/files/numeros_papier/jdc313_web_0.pdf" title="Télécharger le dernier numéro">CNRS Le journal - septembre 2023</a></div>
-<div class="archive-footer-no">n°313</div>
-<div class="archive-footer-all"><a href="/numeros-papiers">Voir tous les numéros</a></div>
-</div>  </div>  </div>
-    </div>
-  
-  
-  
-  
-  
-  
-</div>    </div>
-
-  </div>
-</div> <!-- /block-inner /block --><div id="block-menu_block-6" class="block block-menu-block block-odd clearfix">
-  <div class="block-inner">
-
-              <h3 class="block-title">Nous suivre</h3>
-        
-
-    <div class="content" >
-      <div class="menu-block-wrapper menu-block-6 menu-name-menu-nous-suivre parent-mlid-0 menu-level-1">
-  <ul class="menu"><li class="first leaf menu-mlid-991 twitter mid-991"><a href="https://twitter.com/CNRS" title="Nous suivre sur Twitter" target="_blank">Twitter</a></li>
-<li class="leaf menu-mlid-881 facebook mid-881"><a href="https://www.facebook.com/cnrs.fr" title="Nous suivre sur Facebook" target="_blank">Facebook</a></li>
-<li class="leaf menu-mlid-992 google mid-992"><a href="https://plus.google.com/115315735435752766476/posts" title="Nous suivre sur Google+" target="_blank">Google</a></li>
-<li class="last leaf menu-mlid-993 dailymotion mid-993"><a href="http://www.dailymotion.com/CNRS" title="Nous suivre sur Dailymotion">Dailymotion</a></li>
-</ul></div>
-    </div>
-
-  </div>
-</div> <!-- /block-inner /block --><div id="block-block-3" class="block block-block block-even last clearfix">
-  <div class="block-inner">
-
-              <h3 class="block-title">Partager</h3>
-        
-
-    <div class="content" >
-      <ul class="menu">
-  <li class="first leaf menu-mlid-996 twitter mid-996">
-    <a href="https://twitter.com/intent/tweet?url=https%3A//lejournal.cnrs.fr/articles/athenan-une-ia-joueuse-multi-championne" title="Partager sur Twitter" target="_blank">Twitter</a>
-  </li>
-  <li class="leaf menu-mlid-995 facebook mid-995">
-    <a href="http://www.facebook.com/sharer/sharer.php?s=100&amp;p%5Burl%5D=https%3A//lejournal.cnrs.fr/articles/athenan-une-ia-joueuse-multi-championne&amp;p%5Btitle%5D=Ath%C3%A9nan%2C%20une%20IA%20joueuse%20multi-championne&amp;p%5Bimages%5D%5B0%5D=https%3A//lejournal.cnrs.fr/sites/default/files/styles/lightbox-hd/public/assets/images/adobestock_271413703_72dpi.jpg%3Fitok%3DiX6gHdSX&amp;p%5Bsummary%5D=Zoom%20sur%20un%20syst%C3%A8me%20fran%C3%A7ais%20qui%20a%20rafl%C3%A9%20la%20mise%20lors%20de%20la%20r%C3%A9cente%2024e%20Computer%20Olympiad%2C%20une%20comp%C3%A9tition%20mondiale%20multijeux%20pour%20intelligences%20artificielles." title="Partager sur Facebook" target="_blank">Facebook</a>
-  </li>
-  <li class="leaf menu-mlid-997 google mid-997">
-    <a href="https://plus.google.com/share?url=https%3A//lejournal.cnrs.fr/articles/athenan-une-ia-joueuse-multi-championne" title="Partager sur Google+" target="_blank">Google</a>
-  </li>
-  <li class="last leaf menu-mlid-998 email mid-998">
-    <a href="/printmail" title="Partager par courrier électronique" target="_blank">Email</a>
-  </li>
-</ul>    </div>
-
-  </div>
-</div> <!-- /block-inner /block -->  </div>
-      <a class="fondation-link mobile" title="Visiter le site de la fondation du CNRS" href="https://fondation-cnrs.org/" target="_blank"><img src="/sites/all/themes/cnrs/images/logofondation.svg" /><span>Faites un don pour la recherche !</span></a>
-        <div class="region region-footer-middle">
-    <div id="block-block-2" class="block block-block block-odd first clearfix">
-  <div class="block-inner">
-
-            
-
-    <div class="content" >
-      <div class="left"><a href="http://www.cnrs.fr/" class="footer-cnrs"><img src="/sites/all/themes/cnrs/images/logo-cnrs-blue-new.svg" alt="Centre National de la Recherche Scientifique" height="60px"/></a></div>
-<div class="right">© 2023, CNRS</div>
-    </div>
-
-  </div>
-</div> <!-- /block-inner /block --><div id="block-menu_block-5" class="block block-menu-block block-even last clearfix">
-  <div class="block-inner">
-
-            
-
-    <div class="content" >
-      <div class="menu-block-wrapper menu-block-5 menu-name-menu-menu-footer parent-mlid-0 menu-level-1">
-  <ul class="menu"><li class="first leaf menu-mlid-972 cr-er-un-compte mid-972"><a href="/user/register?destination=node/2979">Créer un compte</a></li>
-<li class="leaf menu-mlid-971 se-connecter mid-971"><a href="/user/login?destination=node/2979">Se connecter</a></li>
-<li class="leaf menu-mlid-1836 mon-compte mid-1836"><a href="/user">Mon compte</a></li>
-<li class="leaf menu-mlid-999 politique-d-accessibilit- mid-999"><a href="/politique-daccessibilite">Politique d&#039;accessibilité</a></li>
-<li class="last leaf menu-mlid-3213 gestion-des-cookies mid-3213"><a href="/nos-blogs/de-la-decouverte-a-linnovation/inventions-la-saga-continue-le-robot-qui-decryptait-nos">Gestion des cookies</a></li>
-</ul></div>
-    </div>
-
-  </div>
-</div> <!-- /block-inner /block -->  </div>
-          </footer> <!-- /footer -->
-  </div>
-  
-</div>
-</div>   
-  <!--[if lte IE 9]>
-  <script src="/sites/all/themes/cnrs/js/html5shiv.js"></script>
-  <![endif]-->
-
-  <!-- Monitoring Eyona -->
-
-  <script>
-    window.axeptioSettings = {
-      clientId: "604f6a379f90944b3c500407",
-      cookiesVersion: "https://lejournal/-base",
-    };
-
-    (function(d, s) {
-      var t = d.getElementsByTagName(s)[0], e = d.createElement(s);
-      e.async = true; e.src = "//static.axept.io/sdk.js";
-      t.parentNode.insertBefore(e, t);
-
-    })(document, "script");
-  </script>
-</body>
+    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  </body>
 </html>

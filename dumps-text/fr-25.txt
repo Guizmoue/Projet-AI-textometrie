@@ -1,0 +1,242 @@
+    #alternate
+
+   [ ]
+
+   Photo Je m’abonne
+   (BUTTON)
+
+   Recherche (BUTTON) Mode Newsletters
+
+   Photo
+   Habiter le monde autrement
+   Je m’abonne à partir de 1€
+
+   La France vue de l’étranger Géopolitique Économie Société Politique
+   Sciences et environnement Culture Courrier Expat Longs formats Vidéos
+   Podcasts Infographies Réveil Courrier Courrier Stories Application Tous
+   les hebdos Tous les pays Nos sources Horoscope
+
+   Réveil Courrier Bande de Gaza Guerre en Ukraine Venezuela L’hebdo
+   Horoscope Courrier Stories
+
+     * Société
+     * Intelligence artificielle (IA)
+
+   Journalisme.
+
+Google s’apprête à lancer un outil d’intelligence artificielle capable
+d’écrire des articles de presse
+
+   Plusieurs grands journaux américains, dont “The New York Times” qui a
+   publié l’information, ont été approchés par la multinationale pour
+   qu’ils utilisent Genesis, son nouveau logiciel d’“assistance aux
+   journalistes”.
+   Logo
+   Courrier international
+   Publié le 21 juillet 2023 à 05h22 Lecture 2 min.
+   Photo combinant le logo de Google, le terme “intelligence
+   artificielle”, une poupée et un clavier, le 4 mai 2023. Photo combinant
+   le logo de Google, le terme “intelligence artificielle”, une poupée et
+   un clavier, le 4 mai 2023. Photo DADO RUVIC/REUTERS
+
+   (BUTTON) Partager
+
+   “Google procède actuellement à des tests sur un produit novateur
+   exploitant une intelligence artificielle (IA) pour produire des
+   articles”, a révélé The New York Times le mercredi 19 juillet. Selon
+   des sources proches du dossier citées par le quotidien, le géant de la
+   tech a présenté cet outil spécialisé, baptisé “Genesis”, à des organes
+   de presse “influents”, tels que The New York Times, The Washington Post
+   et News Corp, propriétaire notamment du Wall Street Journal.
+   Lire aussi : Allemagne. Des journalistes du tabloïd “Bild” bientôt
+   remplacés par de l’intelligence artificielle
+
+   Genesis a été conçu en interne pour collecter des informations, et
+   générer automatiquement du contenu d’actualités. Google envisage cette
+   technologie comme un potentiel assistant pour les journalistes,
+   “automatisant certaines tâches afin de leur libérer du temps pour
+   qu’ils se concentrent sur d’autres aspects de leur métier”, précise le
+   New York Times.
+
+   Répondant à certaines inquiétudes légitimes, l’entreprise voit
+   également en Genesis une occasion de guider l’industrie du journalisme
+   “vers une utilisation responsable de l’IA, évitant les écueils liés à
+   la génération automatique de contenus”, note le quotidien.
+
+OpenAI aussi sur le créneau
+
+   Dans un communiqué publié par le site d’information technologique The
+   Verge, une porte-parole de Google, Jenn Crider, a affirmé que
+   l’entreprise était “en phase d’exploration avec des éditeurs de presse,
+   en particulier les plus petits”, pour proposer “des outils compatibles
+   avec l’IA afin d’assister les journalistes dans leur travail”.
+
+   Elle a également souligné que “ces outils ne visaient pas à remplacer
+   le rôle essentiel des journalistes dans le processus de collecte
+   d’informations, la création de contenus et la vérification des faits”.
+   Au contraire, ils fourniraient des “options” pour faciliter certaines
+   tâches éditoriales, comme la rédaction de la titraille et l’édition.
+   Lire aussi : Une du jour. L’intelligence artificielle signe “la fin de
+   la vérité”
+
+   Le nouvel outil de Google arrive alors qu’OpenAI, la société mère de
+   ChatGPT, conclut ses propres “partenariats” avec des médias, relate
+   Vanity Fair. L’agence Associated Press (AP), qui automatise déjà
+   certaines tâches grâce à des outils d’IA depuis bientôt dix ans, a
+   ainsi été l’une des premières à signer un accord de deux ans avec
+   OpenAI : elle concède ses archives textuelles dans le but former les
+   algorithmes d’IA de l’entreprise, en échange de quoi elle bénéficiera
+   de l’accès à la technologie d’OpenAI et à son expérience en la matière.
+   Cet accord a suscité l’intérêt d’autres acteurs du journalisme, qui
+   sont en pourparlers avec le leader du secteur.
+
+Des journalistes inquiets
+
+   CNN Business se penche sur les “inquiétudes” que cette nouvelle
+   technologie suscite parmi les journalistes, qui craignent qu’une
+   automatisation excessive de leur travail en compromette la qualité et
+   l’intégrité. Notamment en raison de la tendance des IA génératives
+   (comme ChatGPT ou Bard, l’outil généraliste développé par Google) à se
+   tromper sur les faits, voire à les “imaginer”.
+
+   CNN rappelle que le site Cnet a dû procéder à des corrections
+   “substantielles” plus tôt cette année après avoir expérimenté un outil
+   d’IA pour la rédaction d’articles. Une simple frise chronologique des
+   différents films de la saga Star Wars, publiée par le blog spécialisé
+   dans les nouvelles technologies Gizmodo, s’était révélée truffée
+   d’erreurs.
+
+   Gizmodo, justement, évoque un rapport sur l’état des médias publié en
+   mai, pour lequel 3 100 journalistes provenant de 17 pays ont été
+   interrogés sur ce qu’ils pensaient de l’utilisation de l’IA dans les
+   salles de rédaction. Il en ressort que plus de la moitié des personnes
+   sondées (58 %) se disent préoccupées par “l’exactitude des
+   informations”, “les biais” induits par la technologie, et la difficulté
+   croissante à discerner “les faits de l’opinion”.
+   Lire aussi : Procès. Voyant les IA exploiter leur travail, auteurs et
+   artistes exigent d’être payés
+
+   Les journalistes, comme de nombreux autres professionnels, ont
+   également des craintes quant à la pérennité de leur emploi. La chaîne
+   de télé NBC News évoque ainsi une récente étude publiée par
+   l’Organisation de coopération et de développement économiques, un
+   groupe intergouvernemental, qui estime à 27 % la proportion d’emplois
+   fortement menacés par cette nouvelle automatisation.
+
+   Courrier international
+   Sur le même sujet
+
+   Depuis l’émergence de ChatGPT, la démocratisation des usages de l’IA
+   sème le trouble au sein des universités.
+
+   Technologies. Moins de visites sur ChatGPT car les “étudiants
+   tricheurs” sont en vacances
+
+   Sur le chevalet porte-nom : Réponses.
+
+   Interview. “Au Japon, l’IA s’installe assez naturellement”
+
+   Elon Musk à Paris, le 16 juin 2023, à l’occasion de VivaTech, le
+   rendez-vous annuel consacré à l’innovation technologique et aux
+   start-up.
+
+   Technologie. Elon Musk lance une start-up pour défier ChatGPT
+
+   “San Francisco se rêve en capitale mondiale de l’IA”.
+
+   Technologie. San Francisco se rêve en capitale mondiale de l’IA
+   Big Tech Médias Réveil Nouvelles technologies Société Gafa Intelligence
+   artificielle (IA) Google
+
+   Nos services
+   Photo
+   Best Of 2023
+   Géopolitique, sciences, société… Retrouvez dans notre hors-série les
+   photos et les articles de la presse étrangère qui ont marqué 2023.
+   Commander votre hors-série →
+   Photo
+   Éditions Christine Bonneton
+   Tentez de remporter un exemplaire de l’album « Voyages autour des lieux
+   mystérieux » de Sarah Baxter, proposé par les éditions Christine
+   Bonneton.
+   Je reçois mon guide →
+   Photo
+   Perlego
+   Découvrez la bibliothèque en ligne Perlego et profitez d’une offre
+   spéciale sur votre abonnement.
+   Je profite de l’offre spéciale →
+   Photo
+   Éditions Ankama
+   Tentez de remporter un exemplaire de l’album « Sống » de Hai-Anh et
+   Pauline Guitton, proposé par les éditions Ankama.
+   Je reçois mon album →
+
+   Les plus lus
+
+   La chronique du New York Times. Modern Love : j’ai fini par apprendre
+   les bienfaits romantiques des cadeaux inutiles
+
+   Économie. En Chine, la rupture du contrat social menace le pouvoir
+
+   Vu de l’étranger. Alcool : la France de Macron rechigne toujours à
+   soutenir le Défi de janvier
+
+   Reportage. Voyage en Albanie, pays du miracle économique
+
+   Nos services
+   Photo
+   Best Of 2023
+   Géopolitique, sciences, société… Retrouvez dans notre hors-série les
+   photos et les articles de la presse étrangère qui ont marqué 2023.
+   Commander votre hors-série →
+   Photo
+   Éditions Christine Bonneton
+   Tentez de remporter un exemplaire de l’album « Voyages autour des lieux
+   mystérieux » de Sarah Baxter, proposé par les éditions Christine
+   Bonneton.
+   Je reçois mon guide →
+   Photo
+   Perlego
+   Découvrez la bibliothèque en ligne Perlego et profitez d’une offre
+   spéciale sur votre abonnement.
+   Je profite de l’offre spéciale →
+   Photo
+   Éditions Ankama
+   Tentez de remporter un exemplaire de l’album « Sống » de Hai-Anh et
+   Pauline Guitton, proposé par les éditions Ankama.
+   Je reçois mon album →
+
+   (BUTTON) (BUTTON) (BUTTON)
+   (BUTTON) (BUTTON)
+
+   [ ]
+
+   24 jours, 24 découvertes : le calendrier de Courrier international
+   Dessin
+
+   Newsletters (BUTTON) Applications
+   Photo
+   Hebdo Habiter le monde autrement
+   Photo
+   Hors-série Best-of 2023
+
+     * Qui sommes-nous ?
+     * CGVU
+     * Mentions légales
+     * Politique de confidentialité
+     * Paramétrer les cookies
+     * Nos flux RSS
+     * Agence Courrier international
+     * Annonceurs
+     * Contact
+     * Aide (FAQ)
+
+   (BUTTON)
+
+   Applications mobiles
+   Retrouvez l'actualité toute la journée, et l'hebdo en format numérique.
+   iPhone/iPad Android
+
+   Partager cette page
+
+   [iu3?pid=53ea394c-a65f-44b4-8583-4462975c707a&event=PageView]

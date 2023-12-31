@@ -1,0 +1,297 @@
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-59MW7L4
+
+   (BUTTON)
+
+   (BUTTON) Menu
+   Rechercher ____________________ (BUTTON)
+   Epaper/PDF Newsletters
+
+   logo letemps S'abonner Mon compte
+     * En continu
+     * Monde
+     * Suisse
+     * Économie
+     * Opinions
+     * Culture
+     * Société
+     * Sciences
+     * Sport
+     * Data
+     * Événements
+     * Vidéos
+     * Podcasts
+     *
+
+   ____________________ (BUTTON)
+     * S'abonner
+     * Accueil
+     * En continu
+     * Monde
+     * Suisse
+     * Économie
+     * Opinions
+     * Culture
+     * Société
+     * Sciences
+     * Sport
+     * Data
+     * Événements
+     * Hyperlien
+     * Dossiers
+     * Grands formats
+     * En images
+     * Vidéos
+     * Podcasts
+     *
+     *
+     * Epaper/PDF
+     * Newsletters
+     * Magazine T
+     * Le Journal de l'Immobilier
+     * Blogs
+     * Archives
+     * Archives historiques
+     *
+     * Abonnements
+     * Services aux abonnés
+     * Questions fréquentes
+     *
+     * Régie Publicitaire
+     * Avis de décès
+
+     * À propos
+     * Impressum
+     * Communication
+     * Emplois
+
+   Publicité
+
+    1. Accueil
+    2. Sciences
+
+     «Je suis impatient de pouvoir faire vraiment confiance aux machines»
+
+   Docteur en neurosciences, Greg Corrado dirige le groupe de recherche en
+   «réseaux de neurones» et intelligence artificielle chez Google. Il
+   était de passage au Brain Forum, à l’EPFL, pour évoquer les dernières
+   recherches du géant de l’Internet
+
+   Pour Greg Corrado (Google), ouvrir les données en Open Source est la
+   seule façon de faire progresser les recherches en intelligence
+   artificielle. — © PHILIPPE ROSSIER, BLICK NEWSROOM SWITZERLAND Pour
+   Greg Corrado (Google), ouvrir les données en Open Source est la seule
+   façon de faire progresser les recherches en intelligence artificielle.
+   — © PHILIPPE ROSSIER, BLICK NEWSROOM SWITZERLAND
+
+   Olivier Dessibourg et Adrian Meyer (Blick)
+   Publié le 27 mai 2016 à 18:40. / Modifié le 10 juin 2023 à 15:49.
+     *
+     *
+     *
+     *
+     *
+
+   C’est l’un des «cerveaux de Google». Au sens propre et… artificiel,
+   plus que figuré: Greg Corrado dirige, auprès de la firme de
+   MountainView (Californie), le groupe sur les «réseaux de neurones
+   profonds», une technique d’intelligence artificielle très en vogue,
+   pour laquelle tous les géants de l’Internet s’arrachent les meilleurs
+   experts. Docteur en neurosciences, Greg Corrado était le 26 mai au
+   Brain Forum, à l’EPFL.
+
+   - Si je vous envoie un courriel, est-ce vous, ou une machine
+   intelligente qui me répondra?
+     * (Rires) Vous faites référence à SmartReply, l’outil de réponse
+       intelligente que nous avons lancé en 2015. En 2009, on blaguait en
+       l’évoquant. Six ans plus tard, ce système est une réalité. Il se
+       dit qu’entre 10 et 20% des réponses à des courriers de Gmail sont
+       ainsi automatiques, sans que les gens le réalisent forcément…
+       Comment fonctionne-t-il? Un premier «réseau de neurones» décide si
+       l’email mérite une réponse. Si oui, un second réseau fait des
+       propositions de réponses, modifiables, mais qui ne sont pas a
+       priori personnalisées (par exemple en reprenant mes fautes de
+       langage…). Pour l’instant, car cela va venir dans Allo,
+       l’application de discussions que Google va lancer.
+
+   Lire aussi : Inbox de Gmail, dopé à l’intelligence artificielle,
+   impressionne et déstabilise
+
+   - «Réseau de neurones», «apprentissage automatisé» («machine learning»
+   ou «deep learning», en anglais), «intelligence artificielle» (IA):
+   quelles sont les différences?
+     * L’IA, c’est l’art et la science de programmer des machines les plus
+       intelligentes possibles; c’est un très large domaine. Le «machine
+       learning», c’est la tentation de construire des machines qui
+       apprennent de leurs expériences: un champ plus restreint, mais le
+       plus important et le plus prometteur aujourd’hui. La forme la plus
+       populaire est celle de l’apprentissage par l’exemple: on présente à
+       l’ordinateur des masses de données sur une problématique, puis on
+       lui demande de faire le tri sur d’autres paquets similaires, et
+       l’on indique à la machine si elle fait des erreurs, qu’elle peut
+       alors apprendre à corriger. Ainsi de suite.
+
+   Pour apprendre, l’ordinateur utilise des «réseaux de neurones»: il
+   s’agit de millions de compartimentages d’un problème écrits sous forme
+   de fonctions mathématiques, liées entre elles, et dont les paramètres
+   peuvent légèrement varier. Ce concept date d’il y a quelques décennies,
+   mais son application nécessitait trop de temps de calcul à l’époque.
+   Aujourd’hui, nous assistons à sa réincarnation, possible grâce à
+   l’énorme puissance actuelle des ordinateurs. Mais aussi grâce à des
+   outils utilisés surtout dans les jeux vidéos pour générer des images,
+   appelés «graphics processing units» (GPU), dont les mathématiques
+   sous-jacentes sont les mêmes que pour le machine learning. Au point que
+   Google a annoncé à mi-mai, à la conférence Google I/O, avoir mis au
+   point ses propres processeurs électroniques pour encore accélérer ce
+   mouvement.
+
+   - Ces réseaux de neurones ont-ils des désavantages?
+     * Par rapport aux ordinateurs habituels, ils sont plus difficiles à
+       utiliser de manière adéquate, à programmer, à «nettoyer» de leurs
+       erreurs. C’est pourquoi cette technologie est longtemps restée «de
+       niche», car inaccessible à la majorité des chercheurs. Vers 2013,
+       lorsque l’on s’est rendu compte de ce qu’on pouvait faire avec, les
+       experts disponibles n’étaient pas nombreux, donc très recherchés.
+       L’on a alors assisté, parmi les Google, Facebook, Baidu [le Google
+       chinois, ndlr] et autres à une chasse aux «génies». Aujourd’hui,
+       l’on vit le «printemps» de ce domaine, beaucoup explorent diverses
+       pistes d’applications. Et avec notamment les bibliothèques
+       d’algorithmes idoines en accès, chacun peut s’approprier cette
+       technologie. C’est dans cet esprit que nous avons lancé en 2015
+       TensorFlow, une collection d’outils pour utiliser ces techniques de
+       machine learning. Nous essayons de l’établir comme standard auprès
+       de l’industrie.
+
+   - De quoi, pour Google, développer un nouveau monopole?
+     * Oh non, car tout est en «open source», la licence sous laquelle
+       TensorFlow est distribuée l’est aussi. Cela permet aux gens de se
+       l’approprier, de la copier, la modifier. On ne la contrôle plus
+       entièrement. Je pense en fait que l’IA et le système «open source»
+       vont bien de pair: comme l’on ne connaît pas encore les meilleures
+       manières d’améliorer et exploiter le machine learning, plus il y a
+       de gens qui s’y intéressent et acquièrent des capacités, mieux
+       c’est.
+
+   - En 2015, vous avez commencé à appliquer cette technologie dans votre
+   moteur de recherche, à travers un «réseau de neurones» baptisé
+   RankBrain. Les résultats sont-ils vraiment meilleurs?
+     * Oui. Lorsque vous entrez une recherche dans Google Search, il y a
+       environ 200 paramètres, ou signaux, qui déterminent le classement
+       des résultats trouvés. Le système RankBrain, qui applique une
+       technologie de machine learning, est l’un d’eux. Or l’on s’est
+       aperçu que lorsqu’on le retirait, cela impactait sérieusement la
+       qualité des résultats. En fait, c’est même le troisième signal le
+       plus important dans le moteur de recherche, tant il permet de
+       vraiment comprendre ce que signifie la requête faite.
+
+   - Quels sont les défis qui vous fascinent le plus?
+     * L’apprentissage par l’exemple, l’humain le fait aussi. Or nous
+       parvenons en plus à apprendre en observant et interagissant avec
+       notre environnement. On appelle cela le «machine learning non
+       supervisé». L’idée est d’apprendre sans maître. C’est un domaine
+       très mal connu, depuis des années, dans lequel on attend une
+       percée. Par ailleurs, les autres challenges sont infiniment
+       nombreux: apprendre à partir d’un petit nombre d’exemples. Ou
+       reconnaître les subtilités dans la communication orale, et faire
+       que les machines à qui l’on parle comprennent mieux ce dont on
+       besoin: ce champ s’ouvre, et va exploser durant ces dix prochaines
+       années. Je suis impatient quant à la possibilité d’avoir une
+       interaction avec une machine à laquelle je puisse vraiment faire
+       confiance, qui me comprenne même si je n’utilise pas les mots
+       exacts, qu’elle saisisse mes intentions. Voire me fasse des
+       propositions alternatives si elle ne trouve pas ce que je lui
+       demande.
+
+   - Nous sommes ici au Brain Forum, la réunion de tous les grands projets
+   sur le cerveau dans le monde, dont l’un est le Human Brain Project
+   (HBP) européen. Vos travaux ont-ils des intersections avec ces grandes
+   initiatives?
+     * Pas vraiment, il s’agit de deux sous-domaines des neurosciences. Le
+       HBP fait des neurosimulations pour directement modéliser ce qui se
+       passe dans le cerveau. On peut se demander si ces simulations sont
+       utiles? De notre côté, nous voulons créer des choses qui le soient…
+       cette année déjà. L’échelle de temps de nos activités est
+       différente.
+
+   - Vous n’évoquez pas ce qu’on appelle l’«intelligence artificielle
+   générale», qui serait l’égale de celle de l’homme. En est-on loin?
+     * Oui, très très loin.
+
+   Lire aussi: Jürgen Schmidhuber: «Rien ne servira à l’homme de tenter de
+   contrôler les machines superintellingentes»
+
+   - Cela n’empêche pas nombre de gens, dont certains célèbres (Stephan
+   Hawking, Elon Musk, etc.), de craindre ce moment où les machines
+   pourraient prendre le contrôle. Est-ce un souci chez Google?
+     * On doit toujours se demander quelles sont les implications des
+       technologies que l’on développe. Mais cela prend souvent du temps
+       pour y voir clair. Prenez le moteur à combustion: ses impacts
+       environnementaux n’étaient pas évidents dès le début. Il est
+       toutefois très important que tous ces systèmes, lorsqu’ils sont
+       intégrés à des produits réels, n’opèrent que s'ils fonctionnent
+       correctement. Et même dans ce cas, ils contiennent tous des
+       «poignées d’urgence», des moyens de les court-circuiter. Cela dit,
+       comme chercheur du domaine, je peux dire que, s’il y a d’importants
+       développements et beaucoup d’excitation, nous sommes loin de ce que
+       vous évoquez. De plus, le fait que ces recherches se déroulent de
+       manière ouverte dans la communauté académique est aussi une
+       garantie: tout le monde travaille de concert, de manière souvent
+       collaborative. Et c’est la seule manière pour que ça fonctionne,
+       que l’on avance.
+
+   - Des dérives sont possibles. Récemment, l’on a vu sur Twitter qu’un
+   «logiciel intelligent» développé par Microsoft a tenu des propos
+   racistes et sexistes, par mimétisme de ce qu’il avait appris…
+     * Bien faire du «machine learning» est incroyablement difficile,
+       c’est mon seul résumé.
+
+   Lire aussi : Le jour où les robots penseront
+
+   Economie mondiale
+     *
+     *
+     *
+     *
+     *
+
+le Temps
+
+     * Impressum
+     * À propos
+     * Communication
+     * Régie Publicitaire
+     * Avis de décès
+     * Événements
+     * Emplois
+
+Abonnements et Services
+
+     * Abonnements
+     * Services aux abonnés
+     * Epaper/PDF
+     * Newsletters
+     * Magazine T
+     * Journal de l'immobilier
+     * Questions fréquentes
+     * Archives
+     * Archives historiques
+
+Documents de références
+
+     * Conditions générales d'utilisation
+     * Conditions générales de vente
+     * Politique de confidentialité
+     * Gestion des cookies
+     * Charte rédactionnelle
+     * Charte des partenariats
+
+Suivez Le Temps
+
+     * Facebook
+     * Ex-Twitter
+     * Linkedin
+     * Instagram
+     * Youtube
+     * Tiktok
+
+     * Avenue du Bouchet 2, 1209 Genève | Service Clients: +41 22 539 10
+       75 | Contactez Le Temps

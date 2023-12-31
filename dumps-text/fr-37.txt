@@ -1,0 +1,3253 @@
+   #Éducation, numérique et recherche » Flux Éducation, numérique et
+   recherche » Flux des commentaires Éducation, numérique et recherche »
+   État de l’art et de la pratique de l’intelligence artificielle dans
+   l’éducation (Holmes & Tuomi, 2022) [Traduction] Flux des commentaires
+   alternate alternate alternate RDF Version RDF Version of this post RDF
+   Version of the category Boîte à outils RDF Version of the category Mise
+   en oeuvre RDF Version of the category Repères et décryptage RDF Version
+   of the tag intelligence artificielle RDF Version of the tag prospective
+   RDF Version of the tag recherche RDF Version of the tag revues Outline
+
+   Aller au contenu
+
+   Éducation, numérique et recherche
+
+   Éducation, numérique et recherche
+
+   Veille et diffusion des travaux de recherche sur le numérique dans
+   l’éducation
+   (BUTTON) Menu
+
+     * Crédits
+     * À propos
+     * Actualité
+     * Boîte à outils
+     * Groupes thématiques numériques
+     * Mise en oeuvre
+     * Repères et décryptage
+
+   Éducation, numérique et recherche
+
+État de l’art et de la pratique de l’intelligence artificielle dans
+l’éducation (Holmes & Tuomi, 2022) [Traduction]
+
+Résumé
+
+Résumé en français
+
+   Les récents développements de l’intelligence artificielle (IA) ont
+   suscité de grandes attentes quant à l’impact futur de l’IA dans
+   l’éducation et l’apprentissage (IAEd). Ces attentes ont souvent été
+   fondées sur une mauvaise compréhension des possibilités techniques
+   actuelles, un manque de connaissances sur l’état de l’IA dans
+   l’éducation et des visions excessivement étroites sur les fonctions de
+   l’éducation dans la société. Dans cet article, nous passons en revue
+   les systèmes d’IA existants dans l’éducation et leurs hypothèses
+   pédagogiques et éducatives. Nous développons une typologie des systèmes
+   d’IAEd et décrivons différentes manières d’utiliser l’IA dans
+   l’éducation et l’apprentissage, en montrant comment celles-ci sont
+   fondées sur différentes interprétations de ce qu’est ou pourrait être
+   l’IA et l’éducation, et en discutant de certains obstacles possibles
+   sur l’autoroute de l’IAEd.
+
+Résumé en anglais
+
+   Recent developments in Artificial Intelligence (AI) have generated
+   great expectations for the future impact of AI in education and
+   learning (AIED). Often these expectations have been based on
+   misunderstanding current technical possibilities, lack of knowledge
+   about state-of-the-art AI in education, and exceedingly narrow views on
+   the functions of education in society. In this article, we provide a
+   review of existing AI systems in education and their pedagogic and
+   educational assumptions. We develop a typology of AIED systems and
+   describe different ways of using AI in education and learning, show how
+   these are grounded in different interpretations of what AI and
+   education is or could be, and discuss some potential roadblocks on the
+   AIED highway.
+
+Résumé en espagnol
+
+   Los recientes avances en Inteligencia Artificial (IA) han generado
+   grandes expectativas sobre el futuro impacto de la IA en la educación y
+   el aprendizaje (AIED). A menudo, estas expectativas se han basado en la
+   incomprensión de las posibilidades técnicas actuales, el
+   desconocimiento del estado del arte de la IA en la educación y una
+   visión excesivamente estrecha de las funciones de la educación en la
+   sociedad. En este artículo, ofrecemos una revisión de los sistemas de
+   IA existentes en la educación y de sus supuestos pedagógicos y
+   educativos. Desarrollamos una tipología de sistemas de AIED y
+   describimos distintas formas de utilizar la IA en la educación y el
+   aprendizaje, mostramos cómo se basan en distintas interpretaciones de
+   lo que es o podría ser la IA y la educación, y analizamos algunos
+   posibles obstáculos en la autopista de la AIED.
+
+     Les systèmes d’IA les plus avancés peuvent avoir un grand nombre de
+     paramètres qui sont ajustés de manière répétée jusqu’à ce que le
+     système fonctionne de façon acceptable et utile. Par exemple, le
+     célèbre modèle de langage GPT-3 d’OpenAI compte 175 milliards de
+     paramètres ajustables (Brown et al., 2020)
+
+     Les progrès de l’IA axée sur les données ayant entraîné une
+     augmentation exponentielle des besoins en calcul, il est de plus en
+     plus évident que l’avenir de l’IA ne peut pas vraiment être prédit
+     en extrapolant les développements de la dernière décennie.
+
+Auteurs
+
+   Wayne Holmes (1), Ilkka Tuomi (2)
+
+   (1) UCL Knowledge Lab, IOE, UCL’s Faculty of
+   Education and Society, University College
+   London (UCL), London, UK
+
+   (2) Meaning Processing Ltds., Helsinki, Finland
+
+Référence
+
+   Holmes, W., & Tuomi, I. (2022). State of the art and practice in AI in
+   education. European Journal of Education, n/a(n/a).
+   https://doi.org/10.1111/ejed.12533
+
+Traduction et adaptation
+
+   François Bocquet (DNE-TN2) avec l’aide de DeepL.com
+
+   Avec l’aimable autorisation des auteurs.
+
+Licence
+
+Liste des abréviations
+
+   IA : intelligence artificielle
+
+   IAEd : IA pour l’éducation
+
+   NdT : Note du traducteur
+
+   STI : système de tutorat intelligent
+
+   ORA : outil de rédaction automatique
+
+PLAN
+
+   1. INTRODUCTION
+
+   1.1 Un bref historique de l’avenir de l’IA dans l’éducation
+
+   2. QU’EST-CE QUE L’IA ?
+
+   2.1 L’IA basée sur les données
+
+   2.2 L’IA basée sur la connaissance
+
+   3. UNE TAXONOMIE DE L’IAEd
+
+   3.1 IAEd au service des élèves
+
+   3.1.1 Systèmes de tutorat intelligents (STI)
+
+   3.1.2 Applications assistées par l’IA
+
+   3.1.3 Simulations assistées par l’IA (par exemple, apprentissage par le
+   jeu, Réalité Virtuelle, Réalité Augmentée)
+
+   3.1.4 L’IA au service des apprenants à besoins particuliers
+
+   3.1.5 Outils de rédaction automatique de textes (ORA)
+
+   3.1.6 Agents conversationnels
+
+   3.1.7 Évaluation formative automatique
+
+   3.1.8 Orchestrateurs de réseaux d’apprentissage
+
+   3.1.9 Systèmes de tutorat basés sur le dialogue
+
+   3.1.10 Environnements d’apprentissage exploratoire
+
+   3.1.11 Assistants d’apprentissage tout au long de la vie assistés par
+   l’IA
+
+   3.2 IAEd au service de l’enseignant
+
+   3.2.1 Détection du plagiat
+
+   3.2.2 Curation intelligente des ressources pédagogiques
+
+   3.2.3 Surveillance de la classe
+
+   3.2.4 Évaluation sommative automatique
+
+   3.2.5 Assistant d’enseignement et d’évaluation assisté par l’IA
+
+   3.2.6 Orchestration de la classe
+
+   3.3 L’IAEd au service des institutions
+
+   3.3.1 Admissions
+
+   3.3.2 Surveillance d’examens – E-proctoring
+
+   4. DES OBSTACLES AU DÉVELOPPEMENT DE L’IAEd
+
+   4.1 Éthique
+
+   4.2 Personnalisation
+
+   4.3 Efficacité et impact
+
+   4.4 Le techno-solutionnisme
+
+   4.5 Le “colonialisme de l’IAEd”
+
+   4.6 Marchandisation de l’éducation
+
+   5. VISION CONCLUSIVE
+
+   Références
+
+   A consulter aussi
+
+1. INTRODUCTION
+
+1.1 Un bref historique de l’avenir de l’IA dans l’éducation
+
+   Ces dernières années, on a souvent prétendu que l’intelligence
+   artificielle (IA) était le “nouveau pétrole” (par exemple, Palmer,
+   2006) ou, comme l’a suggéré la directrice générale de l’UNESCO dans son
+   discours-programme de la Semaine de l’apprentissage mobile 2019, la
+   plus grande invention depuis l’ère paléolithique. Plus récemment, il a
+   même été affirmé (Lemoine, 2022), et réfuté (par exemple, Sparkes,
+   2022), qu’un système d’IA, le système de dialogue LaMDA développé par
+   Google, était devenu sensible. Quelle que soit la réalité, des
+   investissements massifs ont été réalisés dans la technologie de l’IA
+   dans le monde entier (jusqu’à 94 milliards de dollars US pour la seule
+   année 2021 ; Statista, 2022), ainsi que des déclarations politiques
+   très médiatisées sur la nécessité de promouvoir et de réglementer cette
+   technologie émergente (par exemple, CE, 2018 ; OCDE, 2019b ; UNESCO,
+   2021).
+
+   Le potentiel de l’IA pour l’éducation et l’apprentissage (l’utilisation
+   de l’IA pour l’éducation) et le rôle de l’éducation dans le
+   développement de ce que l’on appelle désormais la culture de l’IA
+   (l’enseignement de l’IA dans l’éducation) ont également fait l’objet
+   d’une attention accrue et deviennent rapidement des sujets brûlants
+   dans les débats politiques (par exemple, Miao & Holmes, 2021).
+   L’apprentissage, l’innovation et la création de connaissances étant
+   souvent présentés comme les fondements de l’économie postindustrielle,
+   cet intérêt croissant est facile à comprendre. Au-delà de l’idée
+   simple, bien que vague et controversée, d’automatiser les tâches des
+   enseignants (Selwyn, 2019 ; Sperling et al., 2022), il a également été
+   suggéré que l’effet transformateur de l’IA pourrait consister à
+   augmenter la cognition humaine dans l’apprentissage (par exemple,
+   Molenaar, 2022 ; Tuomi, 2018).
+
+   Au niveau politique, le potentiel de l’IA dans les milieux éducatifs et
+   la nécessité d’une culture de l’IA placent donc les éducateurs au
+   centre de ces nouveaux développements passionnants qui étaient
+   autrefois confinés uniquement dans les laboratoires d’informatique.
+   Dans le même temps, on attend des enseignants et des administrateurs
+   qu’ils aient une vision claire du potentiel de l’IA dans l’éducation
+   et, finalement, qu’ils adoptent cette technologie révolutionnaire dans
+   leur pratique.
+
+   La recherche et le développement en matière d’IA pour l’éducation
+   (IAEd) ont été dans une large mesure dirigés par des informaticiens
+   (Chen et al., 2020 ; Williamson & Eynon, 2020 ; Zawacki-Richter et al.,
+   2019). Au cours de la dernière décennie, la situation a changé, et
+   l’IAEd est désormais également au centre d’intérêts commerciaux. Le
+   marché de l’IAEd devrait connaître une croissance rapide : à l’échelle
+   mondiale, il existe déjà plus de trente sociétés d’IAEd financées à
+   hauteur de plusieurs millions de dollars, et le marché devrait
+   atteindre une valeur de plus de 20 milliards de dollars d’ici cinq ans
+   (GMI, 2022). Un enseignant submergé par les récits sur les miracles de
+   l’IA peut se demander si l’avenir est défini par une énième tentative
+   de faire entrer la technologie dans la salle de classe.
+
+   De nombreux systèmes d’IA commerciaux actuellement développés pour
+   l’éducation, appelés systèmes de tutorat intelligents (STI), se
+   concentrent sur la fourniture d’un enseignement automatisé, adaptatif
+   et individualisé, une approche que nous explorons plus en détail
+   ci-dessous. Le lien historique étroit entre l’IA et les sciences
+   cognitives (Gardner, 1985) a fait que de nombreux systèmes d’IA
+   influents dans le domaine de l’éducation ont été construits sur des
+   architectures cognitives, elles-mêmes basées sur l’idée que le cerveau
+   humain est un processeur d’informations. Dans cette optique,
+   l’apprentissage est centré sur le développement de la capacité de
+   résolution de problèmes qui repose sur la disponibilité de structures
+   de connaissances efficaces dans l’esprit humain (par exemple, Koedinger
+   et al., 2012).
+
+   Une source historiquement importante pour cette ligne de recherche est
+   un petit livre, How to Solve It, publié dans les années 1940 par Georg
+   Polya (1945). Basé sur ses études sur l’apprentissage, le livre
+   présentait différents types d'”heuristiques”, des processus ou des
+   raccourcis qui peuvent être utilisés pour résoudre des problèmes
+   scientifiques et autres. Selon Polya, un processus clé de la résolution
+   de problèmes consiste à trouver des moyens de réduire la distance entre
+   le résultat attendu et les solutions connues qui tendent vers la
+   solution optimale. Ainsi, la résolution de problèmes consiste à trouver
+   des chaînes d’opérations heuristiques (qui peuvent être résumées comme
+   suit : comprendre le problème, faire un plan, exécuter le plan, et
+   regarder en arrière et réfléchir) qui mènent au résultat.
+
+   Dans les années 1950, Alain Newell et Herbert Simon, les principaux
+   pionniers de l’IA et des sciences cognitives, ont réalisé qu’en
+   programmant les ordinateurs avec de telles heuristiques et en traitant
+   des symboles au lieu de chiffres, les ordinateurs pouvaient résoudre
+   des problèmes de manière similaire aux humains. Apparemment, il ne
+   s’agissait pas d’un énorme exploit de programmation. Edward Feigenbaum,
+   une autre figure clé de la recherche sur l’IA, s’est rappelé plus tard
+   qu’en 1956, Simon est venu dans sa classe en déclarant : “à Noël, Alain
+   Newell et moi avons inventé une machine à penser” (cité dans McCorduck,
+   1979, p. 116). Le niveau d’attente est bien exprimé dans le nom qu’ils
+   ont donné à leur programme informatique le plus célèbre de l’époque,
+   The General Problem Solver (Newell et al., 1959).
+
+   Les origines technologiques de l’IAEd axé sur les élèves remontent
+   toutefois aux travaux de Sidney Pressey, B. F. Skinner, Gordon Pask et
+   Jaime Carbonell (Holmes et al., 2019). La première machine à choix
+   multiples mécanisée a été conçue il y a près de cent ans par Pressey.
+   S’inspirant de la loi de l’effet d’Edward Thorndike, la machine de
+   Pressey donnait un retour d’information immédiat à l’élève et, ce
+   faisant, ces machines ” font clairement plus que le tester ; elles
+   enseignent également ” (Pressey, 1926, p. 375). Pressey a également
+   suggéré que ce type de technologie pourrait faire gagner du temps aux
+   enseignants en les déchargeant de la notation, une revendication qui
+   est fréquemment faite pour l’IAEd aujourd’hui (par exemple, Baker &
+   Smith, 2019).
+
+   Dans les années 1950, Skinner, connu comme le père du béhaviorisme, a
+   mis au point ce qu’il appelait sa ” machine à enseigner “, qui
+   demandait aux élèves de composer leurs propres réponses plutôt que de
+   choisir parmi plusieurs options. Skinner soutenait que sa machine
+   agissait comme un tuteur individuel, préfigurant étroitement le STI :
+   “La machine elle-même, bien sûr, n’enseigne pas… mais l’effet sur
+   chaque élève ressemble étonnamment à celui d’un tuteur privé ”
+   (Skinner, 1958, p. 971). À peu près à la même époque, Pask a mis au
+   point la première “machine à enseigner” véritablement adaptative,
+   connue sous le nom de “self-adaptive keyboard instructor” ou SAKI pour
+   “instructeur de clavier auto-adaptatif”. Conçu pour les apprentis
+   opérateurs de claviers à cartes perforées, le SAKI distribuait les
+   tâches en fonction de la performance individuelle de l’apprenant sur
+   les tâches précédentes (Pask, 1982). Cependant, la première application
+   explicite des techniques d’IA classiques à l’enseignement assisté par
+   ordinateur a été faite par Carbonell, pour sa thèse de doctorat de
+   1970. Son système, qu’il a appelé SCHOLAR, générait des réponses
+   individuelles aux énoncés des élèves en s’appuyant sur un réseau de
+   concepts liés en fonction de leurs relations sémantiques.
+
+   Cette histoire de l’IA est pertinente pour l’IAEd, car bon nombre des
+   systèmes d’IA axés sur les élèves les plus étudiés et les plus visibles
+   sont des descendants directs de ces idées. Nous en parlerons plus en
+   détail ci-dessous lorsque nous décrirons certains systèmes IAEd
+   exemplaires. Il est également important de reconnaître que, par
+   exemple, l’apprentissage collaboratif assisté par ordinateur est une
+   discipline à part entière depuis le milieu des années 1990 (par
+   exemple, Dillenbourg et al., 2009), et que l’analyse de l’apprentissage
+   et l’exploration des données éducatives (Joksimovic et al., 2020 ;
+   Siemens & Baker, 2012) ont également des liens étroits avec l’IAEd.
+   L’apprentissage en tant que phénomène de développement et socioculturel
+   n’est toutefois devenu que récemment un sujet plus courant dans l’IAEd
+   (par exemple, Thomas & Porayska-Pomsta, 2022).
+
+   Au-delà de l’enseignement et de l’apprentissage (c’est-à-dire l’IAEd au
+   service de l’élève), l’IA a des applications potentiellement
+   intéressantes dans l’administration de l’éducation (c’est-à-dire l’IAEd
+   au service du système éducatif) et le soutien aux enseignants
+   (c’est-à-dire l’IAEd au service de l’enseignant), et pourrait même
+   stimuler de nouvelles approches pédagogiques et andragogiques.
+   Entre-temps, les données éducatives, telles que générées par les
+   systèmes d’apprentissage en ligne, y compris l’IAEd, font de plus en
+   plus l’objet d’analyses dans un domaine en pleine expansion, connu sous
+   le nom d’exploration de données éducatives et d’analyse des traces
+   d’apprentissage (en anglais learning analytics), et deviennent
+   importantes tant pour la politique que pour la pratique (Hakimi et al.,
+   2021 ; Verbert et al., 2020).
+
+   Pour les éducateurs, il est également utile de réfléchir à ces
+   multiples connexions dans le contexte plus large de l’éducation. Dans
+   une grande partie de la recherche et du développement actuels de l’IAEd
+   au service des élèves, la justification ultime de l’utilisation de l’IA
+   est qu’elle peut entraîner des gains d’apprentissage dans des domaines
+   de connaissances spécifiques, indépendamment des enseignants humains.
+   Un “gain d’apprentissage” est généralement mesuré dans les expériences
+   de pré-test et de post-test sous la forme d’un pourcentage
+   d’amélioration possible pour un élève, compte tenu de son niveau de
+   connaissances avant l’étude. Lorsque l’objectif de l’enseignement est
+   supposé être l’acquisition d’un contenu de connaissances prédéfini qui
+   peut être évalué à l’aide d’un test, le gain d’apprentissage est un
+   indicateur naturel de réussite – ce qui explique peut-être pourquoi il
+   est au centre des systèmes adaptatifs IAEd les plus connus. En fait,
+   certains STI influents, tels que le système ASSIST, ont commencé
+   explicitement en tant que système de préparation à des tests à enjeux
+   élevés (Heffernan & Heffernan, 2014) ; et de nombreux systèmes IAEd
+   chinois largement utilisés sont également axés sur l’enseignement pour
+   le test (Knox, 2020).
+
+   L’acquisition de contenus de connaissances prédéfinis est une des
+   fonctions de l’éducation. Biesta appelle cela la fonction de
+   qualification : fournir aux élèves ” les connaissances, les compétences
+   et les compréhensions… qui leur permettent de “faire quelque chose” ”
+   (Biesta, 2011, p. 19). Les deux autres fonctions clés de l’éducation,
+   selon Biesta, sont la socialisation, qui “a à voir avec les nombreuses
+   façons dont, par l’éducation, nous devenons partie intégrante
+   d'”ordres“ sociaux, culturels et politiques particuliers” (Biesta,
+   2011, p. 20), et la subjectivation ou l’individuation, le processus
+   “qui permet aux personnes éduquées de devenir plus autonomes et
+   indépendantes dans leur façon de penser et d’agir” (Biesta, 2011, p.
+   21). Ces deux dernières fonctions ont reçu comparativement peu
+   d’attention de la part des chercheurs IAEd.
+
+   Au lieu de cela, au cours des trois dernières décennies, un point de
+   départ conceptuel clé pour l’IAEd axé sur l’élève a été ”
+   l’apprentissage par la maîtrise “, un modèle pédagogique proposé par
+   Benjamin Bloom (Bloom, 1968 ; cf. Guskey, 2012). Ce modèle sous-tend la
+   plupart des STI, ainsi que la notion selon laquelle l’IA peut ”
+   personnaliser ” l’apprentissage. L’objectif de l’apprentissage par la
+   maîtrise est d’amener tous les élèves à un niveau de compétence qui
+   leur permette de progresser efficacement, en suivant le parcours
+   d’apprentissage décrit dans le programme. Bloom a fait valoir que,
+   comme les élèves commencent avec des connaissances antérieures
+   différentes et ont des capacités différentes, ils ont besoin de
+   quantités différentes d’enseignement pour atteindre le même niveau de
+   maîtrise dans un sujet donné. Ainsi, l’apprentissage de la maîtrise
+   nécessite une différenciation au niveau individuel ou une
+   “personnalisation” de l’enseignement, pour laquelle les systèmes IAEd
+   ont été proposés et conçus comme une réponse.
+
+   Bloom a ensuite montré que le tutorat individualisé associé à
+   l’apprentissage par la maîtrise permettait d’obtenir des gains
+   d’apprentissage supérieurs de deux écarts-types à ceux de
+   l’enseignement traditionnel en classe entière (Bloom, 1984). Cette
+   énorme amélioration potentielle, connue sous le nom d’effet 2-sigma, a
+   été une inspiration clé pour les chercheurs IAEd pendant plus de
+   quarante ans. Dans des recherches IAEd plus récentes, l’impact du
+   tutorat humain s’est avéré être inférieur à un écart-type, ce que la
+   recherche suggère également avoir déjà été atteint par certains STI
+   (VanLehn, 2011). Néanmoins, l’effet 2-sigma fournit également un modèle
+   implicite rarement contesté de la fonction de l’éducation parmi les
+   chercheurs IAEd, qui ignore les fonctions de socialisation et
+   d’individuation de Biesta.
+
+   Même lorsque les mesures de l’impact des outils d’IAEd tels que les STI
+   se limitent à des gains d’apprentissage orientés vers les tests, il
+   subsiste une grande controverse. De nombreuses études ont montré des
+   gains d’apprentissage lorsque des STI ont été utilisés en classe (cf.
+   du Boulay, 2019), mais les résultats ne sont pas univoques. Il n’existe
+   que de rares exemples d’évaluations indépendantes à l’échelle (par
+   exemple, Roschelle et al., 2016), tandis que les examens au niveau méta
+   (par exemple, Kulik et Fletcher, 2016 ; Ma et al., 2014) montrent des
+   impacts modestes sur les gains d’apprentissage dans de nombreux
+   contextes relativement petits. Des études plus granulaires suggèrent
+   toutefois que les effets des interventions d’apprentissage fournies par
+   un système dépendent du niveau de connaissance préalable de l’élève
+   (alors que les apprenants novices bénéficient d’exemples travaillés,
+   les apprenants plus expérimentés bénéficient de la résolution de
+   problèmes sans exemples travaillés – ce qu’on appelle ” l’effet
+   d’inversion de l’expertise “, Koedinger et al., 2012, p. 788).
+   L’agrégation au niveau de la classe est donc susceptible de fausser les
+   méta-analyses existantes. À proprement parler, nous ne savons pas avec
+   certitude si IAEd “fonctionne” ou non. Plus important encore, nous ne
+   savons pas exactement en quoi consisterait cette “efficacité”.
+
+   En fait, les études d’impact explorent généralement ce qui se passe
+   lorsqu’une nouvelle idée pédagogique ou une nouvelle fonctionnalité est
+   ajoutée à un système IAEd existant. Par exemple, le What Works
+   Clearinghouse, géré par l’Institute of Educational Sciences du
+   ministère de l’Éducation des États-Unis, ne prend en compte que les
+   preuves issues d’essais contrôlés randomisés ou d’essais
+   quasi-expérimentaux de “haute qualité”. En conséquence, contrairement à
+   de nombreux petits essais qui ont montré des gains d’apprentissage
+   modérés, les rapports de What Works Clearinghouse montrent souvent des
+   gains d’apprentissage moyens plutôt mineurs ou indéterminés au niveau
+   du groupe (par exemple, What Works Clearinghouse, 2016, qui a signalé
+   que Cognitive Tutor, l’un des STI les plus connus, avait des effets
+   mitigés pour les élèves en algèbre, aucun effet discernable sur les
+   mathématiques générales et des effets potentiellement négatifs sur la
+   géométrie). En d’autres termes, les preuves indépendantes robustes
+   (selon la norme attendue, par exemple, dans la recherche médicale)
+   restent insaisissables dans la recherche sur l’IAEd. Les résultats
+   ambigus, les défis méthodologiques et pratiques, le manque
+   d’indépendance et d’échelle, ainsi que des questions plus fondamentales
+   sur les objectifs de l’éducation, ont laissé beaucoup d’espace pour
+   contester toute affirmation générique sur les avantages de l’IAEd axé
+   sur les élèves.
+
+   Pourtant, de grandes attentes subsistent quant à l’impact futur de
+   l’IAEd. Par exemple, selon l’un des principaux entrepreneurs de l’IA,
+   Kai-Fu Lee (ancien cadre supérieur chez Google, Microsoft, SGI et
+   Apple) :
+
+   […] une salle de classe aujourd’hui ressemble encore à une salle de
+   classe d’il y a cent ans. Nous connaissons les défauts de l’éducation
+   d’aujourd’hui – elle est unique alors que nous savons que chaque élève
+   est différent, et elle est coûteuse et ne peut être adaptée aux pays et
+   régions plus pauvres avec un ratio élève/enseignant raisonnable. L’IA
+   peut jouer un rôle majeur dans la correction de ces défauts et la
+   transformation de l’éducation […] Si l’IA prend en charge des aspects
+   importants de l’éducation, les coûts de base seront réduits, ce qui
+   permettra à davantage de personnes d’accéder à l’éducation. Elle peut
+   véritablement rendre l’éducation plus équitable en libérant le contenu
+   des cours et les meilleurs enseignants des limites des institutions
+   d’élite et en fournissant des enseignants virtuels utilisants de l’IA
+   dont le coût marginal est proche de zéro. (…) Je pense que ce nouveau
+   modèle d’éducation symbiotique et flexible peut améliorer
+   considérablement l’accessibilité de l’éducation et aider chaque élève à
+   réaliser son potentiel à l’ère de l’IA. (Lee & Qiufan, 2021, p. 118)
+
+   Historiquement, l’émergence de nouvelles technologies clés a donné lieu
+   à des attentes exagérées et trop optimistes, à des krachs économiques
+   ultérieurs et à l’articulation progressive des possibilités
+   technologiques sur des périodes de temps relativement longues (Nemorin
+   et al., 2022 ; Perez, 2002). En effet, toutes les visions de l’avenir
+   sont fondées sur notre compréhension de l’histoire. L’IAEd a une longue
+   histoire. Pour comprendre où elle va, il faut comprendre d’où elle
+   vient. La section suivante revient sur les tentatives de définition du
+   sujet de l’IA et décrit brièvement l’état de l’art dans les deux
+   domaines connexes que sont (1) l’IA basée sur les données et (2) l’IA
+   basée sur les connaissances. Ensuite, la troisième section de cet
+   article propose une taxonomie de l’IAEd qui distingue l’IAEd axée sur
+   l’élève, l’enseignant et l’institution, en donnant des exemples de
+   l’état de l’art de l’IAEd pour chacun de ces différentes familles
+   d’utilisation. La quatrième section présente un certain nombre
+   d’obstacles potentiels sur l’autoroute de l’IAEd, notamment les défis
+   liés aux droits de l’homme, à l’éthique, à la personnalisation, à
+   l’impact, au techno-solutionnisme, au colonialisme de l’IAEd et à la
+   commercialisation de l’éducation. La dernière section résume et examine
+   les futurs possibles de l’IAEd.
+
+2. QU’EST-CE QUE L’IA ?
+
+   De nombreuses tentatives ont été faites pour définir et décrire
+   clairement ce dont il est question lorsque nous parlons d’Intelligence
+   Artificielle (IA), un nom que nous mettons en majuscule pour souligner
+   qu’il s’agit d’un domaine de recherche et de développement spécifique,
+   et pas simplement d’un type d’intelligence artificielle. La littérature
+   fournit de nombreuses définitions alternatives et il est souvent
+   affirmé qu’il n’existe pas de définition dominante unique acceptée par
+   la plupart des experts en IA. Il est toutefois important de noter que
+   les définitions utiles et utilisables de l’IA dépendent de l’usage qui
+   en est fait. Les chercheurs universitaires affirment souvent que l’IA
+   est un domaine de recherche complexe qui comprend de nombreuses
+   approches conceptuelles et domaines d’expertise différents, et
+   soulignent parfois que l’intelligence artificielle n’existe pas.
+
+   La réglementation européenne, en revanche, se concentre sur les
+   produits d’IA qui doivent avoir accès au marché commun. Pendant ce
+   temps, une grande partie du débat sur l’IA porte sur des avenirs
+   hypothétiques, inspirés par la science-fiction et la croyance que les
+   machines pourraient un jour être intelligentes – quoi que cela
+   signifie. Une définition classique précise que l’IA est un domaine de
+   recherche qui développe des technologies capables de faire des choses
+   qui exigeraient de l’intelligence si elles étaient faites par des
+   humains (Minsky, 1969). Cette approche trouve son origine chez Turing,
+   ayant proposé que si une simulation d’être humain intelligent ne peut
+   être distinguée d’une personne réelle, les questions relatives à
+   l’intelligence deviennent sans objet (Turing, 1950). De nombreux
+   spécialistes des sciences cognitives et certains chercheurs et
+   philosophes spécialisés dans l’IA ont adopté un point de vue plus
+   ferme, affirmant que la recherche sur l’IA peut révéler comment
+   fonctionne l’esprit humain (Gardner, 1985).
+
+   Les responsables politiques, quant à eux, se sont concentrés sur les
+   systèmes d’IA économiquement perturbateurs qui peuvent être
+   réglementés, certifiés et mis sur le marché. L’OCDE a fourni une
+   définition influente dans ce sens (OCDE, 2019a, p. 7). Celle-ci a été
+   étendue par le groupe d’experts de haut niveau de l’UE sur
+   l’intelligence artificielle (AI HLEG) d’une manière conceptuellement
+   importante, en mettant en évidence leur capacité à apprendre, en notant
+   que les systèmes d’IA peuvent également adapter leur comportement en
+   fonction des résultats de leurs actions (AI HLEG, 2019a). Cette
+   définition du AI HLEG, qui englobe à la fois la recherche sur l’IA et
+   les systèmes d’IA, est elle-même accompagnée de plusieurs pages de
+   commentaires explicatifs.
+
+   Une définition plus simple (pour ceux d’entre nous qui ne sont ni
+   informaticiens ni experts juridiques), qui s’appuie sur les définitions
+   de l’OCDE et de l’AI HLEG, est fournie par l’UNICEF.
+
+   “L’IA désigne les systèmes basés sur des machines qui peuvent, à partir
+   d’un ensemble d’objectifs définis par l’homme, faire des prédictions,
+   des recommandations ou des décisions qui influencent des environnements
+   réels ou virtuels. Les systèmes d’IA interagissent avec nous et
+   agissent sur notre environnement, soit directement, soit indirectement.
+   Souvent, ils semblent fonctionner de manière autonome et peuvent
+   adapter leur comportement en apprenant sur le contexte.” (UNICEF, 2021,
+   p. 16)
+
+   La définition de l’UNICEF est utile pour plusieurs raisons (Holmes &
+   Porayska-Pomsta, 2023). Premièrement, elle ne dépend pas des données :
+   elle prend en compte les techniques d’IA axées sur les données (comme
+   les réseaux de neurones artificiels et l’apprentissage profond), mais
+   elle peut également inclure l’IA basée sur les connaissances (ou IA
+   symbolique), ainsi que tout nouveau paradigme d’IA qui pourrait émerger
+   dans les années à venir. Deuxièmement, elle met en avant le rôle des
+   humains, ce qui est important étant donné le rôle critique des humains
+   à toutes les étapes du développement de l’IA. Par exemple, les systèmes
+   d’IA font toujours leurs recommandations, leurs prédictions et leurs
+   décisions en fonction d’objectifs qui sont spécifiés par le concepteur
+   du système au moment où celui-ci est développé. En fait, comme la
+   plupart des systèmes d’IA actuels sont essentiellement des systèmes
+   comportementaux de type stimulus-réponse, il a également été suggéré
+   que l’IA devrait plutôt désigner les instincts artificiels (Tuomi,
+   2018). Troisièmement, la définition de l’UNICEF fait la distinction
+   entre les systèmes qui fonctionnent effectivement de manière autonome
+   et ceux qui semblent fonctionner de manière autonome, ce qui nous
+   rappelle le Mechanical Turk original qui a trompé beaucoup de gens en
+   leur faisant croire qu’il était véritablement automatique (Schaffer,
+   1999). Enfin, comme cette définition met l’accent sur l’interaction
+   avec les humains, elle peut facilement être étendue à l’application de
+   l’IA dans l’éducation.
+
+   Le règlement sur l’IA proposé par la Commission européenne (AI Act ;
+   CE, 2021) s’appuie sur la définition d’un système d’IA élaborée par
+   l’OCDE, mais se contente d’énumérer les technologies qui caractérisent
+   les systèmes d’IA. L’objectif de la loi sur l’IA étant de réglementer
+   les produits et des services, il est important de savoir quels produits
+   et services entrent dans le champ d’application de la réglementation.
+   C’est pourquoi la définition finale à utiliser dans la loi sur l’IA
+   fait l’objet, au moment de la rédaction du présent document, d’un débat
+   animé entre le Conseil de l’Union européenne, le Parlement et d’autres
+   parties prenantes. Les définitions juridiques seront également
+   importantes dans le domaine de l’éducation, et en particulier dans
+   l’éducation publique où la pratique quotidienne est fortement
+   réglementée par les textes réglementaires existants. Au-delà des
+   définitions juridiques, la réalité des systèmes d’IA comprend toutefois
+   de nombreuses techniques, technologies et spécialités différentes (Miao
+   & Holmes, 2021). Dans de nombreux cas, les experts trouvent
+   suffisamment de ressemblance familiale et peuvent s’accorder sur le
+   fait qu’un système donné est de l’IA ou non, mais les définitions ont
+   évolué au fil du temps et continueront probablement à le faire.
+
+   Pour les éducateurs, il est toutefois important de distinguer deux
+   approches alternatives pour le développement de systèmes d’IA, qui ont
+   toutes deux été en développement et se sont disputées l’ascendant tout
+   au long de l’histoire de l’IA (en commençant par le célèbre atelier du
+   Dartmouth College en 1956, où le terme “intelligence artificielle” a
+   été utilisé pour la première fois). L’une des approches, celle qui a
+   actuellement le vent en poupe et qui est à l’origine d’un grand nombre
+   des succès fréquemment mentionnés dans la presse, peut être appelée IA
+   basée sur les données, ou apprentissage automatique (machine learning
+   en anglais). L’autre est l’IA basée sur les connaissances ou l’IA
+   symbolique. L’IA guidée par les données pourrait avoir un grand
+   potentiel dans l’éducation, selon les intentions du système, mais l’IA
+   basée sur la connaissance est toujours à la base de la plupart des
+   systèmes IAEd existants. Un troisième modèle conceptuel, l’IA hybride,
+   qui combine les approches basées sur les données et les connaissances
+   avec la cognition humaine, est brièvement abordé dans la conclusion.
+
+2.1 L’IA basée sur les données
+
+   L’IA basée sur les données a produit des résultats impressionnants au
+   cours de la dernière décennie dans les domaines de la vision par
+   ordinateur, du traitement du langage naturel, de la robotique et dans
+   bien d’autres domaines largement médiatisés. Tous ces systèmes reposent
+   sur une idée très simple. À partir d’un ensemble suffisamment large de
+   données et d’un critère d'”amélioration”, un ordinateur peut
+   progressivement trouver un modèle qui optimise ses prédictions.
+   Lorsqu’un programme informatique aboutit à une prédiction erronée dans
+   sa phase d’apprentissage, le programme ajuste son comportement de
+   manière à ce que l’erreur devienne plus petite ; et lorsque le
+   programme fait la bonne prédiction, il s’adapte de manière à faire la
+   même prédiction avec une plus grande probabilité de succès.
+
+   Un défi technique fondamental consiste à savoir comment le système doit
+   ajuster son comportement. Les systèmes d’IA basés sur les données
+   résolvent ce problème en utilisant des calculs de base. Il est possible
+   de calculer dans quelle mesure la sortie du système changerait si l’un
+   des paramètres du système était modifié de manière incrémentielle. Pour
+   chaque paramètre du système, la direction du changement maximal est
+   appelée gradient. Avec de très nombreux petits pas, les paramètres du
+   système peuvent être ajustés de manière à ce que le système fasse des
+   prédictions “suffisantes”. Les systèmes d’IA les plus avancés peuvent
+   avoir un grand nombre de paramètres qui sont ajustés de manière répétée
+   jusqu’à ce que le système fonctionne de façon acceptable et utile. Par
+   exemple, le célèbre modèle de langage GPT-3 d’OpenAI compte 175
+   milliards de paramètres ajustables (Brown et al., 2020).
+
+   Le cerveau humain a été une source d’inspiration essentielle pour le
+   développement de systèmes informatiques auto-apprenants (Rosenblatt,
+   1958). Les “réseaux neuronaux artificiels” sont constitués de “neurones
+   informatiques” simples qui transforment leurs états d’entrée en sorties
+   qui, à leur tour, sont des entrées pour d’autres neurones artificiels.
+   Les réseaux neuronaux artificiels modernes sont constitués de
+   nombreuses couches reliées entre elles, chacune comportant de multiples
+   connexions logiques d’une couche à l’autre. Bien que l’idée d’utiliser
+   des éléments neuronaux adaptatifs pour la reconnaissance des formes
+   soit ancienne, un défi pratique pour les premiers développeurs était de
+   trouver un moyen d’ajuster leur comportement afin d’améliorer les
+   prédictions faites par le système. Depuis les années 1970, on sait que
+   la règle de la chaîne du calcul élémentaire peut être utilisée à cette
+   fin. Même un réseau complexe interconnecté de neurones informatiques
+   adaptatifs n’est qu’une correspondance entre les entrées et les
+   sorties. En termes mathématiques, il s’agit simplement d’une fonction.
+   Les dérivés et les gradients des paramètres de ses différentes couches
+   peuvent donc être calculés à l’aide de la règle de la chaîne de calcul
+   qui les exprime en termes de sortie finale du système.
+
+   Tous les systèmes d’IA basés sur les données fonctionnent donc de la
+   manière suivante. Tout d’abord, le système reçoit des données d’entrée
+   puis est autorisé à faire une prédiction. L’erreur de prédiction est
+   utilisée pour calculer une “perte” que le système tente de minimiser
+   pendant sa phase d’apprentissage en adaptant les valeurs de ses
+   paramètres. Ce processus est répété des millions de fois, jusqu’à ce
+   que la précision du système soit suffisante. Ce processus est appelé
+   “apprentissage” ou “entraînement” du modèle d’IA. Lorsque le système
+   possède suffisamment de paramètres, il peut s’adapter à n’importe
+   quelle fonction mathématique et, à partir d’une entrée spécifique,
+   prédire parfaitement la sortie correcte. Toutefois, une correspondance
+   aussi parfaite, entre des entrées et des sorties connues, rendrait le
+   système tout à fait inutile, car l’objectif est de créer des
+   prédictions précises pour des entrées qui n’ont pas été utilisées lors
+   de la formation. Pour ce faire, on “teste” la précision du système avec
+   des données de test indépendantes. Lorsque le système fait également de
+   bonnes prédictions avec les données de test, on dit qu’il a bien
+   “généralisé”. À ce stade, on dit que les développeurs ont entraîné un
+   modèle, qui peut alors être utilisé pour le travail en situation.
+
+   De nombreux systèmes d’IA fondés sur les données et très performants
+   sont constitués de dizaines de couches ou plus, chacune comportant des
+   millions de connexions entre leurs “neurones” informatiques. Le
+   processus d’adaptation simple décrit ci-dessus est donc appelé
+   “apprentissage profond”, et le calcul des gradients de la couche de
+   sortie finale vers le niveau d’entrée est appelé “rétropropagation”. Un
+   résultat fascinant de cette adaptation est que les niveaux “inférieurs”
+   qui sont proches de l’entrée des données apprennent souvent à
+   reconnaître des caractéristiques simples statistiquement
+   significatives, et que les couches de niveau “supérieur” construisent
+   des abstractions plus complexes. Par exemple, dans le traitement des
+   images, les “neurones” de niveau inférieur reconnaissent des
+   caractéristiques d’image simples telles que les lignes, les bords et
+   les courbes, tandis que les niveaux supérieurs détectent des
+   caractéristiques plus complexes construites à partir de celles-ci,
+   telles que les coins et les cercles. À des niveaux encore plus élevés
+   de la chaîne de traitement, des caractéristiques telles que des yeux,
+   des oreilles, des poils et des ailes sont détectées si elles sont
+   présentes dans les images utilisées pour l’apprentissage du système.
+   Ces modèles d’apprentissage profond peuvent, avec une probabilité très
+   élevée, reconnaître des objets dans des images numériques et peuvent
+   également être utilisés, par exemple, pour générer des légendes
+   automatiques de flux vidéo, détecter des visages humains ou, moyennant
+   une certaine reconfiguration, jouer aux échecs, générer des peintures
+   dans le style de Picasso, réaliser de fausses vidéos et rédiger des
+   essais sur la base d’indications données par l’utilisateur (NdT : comme
+   le propose en décembre 2022 le Chat GPT3 d’Open AI). Il est toutefois
+   important de réaffirmer le rôle de l’homme dans ce processus. Ce sont
+   les humains qui collectent ou conservent les données (par exemple, les
+   images ou les textes) et les humains qui écrivent les algorithmes et
+   décident de leur utilisation. Plus important encore, les humains
+   définissent le critère de “prédiction précise” et sélectionnent les
+   algorithmes qui leur semblent les plus prometteurs. En outre, bien
+   qu’il y ait eu de nombreux débats sur les dangers de prendre des
+   décisions algorithmiques sans un humain ” dans la boucle ” (AI HLEG,
+   2019b ; Dignum, 2018 ; Floridi et al., 2018), au final, ce sont les
+   humains qui interprètent les résultats et ce qu’ils signifient.
+
+   L’IA axée sur les données a connu des avancées extraordinaires au cours
+   de la dernière décennie en raison de trois facteurs clés (Tuomi,
+   2018).
+
+   Premièrement, l’ajustement progressif des nombreux paramètres de ces
+   systèmes nécessite souvent des trillions d’additions et de
+   multiplications. Par exemple, l’apprentissage du modèle de langage
+   GPT-3 a nécessité l’équivalent de plus de 1000 jours de calcul à une
+   capacité de traitement d’un pétaflop (10^5 ) par seconde (Brown et al.,
+   2020). Les processeurs informatiques normaux ne sont pas adaptés à
+   cette tâche, mais les processeurs graphiques relativement bon marché
+   développés pour les jeux vidéo au cours des deux dernières décennies se
+   sont avérés parfaitement adaptés à cette tâche. De nouvelles
+   architectures de processeurs sont également apparues ces dernières
+   années, qui optimisent encore davantage les calculs nécessaires à l’IA
+   basée sur les données.
+
+   Deuxièmement, l’apprentissage de l’IA basée sur les données nécessite
+   d’énormes quantités de données. Celles-ci sont devenues disponibles du
+   fait de l’utilisation croissante du web pour les images, les vidéos et
+   les textes, et du fait que les utilisateurs génèrent continuellement
+   une avalanche de données de clics. Par exemple, pour développer le
+   modèle GPT-3, environ 400 milliards de mots ont été collectés sur le
+   web.
+
+   Troisièmement, en particulier dans le traitement de l’image, où l’IA
+   guidée par les données a connu son premier grand succès il y a une
+   dizaine d’années, les progrès de l’IA guidée par les données ont
+   nécessité un effort humain massif pour étiqueter les images trouvées
+   sur le Web. L’ensemble de données ImageNet, qui a été utilisé pour
+   former de nombreux systèmes d’IA révolutionnaires, a été créé par
+   environ 49 000 personnes de 167 pays travaillant sur la plateforme de
+   partage de tâches Mechanical Turk d’Amazon (Denton et al., 2021). Cela
+   n’aurait pas été possible sans la collaboration de milliers de
+   personnes à travers le monde grâce à l’Internet. Toutefois, cette
+   collecte de données à grande échelle sur l’Internet n’est pas sans
+   poser de problèmes. Par exemple, pour mettre au point leur technologie
+   révolutionnaire de reconnaissance faciale DeepFace, les ingénieurs de
+   Facebook ont utilisé, sans consentement explicite, quatre millions de
+   photographies de personnes qui avaient été téléchargées et étiquetées
+   par des utilisateurs de Facebook. Conscient de l’éthique douteuse d’une
+   telle pratique, Facebook a annoncé en 2021 qu’il allait supprimer la
+   base de données des photographies collectées. Cependant, les
+   algorithmes qui ont été formés avec cette base de données sont toujours
+   utilisés (Sparkes, 2021).
+
+   Il a été noté qu’en raison de sa méthode d’apprentissage par essais et
+   erreurs, l’IA axée sur les données est en fait basée sur la façon la
+   plus inefficace d’effectuer des calculs inventée par l’humanité (Tuomi,
+   2020). Avec d’énormes quantités de données d’apprentissage et de
+   nombreux paramètres à ajuster, les exigences de calcul peuvent devenir
+   écrasantes. Pour cette raison, même les plus grandes entreprises d’IA
+   ont aujourd’hui du mal à trouver une puissance de calcul suffisante
+   pour entraîner leurs modèles d’IA. Les modèles de langage naturel basés
+   sur des données de pointe sont désormais entraînés à l’aide de
+   milliards de milliards de calculs et de centaines de milliards de mots
+   extraits d’Internet. On estime que l’entraînement du modèle GPT-3
+   d’OpenAI a nécessité autant d’énergie que le voyage aller-retour d’une
+   voiture sur la lune, générant ainsi l’équivalent de 85 000 kg
+   d’émissions de CO[2] (Quach, 2020). Il est désormais largement admis
+   que la consommation d’énergie constitue un défi majeur pour l’IA axée
+   sur les données (Strubell et al., 2019). Le cerveau humain, quant à
+   lui, fonctionne avec environ 20 watts d’énergie, ce qui suggère que
+   l’IA pilotée par les données repose sur des principes différents de
+   ceux de l’intelligence humaine (Tuomi, 2020).
+
+   En pratique, l’impasse informatique de l’IA axée sur les données est
+   pour l’instant évitée par la réutilisation de modèles déjà développés.
+   Dans de nombreux cas, il est possible de se débarrasser des couches les
+   plus élevées d’un modèle d’apprentissage profond optimisé pour une
+   tâche antérieure et de réentraîner le modèle pour la tâche en cours.
+   Les chercheurs en IA appellent cela “apprentissage par transfert”. Si,
+   par exemple, un système a appris à reconnaître des chiens, des chats,
+   des voitures, des oiseaux et des bicyclettes, ses représentations de
+   bas niveau sont souvent utiles pour d’autres tâches de traitement
+   d’images, par exemple la reconnaissance de visages ou l’analyse
+   d’images satellites. Aujourd’hui, la grande majorité des systèmes d’IA
+   sont probablement développés selon cette approche, en s’appuyant sur
+   des modèles ouvertement accessibles provenant des principaux
+   développeurs d’IA, tels que Facebook, Google, iFLYTEK, Microsoft,
+   OpenAI et Tencent.
+
+   Enfin, si les succès de l’IA basée sur les données ont été
+   impressionnants, il reste important de ne pas se laisser abuser par les
+   hyperboles courantes. Comme le note Leetaru (2018) :
+
+   “Un réseau neuronal d’aujourd’hui n’apprend pas plus ou ne ” raisonne ”
+   pas plus sur le monde qu’une régression linéaire du passé. Ils ne font
+   qu’induire des modèles par le biais de statistiques. Ces schémas
+   peuvent être opaques, plus médiatisés et plus automatiques que les
+   approches historiques et capables de représenter des phénomènes
+   statistiques plus complexes, mais ils ne sont toujours que des
+   incarnations mathématiques, pas des entités intelligentes, aussi
+   spectaculaires que soient leurs résultats.” (Leetaru, 2018, paragraphe
+   8)
+
+2.2 L’IA basée sur la connaissance
+
+   En raison de ses succès spectaculaires, l’IA basée sur les données a
+   dominé les informations parues dans la presse ces dernières années.
+   Dans le domaine de l’éducation, cependant, l’IA basée sur les
+   connaissances continue de jouer un rôle central. Les systèmes basés sur
+   la connaissance reposent sur l’idée que les connaissances et
+   l’expertise humaines peuvent être représentées sous une forme qui peut
+   être traitée par des programmes informatiques. Certains de ces systèmes
+   ont également été appelés systèmes experts car ils ont souvent été
+   utilisés pour imiter la prise de décision des experts. Les systèmes
+   experts étaient courants dans les années 1980, mais le coût élevé de la
+   modélisation des domaines d’expertise et du maintien des
+   représentations des connaissances, ainsi que la difficulté de
+   généraliser et de transférer les modèles de domaine à de nouveaux
+   domaines d’application, ont limité la popularité de cette approche
+   (Tuomi, 2018). Dans les applications éducatives de l’IA, de nombreux
+   systèmes contiennent un modèle de domaine qui décrit une structure
+   conceptuelle du domaine d’étude. Dans le monde réel, de tels modèles de
+   domaine sont souvent difficiles et coûteux à définir, car le monde est
+   ouvert et changeant. Dans les mondes formels fermés,comme
+   lesmathématiques, il est plus facile de développer des modèles de
+   domaine stables. C’est l’une des raisons pour lesquelles les systèmes
+   de tutorat intelligents basés sur la connaissance ont connu un succès
+   relatif en mathématiques et en physique.
+
+   L’”intelligence” de l’IA basée sur la connaissance réside dans les
+   structures conceptuelles produites à partir des connaissances des
+   experts humains. Dans les systèmes basés sur la connaissance, un
+   ordinateur est donc utilisé d’une manière différente que lorsqu’il est
+   utilisé comme une simple machine de calcul programmé ou de traitement
+   de texte. Au lieu d’utiliser un algorithme étape par étape qui calcule
+   un résultat à partir de données d’entrée, les systèmes basés sur la
+   connaissance utilisent un moteur d’inférence simple mais générique qui
+   sélectionne des règles heuristiques stockées qui indiquent à la machine
+   ce qu’elle doit faire ensuite. Les règles, elles-mêmes, sont des
+   descriptions de plus haut niveau de ce qui est connu du domaine en
+   question. Ce niveau supplémentaire d’abstraction et de représentation
+   des connaissances est ce qui différencie les systèmes basés sur la
+   connaissance de la programmation informatique traditionnelle. En
+   général, les règles sont décrites dans des phrases “si…alors” lisibles
+   par l’homme. C’est pourquoi l’IA basée sur la connaissance est aussi
+   parfois appelée “IA basée sur des règles”. Jusqu’à récemment, presque
+   tous les systèmes d’IA dans l’éducation étaient basés sur cette
+   approche. Plusieurs de ces systèmes sont brièvement décrits ci-dessous.
+   Les systèmes basés sur la connaissance restent cependant des systèmes
+   purement mécaniques, où une entrée spécifique produit toujours une
+   sortie spécifique dans un processus déterministe de calcul
+   algorithmique. Une conséquence importante de cette approche –
+   contrairement à l’IA basée sur les données – est que le comportement du
+   système peut être expliqué en élève la logique programmée.
+
+3. UNE TAXONOMIE DE L’IAEd
+
+   L’IA est appliquée à l’éducation (IAEd) de multiples façons. Par
+   conséquent, il n’est pas possible de tirer des conclusions globales ou,
+   par exemple, de faire de grandes déclarations sur l’efficacité ou non
+   de l’IAEd. Au lieu de cela, pour faciliter un débat significatif, nous
+   devons être clairs sur les multiples variations des applications de
+   l’IAEd dont nous discutons, d’autant plus que beaucoup d’entre elles
+   restent spéculatives et que certaines sont discutables pour des raisons
+   éthiques, pédagogiques ou éducatives. À cette fin, il est utile de
+   classer les outils et les applications de l’IAEd dans une typologie de
+   trois catégories distinctes mais qui se chevauchent : (1) l’IAEd au
+   service de l’élève, (2) l’IAEd au service de l’enseignant et (3) l’IAEd
+   au service de l’institution (Holmes et al., 2019). Il ne fait aucun
+   doute que ces catégories peuvent être discutées, tout comme la
+   catégorie qui s’applique à tel ou tel outil IAEd, mais elles
+   fournissent un cadre utile pour faciliter la discussion.
+
+   Dans le tableau 1, nous présentons une vue d’ensemble de la taxonomie
+   de l’IAEd, dans laquelle nous identifions les applications de l’IAEd
+   comme étant soit spéculatives (*), soit étudiées (* *), soit déjà
+   disponibles sur le marché (* * *).
+
+   TABLEAU 1. Une taxonomie des systèmes IAEd Source : Auteurs
+   IAEd au service des élèves
+   Systèmes de tutorat intelligents (ITS) * * *
+   Applications assistées par l’IA (par exemple, mathématiques, synthèse
+   vocale, apprentissage des langues) * * *
+   Simulations assistées par l’IA (par exemple, apprentissage par le jeu,
+   Réalité Virtuelle, Réalité Augmentée) * * *
+   IA pour aider les apprenants à besoins particuliers * * *
+   Rédaction automatique d’essais  * * *
+   Agents conversationnels * * * / * *
+   Évaluation formative automatique  * * * / * *
+   Orchestrateurs de réseaux d’apprentissage * * * / * *
+   Systèmes de tutorat basés sur le dialogue  * * *
+   Environnements d’apprentissage exploratoire  * *
+   Assistant d’apprentissage tout au long de la vie assisté par l’IA *
+   IAEd au service de l’enseignant
+   Détection de plagiat * * *
+   Curation intelligente du matériel d’apprentissage * * *
+   Surveillance de la classe * * *
+   Évaluation sommative automatique * * * / * *
+   IA d’assistance de l’enseignant
+   (y compris assistant d’évaluation) * * * / *
+   Orchestration de la salle de classe * *
+   IAEd au service des institutions
+   Admissions (par exemple, sélection des élèves) * * *
+   Planification des cours, Planification des horaires, Programmation
+   horaire * * *
+   Sécurité des écoles * * *
+   Identification précoce des décrocheurs et les élèves à risque * * *
+   e-Proctoring (surveillance des examens à distance) * * *
+
+   Dans la section suivante, nous fournissons un bref résumé de chaque
+   type d’application IAEd, prolongeant la discussion plus détaillée dans
+   Holmes et al. (2019).
+
+3.1 IAEd au service des élèves
+
+   Avant d’explorer les différents types de IAEd axés sur les élèves,
+   c’est-à-dire les outils assistés par l’IA spécifiquement conçus pour
+   aider les élèves, une brève digression est nécessaire. Il est important
+   de noter que toutes les technologies assistées par l’IA utilisées par
+   les élèves n’ont pas été conçues pour eux. On pourrait plutôt dire que
+   ces technologies ont été ” réadaptées ” à l’apprentissage. Ces
+   technologies ne sont généralement pas considérées comme de l’IAEd, mais
+   doivent néanmoins être prises en compte dans toute synthèse exhaustive
+   de l’IAEd au service des élèves. Un exemple de la technologie assistée
+   par l’IA la plus sophistiquée qui a été réaffectée à l’éducation est la
+   suite d’outils de collaboration Google Workspace Education qui comprend
+   Google Docs et Google Sheets (Google, 2022), ainsi que des offres
+   similaires d’organisations telles que Tencent (Tencent, 2022) (NdT : ou
+   encore de celle de Microsoft Office 365 pour l’éducation) . À cela
+   s’ajoutent les plateformes de réseaux sociaux telles que WhatsApp
+   (WhatsApp, 2022) et WeChat (WeChat, 2022), et les plateformes de
+   partage de contenu telles que YouTube (YouTube, 2022) et TikTok
+   (TikTok, 2022), qui sont toutes, de différentes manières, de plus en
+   plus utilisées pour soutenir l’apprentissage des élèves (une croissance
+   qui s’est accélérée pendant les fermetures d’écoles du COVID-19).
+   Enfin, diverses autres technologies assistées par l’IA sont réorientées
+   vers l’éducation, par exemple les dispositifs de suivi d’activité (par
+   exemple, Moki, 2022), bien que les preuves de leur soutien à
+   l’enseignement ou à l’apprentissage soient généralement limitées.
+
+   Nous poursuivons en élaborant les IAEd au service des élèves suivants :
+   systèmes de tutorat intelligents, applications assistées par l’IA,
+   simulations assistées par l’IA, IA pour aider les apprenants à besoins
+   spécifiques (handicap), rédaction automatique de dissertations,
+   chatbots, évaluation formative automatique, orchestrateurs de réseaux
+   d’apprentissage, systèmes de tutorat basés sur le dialogue,
+   environnements d’apprentissage exploratoires et assistants
+   d’apprentissage tout au long de la vie assistés par l’IA.
+
+   NdT : les outils de traduction automatiques, bien que non évoqués dans
+   cet article font également partie de cette catégorie.
+
+3.1.1 Systèmes de tutorat intelligents (STI)
+
+   Les systèmes de tutorat intelligents (STI ou ITS en anglais pour
+   Intelligent Tutoring System) disponibles dans le commerce sont les
+   applications les plus courantes de l’IA dans l’éducation, et
+   probablement les plus financées. En général, ils fournissent des
+   tutoriels informatisés, étape par étape, sur des sujets structurés bien
+   définis, comme les mathématiques. Un STI fournit une séquence
+   d’informations, d’activités et de questionnaires adaptée à chaque
+   élève. Pendant que l’élève participe à une activité particulière, le
+   système récupère des milliers de points de données, comme ce qui est
+   cliqué, ce qui est tapé, les tâches auxquelles il a répondu
+   correctement et les idées fausses qui ont été démontrées. Ces données
+   sont analysées pour déterminer les informations, les activités et les
+   quiz suivants à fournir, générant ainsi un parcours personnalisé dans
+   la matière à apprendre, et le processus se répète. Les STI comprennent
+   parfois des tableaux de bord pour les enseignants, qui peuvent ainsi
+   voir ce que l’élève a accompli. Un exemple de STI commercial (il en
+   existe plusieurs) est Spark, de la société française Domoscio. Spark
+   individualise les parcours d’apprentissage et fournit aux enseignants
+   un tableau de bord d’analyse de l’apprentissage (Domoscio, 2022). Un
+   autre exemple est le Gooru Navigator, qui prétend être le Google Maps
+   de l’apprentissage (Songer et al., 2020). Gooru utilise abondamment les
+   technologies d’IA basées sur les données sur sa plateforme, par exemple
+   pour analyser les sujets couverts par les ressources éducatives libres
+   et les mettre en correspondance avec les profils individuels des
+   apprenants et leurs besoins en compétences. À l’heure actuelle, Gooru
+   affirme héberger environ quatre millions de ressources d’apprentissage
+   sélectionnées par l’IA. Certains STI incluent également ce que l’on
+   appelle un modèle d’apprentissage ouvert, conçu pour permettre à
+   l’élève de visualiser et de mieux comprendre ce qu’il a réalisé (Bull &
+   Kay, 2010).
+
+3.1.2 Applications assistées par l’IA
+
+   Il existe une gamme en pleine expansion d’applications éducatives
+   assistées par l’IA disponibles dans le commerce sur les principales
+   boutiques d’applications. Par exemple, il existe des outils de
+   traduction linguistique assistée par l’IA de plus en plus
+   impressionnants, tels que SayHi (SayHi, 2022), dont certains craignent
+   qu’ils ne nuisent davantage à l’apprentissage des langues étrangères
+   dans les écoles, et des applications de mathématiques assistées par
+   l’IA tout aussi impressionnantes, telles que Photomath (Photomath,
+   2022), dont certains craignent qu’elles ne nuisent à l’apprentissage
+   des mathématiques. Ces craintes reflètent les préoccupations entourant
+   l’introduction des calculatrices dans les écoles il y a une
+   cinquantaine d’années : si l’outil peut le faire (calculer
+   automatiquement une division longue, traduire automatiquement entre les
+   langues ou résoudre automatiquement des équations), peut-être n’est-il
+   pas nécessaire que les enfants apprennent à le faire, ce qui nuit à
+   l’apprentissage (Watters, 2015). C’est exactement cette préoccupation,
+   à savoir que l’utilisation de la technologie pour aider les élèves
+   pourrait en fait nuire à leur apprentissage, qui a conduit le ministère
+   chinois de l’éducation à interdire les applications de devoirs assistés
+   par l’IA qui fournissent automatiquement des réponses en ligne aux
+   questions de devoirs photographiées et téléchargées par les élèves
+   (Dan, 2021).
+
+3.1.3 Simulations assistées par l’IA (par exemple, apprentissage par le jeu,
+Réalité Virtuelle, Réalité Augmentée)
+
+   Bien qu’elles ne soient peut-être pas traditionnellement considérées
+   comme des technologies d’IA, les simulations de réalité virtuelle (RV)
+   et de réalité augmentée (RA) disponibles dans le commerce et
+   l’apprentissage basé sur les jeux numériques sont fréquemment combinés
+   avec l’apprentissage automatique de l’IA, la reconnaissance d’images et
+   le traitement du langage naturel, et sont de plus en plus utilisés dans
+   des contextes éducatifs. Par exemple, la RV assistée par l’IA a été
+   utilisée pour fournir une formation aux internes en neurochirurgie sur
+   une variété de procédures neurochirurgicales (par exemple, McGuire et
+   Alaraj, 2018), tandis que la RA assistée par l’IA a été utilisée pour
+   permettre aux élèves d’explorer et de manipuler des modèles
+   tridimensionnels de molécules organiques afin d’améliorer leur
+   compréhension de la chimie (par exemple, Behmke et al., 2018). Google a
+   développé plus d’un millier d’”expéditions” en réalité virtuelle et en
+   réalité augmentée adaptées à des contextes éducatifs. Dans le même
+   temps, l’apprentissage numérique basé sur les jeux (Digital Game Based
+   Learning, DGBL) inclut de plus en plus de technologies d’IA, afin
+   d’adapter le gameplay à chaque élève (LaPierre, 2021).
+
+3.1.4 L’IA au service des apprenants à besoins particuliers
+
+   Bon nombre des IAEd au service des élèves disponibles dans le commerce
+   et mentionnées ici (en particulier les ITS) ont été développées pour
+   aider les élèves ayant un trouble de l’apprentissage (Barua et al.,
+   2022), tandis que d’autres approches d’IA ont été utilisées pour
+   assister le diagnostic de troubles de l’apprentissage tels que les
+   troubles de l’attention avec ou sans hyperactivité ou TDAH (par
+   exemple, Anuradha et al., 2010), la dyslexie (Benfatto et al., 2016) et
+   la dysgraphie (Asselborn et al., 2020). En outre, de nombreuses
+   recherches ont été menées sur l’utilisation des robots dans
+   l’éducation, en particulier pour aider les enfants souffrants de
+   troubles du spectre autistique (par exemple, Alabdulkareem et al.,
+   2022). Parallèlement, il existe un certain nombre d’outils d’IA
+   classiques, comme les applications de synthèse vocale et de
+   sous-titrage automatique d’images, qui ont été “réadaptés” pour les
+   élèves ayant des difficultés d’apprentissage ou mal voyants/non
+   voyants, ainsi qu’un nombre limité d’applications ciblées assistées par
+   l’IA, par exemple certaines qui signent automatiquement pour les
+   enfants ayant des difficultés d’audition, comme StorySign de Huawei
+   (Huawei, 2022).
+
+3.1.5 Outils de rédaction automatique de textes (ORA)
+
+   Les dissertations écrites restent un élément important de l’évaluation
+   des études dans le monde entier, mais faire passer le texte d’un autre
+   pour le sien a longtemps été une pratique courante. L’Internet a rendu
+   cette pratique de plus en plus facile, avec des usines de rédaction
+   commerciales en ligne proposant des rédactions sur mesure sur n’importe
+   quel sujet. Les récents développements de l’IA connus sous le nom de
+   “grands modèles linguistiques”, tels que le GPT-3 d’Open AI évoqué plus
+   haut, sont sur le point d’avoir un impact encore plus important (GPT-3,
+   2020). Il existe déjà plusieurs organisations commerciales qui
+   proposent aux élèves des outils de rédaction automatique (ORA) qui, en
+   réponse à une invite telle qu’une question de rédaction, peuvent
+   générer automatiquement des paragraphes individuels ou des rédactions
+   entières. Bien qu’actuellement, l’écriture générée par ORA puisse être
+   superficielle et parfois insensée (Marcus & Davis, 2020), il peut
+   parfois être difficile de déterminer si le texte généré a été écrit par
+   un algorithme ou par un élève humain. Cependant, il n’est pas clair si
+   les outils ORA soutiennent ou nuisent à l’apprentissage des élèves.
+   Néanmoins, étant donné leur sophistication croissante et ce qui
+   pourrait être décrit comme une course aux armements entre les ORA et
+   les détecteurs d’ORA, ils sont susceptibles d’avoir un impact sur la
+   façon dont nous évaluons les élèves (Sharples, 2022).
+
+3.1.6 Agents conversationnels
+
+   Les agents conversationnels assistés par l’IA font l’objet de
+   recherches et sont disponibles dans le commerce. Ils sont de plus en
+   plus utilisés dans des contextes éducatifs à des fins diverses (Hwang &
+   Chang, 2021 ; Pérez et al., 2020). Par exemple, les agents
+   conversationnels ont été développés pour fournir un soutien et une
+   orientation continus aux élèves, dans les services académiques, le
+   logement, les installations, les examens, l’informatique, la santé et
+   plus encore. Un élève peut, par exemple, poser des questions sur ses
+   cours du matin, sur le lieu de l’examen du lendemain ou sur la note
+   qu’il a obtenue dans un travail récent. Un exemple d’agent
+   conversationnel éducatif est Ada, du nom de la pionnière de
+   l’informatique Ada Lovelace, qui a été développé par un collège
+   communautaire britannique, à l’aide de la plateforme Watson
+   Conversation d’IBM (Hussain, 2017). Un deuxième exemple, tristement
+   célèbre, est l’assistant d’enseignement virtuel assisté par l’IA
+   développé à Georgia Tech (Goel & Joyner, 2017). Le robot répondait aux
+   questions des élèves pendant un grand cours d’informatique comme s’il
+   était un assistant d’enseignement humain – en répondant automatiquement
+   aux questions pour lesquelles il avait des réponses dans sa base de
+   données (comme la date de remise d’un devoir) et en renvoyant les
+   autres questions aux assistants d’enseignement humains pour qu’ils y
+   répondent. Une telle approche pourrait avoir un grand potentiel dans
+   les établissements d’enseignement en ligne à grande échelle où il peut
+   être difficile pour le personnel humain de répondre à toutes les
+   questions en ligne des élèves. Cependant, le fait que l’assistant
+   virtuel n’ait pas informé les élèves qu’ils communiquaient avec un
+   robot utilisant de l’IA et qu’il ait parfois utilisé des astuces pour
+   faire croire aux élèves qu’il était humain (par exemple, en retardant
+   ses réponses) soulève de réelles questions éthiques.
+
+3.1.7 Évaluation formative automatique
+
+   Les applications d’évaluation formative automatique font l’objet de
+   recherches et sont disponibles dans le commerce. Elles utilisent le
+   traitement du langage naturel et le traitement sémantique, ainsi que
+   d’autres techniques assistées par l’IA, pour fournir un retour
+   d’information exploitable sur les écrits ou autres productions des
+   élèves. Malgré leur potentiel pour soutenir l’apprentissage des élèves,
+   et probablement en raison des difficultés à fournir automatiquement un
+   retour précis et utile, il existe encore peu d’exemples commerciaux de
+   ce type de services. Un exemple de recherche est Open Essayist (Foster,
+   2019). L’un des principaux problèmes est qu’actuellement, aucun système
+   d’IA n’est capable d’une interprétation aussi approfondie ou d’une
+   analyse aussi précise que celle d’un enseignant, et qu’il s’appuie
+   généralement sur des caractéristiques superficielles de l’écriture ou
+   d’autres résultats. Grammarly (Grammarly, 2022a) est un exemple de
+   système d’IA qui fournit explicitement un retour sur les
+   caractéristiques de surface de l’écriture. Parallèlement, des
+   recherches menées à l’université de Stanford ont permis d’évaluer un
+   système d’autogestion des apprentissages qui fournissait un retour sur
+   les tâches de programmation effectuées par 12 000 élèves dans le cadre
+   d’un cours d’informatique. Les élèves étaient d’accord avec les
+   commentaires donnés dans environ 98 % des cas, soit un peu plus que
+   leur accord avec les commentaires des instructeurs humains (Metz,
+   2021).
+
+3.1.8 Orchestrateurs de réseaux d’apprentissage
+
+   Par orchestrateurs de réseaux d’apprentissage, nous entendons les
+   systèmes d’IA qui permettent les connexions entre les personnes
+   engagées dans l’éducation. Il existe peu d’exemples étudiés et
+   commercialisés dans ce domaine. Un exemple est le tuteur ouvert (Open
+   Tutor, anciennement connu sous le nom de Smart Learning Partner),
+   développé par des chercheurs de l’Université normale de Pékin (Lu et
+   al., 2018). Si un élève n’a pas compris quelque chose dans sa classe,
+   il peut ouvrir l’application Open Tutor sur son téléphone portable,
+   taper ce qu’il veut savoir, et l’application le met en relation avec
+   une liste de tuteurs humains qui peuvent l’aider, tous notés par
+   d’autres élèves (un peu comme une application de rencontre). Ils
+   bénéficient ensuite de 20 minutes de cours particuliers, avec partage
+   de l’écran et de la voix uniquement. Inévitablement, comme ce système
+   implique des tuteurs humains, il est relativement coûteux à mettre en
+   place. Néanmoins, ce qui est particulièrement intéressant, c’est que
+   l’apprenant est responsable et décide de ce qu’il veut apprendre,
+   tandis que l’IA (contrairement à un STI) joue un rôle de soutien.
+
+3.1.9 Systèmes de tutorat basés sur le dialogue
+
+   Les systèmes de tutorat basés sur le dialogue (ou Dialog Based Tutoring
+   System) simulent un dialogue de tutorat, généralement dactylographié
+   mais parfois parlé, entre un tuteur humain et un élève. L’objectif est
+   d’encourager l’élève à développer une compréhension approfondie du
+   sujet en question, en allant au-delà des connaissances de surface qui
+   sont le résultat de certains STI. En général, lorsque l’élève travaille
+   étape par étape sur une tâche en ligne, le DBTS utilise le principe du
+   tutorat socratique, qui consiste à poser des questions plutôt qu’à
+   donner des instructions. L’élève est donc guidé pour découvrir par
+   lui-même la solution préétablie pour le problème en cours. Le DBTS le
+   plus connu est AutoTutor, qui fait l’objet de recherches à l’Université
+   de Memphis depuis plus de vingt ans (Nye et al., 2014). Nous n’avons
+   pas été en mesure d’identifier des exemples commerciaux de DBTS
+   actuellement disponibles.
+
+3.1.10 Environnements d’apprentissage exploratoire
+
+   Les environnements d’apprentissage exploratoires (en anglais ELE)
+   offrent une alternative à l’approche étape par étape adoptée par les
+   STI et les DBTS. Plutôt que de suivre une séquence, même si elle est
+   adaptée à chaque élève, les élèves sont encouragés à construire
+   activement leurs propres connaissances en explorant et en manipulant
+   les éléments de l’environnement d’apprentissage. L’apprentissage par
+   exploration ou découverte n’est pas nouveau, mais il reste controversé.
+   Ses détracteurs affirment que, comme il n’y a pas d’instruction
+   explicite et que les élèves sont censés découvrir les principes par
+   eux-mêmes, il provoque une surcharge cognitive et entraîne de mauvais
+   résultats d’apprentissage (Kirschner et al., 2006 ; Mavrikis et al.,
+   2022). Cependant, c’est là que l’IA entre en jeu, avec de nombreux ELE
+   récents pilotés par l’IA fournissant un retour automatique, abordant
+   les idées fausses et proposant des approches alternatives pendant
+   l’exploration. Il n’existe aucun ELE commercial connu, bien qu’un
+   exemple de recherche soit FractionsLab (IOE, 2018).
+
+3.1.11 Assistants d’apprentissage tout au long de la vie assistés par l’IA
+
+   Les assistants d’apprentissage tout au long de la vie assistés par
+   l’IA, des outils que les élèves pourraient peut-être avoir sur leur
+   téléphone portable et qui peuvent fournir un large éventail de soutien
+   et de conseils, ont longtemps été suggérés comme une application
+   potentiellement puissante de l’IA dans l’éducation (Holmes et al.,
+   2019). Cependant, à ce jour, un tel outil a fait l’objet de très peu
+   d’efforts de recherche. Alors que des concepts tels que les jumeaux
+   numériques et les métavers deviennent de plus en plus populaires, les
+   assistants d’apprentissage tout au long de la vie constituent un
+   domaine potentiel pour la recherche sur l’IAEd.
+
+3.2 IAEd au service de l’enseignant
+
+   De nombreux dispositifs d’IA au services des élèves, en particulier les
+   Systèmes de Tutorat Intelligents (STI), comprennent des interfaces, ou
+   des tableaux de bord, pour les enseignants, souvent basés sur des
+   modèles d’apprenants ouverts, qui offrent une représentation dynamique
+   de ce que les élèves individuels et les groupes d’élèves ont réalisé,
+   ou de leurs idées fausses (Bodily & Verbert, 2017). Une approche
+   novatrice utilise des lunettes de réalité augmentée (RA) portées par
+   l’enseignant pour superposer des informations de type tableau de bord
+   au-dessus de la tête de ses élèves pendant que ceux-ci s’engagent avec
+   un STI (Holstein et al., 2018). Bien qu’impressionnant, il s’agit d’un
+   exemple d’utilisation d’une technologie d’IA pour résoudre un problème
+   causé par une technologie d’IA (ici, pour résoudre le fait que, pendant
+   que les élèves s’engagent avec un STI, leur enseignant ne peut pas
+   facilement voir ce que les élèves font et ne peut donc pas facilement
+   fournir un soutien approprié). Quoi qu’il en soit, les STI et autres
+   dispositifs d’IAEd proposant des tableaux de bord pour les enseignants
+   sont tous principalement au service des élèves. En fait, si, à des fins
+   d’analyse, nous ignorons les chevauchements, il existe peu d’exemples
+   d’IAEd véritablement au service de l’enseignant. Nous examinons ici six
+   possibilités, dont beaucoup sont controversées : la détection du
+   plagiat, la curation intelligente du matériel d’apprentissage, le suivi
+   de la classe, l’évaluation sommative automatique, les assistants
+   pédagogiques intelligents et l’orchestration de la classe.
+
+3.2.1 Détection du plagiat
+
+   Les services de détection du plagiat disponibles dans le commerce sont
+   largement utilisés par les éducateurs, et les méthodes d’apprentissage
+   automatique ont été de plus en plus adaptées à ces systèmes au cours de
+   la dernière décennie. Le marché est désormais dominé par Turnitin
+   (Turnitin, 2022), avec ses différents outils tels que iThenticate et
+   Ouriginal, mais des logiciels de détection tels que Plagiarism Checker
+   X (Plagiarism Checker X, 2022) et le correcteur de plagiat de Grammarly
+   (Grammarly, 2022b), plus orienté vers les élèves, sont également
+   largement utilisés.
+
+3.2.2 Curation intelligente des ressources pédagogiques
+
+   Comme chacun sait, l’internet est inondé de contenus éducatifs – dans
+   de multiples formats et langues, avec différents niveaux d’accès et de
+   qualité variable. Le défi pour les enseignants et les élèves n’est pas
+   de trouver du contenu mais de trouver facilement du contenu pertinent
+   de haute qualité qui peut être utilisé efficacement. Au moins un outil
+   de recherche, X5GON (X5GON, 2022), et deux outils commerciaux, Teacher
+   Advisor (IBM, 2018) et Clever Owl (Clever Owl, 2022), ont été
+   développés pour explorer automatiquement le web afin de trouver des
+   ressources d’enseignement et d’apprentissage en réponse aux requêtes
+   des enseignants.
+
+3.2.3 Surveillance de la classe
+
+   Dans quelques contextes, les systèmes assistés par l’IA ayant fait
+   l’objet de recherches et disponibles dans le commerce sont de plus en
+   plus utilisés pour le suivi des élèves en classe. Par exemple, des
+   applications vidéo assistées par l’IA ont été développées pour
+   surveiller l’endroit où un élève regarde, à partir duquel le système
+   déduit s’il est concentré ou non sur l’enseignant ou la tâche en cours
+   (Lieu, 2018). Ailleurs, et peut-être de manière encore plus intrusive,
+   on demande aux élèves de porter des casques EEG
+   (électroencéphalographie) portables pour enregistrer leur activité
+   cérébrale afin de “surveiller” leur attention (Poulsen et al., 2017).
+   Par exemple, l’entreprise américaine BrainCo affirme que ses casques
+   peuvent aider les enseignants à identifier les élèves qui ont besoin
+   d’une aide supplémentaire, les données étant présentées sur un tableau
+   de bord qui indique l’activité cérébrale moyenne de toute la classe.
+   Les casques affichent une lumière bleue pour les élèves dont l’activité
+   cérébrale est inférieure à la moyenne, jaune pour ceux qui se situent
+   dans la moyenne et rouge pour ceux dont l’activité cérébrale est
+   supérieure à la moyenne (NeuroMaker, 2022). Des casques similaires sont
+   également largement utilisés dans les écoles chinoises, où les
+   enseignants et les parents peuvent examiner l’activité cérébrale des
+   élèves sur Internet. En Chine, les enseignants affirment que
+   l’utilisation de ces bandeaux a forcé les élèves à devenir plus
+   disciplinés, et que ces derniers sont désormais plus attentifs et
+   travaillent davantage en classe (Wall Street Journal, 2019). En
+   laissant de côté les questions éthiques évidentes, sur lesquelles nous
+   reviendrons plus tard, il est important ici de noter que ces systèmes
+   sont déjà controversés car il y a très peu de preuves qu’ils sont
+   capables de faire ce qu’ils prétendent faire. Pendant ce temps, dans de
+   nombreuses universités, des systèmes assistés par l’IA sont également
+   utilisés pour surveiller les mouvements des élèves sur le campus
+   (parfois au moyen d’une application pour téléphone portable), ce qu’ils
+   téléchargent du système de gestion de l’apprentissage en ligne, ce
+   qu’ils achètent à la cafétéria, et bien d’autres choses encore
+   (Moriarty-Mclaughlin, 2020).
+
+3.2.4 Évaluation sommative automatique
+
+   On espère depuis longtemps que l’IA pourrait faire gagner du temps et
+   de l’énergie aux enseignants en automatisant la notation des travaux,
+   devoirs et évaluations des élèves, qui demande beaucoup de travail et
+   se trouve donc coûteuse (Watters, 2021). C’est pourquoi les outils
+   d’évaluation sommative automatique (parfois aussi appelée ”
+   autogradeurs “) sont un domaine de recherche bien financé, le deuxième
+   après les STI, et il est largement commercialisé.
+
+   Ces outils ont été utilisés pour l’évaluation de tâches écrites (par
+   exemple, les SAT américains) (Ramesh et Sanampudi, 2021), ainsi que
+   dans les cours d’informatique et de mathématiques. Certains
+   autogradeurs de pointe prétendent également diagnostiquer le type
+   d’erreur et suggérer à l’élève comment la corriger, tandis que
+   d’autres, selon le domaine, prétendent noter correctement les réponses
+   des élèves avec une précision d’environ 90 % (Hsu et al., 2021).
+   Néanmoins, l’utilisation de la notation automatique reste controversée
+   en particulier lorsque l’évaluation est à enjeux élevés. En fait, les
+   tests à enjeux élevés sont l’un des deux cas d’utilisation à haut
+   risque de la proposition de loi européenne sur l’IA, et seraient donc
+   réglementés par ses dispositions. Un exemple commercial d’évaluation
+   sommative automatique est e-Rater (ETS, 2022).
+
+3.2.5 Assistant d’enseignement et d’évaluation assisté par l’IA
+
+   Comme indiqué, de nombreuses technologies d’IAEd sont conçues pour
+   faire gagner du temps aux enseignants. Cependant, ce faisant, elles
+   prennent effectivement en charge les tâches d’enseignement, réduisant
+   potentiellement les enseignants à un rôle plus fonctionnel (Guilherme,
+   2019 ; Selwyn, 2019). Une approche alternative consiste à ce que l’IA
+   soutienne les enseignants dans leur enseignement en augmentant
+   l’expertise et les compétences des enseignants avec un assistant
+   d’enseignement utilisant de l’IA. Ce que pourrait faire un tel
+   assistant d’enseignement IA reste à déterminer. Il s’agit en effet
+   d’une application spéculative dans la mesure où nous n’avons pas
+   connaissance de recherches ou de produits commerciaux pertinents.
+   Néanmoins, un outil commercial récemment lancé indique une direction
+   intéressante. Au lieu d’une évaluation automatique, comme c’est le cas
+   avec les autogradeurs, Graide (Graide, 2022) soutient l’enseignant dans
+   ses pratiques d’évaluation (par exemple, en proposant des phrases que
+   l’enseignant a déjà écrites et utilisées et qu’il peut réutiliser pour
+   le script en cours de correction). En d’autres termes, c’est
+   l’enseignant qui procède à l’évaluation, et non l’IA seule mais il est
+   assisté par celle-ci.
+
+3.2.6 Orchestration de la classe
+
+   L’orchestration de la classe fait référence à la manière dont un
+   enseignant gère les activités (pour des individus, des groupes ou des
+   classes entières) pour des pratiques d’enseignement efficaces, dans le
+   cadre des contraintes disponibles telles que le programme,
+   l’évaluation, le temps, l’espace, l’énergie et la sécurité (Dillenbourg
+   et al., 2011). Cette technologie n’en est qu’à ses débuts, mais il
+   existe un nombre croissant de recherches sur la façon dont l’IA
+   pourrait aider l’enseignant à orchestrer la classe (Song, 2021). Un
+   exemple est le système FACT qui fait des recommandations à l’enseignant
+   sur les groupes à visiter et ce qu’il doit dire (VanLehn et al., 2019)
+   pendant que les élèves résolvent des problèmes mathématiques en petits
+   groupes.
+
+3.3 L’IAEd au service des institutions
+
+   L’IAEd au service des établissements comprend des technologies qui
+   permettent d’allouer des aides financières (Aulck et al., 2020), de
+   planifier, d’organiser et de programmer des cours (Kitto et al., 2020 ;
+   Pardos & Nam, 2020), et d’identifier les abandons et les élèves à
+   risque (Del Bonifro et al., 2020 ; Miguéis et al., 2018 ; Quille &
+   Bergin, 2019). Ces outils ont une fonction administrative claire et
+   s’inspirent et partagent beaucoup avec l’intelligence artificielle au
+   service des organisations et des entreprises. Par conséquent, nous
+   n’aborderons ici que deux cas critiques et controversés d’IAEd axés sur
+   les institutions : les admissions (l’un des cas d’utilisation à haut
+   risque définis dans la proposition de loi européenne sur l’IA) et
+   l’e-Proctoring (surveillance d’examens à distance).
+
+3.3.1 Admissions
+
+   De nombreux établissements d’enseignement supérieur, principalement aux
+   États-Unis, utilisent des logiciels d’admission assistés par l’IA
+   disponibles dans le commerce pour rendre plus efficace leurs processus
+   d’admission – non sans controverse toutefois (Pangburn, 2019). L’idée
+   est de réduire les coûts tout en rendant le système d’admission plus
+   équitable, en aidant à éliminer les biais humains invisibles (comme la
+   pensée de groupe et les préjugés raciaux et sexistes) qui peuvent avoir
+   un impact sur les décisions. Par exemple, l’Université du Texas à
+   Austin a mis au point un système appelé GRADE pour recommander si un
+   candidat devrait être admis, sur la base de ses résultats aux tests, de
+   son parcours scolaire antérieur et de ses lettres de recommandation,
+   affirmant gagner au moins 74 % de temps sur les examens (Waters &
+   Miikkulainen, 2014). Cependant, en 2020, GRADE a été abandonné parce
+   qu’il reproduisait discrètement les mêmes problèmes qu’il avait
+   l’ambition de résoudre. Néanmoins, l’IA est de plus en plus utilisée
+   pour rendre plus efficaces les processus d’admission (Marcinkowski et
+   al., 2020), souvent à l’aide d’outils fournis par des sociétés
+   commerciales telles que Salesforce (Salesforce, 2022).
+
+3.3.2 Surveillance d’examens – E-proctoring
+
+   Au début de la pandémie de COVID-19, une grande partie de
+   l’enseignement a été transférée en ligne, de même que de nombreux
+   examens, ce qui a conduit de nombreuses entreprises de surveillance
+   d’examens (ou e-Proctoring) à voir leurs activités se développer
+   massivement (Nigam et al., 2021). L’e-proctoring vise à garantir
+   l’intégrité académique en utilisant des caméras et des microphones
+   assistés par l’IA pour surveiller automatiquement les élèves et élèves
+   – en scannant leur visage et en suivant les frappes au clavier et les
+   mouvements de la souris – pendant qu’ils passent un examen en ligne.
+   Cependant, ces outils sont extrêmement controversés (Kelley, 2021). Ils
+   ont été accusés d’intrusion, de ne pas fonctionner correctement, de
+   discrimination, d’empêcher les élèves de passer leurs examens et
+   d’exacerber les problèmes de santé mentale (Chin, 2020 ; Henry &
+   Oliver, 2021). En fait, l’e-Proctoring est probablement l’un des
+   exemples les plus clairs d’une utilisation de l’IA pour automatiser de
+   mauvaises pratiques pédagogiques, plutôt que de l’utiliser pour
+   développer de nouvelles approches plus pertinentes.
+
+4. DES OBSTACLES AU DÉVELOPPEMENT DE L’IAEd
+
+   Comme indiqué dans l’introduction, les avantages supposés de l’IA dans
+   l’éducation ont reçu beaucoup de visibilité (par exemple, OCDE, 2020,
+   2021).
+
+   Selon l’entrepreneur en IA Kai-Fu Lee :
+
+   L’enseignement se compose de cours, d’exercices, d’examens et de
+   tutorat. Ces quatre composantes exigent beaucoup de temps de la part de
+   l’enseignant. Cependant, de nombreuses tâches de l’enseignant peuvent
+   être automatisées avec une IA suffisamment avancée. La plus grande
+   opportunité pour l’IA dans l’éducation est peut-être l’apprentissage
+   individualisé […]. Contrairement aux enseignants humains, qui doivent
+   prendre en compte l’ensemble de la classe, un enseignant virtuel peut
+   accorder une attention particulière à chaque élève, qu’il s’agisse de
+   résoudre des problèmes de prononciation spécifiques, de s’entraîner aux
+   multiplications ou de rédiger des essais. Un enseignant virtuel
+   remarquera ce qui fait se dilater les pupilles d’un élève et ce qui
+   fait tomber ses paupières. Il déduira une méthode d’enseignement de la
+   géométrie qui permettra à un élève d’apprendre plus rapidement, même si
+   cette méthode échoue sur un millier d’autres élèves. Pour un élève qui
+   aime le basket, les problèmes de mathématiques pourront être réécrits
+   en termes contextualisés au domaine du basket. L’IA donnera des devoirs
+   différents à chaque élève, en fonction de son rythme, en veillant à ce
+   qu’un élève donné maîtrise parfaitement un sujet avant de passer au
+   suivant. Grâce à des données toujours plus nombreuses, l’IA rendra
+   l’apprentissage beaucoup plus efficace, attrayant et amusant. (Lee &
+   Qiufan, 2021, p. 118)
+
+   Une telle vision de l’avenir de l’IA résume parfaitement les
+   convictions de nombre de ses plus ardents défenseurs à propos de
+   l’IAEd.
+
+   Elle soulève également des questions fondamentales et controversées :
+   l’automatisation de l’enseignement et des tâches des enseignants,
+   l’individualisation de l’éducation, la surveillance biométrique,
+   l’apprentissage en tant que maîtrise d’un sujet donné et les mesures
+   d’efficacité associées, pour n’en citer que quelques-unes.
+
+   Ce n’est que récemment que ces questions ont été intégrées au courant
+   dominant de l’IAEd (Blikstein & Blikstein, 2021 ; Holmes et al., 2021 ;
+   Selwyn, 2019 ; Tuomi, 2018 ; Williamson & Eynon, 2020). L’UNESCO (Miao
+   & Holmes, 2021), le Conseil de l’Europe (Holmes et al., 2022 ; Yeung,
+   2019), la Commission européenne (Vuorikari & Holmes, 2022) et la
+   communauté de recherche au sens large (Holmes & Porayska-Pomsta, 2023)
+   ont également commencé à évaluer de manière critique le potentiel futur
+   de l’IA dans l’éducation.
+
+   Ensemble, ces publications explorent ce que l’on pourrait appeler une
+   perspective humaniste et d’études critiques sur les liens entre l’IA et
+   l’éducation. Les autres articles de ce numéro de la Revue européenne de
+   l’éducation abordent de nombreux obstacles potentiels sur la voie d’un
+   avenir visionnaire. Nous nous contenterons ici d’en résumer brièvement
+   quelques-uns : l’éthique, la personnalisation, l’efficacité et
+   l’impact, le colonialisme de l’IAEd et la commercialisation de
+   l’éducation.
+
+4.1 Éthique
+
+   Ces dernières années, l’IA en général a fait l’objet d’un intérêt
+   croissant pour l’éthique, ce qui a donné lieu à plus de 80 ensembles de
+   principes éthiques en matière d’IA (Ayling et Chapman, 2021 ; Jobin et
+   al., 2019 ; Tsamados et al., 2022). Nombre d’entre eux ont adopté une
+   approche de l’éthique fondée sur les droits, les droits de l’homme
+   jouant un rôle central. Cependant, malgré les implications
+   fondamentales pour les élèves, les éducateurs, les parents et les
+   autres parties prenantes, relativement peu de publications ont été
+   consacrées spécifiquement à l’éthique de l’IA dans l’éducation, à
+   l’exception notable de ces publications (Adams et al., 2021 ; Aiken &
+   Epstein, 2000 ; Holmes et al., 2021 ; Holmes & Porayska-Pomsta, 2023 ;
+   Holstein & Doroudi, 2021). En fait, à ce jour, la plupart des travaux
+   de recherche et de développement sur l’IAEd se sont déroulés sans
+   engagement sérieux quant aux conséquences éthiques potentielles de
+   l’utilisation de l’IA dans l’éducation. Cela contraste avec le domaine
+   connexe de l’analyse de l’apprentissage, où la vie privée et les
+   questions éthiques connexes ont été largement débattues (par exemple,
+   Drachsler et Greller, 2016 ; Prinsloo et Slade, 2017 ; Slade et Tait,
+   2019 ; Williamson, 2017). Alors qu’en Europe, on s’intéresse de plus en
+   plus à l’élaboration de lignes directrices et de règlements axés sur
+   les enseignants pour le développement et le déploiement éthiques de
+   l’IA dans l’éducation (par exemple, CE, 2022), il n’en reste pas moins
+   qu’aucune réglementation appropriée n’a encore été promulguée dans le
+   monde (Holmes, Bektik, et al., 2018).
+
+   Un rapport du Conseil de l’Europe a récemment exploré l’IA et
+   l’éducation en termes de droits de l’homme (Holmes et al., 2022), en
+   s’appuyant sur la Déclaration universelle des droits de l’homme des
+   Nations Unies (1948), la Convention européenne des droits de l’homme
+   (Conseil de l’Europe, 1953) et la Convention des Nations Unies relative
+   aux droits de l’enfant (1989). Nous soulignons ici certaines questions
+   clés, accompagnées d’exemples, que le rapport aborde en détail.
+     * Droit à la dignité humaine. L’enseignement, l’évaluation et
+       l’accréditation ne doivent pas être délégués à un système d’IA.
+     * Droit à l’autonomie. Les enfants devraient avoir le droit d’éviter
+       d’être profilés individuellement, d’éviter les parcours
+       d’apprentissage dictés, et de protéger leur développement et leur
+       vie future.
+     * Le droit d’être entendu. Les enfants devraient avoir le droit de ne
+       pas s’engager dans l’utilisation d’un système d’IA, sans que cela
+       n’affecte négativement leur éducation.
+     * Droit de ne pas souffrir de discrimination. Tous les enfants
+       devraient avoir la possibilité de bénéficier de l’utilisation des
+       technologies, et pas seulement ceux issus des groupes
+       socio-économiques qui peuvent se le permettre.
+     * Droit à la confidentialité et à la protection des données. Les
+       enfants doivent avoir le droit que leurs données ne soient pas
+       agrégées et utilisées à des fins commerciales sans leur bénéfice
+       direct.
+     * Droit à la transparence et à l’explicabilité. Les enfants et leurs
+       parents doivent pouvoir comprendre et contester toute décision
+       prise par un système IAEd.
+
+   Alors que la plupart des discussions centrées sur l’éthique de l’IAEd
+   et du domaine connexe de l’analyse de l’apprentissage se concentrent
+   sur les données (par exemple, les biais, la vie privée et la propriété
+   des données) et sur la façon dont ces données sont analysées (par
+   exemple, l’équité, la transparence, la confiance et la fiabilité),
+   l’éthique de l’IAEd ne peut pas être réduite aux seules questions
+   relatives aux données et aux approches informatiques. En d’autres
+   termes, l’étude de l’éthique des données et des calculs de l’IAEd est
+   nécessaire mais pas suffisante (Holmes et al., 2021). L’éthique de
+   l’IAEd doit également aborder l’éthique de l’éducation. Cela soulève
+   d’importantes questions centrées sur la pédagogie (la pédagogie
+   instructionniste adoptée par la plupart des IAEd est-elle éthiquement
+   fondée ?), les évaluations (que faut-il évaluer et comment ?), les
+   connaissances (qu’est-ce qui compte comme connaissances ?), et
+   l’agentivité de l’élève et de l’enseignant (qui doit avoir le contrôle
+   ?) (Holmes & Porayska-Pomsta, 2023). Bien que les préoccupations
+   éthiques générales liées à l’IA soient aujourd’hui largement débattues,
+   l’éducation occupe des rôles sociaux importants et vise le
+   développement humain, ce qui rend les défis éthiques connexes
+   particulièrement difficiles, tant sur le plan conceptuel que dans la
+   pratique. Pour cette raison, il a été suggéré qu’un cadre éthique
+   adéquat pour l’IAEd doit être construit en utilisant l’apprentissage et
+   le développement humain comme point de départ (Tuomi, 2023). Cela
+   signifie également que les cadres éthiques pour l’IA générale doivent
+   être plus explicites sur leurs modèles implicites de progrès et de
+   développement.
+
+4.2 Personnalisation
+
+   Bien que la signification de l’apprentissage personnalisé reste floue
+   (Holmes, Anastopoulou, et al., 2018), elle nourrit de plus en plus le
+   récit éducatif dominant (par exemple, Parlement européen, 2021 ;
+   UNICEF, 2022). En fait, comme nous l’avons vu dans l’introduction, le
+   développement de technologies permettant de personnaliser
+   l’apprentissage en fonction des forces et des faiblesses de chaque
+   élève a commencé il y a près de 100 ans, avec les “machines à
+   enseigner” conçues par Sidney Pressey et B. F. Skinner (Watters, 2021).
+   Pour diverses raisons, ces machines n’ont pas été largement acceptées,
+   et le programme d’apprentissage personnalisé a plus ou moins disparu.
+   Il est réapparu des décennies plus tard, principalement dans la Silicon
+   Valley, en partie parce que l’Internet a rendu possible la
+   personnalisation de masse dans un large éventail d’industries. Une
+   question souvent posée est la suivante : si nous pouvons avoir des
+   recommandations personnalisées sur Netflix ou Amazon, pourquoi ne
+   pouvons-nous pas faire la même chose dans l’éducation ?
+
+   La personnalisation des parcours d’apprentissage proposée par une
+   grande partie de l’IAEd actuelle est toutefois une interprétation très
+   limitée de la personnalisation. La personnalisation, comprise de
+   manière plus large, concerne la subjectivation (Biesta, 2011) et l’aide
+   apportée à chaque élève pour qu’il réalise son propre potentiel, qu’il
+   s’accomplisse lui-même et qu’il renforce son action. C’est quelque
+   chose que peu d’outils IAEd existants font. Au contraire, alors qu’ils
+   proposent des parcours adaptatifs à travers les matériaux à apprendre,
+   la plupart des outils IAEd ont tendance à favoriser l’homogénéisation
+   des élèves. Une interprétation critique de ces outils IAEd pourrait
+   suggérer qu’ils visent à s’assurer que les élèves entrent dans la bonne
+   boîte (passent leurs examens), préparés à leur rôle désigné dans le
+   monde du travail.
+
+   Il convient de noter trois autres problèmes connexes.
+
+   Premièrement, l’agenda de la personnalisation, tel qu’il est exprimé,
+   par exemple, dans la citation de Kai Fu-Lee ci-dessus, suppose que cela
+   n’est possible qu’avec la technologie. Cependant, la plupart des
+   enseignants personnalisent leur enseignement au fur et à mesure, en
+   réponse à chaque élève, en l’aidant (si le système éducatif le permet)
+   à se réaliser, à devenir le meilleur qu’il puisse être.
+
+   Deuxièmement, les parcours dits individuels fournis par la
+   quasi-totalité des systèmes IAEd sont principalement basés sur les
+   moyennes des apprenants précédents. Par conséquent, s’ils peuvent être
+   applicables à des groupes, leur utilité ou leur applicabilité à des
+   élèves en tant qu’individuels n’est pas évidente.
+
+   Troisièmement, l’éducation concerne également la collaboration et les
+   autres aspects d’interaction sociale de l’enseignement et de
+   l’apprentissage, qui sont souvent ignorés par les STI actuels et la
+   plupart des autres IAEd. Si les STI peuvent être utiles lorsque l’élève
+   est sans enseignant ou sans ses pairs, par exemple lorsqu’il fait ses
+   devoirs en autonomie, on ne comprend pas pourquoi certaines écoles les
+   utilisent dans les salles de classe, qui sont par définition des
+   espaces sociaux.
+
+4.3 Efficacité et impact
+
+   Les preuves de l’impact positif de l’utilisation de l’IAEd sont
+   importantes pour les décideurs politiques, mais aussi pour une
+   utilisation éthique de l’AI. L’investissement en temps et, par exemple,
+   en efforts des enseignants, nécessite une justification acceptable.
+   Comme le montrent les nombreux articles publiés dans l’International
+   Journal of Artificial Intelligence in Education, les chercheurs
+   universitaires ont mené de nombreuses études sur l’efficacité de divers
+   systèmes IAEd. Beaucoup de ces études ont été synthétisées dans de
+   nombreuses méta-analyses et méta-méta-analyses (par exemple, Kulik &
+   Fletcher, 2016 ; Ma et al., 2014).
+
+   Selon du Boulay, “La conclusion générale de ces méta-analyses est que
+   les systèmes d’IAEd sont plus performants que […] les enseignants
+   humains travaillant dans des classes nombreuses. Ils sont légèrement
+   moins performants que les tuteurs humains en tête-à-tête […]. Bien sûr,
+   de bons résultats post-test ne sont pas les seuls critères pour juger
+   si une technologie éducative sera ou devrait être adoptée. (du Boulay,
+   2016, p. 80).
+
+   La grande majorité des études d’impact ont été menées par les
+   développeurs de la technologie étudiée (de plus en plus souvent des
+   organisations commerciales), et le plus souvent avec un nombre
+   relativement faible d’apprenants. Cela réduit potentiellement leur
+   caractère généralisable.
+
+   Dans quelques cas seulement, les études ont été menées de manière
+   indépendante et/ou à grande échelle (par exemple, Egelandsdal et al.,
+   2019 ; Pane et al., 2013 ; Roschelle et al., 2017). La plupart de ces
+   grandes études indépendantes ont été menées aux États-Unis, ce qui
+   limite leur transférabilité à d’autres pays. Par conséquent, il reste
+   vrai de dire que “beaucoup de revendications du potentiel
+   révolutionnaire de l’IA dans l’éducation sont basées sur des
+   conjectures, des spéculations et de l’optimisme” (Nemorin, 2021, cité
+   dans Miao & Holmes, 2021, p. 13).
+
+   L’un des problèmes de la recherche sur l’IAEd est qu’elle s’est presque
+   toujours concentrée sur l’efficacité de l’outil d’IA pour améliorer les
+   résultats scolaires de l’élève dans le domaine étroit traité par
+   l’outil. Il est très rare que la recherche prenne en compte les
+   implications plus larges de l’IA dans les salles de classe et son
+   impact plus large sur les enseignants et les élèves : Une “grande
+   partie de ce qui existe aujourd’hui en tant que “preuves” est
+   principalement liée à la façon dont l’IA peut fonctionner dans
+   l’éducation dans une capacité technique, sans prendre le temps de poser
+   la question de savoir si l’IA est nécessaire dans l’éducation et d’y
+   répondre de manière exhaustive ” (Nemorin, 2021, cité dans Miao &
+   Holmes, 2021, p. 26).
+
+   L’un des impacts potentiels importants de l’IAEd concerne la cognition
+   humaine et le développement du cerveau. On pense depuis longtemps,
+   depuis que Socrate a affirmé que l’écriture conduisait à l’oubli
+   (Platon, 257 C.E.), que la technologie a un impact significatif sur le
+   développement humain et la cognition. Inévitablement, cependant, cet
+   impact est susceptible d’être complexe. Par exemple, alors qu’une étude
+   a suggéré qu’une plus grande utilisation des dispositifs et
+   applications de navigation du système de positionnement global (GPS)
+   entraîne un déclin de la mémoire spatiale (Dahmani & Bohbot, 2020), une
+   autre a montré que l’utilisation des alertes des smartphones libère des
+   ressources cognitives pour d’autres tâches (Fröscher et al., 2022).
+   Cependant, plusieurs questions restent en suspens en ce qui concerne
+   l’impact de la technologie sur le cerveau et la cognition des enfants –
+   ce qui est particulièrement important car les structures et les
+   capacités cognitives des enfants sont par définition encore en
+   développement. Ces questions consistent notamment à savoir si
+   l’utilisation de la technologie est la cause de divers résultats
+   cognitifs et comportementaux tels que les problèmes d’attention, si
+   l’utilisation de la technologie est impliquée dans la restructuration
+   de certaines parties du cerveau des enfants, s’il existe des risques
+   réels pour la santé associés à l’utilisation de la technologie et, le
+   cas échéant, quels pourraient être les mécanismes de causalité
+   (Gottschalk, 2019). Ces questions sont également susceptibles d’être
+   critiques pour l’IAEd, ce qui suggère la nécessité de nouvelles
+   recherches dans ce domaine.
+
+4.4 Le techno-solutionnisme
+
+   La conclusion selon laquelle “les systèmes IAEd sont plus performants
+   que […] les enseignants humains” (du Boulay, 2016, p. 80) a été
+   utilisée pour justifier leur déploiement de plus en plus large dans le
+   monde. En particulier, il a été avancé que l’IAEd pourrait efficacement
+   combler le vide dans des contextes tels que les zones rurales des pays
+   en développement où l’accès aux enseignants expérimentés ou qualifiés
+   nécessaires pour fournir aux apprenants une éducation de qualité qui
+   est est insuffisante alors qu’elle fait partie de leurs droits humains
+   (XPRIZE, 2015).
+
+   Cependant, bien que la cohorte immédiate dans un tel contexte puisse
+   bénéficier de l’accès à un outil IAEd, les défis sont nombreux. Pour
+   commencer, de nombreuses zones rurales ne disposent pas encore des
+   infrastructures nécessaires (électricité et accès à Internet). Même
+   lorsque ces infrastructures sont disponibles, il est rare que l’on
+   dispose du personnel d’assistance qualifié nécessaire au déploiement, à
+   la gestion et au soutien du matériel et des logiciels requis. Plus
+   important encore, l’IAEd dans de tels contextes peut s’attaquer aux
+   symptômes apparents du problème (par exemple, les apprenants ne
+   reçoivent pas une éducation de qualité), mais pas nécessairement aux
+   causes sociopolitiques sous-jacentes et à long terme (le manque
+   d’enseignants expérimentés et qualifiés).
+
+   Dans la pratique, la manière dont les problèmes sont formulés dépend
+   souvent des intérêts des fournisseurs de technologie. Les facteurs
+   sociaux et culturels plus profonds sont rarement abordés car ils sont
+   difficiles à modifier sans une large participation des parties
+   prenantes et un changement de politique.
+
+   Comme le note Krahulcova : “Malheureusement, la plupart des problèmes
+   complexes du monde réel exigent des solutions complexes du monde réel”
+   (Krahulcova, 2021, paragraphe 3).
+
+   En conséquence, la meilleure façon de résoudre le problème du manque
+   d’enseignants qualifiés est probablement de se concentrer sur le
+   développement et le soutien professionnels offerts aux enseignants
+   inexpérimentés, qui pourraient être soutenus par une IA appropriée. Ce
+   soutien, à son tour, pourrait bénéficier de l’établissement de réseaux
+   de collègues et d’experts en pédagogie assistés par l’IA dans tout le
+   pays. L’accent serait à nouveau mis sur l’augmentation (ou
+   l’encapacitation) des enseignants : utiliser la technologie pour
+   soutenir et augmenter les enseignants plutôt que de les remplacer.
+
+4.5 Le “colonialisme de l’IAEd”
+
+   Les entreprises de l’IAEd vendent de plus en plus leurs outils IAEd à
+   l’échelle mondiale, créant ce que l’on a appelé un “colonialisme de
+   l’IAEd” : Les entreprises des pays développés économiquement exportent
+   leurs outils IAEd dans des contextes des pays en voie de développement,
+   créant des asymétries de pouvoir entre les nations. Il a été noté que,
+   trop souvent, “les technologies numériques fonctionnent de manière à
+   perpétuer les formations raciales et coloniales du passé” (d’après
+   Zembylas, 2021, p. 1). Cette situation est exacerbée par le fait que
+   l’écrasante majorité des recherches sur l’IAEd sont également menées
+   dans les pays économiquement développés et qu’elles abordent rarement
+   la diversité culturelle ou les politiques et pratiques locales de
+   manière significative (Blanchard, 2015).
+
+   Le “colonialisme de l’IAEd” peut impliquer l’adoption d’outils IAEd
+   créés dans un contexte donné dans d’autres endroits, ce qui entraîne
+   des gains commerciaux et économiques globaux pour les entreprises du
+   Nord, avec l’extraction de données et de capitaux locaux hors du pays
+   hôte (Nemorin et al., 2022). Ces gains et extractions peuvent commencer
+   par un nombre restreint d’écoles qui intègrent les outils IAEd dans les
+   pratiques quotidiennes des enseignants avant de s’étendre à des
+   systèmes éducatifs nationaux entiers dans lesquels des produits uniques
+   sont adoptés dans toutes les écoles. Cependant, le “colonialisme de
+   l’IAEd” ne dépend pas nécessairement de l’importation d’outils
+   spécifiques dans les pays du Sud. Plus subtilement, il pourrait
+   simplement impliquer la langue dans laquelle la plupart des IAEd en
+   classe ont tendance à être formés – principalement l’anglais américain
+   (Cotterell et al., 2020). Dans tous les cas, l’impact des modèles
+   formés en anglais utilisés par les outils IAEd dans des contextes non
+   anglophones et sur les enfants qui les utilisent reste inconnu
+   (Naismith & Juffs, 2021).
+
+   Le “colonialisme de l’IAEd” pourrait également impliquer l’imposition
+   d’approches pédagogiques particulières – à l’heure actuelle souvent
+   instructionnistes et comportementalistes – telles qu’elles sont
+   intégrées dans la plupart des systèmes de tutorat commerciaux actuels
+   de l’IAEd.
+
+   Enfin, le “colonialisme” peut également s’inscrire dans un spectre plus
+   large. Par exemple, lorsque des pays tiers souhaitent tirer parti de
+   l’IA, certaines entreprises américaines s’attendent à ce qu’ils
+   adoptent des produits d’IA existants prêts à l’emploi, plus ou moins
+   tels qu’ils ont été développés pour les États-Unis, tandis que les
+   entreprises chinoises, du moins dans les régions de Chine, sont plus
+   susceptibles de personnaliser leurs produits pour répondre aux
+   circonstances et aux priorités locales (Knox, 2020 ; Lee, 2018). D’une
+   manière ou d’une autre, il est probable que les outils IAEd américains,
+   chinois ou d’autres pays du Nord relativement bien financés évincent
+   les outils IAEd moins bien financés mais entrainés localement et
+   potentiellement plus sensibles à la situation locale.
+
+4.6 Marchandisation de l’éducation
+
+   Un dernier obstacle potentiel relevé dans cet article est la
+   marchandisation de l’éducation à la dérobée. Si l’IA au service de
+   l’apprenant fait l’objet de recherches depuis une quarantaine d’années,
+   il y a près de dix ans, elle est passée du stade de laboratoire de
+   recherche à celui de produit commercialisé par un nombre croissant de
+   sociétés d’IAEd financées à hauteur de plusieurs millions de dollars.
+
+   Ce sont principalement ces produits qui sont mis en œuvre dans les
+   écoles du monde entier, souvent par des agences gouvernementales
+   (locales et nationales). Il est important de le noter pour plusieurs
+   raisons.
+
+   Premièrement, alors que la recherche originale est entreprise dans le
+   milieu universitaire dans le but explicite d’améliorer l’enseignement
+   et l’apprentissage, les organisations commerciales d’aujourd’hui se
+   concentrent par définition sur la génération de profits.
+
+   Comme le demandent Holmes et ses collègues :
+
+   “Étant donné que les interactions des enfants avec ces systèmes d’IA
+   génèrent à la fois des connaissances techniques sur le fonctionnement
+   du produit et des connaissances commerciales sur la façon dont le
+   produit est utilisé, les enfants des salles de classe du monde entier
+   sont-ils en train d’être recrutés furtivement pour créer et fournir des
+   renseignements commerciaux conçus pour soutenir les résultats des
+   entreprises – et cela est-il prioritaire par rapport à l’apprentissage
+   et au développement cognitif de l’enfant ?“ (Holmes et al., 2022, p.
+   24)
+
+   Par exemple, une étude sur les manières complexes dont Google lie les
+   utilisateurs et les développeurs IAEd à son infrastructure a montré que
+   la Google Classroom est devenue à la fois un collecteur mondial de
+   données sur les élèves et également un point de contrôle critique où
+   les règles de participation sont définies (Perrotta et al., 2021 ;
+   Williamson, 2021). Bien que certains flux de données des pays de l’UE
+   vers d’autres pays soient limités par les dispositions du Règlement
+   Général sur la Protection des Données de l’UE (RGPD), dans la pratique,
+   il est très difficile de savoir comment des services complexes basés
+   sur l’Internet utilisent et traitent les données (Day, 2021).
+
+   Les organisations commerciales partagent rarement des informations sur
+   leurs systèmes propriétaires et leur efficacité. Au-delà de la
+   limitation de l’interopérabilité, cela a des conséquences
+   potentiellement importantes pour le contrôle social de l’éducation et
+   l’innovation éducative. L’IA basée sur les données, en particulier,
+   présente d’importants avantages d’échelle et, dans les écosystèmes en
+   réseau actuels, cela peut conduire à des monopoles naturels. L’avenir
+   de l’IAEd est donc également une question économique, voire
+   géopolitique. Les organisations commerciales d’IAEd ne façonnent pas
+   seulement les apprenants individuels, mais commencent également à
+   influencer la gouvernance et les politiques nationales. L’impact
+   sociétal et culturel peut également dépasser les impacts économiques
+   plus superficiels. Par exemple, Baker a suggéré qu‘”ils imposeront
+   leurs normes sur ce qui compte comme connaissance” (Baker, 2000, p.
+   127). En résumé, la commercialisation de l’éducation par le biais de
+   l’IAEd est potentiellement lourde de conséquences pratiques et
+   idéologiques.
+
+5. VISION CONCLUSIVE
+
+   Les progrès de l’IA axée sur les données ayant entraîné une
+   augmentation exponentielle des besoins en calcul, il est de plus en
+   plus évident que l’avenir de l’IA ne peut pas vraiment être prédit en
+   extrapolant les développements de la dernière décennie. Alors que
+   certains affirment avec force que l’IA basée sur les données sera
+   bientôt capable, si les données sont suffisantes, de surpasser
+   l’intelligence humaine (par exemple, LeCun et Browning, 2022), d’autres
+   soutiennent de manière tout aussi convaincante que l’IA basée sur les
+   données atteint un plafond de développement et que les progrès vers une
+   intelligence de niveau humain ne seront probablement possibles qu’avec
+   un nouveau paradigme, qui pourrait impliquer une combinaison des deux
+   approches (par exemple, Marcus, 2022). On parle parfois d'”IA
+   neuro-symbolique” (Susskind et al., 2021). Vraisemblablement, seul le
+   temps nous le dira.
+
+   Dans les applications éducatives, la combinaison des approches basées
+   sur la connaissance et celles basées sur les données représente
+   cependant une voie naturelle. L’IA basée sur les données fournit
+   d’importantes fonctionnalités de traitement de l’information de base,
+   telles que la reconnaissance des formes. L’éducation, en revanche,
+   s’est généralement concentrée sur le développement progressif de
+   structures conceptuelles théoriques spécifiques à un domaine (par
+   exemple, Davydov, 1982 ; Tuomi, 2022). De nombreuses percées récentes
+   dans l’IA basée sur les données, comme la capacité de localiser un chat
+   dans une image ou de distinguer des mots dans une phrase parlée, sont
+   des tâches simples pour un enfant déjà des années avant son entrée à
+   l’école. Dans les contextes éducatifs, le développement de l’IA peut
+   donc être considéré de manière plus constructive comme un développement
+   conjoint de la cognition humaine et artificielle. Cela suggère que
+   l’avenir de l’IAEd devrait être compris du point de vue de
+   l’augmentation de la cognition et de l’apprentissage humains par l’IA,
+   une approche qui a été une ligne de pensée importante en IA tout au
+   long de son histoire (Bush, 1945 ; Engelbart, 1963 ; Winograd & Flores,
+   1986).
+
+   D’un point de vue purement technique, étant donné que l’architecture de
+   base de l’internet est sur le point de changer, le monde sera bientôt
+   différent. Dans dix ans, les données devraient se déplacer des nuages
+   centralisés vers les utilisateurs, la réalité virtuelle et augmentée
+   devrait se généraliser, et notre environnement physique sera de plus en
+   plus lié au monde numérique évoluant en temps réel. Les capteurs
+   connecteront tout au prochain Internet, des voitures assistées par l’IA
+   aux machines à laver, en passant par les chaînes de montage des usines,
+   les services publics, les montres, les sonnettes et, oui, les
+   téléphones portables s’ils existent encore. Les réseaux 5G, les
+   identités numériques basées sur la blockchain, les nouvelles
+   architectures internet cloud-to-edge et l’apprentissage automatique,
+   aux côtés de l’intelligence artificielle, sont tous susceptibles d’être
+   des technologies clés dans ce changement.
+
+   L’avenir de l’éducation est imprévisible, mais dans cet article, nous
+   avons voulu aider le lecteur à y voir plus clair. Toutes nos images de
+   l’avenir sont basées sur notre compréhension et notre construction de
+   l’histoire. Dans cet article, nous avons exploré l’histoire de l’IA et
+   de l’IAEd, fourni une typologie des systèmes d’IA dans l’éducation – en
+   situant quelques exemples de l’état actuel de l’art dans cette
+   typologie – et discuté de certains obstacles potentiels qui doivent
+   être abordés pour aller de l’avant.
+
+   Alors que le paysage technologique qui nous entoure évolue rapidement,
+   nous devons également réfléchir au rôle de l’éducation dans ce monde en
+   mutation. On suppose souvent que l’innovation et le changement
+   techniques sont synonymes de progrès, mais, dans le domaine de
+   l’éducation, nous devons également nous demander quand le changement
+   est synonyme de développement bienvenu.
+
+   Document à télécharger
+
+Références
+
+     * Adams, C., Pente, P., Lemermeyer, G., & Rockwell, G. (2021).
+       Artificial intelligence ethics guidelines for K-12 Education: A
+       review of the global landscape. In I. Roll, D. McNamara, S.
+       Sosnovsky, R. Luckin, & V. Dimitrova (Eds.), Artificial
+       intelligence in education (Vol. 12749, pp. 24– 28). Springer
+       International Publishing.
+       https://doi.org/10.1007/978-3-030-78270-2_4
+        CrossrefGoogle Scholar
+     * AI HLEG. (2019a). A definition of AI: Main capabilities and
+       disciplines. European Commission.
+       https://www.aepd.es/sites/default/files/2019-12/ai-definition.pdf
+        Google Scholar
+     * AI HLEG. (2019b). Ethics guidelines for trustworthy AI. European
+       Commission.
+       https://ec.europa.eu/digital-single-market/en/news/ethics-guideline
+       s-trustworthy-ai
+        Google Scholar
+     * Aiken, R. M., & Epstein, R. G. (2000). Ethical guidelines for AI in
+       education: Starting a conversation. International Journal of
+       Artificial Intelligence in Education, 11, 163– 176.
+        Google Scholar
+     * Alabdulkareem, A., Alhakbani, N., & Al-Nafjan, A. (2022). A
+       systematic review of research on robot-assisted therapy for
+       children with autism. Sensors, 22(3), 944.
+       https://doi.org/10.3390/s22030944
+        CrossrefWeb of Science®Google Scholar
+     * Anuradha, J., Dhiman, T., Ramachandran, V., Arulalan, K. V., &
+       Tripathy, B. K. (2010). Diagnosis of ADHD using SVM algorithm. In
+       Proceedings of the Third Annual ACM Bangalore Conference (pp. 1–
+       4). Association for Computing Machinery.
+       https://doi.org/10.1145/1754288.1754317
+        CrossrefGoogle Scholar
+     * Asselborn, T., Chapatte, M., & Dillenbourg, P. (2020). Extending
+       the spectrum of dysgraphia: A data driven strategy to estimate
+       handwriting quality. Scientific Reports, 10(1), 3140.
+       https://doi.org/10.1038/s41598-020-60011-8
+        CrossrefCASPubMedWeb of Science®Google Scholar
+     * Aulck, L., Nambi, D., & West, J. (2020). Increasing enrollment by
+       optimizing scholarship allocations using machine learning and
+       genetic algorithms. Conference paper. International Educational
+       Data Mining Society. https://eric.ed.gov/?id=ED608000
+        Google Scholar
+     * Ayling, J., & Chapman, A. (2021). Putting AI ethics to work: Are
+       the tools fit for purpose? AI and Ethics, 2, 405– 429.
+       https://doi.org/10.1007/s43681-021-00084-x
+        CrossrefGoogle Scholar
+     * Baker, M. J. (2000). The roles of models in artificial intelligence
+       and education research: A prospective view. Journal of Artificial
+       Intelligence and Education, 11, 122– 143.
+        Google Scholar
+     * Baker, T., & Smith, L. (2019). Educ-AI-tion rebooted? Exploring the
+       future of artificial intelligence in schools and colleges. NESTA.
+        Google Scholar
+
+     * Barua, P. D., Vicnesh, J., Gururajan, R., Oh, S. L., Palmer, E.,
+       Azizan, M. M., Kadri, N. A., & Acharya, U. R. (2022). Artificial
+       intelligence enabled personalised assistive tools to enhance
+       Education of children with neurodevelopmental disorders—A review.
+       International Journal of Environmental Research and Public Health,
+       19(3), 1192.
+        CrossrefPubMedWeb of Science®Google Scholar
+     * Behmke, D., Kerven, D., Lutz, R., Paredes, J., Pennington, R.,
+       Brannock, E., Deiters, M., Rose, J., & Stevens, K. (2018).
+       Augmented reality chemistry: Transforming 2-D molecular
+       representations into interactive 3-D structures. Proceedings of the
+       Interdisciplinary STEM Teaching and Learning Conference, 2(1), 5–
+       11. https://doi.org/10.20429/stem.2018.020103
+        CrossrefGoogle Scholar
+     * Benfatto, M. N., Seimyr, G. Ö., Ygge, J., Pansell, T., Rydberg, A.,
+       & Jacobson, C. (2016). Screening for dyslexia using eye tracking
+       during Reading. PLoS One, 11(12), e0165508.
+       https://doi.org/10.1371/journal.pone.0165508
+        CrossrefPubMedWeb of Science®Google Scholar
+     * Biesta, G. J. J. (2011). Good Education in an age of measurement:
+       Ethics, politics, democracy. Paradigm Publishers.
+        Google Scholar
+     * Blanchard, E. G. (2015). Socio-cultural imbalances in IAEd
+       research: Investigations, implications and opportunities.
+       International Journal of Artificial Intelligence in Education,
+       25(2), 204– 228. https://doi.org/10.1007/s40593-014-0027-7
+        CrossrefGoogle Scholar
+     * Blikstein, P., & Blikstein, I. (2021). Do educational technologies
+       have politics? A semiotic analysis of the discourse of educational
+       technologies and artificial intelligence in education. Algorithmic
+       rights and protections for children. Work in Progress Online
+       Publication. https://doi.org/10.1162/ba67f642.646d0673
+        Google Scholar
+     * Bloom, B. S. (1968). Learning for mastery. Instruction and
+       curriculum. Regional Education Laboratory for the Carolinas and
+       Virginia. Topical papers and reprints, number 1. Evaluation
+       Comment, 1(2), 1– 11. https://eric.ed.gov/?id=ED053419
+        Google Scholar
+     * Bloom, B. S. (1984). The 2 sigma problem: The search for methods of
+       group instruction as effective as one-to-one tutoring. Educational
+       Researcher, 13(6), 4– 16.
+        CrossrefGoogle Scholar
+     * Bodily, R., & Verbert, K. (2017). Review of research on
+       student-facing learning analytics dashboards and educational
+       recommender systems. IEEE Transactions on Learning Technologies,
+       10(4), 405– 418. https://doi.org/10.1109/TLT.2017.2740172
+        CrossrefWeb of Science®Google Scholar
+     * Brown, T. B., Mann, B., Ryder, N., Subbiah, M., Kaplan, J.,
+       Dhariwal, P., Neelakantan, A., Shyam, P., Sastry, G., Askell, A.,
+       Agarwal, S., Herbert-Voss, A., Krueger, G., Henighan, T., Child,
+       R., Ramesh, A., Ziegler, D. M., Wu, J., Winter, C., … Amodei, D.
+       (2020). Language models are few-shot learners. Cornell University.
+       http://arxiv.org/abs/2005.14165
+        Google Scholar
+
+     * Bull, S., & Kay, J. (2010). Open learner models. In R. Nkambou, J.
+       Bourdeau, & R. Mizoguchi (Eds.), Advances in intelligent tutoring
+       systems (pp. 301– 322). Springer.
+       https://doi.org/10.1007/978-3-642-14363-2_15
+        CrossrefGoogle Scholar
+     * Bush, V. (1945). As we may think. Atlantic Monthly, 176(1), 101–
+       108.
+        Google Scholar
+     * Chen, X., Xie, H., Zou, D., & Hwang, G.-J. (2020). Application and
+       theory gaps during the rise of artificial intelligence in
+       Education. Computers and Education: Artificial Intelligence, 1,
+       100002. https://doi.org/10.1016/j.caeai.2020.100002
+        CrossrefGoogle Scholar
+     * Chin, M. (2020, April 29). Exam anxiety: How remote test-proctoring
+       is creeping students out. The Verge.
+       https://www.theverge.com/2020/4/29/21232777/examity-remote-test-pro
+       ctoring-online-class-education
+        Google Scholar
+     * Clever Owl. (2022). Clever Owl. https://cleverowl.education/#About
+        Google Scholar
+     * Cotterell, R., Mielke, S. J., Eisner, J., & Roark, B. (2020). Are
+       all languages equally hard to language-model? Cornell University.
+       http://arxiv.org/abs/1806.03743
+        Google Scholar
+     * Council of Europe. (1953). European convention on human rights.
+       European Court of Human Rights.
+       https://www.echr.coe.int/documents/convention_eng.pdf
+        Google Scholar
+     * Dahmani, L., & Bohbot, V. D. (2020). Habitual use of GPS negatively
+       impacts spatial memory during self-guided navigation. Scientific
+       Reports, 10(1), 6310. https://doi.org/10.1038/s41598-020-62877-0
+        CrossrefCASPubMedWeb of Science®Google Scholar
+     * Dan, Z. (2021). Ministry removes homework help apps, citing impact
+       on student learning. Global Times.
+       https://www.globaltimes.cn/page/202112/1241383.shtml
+        Google Scholar
+     * Davydov, V. V. (1982). The psychological structure and contents of
+       learning activity in school children. In R. Glaser & J. Lompscher
+       (Eds.), Cognitive and motivational aspects of instruction.
+       Deutscher Verlag der Wissenschaften.
+        Google Scholar
+     * Day, E. (2021). Governance of data for children’s learning in UK
+       state schools. Digital Futures Commission, 5Rights Foundation.
+       https://digitalfuturescommission.org.uk/wp-content/uploads/2021/06/
+       Governance-of-data-for-children-learning-Final.pdf
+        Google Scholar
+     * Del Bonifro, F., Gabbrielli, M., Lisanti, G., & Zingaro, S. P.
+       (2020). Student dropout prediction. In I. I. Bittencourt, M.
+       Cukurova, K. Muldner, R. Luckin, & E. Millán (Eds.), Artificial
+       intelligence in education (pp. 129– 140). Springer International
+       Publishing. https://doi.org/10.1007/978-3-030-52237-7_11
+        CrossrefGoogle Scholar
+     * Denton, E., Hanna, A., Amironesei, R., Smart, A., & Nicole, H.
+       (2021). On the genealogy of machine learning datasets: A critical
+       history of ImageNet. Big Data & Society, 8(2), 20539517211035956.
+       https://doi.org/10.1177/20539517211035955
+        CrossrefWeb of Science®Google Scholar
+     * Dignum, V. (2018). Ethics in artificial intelligence: Introduction
+       to the special issue. Ethics and Information Technology, 20(1), 1–
+       3. https://doi.org/10.1007/s10676-018-9450-z
+        CrossrefWeb of Science®Google Scholar
+     * Dillenbourg, P., Järvelä, S., & Fischer, F. (2009). The evolution
+       of research on computer-supported collaborative learning. In N.
+       Balacheff, S. Ludvigsen, T. Jong, A. Lazonder, & S. Barnes (Eds.),
+       Technology-enhanced learning: Principles and products (pp. 3– 19).
+       Springer. https://doi.org/10.1007/978-1-4020-9827-7_1
+        CrossrefGoogle Scholar
+     * Dillenbourg, P., Zufferey, G., Alavi, H., Jermann, P., Do-Lenh, S.,
+       Bonnard, Q., Cuendet, S., & Kaplan, F. (2011). Classroom
+       orchestration: The third circle of usability. In Computer Support
+       for Collaborative Learning Conference. CSCL2011 Proceedings (Vol.
+       1, pp. 510– 517). Springer.
+        Google Scholar
+     * Domoscio. (2022). Domoscio.
+       https://domoscio.com/en/domoscio-spark-2/
+        Google Scholar
+     * Drachsler, H., & Greller, W. (2016). Privacy and analytics – It’s a
+       DELICATE issue. A checklist for trusted learning analytics. In
+       Conference paper. Computer Support for Collaborative Learning
+       Conference. Association for Computing Machinery.
+       https://doi.org/10.1145/2883851.2883893
+        Google Scholar
+     * du Boulay, B. (2016). Artificial intelligence as an effective
+       classroom assistant. IEEE Intelligent Systems, 31(6), 76– 81.
+       https://doi.org/10.1109/MIS.2016.93
+        CrossrefWeb of Science®Google Scholar
+     * du Boulay, B. (2019). Escape from the Skinner box: The case for
+       contemporary intelligent learning environments. British Journal of
+       Educational Technology, 50(6), 2902– 2919.
+       https://doi.org/10.1111/bjet.12860
+        Wiley Online LibraryWeb of Science®Google Scholar
+     * EC. (2018). Artificial intelligence for Europe. COM (2018) 237
+       final. European Commission.
+       https://ec.europa.eu/digital-single-market/en/news/communication-ar
+       tificial-intelligence-europe
+        Google Scholar
+     * EC. (2021). Proposal for a regulation of the European Parliament
+       and of the council laying down harmonised rules on artificial
+       intelligence (artificial intelligence act) and amending certain
+       union legislative acts. COM (2021) 206 final. European Commission.
+       https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52021PC
+       0206
+        Google Scholar
+     * EC. (2022). Ethical guidelines on artificial intelligence (AI) and
+       data usage in teaching and learning. European Commission
+       Unpublished document.
+        Google Scholar
+     * Egelandsdal, K., Smith, M., Hansen, C. J. S., Ness, I., & Wasson,
+       B. (2019). Adaptiv læring i matematikk: Empirisk rapport om Multi
+       Smart Øving i grunnskolen. Centre for the Science of Learning &
+       Technology (SLATE), University of Bergen.
+       https://bora.uib.no/bora-xmlui/handle/1956/21354
+        Google Scholar
+     * Engelbart, D. C. (1963). A conceptual framework for the
+       augmentation of man’s intellect. In P. W. Howerton & D. C. Weeks
+       (Eds.), Vistas in information handling (pp. 1– 29). Spartan Books.
+        Google Scholar
+     * ETS. (2022). E-rater scoring engine. ETS.
+       https://www.ets.org/erater
+        Google Scholar
+     * European Parliament. (2021). Artificial intelligence in education,
+       culture and the audiovisual sector. 19 May 2021. European
+       Parliament.
+       https://www.europarl.europa.eu/doceo/document/TA-9-2021-0238_EN.htm
+       l
+        Google Scholar
+     * Floridi, L., Cowls, J., Beltrametti, M., Chatila, R., Chazerand,
+       P., Dignum, V., Luetge, C., Madelin, R., Pagallo, U., Rossi, F.,
+       Schafer, B., Valcke, P., & Vayena, E. (2018). AI4People—An ethical
+       framework for a good AI society: Opportunities, risks, principles,
+       and recommendations. Minds and Machines, 28(2018), 689– 707.
+       https://doi.org/10.1007/s11023-018-9482-5
+        CrossrefPubMedWeb of Science®Google Scholar
+     * Foster, S. (2019). What barriers do students perceive to engagement
+       with automated immediate formative feedback. Journal of Interactive
+       Media in Education, 2019(1), 1– 5.
+       https://eric.ed.gov/?id=EJ1228614
+        CrossrefWeb of Science®Google Scholar
+     * Fröscher, L., Friedrich, A.-K., Berentelg, M., Widmer, C., Gilbert,
+       S. J., & Papenmeier, F. (2022). Framing cognitive offloading in
+       terms of gains or losses: Achieving a more optimal use of
+       reminders. Cognitive Research: Principles and Implications, 7(1),
+       61. https://doi.org/10.1186/s41235-022-00416-3
+        CrossrefPubMedWeb of Science®Google Scholar
+     * Gardner, H. (1985). The Mind’s new science: Cognitive revolution in
+       the computer age. Basic Books.
+        Google Scholar
+     * GMI. (2022). AI in Education market size & share, growth forecast
+       2022–2030. Global Market Insights Inc..
+       https://www.gminsights.com/industry-analysis/artificial-intelligenc
+       e-ai-in-education-market
+        Google Scholar
+     * Goel, A. K., & Joyner, D. A. (2017). Using AI to teach AI: Lessons
+       from an online AI class. AI Magazine, 38(2), 48– 59.
+       https://doi.org/10.1609/aimag.v38i2.2732
+        CrossrefWeb of Science®Google Scholar
+     * Google. (2022). Google Drive. Website for Personal Cloud Storage &
+       File Sharing Platform. https://www.google.co.uk/drive/
+        Google Scholar
+     * Gottschalk, F. (2019). Impacts of technology use on children:
+       exploring literature on the brain, cognition and well-being. OECD.
+       https://www.oecd.org/officialdocuments/publicdisplaydocumentpdf/?co
+       te=EDU/WKP%282019%293&docLanguage=En
+        Google Scholar
+
+     * GPT-3. (2020, September 8). A robot wrote this entire article. Are
+       you scared yet, human? The Guardian.
+       https://www.theguardian.com/commentisfree/2020/sep/08/robot-wrote-t
+       his-article-gpt-3
+        Google Scholar
+     * Graide. (2022). Graide. https://www.graide.co.uk/
+        Google Scholar
+     * Grammarly. (2022a). Grammarly: Free online writing assistant.
+       Grammarly. https://www.grammarly.com/
+        Google Scholar
+     * Grammarly. (2022b). Plagiarism checker by grammarly. Grammarly.
+       https://www.grammarly.com/plagiarism-checker
+        Google Scholar
+     * Guilherme, A. (2019). AI and education: The importance of teacher
+       and student relations. AI & SOCIETY, 34(1), 47– 54.
+       https://doi.org/10.1007/s00146-017-0693-8
+        CrossrefWeb of Science®Google Scholar
+     * Guskey, T. R. (2012). Mastery learning. In N. M. Seel (Ed.),
+       Encyclopedia of the sciences of learning (pp. 2097– 2100). Springer
+       US. https://doi.org/10.1007/978-1-4419-1428-6_1553
+        CrossrefGoogle Scholar
+     * Hakimi, L., Eynon, R., & Murphy, V. A. (2021). The ethics of using
+       digital trace data in education: A thematic review of the research
+       landscape. Review of Educational Research, 91(5), 671– 717.
+       https://doi.org/10.3102/00346543211020116
+        CrossrefWeb of Science®Google Scholar
+     * Heffernan, N. T., & Heffernan, C. L. (2014). The ASSISTments
+       ecosystem: Building a platform that brings scientists and teachers
+       together for minimally invasive research on human learning and
+       teaching. International Journal of Artificial Intelligence in
+       Education, 24(4), 470– 497.
+       https://doi.org/10.1007/s40593-014-0024-x
+        CrossrefGoogle Scholar
+     * Henry, J. V., & Oliver, M. (2021). Who will watch the watchmen? The
+       Ethico-political arrangements of algorithmic proctoring for
+       academic integrity. Postdigital Science and Education, 4, 330– 353.
+       https://doi.org/10.1007/s42438-021-00273-1
+        CrossrefGoogle Scholar
+     * Holmes, W., Anastopoulou, S., Schaumburg, H., & Mavrikis, M.
+       (2018). Technology-enhanced personalised learning. Untangling the
+       evidence. Robert Bosch Stiftung.
+       https://www.bosch-stiftung.de/sites/default/files/publications/pdf/
+       2018-08/Study_Technology-enhanced%20Personalised%20Learning.pdf
+        Google Scholar
+     * Holmes, W., Bektik, D., Whitelock, D., & Woolf, B. P. (2018).
+       Ethics in IAEd: Who cares? In C. Penstein Rosé, R.
+       Martínez-Maldonado, H. U. Hoppe, R. Luckin, M. Mavrikis, K.
+       Porayska-Pomsta, B. McLaren, & B. Boulay (Eds.), Artificial
+       intelligence in education (Vol. 10948, pp. 551– 553). Springer
+       International Publishing. https://doi.org/10.1007/978-3-319-93846-2
+        Google Scholar
+
+     * Holmes, W., Bialik, M., & Fadel, C. (2019). Artificial intelligence
+       in Education: Promises and implications for teaching & learning.
+       The Center for Curriculum Redesign.
+        Google Scholar
+     * Holmes, W., Persson, J., Chounta, I.-A., Wasson, B., & Dimitrova,
+       V. (2022). Artificial intelligence and Education. A critical view
+       through the lens of human rights, democracy, and the rule of law.
+       Council of Europe.
+        Google Scholar
+     * W. Holmes, & K. Porayska-Pomsta (Eds.). (2023). The ethics of AI in
+       education. Practices, challenges, and debates. Routledge.
+        Google Scholar
+     * Holmes, W., Porayska-Pomsta, K., Holstein, K., Sutherland, E.,
+       Baker, T., Buckingham Shum, S., Santos, O. C., Rodrigo, M. M. T.,
+       Cukorova, M., Bittencourt, I. I., & Koedinger, K. (2021). Ethics of
+       AI in education: Towards a community-wide framework. International
+       Journal of Artificial Intelligence in Education, 32, 504– 526.
+       https://doi.org/10.1007/s40593-021-00239-1
+        CrossrefWeb of Science®Google Scholar
+     * Holstein, K., & Doroudi, S. (2021). Equity and artificial
+       intelligence in Education: Will ‘IAEd’ amplify or alleviate
+       inequities in Education? Cornell University.
+       http://arxiv.org/abs/2104.12920
+        Google Scholar
+     * Holstein, K., Hong, G., Tegene, M., McLaren, B. M., & Aleven, V.
+       (2018). The classroom as a dashboard: Co-designing wearable
+       cognitive augmentation for K-12 teachers. In Proceedings of the 8th
+       international conference on learning analytics and knowledge – LAK
+       ‘18 (pp. 79– 88). Association for Computing Machinery.
+       https://doi.org/10.1145/3170358.3170377
+        CrossrefGoogle Scholar
+     * Hsu, S., Li, T. W., Zhang, Z., Fowler, M., Zilles, C., &
+       Karahalios, K. (2021). Attitudes surrounding an imperfect AI
+       autograder. In Proceedings of the 2021 CHI conference on human
+       factors in computing systems (pp. 1– 15). Association for Computing
+       Machinery. https://doi.org/10.1145/3411764.3445424
+        CrossrefGoogle Scholar
+     * Huawei. (2022). StorySign: Helping deaf children to learn to read.
+       Huawei. https://consumer.huawei.com/uk/campaign/storysign/
+        Google Scholar
+     * Hussain, A. (2017). Ada—Bolton College’s latest digital assistant.
+       Blogtext. http://www.aftabhussain.com/ada.html
+        Google Scholar
+     * Hwang, G.-J., & Chang, C.-Y. (2021). A review of opportunities and
+       challenges of chatbots in education. Interactive Learning
+       Environments, 1– 14. https://doi.org/10.1080/10494820.2021.1952615
+        CrossrefWeb of Science®Google Scholar
+     * IBM. (2018). IBM Watson education classroom helps teachers deliver
+       personalized learning that can improve student outcomes. Software
+       announcement. IBM Corporation.
+       https://www.ibm.com/common/ssi/ShowDoc.wss?docURL=/common/ssi/rep_c
+       a/0/897/ENUS218-010/index.html&request_locale=en
+        Google Scholar
+     * IOE (Director). (2018, July 30). Making fractions learning easier.
+       Video. UCL Institute of Education.
+       https://www.youtube.com/watch?v=0S1lRHvvh9c
+        Google Scholar
+     * Jobin, A., Ienca, M., & Vayena, E. (2019). Artificial intelligence:
+       The global landscape of ethics guidelines. Nature Machine
+       Intelligence, 1(9), 389– 399.
+       https://doi.org/10.1038/s42256-019-0088-2
+        CrossrefGoogle Scholar
+     * Joksimovic, S., Siemens, G., Wang, Y. E., Pedro, M. O. Z. S., &
+       Way, J. (2020). Editorial: Beyond cognitive ability. Journal of
+       Learning Analytics, 7(1), 1– 4.
+       https://doi.org/10.18608/jla.2020.71.1
+        CrossrefGoogle Scholar
+     * Kelley, J. (2021, June 22). A long overdue reckoning for online
+       proctoring companies may finally Be here. Blogpost. Electronic
+       Frontier Foundation.
+       https://www.eff.org/deeplinks/2021/06/long-overdue-reckoning-online
+       -proctoring-companies-may-finally-be-here
+        Google Scholar
+     * Kirschner, P. A., Sweller, J., & Clark, R. E. (2006). Why minimal
+       guidance during instruction does not work: An analysis of the
+       failure of constructivist, discovery, problem-based, experiential,
+       and inquiry-based teaching. Educational Psychologist, 41(2), 75–
+       86. https://doi.org/10.1207/s15326985ep4102_1
+        CrossrefWeb of Science®Google Scholar
+     * Kitto, K., Sarathy, N., Gromov, A., Liu, M., Musial, K., & Shum, S.
+       B. (2020). Towards skills-based curriculum analytics: Can we
+       automate the recognition of prior learning? In Proceedings of the
+       Tenth International Conference on Learning Analytics & Knowledge
+       (pp. 171– 180). Association for Computing Machinery.
+       https://doi.org/10.1145/3375462.3375526
+        CrossrefGoogle Scholar
+     * Knox, J. (2020). Artificial intelligence and education in China.
+       Learning, Media and Technology, 45(3), 298– 311.
+       https://doi.org/10.1080/17439884.2020.1754236
+        CrossrefWeb of Science®Google Scholar
+     * Koedinger, K. R., Corbett, A. T., & Perfetti, C. (2012). The
+       knowledge-learning-instruction framework: Bridging the
+       science-practice chasm to enhance robust student learning.
+       Cognitive Science, 36(5), 757– 798.
+       https://doi.org/10.1111/j.1551-6709.2012.01245.x
+        Wiley Online LibraryPubMedWeb of Science®Google Scholar
+     * Krahulcova, L. (2021, March 24). Techno solutionism—Very few things
+       actually need to be an app. Blogtext. Digital Rights Watch Website.
+       https://digitalrightswatch.org.au/2021/03/25/technosolutionism/
+        Google Scholar
+     * Kulik, J. A., & Fletcher, J. D. (2016). Effectiveness of
+       intelligent tutoring systems: A meta-analytic review. Review of
+       Educational Research, 86(1), 42– 78.
+       https://doi.org/10.3102/0034654315581420
+        CrossrefWeb of Science®Google Scholar
+     * LaPierre, J. (2021, January 18). Educational games and AI.
+       Blogtext. Filament Games.
+       https://www.filamentgames.com/blog/educational-games-and-ai/
+        Google Scholar
+     * LeCun, Y., & Browning, J. (2022). What AI can tell us about
+       intelligence. Berggruen Institute.
+       https://www.noemamag.com/what-ai-can-tell-us-about-intelligence
+        Google Scholar
+     * Lee, K.-F. (2018). AI superpowers: China, Silicon valley and the
+       new world order. Houghton Mifflin Harcourt Publishing Company.
+        Google Scholar
+     * Lee, K.-F., & Qiufan, C. (2021). AI 2041: Ten visions for our
+       future. WH Allen.
+        Google Scholar
+     * Leetaru, K. (2018). Does AI truly learn and why we need to stop
+       overhyping deep learning. Forbes.
+       https://www.forbes.com/sites/kalevleetaru/2018/12/15/does-ai-truly-
+       learn-and-why-we-need-to-stop-overhyping-deep-learning/?sh=1bfc6861
+       68c0
+        Google Scholar
+     * Lemoine, B. (2022, June 14). Scientific data and religious
+       opinions. Blogtext. Medium.
+       https://cajundiscordian.medium.com/scientific-data-and-religious-op
+       inions-ff9b0938fc10
+        Google Scholar
+     * Lieu, J. (2018). Eyes to the front camera: Chinese facial
+       recognition tech targets inattentive students. Blogtext. Mashable.
+       https://mashable.com/article/chinese-facial-recognition-class
+        Google Scholar
+     * Lu, Y., Chen, C., Chen, P., Chen, X., & Zhuang, Z. (2018). Smart
+       learning partner: An interactive robot for Education. In C.
+       Penstein Rosé, R. Martínez-Maldonado, H. U. Hoppe, R. Luckin, M.
+       Mavrikis, K. Porayska-Pomsta, B. McLaren, & B. Boulay (Eds.),
+       Artificial intelligence in education (pp. 447– 451). Springer
+       International Publishing.
+       https://doi.org/10.1007/978-3-319-93846-2_84
+        CrossrefGoogle Scholar
+     * Ma, W., Adesope, O. O., Nesbit, J. C., & Liu, Q. (2014).
+       Intelligent tutoring systems and learning outcomes: A
+       meta-analysis. – PsycNET. Journal of Educational Psychology,
+       106(4), 901– 918.
+        CrossrefWeb of Science®Google Scholar
+     * Marcinkowski, F., Kieslich, K., Starke, C., & Lünich, M. (2020).
+       Implications of AI (un-)fairness in higher education admissions:
+       The effects of perceived AI (un-)fairness on exit, voice and
+       organizational reputation. In Proceedings of the 2020 Conference on
+       Fairness, Accountability, and Transparency (pp. 122– 130).
+       Association for Computing Machinery.
+       https://doi.org/10.1145/3351095.3372867
+        CrossrefGoogle Scholar
+     * Marcus, G. (2022). Artificial general intelligence is not as
+       imminent as you might think. Scientific American.
+       https://www.scientificamerican.com/article/artificial-general-intel
+       ligence-is-not-as-imminent-as-you-might-think1/
+        Google Scholar
+     * Marcus, G., & Davis, E. (2020). GPT-3, bloviator: OpenAI’s language
+       generator has no idea what it’s talking about. MIT Technology
+       Review.
+       https://www.technologyreview.com/2020/08/22/1007539/gpt3-openai-lan
+       guage-generator-artificial-intelligence-ai-opinion/
+        Google Scholar
+     * Mavrikis, M., Rummel, N., Wiedmann, M., Loibl, K., & Holmes, W.
+       (2022). Combining exploratory learning with structured practice
+       educational technologies to foster both conceptual and procedural
+       fractions knowledge. Educational Technology Research and
+       Development, 70(3), 691– 712.
+       https://doi.org/10.1007/s11423-022-10104-0
+        CrossrefWeb of Science®Google Scholar
+     * McCorduck, P. (1979). Machines who think: A personal inquiry into
+       the history and prospects of artificial intelligence. W.H. Freeman
+       and Company.
+        Google Scholar
+     * McGuire, L. S., & Alaraj, A. (2018). Competency assessment in
+       virtual reality-based simulation in neurosurgical training. In
+       Comprehensive healthcare simulation: Neurosurgery (pp. 153– 157).
+       Springer.
+        CrossrefGoogle Scholar
+     * Metz, C. (2021, March 15). Who is making sure the a.I. machines
+       Aren’t racist? Online article. The New York Times.
+       https://www.nytimes.com/2021/03/15/technology/artificial-intelligen
+       ce-google-bias.html
+        Google Scholar
+     * Miao, F., & Holmes, W. (2021). AI and education: Guidance for
+       policy-makers. UNESCO.
+       https://unesdoc.unesco.org/ark:/48223/pf0000376709
+        Google Scholar
+     * Miguéis, V. L., Freitas, A., Garcia, P. J. V., & Silva, A. (2018).
+       Early segmentation of students according to their academic
+       performance: A predictive modelling approach. Decision Support
+       Systems, 115, 36– 51. https://doi.org/10.1016/j.dss.2018.09.001
+        CrossrefWeb of Science®Google Scholar
+     * M. Minsky (Ed.). (1969). Semantic information processing. The MIT
+       Press.
+        Google Scholar
+     * Moki. (2022). Moki—The fitness tracker for schools. Moki.
+       https://moki.health/
+        Google Scholar
+     * Molenaar, I. (2022). Towards hybrid human-AI educational scenarios.
+       European Journal of Education, 57(4).
+        Google Scholar
+     * Moriarty-Mclaughlin, F. (2020). More colleges eye AI to track,
+       monitor students. The College Fix.
+       https://www.thecollegefix.com/more-colleges-eye-ai-to-track-monitor
+       -students/
+        Google Scholar
+     * Naismith, B., & Juffs, A. (2021). Finding the sweet spot: Learners’
+       productive knowledge of mid-frequency lexical items. Language
+       Teaching Research, 13621688211020412.
+       https://doi.org/10.1177/13621688211020412
+        CrossrefWeb of Science®Google Scholar
+     * Nemorin, S., Vlachidis, A., Ayerakwa, H. M., & Andriotis, P.
+       (2022). AI hyped? A horizon scan of discourse on artificial
+       intelligence in education (IAEd) and development. Online article.
+       Learning, Media and Technology, 1– 14.
+       https://doi.org/10.1080/17439884.2022.2095568
+        CrossrefWeb of Science®Google Scholar
+     * NeuroMaker. (2022). NeuroMaker BCI. NeuroMaker.
+       https://staging4.neuromakerstem.com/neuromaker-bci/
+        Google Scholar
+     * Newell, A., Shaw, J. C., & Simon, H. A. (1959). Report on a general
+       problem-solving program. RAND Corporation.
+       http://bitsavers.informatik.uni-stuttgart.de/pdf/rand/ipl/P-1584_Re
+       port_On_A_General_Problem-Solving_Program_Feb59.pdf
+        Google Scholar
+     * Nigam, A., Pasricha, R., Singh, T., & Churi, P. (2021). A
+       systematic review on AI-based proctoring systems: Past, present and
+       future. Education and Information Technologies, 26(5), 6421– 6445.
+       https://doi.org/10.1007/s10639-021-10597-x
+        CrossrefPubMedWeb of Science®Google Scholar
+     * Nye, B. D., Graesser, A. C., & Hu, X. (2014). AutoTutor and family:
+       A review of 17 years of natural language tutoring. International
+       Journal of Artificial Intelligence in Education, 24(4), 427– 469.
+       https://doi.org/10.1007/s40593-014-0029-5
+        CrossrefGoogle Scholar
+     * OECD. (2019a). Scoping the OECD AI principles: Deliberations of the
+       expert group on artificial intelligence at the OECD (AIGO). OECD.
+       https://read.oecd-ilibrary.org/science-and-technology/scoping-the-o
+       ecd-ai-principles_d62f618a-en
+        Google Scholar
+     * OECD. (2019b). Recommendation of the council on artificial
+       intelligence. Author.
+       https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0449
+        Google Scholar
+     * OECD. (2020). Trustworthy artificial intelligence in Education.
+       Author.
+       https://www.oecd.org/education/trustworthy-artificial-intelligence-
+       in-education.pdf
+        Google Scholar
+     * OECD. (2021). OECD digital Education outlook 2021: Pushing the
+       Frontiers with artificial intelligence, blockchain and robots.
+       OECD. https://doi.org/10.1787/589b283f-en
+        Google Scholar
+     * Palmer, M. (2006). Data is the new oil. Blogtext. ANA Marketing
+       Maestros.
+       https://ana.blogs.com/maestros/2006/11/data_is_the_new.html
+        Google Scholar
+     * Pane, J. F., Griffin, B. A., McCaffrey, D. F., Karam, R., &
+       Education, R. (2013). Effectiveness of cognitive tutor algebra I at
+       scale. RAND Education.
+       http://130.154.3.14/content/dam/rand/pubs/working_papers/WR900/WR98
+       4/RAND_WR984.pdf
+        Google Scholar
+     * Pangburn, D. J. (2019). Schools are using AI to help pick students.
+       What could go wrong? Fast Company.
+       https://www.fastcompany.com/90342596/schools-are-quietly-turning-to
+       -ai-to-help-pick-who-gets-in-what-could-go-wrong
+        Google Scholar
+     * Pardos, Z. A., & Nam, A. J. H. (2020). A university map of course
+       knowledge. PLoS One, 15(9), e0233207.
+       https://doi.org/10.1371/journal.pone.0233207
+        CrossrefCASPubMedWeb of Science®Google Scholar
+     * Pask, G. (1982). SAKI: Twenty-five years of adaptive training into
+       the microprocessor era. International Journal of Man-Machine
+       Studies, 17(1), 69– 74.
+       https://doi.org/10.1016/S0020-7373(82)80009-6
+        CrossrefGoogle Scholar
+     * Perez, C. (2002). Technological revolutions and financial capital:
+       The dynamics of bubbles and Golden ages. Edward Elgar.
+        CrossrefGoogle Scholar
+     * Pérez, J. Q., Daradoumis, T., & Puig, J. M. M. (2020).
+       Rediscovering the use of chatbots in education: A systematic
+       literature review. Computer Applications in Engineering Education,
+       28(6), 1549– 1565. https://doi.org/10.1002/cae.22326
+        Wiley Online LibraryWeb of Science®Google Scholar
+     * Perrotta, C., Gulson, K. N., Williamson, B., & Witzenberger, K.
+       (2021). Automation, APIs and the distributed labour of platform
+       pedagogies in Google classroom. Critical Studies in Education,
+       62(1), 97– 113. https://doi.org/10.1080/17508487.2020.1855597
+        CrossrefWeb of Science®Google Scholar
+     * Photomath. (2022). Photomath. https://photomath.com/en
+        Google Scholar
+     * Plagiarism Checker X. (2022). Plagiarism Checker X.
+       https://plagiarismcheckerx.com
+        Google Scholar
+     * Plato. (257 C.E.). Phaedrus. In J. M. Cooper (Ed.), Plato: Complete
+       works. Hackett Publishing.
+        Google Scholar
+     * Polya, G. (1945). How to solve it: A new aspect of mathematical
+       method. Princeton University Press.
+        CrossrefWeb of Science®Google Scholar
+     * Poulsen, A. T., Kamronn, S., Dmochowski, J., Parra, L. C., &
+       Hansen, L. K. (2017). EEG in the classroom: Synchronised neural
+       recordings during video presentation. Scientific Reports, 7, 43916
+       10.1038/srep43916.
+        CrossrefPubMedWeb of Science®Google Scholar
+     * Pressey, S. L. (1926). A simple device for teaching, testing, and
+       research in learning. School and Society, 23, 373– 376.
+        Web of Science®Google Scholar
+     * Prinsloo, P., & Slade, S. (2017). Ethics and learning analytics:
+       Charting the (un)charted. In C. Lang, G. Siemens, A. Wise, & D.
+       Gašević (Eds.), Handbook of learning analytics (pp. 49– 57). SOLAR.
+        CrossrefGoogle Scholar
+     * Quach, K. (2020, November 4). AI me to the Moon … Carbon footprint
+       for ‘training GPT-3’ same as driving to our natural satellite and
+       back. The Register.
+       https://www.theregister.com/2020/11/04/gpt3_carbon_footprint_estima
+       te/
+        Google Scholar
+     * Quille, K., & Bergin, S. (2019). CS1: How will they do? How can we
+       help? A decade of research and practice. Computer Science
+       Education, 29(2–3), 254– 282.
+       https://doi.org/10.1080/08993408.2019.1612679
+        CrossrefWeb of Science®Google Scholar
+     * Ramesh, D., & Sanampudi, S. K. (2021). An automated essay scoring
+       systems: A systematic literature review. Artificial Intelligence
+       Review, 55, 2495– 2527. https://doi.org/10.1007/s10462-021-10068-2
+        CrossrefPubMedWeb of Science®Google Scholar
+
+     * Roschelle, J., Feng, M., Murphy, R. F., & Mason, C. A. (2016).
+       Online mathematics homework increases student achievement. AERA
+       Open, 2(4), 2332858416673968 10.1177/2332858416673968.
+        CrossrefWeb of Science®Google Scholar
+     * Roschelle, J., Murphy, R., Feng, M., & Bakia, M. (2017). How big is
+       that? Reporting the effect size and cost of ASSISTments in the
+       Maine homework efficacy study. SRI International.
+       https://www.sri.com/publication/education-learning-pubs/digital-lea
+       rning-pubs/how-big-is-that-reporting-the-effect-size-and-cost-of-as
+       sistments-in-the-maine-homework-efficacy-study/
+        Google Scholar
+     * Rosenblatt, F. (1958). The perceptron: A probabilistic model for
+       information storage and organization in the brain. Psychological
+       Review, 65, 386– 408.
+        CrossrefCASPubMedWeb of Science®Google Scholar
+     * Salesforce. (2022). Salesforce.org.
+       https://www.salesforce.com/uk/form/sfdo/edu/education-cloud-demo-em
+       ea/
+        Google Scholar
+     * SayHi. (2022). SayHi translate.
+       https://www.sayhi.com/en/translate/. Amazon Inc.
+        Google Scholar
+     * Schaffer, S. (1999). Enlightened automata. In W. Clark, J.
+       Golinski, & S. Schaffer (Eds.), The sciences in enlightened Europe.
+       The University of Chicago Press.
+       https://press.uchicago.edu/ucp/books/book/chicago/S/bo3623650.html
+        Google Scholar
+     * Selwyn, N. (2019). Should robots replace teachers?: AI and the
+       future of education. Polity.
+        Google Scholar
+     * Sharples, M. (2022, May 17). New AI tools that can write student
+       essays require educators to rethink teaching and assessment.
+       Blogtext. London School of Economics and Political Science.
+       https://blogs.lse.ac.uk/impactofsocialsciences/2022/05/17/new-ai-to
+       ols-that-can-write-student-essays-require-educators-to-rethink-teac
+       hing-and-assessment/
+        Google Scholar
+     * Siemens, G., & Baker, R. S. (2012). Learning analytics and
+       educational data mining: Towards communication and collaboration.
+       In Proceedings of the 2nd International Conference on Learning
+       Analytics and Knowledge (pp. 252– 254). Association for Computing
+       Machinery. https://doi.org/10.1145/2330601.2330661
+        CrossrefGoogle Scholar
+     * Skinner, B. F. (1958). Teaching machines. Science, 128(3330), 969–
+       977.
+        CrossrefCASPubMedWeb of Science®Google Scholar
+     * Slade, S., & Tait, A. (2019). Global guidelines: Ethics in learning
+       analytics. International Council for Open and Distance Education.
+       https://www.learntechlib.org/p/208251/
+        Google Scholar
+     * Song, Y. (2021). A review of how class orchestration with
+       technology has been conducted for pedagogical practices.
+       Educational Technology Research and Development, 69(3), 1477– 1503.
+       https://doi.org/10.1007/s11423-021-10001-y
+        CrossrefWeb of Science®Google Scholar
+     * Songer, N. B., Newstadt, M. R., Lucchesi, K., & Ram, P. (2020).
+       Navigated learning: An approach for differentiated classroom
+       instruction built on learning science and data science foundations.
+       Human Behavior and Emerging Technologies, 2(1), 93– 105.
+       https://doi.org/10.1002/hbe2.169
+        Wiley Online LibraryGoogle Scholar
+     * Sparkes, M. (2021). Why is Facebook ditching face recognition and
+       will it delete my data? New Scientist.
+       https://www.newscientist.com/article/2295967-why-is-facebook-ditchi
+       ng-face-recognition-and-will-it-delete-my-data/
+        Google Scholar
+     * Sparkes, M. (2022). Sentient AI: Has Google’s LaMDA artificial
+       intelligence really come to life? New Scientist.
+       https://www.newscientist.com/article/2323905-has-googles-lamda-arti
+       ficial-intelligence-really-achieved-sentience/
+        Google Scholar
+     * Sperling, K., Stenliden, L., Nissen, J., & Heintz, F. (2022). Still
+       w(AI)ting for the automation of teaching: An exploration of machine
+       learning in Swedish primary education using actor-network-theory.
+       European Journal of Education, 57(4), in press.
+        Google Scholar
+     * Statista. (2022). Total global AI investment 2015–2021.
+       https://www.statista.com/statistics/941137/ai-investment-and-fundin
+       g-worldwide/. Statista.
+        Google Scholar
+     * Strubell, E., Ganesh, A., & McCallum, A. (2019). Energy and policy
+       considerations for deep learning in NLP. Cornell University.
+       http://arxiv.org/abs/1906.02243
+        CrossrefGoogle Scholar
+     * Susskind, Z., Arden, B., John, L. K., Stockton, P., & John, E. B.
+       (2021). Neuro-symbolic AI: An emerging class of AI workloads and
+       their characterization. Cornell University.
+       http://arxiv.org/abs/2109.06133
+        Google Scholar
+     * Tencent. (2022). Tencent docs. Support for multiple online editing
+       of Word, Excel and PPT documents. https://docs.qq.com/
+        Google Scholar
+     * Thomas, M. S. C., & Porayska-Pomsta, K. (2022). Neurocomputational
+       methods. From models of brain and cognition to artificial
+       intelligence in Education. In O. Houdé & G. Borst (Eds.), The
+       Cambridge handbook of cognitive development (part III-Education and
+       school-learning domains, p. 29). Cambridge University Press.
+        CrossrefGoogle Scholar
+     * TikTok. (2022). TikTok—Make your day. TikTok.
+       https://www.tiktok.com/
+        Google Scholar
+     * Tsamados, A., Aggarwal, N., Cowls, J., Morley, J., Roberts, H.,
+       Taddeo, M., & Floridi, L. (2022). The ethics of algorithms: Key
+       problems and solutions. AI & SOCIETY, 37(1), 215– 230.
+        CrossrefWeb of Science®Google Scholar
+
+     * Tuomi, I. (2018). The impact of artificial intelligence on
+       learning, teaching, and EDUCATION. European Union Joint Research
+       Centre. Publications Office of the European Union.
+       https://publications.jrc.ec.europa.eu/repository/bitstream/JRC11322
+       6/jrc113226_jrcb4_the_impact_of_artificial_intelligence_on_learning
+       _final_2.pdf
+        Google Scholar
+     * Tuomi, I. (2020). The use of artificial intelligence (AI) in
+       education. European Parliament, Policy Department for Structural
+       and Cohesion Policies. https://bit.ly/3lCMotK
+        Google Scholar
+     * Tuomi, I. (2022). Artificial intelligence, 21st century
+       competences, and socio-emotional learning in education: More than
+       high-risk? European Journal of Education, 57(4), in press.
+        Google Scholar
+     * Tuomi, I. (forthcoming). A framework for socio-developmental ethics
+       in educational AI. In Proceedings of the 56th Hawaii International
+       Conference on System Science. Maui, January 3-6, 2023.
+        Google Scholar
+     * Turing, A. M. (1950). Computing machinery and intelligence. Mind,
+       59(236), 433– 460.
+        CrossrefGoogle Scholar
+     * Turnitin. (2022). Turnitin. https://turnitin.com/
+        Google Scholar
+     * UNESCO. (2021). Recommendation on the ethics of artificial
+       intelligence. Author.
+       https://unesdoc.unesco.org/ark:/48223/pf0000379920
+        Google Scholar
+     * UNICEF. (2021). Policy guidance on AI for children. Author.
+       https://www.unicef.org/globalinsight/media/2356/file/UNICEF-Global-
+       Insight-policy-guidance-AI-children-2.0-2021.pdf.pdf
+        Google Scholar
+     * UNICEF. (2022). Trends in digital personalized learning in low- and
+       middle-income countries. UNICEF.
+       https://www.unicef.org/globalinsight/media/2756/file/UNICEF-Global-
+       Insight-Digital-PL-LMIC-executive-summary-2022.pdf
+        Google Scholar
+     * United Nations. (1948). Universal declaration of human rights.
+       Author.
+       https://www.un.org/en/about-us/universal-declaration-of-human-right
+       s
+        Google Scholar
+     * United Nations. (1989). Convention on the rights of the child.
+       Author.
+       https://www.ohchr.org/EN/ProfessionalInterest/Pages/CRC.aspx
+        Google Scholar
+     * VanLehn, K. (2011). The relative effectiveness of human tutoring,
+       intelligent tutoring systems, and other tutoring systems.
+       Educational Psychologist, 46(4), 197– 221.
+       https://doi.org/10.1080/00461520.2011.611369
+        CrossrefWeb of Science®Google Scholar
+
+     * VanLehn, K., Burkhardt, H., Cheema, S., Kang, S., Pead, D.,
+       Schoenfeld, A., & Wetzel, J. (2019). Can an orchestration system
+       increase collaborative, productive struggle in
+       teaching-by-eliciting classrooms? Interactive Learning
+       Environments, 29(6), 987– 1005.
+       https://doi.org/10.1080/10494820.2019.1616567
+        CrossrefWeb of Science®Google Scholar
+     * Verbert, K., Ochoa, X., De Croon, R., Dourado, R. A., & De Laet, T.
+       (2020). Learning analytics dashboards: The past, the present and
+       the future. In Proceedings of the tenth international conference on
+       Learning Analytics & Knowledge (pp. 35– 40). Association for
+       Computing Machinery. https://doi.org/10.1145/3375462.3375504
+        CrossrefGoogle Scholar
+     * Vuorikari, R., & Holmes, W. (2022). DigComp 2.2. Annex 2. Citizens
+       interacting with AI systems. In R. Vuorikari, S. Kluzer, & Y. Punie
+       (Eds.), DigComp 2.2, the digital competence framework for citizens:
+       With new examples of knowledge, skills and attitudes (pp. 72– 82).
+       Publications Office of the European Union.
+       https://data.europa.eu/doi/10.2760/115376
+        Google Scholar
+     * Wall Street Journal. (2019). How China is using artificial
+       intelligence in classrooms. Video. Author.
+       https://www.youtube.com/watch?v=JMLsHI8aV0g
+        Google Scholar
+     * Waters, A., & Miikkulainen, R. (2014). GRADE: Machine learning
+       support for graduate admissions. AI Magazine, 35(1), 64.
+       https://doi.org/10.1609/aimag.v35i1.2504
+        CrossrefWeb of Science®Google Scholar
+     * Watters, A. (2015, March 12). A brief history of calculators in the
+       classroom. Blogtext.
+       http://hackeducation.com/2015/03/12/calculators
+        Google Scholar
+     * Watters, A. (2021). Teaching machines: The history of personalized
+       learning. MIT Press.
+        CrossrefGoogle Scholar
+     * WeChat. (2022). WeChat. https://www.wechat.com/
+        Google Scholar
+     * What Works Clearinghouse. (Ed.). (2016). Cognitive tutor®. What
+       works clearinghouse intervention report. What Works Clearinghouse
+       (ED).
+        Google Scholar
+     * WhatsApp. (2022). WhatsApp. WhatsApp.Com. https://www.whatsapp.com/
+        Google Scholar
+     * Williamson, B. (2017). Big data in Education. SAGE.
+        Google Scholar
+     * Williamson, B. (2021, May 28). Google’s plans to bring AI to
+       education make its dominance in classrooms more alarming. Fast
+       Company.
+       https://www.fastcompany.com/90641049/google-education-classroom-ai
+        Google Scholar
+     * Williamson, B., & Eynon, R. (2020). Historical threads, missing
+       links, and future directions in AI in education. Learning, Media
+       and Technology, 45(3), 223– 235.
+       https://doi.org/10.1080/17439884.2020.1798995
+        CrossrefWeb of Science®Google Scholar
+     * Winograd, T., & Flores, F. (1986). Understanding computers and
+       cognition: A new foundation for design. Ablex Publishing
+       Corporation.
+        Google Scholar
+     * X5GON. (2022). X5GON. Website. [Artificial Intelligence and open
+       educational resources]. https://www.x5gon.org/
+        Google Scholar
+     * XPRIZE. (2015). XPRIZE.
+       https://www.xprize.org/prizes/global-learning
+        Google Scholar
+     * Yeung, K. (2019). A study of the implications of advanced digital
+       technologies (including AI systems) for the concept of
+       responsibility within a human rights framework. Council of Europe
+       study DGI(2019)05. Council of Europe.
+        Google Scholar
+     * YouTube. (2022). YouTube. https://www.youtube.com/
+        Google Scholar
+     * Zawacki-Richter, O., Marín, V. I., Bond, M., & Gouverneur, F.
+       (2019). Systematic review of research on artificial intelligence
+       applications in higher education – Where are the educators?
+       International Journal of Educational Technology in Higher
+       Education, 16(1), 39. https://doi.org/10.1186/s41239-019-0171-0
+        CrossrefWeb of Science®Google Scholar
+     * Zembylas, M. (2021). A decolonial approach to AI in higher
+       education teaching and learning: Strategies for undoing the ethics
+       of digital neocolonialism. Learning, Media and Technology, 1– 13.
+       https://doi.org/10.1080/17439884.2021.2010094
+        CrossrefWeb of Science®Google Scholar
+
+A consulter aussi
+
+   Alexandre Lepage (Réalisateur). (2022, mars 3). L’intelligence
+   artificielle en éducation. https://www.youtube.com/watch?v=ZAtu0xIlcIs
+
+   Allouche, E. (2023, janvier 4). Sens et finalités du numérique en
+   éducation – Hors-série : Tests et simulations d’« entretiens » avec
+   ChatGPT (Open AI) [Billet]. Éducation, numérique et recherche.
+   https://edunumrech.hypotheses.org/7635
+
+   Traduction anglaise : https://edunumrech.hypotheses.org/8034
+
+   Association for the Advancement of Artificial Intelligence, & Computer
+   Science Teachers Association. (2020). AI4K12. AI4K12.
+   https://ai4k12.org/
+
+   Association Française pour l’Intelligence Artificielle (AFIA). (2022,
+   janvier 6). Journée Enseignement et Formation en IA : « IA pour
+   l’enseignement ». AfIA. https://afia.asso.fr/efia-2022/
+
+   Bachimont, B. (2014). L’ingénierie des connaissances : Un programme
+   scientifique ? Intellectica, 61(1), 211‑235.
+   https://doi.org/10.3406/intel.2014.1044
+
+   Benbouzid, B., & Cardon, D. (2018). Machines à prédire. Réseaux,
+   211(5), 9‑33. https://doi.org/10.3917/res.211.0009
+
+   Bocquet, F. (2020, juillet 9). L’intelligence artificielle de la
+   maternelle à la Terminale : Que devrait savoir chaque enfant sur l’IA ?
+   [Billet]. Éducation, numérique et recherche.
+   https://edunumrech.hypotheses.org/1970
+
+   Boullier, D. (2016). Sociologie du numérique. A. Colin, DL 2016.
+
+   Cardon, D., Cointet, J.-P., & Mazieres, A. (2018). La revanche des
+   neurones : L’invention des machines inductives et la controverse de
+   l’intelligence artificielle. Réseaux, 5(211).
+   https://doi.org/10.3917/res.211.0173
+
+   Cheng, E. C. K., Koul, R. B., Wang, T., & Yu, X. (Éds.). (2022).
+   Artificial Intelligence in Education : Emerging Technologies, Models
+   and Applications: Proceedings of 2021 2nd International Conference on
+   Artificial Intelligence in Education Technology (Vol. 104). Springer
+   Singapore. https://doi.org/10.1007/978-981-16-7527-0
+
+   Chevret-Castellani, C., Labelle, S., & Remond, É. (Éds.). (2022). De la
+   régulation de l’intelligence artificielle dans le domaine éducatif.
+   Communication, technologies et développement, 12.
+
+   Cisel, M., & Baron, G.-L. (2019). Utilisation de tableaux de bord
+   numériques pour l’évaluation des compétences scolaires : Une étude de
+   cas. Questions Vives. Recherches en éducation, N° 31, Art. N° 31.
+   https://doi.org/10.4000/questionsvives.3883
+
+   CMEPIUS Erasmus+ (Réalisateur). (2022, janvier 13). Wayne Holmes : How
+   can AI support teachers in their teaching?
+   https://www.youtube.com/watch?v=18Ho4AKSdsM
+
+   Collin, S., & Marceau, E. (2021). L’intelligence artificielle en
+   éducation : Enjeux de justice. Formation et profession, 29(2), 1.
+   https://doi.org/10.18162/fp.2021.a230
+
+   de la Higuera, C., & Bocquet, F. (2020, juillet 9). L’éducation, la
+   formation des enseignants et l’apprentissage de l’intelligence
+   artificielle : Un aperçu des questions clés [Billet]. Éducation,
+   numérique et recherche. https://edunumrech.hypotheses.org/1973
+
+   de la Higuera, C., & DNE-TN2. (2022, janvier 10). Intelligence
+   artificielle et éducation – GTnum #IA_EO : Conférence de Colin de la
+   Higuera [Billet]. Éducation, numérique et recherche.
+   https://edunumrech.hypotheses.org/3837
+
+   DNE-TN2. (2021a, mai 18). IA et éducation : Ressources, pratiques et
+   acteurs – #GTnum #Scol_IA [Billet]. Éducation, numérique et recherche.
+   https://edunumrech.hypotheses.org/3030
+
+   DNE-TN2. (2021b, juin 30). Le deep learning, un tournant
+   épistémologique pour les SHS ?(Huma-Num LAB, 2020) [Billet]. Éducation,
+   numérique et recherche. https://edunumrech.hypotheses.org/3203
+
+   DNE-TN2. (2022, janvier 20). Les enjeux éducatifs à l’ère de
+   l’Intelligence Artificielle : GTnum #Scol_IA – Maison de l’Intelligence
+   artificielle [Billet]. Éducation, numérique et recherche.
+   https://edunumrech.hypotheses.org/3898
+
+   DNE-TN2. (2023, janvier 12). Intelligence artificielle, traitement
+   automatique des langues et agents conversationnels [Billet]. Éducation,
+   numérique et recherche. https://edunumrech.hypotheses.org/8235
+
+   European Commission. Directorate General for Education, Youth, Sport
+   and Culture. (2022). Lignes directrices éthiques sur l’utilisation de
+   l’intelligence artificielle (IA) et des données dans l’enseignement et
+   l’apprentissage à l’intention des éducateurs. Publications Office.
+   https://data.europa.eu/doi/10.2766/153756
+
+   Ferri, F. (2020). De la raison graphique à la raison computationnelle :
+   Une brève préhistoire de l’intelligence artificielle. Interfaces
+   numériques, 9(1), Art. 1.
+   https://doi.org/10.25965/interfaces-numeriques.4125
+
+   Grand lexique français de l’Intelligence artificielle. (2021).
+   DataFranca Wiki. https://datafranca.org/wiki/Accueil
+
+   Holmes, W., Persson, J., Chounta, I.-A., Wasson, B., & Dimitrova, V.
+   (2022). Artificial intelligence and education—A critical view through
+   the lens of human rights, democracy and the rule of law. Council of
+   Europe.
+   https://rm.coe.int/artificial-intelligence-and-education-a-critical-vie
+   w-through-the-lens/1680a886bd
+
+   Inria. (2020). L’Intelligence Artificielle… avec intelligence ! (MOOC).
+   FUN-MOOC.
+   //www.fun-mooc.fr/courses/course-v1:inria+41021+session01/about
+
+   Khosravi, H., Shum, S. B., Chen, G., Conati, C., Gasevic, D., Kay, J.,
+   Knight, S., Martinez-Maldonado, R., Sadiq, S., & Tsai, Y.-S. (2022).
+   Explainable Artificial Intelligence in education. Computers and
+   Education: Artificial Intelligence, 100074.
+   https://doi.org/10.1016/j.caeai.2022.100074
+
+   Le Cun, Y. (2016, février 4). L’apprentissage profond : Une révolution
+   en intelligence artificielle. Collège de France.
+   https://www.college-de-france.fr/agenda/lecon-inaugurale/apprentissage-
+   profond-une-revolution-en-intelligence-artificielle/apprentissage-profo
+   nd-une-revolution-en-intelligence-artificielle
+
+   Le Cun, Y., Brizard, C., & Brizard, C. (2019). Quand la machine
+   apprend : La révolution des neurones artificiels et de l’apprentissage
+   profond. Odile Jacob.
+
+   Le Métayer, D. (2020). Séminaire intelligence artificielle—Séance 1 –
+   État de l’art, état des forces. Qu’est-ce que l’intelligence
+   artificielle en 2020 ? (7 octobre 2020). Sciences Po Lyon – Chaire
+   Transformations de l’action publique.
+   https://chaire-actionpublique.fr/seminaire-intelligence-artificielle/
+
+   Lettre ÉduNum thématique sur l’intelligence artificielle. (2021).
+   éduscol | Ministère de l’Éducation nationale, de la Jeunesse et des
+   Sports – Direction générale de l’enseignement scolaire.
+   https://eduscol.education.fr/2472/lettres-edunum-thematiques-ressources
+   -et-1er-degre
+
+   Romero, M., Aloui, H., Heiser, L., Galindo, L., & Lepage, A. (2021). Un
+   bref parcours sur les ressources, pratiques et acteurs en IA et
+   éducation. https://hal.archives-ouvertes.fr/hal-03190014
+
+   Selwyn, N. (2022). The future of AI and education : Some cautionary
+   notes. European Journal of Education.
+   https://doi.org/10.1111/ejed.12532
+
+   UNESCO. (2019). Consensus de Beijing sur l’intelligence artificielle et
+   l’éducation. UNESCO Bibliothèque Numérique.
+   https://unesdoc.unesco.org/ark:/48223/pf0000368303
+
+   UNICEF. (2021, novembre). Orientations stratégiques sur l’IA destinée
+   aux enfants 2.0. UNICEF.
+   https://www.unicef.org/globalinsight/fr/rapports/orientations-strat%C3%
+   A9giques-sur-lia-destin%C3%A9e-aux-enfants
+     __________________________________________________________________
+
+     *
+     *
+     *
+
+   Auteur francoisbocquetPublié le 23/01/202323/01/2023Catégories Boîte à
+   outils, Mise en oeuvre, Repères et décryptageÉtiquettes intelligence
+   artificielle, prospective, recherche, revues
+
+2 réflexions sur « État de l’art et de la pratique de l’intelligence
+artificielle dans l’éducation (Holmes & Tuomi, 2022) [Traduction] »
+
+    1. Ping : À Oman avec Wayne Holmes – Chaire Unesco RELIA
+    2. Ping : ChatGPT : un nouveau rapport au savoir pour l’enseignement |
+       Techniques innovantes pour l'enseignement supérieur
+
+Laisser un commentaire Annuler la réponse
+
+   Votre adresse e-mail ne sera pas publiée. Les champs obligatoires sont
+   indiqués avec *
+
+   Commentaire *
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+
+   Nom * ______________________________
+
+   E-mail * ______________________________
+
+   Site web ______________________________
+
+   [ ] Enregistrer mon nom, mon e-mail et mon site dans le navigateur pour
+   mon prochain commentaire.
+
+   Laisser un commentaire
+
+   Δ
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+
+   Ce site utilise Akismet pour réduire les indésirables. En savoir plus
+   sur comment les données de vos commentaires sont utilisées.
+
+Navigation de l’article
+
+   Précédent Publication précédente : Rencontre des thèses francophones en
+   accès ouvert  : jeudi 09/02/23
+   Suivant Publication suivante : Rencontre des thèses francophones en
+   accès ouvert  (jeudi 09/02/23) : captation vidéo et supports
+
+   Recherche pour : ____________________ (BUTTON) Recherche
+
+Présentation
+
+   Carnet de veille et de valorisation des travaux de recherche sur le
+   numérique dans l’éducation soutenus par la Direction du numérique pour
+   l’éducation (MENJ).
+     __________________________________________________________________
+
+   Journal of monitoring and enhancement of digital research in education
+   supported by the Directorate of Digital Education (MENJ).
+
+Mots-clefs
+
+     * #GTnum
+     * académies
+     * accès ouvert
+     * appel à contribution
+     * apprentissage
+     * bibliographie
+     * compétences
+     * confinement
+     * crise sanitaire
+     * doctorants
+     * données
+     * e-FRAN
+     * EGNé
+     * EMI
+     * enquêtes
+     * enseignement
+     * enseignement à distance
+     * formation
+     * forme scolaire
+     * humanités numériques
+     * hybridation
+     * incubateur académique
+     * informatique
+     * intelligence artificielle
+     * international
+     * inégalités
+     * learning analytics
+     * littératie numérique
+     * méthodologie
+     * numérique éducatif
+     * partenaires
+     * portfolio
+     * prospective
+     * recherche
+     * recherche-action
+     * recherche participative
+     * regards croisés
+     * ressources éducatives libres
+     * revues
+     * Réseau Canopé
+     * science ouverte
+     * thèses
+     * webinaires
+     * école inclusive
+     * école primaire
+
+Catégories
+
+     * Actualité (190)
+     * Billets (19)
+     * Boîte à outils (129)
+     * Groupes thématiques numériques (145)
+     * Mise en oeuvre (177)
+     * Repères et décryptage (238)
+
+Archives
+
+     * décembre 2023 (4)
+     * novembre 2023 (2)
+     * octobre 2023 (7)
+     * septembre 2023 (3)
+     * août 2023 (1)
+     * juillet 2023 (1)
+     * juin 2023 (6)
+     * mai 2023 (6)
+     * avril 2023 (5)
+     * mars 2023 (4)
+     * février 2023 (2)
+     * janvier 2023 (8)
+     * décembre 2022 (4)
+     * novembre 2022 (10)
+     * octobre 2022 (10)
+     * septembre 2022 (10)
+     * août 2022 (4)
+     * juin 2022 (8)
+     * mai 2022 (7)
+     * avril 2022 (6)
+     * mars 2022 (6)
+     * février 2022 (3)
+     * janvier 2022 (8)
+     * décembre 2021 (6)
+     * novembre 2021 (4)
+     * octobre 2021 (5)
+     * septembre 2021 (11)
+     * août 2021 (3)
+     * juillet 2021 (4)
+     * juin 2021 (14)
+     * mai 2021 (15)
+     * avril 2021 (10)
+     * mars 2021 (10)
+     * février 2021 (5)
+     * janvier 2021 (8)
+     * décembre 2020 (8)
+     * novembre 2020 (5)
+     * octobre 2020 (7)
+     * septembre 2020 (5)
+     * août 2020 (1)
+     * juillet 2020 (5)
+     * juin 2020 (16)
+     * mai 2020 (8)
+     * avril 2020 (3)
+     * mars 2020 (2)
+     * février 2020 (7)
+     * janvier 2020 (6)
+     * décembre 2019 (3)
+     * octobre 2019 (2)
+
+Publications Hal
+
+     * Rôle des outils numériques au sein des dispositifs hybrides
+       d’enseignement et d’apprentissage. Ce document est rédigé par les
+       équipes de recherche dans le cadre des GTnum du ministère de
+       l'Éducation nationale et de la Jeunesse. La responsabilité des
+       contenus publiés leur appartient. GTnum 2.9 #formescolairehybride
+       2020-2022
+     * GT num TECHNE#REVE - Cahier d'expérience : Rôle des écosystèmes
+       dans la dynamique des projets numériques éducatifs. Trois études de
+       cas
+     * Solidarité numérique en éducation
+     * DMP du projet GTnum TECHNE#REVE - Numérique scolaire : vers des
+       écosystèmes favorables à l’innovation. Acteurs, collectifs et
+       organisations – Groupes thématiques numériques de la Direction du
+       numérique pour l’éducation (Ministère de l’Éducation nationale, de
+       la Jeunesse et des Sports) 2020-2022
+
+     * Crédits
+     * À propos
+     * Actualité
+     * Boîte à outils
+     * Groupes thématiques numériques
+     * Mise en oeuvre
+     * Repères et décryptage
+
+   Un carnet de recherche proposé par Hypothèses - Ce carnet dans le
+   catalogue d'OpenEdition - Politique de confidentialité - Signaler un
+   problème
+   Flux de syndication - Crédits - ISSN 2725-125X
+   Éducation, numérique et recherche Fièrement propulsé par WordPress
+
+   (BUTTON)
+
+   Rechercher dans OpenEdition Search
+
+   Vous allez être redirigé vers OpenEdition Search
+   ____________________
+   ( ) Dans tout OpenEdition
+   (*) Dans Éducation, numérique et recherche
+   (BUTTON) Rechercher
+
+   ">
+   (BUTTON)
+
+     * TODO
+
+   OpenEdition Search
+   (BUTTON) Tout OpenEdition
+
+   Portail de ressources électroniques en sciences humaines et sociales
+   OpenEdition
+   Nos plateformes
+   OpenEdition Books OpenEdition Journals Hypotheses Calenda
+   Bibliothèques et institutions
+   OpenEdition Freemium
+   Nos services
+   OpenEdition Search La lettre d'OpenEdition
+   Suivez-nous

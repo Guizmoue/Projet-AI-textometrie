@@ -1,435 +1,169 @@
-   #Commentaires pour "L’IA traque le harcèlement en ligne"
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-59MW7L4
 
-   Accéder à la navigation
+   (BUTTON)
 
-   Accueil
-   [gb.svg]
-   Se connecter
-   S'inscrire
-   ____________________ (Submit)
-   Thèmes
-     * Vivant
-     * Matière
-     * Numérique
-     * Sociétés
-     * Terre
-     * Univers
+   (BUTTON) Menu
+   Rechercher ____________________ (BUTTON)
+   Epaper/PDF Newsletters
 
-   Formats
-     * Articles
-     * Audios
-     * Diaporamas
-     * Dossiers
-     * Infographies
-     * Points de vue
+   logo letemps S'abonner Mon compte
+     * En continu
+     * Monde
+     * Suisse
+     * Économie
+     * Opinions
+     * Culture
+     * Société
+     * Sciences
+     * Sport
+     * Data
+     * Événements
      * Vidéos
+     * Podcasts
+     *
 
-   CNRS Le Journal
-   Donner du sens à la science
-
-   [logofondation.svg]
-
-Suivre
-
-     * Twitter
-     * Facebook
-     * Google
-     * Dailymotion
-     * RSS
-
-     * Rechercher
-     * Se connecter
-     * S'inscrire
-     * Mon compte
-     * Nos blogs
-
-   English version Dossier spécial Covid-19
-     * Vivant
-     * Matière
-     * Sociétés
-     * Univers
-     * Terre
-     * Numérique
-     * Mes thèmes
-
-Personnalisez votre navigation
-       Sélectionnez vos mots clefs ou thématiques favorites et créez votre
-       rubrique personnalisée
-          + Créer un compte
-          + Se connecter
-       [ ] Stay
-     * Types
-          + Articles
-          + Audios
-          + Diaporamas
-          + Dossiers
-          + Infographies
-          + Points de vue
-          + Vidéos
-       [ ] Stay
-
-   CNRS Le Journal Haut de page [gb.svg] Read in English Nos blogs
-   ____________________ (Submit)
-   Partager l'article
-
-Sections
-
-Vous êtes ici
-
-   Accueil / Articles / L’IA traque le harcèlement en ligne
-
-L’IA traque le harcèlement en ligne
-
-   Dossier
-   Paru le 04.01.2022
-   Comment l’intelligence artificielle va changer nos vies
-   Voir le dossier
-   Article
-   L’art et l’archéologie, nouveaux horizons de l’IA
-   Article
-   Quand l’IA s’attaque à la sclérose en plaques
-   Article
-   Des logiciels experts en diagnostic médical
-   Article
-   Peut-on faire confiance à l'intelligence artificielle ?
-   Article
-   Athénan, une IA joueuse multi-championne
-   Article
-   Six scénarios d'un monde sans travail
-   Article
-   À l’usine, au bureau, tous remplacés par des robots?
-   Article
-   Une IA, juge de beauté des poissons tropicaux
-   Point de vue
-   Le robot, un «animal» comme les autres ?
-   Article
-   Des machines enfin intelligentes ?
-   Article
-   Voiture autonome
-   Des voitures autonomes sans frontières ?
-   Point de vue
-   Voitures autonomes: par quoi serez-vous choqués ?
-   Point de vue
-   Armes létales autonomes: de quoi parle-t-on?
-   Article
-   Demain, un ordinateur inspiré de notre cerveau?
-   Article
-   La justice à l’heure des algorithmes et du big data
-   Article
-   Les androïdes de la saga Alien sont-ils pour 2093 ?
-   Point de vue
-   Jeu de Go
-   Jeu de go : l’ordinateur plus fort que l’humain?
-   Point de vue
-   Traduire comme on joue au Go ?
-   Article
-   Les algorithmes peuvent-ils détecter l’humour, les émotions ou les
-   discours haineux ?
-   Article
-   SLAM Schizophrénie
-   Mieux diagnostiquer la schizophrénie
-   Article
-   Les androïdes de la saga Alien sont-ils pour 2093 ?
-   Point de vue
-   Que valent les traducteurs automatiques de la science-fiction ?
-   Article
-   Faciliter la traduction en langue des signes
-   Point de vue
-   Traduire comme on joue au Go ?
-   Point de vue
-   Pourquoi les assistants virtuels ont besoin d'un corps
-   Article
-   Tweet et SMS
-   À la recherche des émotions dans nos SMS
-   Article
-   Des algorithmes contre les images truquées
-   Article
-   Décryptage politique
-   Un logiciel qui décrypte la politique
-   Article
-   Quand le geste libère la parole
-   Article
-   Real Humans revu par les chercheurs (1)
-   Audio
-   Parlez-vous les langues sifflées ?
-
-Vous êtes ici
-
-   Accueil / Articles / L’IA traque le harcèlement en ligne
-   [gb.svg] Read in English
-   0 commentaire
-   Numérique
-   Intelligence artificielle
-   ^-A ^+A
-     * Imprimer
-
-   article
-
-L’IA traque le harcèlement en ligne
-
-   04.01.2019, par
-   Martin Koppe
-   Good Studio/Stock.Adobe.com
-   Partager
-   Partager
-   Pour combattre le harcèlement en ligne, qui touche principalement les
-   mineurs, l’intelligence artificielle se révèle une alliée efficace.
-   Explications.
-
-   Si Internet a toujours été un outil ambivalent, le fulgurant essor des
-   réseaux sociaux ces dix dernières années en a renforcé les écueils : le
-   partage de connaissances et d’opinions y est certes facilité, mais
-   également l’intrusion d’éléments négatifs pour les jeunes. Si Sartre
-   n’a jamais eu de Smartphones ou Internet à domicile, son « l’enfer,
-   c’est les autres »1 a ainsi pris une nouvelle dimension en ces temps de
-   surconnexion.
-
-   Pour lutter contre ce phénomène, un numéro de téléphone, le 3020, Non
-   au harcèlement, a été mis en place, ainsi qu'un Numéro Vert, plus
-   spécialisé, 0800 200 000, Net Écoute. La recherche s’est aussi emparée
-   du problème avec le projet européen Creep2 qui se focalise sur les
-   écoles de la province italienne de Trente. Coordonné par la fondation
-   italienne Bruno Kessler, et financé par l’Institut européen
-   d'innovation et de technologie, Creep rassemble des membres de
-   l’Université de Trente, du CNRS, de l’Université de la Côte d'Azur, de
-   la société ExpertSystem et de la start-up allemande Neuronation. Des
-   outils technologiques de lutte contre le cyberharcèlement y sont
-   développés,  en particulier des solutions liées à l’intelligence
-   artificielle.
-
-   L’Unesco estime que le harcèlement scolaire, pas uniquement limité à sa
-   version numérique, concernait 246 millions de mineurs en 2017. Entre
-   2010 et 2014, la proportion de jeunes âgés de 9 à 16 ans exposés au
-   cyberharcèlement est passée de 8 à 12 %, dont seuls 10 % d’entre eux en
-   parlent à leurs parents. De son côté, l’Éducation nationale considère
-   que l’on entre dans le cyberharcèlement lorsque la victime subit au
-   moins une attaque par semaine pendant un mois. En France, le taux
-   d’adolescents expliquant en avoir déjà été victimes s’élève à 12,5 %.
-
-Différencier la prise de bec du harcèlement
-
-   « Nous développons des outils capables de parcourir les réseaux sociaux
-   et d’analyser les données afin de repérer les messages contenant du
-   cyberharcèlement ou de la haine », explique Elena Cabrio, maître de
-   conférences à l’université de la Côte d’Azur et membre du Laboratoire
-   d’informatique, signaux et systèmes de Sophia Antipolis (I3S)3,
-   laboratoire qui a reçu en décembre dernier un trophée de l'Inpi. Au
-   sein de l’équipe Sparks4, spécialisée dans la fouille et la
-   compréhension de vastes champs de données numériques, ses thèmes de
-   recherche touchent au traitement automatique du langage et à l’étude
-   des arguments. Ces travaux reposent sur la théorie des graphes, des
-   modèles abstraits reliés en réseaux. « Chaque utilisateur est
-   représenté par un graphe et nous pouvons voir les échanges entre les
-   différents utilisateurs. Des algorithmes aident à naviguer entre les
-   graphes, des méthodes d’apprentissage automatique traitent les messages
-   pour vérifier s’ils correspondent à du contenu agressif. »
-
-   Système de détection automatique du cyberharcèlement : chaque nœud
-   représente un utilisateur et les arcs les connections entre eux.
-
-   CNRS Le Journal (BUTTON)
-   Système de détection automatique du cyberharcèlement : chaque nœud
-   représente un utilisateur et les arcs les connections entre eux.
-   E. CABRIO, S. VILLATA/SPARKS
-   E. CABRIO, S. VILLATA/SPARKS
-   Partager
-   Partager
-
-   Ces outils détectent donc gros mots, insultes et autres termes
-   toxiques. Or, si les échanges sur la Toile ne sont pas toujours
-   courtois, chaque prise de bec ne compte pas pour autant comme un cas de
-   cyberharcèlement. « Les gens sont virulents sur les réseaux sociaux,
-   avoue Elena Cabrio. Mais le harcèlement est défini par le caractère
-   continu des attaques d’un utilisateur vers une même cible. » Les
-   adultes ne sont pas épargnés par ce problème.
-
-   Serena Villata, chargée de recherche CNRS à l’I3S et membre de l’équipe
-   Sparks, contribue elle aussi au projet Creep ; elle s’est spécialisée
-   dans l’étude des arguments et l’extraction de structures lors de débats
-   en ligne. « Le harcèlement existait déjà avant Internet, mais avec les
-   réseaux sociaux il peut se poursuivre même hors de la classe,
-   déplore-t-elle. Les victimes ne connaissent donc pas de répit et nous
-   essayons de les aider à gérer des situations difficiles. »
-
-Tester in situ en Italie
-
-   Les méthodes de l’I3S ont été testées à partir de scénarios ayant pour
-   cadre des réseaux comme Facebook, WhatsApp et Instagram, mais aussi des
-   réseaux sociaux créés spécifiquement pour des écoles pilotes dans la
-   province de Trente. Certains établissements se dotent en effet de
-   réseaux internes, plus faciles à contrôler et à étudier. En effet, sur
-   des plateformes comme Facebook, les chercheurs n’ont pas accès aux
-   messages privés, ce qui limite l’exploration et l’analyse automatique
-   des contenus en ligne.
-
-   Le harcèlement est défini par le caractère continu des attaques d’un
-   utilisateur vers une même cible.
-
-   Par ailleurs, la Fondation Bruno Kessler va se charger de programmer un
-   chatbot, un système de discussion en ligne automatisé permettant de
-   rediriger les victimes vers un psychologue ou toute autre personne de
-   confiance. Prévu pour s’arrêter à la fin 2018, le projet Creep a
-   finalement été reconduit pour toute l’année 2019.
-
-   « Les écoles de la province de Trente vont commencer à utiliser nos
-   prototypes, se réjouit Serena Villata. Nous allons profiter de cette
-   prolongation pour créer une seconde version de l’application, qui
-   prendra aussi en compte les images. »
-
-   Des réseaux sociaux comme Instagram se focalisent en effet sur les
-   photographies. Outre les photomontages insultants, les risques se
-   concentrent principalement sur les contenus érotiques. Le partage et la
-   circulation contre son gré de photos suggestives d’une jeune fille
-   représentent un déclencheur massif de cyberharcèlement.
-
-   Le revenge porn, terme consacré, couvre ainsi toute diffusion non
-   sollicitée de photos et de vidéos érotiques, voire pornographiques, par
-   d’anciens flirts ou amants. S’il concerne surtout les adultes, le
-   phénomène touche aussi des mineurs via la banalisation des sextos qui
-   se retournent contre leur expéditeur initial en cas de déception
-   amoureuse.
-
-   Au printemps, Facebook avait annoncé lutter contre le revenge porn en
-   proposant aux victimes, et à celles et ceux qui pensaient risquer de le
-   devenir, de leur envoyer leur propre contenu compromettant afin qu’il
-   puisse être rapidement identifié s’il était posté sur le réseau
-   américain. Une solution ubuesque, impensable en effet d’attendre des
-   gens, d’autant plus lorsqu’ils sont mineurs, de fournir à Facebook des
-   médias intimes d’eux-mêmes. Une situation grotesque qui souligne bien
-   le manque d’outils adéquats et l’ampleur du travail restant à
-   accomplir. « On parle beaucoup d’intelligence artificielle en ce
-   moment, conclut Serena Villata. Nos travaux sont un bel exemple d’une
-   utilisation qui fait du bien à la société et qui aide les gens. » ♦
-
-
-   Notes
-     * 1. Phrase extraite de la pièce de théâtre Huis clos.
-     * 2. Pour Cyberbullying Effects Prevention, « prévention des effets
-       du cyberharcèlement ».
-     * 3. Unité CNRS/Université Côte d'Azur
-     * 4. Pour Scalable and Pervasive Software and Knowledge Systems, «
-       logiciels évolutifs et omniprésents et systèmes de connaissance ».
-
-   Aller plus loin
-   0 commentaire
-
-Mots-clés
-
-   Internet Facebook Instagram WhatsApp harcèlement Réseaux sociaux
-   Mineurs Harcèlement scolaire Données revenge porn
-
-Partager cet article
-
-Auteur
-
-   Martin Koppe
-
-   Diplômé de l’École supérieure de journalisme de Lille, Martin Koppe a
-   notamment travaillé pour les Dossiers d’archéologie, Science et Vie
-   Junior et La Recherche, ainsi que pour le site Maxisciences.com. Il est
-   également diplômé en histoire de l’art, en archéométrie et en
-   épistémologie.
-   En savoir plus sur l'auteur
-   Une promenade en villePrécédent
-   La marche, c’est toute une science!Suivant
-
-Voir aussi
-
-   Numérique
-   Blog
-   11/12/2023
-   Cellule souche cherche sa destinée
-   Blog
-   07/12/2023
-   Les robots face à l’incertitude
-   Article
-   04/12/2023
-   La créativité peut-elle être artificielle ?
-   réseau neuronal
-   Article
-   24/11/2023
-   Les défis d’une IA frugale
-   Blog
-   20/11/2023
-   Faciliter l'étude d’un vaste corpus documentaire par la...
-   Intelligence artificielle
-   réseau neuronal
-   Article
-   24/11/2023
-   Les défis d’une IA frugale
-   Article
-   08/11/2023
-   Une IA décèle les premiers signes de la sclérose en plaques
-   Article
-   30/05/2022
-   Quand l’IA s’attaque à la sclérose en plaques
-   Point de vue
-   24/04/2019
-   Le robot, un «animal» comme les autres ?
-   Article
-   02/02/2018
-   Des logiciels experts en diagnostic médical
-   Internet
-   Article
-   31/03/2023
-   Des mouchards dans les jeux mobiles
-   Article
-   08/09/2022
-   Notre quotidien au filtre des traitements algorithmiques
-   Article
-   30/08/2022
-   Comment rendre les applications moins énergivores ?
-   Article
-   09/08/2022
-   Les nouvelles écritures numériques
-   Article
-   12/07/2022
-   BigScience voit grand pour les modèles de langue
-
-Commentaires
-
-   0 commentaire
-   Flux RSS
-   Pour laisser votre avis sur cet article
-   Connectez-vous, rejoignez la communauté
-   du journal CNRS
-   Se connecter
-   Créer un compte
+   ____________________ (BUTTON)
+     * S'abonner
+     * Accueil
+     * En continu
+     * Monde
+     * Suisse
+     * Économie
+     * Opinions
+     * Culture
+     * Société
+     * Sciences
+     * Sport
+     * Data
+     * Événements
+     * Hyperlien
+     * Dossiers
+     * Grands formats
+     * En images
+     * Vidéos
+     * Podcasts
+     *
+     *
+     * Epaper/PDF
+     * Newsletters
+     * Magazine T
+     * Le Journal de l'Immobilier
+     * Blogs
+     * Archives
+     * Archives historiques
+     *
+     * Abonnements
+     * Services aux abonnés
+     * Questions fréquentes
+     *
+     * Régie Publicitaire
+     * Avis de décès
 
      * À propos
+     * Impressum
+     * Communication
+     * Emplois
+
+   Publicité
+
+    1. Accueil
+    2. videos
+    3. Décryptages
+
+  En vidéo: L’IA au cinéma: entre outils modernes et fantasmes ancestraux
+
+   Les IA génératives fascinent de plus en plus, notamment depuis le
+   séisme provoqué par ChatGPT fin 2022. Dans le domaine du cinéma ou de
+   l’art audiovisuel en général, les questions qu’elles soulèvent sont
+   multiples. Petit tour d’horizon
+
+   Séverine Chave
+   Séverine Chave
+   Publié le 27 décembre 2023 à 14:46. / Modifié le 27 décembre 2023 à
+   21:53.
+     *
+     *
+     *
+     *
+     *
+
+   Les technologies d’intelligence artificielle générative fascinent, font
+   peur et posent beaucoup de questions de manière générale et dans le
+   domaine de la création audiovisuelle en particulier. Début novembre, le
+   Festival international de film de Genève (GIFF) lui faisait la part
+   belle. L’occasion d’aller à la rencontre de différents acteurs du
+   secteur.
+
+   «Quand vous travaillez avec un programme comme PhotoShop, le résultat
+   obtenu après l’application d’un filtre est évident», explique Marc Da
+   Costa, artiste et anthropologue à l’origine de l’œuvre Tulpamancer,
+   présentée dans le cadre du GIFF. «Avec les technologies d’IA
+   générative, c’est très différent: il y a une dimension aléatoire, de
+   hasard, on ne sait jamais vraiment quel résultat on va obtenir.»
+
+   Pour Douglas Stanley, professeur de Media Design à la Haute école d’art
+   et de design de Genève (HEAD), c’est aussi cette interactivité qui
+   constitue l’intérêt principal de ces technologies: «Il faut penser la
+   narration de manière non-linéaire et se poser la question de ce que ça
+   signifie de donner la capacité d’agir à un personnage non humain.» Pour
+   lui «c’est un vieux rêve humain. Le Yi Jing, le Livre des changements
+   chinois était en réalité très similaire à ce que ChatGPT propose
+   aujourd’hui: une espèce d’entité venue d’un autre monde pour répondre à
+   nos questions».
+
+     *
+     *
+     *
+     *
+     *
+
+Vidéos
+
+  Décryptages
+
+   épisode précédent
+
+En vidéo - Chasse-t-on vraiment pour réguler?
+
+le Temps
+
+     * Impressum
+     * À propos
+     * Communication
+     * Régie Publicitaire
+     * Avis de décès
+     * Événements
+     * Emplois
+
+Abonnements et Services
+
+     * Abonnements
+     * Services aux abonnés
+     * Epaper/PDF
      * Newsletters
-     * Équipe / crédits
-     * Nous contacter
-     * Charte d'utilisation
-     * Plan du site
-     * Données personnelles
-     * Mentions légales
+     * Magazine T
+     * Journal de l'immobilier
+     * Questions fréquentes
+     * Archives
+     * Archives historiques
 
-Numéros papiers
+Documents de références
 
-   CNRS Le journal - septembre 2023
-   n°313
-   Voir tous les numéros
-
-Nous suivre
-
-     * Twitter
-     * Facebook
-     * Google
-     * Dailymotion
-
-Partager
-
-     * Twitter
-     * Facebook
-     * Google
-     * Email
-
-   [logofondation.svg] Faites un don pour la recherche !
-   Centre National de la Recherche Scientifique
-   © 2023, CNRS
-     * Créer un compte
-     * Se connecter
-     * Mon compte
-     * Politique d'accessibilité
+     * Conditions générales d'utilisation
+     * Conditions générales de vente
+     * Politique de confidentialité
      * Gestion des cookies
+     * Charte rédactionnelle
+     * Charte des partenariats
+
+Suivez Le Temps
+
+     * Facebook
+     * Ex-Twitter
+     * Linkedin
+     * Instagram
+     * Youtube
+     * Tiktok
+
+     * Avenue du Bouchet 2, 1209 Genève | Service Clients: +41 22 539 10
+       75 | Contactez Le Temps

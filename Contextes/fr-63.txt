@@ -1,0 +1,101 @@
+
+Rapport de Cédric Villani : donner un sens à l'intelligence artificielle (IA)
+
+   Le rapport sur l’intelligence artificielle (IA) rédigé par le
+   mathématicien et député Cédric Villani, a été rendu public mercredi 28
+   mars 2018. Parmi les nombreuses pistes proposées : créer un réseau
+   d’Instituts interdisciplinaires d’intelligence artificielle, mettre en
+   place un supercalculateur conçu spécifiquement pour les applications
+   d’IA, ou encore rendre plus attractives les carrières dans la recherche
+   publique afin d’éviter la fuite des cerveaux vers les géants
+--
+
+Des pistes pour positionner la France à l’avant-garde de l’IA
+
+--
+   distinction mondiale en mathématiques –, mène depuis septembre dernier
+   une large réflexion sur l'intelligence artificielle (IA) qui a conduit
+   à la remise, mercredi 28 mars 2018, d’un rapport détaillé sur le sujet.
+--
+     * Selon le mathématicien, "la France a une très grande capacité en
+       recherche en matière d'intelligence artificielle" ce qui se traduit
+       par le fait que de grandes entreprises américaines ou asiatiques
+--
+       particulièrement concentrer son effort de développement de
+       l'intelligence artificielle : la santé, les transports,
+       l'environnement et la défense.
+--
+
+Créer un réseau d’Instituts interdisciplinaires d’intelligence artificielle
+
+   Il s'agit de renforcer la place mondiale de la recherche française en
+   IA en créant, à l'intérieur d'une sélection d'établissements publics
+   d'enseignement et de recherche, des Instituts interdisciplinaires
+   d'intelligence artificielle réunissant chercheurs, ingénieurs et
+   étudiants. Ils devront être concus comme des "zones franches de l'IA" :
+   allégement des formalités administratives, compléments de salaire,
+--
+   Il faudra également attirer des partenaires privés porteurs de
+   solutions nouvelles en IA en leur permettant de former leurs
+   ingénieurs, de recruter des ingénieurs de haut niveau, de réaliser ou
+--
+
+   Les instituts de recherche en IA  doivent pouvoir disposer d'outils de
+   calcul qui leur qui leur permettent de rivaliser avec les moyens des
+--
+   Le rapport propose donc la mise en place d'un supercalculateur conçu
+   spécifiquement pour les applications d'IA, dédié aux chercheurs et à
+   leurs partenaires économiques dans le cadre de projets communs.
+--
+   carrière, sous peine de voir se poursuivre la captation de nos
+   meilleurs cerveaux par les géants de l'IA et de se tarir définitivement
+   le flux de jeunes prêts à s'investir dans l'enseignement supérieur et
+--
+
+Former des talents en IA, à tous niveaux
+
+   Il fixe également pour objectif de multiplier par trois le nombre de
+   personnes formées en IA d'ici à 3 ans, avec des actions spécifiques
+   visant à féminiser les formations en mathématiques et en informatique
+--
+   Il évoque la possibilité de créer de nouveaux cursus et de nouvelles
+   formations à l'IA : programmes croisés, doubles cursus (droit-IA par
+   exemple)s, formations de haut niveau en IA (doctorat, master) ou à des
+   niveaux intermédiaires (bac+2 et bac+3). Et propose des bourses de
+   master ou de thèse fléchées IA...
+
+L’IA en chiffres
+
+   La France compte parmi les 4 premiers pays au monde pour la production
+   mondiale d’articles sur l’intelligence artificielle, avec la Chine, les
+   Etats-Unis, et le Royaume-Uni, grâce à son excellence en mathématiques,
+--
+   81 écoles d’ingénieurs et 38 universités délivrant 138 cours liés à
+   l’IA.
+
+
+   18 diplômes de mastères spécialisés en IA
+
+
+   80 ETI et PME et plus de 270 start-ups spécialisées dans l’IA, avec un
+   rythme de création soutenu : plus de 30% par an depuis 2010.
+--
+
+   400 M€ par an de financement public pour la recherche en IA
+
+--
+
+Le site AI for humanity
+
+--
+
+   Les 542 structures françaises de l'intelligence artificielle
+
+--
+     * Stratégie
+     * Intelligence artificielle
+     * Actualité
+--
+
+Stratégie nationale de recherche en intelligence artificielle
+

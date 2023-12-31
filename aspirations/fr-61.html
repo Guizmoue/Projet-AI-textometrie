@@ -1,0 +1,1231 @@
+<!DOCTYPE html>
+<?xml encoding="UTF-8"><html lang="fr" dir="ltr">
+<head>
+  <meta charset="utf-8">
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)">
+<meta name="MobileOptimized" content="width">
+<meta name="HandheldFriendly" content="true">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script type="text/javascript" data-toolbar-anti-flicker-loading>(function() {
+  const toolbarState = sessionStorage.getItem('Drupal.toolbar.toolbarState')
+    ? JSON.parse(sessionStorage.getItem('Drupal.toolbar.toolbarState'))
+    : false;
+  // These are classes that toolbar typically adds to <body>, but this code
+  // executes before the first paint, when <body> is not yet present. The
+  // classes are added to <html> so styling immediately reflects the current
+  // toolbar state. The classes are removed after the toolbar completes
+  // initialization.
+  const classesToAdd = ['toolbar-loading', 'toolbar-anti-flicker'];
+  if (toolbarState) {
+    const {
+      orientation,
+      hasActiveTab,
+      isFixed,
+      activeTray,
+      activeTabId,
+      isOriented,
+      userButtonMinWidth
+    } = toolbarState;
+
+    classesToAdd.push(
+      orientation ? `toolbar-` + orientation + `` : 'toolbar-horizontal',
+    );
+    if (hasActiveTab !== false) {
+      classesToAdd.push('toolbar-tray-open');
+    }
+    if (isFixed) {
+      classesToAdd.push('toolbar-fixed');
+    }
+    if (isOriented) {
+      classesToAdd.push('toolbar-oriented');
+    }
+
+    if (activeTray) {
+      // These styles are added so the active tab/tray styles are present
+      // immediately instead of "flickering" on as the toolbar initializes. In
+      // instances where a tray is lazy loaded, these styles facilitate the
+      // lazy loaded tray appearing gracefully and without reflow.
+      const styleContent = `
+      .toolbar-loading #` + activeTabId + ` {
+        background-image: linear-gradient(rgba(255, 255, 255, 0.25) 20%, transparent 200%);
+      }
+      .toolbar-loading #` + activeTabId + `-tray {
+        display: block; box-shadow: -1px 0 5px 2px rgb(0 0 0 / 33%);
+        border-right: 1px solid #aaa; background-color: #f5f5f5;
+        z-index: 0;
+      }
+      .toolbar-loading.toolbar-vertical.toolbar-tray-open #` + activeTabId + `-tray {
+        width: 15rem; height: 100vh;
+      }
+     .toolbar-loading.toolbar-horizontal :not(#` + activeTray + `) > .toolbar-lining {opacity: 0}`;
+
+      const style = document.createElement('style');
+      style.textContent = styleContent;
+      style.setAttribute('data-toolbar-anti-flicker-loading', true);
+      document.querySelector('head').appendChild(style);
+
+      if (userButtonMinWidth) {
+        const userButtonStyle = document.createElement('style');
+        userButtonStyle.textContent = `#toolbar-item-user {min-width: ` + userButtonMinWidth +`px;}`
+        document.querySelector('head').appendChild(userButtonStyle);
+      }
+    }
+  }
+  document.querySelector('html').classList.add(...classesToAdd);
+})();</script>
+<meta name="google-site-verification" content="IRqygLjiF7pS6njuuLD383jrtfSkwUI_RHjeuB_CR9A">
+<meta property="fb:app_id" content="120115705138283">
+<meta property="og:site_name" content="Agence Science-Presse">
+<meta property="twitter:site" content="@SciencePresse">
+<meta property="twitter:card" content="summary_large_image">
+<meta property="og:description" content="Les premiers scientifiques test&eacute;s &agrave; ce sujet pr&eacute;f&egrave;rent les jugements de ChatGPT &agrave; ceux de leurs coll&egrave;gues. Mais il y a des b&eacute;mols. ">
+<meta name="description" content="Les premiers scientifiques test&eacute;s &agrave; ce sujet pr&eacute;f&egrave;rent les jugements de ChatGPT &agrave; ceux de leurs coll&egrave;gues. Mais il y a des b&eacute;mols. ">
+<meta property="twitter:description" content="Les premiers scientifiques test&eacute;s &agrave; ce sujet pr&eacute;f&egrave;rent les jugements de ChatGPT &agrave; ceux de leurs coll&egrave;gues. Mais il y a des b&eacute;mols. ">
+<meta property="og:url" content="https://www.sciencepresse.qc.ca/actualite/2023/10/19/quand-scientifiques-preferent-jugements-chatgpt">
+<meta property="og:title" content="Quand des scientifiques pr&eacute;f&egrave;rent les jugements de ChatGPT">
+<meta property="twitter:title" content="Quand des scientifiques pr&eacute;f&egrave;rent les jugements de ChatGPT">
+<meta property="og:type" content="article">
+<meta property="og:image" content="https://www.sciencepresse.qc.ca/sites/default/files/styles/og_image/public/2023-05/IA-chatGPT.jpg?itok=u9Cuspjv">
+<meta property="twitter:image" content="https://www.sciencepresse.qc.ca/sites/default/files/styles/og_image/public/2023-05/IA-chatGPT.jpg?itok=u9Cuspjv">
+<link rel="icon" href="/themes/custom/asp/favicon.ico" type="image/vnd.microsoft.icon">
+<link rel="canonical" href="https://www.sciencepresse.qc.ca/actualite/2023/10/19/quand-scientifiques-preferent-jugements-chatgpt">
+<link rel="shortlink" href="https://www.sciencepresse.qc.ca/node/16917">
+<script src="/sites/default/files/google_tag/initial/google_tag.script.js?s6j848" defer></script>
+
+    <title>Quand des scientifiques pr&eacute;f&egrave;rent les jugements de ChatGPT | Agence Science-Presse</title>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_th-sKGg7AsleN5QS-y7xidMApptU2yOf_E7w3AqUWAc.css?delta=0&amp;language=fr&amp;theme=asp&amp;include=eJxdj2uOwzAIhC9kxUeKsE0dtk5AgNNkT7-td1NV-wd9w0MzZFaMRbtAm0S5KpoF-IJjbgwFNX7w5ItySqjBTnNcYwLDoFDoiOZnuzgxu7mCXLOsJB7AJNYbb24DMyh3wzaEsHQZtHKihitufcjnAubf2wbf54Bhi4c32u5X9j85HBmy005-RleqFdWCcSZo84qF4HVPOQgo1GfIxd7_vztT36SnRrZgCfdHmT-Wb-Q7FfvfHqF2wofFUaeVS2_4Ay3biP4">
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_YoDTRL8qosZlXi91bW_7mSiQ6lTRUTBDFyVy7wQ0UCU.css?delta=1&amp;language=fr&amp;theme=asp&amp;include=eJxdj2uOwzAIhC9kxUeKsE0dtk5AgNNkT7-td1NV-wd9w0MzZFaMRbtAm0S5KpoF-IJjbgwFNX7w5ItySqjBTnNcYwLDoFDoiOZnuzgxu7mCXLOsJB7AJNYbb24DMyh3wzaEsHQZtHKihitufcjnAubf2wbf54Bhi4c32u5X9j85HBmy005-RleqFdWCcSZo84qF4HVPOQgo1GfIxd7_vztT36SnRrZgCfdHmT-Wb-Q7FfvfHqF2wofFUaeVS2_4Ay3biP4">
+<link rel="stylesheet" media="all" href="//fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&amp;display=swap">
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_pYmE_tTbodQvDEpuFCB9KqhGEA-WIW-7I986dOrjG4A.css?delta=3&amp;language=fr&amp;theme=asp&amp;include=eJxdj2uOwzAIhC9kxUeKsE0dtk5AgNNkT7-td1NV-wd9w0MzZFaMRbtAm0S5KpoF-IJjbgwFNX7w5ItySqjBTnNcYwLDoFDoiOZnuzgxu7mCXLOsJB7AJNYbb24DMyh3wzaEsHQZtHKihitufcjnAubf2wbf54Bhi4c32u5X9j85HBmy005-RleqFdWCcSZo84qF4HVPOQgo1GfIxd7_vztT36SnRrZgCfdHmT-Wb-Q7FfvfHqF2wofFUaeVS2_4Ay3biP4">
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_0UGhYoLzVgavz2ZZV1HSX7fuMIR6pUA1wIlwQFC1jZQ.css?delta=4&amp;language=fr&amp;theme=asp&amp;include=eJxdj2uOwzAIhC9kxUeKsE0dtk5AgNNkT7-td1NV-wd9w0MzZFaMRbtAm0S5KpoF-IJjbgwFNX7w5ItySqjBTnNcYwLDoFDoiOZnuzgxu7mCXLOsJB7AJNYbb24DMyh3wzaEsHQZtHKihitufcjnAubf2wbf54Bhi4c32u5X9j85HBmy005-RleqFdWCcSZo84qF4HVPOQgo1GfIxd7_vztT36SnRrZgCfdHmT-Wb-Q7FfvfHqF2wofFUaeVS2_4Ay3biP4">
+
+    
+</head>
+<body class="role-anonymous role-not-administrator path--node page--article">
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PTW5WCH" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<a href="#main-content" class="visually-hidden focusable">
+  Aller au contenu principal
+</a>
+  <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+<div class="page-wrapper">
+
+  <div class="header region clearfix">
+      <div class="block block--entete">
+  
+    
+  <div class="block__content">
+          
+
+<div class="block container">
+
+  <div class="header-left">
+
+    <a href="/" title="Accueil">
+      <img src="/modules/custom/kiwad_blocks/img/ASP_45a_VF2.svg" alt="Accueil" class="logo">
+    </a>
+
+
+  </div>
+
+  
+    <div class="header-right">
+
+      <div id="newsletter-popup" class="light-popup rounded mfp-hide">
+        <div class="inner">
+
+          <h2 class="h4 mt-0">Abonnez-vous &agrave; notre infolettre!</h2>
+          <p class="small">Pour ne rien rater de l'actualit&eacute; scientifique et tout savoir sur nos efforts pour lutter contre les fausses nouvelles et la d&eacute;sinformation!</p>
+
+          <form action="//sciencepresse.us9.list-manage.com/subscribe/post?u=237223dbd0094581cef629c61&amp;id=9ab02afbe7" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate mt-4" target="_blank">
+            <div class="row">
+              <div class="col-md-8">
+                <label class="visually-hidden" for="mce-EMAIL">Courriel</label>
+                <input class="required email input-field-full-white mt-3" type="email" value="" name="EMAIL" id="mce-EMAIL" required placeholder="Votre courriel">
+              </div>
+              <div class="col-md-4">
+                <div style="position: absolute; left: -5000px;" aria-hidden="true">
+                  <input type="text" name="b_237223dbd0094581cef629c61_9ab02afbe7" tabindex="-1" value="">
+                </div>
+                <input type="submit" value="Je m'abonne" name="subscribe" id="mc-embedded-subscribe" class="mt-3 btn btn-primary btn-full">
+              </div>
+            </div>
+          </form>
+
+        </div>
+      </div>
+
+      <a href="#" data-mfp-src="#newsletter-popup" class="newsletter popup" title="Abonnez-vous">
+        <i aria-hidden="true" class="fa fa-envelope-o"></i>
+        <span>Abonnez-vous</span>
+      </a>
+
+      <a href="/recherche" class="research" title="Recherche">
+        <i aria-hidden="true" class="fa fa-search"></i>
+        <span>Rechercher</span>
+      </a>
+
+      <button class="mobile-menu-button" title="Menu">
+        <i aria-hidden="true" class="fa fa-bars"></i>
+        <span>Menu</span>
+      </button>
+
+      <a href="/soutien" target="_blank" class="btn btn-fg ml-3 donate" title="Pour soutenir le journalisme scientifique et la lutte contre la d&eacute;sinformation">
+        <i aria-hidden="true" class="fa fa-heart scale-2 mb-2"></i><br>
+        <span>Je donne</span>
+      </a>
+
+    </div>
+
+  
+</div>
+
+      </div>
+</div>
+
+
+      </div>
+
+      <div class="sub-menu region">
+      <div class="inner">
+          <nav class="block block--menu block--asp-main-menu" role="navigation" aria-labelledby="block-asp-main-menu-menu">
+  
+  
+      
+              <ul class="nav navbar-nav">
+                                                                      <li class="lilink--actualites">
+            <i class="fa fa-chevron-right"></i>
+            <a href="/actualites" data-drupal-link-system-path="taxonomy/term/120">Actualit&eacute;s</a>
+                  </li>
+                                                                  <li class="lilink--detecteur-rumeurs">
+            <i class="fa fa-chevron-right"></i>
+            <a href="/detecteur-rumeurs" data-drupal-link-system-path="taxonomy/term/510">D&eacute;tecteur de rumeurs</a>
+                  </li>
+                                                                  <li class="lilink--education-aux-medias-information">
+            <i class="fa fa-chevron-right"></i>
+            <a href="/education-aux-medias-information" data-drupal-link-system-path="node/14918">&Eacute;ducation aux m&eacute;dias et &agrave; l'information</a>
+                  </li>
+                                                                  <li class="lilink--zone-radio">
+            <i class="fa fa-chevron-right"></i>
+            <a href="/zone_radio">Zone Balado et Je vote pour la science</a>
+                  </li>
+                                                                  <li class="lilink--zone-video">
+            <i class="fa fa-chevron-right"></i>
+            <a href="/zone_video" data-drupal-link-system-path="node/14904">Zone Vid&eacute;o</a>
+                  </li>
+                                                                  <li class="lilink--nos-services">
+            <i class="fa fa-chevron-right"></i>
+            <a href="/nos-services" title="Services de l'ASP" data-drupal-link-system-path="node/14924">Formations et services</a>
+                  </li>
+                                                                  <li class="lilink--blogues">
+            <i class="fa fa-chevron-right"></i>
+            <a href="/blogues" data-drupal-link-system-path="taxonomy/term/121">Blogues</a>
+                  </li>
+                                                                  <li class="lilink--equipe">
+            <i class="fa fa-chevron-right"></i>
+            <a href="/equipe" data-drupal-link-system-path="node/13611">&Eacute;quipe</a>
+                  </li>
+                                                                  <li class="lilink--agence">
+            <i class="fa fa-chevron-right"></i>
+            <a href="/agence" data-drupal-link-system-path="node/2">&Agrave; propos</a>
+                  </li>
+          </ul>
+  
+
+
+  </nav>
+
+
+          <div class="block block--entete">
+  
+    
+  <div class="block__content">
+          
+
+<div class="block container">
+
+  <div class="header-left">
+
+    <a href="/" title="Accueil">
+      <img src="/modules/custom/kiwad_blocks/img/ASP_45a_VF2.svg" alt="Accueil" class="logo">
+    </a>
+
+
+  </div>
+
+  
+    <div class="header-right">
+
+      <div id="newsletter-popup" class="light-popup rounded mfp-hide">
+        <div class="inner">
+
+          <h2 class="h4 mt-0">Abonnez-vous &agrave; notre infolettre!</h2>
+          <p class="small">Pour ne rien rater de l'actualit&eacute; scientifique et tout savoir sur nos efforts pour lutter contre les fausses nouvelles et la d&eacute;sinformation!</p>
+
+          <form action="//sciencepresse.us9.list-manage.com/subscribe/post?u=237223dbd0094581cef629c61&amp;id=9ab02afbe7" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate mt-4" target="_blank">
+            <div class="row">
+              <div class="col-md-8">
+                <label class="visually-hidden" for="mce-EMAIL">Courriel</label>
+                <input class="required email input-field-full-white mt-3" type="email" value="" name="EMAIL" id="mce-EMAIL" required placeholder="Votre courriel">
+              </div>
+              <div class="col-md-4">
+                <div style="position: absolute; left: -5000px;" aria-hidden="true">
+                  <input type="text" name="b_237223dbd0094581cef629c61_9ab02afbe7" tabindex="-1" value="">
+                </div>
+                <input type="submit" value="Je m'abonne" name="subscribe" id="mc-embedded-subscribe" class="mt-3 btn btn-primary btn-full">
+              </div>
+            </div>
+          </form>
+
+        </div>
+      </div>
+
+      <a href="#" data-mfp-src="#newsletter-popup" class="newsletter popup" title="Abonnez-vous">
+        <i aria-hidden="true" class="fa fa-envelope-o"></i>
+        <span>Abonnez-vous</span>
+      </a>
+
+      <a href="/recherche" class="research" title="Recherche">
+        <i aria-hidden="true" class="fa fa-search"></i>
+        <span>Rechercher</span>
+      </a>
+
+      <button class="mobile-menu-button" title="Menu">
+        <i aria-hidden="true" class="fa fa-bars"></i>
+        <span>Menu</span>
+      </button>
+
+      <a href="/soutien" target="_blank" class="btn btn-fg ml-3 donate" title="Pour soutenir le journalisme scientifique et la lutte contre la d&eacute;sinformation">
+        <i aria-hidden="true" class="fa fa-heart scale-2 mb-2"></i><br>
+        <span>Je donne</span>
+      </a>
+
+    </div>
+
+  
+</div>
+
+      </div>
+</div>
+
+
+      </div>
+    </div>
+  
+      <div class="content-sus region">
+                <div class="block block--asp-page-title">
+  
+    
+  <div class="block__content container">
+          
+    <div class="page-header">
+   <h1 class="page-title">
+<span>Quand des scientifiques pr&eacute;f&egrave;rent les jugements de ChatGPT</span>
+</h1>
+  </div>
+
+
+      </div>
+</div>
+
+  
+
+
+<div class="article-head-wrapper">
+    <div class="block block--articlehead bgimage article--text-over-img" style="background: url(https://www.sciencepresse.qc.ca/sites/default/files/styles/full_width/public/2023-05/IA-chatGPT.jpg?itok=KxpJUFK8) no-repeat scroll center center transparent; background-size: cover;">
+
+    <div class="legende"><span>Domenico Fornas / Dreamstime</span></div>
+
+    <div class="container">
+      <div class="article-infos">
+
+                  <div class="category exp--category category-6">
+            <a href="/technologie">Technologie</a>
+                                                </div>
+        
+
+        <h1 class="page-title" property="schema:name">Quand des scientifiques pr&eacute;f&egrave;rent les jugements de ChatGPT</h1>
+
+                  <div class="author exp--author"><a href="/user/132">Agence Science-Presse</a></div><div class="time exp--time">Jeudi 19 octobre 2023</div>                          <div class="article-meta-tags exp--tags"><div class="field__item"><a href="/taxonomy/term/391">Intelligence artificielle</a></div></div>
+              </div>
+    </div>
+
+    
+      <div class="btn btn-magnifique" data-gallery='[{"src":"https:\/\/www.sciencepresse.qc.ca\/sites\/default\/files\/styles\/popup\/public\/2023-05\/IA-chatGPT.jpg?itok=nufNImjC","title":"&lt;div&gt;Domenico Fornas \/ Dreamstime&lt;\/div&gt;","alt":"IA-chatGPT.jpg"}]'>
+        <i class="fa fa-expand" aria-hidden="true"></i>
+                  <span>Agrandir l'image</span>
+              </div>
+
+    
+    
+  </div>
+
+</div>
+
+
+<nav class="block block--menu bg-dark block--navigationprincipale" role="navigation" aria-labelledby="block-navigationprincipale-menu">
+  <div class="container">
+    
+    
+          
+              <ul class="nav navbar-nav">
+                                                                      <li class="lilink--actualites">
+            <i class="fa fa-chevron-right"></i>
+            <a href="/actualites" data-drupal-link-system-path="taxonomy/term/120">Actualit&eacute;s</a>
+                  </li>
+                                                                  <li class="lilink--detecteur-rumeurs">
+            <i class="fa fa-chevron-right"></i>
+            <a href="/detecteur-rumeurs" data-drupal-link-system-path="taxonomy/term/510">D&eacute;tecteur de rumeurs</a>
+                  </li>
+                                                                                                                <li class="dropdown lilink--education-aux-medias-information">
+            <i class="fa fa-chevron-right"></i>
+            <a href="/education-aux-medias-information" data-drupal-link-system-path="node/14918">&Eacute;ducation aux m&eacute;dias et &agrave; l'information</a>
+                                    <ul>
+                                                                      <li class="lilink--nos-ateliers-formation">
+            <i class="fa fa-chevron-right"></i>
+            <a href="/nos-ateliers-formation" data-drupal-link-system-path="node/14917">Nos formations</a>
+                  </li>
+                                                                  <li class="lilink--outils-et-ressources">
+            <i class="fa fa-chevron-right"></i>
+            <a href="/outils-et-ressources" data-drupal-link-system-path="node/14921">Outils et ressources</a>
+                  </li>
+                                                                  <li class="lilink--zone-video">
+            <i class="fa fa-chevron-right"></i>
+            <a href="/zone_video" data-drupal-link-system-path="node/14904">Zone vid&eacute;o</a>
+                  </li>
+                                                                  <li class="lilink--lutte-desinformation">
+            <i class="fa fa-chevron-right"></i>
+            <a href="/lutte_desinformation" data-drupal-link-system-path="taxonomy/term/643">Lutte contre la d&eacute;sinformation</a>
+                  </li>
+          </ul>
+  
+                  </li>
+                                                                                                                <li class="dropdown lilink--zone-radio">
+            <i class="fa fa-chevron-right"></i>
+            <a href="/zone_radio">Zone Balado et Je vote pour la science</a>
+                                    <ul>
+                                                                      <li class="lilink--balado-detecteur-rumeurs">
+            <i class="fa fa-chevron-right"></i>
+            <a href="/balado-detecteur-rumeurs" data-drupal-link-system-path="node/16586">Le balado du D&eacute;tecteur de rumeurs</a>
+                  </li>
+                                                                  <li class="lilink--je-vote-pour-la-science">
+            <i class="fa fa-chevron-right"></i>
+            <a href="/je-vote-pour-la-science" data-drupal-link-system-path="node/14953">Je vote pour la science</a>
+                  </li>
+                                                                  <li class="lilink--nuances">
+            <i class="fa fa-chevron-right"></i>
+            <a href="/nuances" data-drupal-link-system-path="node/16293">Balado | Nuances</a>
+                  </li>
+                                                                  <li class="lilink--balado-depister-desinfo">
+            <i class="fa fa-chevron-right"></i>
+            <a href="/balado-depister-desinfo" data-drupal-link-system-path="node/15473">Balado | D&eacute;pister la d&eacute;sinfo</a>
+                  </li>
+          </ul>
+  
+                  </li>
+                                                                                                                <li class="dropdown lilink--zone-video">
+            <i class="fa fa-chevron-right"></i>
+            <a href="/zone_video" data-drupal-link-system-path="node/14904">Zone Vid&eacute;o</a>
+                                    <ul>
+                                                                      <li class="lilink--vraimentvrai-info">
+            <i class="fa fa-chevron-right"></i>
+            <a href="/vraimentvrai-info" title="Une s&eacute;rie de 4 capsules vid&eacute;o avec des journalistes sp&eacute;cialis&eacute;s en d&eacute;sinformation ou en science qui partagent leurs r&eacute;flexions sur leur m&eacute;tier et des trucs pour v&eacute;rifier l&rsquo;information." data-drupal-link-system-path="node/15425">#VraimentVrai - Comment v&eacute;rifier l'information</a>
+                  </li>
+                                                                  <li class="lilink--anatomie-fausses-nouvelles">
+            <i class="fa fa-chevron-right"></i>
+            <a href="/anatomie-fausses-nouvelles" title="ADFN" data-drupal-link-system-path="node/14906">Anatomie des fausses nouvelles</a>
+                  </li>
+                                                                  <li class="lilink--dejouer-raccourcis-mentaux-humoriste-louis">
+            <i class="fa fa-chevron-right"></i>
+            <a href="/dejouer-raccourcis-mentaux-humoriste-louis" title="Une s&eacute;rie de 5 capsules sur les raccourcis mentaux avec l'humoriste Louis T" data-drupal-link-system-path="node/15008">D&eacute;jouer les raccourcis mentaux - Avec l'humoriste Louis T!</a>
+                  </li>
+                                                                  <li class="lilink--veut-faits">
+            <i class="fa fa-chevron-right"></i>
+            <a href="/veut-faits" data-drupal-link-system-path="node/16259">On veut des faits!</a>
+                  </li>
+                                                                  <li class="lilink--verifie">
+            <i class="fa fa-chevron-right"></i>
+            <a href="/verifie" data-drupal-link-system-path="node/15214">V&eacute;rifi&eacute;!</a>
+                  </li>
+                                                                  <li class="lilink--anatomie-fausses-nouvelles-politique">
+            <i class="fa fa-chevron-right"></i>
+            <a href="/anatomie-fausses-nouvelles-politique" data-drupal-link-system-path="node/15090">Anatomie des fausses nouvelles | Politique</a>
+                  </li>
+          </ul>
+  
+                  </li>
+                                                                  <li class="lilink--nos-services">
+            <i class="fa fa-chevron-right"></i>
+            <a href="/nos-services" title="Services de l'ASP" data-drupal-link-system-path="node/14924">Formations et services</a>
+                  </li>
+                                                                  <li class="lilink--blogues">
+            <i class="fa fa-chevron-right"></i>
+            <a href="/blogues" data-drupal-link-system-path="taxonomy/term/121">Blogues</a>
+                  </li>
+                                                                  <li class="lilink--equipe">
+            <i class="fa fa-chevron-right"></i>
+            <a href="/equipe" data-drupal-link-system-path="node/13611">&Eacute;quipe</a>
+                  </li>
+                                                                                                                <li class="dropdown lilink--agence">
+            <i class="fa fa-chevron-right"></i>
+            <a href="/agence" data-drupal-link-system-path="node/2">&Agrave; propos</a>
+                                    <ul>
+                                                                      <li class="lilink--rapports-annuels">
+            <i class="fa fa-chevron-right"></i>
+            <a href="/rapports-annuels" data-drupal-link-system-path="node/16459">Rapports d'activit&eacute;s et &eacute;tats financiers</a>
+                  </li>
+          </ul>
+  
+                  </li>
+          </ul>
+  
+
+
+      </div>
+</nav>
+
+
+          </div>
+  
+
+    
+    
+              <main class="content region" role="main">
+      
+                    <div data-drupal-messages-fallback class="hidden"></div>
+  
+<article class="node article article--promoted article--full container">
+
+  <div class="d-print">
+    <img src="https://www.sciencepresse.qc.ca/sites/default/files/styles/large_16_9/public/2023-05/IA-chatGPT.jpg?itok=80jDBLWi" alt="IA-chatGPT.jpg">
+  </div>
+
+  <div class="article-chapeau">
+    
+            <div class="article__field-chapeau"><p>L&rsquo;intelligence artificielle pourrait-elle un jour r&eacute;viser les articles scientifiques, voire faire ce que l&rsquo;on appelle de la r&eacute;vision par les pairs? Pour l&rsquo;instant, les premiers scientifiques test&eacute;s &agrave; ce sujet pr&eacute;f&egrave;rent les jugements de ChatGPT &agrave; ceux de leurs coll&egrave;gues.&nbsp;</p>
+</div>
+      
+    
+  </div>
+    <div class="articles-suggestions mb-4 mt-5">
+    <h2 class="h5 mt-0 text-uppercase">&Agrave; lire &eacute;galement</h2>
+    
+      <div class="article__field-articles-ref">
+              <div class="field__item">
+<article class="node node--id-16484 article article--promoted article--sticky article--lean result-content">
+  <a href="/actualite/2023/01/24/chatgpt-capacite-ia-renforcer-desinformation" rel="bookmark">
+<span>ChatGPT: la capacit&eacute; de l&rsquo;IA &agrave; renforcer la d&eacute;sinformation</span>
+</a>
+  <div class="small text-muted">Mardi 24 janvier 2023</div>
+</article>
+</div>
+              <div class="field__item">
+<article class="node node--id-16477 article article--promoted article--sticky article--lean result-content">
+  <a href="/actualite/2023/01/19/accumulation-connaissances-mur-attend-chatgpt" rel="bookmark">
+<span>Accumulation de connaissances: le mur qui attend ChatGPT</span>
+</a>
+  <div class="small text-muted">Jeudi 19 janvier 2023</div>
+</article>
+</div>
+          </div>
+  
+  </div>
+    <div class="articles-ref">
+  
+  </div>
+  <div class="node__content">
+
+    <div class="exp--body">
+      
+      <div class="article__field-corps">
+              <div class="field__item">
+
+
+
+
+<div class="paragraph paragraph--type--kwdpara-text paragraph--view-mode--default paragraph--id--3725 clearfix kwdpara-padding- kwdpara-bgcolor-">
+    <div class="container">
+      
+            <div class="kwdpara-text__field-kwdpara-text"><p>Rappelons qu&rsquo;il s&rsquo;agit d&rsquo;une partie fondamentale du processus par lequel se construit le savoir scientifique: qu&rsquo;il s&rsquo;agisse d&rsquo;une pr&eacute;sum&eacute;e d&eacute;couverte, d&rsquo;une hypoth&egrave;se, d&rsquo;une affirmation, <a href="https://www.sciencepresse.qc.ca/actualite/covid-19-depister-desinfo/2020/05/08/parle-etude-scientifique-voici-8-questions-poser">tout cela doit &ecirc;tre &eacute;tay&eacute; par une recherche publi&eacute;e</a>. Et id&eacute;alement, cette recherche devrait avoir &eacute;t&eacute; r&eacute;vis&eacute;e par d&rsquo;autres experts du domaine avant d&rsquo;&ecirc;tre publi&eacute;e. C&rsquo;est ce que d&eacute;signe l&rsquo;expression &laquo;&nbsp;r&eacute;vision par les pairs&nbsp;&raquo;.&nbsp;</p>
+
+<p>Or, celle-ci a ses limites: il faut trouver des experts capables de comprendre ce dont parle la recherche, et il faut que ces experts aient le temps. Il s&rsquo;&eacute;coule traditionnellement des mois entre le moment o&ugrave; un chercheur soumet un article &agrave; une revue scientifique, et le moment de la publication.&nbsp;</p>
+
+<html><body><div class="clearfix">
+  <div class="bg-lighter spread rounded my-5">
+    <div class="inner py-5">
+
+      <h2 class="h4 mt-0">Abonnez-vous &agrave; notre infolettre!</h2>
+      <p class="small">Pour ne rien rater de l'actualit&eacute; scientifique et tout savoir sur nos efforts pour lutter contre les fausses nouvelles et la d&eacute;sinformation!</p>
+
+      <form action="//sciencepresse.us9.list-manage.com/subscribe/post?u=237223dbd0094581cef629c61&amp;id=9ab02afbe7" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate mt-4" target="_blank">
+        <div class="row">
+          <div class="col-md-8">
+            <label class="visually-hidden" for="mce-EMAIL">Courriel</label>
+            <input class="required email input-field-full-white mt-3" type="email" value="" name="EMAIL" id="mce-EMAIL" required placeholder="Votre courriel">
+          </div>
+          <div class="col-md-4">
+            <div style="position: absolute; left: -5000px;" aria-hidden="true">
+              <input type="text" name="b_237223dbd0094581cef629c61_9ab02afbe7" tabindex="-1" value="">
+            </div>
+            <input type="submit" value="Je m'abonne" name="subscribe" id="mc-embedded-subscribe" class="mt-3 btn btn-primary btn-full">
+          </div>
+        </div>
+      </form>
+
+      
+
+    </div>
+  </div>
+</div>
+</body></html><p>ChatGPT pourrait-il remplacer les r&eacute;viseurs humains? C&rsquo;est ce qu&rsquo;ont voulu tester des chercheurs dirig&eacute;s par James Zou, expert en apprentissage-machine &agrave; l&rsquo;Universit&eacute; Stanford, en Californie. Ils ont demand&eacute; &agrave; ChatGPT-4 de fournir &laquo;&nbsp;une critique constructive&nbsp;&raquo; de plus de 3000 &eacute;tudes publi&eacute;es en 2022-2023 par une des revues du groupe Nature (donc, r&eacute;vis&eacute;es par des pairs), et de 1700 articles d&rsquo;un congr&egrave;s mondial sur l&rsquo;apprentissage-machine (<a href="https://iclr.cc/">International Conference on Learning Representations</a>). Et ils ont compar&eacute; les critiques des robots avec celles des humains. Dans un deuxi&egrave;me temps, ils ont demand&eacute; la m&ecirc;me chose &agrave; ChatGPT pour quelques centaines d&rsquo;articles qui n&rsquo;avaient pas &eacute;t&eacute; r&eacute;vis&eacute;s par qui que ce soit et ont demand&eacute; &agrave; environ 300 de leurs auteurs (tous dans le domaine de l&rsquo;intelligence artificielle ou de l'informatique) d&rsquo;&eacute;valuer la critique du robot &agrave; leur endroit.</p>
+
+<p>Dans le r&eacute;sum&eacute;, <a href="https://arxiv.org/abs/2310.01783">qui a &eacute;t&eacute; pr&eacute;publi&eacute;</a> le 3 octobre sur le serveur ArXiv (ce qui veut dire, ironiquement, qu&rsquo;il n&rsquo;a pas &eacute;t&eacute; r&eacute;vis&eacute; par les pairs), ils &eacute;crivent tout d&rsquo;abord que pour plus de la moiti&eacute; des textes publi&eacute;s et pour plus des trois quarts (77%) des textes du congr&egrave;s, le robot signalait des choses qui l&rsquo;&eacute;taient aussi par au moins un des r&eacute;viseurs. Mais le r&eacute;sultat le plus fort est du c&ocirc;t&eacute; des textes non-publi&eacute;s et non-r&eacute;vis&eacute;s: 82% des auteurs ont dit juger la critique de ChatGPT plus utile que des critiques re&ccedil;ues dans le pass&eacute; sur d&rsquo;autres recherches.&nbsp;</p>
+
+<p><a href="https://www.newscientist.com/article/2398051-scientists-prefer-feedback-from-chatgpt-to-judgement-by-peers/">Le travail fait toutefois face &agrave; d'importants b&eacute;mols</a>: dans la deuxi&egrave;me partie de la recherche, l&rsquo;&eacute;valuation des chercheurs quant &agrave; la critique que leur a faite le robot est purement subjective et elle ne permet pas de comparer avec la critique qu&rsquo;aurait fait un humain du m&ecirc;me travail. Quant &agrave; la premi&egrave;re partie de la recherche, elle donne peu de d&eacute;tails sur ce que sont ces informations que ChatGPT n&rsquo;a pas rep&eacute;r&eacute;es, mais que les humains, eux, avaient signal&eacute;es. Il reste &agrave; voir <a href="https://www.news-medical.net/news/20231009/Can-AI-outshine-human-experts-in-reviewing-scientific-papers.aspx">si des revues scientifiques pourraient se satisfaire de ces r&eacute;visions par IA</a>&nbsp;sans avoir l&rsquo;assurance que le robot n&rsquo;a pas &laquo;&nbsp;oubli&eacute;&nbsp;&raquo; quelque chose d&rsquo;important &mdash;mais ce questionnement existe aussi dans la vraie r&eacute;vision par les pairs, qui est loin d&rsquo;&ecirc;tre infaillible.</p>
+</div>
+      
+    </div>
+</div>
+
+
+</div>
+          </div>
+  
+      
+    </div>
+
+    
+
+  </div>
+
+  <div class="block">
+  
+    
+  <div class="block__content">
+          
+
+<div class="social-media-sharing">
+  <ul class="">
+                    <li>
+        <a target="_blank" rel="noopener noreferrer" class="facebook-share share" href="https://www.facebook.com/share.php?u=https://www.sciencepresse.qc.ca/actualite/2023/10/19/quand-scientifiques-preferent-jugements-chatgpt&amp;title=Quand%20des%20scientifiques%20pr%C3%A9f%C3%A8rent%20les%20jugements%20de%20ChatGPT" title="Facebook">
+                      <img alt="Facebook" src="https://www.sciencepresse.qc.ca/modules/contrib/social_media/icons/facebook_share.svg">
+                  </a>
+
+      </li>
+                <li>
+        <a target="_blank" rel="noopener noreferrer" class="linkedin share" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.sciencepresse.qc.ca/actualite/2023/10/19/quand-scientifiques-preferent-jugements-chatgpt&amp;title=Quand%20des%20scientifiques%20pr%C3%A9f%C3%A8rent%20les%20jugements%20de%20ChatGPT&amp;source=https://www.sciencepresse.qc.ca/actualite/2023/10/19/quand-scientifiques-preferent-jugements-chatgpt" title="LinkedIn">
+                      <img alt="LinkedIn" src="https://www.sciencepresse.qc.ca/modules/contrib/social_media/icons/linkedin.svg">
+                  </a>
+
+      </li>
+                <li>
+        <a target="_blank" rel="noopener noreferrer" class="twitter share" href="https://twitter.com/intent/tweet?url=https://www.sciencepresse.qc.ca/actualite/2023/10/19/quand-scientifiques-preferent-jugements-chatgpt&amp;text=Quand%20des%20scientifiques%20pr%C3%A9f%C3%A8rent%20les%20jugements%20de%20ChatGPT" title="Twitter">
+                      <img alt="Twitter" src="https://www.sciencepresse.qc.ca/modules/contrib/social_media/icons/twitter.svg">
+                  </a>
+
+      </li>
+                <li>
+        <a class="whatsapp show-for-small-only share" href="https://wa.me/?text=https://www.sciencepresse.qc.ca/actualite/2023/10/19/quand-scientifiques-preferent-jugements-chatgpt" title="">
+                      <img alt="" src="https://www.sciencepresse.qc.ca/modules/contrib/social_media/icons/whatsapp.svg">
+                  </a>
+
+      </li>
+                <li>
+        <a class="email share" href="mailto:?subject=Quand%20des%20scientifiques%20pr%C3%A9f%C3%A8rent%20les%20jugements%20de%20ChatGPT&amp;body=Je%20te%20recommande%20cet%20article%20https://www.sciencepresse.qc.ca/actualite/2023/10/19/quand-scientifiques-preferent-jugements-chatgpt" title="Courriel">
+                      <img alt="Courriel" src="https://www.sciencepresse.qc.ca/modules/contrib/social_media/icons/email.svg">
+                  </a>
+
+      </li>
+                <li>
+        <a class="print share" onclick="window.print()" title="Imprimer">
+                      <img alt="Imprimer" src="https://www.sciencepresse.qc.ca/modules/contrib/social_media/icons/print.svg">
+                  </a>
+
+      </li>
+      </ul>
+</div>
+
+
+      </div>
+</div>
+
+
+  <div class="my-4 block">
+  
+    
+  <div class="block__content">
+          <div class="spread-full rounded" style="background-color:#000000"><a href="/soutien" class="d-block"><picture><source media="(max-width: 768px)" srcset="/modules/custom/kiwad_blocks/img/Bandeau_45a_11.png?2" height="1440" width="1440"><img src="/modules/custom/kiwad_blocks/img/Bandeau_45a_3333_1.png?2" height="460" width="1840" alt="Je donne" class="img-fluid img-rounded" style="height: auto;"></source></picture></a></div>
+
+      </div>
+</div>
+
+
+  <div class="article-footer clearfix">
+      </div>
+
+  <div class="mt-5 block">
+  
+    
+  <div class="block__content">
+          <h3>Vous aimerez aussi</h3><ol class="ol-fat-numbers"><li>
+
+<article class="node node--id-16985 row article article--promoted article--media-content">
+
+  <div class="col-xs-4">
+    <div class="aspect-ratio aspect-ratio-16-9 aspect-ratio-zoom-fx rounded">
+
+      <a href="/actualite/2023/11/28/ia-peut-aussi-fabriquer-donnees-trompeuses" class="bg-img lazy" data-bg="https://www.sciencepresse.qc.ca/sites/default/files/styles/small_16_9/public/2023-05/IA-chatGPT.jpg?itok=TjlSAwu8">
+        <div class="d-print">
+          <img src="https://www.sciencepresse.qc.ca/sites/default/files/styles/small_16_9/public/2023-05/IA-chatGPT.jpg?itok=TjlSAwu8" alt="IA-chatGPT.jpg">
+        </div>
+              </a>
+
+    </div>
+  </div>
+
+  <div class="col-xs-8">
+    <a href="/actualite/2023/11/28/ia-peut-aussi-fabriquer-donnees-trompeuses" class="link-dark font-weight-bold">
+<span>L&rsquo;IA peut aussi fabriquer des donn&eacute;es trompeuses</span>
+</a>
+    <div class="small text-muted">Mardi 28 novembre 2023</div>
+  </div>
+</article>
+</li><li>
+
+<article class="node node--id-16890 row article article--promoted article--media-content">
+
+  <div class="col-xs-4">
+    <div class="aspect-ratio aspect-ratio-16-9 aspect-ratio-zoom-fx rounded">
+
+      <a href="/actualite/2023/10/02/scientifiques-face-ia-optimistes-pessimistes" class="bg-img lazy" data-bg="https://www.sciencepresse.qc.ca/sites/default/files/styles/small_16_9/public/2023-05/IA-chatGPT.jpg?itok=TjlSAwu8">
+        <div class="d-print">
+          <img src="https://www.sciencepresse.qc.ca/sites/default/files/styles/small_16_9/public/2023-05/IA-chatGPT.jpg?itok=TjlSAwu8" alt="IA-chatGPT.jpg">
+        </div>
+              </a>
+
+    </div>
+  </div>
+
+  <div class="col-xs-8">
+    <a href="/actualite/2023/10/02/scientifiques-face-ia-optimistes-pessimistes" class="link-dark font-weight-bold">
+<span>Les scientifiques face &agrave; l&rsquo;IA: optimistes ou pessimistes?</span>
+</a>
+    <div class="small text-muted">Lundi 2 octobre 2023</div>
+  </div>
+</article>
+</li><li>
+
+<article class="node node--id-16882 row article article--promoted article--media-content">
+
+  <div class="col-xs-4">
+    <div class="aspect-ratio aspect-ratio-16-9 aspect-ratio-zoom-fx rounded">
+
+      <a href="/actualite/2023/09/28/ia-conseillere-scientifique" class="bg-img lazy" data-bg="https://www.sciencepresse.qc.ca/sites/default/files/styles/small_16_9/public/2022-07/BigData.jpg?itok=TXDH7klx">
+        <div class="d-print">
+          <img src="https://www.sciencepresse.qc.ca/sites/default/files/styles/small_16_9/public/2022-07/BigData.jpg?itok=TXDH7klx" alt="BigData.jpg">
+        </div>
+              </a>
+
+    </div>
+  </div>
+
+  <div class="col-xs-8">
+    <a href="/actualite/2023/09/28/ia-conseillere-scientifique" class="link-dark font-weight-bold">
+<span>L&rsquo;IA, une conseill&egrave;re scientifique?</span>
+</a>
+    <div class="small text-muted">Jeudi 28 septembre 2023</div>
+  </div>
+</article>
+</li><li>
+
+<article class="node node--id-16861 row article article--promoted article--sticky article--media-content">
+
+  <div class="col-xs-4">
+    <div class="aspect-ratio aspect-ratio-16-9 aspect-ratio-zoom-fx rounded">
+
+      <a href="/actualite/detecteur-rumeurs/2023/09/19/intelligence-artificielle-sexiste-raciste" class="bg-img lazy" data-bg="https://www.sciencepresse.qc.ca/sites/default/files/styles/small_16_9/public/2023-09/IA-justice-biais.jpg?itok=qHZwXNdz">
+        <div class="d-print">
+          <img src="https://www.sciencepresse.qc.ca/sites/default/files/styles/small_16_9/public/2023-09/IA-justice-biais.jpg?itok=qHZwXNdz" alt="IA-justice-biais.jpg">
+        </div>
+              </a>
+
+    </div>
+  </div>
+
+  <div class="col-xs-8">
+    <a href="/actualite/detecteur-rumeurs/2023/09/19/intelligence-artificielle-sexiste-raciste" class="link-dark font-weight-bold">
+<span>L&rsquo;intelligence artificielle est-elle sexiste et raciste?</span>
+</a>
+    <div class="small text-muted">Mardi 19 septembre 2023</div>
+  </div>
+</article>
+</li><li>
+
+<article class="node node--id-16829 row article article--promoted article--media-content">
+
+  <div class="col-xs-4">
+    <div class="aspect-ratio aspect-ratio-16-9 aspect-ratio-zoom-fx rounded">
+
+      <a href="/actualite/2023/08/30/chatgpt-lignes-code-pour-contourner-regles" class="bg-img lazy" data-bg="https://www.sciencepresse.qc.ca/sites/default/files/styles/small_16_9/public/2020-02/ordinateur-code.jpg?itok=Y-2GKnD_">
+        <div class="d-print">
+          <img src="https://www.sciencepresse.qc.ca/sites/default/files/styles/small_16_9/public/2020-02/ordinateur-code.jpg?itok=Y-2GKnD_" alt="ordinateur-code">
+        </div>
+              </a>
+
+    </div>
+  </div>
+
+  <div class="col-xs-8">
+    <a href="/actualite/2023/08/30/chatgpt-lignes-code-pour-contourner-regles" class="link-dark font-weight-bold">
+<span>ChatGPT: les lignes de code pour contourner les r&egrave;gles</span>
+</a>
+    <div class="small text-muted">Mercredi 30 ao&ucirc;t 2023</div>
+  </div>
+</article>
+</li><li>
+
+<article class="node node--id-16802 row article article--promoted article--media-content">
+
+  <div class="col-xs-4">
+    <div class="aspect-ratio aspect-ratio-16-9 aspect-ratio-zoom-fx rounded">
+
+      <a href="/actualite/2023/07/26/chatgpt-fausses-infos-ne-ameliore-ne-sait-pourquoi" class="bg-img lazy" data-bg="https://www.sciencepresse.qc.ca/sites/default/files/styles/small_16_9/public/2023-03/ChatGPT.jpg?itok=UQMtrSOs">
+        <div class="d-print">
+          <img src="https://www.sciencepresse.qc.ca/sites/default/files/styles/small_16_9/public/2023-03/ChatGPT.jpg?itok=UQMtrSOs" alt="ChatGPT.jpg">
+        </div>
+              </a>
+
+    </div>
+  </div>
+
+  <div class="col-xs-8">
+    <a href="/actualite/2023/07/26/chatgpt-fausses-infos-ne-ameliore-ne-sait-pourquoi" class="link-dark font-weight-bold">
+<span>ChatGPT et les fausses infos: &ccedil;a ne s&rsquo;am&eacute;liore pas, et on ne sait pas pourquoi</span>
+</a>
+    <div class="small text-muted">Mercredi 26 juillet 2023</div>
+  </div>
+</article>
+</li></ol>
+      </div>
+</div>
+
+  
+</article>
+
+<div class="block block--articlesgrid">
+  
+    
+  <div class="block__content">
+          <div data-info="empty-articlesgrid"></div>
+      </div>
+</div>
+
+
+              </main>
+
+    
+          <div class="content-sub region">
+                    <div class="container block block--suggestions">
+
+  
+    
+
+  <div class="block__content">
+    
+    <div class="small-block-title"><a href="/technologie">Tous les articles</a>Dans la m&ecirc;me cat&eacute;gorie</div>
+
+    <div class="slider-progress"><div class="progress"></div></div>
+
+    <div class="slick">
+
+      
+        <div class="article-item">
+                      <div class="category category-6">
+              <a href="/technologie">
+                Technologie
+                              </a>
+            </div>
+                    <div class="title"><a href="/actualite/2023/12/14/plus-tard-scientifiques-experimentent-chatgpt">Un an plus tard: les scientifiques qui exp&eacute;rimentent ChatGPT</a></div>
+                      <div class="author"><a href="/users/asp"> Agence Science-Presse</a></div>
+                  </div>
+
+      
+        <div class="article-item">
+                      <div class="category category-6">
+              <a href="/technologie">
+                Technologie
+                              </a>
+            </div>
+                    <div class="title"><a href="/actualite/2023/11/28/ia-peut-aussi-fabriquer-donnees-trompeuses">L&rsquo;IA peut aussi fabriquer des donn&eacute;es trompeuses</a></div>
+                      <div class="author"><a href="/users/asp"> Agence Science-Presse</a></div>
+                  </div>
+
+      
+        <div class="article-item">
+                      <div class="category category-6">
+              <a href="/technologie">
+                Technologie
+                              </a>
+            </div>
+                    <div class="title"><a href="/actualite/2023/11/24/ia-pour-ranger-linge">L&rsquo;IA pour ranger le linge?</a></div>
+                      <div class="author"><a href="/users/asp"> Agence Science-Presse</a></div>
+                  </div>
+
+      
+        <div class="article-item">
+                      <div class="category category-6">
+              <a href="/technologie">
+                Technologie
+                              </a>
+            </div>
+                    <div class="title"><a href="/blogue/materiaux-action/2023/11/08/impression-3d-semi-conducteurs-organiques">Impression 3D de semi-conducteurs organiques</a></div>
+                      <div class="author"><a href="/users/valerie-levee">Val&eacute;rie Lev&eacute;e</a></div>
+                  </div>
+
+      
+        <div class="article-item">
+                      <div class="category category-6">
+              <a href="/technologie">
+                Technologie
+                              </a>
+            </div>
+                    <div class="title"><a href="/actualite/detecteur-rumeurs/2023/11/07/risquees-armes-controlees-ia-faut-savoir">Risqu&eacute;es, les armes contr&ocirc;l&eacute;es par l&rsquo;IA? Ce qu&rsquo;il faut savoir</a></div>
+                      <div class="author"><a href="/user/4542">Kathleen Couillard</a></div>
+                  </div>
+
+      
+        <div class="article-item">
+                      <div class="category category-6">
+              <a href="/technologie">
+                Technologie
+                              </a>
+            </div>
+                    <div class="title"><a href="/blogue/2023/11/04/quand-aile-chauve-souris-inspire-premier-avion">Quand l&rsquo;aile de la chauve-souris inspire le premier avion</a></div>
+                      <div class="author"><a href="/users/eric-leeuwerck"> Eric Leeuwerck</a></div>
+                  </div>
+
+      
+        <div class="article-item">
+                      <div class="category category-6">
+              <a href="/technologie">
+                Technologie
+                              </a>
+            </div>
+                    <div class="title"><a href="/actualite/2023/11/03/declaration-ia-percee-feu-paille">D&eacute;claration sur l&rsquo;IA: perc&eacute;e ou feu de paille?</a></div>
+                      <div class="author"><a href="/users/pascal"> Pascal Lapointe</a></div>
+                  </div>
+
+      
+        <div class="article-item">
+                      <div class="category category-6">
+              <a href="/technologie">
+                Technologie
+                              </a>
+            </div>
+                    <div class="title"><a href="/actualite/2023/11/01/applications-telephones-protegent-moins-aines">Les applications des t&eacute;l&eacute;phones prot&egrave;gent moins les a&icirc;n&eacute;s</a></div>
+                      <div class="author"><a href="/users/isabelle-burgun">Isabelle Burgun</a></div>
+                  </div>
+
+      
+        <div class="article-item">
+                      <div class="category category-6">
+              <a href="/technologie">
+                Technologie
+                              </a>
+            </div>
+                    <div class="title"><a href="/actualite/detecteur-rumeurs/2023/10/26/votre-telephone-ecoute-6-choses-savoir">Votre t&eacute;l&eacute;phone vous &eacute;coute-t-il&thinsp;? 6 choses &agrave; savoir</a></div>
+                      <div class="author"><a href="/user/4584">Catherine Couturier</a></div>
+                  </div>
+
+      
+        <div class="article-item">
+                      <div class="category category-6">
+              <a href="/technologie">
+                Technologie
+                              </a>
+            </div>
+                    <div class="title"><a href="/actualite/2023/10/19/quand-scientifiques-preferent-jugements-chatgpt">Quand des scientifiques pr&eacute;f&egrave;rent les jugements de ChatGPT</a></div>
+                      <div class="author"><a href="/users/asp"> Agence Science-Presse</a></div>
+                  </div>
+
+      
+        <div class="article-item">
+                      <div class="category category-6">
+              <a href="/technologie">
+                Technologie
+                              </a>
+            </div>
+                    <div class="title"><a href="/actualite/2023/10/02/scientifiques-face-ia-optimistes-pessimistes">Les scientifiques face &agrave; l&rsquo;IA: optimistes ou pessimistes?</a></div>
+                      <div class="author"><a href="/users/asp"> Agence Science-Presse</a></div>
+                  </div>
+
+      
+        <div class="article-item">
+                      <div class="category category-6">
+              <a href="/technologie">
+                Technologie
+                              </a>
+            </div>
+                    <div class="title"><a href="/actualite/2023/09/28/ia-conseillere-scientifique">L&rsquo;IA, une conseill&egrave;re scientifique?</a></div>
+                      <div class="author"><a href="/users/pascal"> Pascal Lapointe</a></div>
+                  </div>
+
+      
+        <div class="article-item">
+                      <div class="category category-6">
+              <a href="/technologie">
+                Technologie
+                              </a>
+            </div>
+                    <div class="title"><a href="/blogue/raymond-fournier/2023/09/08/curieuse-conversation-intelligence-artificielle">&laquo; Curieuse conversation sur l&rsquo;Intelligence artificielle &raquo;</a></div>
+                      <div class="author"><a href="/user/4575">Raymond Fournier</a></div>
+                  </div>
+
+      
+        <div class="article-item">
+                      <div class="category category-6">
+              <a href="/technologie">
+                Technologie
+                              </a>
+            </div>
+                    <div class="title"><a href="/actualite/2023/08/30/chatgpt-lignes-code-pour-contourner-regles">ChatGPT: les lignes de code pour contourner les r&egrave;gles</a></div>
+                      <div class="author"><a href="/users/asp"> Agence Science-Presse</a></div>
+                  </div>
+
+      
+        <div class="article-item">
+                      <div class="category category-6">
+              <a href="/technologie">
+                Technologie
+                              </a>
+            </div>
+                    <div class="title"><a href="/actualite/2023/07/26/chatgpt-fausses-infos-ne-ameliore-ne-sait-pourquoi">ChatGPT et les fausses infos: &ccedil;a ne s&rsquo;am&eacute;liore pas, et on ne sait pas pourquoi</a></div>
+                      <div class="author"><a href="/users/pascal"> Pascal Lapointe</a></div>
+                  </div>
+
+      
+    </div>
+
+
+
+  </div>
+</div>
+
+
+
+              </div>
+    
+  
+  
+  <footer role="footer" class="footer region">
+    <div class="container clearfix">
+          <div class="block block--pieddepage">
+  
+    
+  <div class="block__content">
+            <div class="footer-articles">
+    <div class="small-block-title"><a href="/recherche">Tous les articles</a>Articles r&eacute;cents</div>
+    <div class="views-element-container block block--views-block--pied-de-page-block-1">
+  
+    
+  <div class="block__content">
+          <div><div class="view view-pied-de-page view-id-pied_de_page view-display-id-block_1 js-view-dom-id-02076c35d369f0b9a76e3673d29460bacb717d2c3f9b163179c79dfefc1a833f">
+  
+    
+      
+      <div class="view-content">
+      
+<div><article class="node node--id-16736 article article--promoted article--liste-simple article-item"><div class="category category-1"><div class="article__field-categorie"><a href="/astronomie-espace" hreflang="fr">Astronomie/espace</a></div></div><div class="title category-1"><a href="/actualite/2023/06/16/ingredients-pour-vie-reunis-autour-saturne"><span>Les ingr&eacute;dients pour de la vie r&eacute;unis autour de Saturne</span></a></div><div class="author"><span><a title="Voir le profil utilisateur." href="/users/asp"> Agence Science-Presse</a></span></div></article><article class="node node--id-16827 article article--promoted article--liste-simple article-item"><div class="category category-123"><div class="article__field-categorie"><a href="/societe" hreflang="fr">Soci&eacute;t&eacute;</a></div></div><div class="title category-123"><a href="/actualite/2023/08/29/propulseur-egalite-sexes-prehistorique"><span>Le propulseur et l&rsquo;&eacute;galit&eacute; des sexes pr&eacute;historique</span></a></div><div class="author"><span><a title="Voir le profil utilisateur." href="/users/asp"> Agence Science-Presse</a></span></div></article><article class="node node--id-16675 article article--promoted article--sticky article--liste-simple article-item"><div class="category category-123"><div class="article__field-categorie"><a href="/societe" hreflang="fr">Soci&eacute;t&eacute;</a></div></div><div class="title category-123"><a href="/actualite/2023/05/10/acfas-avancee-pauvrete-recul-sante"><span>Acfas: Avanc&eacute;e de la pauvret&eacute;, recul de la sant&eacute;</span></a></div><div class="author"><span><a title="Voir le profil utilisateur." href="/users/isabelle-burgun">Isabelle Burgun</a></span></div></article></div>
+    </div>
+  
+  
+      
+</div>
+</div>
+
+      </div>
+</div>
+
+  </div>
+
+<div class="block block--pieddepage">
+  <div class="block__content">
+
+    <div class="footer-links"><a href="/" title="Accueil"><svg xmlns="http://www.w3.org/2000/svg" width="49.833" height="49.689" viewbox="0 0 49.833 49.689"><g fill="#fff"><path d="M42.656 27.144c-.266-.248-.567-.434-.903-.558-.336-.124-.682-.187-1.036-.187h-3.4c-.177 0-.266.089-.266.267v5.312c0 .178.088.266.266.266h3.4c.354 0 .7-.062 1.036-.186.336-.124.638-.31.903-.558s.482-.554.651-.917c.168-.362.252-.783.252-1.262 0-.478-.084-.898-.252-1.262-.169-.361-.386-.667-.651-.915zM11.592 27.093c-.124.001-.211.099-.264.292l-2.128 7.167h4.783l-2.127-7.168c-.053-.193-.141-.29-.264-.291zM46.907.677h-43.98c-1.202 0-2.177.975-2.177 2.177v43.98c0 1.202.975 2.177 2.177 2.177h43.98c1.202 0 2.177-.975 2.177-2.177v-43.979c0-1.203-.975-2.178-2.177-2.178zm-28.578 41.396h-1.302c-.478 0-.876-.212-1-.638l-1.332-4.487h-6.206l-1.332 4.487c-.124.426-.425.638-.902.638h-1.302c-.514 0-.7-.247-.558-.743l3.513-10.979 1.796-5.623c.089-.283.306-.474.457-.571.151-.097.35-.146.598-.146h1.8619999999999999c.248 0 .447.049.597.146s.172.288.261.571l1.796 5.623 3.61 10.979c.143.496-.043.743-.556.743zm12.018-2.839c-.283.603-.673 1.129-1.168 1.58-.496.452-1.076.815-1.74 1.089-.664.274-1.368.412-2.112.412-1.205 0-2.147-.182-2.829-.544-.682-.363-1.28-.828-1.793-1.396-.142-.141-.222-.318-.239-.531-.018-.212.062-.406.239-.584l.584-.584c.177-.177.368-.257.571-.239.203.018.385.098.544.239l.479.411c.177.15.38.288.61.412s.496.226.797.305c.301.08.646.12 1.036.12.85 0 1.549-.234 2.099-.704.548-.469.823-1.058.823-1.767 0-.797-.244-1.434-.73-1.912-.487-.478-1.262-.974-2.324-1.487-.673-.319-1.28-.655-1.82-1.01-.54-.354-1.005-.752-1.394-1.195-.39-.442-.687-.942-.89-1.501-.204-.558-.305-1.198-.305-1.925 0-.603.115-1.187.345-1.753.23-.567.566-1.067 1.009-1.501.442-.434.978-.784 1.607-1.05.628-.265 1.333-.398 2.112-.398 1.009 0 1.873.195 2.59.585.717.389 1.288.797 1.713 1.222.372.372.372.743 0 1.115l-.611.638c-.177.177-.345.271-.504.279s-.346-.084-.558-.279c-.23-.212-.585-.46-1.062-.743-.478-.283-1.001-.426-1.567-.426-.39 0-.748.066-1.076.199-.328.133-.611.306-.85.519-.239.212-.425.456-.558.73-.132.274-.199.562-.199.863 0 .39.057.734.172 1.036.115.301.292.58.531.836.239.257.549.501.93.73.38.23.845.461 1.395.69.726.319 1.372.655 1.939 1.01.566.354 1.044.748 1.434 1.182.389.435.686.931.89 1.487.203.559.306 1.2.306 1.926-.001.675-.143 1.313-.426 1.914zm15.324-7.866c-.275.638-.642 1.199-1.103 1.687-.461.487-1.009.872-1.647 1.155s-1.311.425-2.019.425h-3.586c-.177 0-.266.089-.266.266v6.379c0 .248-.071.442-.213.584s-.336.213-.584.213h-.93c-.248 0-.443-.071-.584-.213-.142-.142-.213-.336-.213-.584v-16.473c0-.248.071-.442.213-.584.141-.142.336-.212.584-.212h5.578c.708 0 1.381.142 2.019.425s1.186.668 1.647 1.155c.46.487.827 1.054 1.103 1.699.274.647.412 1.324.412 2.032.001.727-.137 1.408-.411 2.046z"></path></g></svg></a><div class="under-logo"><a href="/contactez-nous" class="btn btn-teal btn-full" title="Contactez-nous">Contactez-nous</a><div class="social-title">Suivez-nous</div><ul class="social"><li><a target="_blank" href="https://www.facebook.com/AgenceSciencePresse" title="Facebook"><i class="fa fa-facebook"></i></a></li><li><a target="_blank" href="https://twitter.com/SciencePresse" title="Twitter"><i class="fa fa-twitter"></i></a></li><li><a target="_blank" href="https://www.youtube.com/channel/UCChejCvhKP3ME33KEBQ8zag" title="Youtube"><i class="fa fa-youtube-play"></i></a></li><li><a target="_blank" href="/rss.xml" title="Rss"><i class="fa fa-rss"></i></a></li></ul><a href="https://www.poynter.org/ifcn/" target="_blank" rel="nofollow" title="International Fact-Checking Network"><img src="/modules/custom/kiwad_blocks/img/IFCN.png?1" alt="Logo de l'International Fact-Checking Network" class="img-fluid my-3" style="max-height: 10rem"></a></div></div>
+    <div class="footer-menu">
+      
+              <ul class="nav navbar-nav">
+                                                                      <li class="lilink--actualites">
+            <i class="fa fa-chevron-right"></i>
+            <a href="/actualites" data-drupal-link-system-path="taxonomy/term/120">Actualit&eacute;s</a>
+                  </li>
+                                                                  <li class="lilink--detecteur-rumeurs">
+            <i class="fa fa-chevron-right"></i>
+            <a href="/detecteur-rumeurs" data-drupal-link-system-path="taxonomy/term/510">D&eacute;tecteur de rumeurs</a>
+                  </li>
+                                                                  <li class="lilink--education-aux-medias-information">
+            <i class="fa fa-chevron-right"></i>
+            <a href="/education-aux-medias-information" data-drupal-link-system-path="node/14918">&Eacute;ducation aux m&eacute;dias et &agrave; l'information</a>
+                  </li>
+                                                                  <li class="lilink--zone-radio">
+            <i class="fa fa-chevron-right"></i>
+            <a href="/zone_radio">Zone Balado et Je vote pour la science</a>
+                  </li>
+                                                                  <li class="lilink--zone-video">
+            <i class="fa fa-chevron-right"></i>
+            <a href="/zone_video" data-drupal-link-system-path="node/14904">Zone Vid&eacute;o</a>
+                  </li>
+                                                                  <li class="lilink--nos-services">
+            <i class="fa fa-chevron-right"></i>
+            <a href="/nos-services" title="Services de l'ASP" data-drupal-link-system-path="node/14924">Formations et services</a>
+                  </li>
+                                                                  <li class="lilink--blogues">
+            <i class="fa fa-chevron-right"></i>
+            <a href="/blogues" data-drupal-link-system-path="taxonomy/term/121">Blogues</a>
+                  </li>
+                                                                  <li class="lilink--equipe">
+            <i class="fa fa-chevron-right"></i>
+            <a href="/equipe" data-drupal-link-system-path="node/13611">&Eacute;quipe</a>
+                  </li>
+                                                                  <li class="lilink--agence">
+            <i class="fa fa-chevron-right"></i>
+            <a href="/agence" data-drupal-link-system-path="node/2">&Agrave; propos</a>
+                  </li>
+          </ul>
+  
+
+
+    </div>
+
+  </div>
+</div>
+
+      </div>
+</div>
+<div class="container block block--logosdespartenaires">
+
+  <div class="block__content">
+
+    <div class="logos-partenaires">
+
+      
+              <h4 class="block__title">Partenaire</h4>
+            
+
+      <a href="https://www.quebec.ca/" target="_blank" title="Gouvernement du Qu&eacute;bec">
+        <img src="/themes/custom/asp/assets/images/quebec/quebec_renv.svg" alt="Logo du Gouvernement du Qu&eacute;bec">
+      </a>
+
+    </div>
+
+          
+      </div>
+</div>
+
+
+    </div>
+  </footer>
+
+  <div class="footer-sub region">
+    <div class="container clearfix">
+          <div class="clearfix">
+  <div class="block block--footersub">
+    <span>2023 &copy; Agence Science-Presse</span>
+          <a href="/user/login" class="footer-sub-link">Connexion</a>
+    
+  </div>
+
+  <div class="credit-kiwad">
+    <span>Site d&eacute;velopp&eacute; par</span> <a href="http://kiwad.com" rel="nofollow" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" width="71" height="30" viewbox="0 0 71 30"><path fill="#fff" d="M29.648 15l-6.522-6.522 1.631-1.63-1.63-1.632-1.631 1.631-6.522-6.522-6.523 6.522-1.63-1.63-1.631 1.63 1.63 1.63-6.522 6.523 6.523 6.522-1.63 1.63 1.629 1.632 1.632-1.632 6.523 6.522 6.521-6.521 1.631 1.631 1.63-1.632-1.63-1.63 6.521-6.522zm-14.674 11.415l-4.892-4.892 1.47-1.63 1.948 2.107v-6h-5.527l2.108 2.186-1.63 1.668-4.892-4.873 4.892-4.882 1.63 1.711-2.108 2.19h5.527v-6l-1.948 2.108-1.551-1.63 4.933-4.893 4.912 4.892-1.62 1.631-2.104-2.032.006 5.924h5.845l-2.107-2.186 1.63-1.668 4.892 4.873-4.892 4.882-1.63-1.711 2.109-2.19h-5.475v6l1.921-2.108 1.537 1.63-4.984 4.893zM38.567 19.257l-1.49-3.405-.519.744v2.662h-2.3v-8.514h2.3v3.285l2.169-3.285h2.487l-2.394 3.405 2.554 5.108h-2.807zM41.983 19.257v-8.514h2.302v8.514h-2.302zM53.833 19.257h-2.21l-.957-3.246-.851 3.246h-2.208l-2.555-8.514h2.408l1.424 5.693.851-3.447-.637-2.246h2.394l1.409 5.693 1.304-5.693h2.168l-2.54 8.514zM60.703 19.257l-.401-1.676h-2.367l-.401 1.676h-2.167l2.54-8.528h2.662l2.634 8.528h-2.5zm-1.571-6.652l-.785 3.287h1.556l-.771-3.287zM66.937 19.257h-2.966v-8.514h2.86c2.367 0 3.871 1.249 3.871 4.043 0 3.207-1.318 4.471-3.765 4.471zm-.293-6.798h-.374v5.082h.374c1.01 0 1.649-.598 1.649-2.701 0-1.889-.532-2.381-1.649-2.381z"></path></svg></a>
+  </div>
+</div>
+<div class="block block--mobilemenu">
+      
+              <ul class="nav navbar-nav">
+                                                                      <li class="lilink--actualites">
+            <i class="fa fa-chevron-right"></i>
+            <a href="/actualites" data-drupal-link-system-path="taxonomy/term/120">Actualit&eacute;s</a>
+                  </li>
+                                                                  <li class="lilink--detecteur-rumeurs">
+            <i class="fa fa-chevron-right"></i>
+            <a href="/detecteur-rumeurs" data-drupal-link-system-path="taxonomy/term/510">D&eacute;tecteur de rumeurs</a>
+                  </li>
+                                                                  <li class="lilink--education-aux-medias-information">
+            <i class="fa fa-chevron-right"></i>
+            <a href="/education-aux-medias-information" data-drupal-link-system-path="node/14918">&Eacute;ducation aux m&eacute;dias et &agrave; l'information</a>
+                  </li>
+                                                                  <li class="lilink--zone-radio">
+            <i class="fa fa-chevron-right"></i>
+            <a href="/zone_radio">Zone Balado et Je vote pour la science</a>
+                  </li>
+                                                                  <li class="lilink--zone-video">
+            <i class="fa fa-chevron-right"></i>
+            <a href="/zone_video" data-drupal-link-system-path="node/14904">Zone Vid&eacute;o</a>
+                  </li>
+                                                                  <li class="lilink--nos-services">
+            <i class="fa fa-chevron-right"></i>
+            <a href="/nos-services" title="Services de l'ASP" data-drupal-link-system-path="node/14924">Formations et services</a>
+                  </li>
+                                                                  <li class="lilink--blogues">
+            <i class="fa fa-chevron-right"></i>
+            <a href="/blogues" data-drupal-link-system-path="taxonomy/term/121">Blogues</a>
+                  </li>
+                                                                  <li class="lilink--equipe">
+            <i class="fa fa-chevron-right"></i>
+            <a href="/equipe" data-drupal-link-system-path="node/13611">&Eacute;quipe</a>
+                  </li>
+                                                                  <li class="lilink--agence">
+            <i class="fa fa-chevron-right"></i>
+            <a href="/agence" data-drupal-link-system-path="node/2">&Agrave; propos</a>
+                  </li>
+          </ul>
+  
+
+
+  
+  <div class="mobile-menu-misc">
+
+    <a href="/contact" data-mfp-src="#newsletter-popup" class="aaaa btn btn-full newsletter popup" title="Abonnez-vous">
+      <i aria-hidden="true" class="fa fa-envelope-o"></i>
+      <span>Abonnez-vous</span>
+    </a>
+/
+    <a href="/recherche" class="btn btn-full research" title="Recherche">
+      <i class="fa fa-search" aria-hidden="true"></i>
+      <span>Rechercher</span>
+    </a>
+
+          <a href="/user/login" class="user-login">
+        <span>Connexion <i class="fa fa-sign-in" aria-hidden="true"></i></span>
+      </a>
+    
+  </div>
+
+
+
+
+</div>
+<div style="background-color:#000000" class="block block--patreonpopup">
+  
+    
+  <div class="block__content">
+          <div><a href="/soutien"><picture><source media="(max-width: 768px)" srcset="/modules/custom/kiwad_blocks/img/Bandeau_45a_11.png?2" height="1440" width="1440"><img src="/modules/custom/kiwad_blocks/img/Bandeau_45a_3333_1.png?2" height="460" width="1840" alt="Je donne" class="img-fluid" style="height: auto;"></source></picture></a><div class="close-btn">&times;</div></div>
+
+      </div>
+</div>
+
+
+    </div>
+  </div>
+
+</div>
+  </div>
+
+
+<script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/16917","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"fr"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"ajax_loader\/ajax_loader.throbber,asp\/base,extlink\/drupal.extlink,kwd_paragraphs\/base,paragraphs\/drupal.paragraphs.unpublished,radioactivity\/triggers,radix\/bootstrap,radix\/script,radix\/style,social_media\/basic,system\/base,views\/views.module","theme":"asp","theme_token":null},"ajaxTrustedUrl":[],"ajaxLoader":{"markup":"\u003Cdiv class=\u0022ajax-throbber sk-bounce\u0022\u003E\n              \u003Cdiv class=\u0022sk-bounce-dot\u0022\u003E\u003C\/div\u003E\n              \u003Cdiv class=\u0022sk-bounce-dot\u0022\u003E\u003C\/div\u003E\n            \u003C\/div\u003E","hideAjaxMessage":false,"alwaysFullscreen":true,"throbberPosition":".page-wrapper"},"data":{"extlink":{"extTarget":true,"extTargetNoOverride":false,"extNofollow":false,"extNoreferrer":false,"extFollowNoOverride":false,"extClass":"0","extLabel":"(le lien est externe)","extImgClass":false,"extSubdomains":false,"extExclude":"","extInclude":"","extCssExclude":"a.track-click[href*=\u0022eepurl.com\u0022]","extCssExplicit":"","extAlert":false,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":"0","mailtoLabel":"(link sends email)","extUseFontAwesome":false,"extIconPlacement":"append","extFaLinkClasses":"fa fa-external-link","extFaMailtoClasses":"fa fa-envelope-o","whitelistedDomains":null}},"radioactivity":{"type":"default","endpoint":"https:\/\/www.sciencepresse.qc.ca\/radioactivity\/emit"},"ra_emit_0":"{\u0022fn\u0022:\u0022field_energy\u0022,\u0022et\u0022:\u0022node\u0022,\u0022id\u0022:\u002216917\u0022,\u0022ti\u0022:\u002287\u0022,\u0022e\u0022:10,\u0022h\u0022:\u002220a3b20faa89d0957687107caf2c13b9f16b0b51\u0022}","user":{"uid":0,"permissionsHash":"53f4a4d20a012148bafb88e5ab6481e8bf4beb6a2eade99efac931c2f8aa0802"}}</script>
+<script src="/sites/default/files/js/js_Hstao3pPROIItnZN1nBLQr1zgc69LCAB1rHMtVVy1z4.js?scope=footer&amp;delta=0&amp;language=fr&amp;theme=asp&amp;include=eJxdj2uOwzAIhC9kxUeKsE0dtk5AgNNkT7-td1NV-wd9w0MzZFaMRbtAm0S5KpoF-IJjbgwFNX7w5ItySqjBTnNcYwLDoFDoiOZnuzgxu7mCXLOsJB7AJNYbb24DMyh3wzaEsHQZtHKihitufcjnAubf2wbf54Bhi4c32u5X9j85HBmy005-RleqFdWCcSZo84qF4HVPOQgo1GfIxd7_vztT36SnRrZgCfdHmT-Wb-Q7FfvfHqF2wofFUaeVS2_4Ay3biP4"></script>
+
+</drupal-big-pipe-scripts-bottom-marker></drupal-big-pipe-scripts-bottom-marker></body>
+</html>
