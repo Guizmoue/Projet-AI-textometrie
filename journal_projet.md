@@ -89,3 +89,14 @@ Creation d'un script, nomme script_generateur_tableaux.sh, qui integre dans la p
 ### Difficultés
 
 Les points noires sont les conflits entre local et serveur git. Dans le cas ou, suite a des mofifications en local alors que l'utilisateur a 2 commits de retards sur le serveur. Nous avons experiente la solution suivantes : premierement entrez la commande git stash qui va retirer et enregistrer les fichiers modifies non valides. Deuxiement, l'utilisateur doit mettre a jour son git pour rattraper son retard a l'aide des commandes : git add, git commit et git pull. Enfin, on reintegre les fichiers avec la commande git stash apply que l'on add et commit avant de push.
+
+
+## Semaine 15
+
+### Plan
+
+Analyse des resultats et rédaction pour le rendu final.
+
+### Site Web
+
+Mise en place d'un canal de communication avec les internautes. Grâce à l'onglet CONTACTEZ-NOUS, il est possible d'envoyer un message à l'équipe par le biais d'une boite email. Cette fonctionnalité est géré par les fichiers question.html et question.js.
