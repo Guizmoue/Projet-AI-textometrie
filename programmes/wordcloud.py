@@ -31,21 +31,21 @@ from wordcloud import WordCloud, ImageColorGenerator
 # get data directory (using getcwd() is needed to support running example in generated IPython notebook)
 d = path.dirname(__file__) if "__file__" in locals() else os.getcwd()
 
-stopwords_path = d + '/itrameur/stopwords-fr.txt' # le chemin stopwords
+stopwords_path = d + '../itrameur/stopwords-fr.txt' # le chemin stopwords
 # Chinese fonts must be set
-font_path = d + '/itrameur/SourceHanSerifSC-Regular.otf' # le chemin de la police
+font_path = d + '../itrameur/SourceHanSerifSC-Regular.otf' # le chemin de la police
 
 # the path to save worldcloud
 """tu peux remplacer ça par un masque. Le masque principal en noir et blanc (tons de gris). 
 Ce masque détermine la forme générale du nuage de mots."""
-imgname1 = d + '/itrameur/fond_fr.jpg' 
+imgname1 = d + '../itrameur/fond_fr.jpg' 
 # ça normalement c'est le chemin de sortie
-imgname2 = d + '/itrameur/fond_fr_colored.jpg'
+imgname2 = d + '../itrameur/fond_fr_colored.jpg'
 # read the mask / color image taken from
-back_coloring = imread(path.join(d, d + '/itrameur/fond_cn_couleur.jpg')) # C'est le chemin vers le masque en couleur. Ce masque est utilisé pour la coloration du nuage de mots.
+back_coloring = imread(path.join(d, d + '../itrameur/fond_cn_couleur.jpg')) # C'est le chemin vers le masque en couleur. Ce masque est utilisé pour la coloration du nuage de mots.
 
 # Read the whole text.
-text = open(path.join(d, d + '/itrameur/source_nuage_fr.txt')).read() # le chemin d'input
+text = open(path.join(d, d + '../itrameur/source_nuage_fr.txt')).read() # le chemin d'input
 
 # if you want use wordCloud,you need it
 # add userdict by add_word()
