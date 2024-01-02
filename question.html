@@ -21,7 +21,7 @@
   <body>
     <div class="container bg-light">
     <h2 class="text-secondary fw-bold text-center p-4 bg-light">CONTACTEZ-NOUS</h2>
-      <form  action="#" method="post" onsubmit="sendMail(); return false;">
+      <form  id="myForm" action="#" method="post">
         <div class="container">
             <hr><br>
 
@@ -97,6 +97,12 @@
         <p class="text-end" >Les champs suivis d'un <span class="text-danger">*</span> sont obligatoires.</p>
         </div>
       </form>
+      <script>
+        document.getElementById("myForm").addEventListener("submit", function(event) {
+          event.preventDefault(); // Empêche la soumission par défaut du formulaire
+          sendMail(); // Appelle la fonction sendMail()
+        });
+      </script>
     </div>
   </body>
 </html>
