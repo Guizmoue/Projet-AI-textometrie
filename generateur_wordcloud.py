@@ -42,7 +42,7 @@ imgname1 = d + '/itrameur/fond_fr.jpg'
 # ça normalement c'est le chemin de sortie
 imgname2 = d + '/itrameur/fond_fr_colored.jpg'
 # read the mask / color image taken from
-back_coloring = imread(path.join(d, d + '/itrameur/fond_cn_couleur.jpg')) # C'est le chemin vers le masque en couleur. Ce masque est utilisé pour la coloration du nuage de mots.
+back_coloring = imread(path.join(d, d + '/itrameur/couleurs_de_fond.jpg')) # C'est le chemin vers le masque en couleur. Ce masque est utilisé pour la coloration du nuage de mots.
 
 # Read the whole text.
 text = open(path.join(d, d + '/itrameur/source_nuage_fr.txt')).read() # le chemin d'input
