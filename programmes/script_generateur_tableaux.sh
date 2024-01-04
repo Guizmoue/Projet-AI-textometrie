@@ -74,11 +74,11 @@ echo -e '<!DOCTYPE html>
             </div>
             <h4 class="text-warning">Français</h4>' > $PAGE_WEB
 cat  $TAB_FR >> $PAGE_WEB
-echo -e "<h4 class="text-warning">Anglais</h4>" >> $PAGE_WEB
+echo -e "\t\t\t<h4 class="text-warning">Anglais</h4>" >> $PAGE_WEB
 cat  $TAB_EN >> $PAGE_WEB
-echo -e "<h4 class="text-warning">Chinois</h4>" >> $PAGE_WEB
+echo -e "\t\t\t<h4 class="text-warning">Chinois</h4>" >> $PAGE_WEB
 cat  $TAB_CN >> $PAGE_WEB
-echo -e '</div>
+echo -e '\t\t</div>
         <footer class="bg-secondary">
             <div class="container">
                 <div class="row">
