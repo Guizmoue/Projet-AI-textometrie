@@ -3,7 +3,7 @@ Ce programme permet d'ouvrir un fichier texte et de remplacer toutes les occurre
 '''
 
 def replaceAI(source, destination) : 
-    '''Cette fonction permet de remplacer les différentes variantes de "intelligence artificielle"'''
+    '''Cette fonction permet de remplacer les différentes variantes de "artificial intelligence" par "artificialintelligence"'''
     with open(source) as s : 
         content = s.read()
     #modified_content = content.replace(r'\b(A|a)rtificial\s(I/i)ntelligence\b', "artificialintelligence")
