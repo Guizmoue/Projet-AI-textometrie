@@ -5,20 +5,20 @@ from PIL import Image
 import numpy as np
 
 # Chemin du texte
-text_path = '/itrameur/source_nuage_fr.txt'
+text_path = './itrameur/source_nuage_fr.txt'
 
 # Charger le texte
 text = open(text_path, encoding='utf-8').read()
 
 # Chemin du fichier de stopwords
-stopwords_path = '/itrameur/stopwords-fr.txt'
+stopwords_path = './itrameur/stopwords-fr.txt'
 
 # Charger les stopwords depuis le fichier
 with open(stopwords_path, encoding='utf-8') as f_stop:
     stopwords = set(f_stop.read().splitlines())
 
 # Chemin de l'image de fond
-background_image_path = '/itrameur/fond_cn_couleur.jpg'
+background_image_path = './itrameur/couleurs_de_fond.jpg'
 
 # Charger l'image de fond
 background_image = np.array(Image.open(background_image_path))
@@ -40,4 +40,4 @@ plt.imshow(teinte_wc, interpolation='bilinear')
 plt.axis('off')
 
 # Sauvegarder l'image teinte avec l'image de fond
-teinte_wc.to_file('/itrameur/wordcloud_teinte.png')
+teinte_wc.to_file('./itrameur/word_cloud_fr.png')
