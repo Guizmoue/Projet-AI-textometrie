@@ -3,6 +3,7 @@ Ce programme permet d'ouvrir un fichier texte et de remplacer "intelligence arti
 '''
 
 def replaceAI(source, destination) : 
+    '''Cette fonction permet de remplacer les différentes variantes de "intelligence artificielle" par "intelligenceartificielle"'''
     with open(source, 'r') as s : 
         content = s.read()
     #modified_content = content.replace(r'\b(A|a)rtificial\s(I/i)ntelligence\b', "artificialintelligence")
