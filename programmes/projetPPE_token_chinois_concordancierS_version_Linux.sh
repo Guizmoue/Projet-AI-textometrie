@@ -1,12 +1,15 @@
+# Ce programme permet de générer des tableaux html pour chaque langue, contenant l'URL, le code HTTP, l'encodage, l'aspiration, le contenu textuel, le nombre d'occurrences de notre mot-cible, ainsi que ses contextes et les concordances pour chaque URL.
+
 #!/usr/bin/env bash
 
+# vérification des arguments
 if [ $# -ne 1 ]
 then
     echo "On veut exactement un argument"
     exit
 fi
 
-cd ../URLs/ # pourquoi on a besoin d'aller dans le fichier URLs ?
+cd ../URLs/
 
 URLS="$1"
 
