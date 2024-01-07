@@ -88,10 +88,10 @@ D'ailleurs, nous avons conçus des programmes de python pour pré traiter les te
 
 Creation d'un script, nomme script_generateur_tableaux.sh, qui integre dans la page data.html les tableaux fr.html, en.html et cn.html.
 
-
 ### Difficultés
 
 Les points noires sont les conflits entre local et serveur git. Dans le cas ou, suite a des mofifications en local alors que l'utilisateur a 2 commits de retards sur le serveur. Nous avons experiente la solution suivantes : premierement entrez la commande git stash qui va retirer et enregistrer les fichiers modifies non valides. Deuxiement, l'utilisateur doit mettre a jour son git pour rattraper son retard a l'aide des commandes : git add, git commit et git pull. Enfin, on reintegre les fichiers avec la commande git stash apply que l'on add et commit avant de push.
+
 
 
 ## Semaine 15
@@ -104,4 +104,21 @@ Création des nuages de mots en filtrant les stopwords.
 
 ### Site Web
 
-Mise en place d'un canal de communication avec les internautes. Grâce à l'onglet CONTACTEZ-NOUS, il est possible d'envoyer un message à l'équipe par le biais d'une boite email. Cette fonctionnalité est géré par les fichiers question.html et question.js.
+Mise en place d'un canal de communication avec les internautes grâce aux serveurs EmailJS. Il est possible d'envoyer un message à l'équipe pour cela cliquez sur le logo email en bas gauche de la page. Cette fonctionnalité est géré par les fichiers question.html et question.js.
+
+### Difficultés
+
+Problème non résolu : Lorsque la fenêtre du navigateur est en mode pleine écran sur la page data.html tous les tableaux s'affichent correctement mais lorsque que l'on réduit la fenêtre le tableau chinois sort du cadre. Toutes les balises <div> du code html sont correctment fermées, c'est pourquoi nous n'avons pas réussi a résoudre ce problème dont la cause reste inexpliqué.
+
+
+
+## Compte-Rendu
+
+### Amandine
+Realisation du script principal pour Linux : projetPPE_token_chinois_concordancierS_version_Linux.sh, collecte des URLs pour l'anglais ainsi que redaction de l'analyse du corpus anglais. Script itrameur et worldcould.
+
+### Zhongjie
+Realisation du script principal pour Mac : projetPPE_token_chinois_concordancierS_version_Mac.sh, collecte des URLs pour le chinois ainsi que redaction de l'analyse du corpus chinois. Conclusion projet coecrite avec Guilhem. Script itrameur et worldcould.
+
+### Guilhem
+Realisation de la structure du site web. Redaction de l'introduction, problematique, definition, conclusion projet coecrite avec Zhongjie. Collecte des URLs pour le francais ainsi que redaction de l'analyse du corpus francais. Realisation du programme script_tableau.sh.
