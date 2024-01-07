@@ -28,21 +28,12 @@
             <!--Contacts-->
             <fieldset class="container">
                 <div class="row">
-                    <div class="col-2">
-                    <label for="perso_1">Civilite</label>
-                        <select class="form-select" id="perso_1">
-                            <option class selected>--Select--</option>
-                            <option value="1">Mr.</option>
-                            <option value="2">Mme.</option>
-                            <option value="3">Mx.</option>
-                        </select>   
-                    </div>
-                    <div class="col">
+                    <div class="col-6">
                         <label for="perso_2">Nom</label>
                         <input type="text" id="lastname" class="form-control" placeholder="DUBOIS">
                     </div>
-                    <div class="col">
-                        <label for="perso_3">Prenom</span></label>
+                    <div class="col-6">
+                        <label for="perso_3">Prénom</span></label>
                         <input type="text" id="firstname" class="form-control" placeholder="Hugo">
                     </div>
                 </div>
@@ -51,11 +42,11 @@
             <fieldset class="container">
                 <div class="row">
                     <div class="col-8">
-                        <label for="resa_1">Email<span class="text-danger">*</span></label>
+                        <label for="resa_1">Email</label>
                         <input type="email" id="email" class="form-control" placeholder="email@exemple.com">
                     </div>
                     <div class="col">
-                        <label for="resa_2">Telephone</span></label>
+                        <label for="resa_2">Téléphone</span></label>
                         <input type="tel" id="telephone" class="form-control" placeholder="(+33) XX XX XX XX XX">
                     </div>
                 </div>
@@ -75,26 +66,13 @@
             <div>
               <textarea class="form-control" id="message" rows="4" placeholder="Texte de votre message"></textarea>
             </div>
-          </fieldset><br>
+          </fieldset>
+          <br>
 
-          <fieldset>
-            <div class="col">
-              <div>
-                <input type="checkbox" id="box_7" class="form-check-input" value="conditions generales">
-                <label for="box_7" class="form-check-label">J'accepte les <a class="text-decoration-none" href="#">conditions generales</a>.</label>
-              </div>
-              <div class="mt-2">
-                <input type="checkbox" id="box_8" class="form-check-input" value="recherche en ligne">
-                <label for="box_8" class="form-check-label">Je souhaite recevoir la <a class="text-decoration-none" href="#">newsletter</a>.</label>
-              </div>
-            </div>
-          </fieldset><br>
-        
         <div>
-          <button type="submit" class="btn btn-primary position-relative bottom-0 start-50 translate-middle" onclick="sendMail()" >Envoyer</button>
+          <button type="submit" class="btn btn-primary position-relative bottom-0 start-50 translate-middle">Envoyer</button>
         </div>
 
-        <p class="text-end" >Les champs suivis d'un <span class="text-danger">*</span> sont obligatoires.</p>
         </div>
       </form>
       <script>
