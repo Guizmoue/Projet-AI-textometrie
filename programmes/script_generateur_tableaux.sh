@@ -1,11 +1,12 @@
 #!/usr/bin/env bash
 
+# Chemins vers les fichiers HTML
 TAB_FR="../tableaux/fr.html"
 TAB_EN="../tableaux/en.html"
 TAB_CN="../tableaux/cn.html"
-
 PAGE_WEB="../data.html"
 
+# Crée la partie initiale de la page HTML
 echo -e '<!DOCTYPE html>
 <html>
 	<head>
@@ -73,11 +74,15 @@ echo -e '<!DOCTYPE html>
                 </div>
             </div>
             <h4 class="text-warning">Français</h4>' > $PAGE_WEB
+# Concatène le contenu du tableau français à la page HTML
 cat  $TAB_FR >> $PAGE_WEB
+# Concatène le contenu du tableau anglaid à la page HTML
 echo -e "\t\t\t<h4 class="text-warning">Anglais</h4>" >> $PAGE_WEB
 cat  $TAB_EN >> $PAGE_WEB
+# Concatène le contenu du tableau chinois à la page HTML
 echo -e "\t\t\t<h4 class="text-warning">Chinois</h4>" >> $PAGE_WEB
 cat  $TAB_CN >> $PAGE_WEB
+# Complète la page HTML avec le pied de page et les balises de fermeture
 echo -e '\t\t</div>
         <footer class="bg-secondary">
             <div class="container">
