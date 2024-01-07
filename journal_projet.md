@@ -80,6 +80,9 @@ Afin de compléter le défaut de l'iTrameur, nous avons sollicité à des script
 
 ### Plan
 
+Durant cette semaine, nous avons réussi à tokeniser les textes chinois et à obtenir les concordanciers correctement affichés. Avant, il y avait des lignes de phrases en dessus des tableaux. Ce problème était surtout important dans les concordanciers chinois. Le problème était dû au motif pour la commande sed. Différent de grep, sed n'est pas capable de reconnaître certains symboles de la regex comme '?', '[]'. Si on utilise le motif de grep à sed, sed va rejeter certains motifs non reconnus et en mettent à côté, ce qui fait que ces motifs ne sont pas entrés dans les tableaux de concordancier. Donc, la solution est d'utiliser la structure '(|)' pour citer tous les motifs en recherche. Concernant les concordanciers chinois, afin de répondre à la nécessité de prendre en compte les ponctuations dans les concordanciers, nous avons cité tous les Unicodes de la plupart des ponctuations chinoises dans le motif de grep car les ponctuations chinoises sont différentes de celles du français et de l'anglais.
+
+D'ailleurs, nous avons conçus des programmes de python pour pré traiter les textes passé à l'iTrameur. Comme l'iTrameur analyse chaque fois un seul mot, nous avons collé "artificial intelligence" ensemble comme "artificialintelligence", donc "intelligenceartificielle" pour le français. Pour le chinois, l'IA est traduit à la fois en '人工智能' ou '人工智慧'. Ces deux termes sont identiques et interchangeables, et ils sont tokenisé en '人工 智能' ou '人工 智慧' par le tokeniseur. En vue de faciliter l'analyse sur iTrameur, nous avons respectivement collé '人工' et '智能', '人工' et '智慧' ensemble， puis nous avons remplacé tous les '人工智慧' par '人工智能'.
 
 ### Site Web
 
@@ -96,6 +99,8 @@ Les points noires sont les conflits entre local et serveur git. Dans le cas ou, 
 ### Plan
 
 Analyse des resultats et rédaction pour le rendu final.
+
+Création des nuages de mots en filtrant les stopwords.
 
 ### Site Web
 
